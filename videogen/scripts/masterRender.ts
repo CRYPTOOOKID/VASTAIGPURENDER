@@ -319,9 +319,9 @@ const renderAll = async (): Promise<void> => {
     return;
   }
 
-  // Parallel rendering configuration
-  const PARALLEL_RENDERS = 1;  // Number of videos to render simultaneously (reduced for Vast.ai)
-  const CONCURRENCY_PER_RENDER = '8';  // CPU cores per video (conservative to avoid EAGAIN)
+  // Parallel rendering configuration - Max CPU usage
+  const PARALLEL_RENDERS = 1;  // Number of videos to render simultaneously
+  const CONCURRENCY_PER_RENDER = '20';  // Use most CPU cores (24 total, leave 4 for system)
 
   // Set environment variable for concurrency
   process.env.RENDER_CONCURRENCY = CONCURRENCY_PER_RENDER;
