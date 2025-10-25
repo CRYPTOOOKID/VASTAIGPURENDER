@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"beat around the bush\" mean in conversation?",
+      "options": [
+        "Criticize someone's garden",
+        "Avoid the main topic",
+        "Clear vegetation slowly"
+      ],
+      "answer": "Avoid the main topic"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom fits \"someone who reveals information unintentionally\"?",
+      "options": [
+        "Let the cat out of the bag",
+        "Bite the dust",
+        "Keep a tight lid on it"
+      ],
+      "answer": "Let the cat out of the bag"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom historically connects to military drilling and discipline?",
+      "options": [
+        "Toe the line",
+        "Spill the beans",
+        "Jump on the bandwagon"
+      ],
+      "answer": "Toe the line"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"kick the bucket\" euphemistically mean?",
+      "options": [
+        "Retire early",
+        "Give up a hobby",
+        "Die"
+      ],
+      "answer": "Die"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom means \"someone avoids responsibility by blaming others\"?",
+      "options": [
+        "Shift the blame",
+        "On thin ice",
+        "Straight from the horse's mouth"
+      ],
+      "answer": "Shift the blame"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom is an example of metonymy using a related concept to represent something else?",
+      "options": [
+        "The White House announced",
+        "Go the distance",
+        "Bend over backwards"
+      ],
+      "answer": "The White House announced"
+    },
+    {
+      "question_id": 7,
+      "question": "What meaning does \"cost an arm and a leg\" convey?",
+      "options": [
+        "Require physical effort",
+        "Be very expensive",
+        "Cause bodily harm"
+      ],
+      "answer": "Be very expensive"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom best fits \"maintain composure under stress\"?",
+      "options": [
+        "Come clean",
+        "Keep a cool head",
+        "Go out on a limb"
+      ],
+      "answer": "Keep a cool head"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom is a direct calque from Latin that entered English unchanged?",
+      "options": [
+        "Beat a dead horse",
+        "Under the weather",
+        "In vino veritas"
+      ],
+      "answer": "In vino veritas"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"keep your chin up\" encourage someone to do?",
+      "options": [
+        "Maintain a good posture",
+        "Look upward physically",
+        "Stay positive during hardship"
+      ],
+      "answer": "Stay positive during hardship"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom fits \"explain something in very simple terms\"?",
+      "options": [
+        "Go out on a limb",
+        "Hit below the belt",
+        "Dumb it down"
+      ],
+      "answer": "Dumb it down"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom is an example of a zoonymic metaphor using animal imagery for behavior?",
+      "options": [
+        "Let sleeping dogs lie",
+        "Burn the midnight oil",
+        "Turn over a new leaf"
+      ],
+      "answer": "Let sleeping dogs lie"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"hit the sack\" usually mean?",
+      "options": [
+        "Start a boxing match",
+        "Punch a bag for exercise",
+        "Go to sleep"
+      ],
+      "answer": "Go to sleep"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom means \"someone consistently succeeds under pressure\"?",
+      "options": [
+        "Runs out of gas",
+        "Performs when the chips are down",
+        "Drops the ball"
+      ],
+      "answer": "Performs when the chips are down"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom best illustrates a pragmatic conversational implicature rather than literal intent?",
+      "options": [
+        "Can you pass the salt?",
+        "Get your ducks in a row",
+        "Break a leg"
+      ],
+      "answer": "Can you pass the salt?"
+    }
+  ]
+}

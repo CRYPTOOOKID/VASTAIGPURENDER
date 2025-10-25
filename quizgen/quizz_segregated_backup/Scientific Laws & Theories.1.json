@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What theory provides the foundation for modern genetics by explaining inheritance patterns?",
+      "options": [
+        "Mendelian inheritance",
+        "Cell theory",
+        "Quantum mechanics"
+      ],
+      "answer": "Mendelian inheritance"
+    },
+    {
+      "question_id": 2,
+      "question": "Which theory explains the motion of particles in thermodynamic ensembles and macroscopic properties?",
+      "options": [
+        "Statistical mechanics",
+        "Kinetic theory",
+        "Classical mechanics"
+      ],
+      "answer": "Statistical mechanics"
+    },
+    {
+      "question_id": 3,
+      "question": "Which criterion in statistics helps decide model selection penalizing complexity and maximizing likelihood?",
+      "options": [
+        "Akaike information criterion",
+        "Bayes factor",
+        "Chi-squared test"
+      ],
+      "answer": "Akaike information criterion"
+    },
+    {
+      "question_id": 4,
+      "question": "Which law describes how current, voltage, and resistance relate in an electrical circuit?",
+      "options": [
+        "Ohm's law",
+        "Kirchhoff's law",
+        "Faraday's law"
+      ],
+      "answer": "Ohm's law"
+    },
+    {
+      "question_id": 5,
+      "question": "Which theory introduced quantized energy levels to explain blackbody radiation?",
+      "options": [
+        "Planck's quantum theory",
+        "Classical wave theory",
+        "Relativistic mechanics"
+      ],
+      "answer": "Planck's quantum theory"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept explains how gauge symmetry breaking leads to massive vector bosons in particle physics?",
+      "options": [
+        "Higgs mechanism",
+        "Spontaneous emission",
+        "Chiral symmetry breaking"
+      ],
+      "answer": "Higgs mechanism"
+    },
+    {
+      "question_id": 7,
+      "question": "Which law describes how orbiting planets sweep equal areas in equal times?",
+      "options": [
+        "Kepler's second law",
+        "Kepler's first law",
+        "Kepler's third law"
+      ],
+      "answer": "Kepler's second law"
+    },
+    {
+      "question_id": 8,
+      "question": "Which law relates changes in ligand concentration to receptor occupancy in pharmacology and biochemistry?",
+      "options": [
+        "Michaelis–Menten formalism",
+        "Langmuir isotherm",
+        "Beer–Lambert law"
+      ],
+      "answer": "Langmuir isotherm"
+    },
+    {
+      "question_id": 9,
+      "question": "Which principle justifies using ensemble averages to predict thermodynamic properties of large systems?",
+      "options": [
+        "Ergodic hypothesis",
+        "Correspondence principle",
+        "Equipartition theorem"
+      ],
+      "answer": "Ergodic hypothesis"
+    },
+    {
+      "question_id": 10,
+      "question": "Which law states that accelerating masses produce gravitational attraction between them?",
+      "options": [
+        "Law of universal gravitation",
+        "Coriolis effect",
+        "Huygens' principle"
+      ],
+      "answer": "Law of universal gravitation"
+    },
+    {
+      "question_id": 11,
+      "question": "Which law provides the foundation for classical electromagnetism by relating electric fields to charge distribution?",
+      "options": [
+        "Gauss's law",
+        "Poisson's law",
+        "Coulomb's law"
+      ],
+      "answer": "Gauss's law"
+    },
+    {
+      "question_id": 12,
+      "question": "Which result constrains possible interactions by stating observables must commute with the Hamiltonian for conservation?",
+      "options": [
+        "Operator commutation with Hamiltonian",
+        "Noether's theorem",
+        "Heisenberg picture"
+      ],
+      "answer": "Operator commutation with Hamiltonian"
+    },
+    {
+      "question_id": 13,
+      "question": "What law states energy cannot be created or destroyed in an isolated system?",
+      "options": [
+        "Law of conservation of energy",
+        "Second law of thermodynamics",
+        "Law of diminishing returns"
+      ],
+      "answer": "Law of conservation of energy"
+    },
+    {
+      "question_id": 14,
+      "question": "Which law quantifies the tendency of electrons to occupy the lowest available energy states?",
+      "options": [
+        "Pauli exclusion principle",
+        "Heisenberg uncertainty principle",
+        "Hund's rule"
+      ],
+      "answer": "Pauli exclusion principle"
+    },
+    {
+      "question_id": 15,
+      "question": "Which paradox led to the development of quantum statistics distinguishing bosons and fermions?",
+      "options": [
+        "Gibbs paradox",
+        "Ultraviolet catastrophe",
+        "Fermi–Pasta–Ulam paradox"
+      ],
+      "answer": "Gibbs paradox"
+    }
+  ]
+}

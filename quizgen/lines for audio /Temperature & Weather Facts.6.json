@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which temperature scale sets water freezing at 0 and boiling at 100?"
+    },
+    {
+      "question_id": 2,
+      "question": "Around what altitude does the 850 hPa pressure level approximately lie in the troposphere?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which unit is commonly used to express atmospheric water vapor mixing ratio?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does humidity measure in the atmosphere?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which recording instrument produces a continuous trace of atmospheric pressure over time?"
+    },
+    {
+      "question_id": 6,
+      "question": "What process commonly produces mammatus clouds beneath thunderstorm anvils?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which instrument is used to measure wind speed?"
+    },
+    {
+      "question_id": 8,
+      "question": "On a weather map, what do isobars connect?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which index compares the temperature of a lifted parcel to the environment to assess atmospheric instability?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Pacific Ocean phenomenon causes unusually warm surface waters and global weather shifts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which meteorologist developed the original Fujita scale for tornado intensity?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which radar capability uses Doppler shifts to measure precipitation motion and wind velocity?"
+    },
+    {
+      "question_id": 13,
+      "question": "What primarily causes wind to blow across Earth's surface?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which cloud type commonly appears before a warm front as high, thin layers spread across the sky?"
+    },
+    {
+      "question_id": 15,
+      "question": "What causes katabatic winds that flow downslope from high plateaus or ice sheets?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which script is traditionally used for Kashmiri in much of Kashmir?",
+      "options": [
+        "Perso-Arabic (Nastaliq)",
+        "Devanagari",
+        "Gurmukhi"
+      ],
+      "answer": "Perso-Arabic (Nastaliq)"
+    },
+    {
+      "question_id": 2,
+      "question": "Which language family does Khasi belong to within India?",
+      "options": [
+        "Austroasiatic (Munda branch)",
+        "Indo-Aryan",
+        "Dravidian"
+      ],
+      "answer": "Austroasiatic (Munda branch)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which medieval inscription language appears in Ashokan edicts in northwest India?",
+      "options": [
+        "Prakrit (Aramaic influence region)",
+        "Sanskrit",
+        "Tamil"
+      ],
+      "answer": "Prakrit (Aramaic influence region)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which script is used for writing Bengali and Assamese scripts share close similarity?",
+      "options": [
+        "Bengali",
+        "Devanagari",
+        "Gurmukhi"
+      ],
+      "answer": "Bengali"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Mughal-era Persianized script influenced writing Urdu in India?",
+      "options": [
+        "Nastaʿlīq",
+        "Devanagari",
+        "Brahmi"
+      ],
+      "answer": "Nastaʿlīq"
+    },
+    {
+      "question_id": 6,
+      "question": "Which scholar compiled the first comparative Dravidian language family evidence in the 19th century?",
+      "options": [
+        "Francis Buchanan-Hamilton",
+        "Robert Caldwell",
+        "William Jones"
+      ],
+      "answer": "Robert Caldwell"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script was historically used for Telugu and Kannada before divergence?",
+      "options": [
+        "Old Kannada-Telugu script",
+        "Devanagari",
+        "Perso-Arabic"
+      ],
+      "answer": "Old Kannada-Telugu script"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script variant shows the distinctive rounded shapes used in Telugu and Kannada?",
+      "options": [
+        "Southern Brahmi derivatives",
+        "Kharosthi derivatives",
+        "Devanagari derivatives"
+      ],
+      "answer": "Southern Brahmi derivatives"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 19th-century figure promoted the Hunterian transliteration standard for Indian place names?",
+      "options": [
+        "William Wilson Hunter",
+        "Lord Curzon",
+        "Thomas Babington Macaulay"
+      ],
+      "answer": "William Wilson Hunter"
+    },
+    {
+      "question_id": 10,
+      "question": "Which script is primarily used to write Hindi today?",
+      "options": [
+        "Devanagari",
+        "Perso-Arabic",
+        "Roman"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 11,
+      "question": "Which language became the first to receive 'Classical' status in India in 2004?",
+      "options": [
+        "Tamil",
+        "Sanskrit",
+        "Kannada"
+      ],
+      "answer": "Tamil"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare Brahmi variant influenced the development of Kannada-Telugu scripts in the Deccan?",
+      "options": [
+        "Kadamba script",
+        "Kharosthi",
+        "Pallava Grantha"
+      ],
+      "answer": "Kadamba script"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian language family includes Assamese and Bengali?",
+      "options": [
+        "Indo-Aryan",
+        "Dravidian",
+        "Austroasiatic"
+      ],
+      "answer": "Indo-Aryan"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script did the Bhattiprolu inscriptions use, important for south Indian paleography?",
+      "options": [
+        "Early Brahmi variant",
+        "Kharosthi",
+        "Devanagari"
+      ],
+      "answer": "Early Brahmi variant"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 19th-century printing press produced the first major Bengali printed books in Calcutta?",
+      "options": [
+        "Serampore Mission Press",
+        "Oxford University Press",
+        "Cambridge University Press"
+      ],
+      "answer": "Serampore Mission Press"
+    }
+  ]
+}

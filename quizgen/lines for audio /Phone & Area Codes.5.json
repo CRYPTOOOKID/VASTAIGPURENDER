@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country uses the country calling code +33?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country uses prefix +27 for international calls?"
+    },
+    {
+      "question_id": 3,
+      "question": "What does the acronym NPAC specifically manage in North America?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country calling code belongs to the United Kingdom?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does the NXX pattern represent in NANP structure?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which ITU region document lists assigned country calling codes globally?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a vanity phone number?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which area code is associated with Miami, Florida?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country uses the unusual international dialing code +672 for remote territories?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses the country calling code +86?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which NANP restriction applies to the N (first) digit of central office codes (NXX)?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country uses calling code +353?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country uses the country calling code +1?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which of these is a North American toll-free area code?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which North American area code introduced mandatory ten-digit dialing due to the 988 hotline implementation?"
+    }
+  ]
+}

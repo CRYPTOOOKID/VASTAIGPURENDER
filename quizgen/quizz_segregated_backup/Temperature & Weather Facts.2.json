@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the name for a rotating tropical storm in the Atlantic basin?",
+      "options": [
+        "Hurricane",
+        "Typhoon",
+        "Cyclone"
+      ],
+      "answer": "Hurricane"
+    },
+    {
+      "question_id": 2,
+      "question": "Which instrument quantifies incoming solar radiation at Earth's surface?",
+      "options": [
+        "Pyranometer",
+        "Radiometer",
+        "Hygrometer"
+      ],
+      "answer": "Pyranometer"
+    },
+    {
+      "question_id": 3,
+      "question": "Which remote sensing instrument uses laser pulses to measure wind profiles and aerosol structure?",
+      "options": [
+        "Doppler lidar",
+        "RADAR altimeter",
+        "Pyrheliometer"
+      ],
+      "answer": "Doppler lidar"
+    },
+    {
+      "question_id": 4,
+      "question": "Which device measures humidity using wet-bulb and dry-bulb temperatures?",
+      "options": [
+        "Sling psychrometer",
+        "Anemometer",
+        "Ceilometer"
+      ],
+      "answer": "Sling psychrometer"
+    },
+    {
+      "question_id": 5,
+      "question": "Which process forms clouds when rising air expands and cools without heat exchange?",
+      "options": [
+        "Adiabatic cooling",
+        "Radiative cooling",
+        "Conduction"
+      ],
+      "answer": "Adiabatic cooling"
+    },
+    {
+      "question_id": 6,
+      "question": "What does baroclinic instability in the mid-latitude atmosphere typically generate?",
+      "options": [
+        "Extratropical cyclones and frontal systems",
+        "Tropical cyclones",
+        "Sea breezes"
+      ],
+      "answer": "Extratropical cyclones and frontal systems"
+    },
+    {
+      "question_id": 7,
+      "question": "Which frozen precipitation forms as ice crystals in clouds?",
+      "options": [
+        "Snow",
+        "Sleet",
+        "Hail"
+      ],
+      "answer": "Snow"
+    },
+    {
+      "question_id": 8,
+      "question": "What term describes warming of descending air by compression without adding heat externally?",
+      "options": [
+        "Adiabatic warming",
+        "Radiative heating",
+        "Conductive heating"
+      ],
+      "answer": "Adiabatic warming"
+    },
+    {
+      "question_id": 9,
+      "question": "What technical term names the actual change in temperature with altitude averaged in the troposphere?",
+      "options": [
+        "Environmental lapse rate",
+        "Adiabatic index",
+        "Barotropic gradient"
+      ],
+      "answer": "Environmental lapse rate"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instrument measures the amount of rainfall at a location?",
+      "options": [
+        "Rain gauge",
+        "Hygrometer",
+        "Pyranometer"
+      ],
+      "answer": "Rain gauge"
+    },
+    {
+      "question_id": 11,
+      "question": "Which urban phenomenon reduces nighttime cooling and raises city temperatures relative to rural areas?",
+      "options": [
+        "Urban heat island effect",
+        "Sea breeze effect",
+        "Orographic lifting"
+      ],
+      "answer": "Urban heat island effect"
+    },
+    {
+      "question_id": 12,
+      "question": "Which seasonal wind reversal brings heavy summer rainfall to the Indian subcontinent?",
+      "options": [
+        "Southwest monsoon",
+        "Northeast trade winds",
+        "Bora wind"
+      ],
+      "answer": "Southwest monsoon"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the approximate standard atmospheric pressure at sea level?",
+      "options": [
+        "1013.25 hPa",
+        "7600 hPa",
+        "101.325 hPa"
+      ],
+      "answer": "1013.25 hPa"
+    },
+    {
+      "question_id": 14,
+      "question": "What two variables does the heat index combine to estimate perceived temperature?",
+      "options": [
+        "Air temperature and relative humidity",
+        "Air pressure and wind speed",
+        "Cloud cover and sunlight"
+      ],
+      "answer": "Air temperature and relative humidity"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the definition of potential temperature in atmospheric thermodynamics?",
+      "options": [
+        "Temperature an air parcel would have if brought adiabatically to 1000 hPa",
+        "Temperature at the surface on a sunny day",
+        "Average global temperature"
+      ],
+      "answer": "Temperature an air parcel would have if brought adiabatically to 1000 hPa"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Goa?",
+      "options": [
+        "Panaji",
+        "Vasco da Gama",
+        "Mapusa"
+      ],
+      "answer": "Panaji"
+    },
+    {
+      "question_id": 2,
+      "question": "Which city became the capital of Telangana when the state formed in 2014?",
+      "options": [
+        "Nizamabad",
+        "Hyderabad",
+        "Warangal"
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital city is home to the Indian Institute of Science and several premier aerospace facilities?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Bihar?",
+      "options": [
+        "Muzaffarpur",
+        "Patna",
+        "Gaya"
+      ],
+      "answer": "Patna"
+    },
+    {
+      "question_id": 5,
+      "question": "Which state capital hosts the headquarters of the Eastern Naval Command nearby?",
+      "options": [
+        "Vijayawada",
+        "Rajahmundry",
+        "Visakhapatnam"
+      ],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital city is nearest to India’s easternmost permanently inhabited point in the mainland?",
+      "options": [
+        "Itanagar",
+        "Imphal",
+        "Aizawl"
+      ],
+      "answer": "Itanagar"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Uttarakhand?",
+      "options": [
+        "Dehradun",
+        "Haridwar",
+        "Nainital"
+      ],
+      "answer": "Dehradun"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state capital hosts the Vikram Sarabhai Space Centre of ISRO?",
+      "options": [
+        "Ahmedabad",
+        "Bengaluru",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "question_id": 9,
+      "question": "Which state capital lies nearest to India’s westernmost point in the mainland?",
+      "options": [
+        "Mumbai",
+        "Gandhinagar",
+        "Panaji"
+      ],
+      "answer": "Gandhinagar"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Rajasthan?",
+      "options": [
+        "Udaipur",
+        "Jaipur",
+        "Jodhpur"
+      ],
+      "answer": "Jaipur"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital city is nearest to the Sundarbans mangrove delta?",
+      "options": [
+        "Bhubaneswar",
+        "Kolkata",
+        "Patna"
+      ],
+      "answer": "Kolkata"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital city became the seat of a newly formed union territory's administration after 2019 reorganization?",
+      "options": [
+        "Leh",
+        "Srinagar",
+        "Jammu"
+      ],
+      "answer": "Srinagar"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Meghalaya?",
+      "options": [
+        "Shillong",
+        "Jowai",
+        "Tura"
+      ],
+      "answer": "Shillong"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital was officially renamed from Calcutta to Kolkata in 2001?",
+      "options": [
+        "Durgapur",
+        "Kolkata",
+        "Howrah"
+      ],
+      "answer": "Kolkata"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital's surrounding region contains prominent rock-cut Buddhist monuments dating to early centuries CE?",
+      "options": [
+        "Aurangabad",
+        "Bhubaneswar",
+        "Lucknow"
+      ],
+      "answer": "Aurangabad"
+    }
+  ]
+}

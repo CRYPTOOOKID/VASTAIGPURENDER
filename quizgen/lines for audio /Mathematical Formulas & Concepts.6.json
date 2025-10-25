@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the factorial of 4 (4!)?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is Heron's formula for a triangle area given sides a,b,c?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the form of Cauchy-Schwarz inequality for vectors u,v?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the common ratio in a geometric sequence 2, 6, 18...?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the formula for centripetal force for mass m rotating speed v radius r?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the asymptotic density of primes described by the prime number theorem?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'm' usually represent in y = mx + b?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which transform converts a time-domain function to frequency-domain?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which method constructs analytic continuation of complex functions using contour integrals?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the value of pi commonly approximated as?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which inequality bounds arithmetic and geometric means?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the principal value integral used for handling?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which identity converts degrees to radians?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invariant measures curvature of a 2D surface embedded in 3D at a point?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which transform pairs products of functions with convolutions of transforms in Mellin analysis used for scale invariance?"
+    }
+  ]
+}

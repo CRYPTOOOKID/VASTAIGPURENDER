@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a \"sponsored post\"?",
+      "options": [
+        "Content paid for or promoted by a brand",
+        "A post pinned by platform moderators",
+        "A post visible only to new followers"
+      ],
+      "answer": "Content paid for or promoted by a brand"
+    },
+    {
+      "question_id": 2,
+      "question": "What does \"CPE\" commonly stand for in influencer ad metrics?",
+      "options": [
+        "Cost per engagement",
+        "Clicks per event",
+        "Content performance estimate"
+      ],
+      "answer": "Cost per engagement"
+    },
+    {
+      "question_id": 3,
+      "question": "Which platform introduced the Partner Program paying creators ad revenue share in 2007?",
+      "options": [
+        "YouTube",
+        "Instagram",
+        "Twitter"
+      ],
+      "answer": "YouTube"
+    },
+    {
+      "question_id": 4,
+      "question": "Which platform launched in 2004 and changed social networking?",
+      "options": [
+        "Facebook",
+        "TikTok",
+        "Pinterest"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metric helps compare sponsored post performance across creators of different sizes?",
+      "options": [
+        "Engagement rate",
+        "Total follower count",
+        "Account age"
+      ],
+      "answer": "Engagement rate"
+    },
+    {
+      "question_id": 6,
+      "question": "Which metric is most useful to evaluate long-term influencer audience growth quality?",
+      "options": [
+        "Follower retention and steady engagement trends",
+        "Total number of hashtags used historically",
+        "Frequency of changing profile pictures"
+      ],
+      "answer": "Follower retention and steady engagement trends"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"micro-influencer\" typically defined by?",
+      "options": [
+        "Smaller following with high niche engagement",
+        "A celebrity with millions of followers",
+        "A platform employee who promotes brands"
+      ],
+      "answer": "Smaller following with high niche engagement"
+    },
+    {
+      "question_id": 8,
+      "question": "Which agency issues disclosure guidelines for influencer endorsements in the United States?",
+      "options": [
+        "Federal Trade Commission",
+        "Federal Communications Commission",
+        "Securities and Exchange Commission"
+      ],
+      "answer": "Federal Trade Commission"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 2014 viral movement showcased grassroots social sharing and influencer amplification?",
+      "options": [
+        "Ice Bucket Challenge",
+        "Planking",
+        "Harlem Shake"
+      ],
+      "answer": "Ice Bucket Challenge"
+    },
+    {
+      "question_id": 10,
+      "question": "What role do hashtags play for influencers?",
+      "options": [
+        "Help new audiences discover content",
+        "Guarantee paid partnerships with brands",
+        "Increase follower verification speed"
+      ],
+      "answer": "Help new audiences discover content"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a common KPI for awareness-focused influencer campaigns?",
+      "options": [
+        "Impressions and reach",
+        "Average order value",
+        "Customer lifetime value"
+      ],
+      "answer": "Impressions and reach"
+    },
+    {
+      "question_id": 12,
+      "question": "Which AI-driven technique helps brands match micro-influencers to campaign audiences?",
+      "options": [
+        "Natural language processing audience profiling",
+        "Manual spreadsheet matching",
+        "Random selection by follower count"
+      ],
+      "answer": "Natural language processing audience profiling"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"engagement\" measure on social media?",
+      "options": [
+        "Interactions like likes, comments, and shares",
+        "The number of account logins per day",
+        "The age of the account"
+      ],
+      "answer": "Interactions like likes, comments, and shares"
+    },
+    {
+      "question_id": 14,
+      "question": "Which social analytics metric best tracks how many users clicked a link from a post?",
+      "options": [
+        "Click-through rate",
+        "View count",
+        "Follower growth"
+      ],
+      "answer": "Click-through rate"
+    },
+    {
+      "question_id": 15,
+      "question": "Which practice helps brands limit influencer fraud risk during selection?",
+      "options": [
+        "Third-party audience audits",
+        "Offering higher flat fees immediately",
+        "Contracting without background checks"
+      ],
+      "answer": "Third-party audience audits"
+    }
+  ]
+}

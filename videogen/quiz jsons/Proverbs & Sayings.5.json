@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What idea does 'You can't have your cake and eat it too' express?",
+      "options": [
+        "You cannot enjoy two mutually exclusive things",
+        "Always share your cake",
+        "Save cake for later"
+      ],
+      "answer": "You cannot enjoy two mutually exclusive things"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Aesop fable inspired the phrase 'sour grapes'?",
+      "options": [
+        "The Lion and the Mouse",
+        "The Wolf in Sheep's Clothing",
+        "The Fox and the Grapes"
+      ],
+      "answer": "The Fox and the Grapes"
+    },
+    {
+      "question_id": 3,
+      "question": "Which proverb did Shakespeare write in As You Like It, meaning moderation benefits us?",
+      "options": [
+        "Neither a borrower nor a lender be",
+        "All's well that ends well",
+        "Too much of a good thing"
+      ],
+      "answer": "Too much of a good thing"
+    },
+    {
+      "question_id": 4,
+      "question": "Complete: 'Don't cross the bridge until you come to ___'",
+      "options": [
+        "the other side",
+        "the river",
+        "it"
+      ],
+      "answer": "it"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb implies the truth becomes obvious through practical testing?",
+      "options": [
+        "Fine words butter no parsnips",
+        "All is fair in love and war",
+        "The proof of the pudding is in the eating"
+      ],
+      "answer": "The proof of the pudding is in the eating"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the academic study of proverbs called?",
+      "options": [
+        "Lexicography",
+        "Etymology",
+        "Paremiology"
+      ],
+      "answer": "Paremiology"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'If it ain't broke, don't fix it' advise?",
+      "options": [
+        "Avoid unnecessary changes to working things",
+        "Always replace old items",
+        "Break things to improve them"
+      ],
+      "answer": "Avoid unnecessary changes to working things"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb warns not to assume success before it happens?",
+      "options": [
+        "He who hesitates is lost",
+        "Fortune favors the bold",
+        "Don't count your chickens before they hatch"
+      ],
+      "answer": "Don't count your chickens before they hatch"
+    },
+    {
+      "question_id": 9,
+      "question": "Which literary source preserves many aphoristic sayings forming English proverbs, including medieval examples?",
+      "options": [
+        "Beowulf",
+        "The Domesday Book",
+        "Chaucer's works"
+      ],
+      "answer": "Chaucer's works"
+    },
+    {
+      "question_id": 10,
+      "question": "Complete the proverb: 'A journey of a thousand miles begins with a ___'",
+      "options": [
+        "single step",
+        "big plan",
+        "fast train"
+      ],
+      "answer": "single step"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb did Benjamin Franklin famously popularize?",
+      "options": [
+        "Actions speak louder than words",
+        "Birds of a feather flock together",
+        "A penny saved is a penny earned"
+      ],
+      "answer": "A penny saved is a penny earned"
+    },
+    {
+      "question_id": 12,
+      "question": "Which proverb did Miguel de Cervantes use in Don Quixote that resembles a modern English saying?",
+      "options": [
+        "The proof of the pudding is in the eating",
+        "Birds of a feather flock together",
+        "A stitch in time saves nine"
+      ],
+      "answer": "The proof of the pudding is in the eating"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'All work and no play makes Jack a dull boy' suggest?",
+      "options": [
+        "Play is never productive",
+        "Work nonstop for success",
+        "Balance work with leisure"
+      ],
+      "answer": "Balance work with leisure"
+    },
+    {
+      "question_id": 14,
+      "question": "Which proverb means someone cares for their own interests above others'?",
+      "options": [
+        "Curiosity killed the cat",
+        "Charity begins at home",
+        "He who hesitates is lost"
+      ],
+      "answer": "Charity begins at home"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient work contains the line 'Carpe diem' that inspired many modern proverbs?",
+      "options": [
+        "Ovid's Metamorphoses",
+        "Horace's Odes",
+        "Virgil's Aeneid"
+      ],
+      "answer": "Horace's Odes"
+    }
+  ]
+}

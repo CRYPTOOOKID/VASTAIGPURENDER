@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia describes fear of small animals like mice?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which medication class is sometimes prescribed for social phobia symptoms?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare phobia means fear of the color red?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'pteromerhanophobia' mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which therapeutic approach emphasizes changing fearful thoughts alongside exposure?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which behavioral researcher exposed children to fearful stimuli to demonstrate unlearning of phobias?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia concerns fear of falling while asleep or sleep itself?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia is associated with a vasovagal fainting reaction?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia category often shows a biphasic physiological response including fainting?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia describes fear of public speaking?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which culture-bound fear emphasizes offending others rather than physical danger?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which neurobiological area is frequently implicated in conditioned fear and phobic responses?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'agoraphobia' commonly involve?"
+    },
+    {
+      "question_id": 14,
+      "question": "What distinguishes a phobia from normal fear clinically?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia term describes fear of aging or growing old and associated changes?"
+    }
+  ]
+}

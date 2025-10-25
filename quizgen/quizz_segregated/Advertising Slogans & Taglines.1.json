@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which paper towel brand calls itself \"The Quicker Picker Upper\"?",
+      "options": [
+        "Scott",
+        "Bounty",
+        "Viva"
+      ],
+      "answer": "Bounty"
+    },
+    {
+      "question_id": 2,
+      "question": "Which cosmetics slogan began as a message about self-worth in the 1970s?",
+      "options": [
+        "Because You're Worth It",
+        "Finger Lickin' Good",
+        "The Quicker Picker Upper"
+      ],
+      "answer": "Because You're Worth It"
+    },
+    {
+      "question_id": 3,
+      "question": "Which slogan was central to a campaign that used minimalist art direction and conversational headlines?",
+      "options": [
+        "Taste the Feeling (Coca-Cola)",
+        "The Man Your Man Could Smell Like (Old Spice)",
+        "Think Small (Volkswagen)"
+      ],
+      "answer": "Think Small (Volkswagen)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which cereal is often called the \"Breakfast of Champions\"?",
+      "options": [
+        "Frosted Flakes",
+        "Cheerios",
+        "Wheaties"
+      ],
+      "answer": "Wheaties"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fragrance campaign used a humorous spoken-word tagline aimed at female influencers?",
+      "options": [
+        "Because You're Worth It",
+        "The Man Your Man Could Smell Like",
+        "Once you pop..."
+      ],
+      "answer": "The Man Your Man Could Smell Like"
+    },
+    {
+      "question_id": 6,
+      "question": "Which slogan once ran as a series linking moments of family life to product utility and emotion?",
+      "options": [
+        "Priceless (Mastercard)",
+        "Taste the Feeling (Coca-Cola)",
+        "We Try Harder (Avis)"
+      ],
+      "answer": "Taste the Feeling (Coca-Cola)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which stout beer uses the line \"Good things come to those who wait\"?",
+      "options": [
+        "Stella Artois",
+        "Heineken",
+        "Guinness"
+      ],
+      "answer": "Guinness"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ad campaign introduced the line \"The Quicker Picker Upper\" for paper towels?",
+      "options": [
+        "Brawny campaign",
+        "Bounty campaign",
+        "Scott campaign"
+      ],
+      "answer": "Bounty campaign"
+    },
+    {
+      "question_id": 9,
+      "question": "Which advertising campaign used self-deprecating honesty to reframe a #2 brand?",
+      "options": [
+        "We Try Harder (Avis)",
+        "Like a Good Neighbor (State Farm)",
+        "Have It Your Way (Burger King)"
+      ],
+      "answer": "We Try Harder (Avis)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which quick-service chain uses the tagline \"Have It Your Way\" historically?",
+      "options": [
+        "Taco Bell",
+        "Wendy's",
+        "Burger King"
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 11,
+      "question": "Which airline used the line \"We Try Harder\" to reposition after being second?",
+      "options": [
+        "Hertz",
+        "National",
+        "Avis"
+      ],
+      "answer": "Avis"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand paused the slogan \"Finger Lickin' Good\" during the COVID-19 pandemic?",
+      "options": [
+        "KFC",
+        "Chick-fil-A",
+        "Popeyes"
+      ],
+      "answer": "KFC"
+    },
+    {
+      "question_id": 13,
+      "question": "Which brand uses the slogan \"Just Do It\"?",
+      "options": [
+        "Adidas",
+        "Reebok",
+        "Nike"
+      ],
+      "answer": "Nike"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Nike launch the \"Just Do It\" campaign?",
+      "options": [
+        "1988",
+        "1978",
+        "1998"
+      ],
+      "answer": "1988"
+    },
+    {
+      "question_id": 15,
+      "question": "Which slogan helped transform diamond engagement norms worldwide after 1947?",
+      "options": [
+        "Forever diamonds",
+        "Diamonds are for everyone",
+        "A diamond is forever"
+      ],
+      "answer": "A diamond is forever"
+    }
+  ]
+}

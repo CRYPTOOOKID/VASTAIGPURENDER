@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded Facebook in 2004?",
+      "options": [
+        "Evan Spiegel",
+        "Jack Dorsey",
+        "Mark Zuckerberg"
+      ],
+      "answer": "Mark Zuckerberg"
+    },
+    {
+      "question_id": 2,
+      "question": "Which metric helps measure influencer-driven sales from unique URLs?",
+      "options": [
+        "Total follower count",
+        "Conversion tracking via UTM parameters",
+        "Post caption length"
+      ],
+      "answer": "Conversion tracking via UTM parameters"
+    },
+    {
+      "question_id": 3,
+      "question": "Which approach reduces attribution leakage when tracking influencer-driven sales?",
+      "options": [
+        "Relying on manual reconciliation of screenshots",
+        "Using unique coupon codes and tracked links",
+        "Posting identical links across all creators"
+      ],
+      "answer": "Using unique coupon codes and tracked links"
+    },
+    {
+      "question_id": 4,
+      "question": "Which platform is best known for short vertical video clips?",
+      "options": [
+        "LinkedIn",
+        "TikTok",
+        "Pinterest"
+      ],
+      "answer": "TikTok"
+    },
+    {
+      "question_id": 5,
+      "question": "Which platform launched a Creator Fund focused on creator payouts in 2020?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "TikTok"
+      ],
+      "answer": "TikTok"
+    },
+    {
+      "question_id": 6,
+      "question": "Which U.S. legal concept has been applied when influencers misrepresent product experiences?",
+      "options": [
+        "Bankruptcy protection",
+        "Trademark dilution",
+        "False advertising liability"
+      ],
+      "answer": "False advertising liability"
+    },
+    {
+      "question_id": 7,
+      "question": "What is influencer marketing?",
+      "options": [
+        "A platform charging creators subscription fees",
+        "Brands partnering with creators to reach audiences",
+        "A type of platform moderation policy"
+      ],
+      "answer": "Brands partnering with creators to reach audiences"
+    },
+    {
+      "question_id": 8,
+      "question": "What legal issue rose from influencer promotion of the 2017 Fyre Festival?",
+      "options": [
+        "Copyright disputes over music licensing",
+        "Failure to disclose paid promotions and misrepresentation",
+        "Trademark infringement claims only"
+      ],
+      "answer": "Failure to disclose paid promotions and misrepresentation"
+    },
+    {
+      "question_id": 9,
+      "question": "Which platform launched a $200 million creator fund for YouTube Shorts in 2021?",
+      "options": [
+        "YouTube",
+        "Twitter",
+        "Instagram"
+      ],
+      "answer": "YouTube"
+    },
+    {
+      "question_id": 10,
+      "question": "Which platform is best known for long-form video content?",
+      "options": [
+        "X (formerly Twitter)",
+        "Instagram Stories",
+        "YouTube"
+      ],
+      "answer": "YouTube"
+    },
+    {
+      "question_id": 11,
+      "question": "What is \"affiliate marketing\" for influencers?",
+      "options": [
+        "Exclusive long-term brand ambassadorship",
+        "A flat fee paid per sponsored post",
+        "Earning commission from tracked sales via links"
+      ],
+      "answer": "Earning commission from tracked sales via links"
+    },
+    {
+      "question_id": 12,
+      "question": "Which analytics approach attributes conversions across multiple influencer touchpoints?",
+      "options": [
+        "Creative-only attribution",
+        "Multi-touch attribution",
+        "Single-source attribution"
+      ],
+      "answer": "Multi-touch attribution"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a \"hashtag\" primarily used for?",
+      "options": [
+        "Grouping posts by topic",
+        "Scheduling posts automatically",
+        "Blocking unwanted users"
+      ],
+      "answer": "Grouping posts by topic"
+    },
+    {
+      "question_id": 14,
+      "question": "Which platform's algorithm was originally known as EdgeRank?",
+      "options": [
+        "Instagram",
+        "YouTube",
+        "Facebook"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question_id": 15,
+      "question": "Which analytics signal indicates an influencer's audience is highly niche and engaged?",
+      "options": [
+        "High comment-to-follower ratio",
+        "Low post frequency",
+        "Short bio length"
+      ],
+      "answer": "High comment-to-follower ratio"
+    }
+  ]
+}

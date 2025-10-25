@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which abolitionist is credited with the final words \"I only regret that I have but one life to lose for my country\"?",
+      "options": [
+        "Frederick Douglass",
+        "John Brown",
+        "Harriet Tubman"
+      ],
+      "answer": "John Brown"
+    },
+    {
+      "question_id": 2,
+      "question": "Who reportedly said \"I must be ready to go\" referencing death as a transition?",
+      "options": [
+        "Pope John Paul II",
+        "Mother Teresa",
+        "Desmond Tutu"
+      ],
+      "answer": "Mother Teresa"
+    },
+    {
+      "question_id": 3,
+      "question": "Which English king is alleged to have said \"I see the Tower and the scaffold\" just before execution?",
+      "options": [
+        "Charles I",
+        "James II",
+        "Edward II"
+      ],
+      "answer": "Charles I"
+    },
+    {
+      "question_id": 4,
+      "question": "Which author allegedly said \"I must go in, the fog is rising\" as his last words?",
+      "options": [
+        "Ralph Waldo Emerson",
+        "T. S. Eliot",
+        "F. Scott Fitzgerald"
+      ],
+      "answer": "Ralph Waldo Emerson"
+    },
+    {
+      "question_id": 5,
+      "question": "Who reportedly said \"I regret that I am not fit to be buried among saints\" before dying?",
+      "options": [
+        "John Wesley",
+        "Jonathan Swift",
+        "John Donne"
+      ],
+      "answer": "Jonathan Swift"
+    },
+    {
+      "question_id": 6,
+      "question": "Which French king said \"I die the king's good servant, but God's first\" before execution?",
+      "options": [
+        "Thomas More",
+        "Henry VIII",
+        "Louis XVI"
+      ],
+      "answer": "Thomas More"
+    },
+    {
+      "question_id": 7,
+      "question": "Who reportedly said \"Now I can die, for I have seen tyranny\" after witnessing an event?",
+      "options": [
+        "Patrick Henry",
+        "Nathan Hale",
+        "Thomas Paine"
+      ],
+      "answer": "Nathan Hale"
+    },
+    {
+      "question_id": 8,
+      "question": "Which poet reportedly murmured \"I am dying. I shall sleep well\" on their deathbed?",
+      "options": [
+        "Emily Dickinson",
+        "Percy Bysshe Shelley",
+        "William Wordsworth"
+      ],
+      "answer": "Percy Bysshe Shelley"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is reported to have said \"I am dying as a member of the Church of England\" in their final moments?",
+      "options": [
+        "Florence Nightingale",
+        "Samuel Taylor Coleridge",
+        "Queen Elizabeth I"
+      ],
+      "answer": "Samuel Taylor Coleridge"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is famous for the defiant last words \"I am still standing\"?",
+      "options": [
+        "Harriet Beecher Stowe",
+        "Winston Churchill",
+        "Leon Trotsky"
+      ],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question_id": 11,
+      "question": "Which author said \"I should like to thank God for a happy life\" as last words?",
+      "options": [
+        "Nathaniel Hawthorne",
+        "Henry David Thoreau",
+        "Charles Dickens"
+      ],
+      "answer": "Charles Dickens"
+    },
+    {
+      "question_id": 12,
+      "question": "Which explorer supposedly said \"We are now in sight of the promised land\" as last words on an expedition?",
+      "options": [
+        "David Livingstone",
+        "John Franklin",
+        "Lewis Carroll"
+      ],
+      "answer": "David Livingstone"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scientist reportedly said \"I have not failed\" as last words reflecting persistence?",
+      "options": [
+        "Thomas Edison",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "answer": "Thomas Edison"
+    },
+    {
+      "question_id": 14,
+      "question": "Whose last words included a simple request: \"Tell my wife I think of her\" as they died abroad?",
+      "options": [
+        "General Douglas MacArthur",
+        "Ernest Hemingway",
+        "Frederick Chopin"
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 15,
+      "question": "Who reportedly said in a famous final message: \"Tell my mother I did my best\" after a heroic act?",
+      "options": [
+        "Sully Sullenberger",
+        "J. Robert Oppenheimer",
+        "Rudolf Nureyev"
+      ],
+      "answer": "J. Robert Oppenheimer"
+    }
+  ]
+}

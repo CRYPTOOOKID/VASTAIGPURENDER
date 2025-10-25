@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"bark up the wrong tree\" suggest?",
+      "options": [
+        "Accuse or pursue the wrong person",
+        "Call loudly into a forest",
+        "Search for animals in error"
+      ],
+      "answer": "Accuse or pursue the wrong person"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom best fits: \"She finally accepted the tough move\"?",
+      "options": [
+        "Bit the bullet",
+        "Jumped the gun",
+        "Beat around the bush"
+      ],
+      "answer": "Bit the bullet"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom exemplifies euphemism used to soften mention of death?",
+      "options": [
+        "Kick the bucket",
+        "Pay the piper",
+        "Cut to the chase"
+      ],
+      "answer": "Kick the bucket"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"a penny for your thoughts\" invite someone to do?",
+      "options": [
+        "Share what they are thinking",
+        "Ask for money politely",
+        "Offer cheap advice"
+      ],
+      "answer": "Share what they are thinking"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom best substitutes for \"temporary success without securing the future\"?",
+      "options": [
+        "A flash in the pan",
+        "Touch base",
+        "Lose your touch"
+      ],
+      "answer": "A flash in the pan"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom is an example of a mixed metaphor combining nautical and hunting imagery?",
+      "options": [
+        "Bite the bullet",
+        "Three sheets to the wind",
+        "Beat around the bush"
+      ],
+      "answer": "Three sheets to the wind"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"hit the nail on the head\" mean?",
+      "options": [
+        "Describe something accurately",
+        "Strike a nail correctly",
+        "Make a loud noise"
+      ],
+      "answer": "Describe something accurately"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom suggests \"making a delicate situation worse by careless talk\"?",
+      "options": [
+        "Pour salt in the wound",
+        "Turn a blind eye",
+        "Break the ice"
+      ],
+      "answer": "Pour salt in the wound"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom is often used as a performative speech act to wish luck?",
+      "options": [
+        "Break a leg",
+        "Pull out all the stops",
+        "Draw a blank"
+      ],
+      "answer": "Break a leg"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"a blessing in disguise\" describe?",
+      "options": [
+        "A hidden benefit from misfortune",
+        "A secretly religious event",
+        "A disguised gift"
+      ],
+      "answer": "A hidden benefit from misfortune"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom matches \"experience that teaches a tough lesson\"?",
+      "options": [
+        "Baptism by fire",
+        "Feather in your cap",
+        "Keep your cards close"
+      ],
+      "answer": "Baptism by fire"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom is considered a dead metaphor because original imagery is no longer visual?",
+      "options": [
+        "Foot the bill",
+        "Spill the beans",
+        "Break a leg"
+      ],
+      "answer": "Foot the bill"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"go the extra mile\" encourage someone to do?",
+      "options": [
+        "Put in additional effort",
+        "Travel a long distance",
+        "Compete in a race"
+      ],
+      "answer": "Put in additional effort"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom expresses \"someone who avoids commitment or responsibility\"?",
+      "options": [
+        "Pass the buck",
+        "Call the shots",
+        "Hold the fort"
+      ],
+      "answer": "Pass the buck"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom best qualifies as an idiomatic collocation where words combine unpredictably?",
+      "options": [
+        "Kick the bucket",
+        "Walk quickly",
+        "Make a sandwich"
+      ],
+      "answer": "Kick the bucket"
+    }
+  ]
+}

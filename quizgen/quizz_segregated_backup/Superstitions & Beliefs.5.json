@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which stone is popularly believed to bring protection and clarity when worn as jewelry?",
+      "options": [
+        "Tiger's eye",
+        "Quartz sand",
+        "Coal nugget"
+      ],
+      "answer": "Tiger's eye"
+    },
+    {
+      "question_id": 2,
+      "question": "Which European superstition claims stepping on a crack affects your mother's wellbeing?",
+      "options": [
+        "Step on a crack curse",
+        "Doorframe taboo",
+        "Chimney sweep omen"
+      ],
+      "answer": "Step on a crack curse"
+    },
+    {
+      "question_id": 3,
+      "question": "Which mathematical superstition influenced building design by omitting the thirteenth floor?",
+      "options": [
+        "Triskaidekaphobia influence",
+        "Apotropaic numerology",
+        "Golden ratio avoidance"
+      ],
+      "answer": "Triskaidekaphobia influence"
+    },
+    {
+      "question_id": 4,
+      "question": "Which symbol featuring an eye is commonly used as an amulet against envy and ill intent?",
+      "options": [
+        "Evil eye",
+        "Swastika",
+        "Crescent moon"
+      ],
+      "answer": "Evil eye"
+    },
+    {
+      "question_id": 5,
+      "question": "Which amulet shaped like a leaf symbolizes luck in many Western traditions?",
+      "options": [
+        "Four-leaf clover",
+        "Maple token",
+        "Fern charm"
+      ],
+      "answer": "Four-leaf clover"
+    },
+    {
+      "question_id": 6,
+      "question": "Which British folklore figure collects bad luck by sweeping chimneys and became a wedding charm historically?",
+      "options": [
+        "Chimney sweep as good-luck omen",
+        "Green man",
+        "Jack-in-the-Green"
+      ],
+      "answer": "Chimney sweep as good-luck omen"
+    },
+    {
+      "question_id": 7,
+      "question": "Which plant is popularly associated with finding good luck and has five leaves when unusual?",
+      "options": [
+        "Four-leaf clover",
+        "Ivy sprig",
+        "Oak leaf"
+      ],
+      "answer": "Four-leaf clover"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the name of the protective blue glass bead used in Turkey against the evil eye?",
+      "options": [
+        "Nazar bead",
+        "Tear bead",
+        "Sunstone"
+      ],
+      "answer": "Nazar bead"
+    },
+    {
+      "question_id": 9,
+      "question": "Which classical Roman ritual used a scapegoat to symbolically carry community sins away?",
+      "options": [
+        "Lemuria rites",
+        "Sacer holocaust",
+        "Festum Lupercalia"
+      ],
+      "answer": "Lemuria rites"
+    },
+    {
+      "question_id": 10,
+      "question": "Which day of the week is considered unlucky by some people who fear Friday the 13th?",
+      "options": [
+        "Friday",
+        "Monday",
+        "Sunday"
+      ],
+      "answer": "Friday"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ancient practice interpreted the behavior of birds to predict events?",
+      "options": [
+        "Augury",
+        "Alchemy",
+        "Divination by bones"
+      ],
+      "answer": "Augury"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term names fear specifically of the number four in East Asian contexts?",
+      "options": [
+        "Tetra-phobia",
+        "Tetraphobia",
+        "Quadriphobia"
+      ],
+      "answer": "Tetraphobia"
+    },
+    {
+      "question_id": 13,
+      "question": "Which animal is commonly considered bad luck in Western superstition if it crosses your path?",
+      "options": [
+        "Black cat",
+        "White dove",
+        "Grey squirrel"
+      ],
+      "answer": "Black cat"
+    },
+    {
+      "question_id": 14,
+      "question": "What object did sailors historically wear or carry to protect against bad luck at sea?",
+      "options": [
+        "Amulet or charm",
+        "Pocket mirror",
+        "Hourglass"
+      ],
+      "answer": "Amulet or charm"
+    },
+    {
+      "question_id": 15,
+      "question": "Which medieval English practice left protective iron objects in walls to deter witches and spirits?",
+      "options": [
+        "Embedding iron charms",
+        " plaster smoothing",
+        "heraldic stamping"
+      ],
+      "answer": "Embedding iron charms"
+    }
+  ]
+}

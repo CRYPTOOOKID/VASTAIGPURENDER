@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who co-founded Netflix in 1997?",
+      "options": [
+        "Reed Hastings",
+        "Marc Benioff",
+        "Jeff Bezos"
+      ],
+      "answer": "Reed Hastings"
+    },
+    {
+      "question_id": 2,
+      "question": "In which year did Google reorganize under the parent company Alphabet?",
+      "options": [
+        "2015",
+        "2018",
+        "2012"
+      ],
+      "answer": "2015"
+    },
+    {
+      "question_id": 3,
+      "question": "Which outside executive became Google's CEO in 2001, stabilizing growth?",
+      "options": [
+        "John Doerr",
+        "Eric Schmidt",
+        "Marissa Mayer"
+      ],
+      "answer": "Eric Schmidt"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded IKEA?",
+      "options": [
+        "Ingvar Kamprad",
+        "Alvar Aalto",
+        "Ole Kirk"
+      ],
+      "answer": "Ingvar Kamprad"
+    },
+    {
+      "question_id": 5,
+      "question": "Which entrepreneur purchased The Washington Post in 2013?",
+      "options": [
+        "Jeff Bezos",
+        "Mark Zuckerberg",
+        "Warren Buffett"
+      ],
+      "answer": "Jeff Bezos"
+    },
+    {
+      "question_id": 6,
+      "question": "Which co-founder walked away from Apple with a small stake and brief tenure in 1976?",
+      "options": [
+        "Mike Markkula",
+        "Steve Wozniak",
+        "Ronald Wayne"
+      ],
+      "answer": "Ronald Wayne"
+    },
+    {
+      "question_id": 7,
+      "question": "Which entrepreneur co-founded Sony?",
+      "options": [
+        "Soichiro Honda",
+        "Akio Morita",
+        "Masaru Ibuka"
+      ],
+      "answer": "Akio Morita"
+    },
+    {
+      "question_id": 8,
+      "question": "Which entrepreneur founded SpaceX in 2002?",
+      "options": [
+        "Richard Branson",
+        "Elon Musk",
+        "Jeff Bezos"
+      ],
+      "answer": "Elon Musk"
+    },
+    {
+      "question_id": 9,
+      "question": "Which founder started PayPal's precursor Confinity alongside Max Levchin?",
+      "options": [
+        "Peter Thiel",
+        "Reid Hoffman",
+        "Elon Musk"
+      ],
+      "answer": "Peter Thiel"
+    },
+    {
+      "question_id": 10,
+      "question": "Which YouTube co-founder uploaded the platform's first video?",
+      "options": [
+        "Jawed Karim",
+        "Chad Hurley",
+        "Steve Chen"
+      ],
+      "answer": "Jawed Karim"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Alibaba founder stepped down as executive chairman in 2019?",
+      "options": [
+        "Jack Ma",
+        "Lei Jun",
+        "Pony Ma"
+      ],
+      "answer": "Jack Ma"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Apple founder acquired and led Pixar before its IPO and Disney sale?",
+      "options": [
+        "John Lasseter",
+        "Ed Catmull",
+        "Steve Jobs"
+      ],
+      "answer": "Steve Jobs"
+    },
+    {
+      "question_id": 13,
+      "question": "Who co-founded Snapchat?",
+      "options": [
+        "Mike Krieger",
+        "Evan Spiegel",
+        "Kevin Systrom"
+      ],
+      "answer": "Evan Spiegel"
+    },
+    {
+      "question_id": 14,
+      "question": "What was Facebook's original name at Harvard?",
+      "options": [
+        "CampusBook",
+        "HarvardNet",
+        "TheFacebook"
+      ],
+      "answer": "TheFacebook"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company did Elon Musk found in 2002 focused on rockets and spacecraft?",
+      "options": [
+        "Blue Origin",
+        "Virgin Galactic",
+        "SpaceX"
+      ],
+      "answer": "SpaceX"
+    }
+  ]
+}

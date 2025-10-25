@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a plaintiff in a civil lawsuit?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does 'alien tort statute' historically enable?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which principle governs admissibility of subsequent remedial measures?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'ex parte' communication?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'mens rea' opposite concept describing physical act?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does 'tort reform' typically aim to change?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'double jeopardy' protection?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the 'exclusionary rule' effect?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is 'forum shopping' in litigation strategy?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'defamation'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statute governs international treaties within domestic law in many countries?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which test analyzes whether speech is unprotected incitement?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'negligence' in tort law?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which tort requires intentional wrongdoing?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the 'public trust doctrine' primarily about?"
+    }
+  ]
+}

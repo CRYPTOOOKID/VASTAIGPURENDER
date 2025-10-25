@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the standard number of letters in the modern English alphabet?",
+        "options": [
+          "26",
+          "24",
+          "28"
+        ],
+        "answer": "26"
+      },
+      {
+        "question": "Which numeral system uses digits 0 through 9?",
+        "options": [
+          "Decimal",
+          "Binary",
+          "Hexadecimal"
+        ],
+        "answer": "Decimal"
+      },
+      {
+        "question": "Which ancient script is widely considered the ancestor of many modern alphabets?",
+        "options": [
+          "Phoenician",
+          "Cuneiform",
+          "Hieroglyphic"
+        ],
+        "answer": "Phoenician"
+      },
+      {
+        "question": "How many bits does the original ASCII code use to represent characters?",
+        "options": [
+          "7 bits",
+          "8 bits",
+          "6 bits"
+        ],
+        "answer": "7 bits"
+      },
+      {
+        "question": "Which number system uses only two symbols, typically 0 and 1?",
+        "options": [
+          "Binary",
+          "Octal",
+          "Decimal"
+        ],
+        "answer": "Binary"
+      },
+      {
+        "question": "Which writing system arranges signs to represent individual spoken sounds (consonants and vowels)?",
+        "options": [
+          "Alphabet",
+          "Syllabary",
+          "Logography"
+        ],
+        "answer": "Alphabet"
+      },
+      {
+        "question": "Which numeral system uses digits 0–9 and letters A–F to represent values?",
+        "options": [
+          "Hexadecimal",
+          "Duodecimal",
+          "Sexagesimal"
+        ],
+        "answer": "Hexadecimal"
+      },
+      {
+        "question": "Who invented Braille, the tactile writing system for the blind?",
+        "options": [
+          "Louis Braille",
+          "Thomas Hopkins",
+          "Samuel Morse"
+        ],
+        "answer": "Louis Braille"
+      },
+      {
+        "question": "Which script is commonly referred to as an abjad, primarily representing consonants?",
+        "options": [
+          "Arabic",
+          "Devanagari",
+          "Hangul"
+        ],
+        "answer": "Arabic"
+      },
+      {
+        "question": "Which set of numerals is commonly called 'Hindu-Arabic numerals'?",
+        "options": [
+          "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+          "I, V, X, L, C, D, M",
+          "०, १, २, ३"
+        ],
+        "answer": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
+      },
+      {
+        "question": "What is the common English name for the base-60 number system?",
+        "options": [
+          "Sexagesimal",
+          "Duodecimal",
+          "Nonary"
+        ],
+        "answer": "Sexagesimal"
+      },
+      {
+        "question": "How many letters are in the Greek alphabet?",
+        "options": [
+          "24",
+          "26",
+          "22"
+        ],
+        "answer": "24"
+      },
+      {
+        "question": "Which code used long and short signals to encode letters and numbers?",
+        "options": [
+          "Morse code",
+          "Braille",
+          "ASCII"
+        ],
+        "answer": "Morse code"
+      },
+      {
+        "question": "Which ancient numeral system famously lacks a symbol for zero?",
+        "options": [
+          "Roman numerals",
+          "Babylonian numerals",
+          "Mayan numerals"
+        ],
+        "answer": "Roman numerals"
+      },
+      {
+        "question": "What is the common name for a writing system where each symbol stands for a syllable?",
+        "options": [
+          "Syllabary",
+          "Alphabet",
+          "Logogram"
+        ],
+        "answer": "Syllabary"
+      },
+      {
+        "question": "Which alphabet introduced the letter forms that evolved into the modern Latin alphabet?",
+        "options": [
+          "Greek",
+          "Cyrillic",
+          "Runic"
+        ],
+        "answer": "Greek"
+      },
+      {
+        "question": "Which numeral system did ancient Mesopotamians use that influences modern time measurement?",
+        "options": [
+          "Sexagesimal",
+          "Binary",
+          "Duodecimal"
+        ],
+        "answer": "Sexagesimal"
+      },
+      {
+        "question": "Which script was developed by Sequoyah for the Cherokee language?",
+        "options": [
+          "Cherokee syllabary",
+          "Latin alphabet adaptation",
+          "Cyrillic extension"
+        ],
+        "answer": "Cherokee syllabary"
+      },
+      {
+        "question": "What is the primary purpose of the International Phonetic Alphabet (IPA)?",
+        "options": [
+          "Represent speech sounds",
+          "Encode numbers",
+          "Designively name letters"
+        ],
+        "answer": "Represent speech sounds"
+      },
+      {
+        "question": "Which character set standard extends ASCII and assigns code points to virtually all scripts?",
+        "options": [
+          "Unicode",
+          "EBCDIC",
+          "UTF-7"
+        ],
+        "answer": "Unicode"
+      },
+      {
+        "question": "What is a common name for the base-8 numeral system?",
+        "options": [
+          "Octal",
+          "Hexadecimal",
+          "Ternary"
+        ],
+        "answer": "Octal"
+      },
+      {
+        "question": "Which script is an abugida where consonant letters carry an inherent vowel?",
+        "options": [
+          "Devanagari",
+          "Arabic",
+          "Latin"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which medieval mathematician introduced Hindu-Arabic numerals to Europe in Liber Abaci?",
+        "options": [
+          "Fibonacci",
+          "Euclid",
+          "Cardano"
+        ],
+        "answer": "Fibonacci"
+      },
+      {
+        "question": "Which system marks thousands in Roman numerals using an overline?",
+        "options": [
+          "Vinculum notation",
+          "Hyphen notation",
+          "Parenthetical notation"
+        ],
+        "answer": "Vinculum notation"
+      },
+      {
+        "question": "Which alphabet is written from right to left and contains 22 letters?",
+        "options": [
+          "Hebrew",
+          "Greek",
+          "Latin"
+        ],
+        "answer": "Hebrew"
+      },
+      {
+        "question": "Which modern script was created in the 15th century to write Korean?",
+        "options": [
+          "Hangul",
+          "Katakana",
+          "Devanagari"
+        ],
+        "answer": "Hangul"
+      },
+      {
+        "question": "Which numeric prefix indicates a base of twelve in numeral systems?",
+        "options": [
+          "Duodecimal",
+          "Quaternary",
+          "Senary"
+        ],
+        "answer": "Duodecimal"
+      },
+      {
+        "question": "Which system encodes characters as numerical code points like U+0041 for 'A'?",
+        "options": [
+          "Unicode",
+          "Morse",
+          "Braille"
+        ],
+        "answer": "Unicode"
+      },
+      {
+        "question": "Which early alphabetic symbol meaning 'ox' developed into the letter 'A'?",
+        "options": [
+          "Aleph",
+          "Beth",
+          "Gimel"
+        ],
+        "answer": "Aleph"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which writing system represents consonants only and requires vowels be inferred?",
+        "options": [
+          "Abjad",
+          "Abugida",
+          "Alphabet"
+        ],
+        "answer": "Abjad"
+      },
+      {
+        "question": "Who popularized binary arithmetic in the West with an influential 1703 paper?",
+        "options": [
+          "Gottfried Wilhelm Leibniz",
+          "Isaac Newton",
+          "Blaise Pascal"
+        ],
+        "answer": "Gottfried Wilhelm Leibniz"
+      },
+      {
+        "question": "Which ancient culture developed the positional base-60 number system?",
+        "options": [
+          "Babylonians",
+          "Romans",
+          "Greeks"
+        ],
+        "answer": "Babylonians"
+      },
+      {
+        "question": "Which script classifies vowels as diacritics attached to consonant symbols?",
+        "options": [
+          "Abugida",
+          "Logographic",
+          "Featural alphabet"
+        ],
+        "answer": "Abugida"
+      },
+      {
+        "question": "Which numeric notation did Europeans largely adopt after Fibonacci's book Liber Abaci?",
+        "options": [
+          "Hindu-Arabic numerals",
+          "Roman numerals",
+          "Tally marks"
+        ],
+        "answer": "Hindu-Arabic numerals"
+      },
+      {
+        "question": "Which early writing system for Greek was a syllabary deciphered in the 20th century?",
+        "options": [
+          "Linear B",
+          "Linear A",
+          "Cretan hieroglyphs"
+        ],
+        "answer": "Linear B"
+      },
+      {
+        "question": "Which modern standard encodes over a million characters across multiple planes?",
+        "options": [
+          "Unicode",
+          "ASCII",
+          "EBCDIC"
+        ],
+        "answer": "Unicode"
+      },
+      {
+        "question": "What is the canonical name for the Unicode block containing basic Latin letters?",
+        "options": [
+          "Basic Latin",
+          "Latin Extended-A",
+          "Supplemental Latin"
+        ],
+        "answer": "Basic Latin"
+      },
+      {
+        "question": "Which numeral system did the Maya develop independently including a zero symbol?",
+        "options": [
+          "Vigesimal",
+          "Decimal",
+          "Sexagesimal"
+        ],
+        "answer": "Vigesimal"
+      },
+      {
+        "question": "Which alphabet was created by Mesrop Mashtots in the early 5th century?",
+        "options": [
+          "Armenian",
+          "Georgian",
+          "Cyrillic"
+        ],
+        "answer": "Armenian"
+      },
+      {
+        "question": "Which property describes Roman numerals compared to positional systems?",
+        "options": [
+          "Non-positional",
+          "Base-10 positional",
+          "Fractional positional"
+        ],
+        "answer": "Non-positional"
+      },
+      {
+        "question": "Which code ensures only one bit changes between successive values in sequence?",
+        "options": [
+          "Gray code",
+          "Hamming code",
+          "Manchester code"
+        ],
+        "answer": "Gray code"
+      },
+      {
+        "question": "Which script influenced the development of the modern Cyrillic alphabet?",
+        "options": [
+          "Greek",
+          "Latin",
+          "Hebrew"
+        ],
+        "answer": "Greek"
+      },
+      {
+        "question": "Which numeric representation stores decimal digits in binary-coded form?",
+        "options": [
+          "Binary-coded decimal",
+          "Two's complement",
+          "Floating point"
+        ],
+        "answer": "Binary-coded decimal"
+      },
+      {
+        "question": "Which system uses base-16 and is common in computing for color codes and memory addresses?",
+        "options": [
+          "Hexadecimal",
+          "Octal",
+          "Duodecimal"
+        ],
+        "answer": "Hexadecimal"
+      },
+      {
+        "question": "Which inventory of letters forms the International Morse alphabet for telegraphy?",
+        "options": [
+          "Dot-and-dash signals mapped to letters",
+          "Tactile raised-dot patterns",
+          "Seven-bit numeric codes"
+        ],
+        "answer": "Dot-and-dash signals mapped to letters"
+      },
+      {
+        "question": "Which alphabetic order tradition places letters in the same sequence as Phoenician origin?",
+        "options": [
+          "Hebrew order",
+          "Runic order",
+          "Greek modern order"
+        ],
+        "answer": "Hebrew order"
+      },
+      {
+        "question": "Which ancient numeral system used wedge-shaped marks pressed into clay tablets?",
+        "options": [
+          "Cuneiform numerals",
+          "Roman numerals",
+          "Egyptian hieratic numerals"
+        ],
+        "answer": "Cuneiform numerals"
+      },
+      {
+        "question": "Which script is known for its distinctive syllabic signs on inscriptions at Ugarit?",
+        "options": [
+          "Ugaritic alphabet",
+          "Proto-Sinaitic script",
+          "Linear A"
+        ],
+        "answer": "Ugaritic alphabet"
+      },
+      {
+        "question": "Which alphabet type groups letters by shared visual features, like Korean Hangul?",
+        "options": [
+          "Featural alphabet",
+          "Abjad",
+          "Syllabary"
+        ],
+        "answer": "Featural alphabet"
+      },
+      {
+        "question": "Which organization oversees the Unicode Standard and its code charts?",
+        "options": [
+          "Unicode Consortium",
+          "ISO",
+          "IETF"
+        ],
+        "answer": "Unicode Consortium"
+      },
+      {
+        "question": "Which numeral system name literally means 'counting by twelves'?",
+        "options": [
+          "Duodecimal",
+          "Ternary",
+          "Senary"
+        ],
+        "answer": "Duodecimal"
+      },
+      {
+        "question": "Which letter originally named 'beth' meant 'house' in early Semitic acrophony?",
+        "options": [
+          "B",
+          "A",
+          "G"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which early European script was used by Germanic peoples and influenced later alphabets?",
+        "options": [
+          "Runic",
+          "Ogham",
+          "Coptic"
+        ],
+        "answer": "Runic"
+      },
+      {
+        "question": "Which numeral system is commonly used in digital displays grouped by three bits called octets?",
+        "options": [
+          "Binary grouped into bytes",
+          "Hexadecimal grouped into nibbles",
+          "Decimal grouped into digits"
+        ],
+        "answer": "Binary grouped into bytes"
+      },
+      {
+        "question": "Which historic practice used acrophonic naming where letters came from words and objects?",
+        "options": [
+          "Semitic alphabet naming",
+          "Chinese logograms",
+          "Egyptian hieroglyphic rebus"
+        ],
+        "answer": "Semitic alphabet naming"
+      },
+      {
+        "question": "Which script reform in the 9th–10th centuries produced Glagolitic and Cyrillic forms?",
+        "options": [
+          "Slavic Christian script development",
+          "Latin script abbreviation",
+          "Hebrew square script"
+        ],
+        "answer": "Slavic Christian script development"
+      },
+      {
+        "question": "Which early numeric artifact shows a positional sexagesimal system on clay tablets?",
+        "options": [
+          "Babylonian tablet",
+          "Roman stone inscription",
+          "Mayan stela"
+        ],
+        "answer": "Babylonian tablet"
+      },
+      {
+        "question": "Which script uses diacritics called harakat to represent short vowels in Arabic?",
+        "options": [
+          "Arabic script",
+          "Greek script",
+          "Hebrew script"
+        ],
+        "answer": "Arabic script"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Phoenician letter name originally meant 'ox' and morphed into Greek Alpha and Latin A?",
+        "options": [
+          "Aleph",
+          "Beth",
+          "Gimel"
+        ],
+        "answer": "Aleph"
+      },
+      {
+        "question": "Which Unicode plane contains the Basic Multilingual Plane covering U+0000 to U+FFFF?",
+        "options": [
+          "Plane 0",
+          "Plane 1",
+          "Plane 2"
+        ],
+        "answer": "Plane 0"
+      },
+      {
+        "question": "Which 19th-century scholar deciphered Linear B in 1952 using comparative linguistic methods?",
+        "options": [
+          "Michael Ventris",
+          "Arthur Evans",
+          "John Chadwick"
+        ],
+        "answer": "Michael Ventris"
+      },
+      {
+        "question": "Which notation did Brahmagupta formalize with rules for zero in the 7th century CE?",
+        "options": [
+          "Indian numeral operations",
+          "Greek abacus rules",
+          "Roman bookkeeping notation"
+        ],
+        "answer": "Indian numeral operations"
+      },
+      {
+        "question": "Which historical alphabet used a cuneiform-like script but functioned as an alphabet at Ugarit?",
+        "options": [
+          "Ugaritic alphabet",
+          "Proto-Canaanite script",
+          "Linear A"
+        ],
+        "answer": "Ugaritic alphabet"
+      },
+      {
+        "question": "Which digital text encoding form is a variable-length encoding of Unicode using one to four bytes?",
+        "options": [
+          "UTF-8",
+          "UTF-16",
+          "UTF-32"
+        ],
+        "answer": "UTF-8"
+      },
+      {
+        "question": "Which specialized numeral system uses digits −1, 0, and +1 often represented as T, 0, 1?",
+        "options": [
+          "Balanced ternary",
+          "Signed binary",
+          "Signed decimal"
+        ],
+        "answer": "Balanced ternary"
+      },
+      {
+        "question": "Which early alphabetic sequence principle assigns letter names from words via initial sounds?",
+        "options": [
+          "Acrophonic principle",
+          "Ideographic principle",
+          "Phonemic principle"
+        ],
+        "answer": "Acrophonic principle"
+      },
+      {
+        "question": "Which medieval manuscript tradition created the Carolingian minuscule influencing modern lowercase?",
+        "options": [
+          "Carolingian script reform",
+          "Insular script development",
+          "Gothic textura style"
+        ],
+        "answer": "Carolingian script reform"
+      },
+      {
+        "question": "Which numeric representation method stores negative integers by inverting bits and adding one?",
+        "options": [
+          "Two's complement",
+          "One's complement",
+          "Sign-magnitude"
+        ],
+        "answer": "Two's complement"
+      },
+      {
+        "question": "Which ancient Semitic script predecessor is often called Proto-Sinaitic and predates Phoenician?",
+        "options": [
+          "Proto-Sinaitic",
+          "Ugaritic",
+          "Linear B"
+        ],
+        "answer": "Proto-Sinaitic"
+      },
+      {
+        "question": "Which Unicode block contains the Braille patterns encoded from U+2800 through U+28FF?",
+        "options": [
+          "Braille Patterns",
+          "Control Pictures",
+          "Private Use Area"
+        ],
+        "answer": "Braille Patterns"
+      },
+      {
+        "question": "Which writing system invented by Sequoyah assigns syllabic characters to Cherokee sounds?",
+        "options": [
+          "Cherokee syllabary",
+          "Cherokee alphabet",
+          "Cherokee abjad"
+        ],
+        "answer": "Cherokee syllabary"
+      },
+      {
+        "question": "Which alphabetic script reformer created Armenian letters roughly in the year 405 CE?",
+        "options": [
+          "Mesrop Mashtots",
+          "Saint Cyril",
+          "King Pharnavaz"
+        ],
+        "answer": "Mesrop Mashtots"
+      },
+      {
+        "question": "Which ancient culture applied acrophony to name letters after everyday objects like 'house' and 'ox'?",
+        "options": [
+          "Semitic peoples",
+          "Minoans",
+          "Sumerians"
+        ],
+        "answer": "Semitic peoples"
+      },
+      {
+        "question": "Which encoding standard preceded Unicode and used eight-bit EBCDIC in IBM systems?",
+        "options": [
+          "EBCDIC",
+          "ASCII Extended",
+          "ISO-8859-1"
+        ],
+        "answer": "EBCDIC"
+      },
+      {
+        "question": "Which numeric base underlies standard timekeeping divisions of minutes and seconds?",
+        "options": [
+          "Base 60",
+          "Base 10",
+          "Base 12"
+        ],
+        "answer": "Base 60"
+      },
+      {
+        "question": "Which early inscription discovered in Sinai provides evidence of alphabetic precursors to Phoenician?",
+        "options": [
+          "Proto-Sinaitic inscriptions",
+          "Ugaritic tablets",
+          "Tell el-Amarna letters"
+        ],
+        "answer": "Proto-Sinaitic inscriptions"
+      },
+      {
+        "question": "Which script family includes Devanagari and uses inherent vowel signs on consonants?",
+        "options": [
+          "Brahmic scripts",
+          "Cyrillic family",
+          "Uralic scripts"
+        ],
+        "answer": "Brahmic scripts"
+      },
+      {
+        "question": "Which medieval numeral system used letters of the alphabet as numbers in Greek practice?",
+        "options": [
+          "Greek alphanumeric system",
+          "Roman numerals",
+          "Hebrew gematria only"
+        ],
+        "answer": "Greek alphanumeric system"
+      },
+      {
+        "question": "Which scholar is credited with early systematic description of binary correlating to 0 and 1 symbolism?",
+        "options": [
+          "Gottfried Wilhelm Leibniz",
+          "John Napier",
+          "Brahmagupta"
+        ],
+        "answer": "Gottfried Wilhelm Leibniz"
+      },
+      {
+        "question": "Which script developed for Slavic languages in the 9th century has two early forms, Glagolitic and Cyrillic?",
+        "options": [
+          "Slavic Christian scripts",
+          "Old Church Latin",
+          "Old Norse runes"
+        ],
+        "answer": "Slavic Christian scripts"
+      },
+      {
+        "question": "Which notation uses marks over numerals to indicate multiplication by powers of one thousand in Roman practice?",
+        "options": [
+          "Vinculum or overline notation",
+          "Subscript notation",
+          "Apostrophus marking"
+        ],
+        "answer": "Vinculum or overline notation"
+      },
+      {
+        "question": "Which ancient script intermediate between pictogram and alphabet introduced simplified signs for consonants?",
+        "options": [
+          "Proto-Canaanite",
+          "Cuneiform syllabary",
+          "Egyptian hieratic"
+        ],
+        "answer": "Proto-Canaanite"
+      },
+      {
+        "question": "Which cryptic alphabetic order variation places letters by phonetic grouping rather than historical order?",
+        "options": [
+          "Phonetic ordering",
+          "Acrophonic ordering",
+          "Numerical ordering"
+        ],
+        "answer": "Phonetic ordering"
+      },
+      {
+        "question": "Which numeric notation used by Chinese mathematicians adopted counting rods and decimal place value?",
+        "options": [
+          "Rod numerals",
+          "Oracle bone numerals",
+          "Abacus-only notation"
+        ],
+        "answer": "Rod numerals"
+      },
+      {
+        "question": "Which early printed work standardized many letter shapes in Latin script during the Renaissance?",
+        "options": [
+          "Incunabula printed typefaces",
+          "Cuneiform tablets",
+          "Caroline manuscripts"
+        ],
+        "answer": "Incunabula printed typefaces"
+      },
+      {
+        "question": "Which alphabetic concept distinguishes between phonemic letters and suprasegmental marks like accents?",
+        "options": [
+          "Phonemic orthography",
+          "Syntactic orthography",
+          "Morphographic orthography"
+        ],
+        "answer": "Phonemic orthography"
+      },
+      {
+        "question": "Which obscure numeral notation historically used Hebrew letters to represent numbers in manuscripts?",
+        "options": [
+          "Gematria notation",
+          "Roman tally notation",
+          "Greek acrophonic notation"
+        ],
+        "answer": "Gematria notation"
+      },
+      {
+        "question": "Which innovative Hangul feature encodes phonological features into letter shapes, classifying it as what type?",
+        "options": [
+          "Featural alphabet",
+          "Syllabary",
+          "Abjad"
+        ],
+        "answer": "Featural alphabet"
+      }
+    ]
+  }
+}

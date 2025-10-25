@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which element is required for thyroid hormone production?",
+      "options": [
+        "Iodine",
+        "Iron",
+        "Calcium"
+      ],
+      "answer": "Iodine"
+    },
+    {
+      "question_id": 2,
+      "question": "Which compound is widely used as a pH indicator in labs, turning pink in basic solutions?",
+      "options": [
+        "Phenolphthalein",
+        "Methyl orange",
+        "Bromothymol blue"
+      ],
+      "answer": "Phenolphthalein"
+    },
+    {
+      "question_id": 3,
+      "question": "Which metal's high neutron absorption cross-section makes it useful for nuclear control rods?",
+      "options": [
+        "Boron",
+        "Aluminum",
+        "Titanium"
+      ],
+      "answer": "Boron"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 5,
+      "question": "Which noble gas is used in high-voltage electrical switches and to fill incandescent bulbs?",
+      "options": [
+        "Argon",
+        "Neon",
+        "Helium"
+      ],
+      "answer": "Argon"
+    },
+    {
+      "question_id": 6,
+      "question": "Which element forms the basis of organometallic Grubbs catalysts used in olefin metathesis?",
+      "options": [
+        "Ruthenium",
+        "Palladium",
+        "Iron"
+      ],
+      "answer": "Ruthenium"
+    },
+    {
+      "question_id": 7,
+      "question": "Which gas makes up about 78% of Earth's atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "question_id": 8,
+      "question": "Which compound is used as the primary refrigerant historically known as CFC-12 (dichlorodifluoromethane)?",
+      "options": [
+        "CCl2F2",
+        "CH4",
+        "CO2"
+      ],
+      "answer": "CCl2F2"
+    },
+    {
+      "question_id": 9,
+      "question": "Which element's ferromagnetism disappears above its Curie temperature around 770°C?",
+      "options": [
+        "Iron",
+        "Cobalt",
+        "Nickel"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the chemical symbol for oxygen?",
+      "options": [
+        "O",
+        "Ox",
+        "Og"
+      ],
+      "answer": "O"
+    },
+    {
+      "question_id": 11,
+      "question": "Which element is central in organic chemistry naming and bonding versatility?",
+      "options": [
+        "Carbon",
+        "Silicon",
+        "Boron"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 12,
+      "question": "Which element's stable isotopes make it useful as a geochemical tracer for climate studies (e.g., oxygen isotopes)?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 13,
+      "question": "Which element's isotope is commonly used for carbon dating?",
+      "options": [
+        "Carbon-14",
+        "Carbon-12",
+        "Carbon-13"
+      ],
+      "answer": "Carbon-14"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element's allotrope black phosphorus has a layered structure and emerging interest for semiconductor applications?",
+      "options": [
+        "Phosphorus",
+        "Carbon",
+        "Sulfur"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "question_id": 15,
+      "question": "Which transition metal is central to biological nitrogenase enzymes enabling biological nitrogen fixation?",
+      "options": [
+        "Molybdenum",
+        "Copper",
+        "Zinc"
+      ],
+      "answer": "Molybdenum"
+    }
+  ]
+}

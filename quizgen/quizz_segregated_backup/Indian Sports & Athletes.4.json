@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which sport is popularized in India by the Pro Kabaddi League?",
+      "options": [
+        "Kabaddi",
+        "Kho-Kho",
+        "Wrestling"
+      ],
+      "answer": "Kabaddi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian wrestler won India's first wrestling medal at the 2008 Olympics?",
+      "options": [
+        "Sushil Kumar",
+        "Yuvaraj Singh Dahiya",
+        "Yogeshwar Dutt"
+      ],
+      "answer": "Sushil Kumar"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian chess grandmaster drew a historic 1998 match to win the FIDE World Championship? (Reference: Anand era)",
+      "options": [
+        "Viswanathan Anand",
+        "Krishnan Sasikiran",
+        "B. Adhiban"
+      ],
+      "answer": "Viswanathan Anand"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian cricketer captained India to the 2007 ICC World Twenty20 title?",
+      "options": [
+        "MS Dhoni",
+        "Rohit Sharma",
+        "Gautam Gambhir"
+      ],
+      "answer": "MS Dhoni"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian footballer captained India to the 1962 Asian Games gold medal?",
+      "options": [
+        "Chuni Goswami",
+        "IM Vijayan",
+        "PK Banerjee"
+      ],
+      "answer": "Chuni Goswami"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian athlete won the 2018 Jakarta Asian Games gold in 400m hurdles?",
+      "options": [
+        "Muhammed Anas",
+        "Arokia Rajiv",
+        "Muhammad Ajmal"
+      ],
+      "answer": "Muhammed Anas"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian field hockey team captain led India to multiple Olympic golds pre-independence?",
+      "options": [
+        "Dhyan Chand",
+        "Dhanraj Pillay",
+        "Leslie Claudius"
+      ],
+      "answer": "Dhyan Chand"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian bowler delivered the match-winning over in the 2007 T20 World Cup final?",
+      "options": [
+        "Joginder Sharma",
+        "Harbhajan Singh",
+        "Irfan Pathan"
+      ],
+      "answer": "Joginder Sharma"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian athlete won gold in discus throw at the 2018 Asian Games?",
+      "options": [
+        "Vijay Singh",
+        "Amit Kumar Saroha",
+        "Neeraj Chopra"
+      ],
+      "answer": "Amit Kumar Saroha"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian chess player became World Chess Champion and popularized chess nationally?",
+      "options": [
+        "Viswanathan Anand",
+        "Koneru Humpy",
+        "B. Adhiban"
+      ],
+      "answer": "Viswanathan Anand"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian cricketer took a hat-trick in the 2007 ICC World Twenty20 Super 8s?",
+      "options": [
+        "Irfan Pathan",
+        "Pragyan Ojha",
+        "Ishant Sharma"
+      ],
+      "answer": "Irfan Pathan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian cricketer was awarded Player of the Tournament in the 2007 T20 World Cup?",
+      "options": [
+        "Shane Watson",
+        "MS Dhoni",
+        "Gautam Gambhir"
+      ],
+      "answer": "Shane Watson"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian sprinter reached fourth place in the 1960 Olympic 400m final?",
+      "options": [
+        "Milkha Singh",
+        "CK Nayudu",
+        "PT Usha"
+      ],
+      "answer": "Milkha Singh"
+    },
+    {
+      "question_id": 14,
+      "question": "Who captained the Indian women's hockey team at the 2020 Tokyo Olympics?",
+      "options": [
+        "Rani Rampal",
+        "Nongthombam",
+        "Sushila Chanu"
+      ],
+      "answer": "Rani Rampal"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian cricketer took a Test hat-trick and five-wicket haul at Lord's in 1986?",
+      "options": [
+        "Navjot Sidhu",
+        "Kapil Dev",
+        "Irfan Pathan"
+      ],
+      "answer": "Kapil Dev"
+    }
+  ]
+}

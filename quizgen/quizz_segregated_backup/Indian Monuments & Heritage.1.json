@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Mughal garden tomb inspired later Mughal architecture and sits in Delhi?",
+      "options": [
+        "Humayun's Tomb",
+        "Safdarjung's Tomb",
+        "Itimad-ud-Daulah"
+      ],
+      "answer": "Humayun's Tomb"
+    },
+    {
+      "question_id": 2,
+      "question": "Which technique of inlay using semi-precious stones decorates the Taj Mahal?",
+      "options": [
+        "Pietra dura",
+        "Fresco secco",
+        "Gilding"
+      ],
+      "answer": "Pietra dura"
+    },
+    {
+      "question_id": 3,
+      "question": "Which UNESCO-listed complex includes caves created by Buddhist monks between second century BCE and sixth century CE?",
+      "options": [
+        "Ajanta Caves",
+        "Elephanta Caves",
+        "Ellora Caves"
+      ],
+      "answer": "Ajanta Caves"
+    },
+    {
+      "question_id": 4,
+      "question": "Where is the Brihadeeswarar Temple located?",
+      "options": [
+        "Thanjavur",
+        "Madurai",
+        "Chidambaram"
+      ],
+      "answer": "Thanjavur"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Ajanta cave contains notable scenes of Bodhisattva figures and court life paintings?",
+      "options": [
+        "Cave 1",
+        "Cave 10",
+        "Cave 30"
+      ],
+      "answer": "Cave 1"
+    },
+    {
+      "question_id": 6,
+      "question": "Which inscription on the Qutb Iron Pillar links it to Gupta ruler Chandragupta II?",
+      "options": [
+        "Vishnugupta",
+        "Skandagupta",
+        "Samudragupta"
+      ],
+      "answer": "Vishnugupta"
+    },
+    {
+      "question_id": 7,
+      "question": "Which temple in Madurai is famous for its gopurams and annual chariot festival?",
+      "options": [
+        "Meenakshi Amman Temple",
+        "Ramanathaswamy Temple",
+        "Kapaleeshwarar Temple"
+      ],
+      "answer": "Meenakshi Amman Temple"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ancient university ruins near Patna are associated with Nalanda heritage?",
+      "options": [
+        "Nalanda University ruins",
+        "Takshashila ruins",
+        "Vikramashila ruins"
+      ],
+      "answer": "Nalanda University ruins"
+    },
+    {
+      "question_id": 9,
+      "question": "Which fort in India houses the world's largest cannon called 'Jaivana' placed on carriage?",
+      "options": [
+        "Jaipur's Jaigarh Fort",
+        "Mehrangarh Fort",
+        "Golconda Fort"
+      ],
+      "answer": "Jaipur's Jaigarh Fort"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city hosts the Victoria Memorial, a British-era monument?",
+      "options": [
+        "Kolkata",
+        "Mumbai",
+        "Chennai"
+      ],
+      "answer": "Kolkata"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Delhi complex contains the Iron Pillar famous for rust resistance?",
+      "options": [
+        "Qutub Complex",
+        "Red Fort Complex",
+        "Humayun's Complex"
+      ],
+      "answer": "Qutub Complex"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian monument features the motif of dancing apsaras carved extensively on its walls?",
+      "options": [
+        "Khajuraho temples",
+        "Konark Sun Temple",
+        "Ellora Kailasa Temple"
+      ],
+      "answer": "Khajuraho temples"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the main material used in Agra's Red Fort construction?",
+      "options": [
+        "Red sandstone",
+        "White marble",
+        "Granite"
+      ],
+      "answer": "Red sandstone"
+    },
+    {
+      "question_id": 14,
+      "question": "Which monument in Chennai commemorates the British victory and is also a museum?",
+      "options": [
+        "Fort St. George",
+        "Victoria Memorial",
+        "Ripon Building"
+      ],
+      "answer": "Fort St. George"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 10th-century Chalukya site is recognized for its temple-pavilion experiments at Pattadakal?",
+      "options": [
+        "Pattadakal temple complex",
+        "Aihole temple complex",
+        "Badami cave complex"
+      ],
+      "answer": "Pattadakal temple complex"
+    }
+  ]
+}

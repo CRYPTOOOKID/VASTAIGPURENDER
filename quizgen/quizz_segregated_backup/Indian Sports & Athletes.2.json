@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian shooter won the country's first individual Olympic gold?",
+      "options": [
+        "Abhinav Bindra",
+        "Rajyavardhan Singh Rathore",
+        "Gagan Narang"
+      ],
+      "answer": "Abhinav Bindra"
+    },
+    {
+      "question_id": 2,
+      "question": "Who is the first Indian woman to win an Asian Games badminton singles gold?",
+      "options": [
+        "Saina Nehwal",
+        "PV Sindhu",
+        "Susi Susanti"
+      ],
+      "answer": "Saina Nehwal"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian shooter won two medals at the 2018 Commonwealth Games, including a gold in 10m air pistol?",
+      "options": [
+        "Jitu Rai",
+        "Abhinav Bindra",
+        "Rahi Sarnobat"
+      ],
+      "answer": "Jitu Rai"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian cricketer is nicknamed the 'Little Master'?",
+      "options": [
+        "Sachin Tendulkar",
+        "Sunil Gavaskar",
+        "Virender Sehwag"
+      ],
+      "answer": "Sachin Tendulkar"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian chess player became women's world rapid champion in 2019?",
+      "options": [
+        "Koneru Humpy",
+        "Harika Dronavalli",
+        "Tania Sachdev"
+      ],
+      "answer": "Koneru Humpy"
+    },
+    {
+      "question_id": 6,
+      "question": "Who was India's head coach when the women's hockey team qualified for the 2016 Olympics after decades?",
+      "options": [
+        "Sjoerd Marijne",
+        "Janneke Schopman",
+        "Tushar Khandekar"
+      ],
+      "answer": "Sjoerd Marijne"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian boxer is a six-time world amateur champion?",
+      "options": [
+        "Mary Kom",
+        "MC Mary",
+        "Niraj Singh"
+      ],
+      "answer": "Mary Kom"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian boxer won the first Olympic boxing medal for India in 2008?",
+      "options": [
+        "Vijender Singh",
+        "Mary Kom",
+        "Laishram Sarita Devi"
+      ],
+      "answer": "Vijender Singh"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian cricketer scored a century in both innings of a Test match in 2016 series?",
+      "options": [
+        "Cheteshwar Pujara",
+        "KL Rahul",
+        "Virat Kohli"
+      ],
+      "answer": "Cheteshwar Pujara"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian cricketer is known as the 'Wall' for defensive batting?",
+      "options": [
+        "Rahul Dravid",
+        "VVS Laxman",
+        "Sachin Tendulkar"
+      ],
+      "answer": "Rahul Dravid"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian shooter won silver in 10m air rifle at the 2004 Athens Olympics?",
+      "options": [
+        "Rajyavardhan Singh Rathore",
+        "Abhinav Bindra",
+        "Gagan Narang"
+      ],
+      "answer": "Rajyavardhan Singh Rathore"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian weightlifter set a Commonwealth Games record total in 2010 Delhi?",
+      "options": [
+        "Sanjay Kumar",
+        "Sathish Sivalingam",
+        "Karnam Malleswari"
+      ],
+      "answer": "Sathish Sivalingam"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian women's cricket captain led India to 2017 ODI World Cup final?",
+      "options": [
+        "Mithali Raj",
+        "Harmanpreet Kaur",
+        "Jhulan Goswami"
+      ],
+      "answer": "Mithali Raj"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian sportsperson won the first Commonwealth Games gold in athletics for India in 2002?",
+      "options": [
+        "Anju Bobby George",
+        "Sanjivani Jadhav",
+        "Jyotirmoyee Sikdar"
+      ],
+      "answer": "Anju Bobby George"
+    },
+    {
+      "question_id": 15,
+      "question": "Who coached the Indian men's hockey team during the 2016 Rio Olympics campaign?",
+      "options": [
+        "Roelant Oltmans",
+        "Michael Nobbs",
+        "Terry Walsh"
+      ],
+      "answer": "Roelant Oltmans"
+    }
+  ]
+}

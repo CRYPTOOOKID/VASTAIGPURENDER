@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which snack brand uses \"Once you pop, you can't stop\"?",
+      "options": [
+        "Pringles",
+        "Doritos",
+        "Lays"
+      ],
+      "answer": "Pringles"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand's tagline stressed product function with a clever onomatopoeic line about a clock?",
+      "options": [
+        "Rolls-Royce ad line",
+        "Cadillac ad line",
+        "Bentley ad line"
+      ],
+      "answer": "Rolls-Royce ad line"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company's tagline has been periodically refreshed but retains the original core idea since 1973?",
+      "options": [
+        "Because You're Worth It (L'Oréal)",
+        "Just Do It (Nike)",
+        "Have It Your Way (Burger King)"
+      ],
+      "answer": "Because You're Worth It (L'Oréal)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which brand used the slogan \"Think Different\"?",
+      "options": [
+        "Microsoft",
+        "Apple",
+        "IBM"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 5,
+      "question": "Which global brand revived a classic name with the tagline \"Taste the Feeling\" in 2016?",
+      "options": [
+        "Pepsi",
+        "Coca-Cola",
+        "Dr Pepper"
+      ],
+      "answer": "Coca-Cola"
+    },
+    {
+      "question_id": 6,
+      "question": "Which copywriter famously wrote the Rolls-Royce line about the loudest noise being the electric clock?",
+      "options": [
+        "David Ogilvy",
+        "John Watson",
+        "Howard Gossage"
+      ],
+      "answer": "David Ogilvy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which automaker uses the tagline \"Let's Go Places\"?",
+      "options": [
+        "Toyota",
+        "Honda",
+        "Nissan"
+      ],
+      "answer": "Toyota"
+    },
+    {
+      "question_id": 8,
+      "question": "Which retailer launched the slogan \"Expect More. Pay Less.\"?",
+      "options": [
+        "Target",
+        "Kmart",
+        "Sears"
+      ],
+      "answer": "Target"
+    },
+    {
+      "question_id": 9,
+      "question": "Which copywriter's 1947 line for De Beers shifted consumer behavior globally?",
+      "options": [
+        "Frances Gerety",
+        "Rosser Reeves",
+        "Leo Burnett"
+      ],
+      "answer": "Frances Gerety"
+    },
+    {
+      "question_id": 10,
+      "question": "Which retailer uses the tagline \"Expect More. Pay Less.\"?",
+      "options": [
+        "Target",
+        "Walgreens",
+        "Best Buy"
+      ],
+      "answer": "Target"
+    },
+    {
+      "question_id": 11,
+      "question": "Which chocolate brand asks consumers about feeling rather than ingredients with its slogan?",
+      "options": [
+        "Hershey's",
+        "KitKat",
+        "M&M's"
+      ],
+      "answer": "M&M's"
+    },
+    {
+      "question_id": 12,
+      "question": "Which famous tagline began as a single-sentence headline in a 1958 print ad?",
+      "options": [
+        "At 60 miles an hour the loudest noise...",
+        "The Pause That Refreshes",
+        "A Diamond Is Forever"
+      ],
+      "answer": "At 60 miles an hour the loudest noise..."
+    },
+    {
+      "question_id": 13,
+      "question": "Which candy uses the slogan \"Melts in your mouth, not in your hands\"?",
+      "options": [
+        "Skittles",
+        "M&M's",
+        "Hershey's"
+      ],
+      "answer": "M&M's"
+    },
+    {
+      "question_id": 14,
+      "question": "Which advertising agency coined Nike's \"Just Do It\" slogan?",
+      "options": [
+        "Ogilvy",
+        "Wieden+Kennedy",
+        "DDB"
+      ],
+      "answer": "Wieden+Kennedy"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advertising line did Justin Timberlake help popularize as a jingle?",
+      "options": [
+        "I'm Lovin' It",
+        "Open Happiness",
+        "Live For Now"
+      ],
+      "answer": "I'm Lovin' It"
+    }
+  ]
+}

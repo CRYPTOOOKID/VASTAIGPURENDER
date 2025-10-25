@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which screening prevents Rh-negative mothers from developing anti-D antibodies?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which antibody class crosses the placenta and causes hemolytic disease of the fetus?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which coexisting antigen weakly expressed can complicate Rh typing known as weak D?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which result shows a person has antibodies to A and B antigens?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which transfusion practice is used for patients with sickle cell disease requiring chronic transfusions?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which analytical method separates red cell populations to detect mixed-field agglutination?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which professional typically collects blood donations for transfusion?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which blood type component requires ABO compatibility for platelet transfusion in some cases?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare blood group lacks expression of Rh antigens entirely and can donate to any Rh type?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which component contains clotting factors and is liquid portion of blood?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which transfusion reaction presents with urticaria and pruritus shortly after transfusion?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which alloantibody specificity commonly produces a positive direct antiglobulin test in newborns?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which symptom suggests an acute hemolytic transfusion reaction?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which test quantifies fetal red blood cell volume in maternal circulation?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which gene encodes the H antigen precursor required for A and B antigen formation?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What condition does 'hypertension' describe in everyday medical language?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias when low?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which HIV test detects viral RNA directly to diagnose acute infection before antibodies appear?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes inflammation of the liver commonly caused by viruses or toxins?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which bacterium most commonly causes community-acquired pneumonia in adults?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fetal chromosomal abnormality increases nuchal translucency and trisomy 21 markers on screening ultrasound?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which organ system does 'pulmonary' relate to in medical terminology?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which hormone released from adrenal medulla increases heart rate and blood pressure acutely?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which acute leukemia predominates in children and shows TdT-positive lymphoblasts immunophenotypically?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'antibiotic' primarily treat in clinical practice?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which medical imaging modality is best for detecting acute intracranial hemorrhage quickly?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which pathogen is identified by Gram-negative coccobacilli and causes whooping cough historically?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'PCR' test detect when used in infectious disease diagnosis?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nutritional deficiency causes megaloblastic anemia with neurological symptoms when chronic?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which criterion defines systemic inflammatory response syndrome using temperature, heart rate, respiratory rate, white cells?"
+    }
+  ]
+}

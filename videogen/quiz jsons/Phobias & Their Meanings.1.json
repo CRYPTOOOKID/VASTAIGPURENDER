@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'claustrophobia' refer to?",
+      "options": [
+        "Fear of animals",
+        "Fear of confined spaces",
+        "Fear of loud noises"
+      ],
+      "answer": "Fear of confined spaces"
+    },
+    {
+      "question_id": 2,
+      "question": "Which early behaviorist published influential research on conditioned fear reduction?",
+      "options": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Mary Cover Jones"
+      ],
+      "answer": "Mary Cover Jones"
+    },
+    {
+      "question_id": 3,
+      "question": "Which evidence-based technique uses hierarchical steps of feared stimuli during exposure?",
+      "options": [
+        "Fear hierarchy (graded exposure)",
+        "Flooding without preparation",
+        "Random exposure"
+      ],
+      "answer": "Fear hierarchy (graded exposure)"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'hemophobia' refer to?",
+      "options": [
+        "Fear of blood",
+        "Fear of spiders",
+        "Fear of maps"
+      ],
+      "answer": "Fear of blood"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia concerns fear of development or loss associated with aging?",
+      "options": [
+        "Atychiphobia",
+        "Gerascophobia",
+        "Thanatophobia"
+      ],
+      "answer": "Gerascophobia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phobia involves fear of clowns and has notable cultural representation in media?",
+      "options": [
+        "Coulrophobia",
+        "Podophobia",
+        "Xenophobia"
+      ],
+      "answer": "Coulrophobia"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'zoophobia' refer to?",
+      "options": [
+        "Fear of animals",
+        "Fear of numbers",
+        "Fear of open spaces"
+      ],
+      "answer": "Fear of animals"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia involves fear of being judged or embarrassed socially?",
+      "options": [
+        "Agoraphobia",
+        "Pyrophobia",
+        "Social phobia"
+      ],
+      "answer": "Social phobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which historical therapy used gradual pairing of feared animal with positive experiences to reduce fear?",
+      "options": [
+        "Mary Cover Jones's direct conditioning work with rabbits",
+        "Electrotherapy frontal lobe stimulation",
+        "Freudian dream analysis"
+      ],
+      "answer": "Mary Cover Jones's direct conditioning work with rabbits"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'elaiphobia' mean?",
+      "options": [
+        "Fear of the color black",
+        "Fear of oils or greasy substances",
+        "Fear of bridges"
+      ],
+      "answer": "Fear of oils or greasy substances"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia often appears in childhood and can persist into adulthood?",
+      "options": [
+        "Schizoid phobia",
+        "Dysthymia",
+        "Specific animal phobias"
+      ],
+      "answer": "Specific animal phobias"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare phobia describes fear of crossing or walking under bridges specifically?",
+      "options": [
+        "Chasmophobia (related to bridges)",
+        "Iatrophobia",
+        "Ablutophobia"
+      ],
+      "answer": "Chasmophobia (related to bridges)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia refers to fear of dogs?",
+      "options": [
+        "Cynophobia",
+        "Mysophobia",
+        "Heliophobia"
+      ],
+      "answer": "Cynophobia"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia commonly appears as a fear of needles during medical procedures?",
+      "options": [
+        "Heliophobia",
+        "Trypanophobia",
+        "Pogonophobia"
+      ],
+      "answer": "Trypanophobia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare phobia describes fear of the number thirteen specifically?",
+      "options": [
+        "Agoraphobia",
+        "Hexakosioihexekontahexaphobia",
+        "Triskaidekaphobia"
+      ],
+      "answer": "Triskaidekaphobia"
+    }
+  ]
+}

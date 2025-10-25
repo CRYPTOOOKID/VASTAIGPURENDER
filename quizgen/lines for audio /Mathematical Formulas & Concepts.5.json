@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which formula gives the volume of a rectangular prism?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which formula gives compound interest annually for principal P?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which result describes distribution of eigenvalues for random matrices in large limit (Wigner)?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which expression defines arithmetic sequence nth term?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the formula for combinations without repetition?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which identity expresses change of basis for bilinear forms using matrix P?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 0! equal to by definition?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which identity expresses cosine of a double angle?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which condition characterizes analyticity of complex function at a point via partial derivatives?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the Pythagorean theorem for right triangles?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which test determines series convergence by comparing to a known series?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which formula gives change of variables in multiple integrals with Jacobian J?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which formula gives the surface area of a cube with side s?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which condition ensures a function is bijective?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formula gives the Christoffel symbols in terms of metric g_{ij}?"
+    }
+  ]
+}

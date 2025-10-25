@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who led the Salt March to Dandi in 1930 as part of the civil disobedience movement?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which 1919 massacre at Jallianwala Bagh galvanized Indian opposition to British rule?",
+        "options": [
+          "Jallianwala Bagh Massacre",
+          "Chauri Chaura Incident",
+          "Dandi March"
+        ],
+        "answer": "Jallianwala Bagh Massacre"
+      },
+      {
+        "question": "In which year was the Indian National Congress founded?",
+        "options": [
+          "1885",
+          "1905",
+          "1920"
+        ],
+        "answer": "1885"
+      },
+      {
+        "question": "Who is popularly known as the 'Iron Man of India' for leading a campaign against princely rule?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "Bal Gangadhar Tilak",
+          "Gopal Krishna Gokhale"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which movement did Mahatma Gandhi call off after the Chauri Chaura violence in 1922?",
+        "options": [
+          "Non-Cooperation Movement",
+          "Civil Disobedience Movement",
+          "Quit India Movement"
+        ],
+        "answer": "Non-Cooperation Movement"
+      },
+      {
+        "question": "What was the main objective of the Quit India Movement launched in 1942?",
+        "options": [
+          "Immediate British withdrawal",
+          "Constitution drafting",
+          "Economic reforms"
+        ],
+        "answer": "Immediate British withdrawal"
+      },
+      {
+        "question": "Which empire built the rock edicts and spread Buddhism after the Kalinga War?",
+        "options": [
+          "Maurya Empire",
+          "Gupta Empire",
+          "Mughal Empire"
+        ],
+        "answer": "Maurya Empire"
+      },
+      {
+        "question": "Which city was the center of the Revolt of 1857 where the rebellion began in May?",
+        "options": [
+          "Meerut",
+          "Kanpur",
+          "Lucknow"
+        ],
+        "answer": "Meerut"
+      },
+      {
+        "question": "Who founded the Indian National Congress along with Indian leaders in 1885?",
+        "options": [
+          "Allan Octavian Hume",
+          "Dadabhai Naoroji",
+          "Surendranath Banerjee"
+        ],
+        "answer": "Allan Octavian Hume"
+      },
+      {
+        "question": "Which leader famously declared 'Do or Die' during the Quit India Movement?",
+        "options": [
+          "Mahatma Gandhi",
+          "Subhas Chandra Bose",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which princely queen fought against the British in the 1857 rebellion and became a national heroine?",
+        "options": [
+          "Rani Lakshmibai",
+          "Begum Hazrat Mahal",
+          "Kittur Chennamma"
+        ],
+        "answer": "Rani Lakshmibai"
+      },
+      {
+        "question": "Which act of 1909 introduced separate electorates for Muslims in British India?",
+        "options": [
+          "Morley-Minto Reforms",
+          "Montagu-Chelmsford Reforms",
+          "Government of India Act 1919"
+        ],
+        "answer": "Morley-Minto Reforms"
+      },
+      {
+        "question": "Who wrote the nationalist newspaper Kesari and was a prominent leader of the Extremist movement?",
+        "options": [
+          "Bal Gangadhar Tilak",
+          "Gopal Krishna Gokhale",
+          "Annie Besant"
+        ],
+        "answer": "Bal Gangadhar Tilak"
+      },
+      {
+        "question": "Which ancient urban civilization had major sites at Harappa and Mohenjo-daro?",
+        "options": [
+          "Indus Valley Civilization",
+          "Vedic Civilization",
+          "Mauryan Civilization"
+        ],
+        "answer": "Indus Valley Civilization"
+      },
+      {
+        "question": "Which movement in 1930 involved breaking the salt law as symbolic protest?",
+        "options": [
+          "Salt Satyagraha",
+          "Swadeshi Movement",
+          "Home Rule Movement"
+        ],
+        "answer": "Salt Satyagraha"
+      },
+      {
+        "question": "Who served as the first Prime Minister of independent India in 1947?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Sardar Vallabhbhai Patel",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which leader founded the All India Muslim League in 1906?",
+        "options": [
+          "Nawab Salimullah of Dacca",
+          "Maulana Muhammad Ali Jauhar",
+          "Muhammad Ali Jinnah"
+        ],
+        "answer": "Nawab Salimullah of Dacca"
+      },
+      {
+        "question": "Which 1858 proclamation transferred authority from the East India Company to the British Crown?",
+        "options": [
+          "Government of India Act 1858",
+          "Indian Councils Act 1861",
+          "Charter Act of 1853"
+        ],
+        "answer": "Government of India Act 1858"
+      },
+      {
+        "question": "Which leader led the Champaran Satyagraha in 1917, Gandhi's first active struggle in India?",
+        "options": [
+          "Mahatma Gandhi",
+          "Rajendra Prasad",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Who authored the book 'Discovery of India' while imprisoned during the freedom struggle?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Mahatma Gandhi",
+          "Subhas Chandra Bose"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which treaty in 1809 gave the British control over foreign affairs of the Nizam of Hyderabad?",
+        "options": [
+          "Subsidiary Alliance",
+          "Treaty of Hyderabad",
+          "Permanent Settlement"
+        ],
+        "answer": "Subsidiary Alliance"
+      },
+      {
+        "question": "What was the main demand of the Swadeshi Movement beginning in 1905?",
+        "options": [
+          "Boycott of British goods",
+          "Universal franchise",
+          "Land reforms"
+        ],
+        "answer": "Boycott of British goods"
+      },
+      {
+        "question": "Which Mughal emperor commissioned the Taj Mahal in memory of his wife Mumtaz Mahal?",
+        "options": [
+          "Shah Jahan",
+          "Akbar",
+          "Aurangzeb"
+        ],
+        "answer": "Shah Jahan"
+      },
+      {
+        "question": "Which leader popularized the slogan 'Swaraj is my birthright' in the early 20th century?",
+        "options": [
+          "Bal Gangadhar Tilak",
+          "B. R. Ambedkar",
+          "Gopal Krishna Gokhale"
+        ],
+        "answer": "Bal Gangadhar Tilak"
+      },
+      {
+        "question": "Which 1915 return of an expatriate leader revitalized Indian nationalism?",
+        "options": [
+          "Return of Mahatma Gandhi",
+          "Return of Subhas Chandra Bose",
+          "Return of Lala Lajpat Rai"
+        ],
+        "answer": "Return of Mahatma Gandhi"
+      },
+      {
+        "question": "Which British law in 1919 curtailed civil liberties and led to widespread protest?",
+        "options": [
+          "Rowlatt Act",
+          "Salt Act",
+          "Criminal Tribes Act"
+        ],
+        "answer": "Rowlatt Act"
+      },
+      {
+        "question": "Who led the Home Rule Movement in India alongside Annie Besant and Bal Gangadhar Tilak?",
+        "options": [
+          "Bipin Chandra Pal",
+          "Lala Lajpat Rai",
+          "Vallabhbhai Patel"
+        ],
+        "answer": "Bipin Chandra Pal"
+      },
+      {
+        "question": "Which Indian leader formed the Forward Bloc after differences with the Congress in 1939?",
+        "options": [
+          "Subhas Chandra Bose",
+          "C. Rajagopalachari",
+          "Sardar Patel"
+        ],
+        "answer": "Subhas Chandra Bose"
+      },
+      {
+        "question": "Which battle in 1526 marked the beginning of Mughal rule in India?",
+        "options": [
+          "First Battle of Panipat",
+          "Battle of Talikota",
+          "Battle of Buxar"
+        ],
+        "answer": "First Battle of Panipat"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which treaty in 1765 granted the East India Company the Diwani rights of Bengal, Bihar and Orissa?",
+        "options": [
+          "Treaty of Allahabad",
+          "Nizamat Grant",
+          "Diwani Grant of 1765"
+        ],
+        "answer": "Treaty of Allahabad"
+      },
+      {
+        "question": "Who chaired the committee that produced the Montagu-Chelmsford Reforms leading to the Government of India Act 1919?",
+        "options": [
+          "Lord Chelmsford and Edwin Montagu",
+          "Lord Ripon and Lord Curzon",
+          "Lord Curzon and Viceroy Hardinge"
+        ],
+        "answer": "Lord Chelmsford and Edwin Montagu"
+      },
+      {
+        "question": "Which Indian reformer founded the Brahmo Samaj in 1828 promoting monotheism and social reform?",
+        "options": [
+          "Raja Ram Mohan Roy",
+          "Ishwar Chandra Vidyasagar",
+          "Dayananda Saraswati"
+        ],
+        "answer": "Raja Ram Mohan Roy"
+      },
+      {
+        "question": "Which regiment's issue with greased cartridges sparked the 1857 Sepoy Mutiny?",
+        "options": [
+          "Enfield rifle cartridges",
+          "Brown Bess muskets",
+          "Lee-Enfield cartridges"
+        ],
+        "answer": "Enfield rifle cartridges"
+      },
+      {
+        "question": "Which city served as the capital of the British in India before New Delhi became capital in 1911?",
+        "options": [
+          "Calcutta",
+          "Bombay",
+          "Madras"
+        ],
+        "answer": "Calcutta"
+      },
+      {
+        "question": "Which 1935 act provided provincial autonomy and proposed an all-India federation subject to princely states?",
+        "options": [
+          "Government of India Act 1935",
+          "Indian Independence Act 1935",
+          "Montagu Reforms 1935"
+        ],
+        "answer": "Government of India Act 1935"
+      },
+      {
+        "question": "Which Indian leader organized the Simon Commission protests with the slogan 'Simon Go Back' in 1928?",
+        "options": [
+          "Lala Lajpat Rai",
+          "Bhagat Singh",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Lala Lajpat Rai"
+      },
+      {
+        "question": "Who presided over the 1929 Lahore Session where 'Purna Swaraj' was declared?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Mahatma Gandhi",
+          "Subhas Chandra Bose"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which movement beginning in 1905 protested the partition of Bengal and promoted indigenous industry?",
+        "options": [
+          "Swadeshi Movement",
+          "Quit India Movement",
+          "Non-Cooperation Movement"
+        ],
+        "answer": "Swadeshi Movement"
+      },
+      {
+        "question": "Which battle in 1764 established British dominance after victory over the Nawab of Bengal?",
+        "options": [
+          "Battle of Buxar",
+          "Battle of Plassey",
+          "Battle of Wandiwash"
+        ],
+        "answer": "Battle of Buxar"
+      },
+      {
+        "question": "Which Indian leader formed the Hindustan Socialist Republican Association (HSRA) in 1928?",
+        "options": [
+          "Chandrasekhar Azad and Ram Prasad Bismil",
+          "Subhas Chandra Bose and Nehru",
+          "Mahatma Gandhi and Patel"
+        ],
+        "answer": "Chandrasekhar Azad and Ram Prasad Bismil"
+      },
+      {
+        "question": "Which year marks the signing of the Treaty of Seringapatam that ended the Third Anglo-Mysore War?",
+        "options": [
+          "1792",
+          "1780",
+          "1800"
+        ],
+        "answer": "1792"
+      },
+      {
+        "question": "Who instituted the Ryotwari system for revenue collection in parts of South India?",
+        "options": [
+          "Thomas Munro",
+          "Lord Cornwallis",
+          "Warren Hastings"
+        ],
+        "answer": "Thomas Munro"
+      },
+      {
+        "question": "Which leader is known for the campaign against untouchability and led movements for Dalit rights?",
+        "options": [
+          "B. R. Ambedkar",
+          "Vinoba Bhave",
+          "Annie Besant"
+        ],
+        "answer": "B. R. Ambedkar"
+      },
+      {
+        "question": "Which city hosted the Cripps Mission negotiations in 1942 seeking Indian support during World War II?",
+        "options": [
+          "New Delhi",
+          "Bombay",
+          "Calcutta"
+        ],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "Which Indian ruler established the Mughal dynasty's greatest territorial expansion under his reign?",
+        "options": [
+          "Akbar",
+          "Humayun",
+          "Jahangir"
+        ],
+        "answer": "Akbar"
+      },
+      {
+        "question": "Who authored 'Annihilation of Caste', a critique of caste and social orthodoxy?",
+        "options": [
+          "B. R. Ambedkar",
+          "Mahatma Gandhi",
+          "Raja Ram Mohan Roy"
+        ],
+        "answer": "B. R. Ambedkar"
+      },
+      {
+        "question": "Which congress leader led the Bardoli Satyagraha in 1928 and later became Prime Minister of Bombay Presidency?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "Motilal Nehru",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which Indian regiment famously rebelled in Kanpur during the 1857 uprising under Nana Sahib?",
+        "options": [
+          "Bengal Native Infantry",
+          "Madras Native Infantry",
+          "Bihar Regiment"
+        ],
+        "answer": "Bengal Native Infantry"
+      },
+      {
+        "question": "Which act introduced separate electorates for depressed classes in 1932 mediated by Poona Pact discussions?",
+        "options": [
+          "Communal Award",
+          "Montagu Award",
+          "Poona Award"
+        ],
+        "answer": "Communal Award"
+      },
+      {
+        "question": "Which leader started the Home Rule League in 1916 to demand self-government within the British Empire?",
+        "options": [
+          "Annie Besant",
+          "Bal Gangadhar Tilak",
+          "Both Annie Besant and Bal Gangadhar Tilak"
+        ],
+        "answer": "Both Annie Besant and Bal Gangadhar Tilak"
+      },
+      {
+        "question": "Which Mughal emperor faced the Maratha resurgence led by Shivaji in the 17th century?",
+        "options": [
+          "Aurangzeb",
+          "Jahangir",
+          "Shah Jahan"
+        ],
+        "answer": "Aurangzeb"
+      },
+      {
+        "question": "Which movement protested the British salt monopoly and led to mass civil disobedience across India in 1930?",
+        "options": [
+          "Civil Disobedience Movement",
+          "Non-Cooperation Movement",
+          "Khilafat Movement"
+        ],
+        "answer": "Civil Disobedience Movement"
+      },
+      {
+        "question": "Which Indian leader resigned from the Congress over the issue of supporting Britain's World War II effort?",
+        "options": [
+          "Subhas Chandra Bose",
+          "Mahatma Gandhi",
+          "Sardar Patel"
+        ],
+        "answer": "Subhas Chandra Bose"
+      },
+      {
+        "question": "Which 1877 proclamation by Queen Victoria promised to respect Indian rights after the 1857 rebellion?",
+        "options": [
+          "Proclamation of Queen Victoria",
+          "Charter Act of 1877",
+          "Delhi Proclamation"
+        ],
+        "answer": "Proclamation of Queen Victoria"
+      },
+      {
+        "question": "Which hill station in India served as the initial headquarters of the Indian National Army in Southeast Asia?",
+        "options": [
+          "Singapore",
+          "Rangoon",
+          "None; INA HQ was in Singapore region"
+        ],
+        "answer": "None; INA HQ was in Singapore region"
+      },
+      {
+        "question": "Which 1920 act expanded Indian participation in legislative councils and reformed civil services examinations?",
+        "options": [
+          "Government of India Act 1919",
+          "Montagu Reforms 1920",
+          "Indian Councils Act 1920"
+        ],
+        "answer": "Government of India Act 1919"
+      },
+      {
+        "question": "Which Indian princely state rejected accession to Pakistan and joined India in 1947 after a police action?",
+        "options": [
+          "Hyderabad",
+          "Junagadh",
+          "Kashmir"
+        ],
+        "answer": "Hyderabad"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which satyagrahi led the Kheda movement in 1918 advocating relief for peasants facing crop failure?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "Gopal Krishna Gokhale",
+          "Mahatma Gandhi"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which 1835 education policy introduced English as the medium for higher education in India?",
+        "options": [
+          "Macaulay Minute",
+          "Wood's Despatch",
+          "Charter Act of 1813"
+        ],
+        "answer": "Macaulay Minute"
+      },
+      {
+        "question": "Who was the viceroy who issued the 1858 proclamation transferring power to the Crown after the 1857 revolt?",
+        "options": [
+          "Lord Canning",
+          "Lord Dalhousie",
+          "Lord Wellesley"
+        ],
+        "answer": "Lord Canning"
+      },
+      {
+        "question": "Which leader organized the 1920 Bardoli Satyagraha that led to compensation for farmers after tax hikes?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "C. Rajagopalachari",
+          "Mahatma Gandhi"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which act of 1833 abolished the East India Company's commercial activities, making it solely an administrative body?",
+        "options": [
+          "Charter Act of 1833",
+          "Regulating Act of 1773",
+          "Charter Act of 1813"
+        ],
+        "answer": "Charter Act of 1833"
+      },
+      {
+        "question": "Which early 20th century leader promoted 'Tilakism' and used mass festivals to mobilize support for independence?",
+        "options": [
+          "Bal Gangadhar Tilak",
+          "Gopal Krishna Gokhale",
+          "Morarji Desai"
+        ],
+        "answer": "Bal Gangadhar Tilak"
+      },
+      {
+        "question": "Which British official introduced the Permanent Settlement in 1793 altering land revenue relations in Bengal?",
+        "options": [
+          "Lord Cornwallis",
+          "Warren Hastings",
+          "Lord Wellesley"
+        ],
+        "answer": "Lord Cornwallis"
+      },
+      {
+        "question": "Who was the first Indian to preside over the Indian National Congress session in 1888?",
+        "options": [
+          "Womesh Chunder Bonnerjee",
+          "Dadabhai Naoroji",
+          "Badruddin Tyabji"
+        ],
+        "answer": "Badruddin Tyabji"
+      },
+      {
+        "question": "Which 1907 split in the Congress divided it into Moderates and Extremists at which city session?",
+        "options": [
+          "Surat Session",
+          "Calcutta Session",
+          "Lahore Session"
+        ],
+        "answer": "Surat Session"
+      },
+      {
+        "question": "Which leader founded the Servants of India Society in 1905 to promote social reform and education?",
+        "options": [
+          "Gopal Krishna Gokhale",
+          "Mahatma Gandhi",
+          "Annie Besant"
+        ],
+        "answer": "Gopal Krishna Gokhale"
+      },
+      {
+        "question": "Which treaty ended the Third Anglo-Maratha War and marked the effective end of Maratha sovereignty in 1818?",
+        "options": [
+          "Treaty of Mandeswar",
+          "Treaty of Poona",
+          "Treaty of Bassein"
+        ],
+        "answer": "Treaty of Mandeswar"
+      },
+      {
+        "question": "Which revolutionary movement adopted the 'Provisional Government of Free India' in 1943 under Subhas Chandra Bose?",
+        "options": [
+          "Azad Hind",
+          "Hindustan Socialist Republic",
+          "Indian National Army Council"
+        ],
+        "answer": "Azad Hind"
+      },
+      {
+        "question": "Which provincial leader chaired the Simon Commission boycott that led to nationwide protests in 1928?",
+        "options": [
+          "Lala Lajpat Rai",
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Lala Lajpat Rai"
+      },
+      {
+        "question": "Which medieval Indian dynasty built the Sun Temple at Konark in the 13th century?",
+        "options": [
+          "Eastern Ganga Dynasty",
+          "Chola Dynasty",
+          "Pala Dynasty"
+        ],
+        "answer": "Eastern Ganga Dynasty"
+      },
+      {
+        "question": "Which reformer campaigned for widow remarriage and female education in 19th century Bengal?",
+        "options": [
+          "Ishwar Chandra Vidyasagar",
+          "Raja Ram Mohan Roy",
+          "Jyotirao Phule"
+        ],
+        "answer": "Ishwar Chandra Vidyasagar"
+      },
+      {
+        "question": "Which British general's victory in 1757 at Plassey altered Bengal's political landscape leading to Company rule?",
+        "options": [
+          "Robert Clive",
+          "John Clavering",
+          "Henry Bentinck"
+        ],
+        "answer": "Robert Clive"
+      },
+      {
+        "question": "Which commission's recommendations in 1902 led to the Morley-Minto reforms and inclusion of Indians in governance?",
+        "options": [
+          "Royal Commission on Indian Expenditure",
+          "Royal Commission on Indian Affairs",
+          "Durand Commission"
+        ],
+        "answer": "Royal Commission on Indian Expenditure"
+      },
+      {
+        "question": "Which movement combined the Khilafat agitation and non-cooperation under Gandhi's leadership around 1920?",
+        "options": [
+          "Khilaafat-NonCooperation alliance",
+          "Home Rule Movement",
+          "Bande Mataram Movement"
+        ],
+        "answer": "Khilaafat-NonCooperation alliance"
+      },
+      {
+        "question": "Which leader authored the pamphlet 'Why I am an Atheist' and influenced revolutionary youth in early 20th century India?",
+        "options": [
+          "Bhagat Singh",
+          "Chandra Shekhar Azad",
+          "Ram Prasad Bismil"
+        ],
+        "answer": "Bhagat Singh"
+      },
+      {
+        "question": "Which province's peasant uprising in 1937 was led by the Tebhaga movement demanding two-thirds share for tenants?",
+        "options": [
+          "Bengal",
+          "Punjab",
+          "Madras"
+        ],
+        "answer": "Bengal"
+      },
+      {
+        "question": "Which body replaced the Indian Councils under reforms of 1861 expanding legislative participation marginally?",
+        "options": [
+          "Legislative Council",
+          "Governor-General's Executive Council",
+          "Council of India"
+        ],
+        "answer": "Legislative Council"
+      },
+      {
+        "question": "Which 1799 event led to the fall of Tipu Sultan and increased British control in South India?",
+        "options": [
+          "Fourth Anglo-Mysore War",
+          "Third Anglo-Mysore War",
+          "Anglo-Maratha War"
+        ],
+        "answer": "Fourth Anglo-Mysore War"
+      },
+      {
+        "question": "Which leader negotiated the Poona Pact with Ambedkar in 1932 regarding representation for depressed classes?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Sardar Patel"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which Indian historian popularized the thesis of 'decentralized republics' in ancient South India through inscriptions?",
+        "options": [
+          "R. Nagaswamy",
+          "K. A. Nilakanta Sastri",
+          "S. R. Balasubrahmanyam"
+        ],
+        "answer": "K. A. Nilakanta Sastri"
+      },
+      {
+        "question": "Which 19th century movement in Maharashtra emphasized Vedic revivalism and challenged orthodox practices?",
+        "options": [
+          "Prarthana Samaj",
+          "Arya Samaj",
+          "Brahmo Samaj"
+        ],
+        "answer": "Prarthana Samaj"
+      },
+      {
+        "question": "Which colonial policy defined the Doctrine of Lapse used by Lord Dalhousie to annex Indian states?",
+        "options": [
+          "Annexation by failure of natural heirs",
+          "Subsidiary Alliance enforcement",
+          "Permanent Settlement enforcement"
+        ],
+        "answer": "Annexation by failure of natural heirs"
+      },
+      {
+        "question": "Which peasant leader led the Bardoli Satyagraha's local committee demanding tax rollback in 1928?",
+        "options": [
+          "Manibhai Desai",
+          "Gandhiji",
+          "Sardar Vallabhbhai Patel"
+        ],
+        "answer": "Manibhai Desai"
+      },
+      {
+        "question": "Which 18th century treaty allowed British residency at Peshawar influencing Afghan politics later?",
+        "options": [
+          "Treaty of Amritsar",
+          "Treaty of Lahore",
+          "Treaty of Rawalpindi"
+        ],
+        "answer": "Treaty of Amritsar"
+      },
+      {
+        "question": "Which nationalist newspaper was edited by Motilal Nehru and influenced early 20th century politics?",
+        "options": [
+          "The Leader",
+          "Kesari",
+          "Young India"
+        ],
+        "answer": "The Leader"
+      },
+      {
+        "question": "Which Mughal noble led the revolt in Awadh and became a central figure in 1857 under Nana Sahib?",
+        "options": [
+          "Begum Hazrat Mahal",
+          "Khana Sahib",
+          "Birjis Qadr"
+        ],
+        "answer": "Begum Hazrat Mahal"
+      }
+    ]
+  }
+}

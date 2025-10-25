@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is known for the last words \"Don't let it end like this. Tell them I said something\"?",
+      "options": [
+        "Marilyn Monroe",
+        "Franz Kafka",
+        "Ernest Hemingway"
+      ],
+      "answer": "Marilyn Monroe"
+    },
+    {
+      "question_id": 2,
+      "question": "Who said \"I should like to be buried in a plain box\" as last wishes revealing humility?",
+      "options": [
+        "Susan B. Anthony",
+        "Queen Victoria",
+        "Ralph Waldo Emerson"
+      ],
+      "answer": "Ralph Waldo Emerson"
+    },
+    {
+      "question_id": 3,
+      "question": "Which scientist reportedly murmured \"I am not afraid of death\" as their final reflection on mortality?",
+      "options": [
+        "Marie Curie",
+        "Charles Darwin",
+        "Gregor Mendel"
+      ],
+      "answer": "Charles Darwin"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is often quoted as saying \"Let us cross over the river and rest under the shade of the trees\"?",
+      "options": [
+        "Robert E. Lee",
+        "Ulysses S. Grant",
+        "Stonewall Jackson"
+      ],
+      "answer": "Ulysses S. Grant"
+    },
+    {
+      "question_id": 5,
+      "question": "Which American writer's final words were reportedly \"I want to go home\" after long travel and illness?",
+      "options": [
+        "Herman Melville",
+        "Mark Twain",
+        "Edgar Allan Poe"
+      ],
+      "answer": "Mark Twain"
+    },
+    {
+      "question_id": 6,
+      "question": "Who reportedly told a nurse \"Send for the priest\" as a pious final request in 1540s England?",
+      "options": [
+        "Anne Boleyn",
+        "Catherine Howard",
+        "Thomas More"
+      ],
+      "answer": "Anne Boleyn"
+    },
+    {
+      "question_id": 7,
+      "question": "Who reportedly said \"I am about to take my last voyage, a great leap in the dark\"?",
+      "options": [
+        "Thomas Jefferson",
+        "John Quincy Adams",
+        "Francis Bacon"
+      ],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "question_id": 8,
+      "question": "Who reportedly said \"It is a mercy that I have been spared\" after surviving an earlier danger and before dying later?",
+      "options": [
+        "Bram Stoker",
+        "Marie Curie",
+        "Florence Nightingale"
+      ],
+      "answer": "Marie Curie"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Renaissance artist said \"I have offended God and mankind because my work did not reach the quality it should have\"?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is often credited with the last words \"Et tu, Brute? Then fall, Caesar!\" in Shakespeare's play?",
+      "options": [
+        "Cassius",
+        "Brutus",
+        "Julius Caesar"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 11,
+      "question": "Who said \"I am about to die: I expect to be murdered\" before being assassinated?",
+      "options": [
+        "Julius Caesar",
+        "Emiliano Zapata",
+        "Rasputin"
+      ],
+      "answer": "Rasputin"
+    },
+    {
+      "question_id": 12,
+      "question": "Who reportedly said \"Lord help my poor soul\" before being executed for rebellion in England?",
+      "options": [
+        "Oliver Cromwell",
+        "Wat Tyler",
+        "Guy Fawkes"
+      ],
+      "answer": "Guy Fawkes"
+    },
+    {
+      "question_id": 13,
+      "question": "Which artist is known for the ambiguous last words \"I am dying beyond my means\"?",
+      "options": [
+        "Edgar Allan Poe",
+        "Oscar Wilde",
+        "Frida Kahlo"
+      ],
+      "answer": "Oscar Wilde"
+    },
+    {
+      "question_id": 14,
+      "question": "Who is associated with the last words \"Let us march on Rome\" as a dramatic final phrase? (Historical context matters)",
+      "options": [
+        "Benito Mussolini",
+        "Victor Emmanuel II",
+        "Gabriele D'Annunzio"
+      ],
+      "answer": "Benito Mussolini"
+    },
+    {
+      "question_id": 15,
+      "question": "Who allegedly told a doctor \"I see blackness and a staircase\" moments before dying in 19th-century reports?",
+      "options": [
+        "Anne Brontë",
+        "Emily Brontë",
+        "Charlotte Brontë"
+      ],
+      "answer": "Charlotte Brontë"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'appeal' mean in legal context?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which remedy punishes and deters particularly wrongful conduct?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rule limits when subsequent remedial measures are admissible for impeachment?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'jurisdiction'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which remedy orders the completion of a specific act in contracts?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'cy pres' relief in trust and class action contexts?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'probation' as a sentence?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'attorney-client privilege' purpose?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rule requires prosecutors disclose exculpatory evidence?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a statute?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does 'probate' involve after someone's death?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'promissory estoppel' used to enforce?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a contract?"
+    },
+    {
+      "question_id": 14,
+      "question": "What legal concept prevents relitigation of the same claim?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the 'economic loss rule' effect in product liability?"
+    }
+  ]
+}

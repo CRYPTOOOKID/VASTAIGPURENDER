@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In what year did the Titanic sink after hitting an iceberg?",
+      "options": [
+        "1912",
+        "1900",
+        "1920"
+      ],
+      "answer": "1912"
+    },
+    {
+      "question_id": 2,
+      "question": "When did the Irish Potato Famine begin, drastically affecting Ireland's population?",
+      "options": [
+        "1845",
+        "1830",
+        "1855"
+      ],
+      "answer": "1845"
+    },
+    {
+      "question_id": 3,
+      "question": "When did the fall of the Western Roman Empire traditionally occur with Romulus Augustulus' deposition?",
+      "options": [
+        "476",
+        "410",
+        "493"
+      ],
+      "answer": "476"
+    },
+    {
+      "question_id": 4,
+      "question": "In what year did the Korean War begin?",
+      "options": [
+        "1950",
+        "1948",
+        "1953"
+      ],
+      "answer": "1950"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the Norman conquest transform England's ruling class?",
+      "options": [
+        "1066",
+        "1087",
+        "1050"
+      ],
+      "answer": "1066"
+    },
+    {
+      "question_id": 6,
+      "question": "When was the Battle of Agincourt fought during the Hundred Years' War?",
+      "options": [
+        "1415",
+        "1429",
+        "1380"
+      ],
+      "answer": "1415"
+    },
+    {
+      "question_id": 7,
+      "question": "When did the Protestant Reformation begin with Martin Luther's 95 Theses?",
+      "options": [
+        "1517",
+        "1492",
+        "1534"
+      ],
+      "answer": "1517"
+    },
+    {
+      "question_id": 8,
+      "question": "In what year did the English Civil War begin between Royalists and Parliamentarians?",
+      "options": [
+        "1642",
+        "1660",
+        "1625"
+      ],
+      "answer": "1642"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the An Lushan Rebellion begin in Tang dynasty China?",
+      "options": [
+        "755",
+        "720",
+        "770"
+      ],
+      "answer": "755"
+    },
+    {
+      "question_id": 10,
+      "question": "When did the Great Fire of London occur?",
+      "options": [
+        "1666",
+        "1605",
+        "1688"
+      ],
+      "answer": "1666"
+    },
+    {
+      "question_id": 11,
+      "question": "When was the Manhattan Project's first successful test detonation (Trinity)?",
+      "options": [
+        "1945",
+        "1944",
+        "1946"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Norman conquest of southern Italy and Sicily largely complete under Roger II?",
+      "options": [
+        "1130",
+        "1100",
+        "1154"
+      ],
+      "answer": "1130"
+    },
+    {
+      "question_id": 13,
+      "question": "When did Napoleon Bonaparte crown himself Emperor of the French?",
+      "options": [
+        "1804",
+        "1799",
+        "1815"
+      ],
+      "answer": "1804"
+    },
+    {
+      "question_id": 14,
+      "question": "When was the Zimmermann Telegram sent, influencing U.S. entry to World War I?",
+      "options": [
+        "1917",
+        "1915",
+        "1914"
+      ],
+      "answer": "1917"
+    },
+    {
+      "question_id": 15,
+      "question": "When was the Battle of Tours where Charles Martel halted Muslim expansion into Europe?",
+      "options": [
+        "732",
+        "711",
+        "768"
+      ],
+      "answer": "732"
+    }
+  ]
+}

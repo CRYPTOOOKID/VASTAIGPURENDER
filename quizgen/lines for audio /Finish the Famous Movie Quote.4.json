@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the famous movie quote: \"You had me at ____\" (Jerry Maguire)."
+    },
+    {
+      "question_id": 2,
+      "question": "Finish the quote: \"E.T. phone ____.\""
+    },
+    {
+      "question_id": 3,
+      "question": "Finish the quote: \"I love the smell of napalm in the morning\" — which cinematographer shot Apocalypse Now?"
+    },
+    {
+      "question_id": 4,
+      "question": "Finish the famous movie quote: \"Why so ____?\" (The Dark Knight)."
+    },
+    {
+      "question_id": 5,
+      "question": "Finish the quote: \"I'm the king of the world!\" is shouted by which character?"
+    },
+    {
+      "question_id": 6,
+      "question": "Finish the quote: \"You can't handle the truth!\" — who penned the screenplay for that film?"
+    },
+    {
+      "question_id": 7,
+      "question": "Finish the famous movie quote: \"You're gonna need a bigger boat\" expresses what emotion?"
+    },
+    {
+      "question_id": 8,
+      "question": "Finish the quote: \"You can't handle the truth!\" Who delivers this in the film?"
+    },
+    {
+      "question_id": 9,
+      "question": "Finish the quote: \"I'm going to make him an offer he can't refuse\" — which screenplay writer adapted this line?"
+    },
+    {
+      "question_id": 10,
+      "question": "Finish the famous movie quote: \"Show me the ____!\" (Jerry Maguire)."
+    },
+    {
+      "question_id": 11,
+      "question": "Finish the quote: \"After all, tomorrow is another ____.\" (Gone with the Wind)."
+    },
+    {
+      "question_id": 12,
+      "question": "Finish the quote: \"I'll be back\" — in which film did the line later become a recurring motif?"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the famous movie quote: \"Life is like a box of ____.\" (Forrest Gump)."
+    },
+    {
+      "question_id": 14,
+      "question": "Finish the quote: \"Frankly, my dear, I don't give a ____.\" (Gone with the Wind)."
+    },
+    {
+      "question_id": 15,
+      "question": "Finish the quote: \"E.T. phone home\" — which director insisted on E.T.'s childlike voice?"
+    }
+  ]
+}

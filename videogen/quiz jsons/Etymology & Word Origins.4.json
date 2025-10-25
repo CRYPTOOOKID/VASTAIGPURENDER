@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "The English word 'whale' traces back to Old English 'hwæl'; which animal is that?",
+      "options": [
+        "Porpoise",
+        "Whale",
+        "Dolphin"
+      ],
+      "answer": "Whale"
+    },
+    {
+      "question_id": 2,
+      "question": "The Old English word 'wyrd' evolved into modern 'weird'; what did 'wyrd' originally mean?",
+      "options": [
+        "Ghost",
+        "Strange",
+        "Fate"
+      ],
+      "answer": "Fate"
+    },
+    {
+      "question_id": 3,
+      "question": "Which English word derives from Latin 'liber' and names institutions for books?",
+      "options": [
+        "Library",
+        "Leaf",
+        "Ledger"
+      ],
+      "answer": "Library"
+    },
+    {
+      "question_id": 4,
+      "question": "Who in Greek literature became the model for the English word 'mentor'?",
+      "options": [
+        "Achilles",
+        "Mentor from Homer's Odyssey",
+        "Hermes"
+      ],
+      "answer": "Mentor from Homer's Odyssey"
+    },
+    {
+      "question_id": 5,
+      "question": "Which modern verb is a back-formation from 'editor'?",
+      "options": [
+        "Edit",
+        "Editate",
+        "Educate"
+      ],
+      "answer": "Edit"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the linguistic term for forming a word by removing an affix, like 'edit' from 'editor'?",
+      "options": [
+        "Back-formation",
+        "Clipping",
+        "Blending"
+      ],
+      "answer": "Back-formation"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the word 'honeymoon' originally describe in marriage traditions?",
+      "options": [
+        "A harvest ritual",
+        "A period of sweetness after marriage",
+        "A wedding month payment"
+      ],
+      "answer": "A period of sweetness after marriage"
+    },
+    {
+      "question_id": 8,
+      "question": "Which English pair demonstrates Norman French influence on meat vocabulary versus animals?",
+      "options": [
+        "Horse and Mare",
+        "Fish and Carp",
+        "Beef and Cow"
+      ],
+      "answer": "Beef and Cow"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Old Norse-derived suffix '-by' in English place names denotes what?",
+      "options": [
+        "Village or farmstead",
+        "River crossing",
+        "Hill"
+      ],
+      "answer": "Village or farmstead"
+    },
+    {
+      "question_id": 10,
+      "question": "Which plant name comes into English from Latin 'aloe' via Arabic mediation?",
+      "options": [
+        "Aloe",
+        "Olive",
+        "Oleander"
+      ],
+      "answer": "Aloe"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Romance language contributed most heavily to English legal vocabulary historically?",
+      "options": [
+        "Spanish",
+        "Italian",
+        "French"
+      ],
+      "answer": "French"
+    },
+    {
+      "question_id": 12,
+      "question": "What term describes Latin-derived church vocabulary entering Old English after Christianization?",
+      "options": [
+        "Iconoclasm",
+        "Ecclesiastical borrowing",
+        "Calque formation"
+      ],
+      "answer": "Ecclesiastical borrowing"
+    },
+    {
+      "question_id": 13,
+      "question": "The English word 'salary' originally referred to payment linked to which commodity?",
+      "options": [
+        "Land",
+        "Grain",
+        "Salt"
+      ],
+      "answer": "Salt"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Old English lexical item narrowed in meaning to produce modern 'meat'?",
+      "options": [
+        "Meadow",
+        "Meat",
+        "Meal"
+      ],
+      "answer": "Meat"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Proto-Indo-European root is reconstructed as the origin of Latin 'pater' and English 'father'?",
+      "options": [
+        "*pəter",
+        "*méh₂tēr",
+        "*dʰugh₂tēr"
+      ],
+      "answer": "*pəter"
+    }
+  ]
+}

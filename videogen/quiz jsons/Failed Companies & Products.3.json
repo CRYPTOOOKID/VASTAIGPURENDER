@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which 1993 video game console from Atari failed commercially and left limited market impact?",
+      "options": [
+        "Atari Jaguar",
+        "3DO",
+        "Neo Geo"
+      ],
+      "answer": "Atari Jaguar"
+    },
+    {
+      "question_id": 2,
+      "question": "Which mail-order video rental startup tried to transform video rental before Blockbuster's decline?",
+      "options": [
+        "Netflix",
+        "MovieFone",
+        "Redbox"
+      ],
+      "answer": "Netflix"
+    },
+    {
+      "question_id": 3,
+      "question": "Which beverage experiment from PepsiCo reappeared briefly but ultimately failed to become a permanent product line?",
+      "options": [
+        "Crystal Pepsi",
+        "Pepsi Ice",
+        "Pepsi Blue"
+      ],
+      "answer": "Crystal Pepsi"
+    },
+    {
+      "question_id": 4,
+      "question": "Which subscription music service filed for bankruptcy after competing with Spotify and Apple Music?",
+      "options": [
+        "Grooveshark",
+        "Napster",
+        "Rdio"
+      ],
+      "answer": "Rdio"
+    },
+    {
+      "question_id": 5,
+      "question": "Which social network was acquired by Specific Media and Justin Timberlake in 2011?",
+      "options": [
+        "Bebo",
+        "Friendster",
+        "Myspace"
+      ],
+      "answer": "Myspace"
+    },
+    {
+      "question_id": 6,
+      "question": "Which media rental chain's CEO turned down an opportunity to buy Netflix in the early 2000s?",
+      "options": [
+        "Blockbuster",
+        "Hollywood Video",
+        "Movie Gallery"
+      ],
+      "answer": "Blockbuster"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Sega console, released in 1999, was discontinued in 2001 and marked Sega's hardware exit?",
+      "options": [
+        "Dreamcast",
+        "Saturn",
+        "Mega Drive"
+      ],
+      "answer": "Dreamcast"
+    },
+    {
+      "question_id": 8,
+      "question": "Which early internet company symbolized speculative excess and collapsed after spending on marketing and logistics?",
+      "options": [
+        "Pets.com",
+        "Yahoo!",
+        "AOL"
+      ],
+      "answer": "Pets.com"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1980s videotape format lost market dominance despite superior picture quality according to many technologists?",
+      "options": [
+        "Betamax",
+        "VHS",
+        "LaserDisc"
+      ],
+      "answer": "Betamax"
+    },
+    {
+      "question_id": 10,
+      "question": "Which smartphone maker once dominated business phones but declined after the iPhone's 2007 launch?",
+      "options": [
+        "Palm",
+        "Nokia",
+        "BlackBerry"
+      ],
+      "answer": "BlackBerry"
+    },
+    {
+      "question_id": 11,
+      "question": "Which failed music device by Microsoft attempted to integrate subscription services into a portable player?",
+      "options": [
+        "MSN Player",
+        "Zune",
+        "Surface Music Player"
+      ],
+      "answer": "Zune"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1999 online retailer became emblematic of the dot-com bubble with a famous sock puppet advertising campaign?",
+      "options": [
+        "BN.com",
+        "Amazon Marketplace",
+        "Pets.com"
+      ],
+      "answer": "Pets.com"
+    },
+    {
+      "question_id": 13,
+      "question": "Which wearable tech product struggled in the consumer market due to privacy concerns and high price?",
+      "options": [
+        "Samsung Gear",
+        "Google Glass",
+        "Microsoft Band"
+      ],
+      "answer": "Google Glass"
+    },
+    {
+      "question_id": 14,
+      "question": "Which hardware product did Google end public sales for in 2015 after limited consumer uptake?",
+      "options": [
+        "Nexus Q",
+        "Google Glass Explorer Edition",
+        "Chromecast Audio"
+      ],
+      "answer": "Google Glass Explorer Edition"
+    },
+    {
+      "question_id": 15,
+      "question": "Which high-end portable device by Apple in the early 1990s was intended for education and targeted niche markets?",
+      "options": [
+        "PowerBook Duo",
+        "Newton MessagePad",
+        "eMate 300"
+      ],
+      "answer": "eMate 300"
+    }
+  ]
+}

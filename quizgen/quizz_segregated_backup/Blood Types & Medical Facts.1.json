@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which screening prevents Rh-negative mothers from developing anti-D antibodies?",
+      "options": [
+        "Rho(D) immune globulin",
+        "Influenza vaccine",
+        "Vitamin K injection"
+      ],
+      "answer": "Rho(D) immune globulin"
+    },
+    {
+      "question_id": 2,
+      "question": "Which antibody class crosses the placenta and causes hemolytic disease of the fetus?",
+      "options": [
+        "IgG",
+        "IgM",
+        "IgE"
+      ],
+      "answer": "IgG"
+    },
+    {
+      "question_id": 3,
+      "question": "Which coexisting antigen weakly expressed can complicate Rh typing known as weak D?",
+      "options": [
+        "Weak D variant of D antigen",
+        "Partial H antigen",
+        "Weak K antigen"
+      ],
+      "answer": "Weak D variant of D antigen"
+    },
+    {
+      "question_id": 4,
+      "question": "Which result shows a person has antibodies to A and B antigens?",
+      "options": [
+        "Type O",
+        "Type AB",
+        "Type A"
+      ],
+      "answer": "Type O"
+    },
+    {
+      "question_id": 5,
+      "question": "Which transfusion practice is used for patients with sickle cell disease requiring chronic transfusions?",
+      "options": [
+        "Extended antigen matching",
+        "Single-donor plasma only",
+        "No matching needed"
+      ],
+      "answer": "Extended antigen matching"
+    },
+    {
+      "question_id": 6,
+      "question": "Which analytical method separates red cell populations to detect mixed-field agglutination?",
+      "options": [
+        "Microscopic review of slides for mixed-field agglutination",
+        "Automated electrolyte measurement",
+        "PCR without phenotypic confirmation"
+      ],
+      "answer": "Microscopic review of slides for mixed-field agglutination"
+    },
+    {
+      "question_id": 7,
+      "question": "Which professional typically collects blood donations for transfusion?",
+      "options": [
+        "Phlebotomist",
+        "Radiologist",
+        "Physical therapist"
+      ],
+      "answer": "Phlebotomist"
+    },
+    {
+      "question_id": 8,
+      "question": "Which blood type component requires ABO compatibility for platelet transfusion in some cases?",
+      "options": [
+        "Platelets suspended in plasma",
+        "Washed red cells",
+        "Cryoprecipitate"
+      ],
+      "answer": "Platelets suspended in plasma"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare blood group lacks expression of Rh antigens entirely and can donate to any Rh type?",
+      "options": [
+        "Rh-null",
+        "Bombay phenotype",
+        "Weak D"
+      ],
+      "answer": "Rh-null"
+    },
+    {
+      "question_id": 10,
+      "question": "Which component contains clotting factors and is liquid portion of blood?",
+      "options": [
+        "Plasma",
+        "Red cells",
+        "Platelets"
+      ],
+      "answer": "Plasma"
+    },
+    {
+      "question_id": 11,
+      "question": "Which transfusion reaction presents with urticaria and pruritus shortly after transfusion?",
+      "options": [
+        "Allergic reaction",
+        "Delayed hemolytic reaction",
+        "Transfusion-associated circulatory overload"
+      ],
+      "answer": "Allergic reaction"
+    },
+    {
+      "question_id": 12,
+      "question": "Which alloantibody specificity commonly produces a positive direct antiglobulin test in newborns?",
+      "options": [
+        "Anti-D IgG",
+        "Anti-A IgM",
+        "Anti-B IgM"
+      ],
+      "answer": "Anti-D IgG"
+    },
+    {
+      "question_id": 13,
+      "question": "Which symptom suggests an acute hemolytic transfusion reaction?",
+      "options": [
+        "Fever and back pain",
+        "Hair loss",
+        "Blurred vision"
+      ],
+      "answer": "Fever and back pain"
+    },
+    {
+      "question_id": 14,
+      "question": "Which test quantifies fetal red blood cell volume in maternal circulation?",
+      "options": [
+        "Kleihauer-Betke test",
+        "Coombs test",
+        "Western blot"
+      ],
+      "answer": "Kleihauer-Betke test"
+    },
+    {
+      "question_id": 15,
+      "question": "Which gene encodes the H antigen precursor required for A and B antigen formation?",
+      "options": [
+        "FUT1 (H gene)",
+        "RHD gene",
+        "KEL gene"
+      ],
+      "answer": "FUT1 (H gene)"
+    }
+  ]
+}

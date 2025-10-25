@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'A watched pot never boils' convey about waiting?",
+      "options": [
+        "Impatience makes waiting feel slower",
+        "Pots refuse to boil when observed",
+        "Always check cooking frequently"
+      ],
+      "answer": "Impatience makes waiting feel slower"
+    },
+    {
+      "question_id": 2,
+      "question": "Which proverb suggests you should consider consequences before acting?",
+      "options": [
+        "Look before you leap",
+        "He that hesitates is lost",
+        "Fortune favors the brave"
+      ],
+      "answer": "Look before you leap"
+    },
+    {
+      "question_id": 3,
+      "question": "Which proverb term describes short moral sayings like 'Honesty is the best policy'?",
+      "options": [
+        "Maxim",
+        "Ballad",
+        "Epic"
+      ],
+      "answer": "Maxim"
+    },
+    {
+      "question_id": 4,
+      "question": "Which proverb warns that appearances can mislead?",
+      "options": [
+        "Don't judge a book by its cover",
+        "An ounce of prevention is worth a pound of cure",
+        "Make hay while the sun shines"
+      ],
+      "answer": "Don't judge a book by its cover"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb commonly summarizes the Golden Rule across cultures?",
+      "options": [
+        "Do unto others as you would have them do unto you",
+        "Might makes right",
+        "Every man for himself"
+      ],
+      "answer": "Do unto others as you would have them do unto you"
+    },
+    {
+      "question_id": 6,
+      "question": "What name describes a deliberate humorous twist on a familiar proverb?",
+      "options": [
+        "Anti-proverb",
+        "Anti-aphorism",
+        "Countermaxim"
+      ],
+      "answer": "Anti-proverb"
+    },
+    {
+      "question_id": 7,
+      "question": "Complete the proverb: 'Too many cooks spoil the ___' in another common form",
+      "options": [
+        "recipe",
+        "soup",
+        "party"
+      ],
+      "answer": "soup"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb implies impatience reduces perceived progress?",
+      "options": [
+        "A watched pot never boils",
+        "Haste makes waste",
+        "Slow and steady wins the race"
+      ],
+      "answer": "A watched pot never boils"
+    },
+    {
+      "question_id": 9,
+      "question": "Which proverb study subfield focuses on how proverbs change in everyday use?",
+      "options": [
+        "Paremiography",
+        "Prosody",
+        "Philology"
+      ],
+      "answer": "Paremiography"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'Honesty is the best policy' recommend?",
+      "options": [
+        "Telling the truth is the wisest approach",
+        "Avoid making any promises",
+        "Use lies to protect people"
+      ],
+      "answer": "Telling the truth is the wisest approach"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb suggests immediate small fixes prevent larger problems later?",
+      "options": [
+        "A stitch in time saves nine",
+        "Strike while the iron is hot",
+        "He who hesitates is lost"
+      ],
+      "answer": "A stitch in time saves nine"
+    },
+    {
+      "question_id": 12,
+      "question": "Which proverb-forming practice uses rhyme to aid memory, like 'Haste makes waste'?",
+      "options": [
+        "Alliteration and rhyme",
+        "Anagramming",
+        "Syllabic inversion"
+      ],
+      "answer": "Alliteration and rhyme"
+    },
+    {
+      "question_id": 13,
+      "question": "Complete the proverb: 'Too many cooks spoil the ___'",
+      "options": [
+        "broth",
+        "soup",
+        "meal"
+      ],
+      "answer": "broth"
+    },
+    {
+      "question_id": 14,
+      "question": "Which historical figure reportedly said 'Alea iacta est' meaning 'The die is cast'?",
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Cicero"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 15,
+      "question": "Which famous proverb about reputation appears in Proverbs 22:1 as 'A good name is more desirable than great riches'?",
+      "options": [
+        "A good name is better than riches",
+        "All that glitters is gold",
+        "Out of sight, out of mind"
+      ],
+      "answer": "A good name is better than riches"
+    }
+  ]
+}

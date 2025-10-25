@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a shareholder in a corporation?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does capital expenditure (CapEx) usually finance?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a reverse takeover used for in corporate access to markets?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a business pivot commonly describing?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is zero-based budgeting intended to achieve?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the strategic significance of first-mover advantage?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a key performance indicator (KPI)?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the purpose of a shareholder proxy vote?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does EBITDA add back that net income excludes?"
+    },
+    {
+      "question_id": 10,
+      "question": "What defines a monopoly in market structure?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does SWOT analysis assess for strategic planning?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is a leveraged buyout's defining trait?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does a merger typically involve between companies?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a balance sheet impairment typically about?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is a secondary buyout in private equity transactions?"
+    }
+  ]
+}

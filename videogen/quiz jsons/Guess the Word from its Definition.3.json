@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is a common clue word meaning 'capable of living or moving'?",
+      "options": [
+        "Barren",
+        "Active",
+        "Opaque"
+      ],
+      "answer": "Active"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term means 'an expression that intentionally understates for effect'?",
+      "options": [
+        "Eulogy",
+        "Litotes",
+        "Diatribe"
+      ],
+      "answer": "Litotes"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technical word refers to 'the loss of a final sound in a word over time'?",
+      "options": [
+        "Apocope",
+        "Lenition",
+        "Metathesis"
+      ],
+      "answer": "Apocope"
+    },
+    {
+      "question_id": 4,
+      "question": "Which word fits the definition 'a vehicle with two wheels'?",
+      "options": [
+        "Airplane",
+        "Submarine",
+        "Bicycle"
+      ],
+      "answer": "Bicycle"
+    },
+    {
+      "question_id": 5,
+      "question": "Which word describes 'a word whose meaning has broadened over time'?",
+      "options": [
+        "Semantic broadening",
+        "Clipping",
+        "Reduplication"
+      ],
+      "answer": "Semantic broadening"
+    },
+    {
+      "question_id": 6,
+      "question": "Which word denotes 'a literal translation of a phrase from another language'?",
+      "options": [
+        "Calque",
+        "Portmanteau",
+        "Loanword"
+      ],
+      "answer": "Calque"
+    },
+    {
+      "question_id": 7,
+      "question": "Which resource most people use first to find word meanings?",
+      "options": [
+        "Dictionary",
+        "Atlas",
+        "Cookbook"
+      ],
+      "answer": "Dictionary"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word fits 'a short, amusing story often used to illustrate a point'?",
+      "options": [
+        "Foreword",
+        "Paragraph",
+        "Anecdote"
+      ],
+      "answer": "Anecdote"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term means 'the assimilation of two words into one by sound change'?",
+      "options": [
+        "Apheresis",
+        "Calque",
+        "Contraction"
+      ],
+      "answer": "Contraction"
+    },
+    {
+      "question_id": 10,
+      "question": "If a definition uses 'temporary', it indicates the word relates to what?",
+      "options": [
+        "Short duration",
+        "Permanent state",
+        "Size measurement"
+      ],
+      "answer": "Short duration"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word fits 'a word that sounds like another but differs in meaning'?",
+      "options": [
+        "Synonym",
+        "Antonym",
+        "Homophone"
+      ],
+      "answer": "Homophone"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare term refers to 'a word formed by combining morphemes from different languages'?",
+      "options": [
+        "Hybrid word",
+        "Back-formation",
+        "Reduplication"
+      ],
+      "answer": "Hybrid word"
+    },
+    {
+      "question_id": 13,
+      "question": "If a definition states 'capable of burning', which word applies?",
+      "options": [
+        "Transparent",
+        "Flammable",
+        "Edible"
+      ],
+      "answer": "Flammable"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term means 'an exaggerated statement not meant literally'?",
+      "options": [
+        "Hyperbole",
+        "Understatement",
+        "Literalism"
+      ],
+      "answer": "Hyperbole"
+    },
+    {
+      "question_id": 15,
+      "question": "Which word denotes 'a lexical item specific to a particular region or group'?",
+      "options": [
+        "Panword",
+        "Universalism",
+        "Dialectism"
+      ],
+      "answer": "Dialectism"
+    }
+  ]
+}

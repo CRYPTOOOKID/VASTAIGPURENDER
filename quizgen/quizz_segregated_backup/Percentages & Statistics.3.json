@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In percentiles, which percentile rank denotes the dataset's middle value, also called the median?",
+      "options": [
+        "50th percentile",
+        "25th percentile",
+        "75th percentile"
+      ],
+      "answer": "50th percentile"
+    },
+    {
+      "question_id": 2,
+      "question": "Which statistic is used to compare observed categorical frequencies to those expected under a null model?",
+      "options": [
+        "Chi-square statistic",
+        "t statistic",
+        "F statistic"
+      ],
+      "answer": "Chi-square statistic"
+    },
+    {
+      "question_id": 3,
+      "question": "Which variance-stabilizing transformation commonly applies the square root to count data such as Poisson-distributed observations?",
+      "options": [
+        "Square root transformation",
+        "Log transformation",
+        "Reciprocal transformation"
+      ],
+      "answer": "Square root transformation"
+    },
+    {
+      "question_id": 4,
+      "question": "In everyday mathematics, what does the term 'percent' literally mean in English usage?",
+      "options": [
+        "Per hundred",
+        "Per thousand",
+        "Per ten"
+      ],
+      "answer": "Per hundred"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sampling technique gives every individual in the population an equal probability of being selected for a survey?",
+      "options": [
+        "Simple random sampling",
+        "Convenience sampling",
+        "Quota sampling"
+      ],
+      "answer": "Simple random sampling"
+    },
+    {
+      "question_id": 6,
+      "question": "Which resampling technique estimates bias and variance by systematically leaving out one observation at a time?",
+      "options": [
+        "Jackknife",
+        "Bootstrap",
+        "Permutation test"
+      ],
+      "answer": "Jackknife"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common chart displays category comparisons using adjacent bars for each group?",
+      "options": [
+        "Bar chart",
+        "Scatter plot",
+        "Box plot"
+      ],
+      "answer": "Bar chart"
+    },
+    {
+      "question_id": 8,
+      "question": "Which nurse and statistician popularized the polar area 'coxcomb' chart to display causes of mortality visually?",
+      "options": [
+        "Florence Nightingale",
+        "Ada Lovelace",
+        "Marie Curie"
+      ],
+      "answer": "Florence Nightingale"
+    },
+    {
+      "question_id": 9,
+      "question": "Which matrix summarizes variances on the diagonal and covariances off-diagonal for a set of multivariate observations?",
+      "options": [
+        "Covariance matrix",
+        "Correlation matrix",
+        "Distance matrix"
+      ],
+      "answer": "Covariance matrix"
+    },
+    {
+      "question_id": 10,
+      "question": "What phrase describes a relative comparison of change measured against an original amount expressed in percent?",
+      "options": [
+        "Percent change",
+        "Absolute difference",
+        "Ratio"
+      ],
+      "answer": "Percent change"
+    },
+    {
+      "question_id": 11,
+      "question": "Which nonparametric test compares paired observations when the assumption of normality is not satisfied?",
+      "options": [
+        "Wilcoxon signed-rank test",
+        "Paired t-test",
+        "ANOVA"
+      ],
+      "answer": "Wilcoxon signed-rank test"
+    },
+    {
+      "question_id": 12,
+      "question": "Which statistician working at a brewery published the small-sample t-distribution under the pseudonym 'Student'?",
+      "options": [
+        "William Sealy Gosset",
+        "Ronald Fisher",
+        "Karl Pearson"
+      ],
+      "answer": "William Sealy Gosset"
+    },
+    {
+      "question_id": 13,
+      "question": "Which graphical display shows the frequency distribution of continuous numerical data using bins?",
+      "options": [
+        "Histogram",
+        "Pie chart",
+        "Line graph"
+      ],
+      "answer": "Histogram"
+    },
+    {
+      "question_id": 14,
+      "question": "Which numerical summary reflects both strength and direction of a linear relationship between two continuous variables?",
+      "options": [
+        "Correlation coefficient",
+        "p-value",
+        "Confidence interval"
+      ],
+      "answer": "Correlation coefficient"
+    },
+    {
+      "question_id": 15,
+      "question": "Which inequality gives an upper bound on the probability that a nonnegative random variable exceeds a positive threshold using its mean?",
+      "options": [
+        "Markov's inequality",
+        "Chebyshev's inequality",
+        "Jensen's inequality"
+      ],
+      "answer": "Markov's inequality"
+    }
+  ]
+}

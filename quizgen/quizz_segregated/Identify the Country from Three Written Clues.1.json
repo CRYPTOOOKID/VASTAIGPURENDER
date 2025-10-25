@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Sumo wrestling, tatami, Kyoto temples — Which country?",
+      "options": [
+        "South Korea",
+        "Japan",
+        "China"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Baltic capitals, Riga Old Town, Daugava River — Which country?",
+      "options": [
+        "Lithuania",
+        "Estonia",
+        "Latvia"
+      ],
+      "answer": "Latvia"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Silk Road city Samarkand, Registan square, Timurid architecture — Which country?",
+      "options": [
+        "Turkmenistan",
+        "Tajikistan",
+        "Uzbekistan"
+      ],
+      "answer": "Uzbekistan"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Tango, Patagonia, Buenos Aires — Which country?",
+      "options": [
+        "Uruguay",
+        "Chile",
+        "Argentina"
+      ],
+      "answer": "Argentina"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Andes copper mines, Santiago economy, Easter Island governance — Which country?",
+      "options": [
+        "Chile",
+        "Argentina",
+        "Peru"
+      ],
+      "answer": "Chile"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Himalayan kingdom, capital Kathmandu, UNESCO-listed Durbar Squares — Which country?",
+      "options": [
+        "Nepal",
+        "Bhutan",
+        "Tibet"
+      ],
+      "answer": "Nepal"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Mount Fuji, sushi, Tokyo — Which country?",
+      "options": [
+        "Japan",
+        "South Korea",
+        "China"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Amritsar's Golden Temple, Punjab region, Sikhism birthplace — Which country?",
+      "options": [
+        "India",
+        "Nepal",
+        "Pakistan"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Drakensberg peaks, Zulu nation history, Durban port — Which country?",
+      "options": [
+        "South Africa",
+        "Lesotho",
+        "Eswatini"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Colosseum, Rome, pizza — Which country?",
+      "options": [
+        "Italy",
+        "Spain",
+        "Greece"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Ottoman architecture, Bosphorus, Hagia Sophia — Which country?",
+      "options": [
+        "Turkey",
+        "Bulgaria",
+        "Greece"
+      ],
+      "answer": "Turkey"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Penang George Town heritage, Malay-Chinese-Indian mix, capital Kuala Lumpur — Which country?",
+      "options": [
+        "Malaysia",
+        "Indonesia",
+        "Singapore"
+      ],
+      "answer": "Malaysia"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Redwood forests, Hollywood, Silicon Valley — Which country?",
+      "options": [
+        "United States",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Forbidden City, Terracotta Army, Shanghai financial center — Which country?",
+      "options": [
+        "Japan",
+        "South Korea",
+        "China"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Atlantic archipelago, volcanic Pico island, Azores autonomous region — Which country?",
+      "options": [
+        "Spain",
+        "United Kingdom",
+        "Portugal"
+      ],
+      "answer": "Portugal"
+    }
+  ]
+}

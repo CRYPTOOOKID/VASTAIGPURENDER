@@ -1,0 +1,856 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does 'BP' commonly stand for in routine vital signs recorded by clinicians?",
+        "options": [
+          "Blood pressure",
+          "Bowel perforation",
+          "Body posture"
+        ],
+        "answer": "Blood pressure"
+      },
+      {
+        "question": "What does the medical abbreviation 'HR' usually refer to on patient charts?",
+        "options": [
+          "Heart rate",
+          "Hematocrit ratio",
+          "Hepatic response"
+        ],
+        "answer": "Heart rate"
+      },
+      {
+        "question": "Which organ does the term 'renal' refer to in medical contexts?",
+        "options": [
+          "Kidneys",
+          "Lungs",
+          "Liver"
+        ],
+        "answer": "Kidneys"
+      },
+      {
+        "question": "What condition does 'hypertension' describe in everyday medical language?",
+        "options": [
+          "High blood pressure",
+          "Low blood sugar",
+          "High cholesterol"
+        ],
+        "answer": "High blood pressure"
+      },
+      {
+        "question": "What does 'antibiotic' primarily treat in clinical practice?",
+        "options": [
+          "Bacterial infections",
+          "Viral infections",
+          "Fungal infections"
+        ],
+        "answer": "Bacterial infections"
+      },
+      {
+        "question": "Which symptom best describes 'dyspnea' as used by clinicians?",
+        "options": [
+          "Shortness of breath",
+          "Abdominal pain",
+          "Joint stiffness"
+        ],
+        "answer": "Shortness of breath"
+      },
+      {
+        "question": "What does 'BMI' measure as a common clinical indicator?",
+        "options": [
+          "Body mass index",
+          "Blood mineral indicator",
+          "Basal metabolic intake"
+        ],
+        "answer": "Body mass index"
+      },
+      {
+        "question": "Which organ system does 'pulmonary' relate to in medical terminology?",
+        "options": [
+          "Lungs",
+          "Heart",
+          "Nervous system"
+        ],
+        "answer": "Lungs"
+      },
+      {
+        "question": "What condition is indicated by 'hyperglycemia' in laboratory results?",
+        "options": [
+          "High blood glucose",
+          "Low blood calcium",
+          "High blood pressure"
+        ],
+        "answer": "High blood glucose"
+      },
+      {
+        "question": "What does the prefix 'hepato-' indicate about a medical condition?",
+        "options": [
+          "It involves the liver",
+          "It involves the kidneys",
+          "It involves the brain"
+        ],
+        "answer": "It involves the liver"
+      },
+      {
+        "question": "Which test is commonly used to monitor long-term blood glucose control?",
+        "options": [
+          "Hemoglobin A1c",
+          "Serum creatinine",
+          "C-reactive protein"
+        ],
+        "answer": "Hemoglobin A1c"
+      },
+      {
+        "question": "Which vaccine prevented smallpox and pioneered modern vaccination practice?",
+        "options": [
+          "Jenner's cowpox vaccine",
+          "Salk polio vaccine",
+          "Pasteur rabies vaccine"
+        ],
+        "answer": "Jenner's cowpox vaccine"
+      },
+      {
+        "question": "What is the primary symptom of influenza that distinguishes it from a common cold?",
+        "options": [
+          "Sudden high fever and body aches",
+          "Runny nose only",
+          "Persistent rash"
+        ],
+        "answer": "Sudden high fever and body aches"
+      },
+      {
+        "question": "Which term describes a sudden blockage of blood flow to the heart muscle?",
+        "options": [
+          "Myocardial infarction",
+          "Congestive heart failure",
+          "Angina pectoris"
+        ],
+        "answer": "Myocardial infarction"
+      },
+      {
+        "question": "What does 'CBC' stand for in routine blood testing?",
+        "options": [
+          "Complete blood count",
+          "Cardiac biomarker check",
+          "Comprehensive biochemistry chart"
+        ],
+        "answer": "Complete blood count"
+      },
+      {
+        "question": "Which infection is most commonly associated with Staphylococcus aureus?",
+        "options": [
+          "Skin and wound infections",
+          "Viral pneumonia",
+          "Helminthiasis"
+        ],
+        "answer": "Skin and wound infections"
+      },
+      {
+        "question": "What does 'tachycardia' describe in a basic clinical exam?",
+        "options": [
+          "Fast heart rate",
+          "Slow heart rate",
+          "Irregular breathing"
+        ],
+        "answer": "Fast heart rate"
+      },
+      {
+        "question": "Which organ does 'gastric' specifically refer to in medical terms?",
+        "options": [
+          "Stomach",
+          "Kidney",
+          "Pancreas"
+        ],
+        "answer": "Stomach"
+      },
+      {
+        "question": "What is the common term for 'cerebrovascular accident' in everyday language?",
+        "options": [
+          "Stroke",
+          "Seizure",
+          "Migraine"
+        ],
+        "answer": "Stroke"
+      },
+      {
+        "question": "Which condition characterizes type 1 diabetes at a basic level?",
+        "options": [
+          "Autoimmune destruction of insulin-producing cells",
+          "Excess insulin production",
+          "Transient gestational hyperglycemia"
+        ],
+        "answer": "Autoimmune destruction of insulin-producing cells"
+      },
+      {
+        "question": "What does 'antipyretic' medication primarily reduce in patients?",
+        "options": [
+          "Fever",
+          "Inflammation only",
+          "Blood pressure"
+        ],
+        "answer": "Fever"
+      },
+      {
+        "question": "Which term describes surgical removal of the appendix?",
+        "options": [
+          "Appendectomy",
+          "Cholecystectomy",
+          "Nephrectomy"
+        ],
+        "answer": "Appendectomy"
+      },
+      {
+        "question": "Which imaging method uses magnetic fields to visualize internal structures?",
+        "options": [
+          "Magnetic resonance imaging",
+          "X-ray radiography",
+          "Ultrasound scanning"
+        ],
+        "answer": "Magnetic resonance imaging"
+      },
+      {
+        "question": "What does 'benign' indicate about a tumor's behavior?",
+        "options": [
+          "Noncancerous and limited growth",
+          "Highly metastatic",
+          "Rapid systemic infection"
+        ],
+        "answer": "Noncancerous and limited growth"
+      },
+      {
+        "question": "Which vitamin deficiency causes scurvy with gum bleeding and poor wound healing?",
+        "options": [
+          "Vitamin C deficiency",
+          "Vitamin D deficiency",
+          "Vitamin B12 deficiency"
+        ],
+        "answer": "Vitamin C deficiency"
+      },
+      {
+        "question": "What does 'PCR' test detect when used in infectious disease diagnosis?",
+        "options": [
+          "Genetic material of pathogens",
+          "Antibody levels",
+          "Body temperature trends"
+        ],
+        "answer": "Genetic material of pathogens"
+      },
+      {
+        "question": "Which common chronic disease involves progressive airflow limitation and smoking is a main risk?",
+        "options": [
+          "Chronic obstructive pulmonary disease",
+          "Pneumonia",
+          "Pulmonary embolism"
+        ],
+        "answer": "Chronic obstructive pulmonary disease"
+      },
+      {
+        "question": "Which term describes inflammation of the liver commonly caused by viruses or toxins?",
+        "options": [
+          "Hepatitis",
+          "Nephritis",
+          "Dermatitis"
+        ],
+        "answer": "Hepatitis"
+      },
+      {
+        "question": "What does 'palliative care' primarily aim to provide for seriously ill patients?",
+        "options": [
+          "Symptom relief and quality of life",
+          "Curative treatment",
+          "Routine vaccinations"
+        ],
+        "answer": "Symptom relief and quality of life"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which bacterium most commonly causes community-acquired pneumonia in adults?",
+        "options": [
+          "Streptococcus pneumoniae",
+          "Staphylococcus epidermidis",
+          "Escherichia coli"
+        ],
+        "answer": "Streptococcus pneumoniae"
+      },
+      {
+        "question": "Which diagnostic marker indicates myocardial injury when elevated in blood tests?",
+        "options": [
+          "Troponin I",
+          "Alkaline phosphatase",
+          "Hemoglobin A1c"
+        ],
+        "answer": "Troponin I"
+      },
+      {
+        "question": "Which autoimmune disease primarily targets the neuromuscular junction causing weakness?",
+        "options": [
+          "Myasthenia gravis",
+          "Multiple sclerosis",
+          "Rheumatoid arthritis"
+        ],
+        "answer": "Myasthenia gravis"
+      },
+      {
+        "question": "Which organ-specific tumor marker is commonly raised in prostate cancer screening?",
+        "options": [
+          "Prostate-specific antigen",
+          "CA-125",
+          "Alpha-fetoprotein"
+        ],
+        "answer": "Prostate-specific antigen"
+      },
+      {
+        "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias when low?",
+        "options": [
+          "Hypokalemia",
+          "Hypernatremia",
+          "Hypocalcemia"
+        ],
+        "answer": "Hypokalemia"
+      },
+      {
+        "question": "Which antibiotic class inhibits bacterial cell wall synthesis by binding penicillin-binding proteins?",
+        "options": [
+          "Beta-lactams",
+          "Aminoglycosides",
+          "Macrolides"
+        ],
+        "answer": "Beta-lactams"
+      },
+      {
+        "question": "Which medical imaging modality is best for detecting acute intracranial hemorrhage quickly?",
+        "options": [
+          "Non-contrast CT scan",
+          "MRI with contrast",
+          "Ultrasound doppler"
+        ],
+        "answer": "Non-contrast CT scan"
+      },
+      {
+        "question": "Which virus family includes the causative agent of chickenpox and shingles?",
+        "options": [
+          "Herpesviridae",
+          "Paramyxoviridae",
+          "Orthomyxoviridae"
+        ],
+        "answer": "Herpesviridae"
+      },
+      {
+        "question": "Which condition is characterized by autoimmune destruction of pancreatic beta cells?",
+        "options": [
+          "Type 1 diabetes mellitus",
+          "Type 2 diabetes mellitus",
+          "Gestational diabetes"
+        ],
+        "answer": "Type 1 diabetes mellitus"
+      },
+      {
+        "question": "Which scale assesses level of consciousness with eye, verbal, and motor responses?",
+        "options": [
+          "Glasgow Coma Scale",
+          "APGAR score",
+          "CHA2DS2-VASc score"
+        ],
+        "answer": "Glasgow Coma Scale"
+      },
+      {
+        "question": "Which pathogen causes tuberculosis as detected by acid-fast bacilli staining?",
+        "options": [
+          "Mycobacterium tuberculosis",
+          "Klebsiella pneumoniae",
+          "Pseudomonas aeruginosa"
+        ],
+        "answer": "Mycobacterium tuberculosis"
+      },
+      {
+        "question": "Which antihypertensive medication class blocks angiotensin II receptors directly?",
+        "options": [
+          "ARB (angiotensin receptor blockers)",
+          "ACE inhibitors",
+          "Beta blockers"
+        ],
+        "answer": "ARB (angiotensin receptor blockers)"
+      },
+      {
+        "question": "Which lab test best estimates kidney function by measuring creatinine clearance or eGFR?",
+        "options": [
+          "Estimated glomerular filtration rate",
+          "C-reactive protein",
+          "Lipid panel"
+        ],
+        "answer": "Estimated glomerular filtration rate"
+      },
+      {
+        "question": "Which condition involves demyelination in the central nervous system affecting young adults?",
+        "options": [
+          "Multiple sclerosis",
+          "Amyotrophic lateral sclerosis",
+          "Guillain-Barré syndrome"
+        ],
+        "answer": "Multiple sclerosis"
+      },
+      {
+        "question": "Which clotting factor deficiency characterizes hemophilia A specifically?",
+        "options": [
+          "Factor VIII deficiency",
+          "Factor IX deficiency",
+          "Factor VII deficiency"
+        ],
+        "answer": "Factor VIII deficiency"
+      },
+      {
+        "question": "Which hormone released from adrenal medulla increases heart rate and blood pressure acutely?",
+        "options": [
+          "Epinephrine",
+          "Aldosterone",
+          "Cortisol"
+        ],
+        "answer": "Epinephrine"
+      },
+      {
+        "question": "Which imaging technique uses high-frequency sound waves to evaluate soft tissues and blood flow?",
+        "options": [
+          "Ultrasound with Doppler",
+          "Fluoroscopy",
+          "Positron emission tomography"
+        ],
+        "answer": "Ultrasound with Doppler"
+      },
+      {
+        "question": "Which drug class is first-line for acute asthma relief by bronchodilation?",
+        "options": [
+          "Short-acting beta-2 agonists",
+          "Long-acting muscarinic antagonists",
+          "Inhaled corticosteroids"
+        ],
+        "answer": "Short-acting beta-2 agonists"
+      },
+      {
+        "question": "Which metabolic condition presents with abdominal pain, neuropsychiatric symptoms, and elevated porphyrins?",
+        "options": [
+          "Acute intermittent porphyria",
+          "Wilson disease",
+          "Phenylketonuria"
+        ],
+        "answer": "Acute intermittent porphyria"
+      },
+      {
+        "question": "Which screening test uses Papanicolaou smear to detect cervical pre-cancer changes?",
+        "options": [
+          "Pap test",
+          "Mammogram",
+          "Fecal occult blood test"
+        ],
+        "answer": "Pap test"
+      },
+      {
+        "question": "Which bacterium is the principal cause of peptic ulcer disease and some gastric cancers?",
+        "options": [
+          "Helicobacter pylori",
+          "Clostridioides difficile",
+          "Neisseria meningitidis"
+        ],
+        "answer": "Helicobacter pylori"
+      },
+      {
+        "question": "Which condition describes dangerously low oxygen levels in arterial blood?",
+        "options": [
+          "Hypoxemia",
+          "Hypotension",
+          "Hypoglycemia"
+        ],
+        "answer": "Hypoxemia"
+      },
+      {
+        "question": "Which congenital heart defect allows oxygenated and deoxygenated blood to mix through a PDA?",
+        "options": [
+          "Patent ductus arteriosus",
+          "Ventricular septal defect",
+          "Tetralogy of Fallot"
+        ],
+        "answer": "Patent ductus arteriosus"
+      },
+      {
+        "question": "Which nutritional deficiency causes megaloblastic anemia with neurological symptoms when chronic?",
+        "options": [
+          "Vitamin B12 deficiency",
+          "Iron deficiency",
+          "Vitamin K deficiency"
+        ],
+        "answer": "Vitamin B12 deficiency"
+      },
+      {
+        "question": "Which autoimmune thyroid disorder commonly causes hyperthyroidism with exophthalmos?",
+        "options": [
+          "Graves disease",
+          "Hashimoto thyroiditis",
+          "Subacute thyroiditis"
+        ],
+        "answer": "Graves disease"
+      },
+      {
+        "question": "Which antimicrobial mechanism do macrolides primarily use to inhibit bacteria?",
+        "options": [
+          "Inhibit 50S ribosomal subunit protein synthesis",
+          "Disrupt cell wall synthesis",
+          "Block folate synthesis"
+        ],
+        "answer": "Inhibit 50S ribosomal subunit protein synthesis"
+      },
+      {
+        "question": "Which scoring system predicts risk of stroke in atrial fibrillation patients clinically?",
+        "options": [
+          "CHA2DS2-VASc score",
+          "APGAR score",
+          "Melanoma staging score"
+        ],
+        "answer": "CHA2DS2-VASc score"
+      },
+      {
+        "question": "Which laboratory value defines polycythemia by showing elevated hematocrit levels?",
+        "options": [
+          "High hematocrit above normal range",
+          "Low mean corpuscular volume",
+          "Low platelet count"
+        ],
+        "answer": "High hematocrit above normal range"
+      },
+      {
+        "question": "Which pathogen commonly causes urinary tract infections in adult women?",
+        "options": [
+          "Escherichia coli",
+          "Streptococcus pyogenes",
+          "Candida albicans"
+        ],
+        "answer": "Escherichia coli"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which anticoagulant mechanism describes how heparin exerts its immediate effect?",
+        "options": [
+          "Potentiates antithrombin III to inhibit thrombin and factor Xa",
+          "Directly inhibits vitamin K epoxide reductase",
+          "Blocks platelet ADP receptors"
+        ],
+        "answer": "Potentiates antithrombin III to inhibit thrombin and factor Xa"
+      },
+      {
+        "question": "Which genetic mutation most commonly causes cystic fibrosis in Caucasian populations?",
+        "options": [
+          "ΔF508 deletion in CFTR gene",
+          "Point mutation in BRCA1 gene",
+          "Trinucleotide repeat expansion in HTT gene"
+        ],
+        "answer": "ΔF508 deletion in CFTR gene"
+      },
+      {
+        "question": "Which pathogen is identified by Gram-negative coccobacilli and causes whooping cough historically?",
+        "options": [
+          "Bordetella pertussis",
+          "Haemophilus influenzae",
+          "Moraxella catarrhalis"
+        ],
+        "answer": "Bordetella pertussis"
+      },
+      {
+        "question": "Which criterion defines systemic inflammatory response syndrome using temperature, heart rate, respiratory rate, white cells?",
+        "options": [
+          "SIRS criteria",
+          "qSOFA score",
+          "APACHE II score"
+        ],
+        "answer": "SIRS criteria"
+      },
+      {
+        "question": "Which acid-base disorder shows low pH, low bicarbonate, and compensatory low PaCO2?",
+        "options": [
+          "Metabolic acidosis with respiratory compensation",
+          "Respiratory acidosis with renal compensation",
+          "Metabolic alkalosis with respiratory compensation"
+        ],
+        "answer": "Metabolic acidosis with respiratory compensation"
+      },
+      {
+        "question": "Which cancer staging system uses T, N, and M categories to describe extent of disease?",
+        "options": [
+          "TNM staging system",
+          "AJCC performance index",
+          "FIGO grading system"
+        ],
+        "answer": "TNM staging system"
+      },
+      {
+        "question": "Which enzyme deficiency underlies classic McArdle disease causing exercise intolerance?",
+        "options": [
+          "Muscle glycogen phosphorylase deficiency",
+          "Glucose-6-phosphatase deficiency",
+          "Lysosomal acid maltase deficiency"
+        ],
+        "answer": "Muscle glycogen phosphorylase deficiency"
+      },
+      {
+        "question": "Which neurologic sign indicates upper motor neuron lesion with increased tone and brisk reflexes?",
+        "options": [
+          "Spasticity with hyperreflexia",
+          "Fasciculations with hyporeflexia",
+          "Flaccidity with muscle atrophy"
+        ],
+        "answer": "Spasticity with hyperreflexia"
+      },
+      {
+        "question": "Which antibiotic resistance mechanism involves bacteria producing enzymes that hydrolyze beta-lactam rings?",
+        "options": [
+          "Beta-lactamase production",
+          "Efflux pump activation",
+          "Porin channel mutation"
+        ],
+        "answer": "Beta-lactamase production"
+      },
+      {
+        "question": "Which autoimmune encephalitis is associated with antibodies against NMDA receptors and psychiatric symptoms?",
+        "options": [
+          "Anti-NMDA receptor encephalitis",
+          "Anti-GAD antibody encephalitis",
+          "Hashimoto encephalopathy"
+        ],
+        "answer": "Anti-NMDA receptor encephalitis"
+      },
+      {
+        "question": "Which lipid abnormality characterizes familial hypercholesterolemia with early atherosclerosis risk?",
+        "options": [
+          "Very high LDL cholesterol due to LDL receptor mutation",
+          "Low HDL due to CETP mutation",
+          "Elevated triglycerides from LPL deficiency"
+        ],
+        "answer": "Very high LDL cholesterol due to LDL receptor mutation"
+      },
+      {
+        "question": "Which specific antibody is pathognomonic for primary biliary cholangitis commonly measured clinically?",
+        "options": [
+          "Anti-mitochondrial antibody",
+          "Anti-dsDNA antibody",
+          "Anti-centromere antibody"
+        ],
+        "answer": "Anti-mitochondrial antibody"
+      },
+      {
+        "question": "Which metabolic pathway defect causes phenylketonuria with elevated phenylalanine and neurotoxicity if untreated?",
+        "options": [
+          "Phenylalanine hydroxylase deficiency",
+          "Homogentisate oxidase deficiency",
+          "Branched-chain alpha-keto acid dehydrogenase deficiency"
+        ],
+        "answer": "Phenylalanine hydroxylase deficiency"
+      },
+      {
+        "question": "Which clinical triad classically suggests normal pressure hydrocephalus in older adults?",
+        "options": [
+          "Gait disturbance, urinary incontinence, cognitive decline",
+          "Fever, neck stiffness, photophobia",
+          "Ophthalmoplegia, ataxia, areflexia"
+        ],
+        "answer": "Gait disturbance, urinary incontinence, cognitive decline"
+      },
+      {
+        "question": "Which chemotherapeutic agent crosslinks DNA and is associated with hemorrhagic cystitis risk?",
+        "options": [
+          "Cyclophosphamide",
+          "Methotrexate",
+          "Vincristine"
+        ],
+        "answer": "Cyclophosphamide"
+      },
+      {
+        "question": "Which electrophysiological finding defines atrial fibrillation on electrocardiogram?",
+        "options": [
+          "Irregularly irregular rhythm without distinct P waves",
+          "Regular tachycardia with sawtooth P waves",
+          "Prolonged PR interval with dropped beats"
+        ],
+        "answer": "Irregularly irregular rhythm without distinct P waves"
+      },
+      {
+        "question": "Which rare metabolic condition causes copper accumulation causing hepatic and neurological symptoms?",
+        "options": [
+          "Wilson disease",
+          "Hemochromatosis",
+          "Alpha-1 antitrypsin deficiency"
+        ],
+        "answer": "Wilson disease"
+      },
+      {
+        "question": "Which receptor mutation underlies familial medullary thyroid carcinoma in MEN2 syndromes?",
+        "options": [
+          "RET proto-oncogene mutation",
+          "TP53 tumor suppressor mutation",
+          "BRCA2 mutation"
+        ],
+        "answer": "RET proto-oncogene mutation"
+      },
+      {
+        "question": "Which physiologic process describes convalescent antibody transfer via placenta protecting newborns temporarily?",
+        "options": [
+          "Passive immunity from maternal IgG",
+          "Active neonatal vaccination",
+          "Innate complement activation"
+        ],
+        "answer": "Passive immunity from maternal IgG"
+      },
+      {
+        "question": "Which diagnostic criterion specifies hemoglobin A1c threshold to diagnose diabetes mellitus currently?",
+        "options": [
+          "HbA1c ≥ 6.5%",
+          "HbA1c ≥ 5.0%",
+          "HbA1c ≥ 7.5%"
+        ],
+        "answer": "HbA1c ≥ 6.5%"
+      },
+      {
+        "question": "Which cardiac murmur increases with handgrip maneuver by increasing afterload and regurgitant flow?",
+        "options": [
+          "Mitral regurgitation murmur intensifies",
+          "Hypertrophic cardiomyopathy murmur intensifies",
+          "Aortic stenosis murmur intensifies"
+        ],
+        "answer": "Mitral regurgitation murmur intensifies"
+      },
+      {
+        "question": "Which parasitic infection is diagnosed by trophozoites in stool and causes persistent watery diarrhea?",
+        "options": [
+          "Giardia lamblia infection",
+          "Entamoeba histolytica infection",
+          "Taenia solium infection"
+        ],
+        "answer": "Giardia lamblia infection"
+      },
+      {
+        "question": "Which cytokine is a major driver of septic shock vasodilation and systemic inflammation?",
+        "options": [
+          "Tumor necrosis factor-alpha (TNF-α)",
+          "Erythropoietin",
+          "Insulin-like growth factor"
+        ],
+        "answer": "Tumor necrosis factor-alpha (TNF-α)"
+      },
+      {
+        "question": "Which genetic test identifies trinucleotide repeat expansion diagnosing Huntington disease definitively?",
+        "options": [
+          "CAG repeat expansion testing in HTT gene",
+          "BRCA1 sequencing",
+          "CFTR mutation panel"
+        ],
+        "answer": "CAG repeat expansion testing in HTT gene"
+      },
+      {
+        "question": "Which acute leukemia predominates in children and shows TdT-positive lymphoblasts immunophenotypically?",
+        "options": [
+          "Acute lymphoblastic leukemia",
+          "Acute myeloid leukemia",
+          "Chronic myeloid leukemia"
+        ],
+        "answer": "Acute lymphoblastic leukemia"
+      },
+      {
+        "question": "Which electrolyte disturbance prolongs QT interval and risks torsades de pointes when low?",
+        "options": [
+          "Hypomagnesemia",
+          "Hypercalcemia",
+          "Hyperkalemia"
+        ],
+        "answer": "Hypomagnesemia"
+      },
+      {
+        "question": "Which dermatologic condition features autoimmune blistering caused by antibodies against desmoglein proteins?",
+        "options": [
+          "Pemphigus vulgaris",
+          "Bullous pemphigoid",
+          "Psoriasis vulgaris"
+        ],
+        "answer": "Pemphigus vulgaris"
+      },
+      {
+        "question": "Which screening criterion defines metabolic syndrome through waist, lipids, blood pressure, glucose abnormalities?",
+        "options": [
+          "ATP III criteria",
+          "CHA2DS2-VASc criteria",
+          "Revised Jones criteria"
+        ],
+        "answer": "ATP III criteria"
+      },
+      {
+        "question": "Which HIV test detects viral RNA directly to diagnose acute infection before antibodies appear?",
+        "options": [
+          "HIV RNA PCR (viral load) testing",
+          "HIV antibody ELISA only",
+          "Rapid antigen skin test"
+        ],
+        "answer": "HIV RNA PCR (viral load) testing"
+      },
+      {
+        "question": "Which surgical procedure relieves intracranial pressure by creating a skull opening for brain swelling?",
+        "options": [
+          "Decompressive craniectomy",
+          "Laminectomy",
+          "Ventriculoperitoneal shunt placement"
+        ],
+        "answer": "Decompressive craniectomy"
+      },
+      {
+        "question": "Which toxin mechanism causes botulism by blocking acetylcholine release at neuromuscular junctions?",
+        "options": [
+          "Cleaves SNARE proteins preventing acetylcholine release",
+          "Activates cholinergic receptors permanently",
+          "Inhibits acetylcholinesterase activity"
+        ],
+        "answer": "Cleaves SNARE proteins preventing acetylcholine release"
+      },
+      {
+        "question": "Which pulmonary condition shows honeycomb lung and restrictive pattern with reduced lung volumes?",
+        "options": [
+          "Pulmonary fibrosis (interstitial lung disease)",
+          "Emphysema-predominant COPD",
+          "Bronchiectasis"
+        ],
+        "answer": "Pulmonary fibrosis (interstitial lung disease)"
+      },
+      {
+        "question": "Which renal pathology features proteinuria, hypoalbuminemia, hyperlipidemia, and edema as a syndrome?",
+        "options": [
+          "Nephrotic syndrome",
+          "Acute tubular necrosis",
+          "Interstitial nephritis"
+        ],
+        "answer": "Nephrotic syndrome"
+      },
+      {
+        "question": "Which immunotherapy targets PD-1 or PD-L1 pathways to release T-cell inhibition in cancer treatment?",
+        "options": [
+          "Checkpoint inhibitors against PD-1/PD-L1",
+          "CTLA-4 agonists",
+          "CAR-T cell nonspecific infusion"
+        ],
+        "answer": "Checkpoint inhibitors against PD-1/PD-L1"
+      },
+      {
+        "question": "Which fetal chromosomal abnormality increases nuchal translucency and trisomy 21 markers on screening ultrasound?",
+        "options": [
+          "Trisomy 21 (Down syndrome)",
+          "Trisomy 18 (Edwards syndrome)",
+          "Monosomy X (Turner syndrome)"
+        ],
+        "answer": "Trisomy 21 (Down syndrome)"
+      },
+      {
+        "question": "Which bacteria produces a pseudomembrane in the colon causing severe antibiotic-associated diarrhea?",
+        "options": [
+          "Clostridioides difficile",
+          "Bacteroides fragilis",
+          "Lactobacillus acidophilus"
+        ],
+        "answer": "Clostridioides difficile"
+      }
+    ]
+  }
+}

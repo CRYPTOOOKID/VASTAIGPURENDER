@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes a market controlled by a single seller?"
+    },
+    {
+      "question_id": 2,
+      "question": "What term identifies goods that can replace each other in consumption?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term defines prices set above market equilibrium by government law?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes the additional cost of producing one more unit?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the term for trade barriers that aim to protect domestic industries?"
+    },
+    {
+      "question_id": 6,
+      "question": "What term describes equilibrium in game theory where no player benefits from changing strategy?"
+    },
+    {
+      "question_id": 7,
+      "question": "What term labels goods people buy more of as income rises?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the term for long-run average cost decreasing as output rises?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term names the curve showing total welfare loss from monopoly pricing?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the marketplace where buyers and sellers exchange goods called?"
+    },
+    {
+      "question_id": 11,
+      "question": "What term labels the extra output from increasing all inputs proportionally?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the term for income after taxes and transfers?"
+    },
+    {
+      "question_id": 13,
+      "question": "What term denotes costs that change with production level?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term refers to government limits on lending conditions to manage risk?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the term for a tax on transactions to reduce speculative trading?"
+    }
+  ]
+}

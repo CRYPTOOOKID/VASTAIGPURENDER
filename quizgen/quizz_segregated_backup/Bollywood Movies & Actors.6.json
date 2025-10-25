@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who played Paro in Sanjay Leela Bhansali's Devdas (2002)?",
+      "options": [
+        "Aishwarya Rai",
+        "Madhuri Dixit",
+        "Kajol"
+      ],
+      "answer": "Aishwarya Rai"
+    },
+    {
+      "question_id": 2,
+      "question": "Which director made his directorial debut with Khamoshi: The Musical (1996)?",
+      "options": [
+        "Sanjay Leela Bhansali",
+        "Anurag Kashyap",
+        "Vikramaditya Motwane"
+      ],
+      "answer": "Sanjay Leela Bhansali"
+    },
+    {
+      "question_id": 3,
+      "question": "Which makeup artist won an Academy Award for their work on a film associated with Indian cinema?",
+      "options": [
+        "Bhanu Athaiya",
+        "Rekha",
+        "Nasir Hussain"
+      ],
+      "answer": "Bhanu Athaiya"
+    },
+    {
+      "question_id": 4,
+      "question": "Which 1998 film featured the song filmed on top of a moving train, 'Chaiyya Chaiyya'?",
+      "options": [
+        "Dil Se",
+        "Dilwale Dulhania Le Jayenge",
+        "Kabhi Khushi Kabhie Gham"
+      ],
+      "answer": "Dil Se"
+    },
+    {
+      "question_id": 5,
+      "question": "Which 1993 film introduced the controversial song 'Choli Ke Peeche Kya Hai'?",
+      "options": [
+        "Khalnayak",
+        "Hum Aapke Hain Koun..!",
+        "Dil To Pagal Hai"
+      ],
+      "answer": "Khalnayak"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1990s director frequently collaborated with music duo Jatin-Lalit on romantic films?",
+      "options": [
+        "Aditya Chopra",
+        "Sanjay Leela Bhansali",
+        "Mahesh Bhatt"
+      ],
+      "answer": "Aditya Chopra"
+    },
+    {
+      "question_id": 7,
+      "question": "Who played Raj in the film Dilwale Dulhania Le Jayenge (1995)?",
+      "options": [
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Aamir Khan"
+      ],
+      "answer": "Shah Rukh Khan"
+    },
+    {
+      "question_id": 8,
+      "question": "Who played the title role in The Dirty Picture (2011)?",
+      "options": [
+        "Vidya Balan",
+        "Kareena Kapoor",
+        "Deepika Padukone"
+      ],
+      "answer": "Vidya Balan"
+    },
+    {
+      "question_id": 9,
+      "question": "Which actor received a National Film Award for his portrayal in Paan Singh Tomar (2012)?",
+      "options": [
+        "Irrfan Khan",
+        "Nawazuddin Siddiqui",
+        "Rajkummar Rao"
+      ],
+      "answer": "Irrfan Khan"
+    },
+    {
+      "question_id": 10,
+      "question": "Which actor starred in the romantic comedy Barfi! (2012)?",
+      "options": [
+        "Ranbir Kapoor",
+        "Hrithik Roshan",
+        "Shahid Kapoor"
+      ],
+      "answer": "Ranbir Kapoor"
+    },
+    {
+      "question_id": 11,
+      "question": "Which film was Karan Johar's directorial debut in 1998?",
+      "options": [
+        "Kuch Kuch Hota Hai",
+        "Kabhi Khushi Kabhie Gham",
+        "My Name Is Khan"
+      ],
+      "answer": "Kuch Kuch Hota Hai"
+    },
+    {
+      "question_id": 12,
+      "question": "Which film ran continuously for over 1000 weeks at Mumbai's Maratha Mandir theatre?",
+      "options": [
+        "Dilwale Dulhania Le Jayenge",
+        "Sholay",
+        "Mughal-e-Azam"
+      ],
+      "answer": "Dilwale Dulhania Le Jayenge"
+    },
+    {
+      "question_id": 13,
+      "question": "Which 1988 film was Aamir Khan's breakthrough as a lead actor?",
+      "options": [
+        "Qayamat Se Qayamat Tak",
+        "Jo Jeeta Wohi Sikandar",
+        "Dil"
+      ],
+      "answer": "Qayamat Se Qayamat Tak"
+    },
+    {
+      "question_id": 14,
+      "question": "Which actor received the National Film Award for Best Actor for his performance in the biopic Bhaag Milkha Bhaag?",
+      "options": [
+        "Farhan Akhtar",
+        "Irrfan Khan",
+        "R. Madhavan"
+      ],
+      "answer": "Farhan Akhtar"
+    },
+    {
+      "question_id": 15,
+      "question": "Which actor produced and starred in the patriotic sports drama Lagaan?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Salman Khan"
+      ],
+      "answer": "Aamir Khan"
+    }
+  ]
+}

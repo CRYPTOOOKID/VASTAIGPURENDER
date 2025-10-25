@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who said \"I think, therefore I am\" in philosophical writings?",
+      "options": [
+        "René Descartes",
+        "Immanuel Kant",
+        "John Locke"
+      ],
+      "answer": "René Descartes"
+    },
+    {
+      "question_id": 2,
+      "question": "Which suffragist said \"Men, their rights and nothing more; women, their rights and nothing less\"?",
+      "options": [
+        "Susan B. Anthony",
+        "Elizabeth Cady Stanton",
+        "Lucy Stone"
+      ],
+      "answer": "Susan B. Anthony"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote \"If I had more time, I would have written a shorter letter\" about editing prose?",
+      "options": [
+        "Blaise Pascal",
+        "Voltaire",
+        "Denis Diderot"
+      ],
+      "answer": "Blaise Pascal"
+    },
+    {
+      "question_id": 4,
+      "question": "Which explorer wrote about \"a new world\" after 1492 voyages to the Americas?",
+      "options": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Amerigo Vespucci"
+      ],
+      "answer": "Christopher Columbus"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote \"The die is cast\" after a decisive political military crossing in 49 BCE?",
+      "options": [
+        "Julius Caesar",
+        "Brutus",
+        "Pompey"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval saint wrote \"Action expresses priorities\" in ascetic and ethical guidance?",
+      "options": [
+        "St. Augustine",
+        "St. Francis of Assisi",
+        "St. Thomas Aquinas"
+      ],
+      "answer": "St. Augustine"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist said \"Imagination is more important than knowledge\"?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr"
+      ],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question_id": 8,
+      "question": "Which French general said \"I shall return\" about the Philippines during WWII?",
+      "options": [
+        "Douglas MacArthur",
+        "Chester Nimitz",
+        "George Patton"
+      ],
+      "answer": "Douglas MacArthur"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote \"I prefer dangerous freedom over peaceful slavery\" during independence debates?",
+      "options": [
+        "Thomas Jefferson",
+        "Simón Bolívar",
+        "José de San Martín"
+      ],
+      "answer": "Simón Bolívar"
+    },
+    {
+      "question_id": 10,
+      "question": "Who wrote \"Give me liberty, or give me death!\" in a speech to Virginia delegates?",
+      "options": [
+        "Patrick Henry",
+        "Thomas Paine",
+        "James Madison"
+      ],
+      "answer": "Patrick Henry"
+    },
+    {
+      "question_id": 11,
+      "question": "Which American abolitionist declared \"I would unite with anybody to do right and with nobody to do wrong\"?",
+      "options": [
+        "Frederick Douglass",
+        "William Lloyd Garrison",
+        "Harriet Tubman"
+      ],
+      "answer": "Frederick Douglass"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote \"If you want peace, prepare for war\" in an ancient military maxim?",
+      "options": [
+        "Maurus (Latin maxim)",
+        "Publius Flavius Vegetius",
+        "Julius Caesar"
+      ],
+      "answer": "Publius Flavius Vegetius"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scientist said \"Nothing in life is to be feared, it is only to be understood\"?",
+      "options": [
+        "Marie Curie",
+        "Jane Goodall",
+        "Rosalind Franklin"
+      ],
+      "answer": "Marie Curie"
+    },
+    {
+      "question_id": 14,
+      "question": "Which suffragist declared \"Failure is impossible\" to rally supporters for votes for women?",
+      "options": [
+        "Emmeline Pankhurst",
+        "Susan B. Anthony",
+        "Millicent Fawcett"
+      ],
+      "answer": "Emmeline Pankhurst"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"When the facts change, I change my mind\" as a pragmatic economist and historian?",
+      "options": [
+        "John Maynard Keynes",
+        "Adam Smith",
+        "David Ricardo"
+      ],
+      "answer": "John Maynard Keynes"
+    }
+  ]
+}

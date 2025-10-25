@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country has the second-largest population?",
+      "options": [
+        "India",
+        "United States",
+        "Indonesia"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country had one of the highest total fertility rates in the early 21st century?",
+      "options": [
+        "Niger",
+        "Sweden",
+        "Canada"
+      ],
+      "answer": "Niger"
+    },
+    {
+      "question_id": 3,
+      "question": "Which population measurement uses sample surveys like DHS to estimate demographic rates where registration is weak?",
+      "options": [
+        "Survey-based estimation",
+        "Vital registration only",
+        "Administrative counts"
+      ],
+      "answer": "Survey-based estimation"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country has one of the highest life expectancies globally?",
+      "options": [
+        "Japan",
+        "Mali",
+        "Afghanistan"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 5,
+      "question": "Which region experienced a decline in population in recent decades due to low fertility and emigration?",
+      "options": [
+        "Eastern Europe",
+        "Southeast Asia",
+        "Sub-Saharan Africa"
+      ],
+      "answer": "Eastern Europe"
+    },
+    {
+      "question_id": 6,
+      "question": "What was the approximate world population at the beginning of the Common Era (year 1)?",
+      "options": [
+        "About 300 million",
+        "About 1 billion",
+        "About 5 million"
+      ],
+      "answer": "About 300 million"
+    },
+    {
+      "question_id": 7,
+      "question": "Which global milestone was reached around October 31, 2011?",
+      "options": [
+        "World population reached 7 billion",
+        "First global census completed",
+        "Global life expectancy hit 80"
+      ],
+      "answer": "World population reached 7 billion"
+    },
+    {
+      "question_id": 8,
+      "question": "Which factor most directly reduces population growth in demographic theory?",
+      "options": [
+        "Declining fertility rate",
+        "Increasing population density",
+        "Higher infant mortality"
+      ],
+      "answer": "Declining fertility rate"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country was the first to record a below-replacement TFR sustained for several decades in the modern era?",
+      "options": [
+        "Sweden",
+        "Italy",
+        "France"
+      ],
+      "answer": "Sweden"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the demographic term for the number of deaths per 1,000 people per year?",
+      "options": [
+        "Crude death rate",
+        "Infant mortality rate",
+        "Life expectancy"
+      ],
+      "answer": "Crude death rate"
+    },
+    {
+      "question_id": 11,
+      "question": "What does the 'sex ratio' in population statistics express?",
+      "options": [
+        "Male to female ratio",
+        "Birth rate trend",
+        "Average household size"
+      ],
+      "answer": "Male to female ratio"
+    },
+    {
+      "question_id": 12,
+      "question": "Which demographic term describes the additional population growth that occurs when a previously young population reaches reproductive age?",
+      "options": [
+        "Population momentum",
+        "Demographic suppression",
+        "Fertility compression"
+      ],
+      "answer": "Population momentum"
+    },
+    {
+      "question_id": 13,
+      "question": "Which demographic metric indicates number of people aged 65 and over?",
+      "options": [
+        "Elderly population share",
+        "Child dependency ratio",
+        "Population pyramid"
+      ],
+      "answer": "Elderly population share"
+    },
+    {
+      "question_id": 14,
+      "question": "Which demographic term describes a temporary rise in births after a baby boom's end?",
+      "options": [
+        "Echo effect",
+        "Migration surge",
+        "Fertility cliff"
+      ],
+      "answer": "Echo effect"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country’s census famously undercounted a significant portion of its population in 2011, prompting methodological reforms?",
+      "options": [
+        "Nigeria",
+        "Vatican City",
+        "Iceland"
+      ],
+      "answer": "Nigeria"
+    }
+  ]
+}

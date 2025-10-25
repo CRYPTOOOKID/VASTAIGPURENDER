@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which script is primarily used to write Hindi today?",
+        "options": [
+          "Devanagari",
+          "Perso-Arabic",
+          "Roman"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which language is the most widely spoken native language in India?",
+        "options": [
+          "Hindi",
+          "Bengali",
+          "Tamil"
+        ],
+        "answer": "Hindi"
+      },
+      {
+        "question": "Which language family includes Tamil, Telugu, Kannada, and Malayalam?",
+        "options": [
+          "Dravidian",
+          "Indo-Aryan",
+          "Austroasiatic"
+        ],
+        "answer": "Dravidian"
+      },
+      {
+        "question": "Which script is used for writing Bengali and Assamese scripts share close similarity?",
+        "options": [
+          "Bengali",
+          "Devanagari",
+          "Gurmukhi"
+        ],
+        "answer": "Bengali"
+      },
+      {
+        "question": "Which script is standard for writing Gujarati language?",
+        "options": [
+          "Gujarati",
+          "Devanagari",
+          "Kannada"
+        ],
+        "answer": "Gujarati"
+      },
+      {
+        "question": "Which classical Indian language is associated with the Tirukkural text?",
+        "options": [
+          "Tamil",
+          "Sanskrit",
+          "Pali"
+        ],
+        "answer": "Tamil"
+      },
+      {
+        "question": "Which script does Marathi use officially?",
+        "options": [
+          "Devanagari",
+          "Latin",
+          "Perso-Arabic"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which script is used to write Punjabi in most of India?",
+        "options": [
+          "Gurmukhi",
+          "Shahmukhi",
+          "Devanagari"
+        ],
+        "answer": "Gurmukhi"
+      },
+      {
+        "question": "Which language is written in the Odia script?",
+        "options": [
+          "Odia",
+          "Kannada",
+          "Malayalam"
+        ],
+        "answer": "Odia"
+      },
+      {
+        "question": "Which script is native to the Malayalam language?",
+        "options": [
+          "Malayalam",
+          "Telugu",
+          "Gujarati"
+        ],
+        "answer": "Malayalam"
+      },
+      {
+        "question": "Which Indian language did Rabindranath Tagore primarily write in?",
+        "options": [
+          "Bengali",
+          "Hindi",
+          "Marathi"
+        ],
+        "answer": "Bengali"
+      },
+      {
+        "question": "Which major language group does Hindi belong to?",
+        "options": [
+          "Indo-Aryan",
+          "Dravidian",
+          "Tibeto-Burman"
+        ],
+        "answer": "Indo-Aryan"
+      },
+      {
+        "question": "Which script is primarily associated with Sanskrit texts today?",
+        "options": [
+          "Devanagari",
+          "Tamil-Brahmi",
+          "Ol Chiki"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which North Indian script was used historically in inscriptions along Gandhara?",
+        "options": [
+          "Kharosthi",
+          "Devanagari",
+          "Bengali"
+        ],
+        "answer": "Kharosthi"
+      },
+      {
+        "question": "Which language family does Santali belong to?",
+        "options": [
+          "Austroasiatic",
+          "Indo-Aryan",
+          "Dravidian"
+        ],
+        "answer": "Austroasiatic"
+      },
+      {
+        "question": "Which script was historically used for Telugu and Kannada before divergence?",
+        "options": [
+          "Old Kannada-Telugu script",
+          "Devanagari",
+          "Perso-Arabic"
+        ],
+        "answer": "Old Kannada-Telugu script"
+      },
+      {
+        "question": "Which modern script is used for Manipuri (Meitei) after revival efforts?",
+        "options": [
+          "Meitei Mayek",
+          "Devanagari",
+          "Bengali"
+        ],
+        "answer": "Meitei Mayek"
+      },
+      {
+        "question": "Which language uses Ol Chiki script created for its written form?",
+        "options": [
+          "Santali",
+          "Konkani",
+          "Bodo"
+        ],
+        "answer": "Santali"
+      },
+      {
+        "question": "Which Indian language is known for the classical Sangam literature corpus?",
+        "options": [
+          "Tamil",
+          "Kannada",
+          "Malayalam"
+        ],
+        "answer": "Tamil"
+      },
+      {
+        "question": "Which script family originates from the ancient Brahmi script?",
+        "options": [
+          "Indic abugidas",
+          "Latin alphabets",
+          "Cyrillic scripts"
+        ],
+        "answer": "Indic abugidas"
+      },
+      {
+        "question": "Which language's script is called 'Grantha' historically for Sanskrit in the south?",
+        "options": [
+          "Tamil region manuscripts",
+          "Bengali region manuscripts",
+          "Gujarati region manuscripts"
+        ],
+        "answer": "Tamil region manuscripts"
+      },
+      {
+        "question": "Which script is commonly used to write Konkani in official settings in Goa?",
+        "options": [
+          "Devanagari",
+          "Roman (Romi)",
+          "Gurmukhi"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which Indian language family includes Assamese and Bengali?",
+        "options": [
+          "Indo-Aryan",
+          "Dravidian",
+          "Austroasiatic"
+        ],
+        "answer": "Indo-Aryan"
+      },
+      {
+        "question": "Which modern Indian language developed a rich medieval court literature in Kannada?",
+        "options": [
+          "Kannada",
+          "Marathi",
+          "Punjabi"
+        ],
+        "answer": "Kannada"
+      },
+      {
+        "question": "Which script is traditionally used for Kashmiri in much of Kashmir?",
+        "options": [
+          "Perso-Arabic (Nastaliq)",
+          "Devanagari",
+          "Gurmukhi"
+        ],
+        "answer": "Perso-Arabic (Nastaliq)"
+      },
+      {
+        "question": "Which Indian language is associated with the epic Ramcharitmanas by Tulsidas?",
+        "options": [
+          "Awadhi dialect of Hindi",
+          "Tamil",
+          "Sanskrit"
+        ],
+        "answer": "Awadhi dialect of Hindi"
+      },
+      {
+        "question": "Which script did early Ashokan inscriptions use?",
+        "options": [
+          "Brahmi",
+          "Devanagari",
+          "Kharosthi"
+        ],
+        "answer": "Brahmi"
+      },
+      {
+        "question": "Which script is used by the Bodo language officially in Assam?",
+        "options": [
+          "Devanagari",
+          "Bengali",
+          "Ol Chiki"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which Indian language family includes Tibeto-Burman languages in the northeast?",
+        "options": [
+          "Tibeto-Burman",
+          "Indo-Aryan",
+          "Dravidian"
+        ],
+        "answer": "Tibeto-Burman"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which script served as the direct ancestor for Devanagari and many northern scripts?",
+        "options": [
+          "Gupta script",
+          "Brahmi script",
+          "Kharosthi script"
+        ],
+        "answer": "Gupta script"
+      },
+      {
+        "question": "Which Mughal-era Persianized script influenced writing Urdu in India?",
+        "options": [
+          "Nastaʿlīq",
+          "Devanagari",
+          "Brahmi"
+        ],
+        "answer": "Nastaʿlīq"
+      },
+      {
+        "question": "Which language became the first to receive 'Classical' status in India in 2004?",
+        "options": [
+          "Tamil",
+          "Sanskrit",
+          "Kannada"
+        ],
+        "answer": "Tamil"
+      },
+      {
+        "question": "Which 19th-century scholar first substantially deciphered the Brahmi inscriptions?",
+        "options": [
+          "James Prinsep",
+          "Max Müller",
+          "Thomas Munro"
+        ],
+        "answer": "James Prinsep"
+      },
+      {
+        "question": "Which script underlies the modern Assamese and Bengali writing systems?",
+        "options": [
+          "Eastern Nagari",
+          "Devanagari",
+          "Gujarati"
+        ],
+        "answer": "Eastern Nagari"
+      },
+      {
+        "question": "Which script reform led to the distinct rounded letters of Malayalam?",
+        "options": [
+          "Influence of palm-leaf manuscripts",
+          "Romanization",
+          "Devanagari adoption"
+        ],
+        "answer": "Influence of palm-leaf manuscripts"
+      },
+      {
+        "question": "Which Indian language uses the Sharada script historically in Kashmir?",
+        "options": [
+          "Kashmiri",
+          "Gujarati",
+          "Tamil"
+        ],
+        "answer": "Kashmiri"
+      },
+      {
+        "question": "Which modern Indian script was standardized by Guru Angad for Sikh scripture?",
+        "options": [
+          "Gurmukhi",
+          "Devanagari",
+          "Shahmukhi"
+        ],
+        "answer": "Gurmukhi"
+      },
+      {
+        "question": "Which Indian language family primarily uses agglutinative morphology?",
+        "options": [
+          "Dravidian",
+          "Indo-Aryan",
+          "Indo-European"
+        ],
+        "answer": "Dravidian"
+      },
+      {
+        "question": "Which script did William Jones study while proposing Sanskrit's relation to European languages?",
+        "options": [
+          "Devanagari",
+          "Brahmi",
+          "Gurmukhi"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which Odia achievement earned the language classical status in 2014?",
+        "options": [
+          "Ancient literary heritage",
+          "Latin script adoption",
+          "Isolation from other languages"
+        ],
+        "answer": "Ancient literary heritage"
+      },
+      {
+        "question": "Which writing system type describes most Indian scripts (vowel signs attach to consonants)?",
+        "options": [
+          "Abugida",
+          "Alphabet",
+          "Syllabary"
+        ],
+        "answer": "Abugida"
+      },
+      {
+        "question": "Which script reform in the 19th century affected Marathi orthography removing the schwa ambiguity?",
+        "options": [
+          "Balbodh orthography",
+          "Shahmukhi adoption",
+          "Romanization"
+        ],
+        "answer": "Balbodh orthography"
+      },
+      {
+        "question": "Which language uses the Meitei Mayek script historically before Bengali script adoption?",
+        "options": [
+          "Meitei (Manipuri)",
+          "Mizo",
+          "Khandeshi"
+        ],
+        "answer": "Meitei (Manipuri)"
+      },
+      {
+        "question": "Which Hindi dialect formed the basis for Modern Standard Hindi used officially?",
+        "options": [
+          "Khari Boli",
+          "Braj Bhasha",
+          "Haryanvi"
+        ],
+        "answer": "Khari Boli"
+      },
+      {
+        "question": "Which script is unique for lacking conjunct consonant clusters in its orthography?",
+        "options": [
+          "Tamil",
+          "Devanagari",
+          "Bengali"
+        ],
+        "answer": "Tamil"
+      },
+      {
+        "question": "Which language's script was reintroduced officially in Manipur in the 20th century?",
+        "options": [
+          "Meitei Mayek",
+          "Roman script",
+          "Kannada"
+        ],
+        "answer": "Meitei Mayek"
+      },
+      {
+        "question": "Which script did the Bhattiprolu inscriptions use, important for south Indian paleography?",
+        "options": [
+          "Early Brahmi variant",
+          "Kharosthi",
+          "Devanagari"
+        ],
+        "answer": "Early Brahmi variant"
+      },
+      {
+        "question": "Which language of India uses the Takri script historically in Himachal and Jammu regions?",
+        "options": [
+          "Dogri",
+          "Tamil",
+          "Bengali"
+        ],
+        "answer": "Dogri"
+      },
+      {
+        "question": "Which modern Indian language acquired classical status in 2008 alongside Kannada?",
+        "options": [
+          "Telugu",
+          "Sanskrit",
+          "Hindi"
+        ],
+        "answer": "Telugu"
+      },
+      {
+        "question": "Which script's Unicode block includes independent vowel letters plus consonants?",
+        "options": [
+          "Devanagari",
+          "Latin",
+          "Arabic"
+        ],
+        "answer": "Devanagari"
+      },
+      {
+        "question": "Which colonial-era romanization became the official transliteration by Government of India?",
+        "options": [
+          "Hunterian system",
+          "ISO 9001",
+          "ALA-LC"
+        ],
+        "answer": "Hunterian system"
+      },
+      {
+        "question": "Which language family does Khasi belong to within India?",
+        "options": [
+          "Austroasiatic (Munda branch)",
+          "Indo-Aryan",
+          "Dravidian"
+        ],
+        "answer": "Austroasiatic (Munda branch)"
+      },
+      {
+        "question": "Which early modern poet significantly shaped Hindi-Urdu Ghazal tradition in North India?",
+        "options": [
+          "Mir Taqi Mir",
+          "Kabir",
+          "Kambar"
+        ],
+        "answer": "Mir Taqi Mir"
+      },
+      {
+        "question": "Which script reformer is credited with modern Malayalam script standardization in the 20th century?",
+        "options": [
+          "K. P. Kesava Menon",
+          "Dwarakanath Tagore",
+          "Pandit Ravi Shankar"
+        ],
+        "answer": "K. P. Kesava Menon"
+      },
+      {
+        "question": "Which Indian state recognizes both Devanagari and Perso-Arabic scripts for Sindhi?",
+        "options": [
+          "Goa recognizes Devanagari for Konkani",
+          "Sindh in Pakistan",
+          "India recognizes both in policy"
+        ],
+        "answer": "India recognizes both in policy"
+      },
+      {
+        "question": "Which script historically transmitted Pali and Theravada texts into South and Southeast Asia?",
+        "options": [
+          "Brahmi-derived scripts",
+          "Latin script",
+          "Cyrillic script"
+        ],
+        "answer": "Brahmi-derived scripts"
+      },
+      {
+        "question": "Which Indian language's literature includes medieval vachana poetry from the 12th century?",
+        "options": [
+          "Kannada",
+          "Hindi",
+          "Bengali"
+        ],
+        "answer": "Kannada"
+      },
+      {
+        "question": "Which script variant shows the distinctive rounded shapes used in Telugu and Kannada?",
+        "options": [
+          "Southern Brahmi derivatives",
+          "Kharosthi derivatives",
+          "Devanagari derivatives"
+        ],
+        "answer": "Southern Brahmi derivatives"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which epigraphist published the key 1837 paper deciphering Brahmi letter values?",
+        "options": [
+          "James Prinsep",
+          "Jules Barthélemy Saint-Hilaire",
+          "Alexander Cunningham"
+        ],
+        "answer": "James Prinsep"
+      },
+      {
+        "question": "Which 11th-century inscription provides early evidence for Old Kannada script usage?",
+        "options": [
+          "Halmidi inscription",
+          "Ashoka edict",
+          "Ramanathapuram plate"
+        ],
+        "answer": "Halmidi inscription"
+      },
+      {
+        "question": "Which script was used for the earliest known Telugu inscriptions around 400 CE?",
+        "options": [
+          "Proto-Kannada-Telugu (Early Telugu-Kannada)",
+          "Devanagari",
+          "Grantha"
+        ],
+        "answer": "Proto-Kannada-Telugu (Early Telugu-Kannada)"
+      },
+      {
+        "question": "Which scholar created the Ol Chiki script for Santali in 1925?",
+        "options": [
+          "Raghunath Murmu",
+          "Pandit Raghunath Sharma",
+          "William Jones"
+        ],
+        "answer": "Raghunath Murmu"
+      },
+      {
+        "question": "Which language's phonology preserves retroflex lateral approximant rarely found globally?",
+        "options": [
+          "Tamil",
+          "Hindi",
+          "Gujarati"
+        ],
+        "answer": "Tamil"
+      },
+      {
+        "question": "Which medieval grammarian authored 'Ashtadhyayi', foundational for Sanskrit grammar?",
+        "options": [
+          "Pāṇini",
+          "Kālidāsa",
+          "Bharavi"
+        ],
+        "answer": "Pāṇini"
+      },
+      {
+        "question": "Which script historically encoded Malayalam using Grantha letters for Sanskrit loans?",
+        "options": [
+          "Malayalam script with Grantha subset",
+          "Devanagari",
+          "Gurmukhi"
+        ],
+        "answer": "Malayalam script with Grantha subset"
+      },
+      {
+        "question": "Which 19th-century printing press produced the first major Bengali printed books in Calcutta?",
+        "options": [
+          "Serampore Mission Press",
+          "Oxford University Press",
+          "Cambridge University Press"
+        ],
+        "answer": "Serampore Mission Press"
+      },
+      {
+        "question": "Which rare Brahmi variant influenced the development of Kannada-Telugu scripts in the Deccan?",
+        "options": [
+          "Kadamba script",
+          "Kharosthi",
+          "Pallava Grantha"
+        ],
+        "answer": "Kadamba script"
+      },
+      {
+        "question": "Which standardized orthography term describes modern Marathi's pronunciation-based spelling?",
+        "options": [
+          "Balbodh",
+          "Hindustani",
+          "Rai Bahadur"
+        ],
+        "answer": "Balbodh"
+      },
+      {
+        "question": "Which medieval inscription language appears in Ashokan edicts in northwest India?",
+        "options": [
+          "Prakrit (Aramaic influence region)",
+          "Sanskrit",
+          "Tamil"
+        ],
+        "answer": "Prakrit (Aramaic influence region)"
+      },
+      {
+        "question": "Which script did the Pallava dynasty promote that influenced Southeast Asian scripts?",
+        "options": [
+          "Pallava Grantha",
+          "Devanagari",
+          "Kharosthi"
+        ],
+        "answer": "Pallava Grantha"
+      },
+      {
+        "question": "Which tribal Munda language uses its own Warang Citi script invented in the 20th century?",
+        "options": [
+          "Ho uses Warang Citi",
+          "Munda uses Devanagari",
+          "Santali uses Warang Citi"
+        ],
+        "answer": "Ho uses Warang Citi"
+      },
+      {
+        "question": "Which language's medieval court poetry popularized the Champu style in Kannada?",
+        "options": [
+          "Kannada",
+          "Telugu",
+          "Sanskrit"
+        ],
+        "answer": "Kannada"
+      },
+      {
+        "question": "Which script block range in Unicode contains the Tamil script characters?",
+        "options": [
+          "U+0B80–U+0BFF",
+          "U+0900–U+097F",
+          "U+0C00–U+0C7F"
+        ],
+        "answer": "U+0B80–U+0BFF"
+      },
+      {
+        "question": "Which 19th-century figure promoted the Hunterian transliteration standard for Indian place names?",
+        "options": [
+          "William Wilson Hunter",
+          "Lord Curzon",
+          "Thomas Babington Macaulay"
+        ],
+        "answer": "William Wilson Hunter"
+      },
+      {
+        "question": "Which 13th-century Telugu poet produced the earliest known prabandha literature?",
+        "options": [
+          "Nannaya Bhattaraka",
+          "Tikkana Somayaji",
+          "Potana"
+        ],
+        "answer": "Nannaya Bhattaraka"
+      },
+      {
+        "question": "Which Indic script notably lacks a distinct letter for the vowel /e/ historically and uses diacritics?",
+        "options": [
+          "Brahmi-derived abugidas",
+          "Latin alphabet",
+          "Hebrew script"
+        ],
+        "answer": "Brahmi-derived abugidas"
+      },
+      {
+        "question": "Which script reform in early 20th century simplified Bengali type by reducing ligatures?",
+        "options": [
+          "Bangla typewriter reforms",
+          "Devanagari simplification",
+          "Romanization movement"
+        ],
+        "answer": "Bangla typewriter reforms"
+      },
+      {
+        "question": "Which classical language recognition came for Malayalam in 2013 based on antiquity and literature?",
+        "options": [
+          "Malayalam",
+          "Oriya",
+          "Konkani"
+        ],
+        "answer": "Malayalam"
+      },
+      {
+        "question": "Which scholar compiled the first comparative Dravidian language family evidence in the 19th century?",
+        "options": [
+          "Francis Buchanan-Hamilton",
+          "Robert Caldwell",
+          "William Jones"
+        ],
+        "answer": "Robert Caldwell"
+      },
+      {
+        "question": "Which ancient script appears on the 3rd-century BCE Bhattiprolu inscriptions in Andhra region?",
+        "options": [
+          "Early Brahmi variant called Bhattiprolu script",
+          "Kharosthi",
+          "Devanagari"
+        ],
+        "answer": "Early Brahmi variant called Bhattiprolu script"
+      },
+      {
+        "question": "Which early modern literary language used the Perso-Arabic script called Shahmukhi in parts of Punjab?",
+        "options": [
+          "Punjabi",
+          "Marathi",
+          "Odia"
+        ],
+        "answer": "Punjabi"
+      },
+      {
+        "question": "Which orthographic principle explains intrinsic vowel suppression in many Indic consonants?",
+        "options": [
+          "Schwa deletion principle",
+          "Vowel harmony",
+          "Tone marking"
+        ],
+        "answer": "Schwa deletion principle"
+      },
+      {
+        "question": "Which ancient Indian palaeographic source reveals South Indian use of Brahmi for Tamil-Brahmi inscriptions?",
+        "options": [
+          "Ashokan and Sangam inscriptions",
+          "Mughal farmans",
+          "Portuguese travelogues"
+        ],
+        "answer": "Ashokan and Sangam inscriptions"
+      },
+      {
+        "question": "Which script evolved into the modern Gujarati script by dropping which element present in Devanagari?",
+        "options": [
+          "The top horizontal line (shirorekha)",
+          "Vowel diacritics",
+          "Conjuncts"
+        ],
+        "answer": "The top horizontal line (shirorekha)"
+      },
+      {
+        "question": "Which endangered script recorded several northeastern Tibeto-Burman languages historically?",
+        "options": [
+          "Bodo script variations and undocumented local scripts",
+          "Latin script",
+          "Devanagari only"
+        ],
+        "answer": "Bodo script variations and undocumented local scripts"
+      },
+      {
+        "question": "Which medieval Sanskrit dramatist's works influenced regional performance languages across India?",
+        "options": [
+          "Kālidāsa",
+          "Bhavabhuti",
+          "Bharavi"
+        ],
+        "answer": "Kālidāsa"
+      },
+      {
+        "question": "Which Indian language uses the Tirhuta script historically for Maithili before Devanagari became common?",
+        "options": [
+          "Maithili",
+          "Marathi",
+          "Punjabi"
+        ],
+        "answer": "Maithili"
+      }
+    ]
+  }
+}

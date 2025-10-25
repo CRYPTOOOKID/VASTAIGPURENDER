@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which goddess is frequently depicted riding a lion or tiger?",
+      "options": [
+        "Saraswati",
+        "Lakshmi",
+        "Durga"
+      ],
+      "answer": "Durga"
+    },
+    {
+      "question_id": 2,
+      "question": "Which form of Vishnu is worshipped as the cosmic king at Jagannath Temple in Puri?",
+      "options": [
+        "Ranganatha",
+        "Venkateswara",
+        "Jagannath"
+      ],
+      "answer": "Jagannath"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Vedic meter names the goddess Gayatri associated with the Rigvedic hymn of 24 syllables?",
+      "options": [
+        "Trishtubh",
+        "Anushtubh",
+        "Gayatri"
+      ],
+      "answer": "Gayatri"
+    },
+    {
+      "question_id": 4,
+      "question": "Which deity is traditionally associated with arts, speech, and learning patronage?",
+      "options": [
+        "Saraswati",
+        "Parvati",
+        "Lakshmi"
+      ],
+      "answer": "Saraswati"
+    },
+    {
+      "question_id": 5,
+      "question": "Which avatar of Vishnu appears as a tortoise to support Mount Mandara during churning?",
+      "options": [
+        "Kurma",
+        "Matsya",
+        "Narasimha"
+      ],
+      "answer": "Kurma"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Purana records the elaborate genealogy of the sun dynasty (Suryavansha)?",
+      "options": [
+        "Markandeya Purana",
+        "Vishnu Purana",
+        "Agni Purana"
+      ],
+      "answer": "Vishnu Purana"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is the creator god in the Hindu Trimurti?",
+      "options": [
+        "Brahma",
+        "Shiva",
+        "Vishnu"
+      ],
+      "answer": "Brahma"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Sanskrit epic poet composed the original Ramayana attributed to this sage?",
+      "options": [
+        "Vyasa",
+        "Kalidasa",
+        "Valmiki"
+      ],
+      "answer": "Valmiki"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Upanishad contains the dialogue between Yajnavalkya and his wife Maitreyi on reality?",
+      "options": [
+        "Brihadaranyaka Upanishad",
+        "Katha Upanishad",
+        "Mundaka Upanishad"
+      ],
+      "answer": "Brihadaranyaka Upanishad"
+    },
+    {
+      "question_id": 10,
+      "question": "Which god is celebrated as the monkey devotee who helped Rama?",
+      "options": [
+        "Sugriva",
+        "Hanuman",
+        "Jambavan"
+      ],
+      "answer": "Hanuman"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ritual chant is most commonly associated with Shiva worship?",
+      "options": [
+        "Om Namah Shivaya",
+        "Jai Shri Ram",
+        "Hare Krishna"
+      ],
+      "answer": "Om Namah Shivaya"
+    },
+    {
+      "question_id": 12,
+      "question": "Which demon king's throat split open, producing the river Ganges in some Puranic accounts?",
+      "options": [
+        "Vritra",
+        "Shishupal",
+        "Kumbhakarna"
+      ],
+      "answer": "Vritra"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is Rama's devoted consort known for her virtue?",
+      "options": [
+        "Draupadi",
+        "Radha",
+        "Sita"
+      ],
+      "answer": "Sita"
+    },
+    {
+      "question_id": 14,
+      "question": "Which river goddess is associated with purity and is worshipped at Kumbh Mela gatherings?",
+      "options": [
+        "Godavari",
+        "Kaveri",
+        "Ganga"
+      ],
+      "answer": "Ganga"
+    },
+    {
+      "question_id": 15,
+      "question": "Which form of Vishnu reclines on Shesha while holding a lotus from which Brahma emerges?",
+      "options": [
+        "Vaikuntha Chaturmurti",
+        "Vishvarupa",
+        "Anantashayana"
+      ],
+      "answer": "Anantashayana"
+    }
+  ]
+}

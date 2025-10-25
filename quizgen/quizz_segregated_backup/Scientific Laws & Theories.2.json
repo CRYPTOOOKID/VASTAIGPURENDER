@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?",
+      "options": [
+        "Avogadro's law",
+        "Boyle's law",
+        "Charles's law"
+      ],
+      "answer": "Avogadro's law"
+    },
+    {
+      "question_id": 2,
+      "question": "Which law describes conservation of electric charge as a continuity equation?",
+      "options": [
+        "Continuity equation for charge",
+        "Ohm's law",
+        "Coulomb's law"
+      ],
+      "answer": "Continuity equation for charge"
+    },
+    {
+      "question_id": 3,
+      "question": "Which effect demonstrates quantum tunneling in electron microscopy and field emission?",
+      "options": [
+        "Fowler–Nordheim tunneling",
+        "Photoelectric effect",
+        "Compton scattering"
+      ],
+      "answer": "Fowler–Nordheim tunneling"
+    },
+    {
+      "question_id": 4,
+      "question": "What theory explains the diversity of species through natural selection?",
+      "options": [
+        "Theory of evolution by natural selection",
+        "Germ theory",
+        "Cell theory"
+      ],
+      "answer": "Theory of evolution by natural selection"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law describes how the rate of effusion of a gas relates to its molar mass?",
+      "options": [
+        "Graham's law",
+        "Dalton's law",
+        "Henry's law"
+      ],
+      "answer": "Graham's law"
+    },
+    {
+      "question_id": 6,
+      "question": "Which law gives the thermodynamic relationship between entropy and number of microscopic configurations?",
+      "options": [
+        "Boltzmann's entropy formula",
+        "Gibbs free energy relation",
+        "Clausius equation"
+      ],
+      "answer": "Boltzmann's entropy formula"
+    },
+    {
+      "question_id": 7,
+      "question": "What theory explains matter behaving as both particles and waves at microscopic scales?",
+      "options": [
+        "Wave-particle duality",
+        "Kinetic theory",
+        "Plate tectonics theory"
+      ],
+      "answer": "Wave-particle duality"
+    },
+    {
+      "question_id": 8,
+      "question": "Which principle explains the conservation of circulation in ideal fluid flow?",
+      "options": [
+        "Kelvin's circulation theorem",
+        "Bernoulli's principle",
+        "Pascal's principle"
+      ],
+      "answer": "Kelvin's circulation theorem"
+    },
+    {
+      "question_id": 9,
+      "question": "Which theorem in quantum field theory predicts massless modes when continuous symmetries break spontaneously?",
+      "options": [
+        "Goldstone theorem",
+        "CPT theorem",
+        "Spin–statistics theorem"
+      ],
+      "answer": "Goldstone theorem"
+    },
+    {
+      "question_id": 10,
+      "question": "Which law measures the attraction between electrical charges?",
+      "options": [
+        "Coulomb's law",
+        "Ohm's law",
+        "Faraday's law"
+      ],
+      "answer": "Coulomb's law"
+    },
+    {
+      "question_id": 11,
+      "question": "Which law predicts the inverse-square decrease of light intensity with distance from a point source?",
+      "options": [
+        "Inverse-square law",
+        "Linear attenuation law",
+        "Beer–Lambert law"
+      ],
+      "answer": "Inverse-square law"
+    },
+    {
+      "question_id": 12,
+      "question": "Which inequality sets bounds on simultaneous measurements in quantum estimation beyond Heisenberg's limit?",
+      "options": [
+        "Cramér–Rao bound",
+        "Bell inequality",
+        "Bekenstein bound"
+      ],
+      "answer": "Cramér–Rao bound"
+    },
+    {
+      "question_id": 13,
+      "question": "What principle explains why pressure applied to an enclosed fluid is transmitted undiminished?",
+      "options": [
+        "Pascal's principle",
+        "Archimedes' principle",
+        "Bernoulli's principle"
+      ],
+      "answer": "Pascal's principle"
+    },
+    {
+      "question_id": 14,
+      "question": "Which empirical law links earthquake frequency and magnitude distribution logarithmically?",
+      "options": [
+        "Gutenberg–Richter law",
+        "Mohr–Coulomb law",
+        "Hooke's law"
+      ],
+      "answer": "Gutenberg–Richter law"
+    },
+    {
+      "question_id": 15,
+      "question": "Which result in quantum mechanics forbids copying an unknown quantum state exactly?",
+      "options": [
+        "No-cloning theorem",
+        "Superposition principle",
+        "Entanglement monogamy"
+      ],
+      "answer": "No-cloning theorem"
+    }
+  ]
+}

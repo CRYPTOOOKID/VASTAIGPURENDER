@@ -1,0 +1,100 @@
+========================================
+🎬 QUIZ VIDEO RENDERING SYSTEM - SETUP & USAGE
+========================================
+
+SETUP:
+------
+1. Install dependencies (first time only):
+   cd videogen
+   npm install
+
+2. The system will use:
+   - Quiz JSONs from: videogen/quiz jsons/
+   - Audio files from: audiogen/output audios/[quiz_name]/
+   - Output videos to: videogen/output/videos/
+
+PREVIEW TEMPLATES:
+------------------
+To preview and edit templates:
+   npm start
+
+This opens Remotion Studio with 4 compositions:
+   - Template1-GradientBlobs (original template)
+   - Template2-Starfield (space theme - in development)
+   - Template3-LiquidWaves (liquid waves - in development)
+   - QuizVideo (main composition for rendering)
+
+Switch between templates using the dropdown menu at the top.
+All templates use "Famous Business Rivalries.1" quiz for preview.
+
+USAGE:
+------
+Run the master render program:
+   npm run render:master
+
+OPTIONS:
+--------
+1. Render ONE randomly selected quiz
+   - Picks an unrendered quiz at random
+   - Selects a template automatically
+   - Copies audio files to public folder
+   - Renders the video
+
+2. Process EVERYTHING available
+   - Renders all unrendered quizzes
+   - Progress is tracked automatically
+   - Audio files copied automatically per quiz
+   - Safe to stop and restart later
+
+3. Show progress summary
+   - View how many videos are completed
+   - Check pending and failed renders
+
+HOW IT WORKS:
+-------------
+✅ 3 Templates Available:
+   - Template 1: Gradient Blobs (purple/pink gradients)
+   - Template 2: Starfield (space theme with stars)
+   - Template 3: Liquid Waves (flowing wave animations)
+
+✅ Template Selection:
+   - Automatically selects a template for each quiz
+   - Uses seeded randomness (same quiz = same template)
+   - Ensures variety across all 430 videos
+
+✅ Progress Tracking:
+   - Tracks completed, failed, and pending renders
+   - Stored in: videogen/output/progress.json
+   - Safe to interrupt and resume anytime
+
+✅ Audio Mapping:
+   - Each quiz JSON has a matching audio folder
+   - Example: "Famous Business Rivalries.1.json"
+     Uses audio from: "audiogen/output audios/Famous Business Rivalries.1/"
+   - Audio files are automatically copied to public/question_audios/ before rendering
+   - This ensures browser can access files during render
+
+TROUBLESHOOTING:
+----------------
+❌ If render fails:
+   - Check that audio folder exists for the quiz
+   - Verify quiz JSON is valid
+   - Check progress.json for error details
+
+❌ If dependencies missing:
+   - Run: npm install
+   - Make sure Node.js and npm are installed
+
+❌ To preview a template:
+   - Run: npm start
+   - Opens Remotion Studio for preview
+
+NOTES:
+------
+⚠️  Each video takes ~2-5 minutes to render
+⚠️  Full batch (430 videos) will take 15-35 hours
+⚠️  You can stop and resume anytime - progress is saved
+⚠️  Failed renders can be retried later
+
+========================================
+

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'price floor' imply?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is fractional reserve banking?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which equation defines the money multiplier under fractional reserve banking?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a trade deficit?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metric shows labor participation?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which definition best describes the natural rate hypothesis in macroeconomics?"
+    },
+    {
+      "question_id": 7,
+      "question": "What are public goods characterized by?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes government borrowing reducing private investment?"
+    },
+    {
+      "question_id": 9,
+      "question": "How does a country achieve a real exchange rate depreciation without nominal change?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the term 'demand' refer to in economics?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does Gini coefficient measure?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept describes diminishing returns to a single input holding others fixed?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is meant by 'money supply M1'?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'quantitative easing' central banks do?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the concept of 'time inconsistency' in policy?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a country calling code identify in international dialing?",
+      "options": [
+        "The country or region of the destination number",
+        "The local area within a city",
+        "The specific telephone carrier"
+      ],
+      "answer": "The country or region of the destination number"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of these area codes was part of the original 1947 NANP assignments?",
+      "options": [
+        "212",
+        "929",
+        "332"
+      ],
+      "answer": "212"
+    },
+    {
+      "question_id": 3,
+      "question": "Which North American area code was originally split from 212 to relieve demand in New York?",
+      "options": [
+        "718",
+        "415",
+        "305"
+      ],
+      "answer": "718"
+    },
+    {
+      "question_id": 4,
+      "question": "What type of service typically uses the 800 area code in North America?",
+      "options": [
+        "Toll-free telephone service",
+        "Premium-rate entertainment service",
+        "Local municipal services"
+      ],
+      "answer": "Toll-free telephone service"
+    },
+    {
+      "question_id": 5,
+      "question": "What does LRN stand for in number portability systems?",
+      "options": [
+        "Local Routing Number",
+        "Local Regional Number",
+        "Line Reservation Number"
+      ],
+      "answer": "Local Routing Number"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country code is shared by both Russia and Kazakhstan?",
+      "options": [
+        "+7",
+        "+77",
+        "+70"
+      ],
+      "answer": "+7"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country uses calling code +39?",
+      "options": [
+        "Italy",
+        "Ireland",
+        "Iceland"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "question_id": 8,
+      "question": "Which digit range is allowed for the first digit of a NANP area code?",
+      "options": [
+        "2 through 9",
+        "0 through 9",
+        "1 through 9"
+      ],
+      "answer": "2 through 9"
+    },
+    {
+      "question_id": 9,
+      "question": "Which area code was one of the original NANP codes assigned to Illinois in 1947?",
+      "options": [
+        "312",
+        "773",
+        "872"
+      ],
+      "answer": "312"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two countries share the country calling code +7?",
+      "options": [
+        "Russia and Kazakhstan",
+        "Russia and Ukraine",
+        "Kazakhstan and Uzbekistan"
+      ],
+      "answer": "Russia and Kazakhstan"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the standard maximum length for international telephone numbers under E.164?",
+      "options": [
+        "15 digits",
+        "12 digits",
+        "18 digits"
+      ],
+      "answer": "15 digits"
+    },
+    {
+      "question_id": 12,
+      "question": "Which two-digit pattern was forbidden in the first digit of a NANP NPA historically?",
+      "options": [
+        "0 or 1",
+        "5 or 6",
+        "8 or 9"
+      ],
+      "answer": "0 or 1"
+    },
+    {
+      "question_id": 13,
+      "question": "Which symbol commonly indicates an international telephone prefix on phones?",
+      "options": [
+        "The pound sign (#)",
+        "The plus sign (+)",
+        "The asterisk (*)"
+      ],
+      "answer": "The plus sign (+)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which of these is a common reason a region moves to mandatory ten-digit dialing?",
+      "options": [
+        "Introduction of an overlay area code",
+        "Switch to an analog network",
+        "Spin-off of the original area code"
+      ],
+      "answer": "Introduction of an overlay area code"
+    },
+    {
+      "question_id": 15,
+      "question": "Which area code split helped create area code 718 from the original New York numbering plan?",
+      "options": [
+        "212 split",
+        "917 overlay",
+        "646 reassignment"
+      ],
+      "answer": "212 split"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In which country is it illegal to import chewing gum for non-medical reasons?",
+      "options": [
+        "Canada",
+        "Australia",
+        "Singapore"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 2,
+      "question": "Which European country forbids wearing high-visibility vests while protesting in some local ordinances to prevent intimidation?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Belgium"
+      ],
+      "answer": "Belgium"
+    },
+    {
+      "question_id": 3,
+      "question": "Which European capital restricts the use of selfie sticks inside public museums due to safety and preservation rules?",
+      "options": [
+        "Vienna",
+        "Amsterdam",
+        "Rome"
+      ],
+      "answer": "Rome"
+    },
+    {
+      "question_id": 4,
+      "question": "In which country is it illegal to carry fewer than three sheep in a car in certain rural laws (an example of odd local rules)?",
+      "options": [
+        "Australia",
+        "United States",
+        "Iceland"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Asian city has strict littering fines, including on-the-spot penalties for tossing small items in public?",
+      "options": [
+        "Singapore",
+        "Hong Kong",
+        "Seoul"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nation's traffic code historically forbade women from driving automotives until modern reforms (now repealed)?",
+      "options": [
+        "Iran",
+        "Afghanistan",
+        "Saudi Arabia"
+      ],
+      "answer": "Saudi Arabia"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country has laws restricting public displays of affection in some regions for cultural reasons?",
+      "options": [
+        "Norway",
+        "United Arab Emirates",
+        "Brazil"
+      ],
+      "answer": "United Arab Emirates"
+    },
+    {
+      "question_id": 8,
+      "question": "Which U.S. state once required a license to mime in public due to perceived disturbance laws?",
+      "options": [
+        "Alabama",
+        "New York",
+        "California"
+      ],
+      "answer": "Alabama"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Swiss canton has a law requiring social pets like guinea pigs to be kept in pairs due to animal welfare codes?",
+      "options": [
+        "Zurich",
+        "Ticino",
+        "Bern"
+      ],
+      "answer": "Zurich"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country prohibits citizens from owning more than one television without a license in some periods historically?",
+      "options": [
+        "South Africa",
+        "Argentina",
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country bans feeding wild dolphins or whales to avoid altering animal behavior in marine parks?",
+      "options": [
+        "Japan",
+        "Australia",
+        "Norway"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country bans the sale of live baby eels (glass eels) during certain months to protect declining stocks under fisheries law?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Spain"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 13,
+      "question": "Where is it illegal to forget your wife's birthday under some local folklore myths turned ordinances?",
+      "options": [
+        "No mainstream country has a national law for this",
+        "Ireland",
+        "Mexico"
+      ],
+      "answer": "No mainstream country has a national law for this"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country has local laws against standing in the left lane on highways to keep traffic flowing smoothly?",
+      "options": [
+        "United States",
+        "Germany",
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country has a law making it illegal to publish unflattering images of public officials without chance for correction in defamation statutes?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Japan"
+      ],
+      "answer": "Japan"
+    }
+  ]
+}

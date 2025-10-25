@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is inflation commonly defined as?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which account records exports and imports of goods and services?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the economic meaning of a liquidity trap?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is monetary policy?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is meant by 'moral hazard' in finance?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does the Heckscher-Ohlin theorem predict about trade patterns?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is opportunity cost?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does GDP deflator measure versus CPI?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the Stolper-Samuelson theorem connect in trade theory?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'price ceiling' imply?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which concept describes benefits from larger production scale?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept captures the short-run trade-off between inflation and unemployment?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'liquidity' describe?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which component belongs to GDP using expenditure approach?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metric captures total factor productivity in growth accounting?"
+    }
+  ]
+}

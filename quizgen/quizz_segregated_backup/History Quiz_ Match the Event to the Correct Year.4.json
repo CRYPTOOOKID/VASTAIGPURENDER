@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Six-Day War between Israel and neighboring states?",
+      "options": [
+        "1967",
+        "1956",
+        "1973"
+      ],
+      "answer": "1967"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did the Berlin Wall fall, signaling the end of Cold War divisions?",
+      "options": [
+        "1989",
+        "1991",
+        "1987"
+      ],
+      "answer": "1989"
+    },
+    {
+      "question_id": 3,
+      "question": "When was the Treaty of Tordesillas signed dividing New World claims between Spain and Portugal?",
+      "options": [
+        "1494",
+        "1500",
+        "1488"
+      ],
+      "answer": "1494"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Russian Revolution that overthrew the Tsar start (February Revolution)?",
+      "options": [
+        "1917",
+        "1905",
+        "1922"
+      ],
+      "answer": "1917"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the First Opium War between Britain and China begin?",
+      "options": [
+        "1839",
+        "1816",
+        "1856"
+      ],
+      "answer": "1839"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Haitian slave revolt begin under Toussaint L'Ouverture's influence (initial uprising)?",
+      "options": [
+        "1791",
+        "1804",
+        "1789"
+      ],
+      "answer": "1791"
+    },
+    {
+      "question_id": 7,
+      "question": "When was the first modern Olympic Games held in Athens?",
+      "options": [
+        "1896",
+        "1900",
+        "1886"
+      ],
+      "answer": "1896"
+    },
+    {
+      "question_id": 8,
+      "question": "When did the Indian Rebellion (Sepoy Mutiny) against the British East India Company begin?",
+      "options": [
+        "1857",
+        "1848",
+        "1865"
+      ],
+      "answer": "1857"
+    },
+    {
+      "question_id": 9,
+      "question": "When did Hernán Cortés begin the Spanish conquest of the Aztec Empire with arrival in Mexico?",
+      "options": [
+        "1519",
+        "1521",
+        "1502"
+      ],
+      "answer": "1519"
+    },
+    {
+      "question_id": 10,
+      "question": "When did the French Revolution begin with the storming of the Bastille?",
+      "options": [
+        "1789",
+        "1799",
+        "1770"
+      ],
+      "answer": "1789"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Great Depression begin with the U.S. stock market crash?",
+      "options": [
+        "1929",
+        "1933",
+        "1920"
+      ],
+      "answer": "1929"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Mongol Empire reach its greatest extent under Kublai Khan's rule (established Yuan)?",
+      "options": [
+        "1271",
+        "1259",
+        "1294"
+      ],
+      "answer": "1271"
+    },
+    {
+      "question_id": 13,
+      "question": "When did the Spanish Armada attempt to invade England?",
+      "options": [
+        "1588",
+        "1600",
+        "1620"
+      ],
+      "answer": "1588"
+    },
+    {
+      "question_id": 14,
+      "question": "When was the Panama Canal officially opened for ship traffic?",
+      "options": [
+        "1914",
+        "1903",
+        "1920"
+      ],
+      "answer": "1914"
+    },
+    {
+      "question_id": 15,
+      "question": "When did the English Bill of Rights become law, limiting the monarchy's power?",
+      "options": [
+        "1689",
+        "1660",
+        "1701"
+      ],
+      "answer": "1689"
+    }
+  ]
+}

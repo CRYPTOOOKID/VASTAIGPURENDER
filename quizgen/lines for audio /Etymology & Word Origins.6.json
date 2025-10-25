@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which English word derives from Latin 'taberna', originally meaning a shop or tavern?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Old English epic preserves many early Germanic words, informing word-origin studies?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which general cause explains divergent modern forms like English 'museum' and French 'musée'?"
+    },
+    {
+      "question_id": 4,
+      "question": "The word 'museum' comes from Greek 'Mouseion', originally a place for whom?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which English word comes from the Proto-Germanic root *hausaz meaning a dwelling?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which English adjective comes from Old Norse 'berserkr', literally 'bear-shirt'?"
+    },
+    {
+      "question_id": 7,
+      "question": "What language does the word 'robot' originate from?"
+    },
+    {
+      "question_id": 8,
+      "question": "What name describes the process that forms compounds like 'bookshop' or 'blackbird'?"
+    },
+    {
+      "question_id": 9,
+      "question": "What label applies to reconstructed ancestral forms unattested in writing?"
+    },
+    {
+      "question_id": 10,
+      "question": "The term 'algorithm' is derived from the name of which medieval scholar?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the proper term for a mistaken popular belief about a word's origin?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which early modern writer coined or popularized many English neologisms still used today?"
+    },
+    {
+      "question_id": 13,
+      "question": "The chess term 'checkmate' comes from Persian 'shah mat' meaning what?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which semantic process describes 'awful' changing from 'awe-inspiring' to 'very bad'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Old English root 'wyrhta' produced the occupational term found in 'wheelwright' and modern 'wright'?"
+    }
+  ]
+}

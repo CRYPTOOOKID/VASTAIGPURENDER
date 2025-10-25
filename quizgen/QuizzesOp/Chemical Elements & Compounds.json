@@ -1,0 +1,964 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": [
+          "O",
+          "Ox",
+          "Og"
+        ],
+        "answer": "O"
+      },
+      {
+        "question": "Which element has the atomic number 1?",
+        "options": [
+          "Helium",
+          "Hydrogen",
+          "Lithium"
+        ],
+        "answer": "Hydrogen"
+      },
+      {
+        "question": "What element is essential for building bones and teeth?",
+        "options": [
+          "Calcium",
+          "Chlorine",
+          "Copper"
+        ],
+        "answer": "Calcium"
+      },
+      {
+        "question": "Which gas makes up about 78% of Earth's atmosphere?",
+        "options": [
+          "Nitrogen",
+          "Oxygen",
+          "Argon"
+        ],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": [
+          "H2O",
+          "HO2",
+          "H3O"
+        ],
+        "answer": "H2O"
+      },
+      {
+        "question": "Which metal is liquid at room temperature?",
+        "options": [
+          "Mercury",
+          "Iron",
+          "Silver"
+        ],
+        "answer": "Mercury"
+      },
+      {
+        "question": "What element gives table salt its sodium component?",
+        "options": [
+          "Potassium",
+          "Sodium",
+          "Sulfur"
+        ],
+        "answer": "Sodium"
+      },
+      {
+        "question": "Which element is commonly used in light bulb filaments?",
+        "options": [
+          "Tungsten",
+          "Aluminum",
+          "Lead"
+        ],
+        "answer": "Tungsten"
+      },
+      {
+        "question": "What element is the primary component of organic compounds?",
+        "options": [
+          "Carbon",
+          "Helium",
+          "Neon"
+        ],
+        "answer": "Carbon"
+      },
+      {
+        "question": "Which element is required for hemoglobin in blood?",
+        "options": [
+          "Iron",
+          "Zinc",
+          "Magnesium"
+        ],
+        "answer": "Iron"
+      },
+      {
+        "question": "Which noble gas is used in neon signs to produce red light?",
+        "options": [
+          "Neon",
+          "Argon",
+          "Krypton"
+        ],
+        "answer": "Neon"
+      },
+      {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "options": [
+          "CO2",
+          "CO",
+          "C2O"
+        ],
+        "answer": "CO2"
+      },
+      {
+        "question": "Which element is known for its use in batteries and has symbol Li?",
+        "options": [
+          "Lithium",
+          "Lead",
+          "Lanthanum"
+        ],
+        "answer": "Lithium"
+      },
+      {
+        "question": "Which element is a key component of sand (silica)?",
+        "options": [
+          "Silicon",
+          "Sodium",
+          "Sulfur"
+        ],
+        "answer": "Silicon"
+      },
+      {
+        "question": "Which gas do plants primarily use for photosynthesis?",
+        "options": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Oxygen"
+        ],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What common element makes up most of the Sun's mass?",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Iron"
+        ],
+        "answer": "Hydrogen"
+      },
+      {
+        "question": "Which element's symbol is 'Au' and is a precious metal?",
+        "options": [
+          "Gold",
+          "Silver",
+          "Aurumium"
+        ],
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the lightest noble gas with atomic number 2?",
+        "options": [
+          "Helium",
+          "Neon",
+          "Argon"
+        ],
+        "answer": "Helium"
+      },
+      {
+        "question": "Which element is used to sterilize water and is a pale yellow gas?",
+        "options": [
+          "Chlorine",
+          "Fluorine",
+          "Bromine"
+        ],
+        "answer": "Chlorine"
+      },
+      {
+        "question": "Which element is often alloyed with copper to make bronze?",
+        "options": [
+          "Tin",
+          "Zinc",
+          "Nickel"
+        ],
+        "answer": "Tin"
+      },
+      {
+        "question": "What compound is commonly used as baking soda?",
+        "options": [
+          "Sodium bicarbonate",
+          "Sodium chloride",
+          "Potassium nitrate"
+        ],
+        "answer": "Sodium bicarbonate"
+      },
+      {
+        "question": "Which element is used to make stainless steel alongside iron and chromium?",
+        "options": [
+          "Nickel",
+          "Lead",
+          "Mercury"
+        ],
+        "answer": "Nickel"
+      },
+      {
+        "question": "Which element has the chemical symbol 'Ag'?",
+        "options": [
+          "Silver",
+          "Argon",
+          "Astatine"
+        ],
+        "answer": "Silver"
+      },
+      {
+        "question": "Which gas is produced by yeast during bread making and fermentation?",
+        "options": [
+          "Carbon dioxide",
+          "Methane",
+          "Hydrogen sulfide"
+        ],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the main element in natural diamond?",
+        "options": [
+          "Carbon",
+          "Boron",
+          "Silicon"
+        ],
+        "answer": "Carbon"
+      },
+      {
+        "question": "Which element is required for thyroid hormone production?",
+        "options": [
+          "Iodine",
+          "Iron",
+          "Calcium"
+        ],
+        "answer": "Iodine"
+      },
+      {
+        "question": "What compound is vinegar primarily composed of?",
+        "options": [
+          "Acetic acid",
+          "Citric acid",
+          "Sulfuric acid"
+        ],
+        "answer": "Acetic acid"
+      },
+      {
+        "question": "Which element is commonly used in aircraft because of its low density?",
+        "options": [
+          "Aluminum",
+          "Copper",
+          "Lead"
+        ],
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Which element is the main component of coal and hydrocarbons?",
+        "options": [
+          "Carbon",
+          "Calcium",
+          "Chlorine"
+        ],
+        "answer": "Carbon"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which element was discovered by Marie Curie's husband Pierre and is named after Poland?",
+        "options": [
+          "Polonium",
+          "Radium",
+          "Francium"
+        ],
+        "answer": "Polonium"
+      },
+      {
+        "question": "Which compound has the IUPAC name sodium chloride?",
+        "options": [
+          "Table salt",
+          "Baking soda",
+          "Epsom salt"
+        ],
+        "answer": "Table salt"
+      },
+      {
+        "question": "Which element is most abundant in Earth's crust by mass?",
+        "options": [
+          "Oxygen",
+          "Silicon",
+          "Aluminum"
+        ],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "What is the primary industrial use of sulfuric acid?",
+        "options": [
+          "Fertilizer production",
+          "Food seasoning",
+          "Textile dyeing"
+        ],
+        "answer": "Fertilizer production"
+      },
+      {
+        "question": "Which element has isotopes used in medical imaging as PET tracers (e.g., F-18)?",
+        "options": [
+          "Fluorine",
+          "Phosphorus",
+          "Iodine"
+        ],
+        "answer": "Fluorine"
+      },
+      {
+        "question": "Which noble gas is used in high-voltage electrical switches and to fill incandescent bulbs?",
+        "options": [
+          "Argon",
+          "Neon",
+          "Helium"
+        ],
+        "answer": "Argon"
+      },
+      {
+        "question": "Which element forms a protective oxide layer on aluminum surfaces?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Chlorine"
+        ],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Which compound is the common bleaching agent in household bleach (sodium hypochlorite)?",
+        "options": [
+          "NaOCl",
+          "NaClO3",
+          "NaCl"
+        ],
+        "answer": "NaOCl"
+      },
+      {
+        "question": "Which element is central in organic chemistry naming and bonding versatility?",
+        "options": [
+          "Carbon",
+          "Silicon",
+          "Boron"
+        ],
+        "answer": "Carbon"
+      },
+      {
+        "question": "Which element is used as a catalyst in catalytic converters to reduce emissions?",
+        "options": [
+          "Platinum",
+          "Lead",
+          "Magnesium"
+        ],
+        "answer": "Platinum"
+      },
+      {
+        "question": "Which compound is a greenhouse gas with a global warming potential higher than CO2 and contains fluorine?",
+        "options": [
+          "Sulfur hexafluoride",
+          "Methane",
+          "Nitrous oxide"
+        ],
+        "answer": "Sulfur hexafluoride"
+      },
+      {
+        "question": "Which element was named after a planet and has symbol U?",
+        "options": [
+          "Uranium",
+          "Ununium",
+          "Uranite"
+        ],
+        "answer": "Uranium"
+      },
+      {
+        "question": "Which alkali metal reacts violently with water producing hydrogen gas?",
+        "options": [
+          "Sodium",
+          "Calcium",
+          "Aluminum"
+        ],
+        "answer": "Sodium"
+      },
+      {
+        "question": "Which compound is commonly used as antifreeze in cars?",
+        "options": [
+          "Ethylene glycol",
+          "Glycerol",
+          "Propanol"
+        ],
+        "answer": "Ethylene glycol"
+      },
+      {
+        "question": "Which element's isotope is commonly used for carbon dating?",
+        "options": [
+          "Carbon-14",
+          "Carbon-12",
+          "Carbon-13"
+        ],
+        "answer": "Carbon-14"
+      },
+      {
+        "question": "Which transition metal often forms colored compounds used in paints and ceramics (e.g., cobalt blue)?",
+        "options": [
+          "Cobalt",
+          "Titanium",
+          "Zinc"
+        ],
+        "answer": "Cobalt"
+      },
+      {
+        "question": "Which element is used in semiconductor devices and has four valence electrons?",
+        "options": [
+          "Silicon",
+          "Germanium",
+          "Arsenic"
+        ],
+        "answer": "Silicon"
+      },
+      {
+        "question": "Which compound makes up most of natural gas used for heating and cooking?",
+        "options": [
+          "Methane",
+          "Ethane",
+          "Propane"
+        ],
+        "answer": "Methane"
+      },
+      {
+        "question": "Which element in the halogen group is the most reactive nonmetal?",
+        "options": [
+          "Fluorine",
+          "Chlorine",
+          "Bromine"
+        ],
+        "answer": "Fluorine"
+      },
+      {
+        "question": "Which metal corrodes to form a green patina on statues like the Statue of Liberty?",
+        "options": [
+          "Copper",
+          "Iron",
+          "Aluminum"
+        ],
+        "answer": "Copper"
+      },
+      {
+        "question": "Which element is commonly used in X-ray tubes for its high melting point and stability?",
+        "options": [
+          "Tungsten",
+          "Copper",
+          "Nickel"
+        ],
+        "answer": "Tungsten"
+      },
+      {
+        "question": "Which compound is the primary component of limestone and marble?",
+        "options": [
+          "Calcium carbonate",
+          "Calcium sulfate",
+          "Magnesium carbonate"
+        ],
+        "answer": "Calcium carbonate"
+      },
+      {
+        "question": "Which element is essential for nitrogen fixation in many enzymes and proteins (not atmospheric nitrogen)?",
+        "options": [
+          "Molybdenum",
+          "Carbon",
+          "Neon"
+        ],
+        "answer": "Molybdenum"
+      },
+      {
+        "question": "Which element's allotropes include white, red, and black varieties and is used in matches?",
+        "options": [
+          "Phosphorus",
+          "Carbon",
+          "Sulfur"
+        ],
+        "answer": "Phosphorus"
+      },
+      {
+        "question": "Which oxide of nitrogen is a major contributor to acid rain and combustion emissions?",
+        "options": [
+          "Nitrogen dioxide (NO2)",
+          "Nitrous oxide (N2O)",
+          "Ammonia (NH3)"
+        ],
+        "answer": "Nitrogen dioxide (NO2)"
+      },
+      {
+        "question": "Which element was discovered in 1898 and later named francium, the second rarest naturally occurring element?",
+        "options": [
+          "Francium",
+          "Radon",
+          "Polonium"
+        ],
+        "answer": "Francium"
+      },
+      {
+        "question": "Which compound is used as the primary refrigerant historically known as CFC-12 (dichlorodifluoromethane)?",
+        "options": [
+          "CCl2F2",
+          "CH4",
+          "CO2"
+        ],
+        "answer": "CCl2F2"
+      },
+      {
+        "question": "Which element has the highest electronegativity on the Pauling scale?",
+        "options": [
+          "Fluorine",
+          "Oxygen",
+          "Chlorine"
+        ],
+        "answer": "Fluorine"
+      },
+      {
+        "question": "Which element is crucial in alloying with steel to produce stainless steel's corrosion resistance?",
+        "options": [
+          "Chromium",
+          "Lead",
+          "Mercury"
+        ],
+        "answer": "Chromium"
+      },
+      {
+        "question": "Which compound is widely used as a pH indicator in labs, turning pink in basic solutions?",
+        "options": [
+          "Phenolphthalein",
+          "Methyl orange",
+          "Bromothymol blue"
+        ],
+        "answer": "Phenolphthalein"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which element's allotrope, graphyne, is theorized as an alternative to graphene with different electronic properties?",
+        "options": [
+          "Carbon",
+          "Silicon",
+          "Boron"
+        ],
+        "answer": "Carbon"
+      },
+      {
+        "question": "Which compound is the primary active ingredient in ozone-depleting substances historically called halons?",
+        "options": [
+          "Bromotrifluoromethane",
+          "Chloroform",
+          "Methane"
+        ],
+        "answer": "Bromotrifluoromethane"
+      },
+      {
+        "question": "Which metal's high neutron absorption cross-section makes it useful for nuclear control rods?",
+        "options": [
+          "Boron",
+          "Aluminum",
+          "Titanium"
+        ],
+        "answer": "Boron"
+      },
+      {
+        "question": "Which rare earth element is critical in permanent magnets for electric motors (e.g., NdFeB magnets)?",
+        "options": [
+          "Neodymium",
+          "Lanthanum",
+          "Europium"
+        ],
+        "answer": "Neodymium"
+      },
+      {
+        "question": "Which element forms the compound silicon carbide (SiC), used as an abrasive and high-temperature ceramic?",
+        "options": [
+          "Silicon",
+          "Carbon",
+          "Boron"
+        ],
+        "answer": "Silicon"
+      },
+      {
+        "question": "Which isotope of uranium is most commonly enriched for use in commercial nuclear reactors?",
+        "options": [
+          "U-235",
+          "U-238",
+          "U-234"
+        ],
+        "answer": "U-235"
+      },
+      {
+        "question": "Which element discovered by Seaborg completed the actinide series and is named after him?",
+        "options": [
+          "Seaborgium",
+          "Curium",
+          "Berkelium"
+        ],
+        "answer": "Seaborgium"
+      },
+      {
+        "question": "Which compound displays hydrogen bonding and has a boiling point anomalously high for its molar mass: ammonia or water?",
+        "options": [
+          "Water",
+          "Ammonia",
+          "Methane"
+        ],
+        "answer": "Water"
+      },
+      {
+        "question": "Which element's stable isotopes make it useful as a geochemical tracer for climate studies (e.g., oxygen isotopes)?",
+        "options": [
+          "Oxygen",
+          "Carbon",
+          "Nitrogen"
+        ],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Which compound is an organometallic reagent used for forming carbon-carbon bonds in cross-coupling reactions (e.g., Suzuki coupling)?",
+        "options": [
+          "Boronate ester (boronic acid derivatives)",
+          "Grignard reagent",
+          "Sodium borohydride"
+        ],
+        "answer": "Boronate ester (boronic acid derivatives)"
+      },
+      {
+        "question": "Which element's ferromagnetism disappears above its Curie temperature around 770°C?",
+        "options": [
+          "Iron",
+          "Cobalt",
+          "Nickel"
+        ],
+        "answer": "Iron"
+      },
+      {
+        "question": "Which allotrope of phosphorus is red and safer to handle than white phosphorus due to lower reactivity?",
+        "options": [
+          "Red phosphorus",
+          "Black phosphorus",
+          "Violet phosphorus"
+        ],
+        "answer": "Red phosphorus"
+      },
+      {
+        "question": "Which element’s most stable oxide forms a protective barrier on aluminum and titanium, preventing further corrosion?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Fluorine"
+        ],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Which compound is the key intermediate in the Haber-Bosch process for ammonia synthesis: N2 + H2 → ?",
+        "options": [
+          "NH3 (ammonia)",
+          "N2H4 (hydrazine)",
+          "NH2 radical"
+        ],
+        "answer": "NH3 (ammonia)"
+      },
+      {
+        "question": "Which element exhibits multiple oxidation states commonly -2, +2, +4 and forms the basis of organic functional groups?",
+        "options": [
+          "Carbon",
+          "Oxygen",
+          "Sulfur"
+        ],
+        "answer": "Carbon"
+      },
+      {
+        "question": "Which noble metal is used in fuel cell catalysts and is often alloyed with ruthenium to improve CO tolerance?",
+        "options": [
+          "Platinum",
+          "Palladium",
+          "Gold"
+        ],
+        "answer": "Platinum"
+      },
+      {
+        "question": "Which compound's crystalline form, rutile, is a major ore of titanium dioxide used in pigments?",
+        "options": [
+          "TiO2",
+          "Fe2O3",
+          "Al2O3"
+        ],
+        "answer": "TiO2"
+      },
+      {
+        "question": "Which element's hydrides include both covalent (e.g., PH3) and polymeric forms (e.g., polyphosphine)?",
+        "options": [
+          "Phosphorus",
+          "Nitrogen",
+          "Carbon"
+        ],
+        "answer": "Phosphorus"
+      },
+      {
+        "question": "Which isotope of plutonium played a central role in early nuclear weapons development due to its fissile properties?",
+        "options": [
+          "Pu-239",
+          "Pu-238",
+          "Pu-240"
+        ],
+        "answer": "Pu-239"
+      },
+      {
+        "question": "Which element is the heaviest naturally occurring halogen and exists as a dense reddish-brown liquid at room temperature?",
+        "options": [
+          "Bromine",
+          "Iodine",
+          "Astatine"
+        ],
+        "answer": "Bromine"
+      },
+      {
+        "question": "Which compound is the industrial feedstock produced by steam methane reforming to yield hydrogen and carbon monoxide?",
+        "options": [
+          "Synthesis gas (syngas)",
+          "Methanol",
+          "Propylene"
+        ],
+        "answer": "Synthesis gas (syngas)"
+      },
+      {
+        "question": "Which metal forms intermetallic compounds with silicon used in semiconductor contacts, like nickel silicide?",
+        "options": [
+          "Nickel",
+          "Lead",
+          "Magnesium"
+        ],
+        "answer": "Nickel"
+      },
+      {
+        "question": "Which element's oxide exists in multiple crystalline forms including quartz, cristobalite, and tridymite?",
+        "options": [
+          "Silicon dioxide",
+          "Aluminum oxide",
+          "Titanium dioxide"
+        ],
+        "answer": "Silicon dioxide"
+      },
+      {
+        "question": "Which compound is a Lewis acid widely used in organic synthesis for Friedel–Crafts acylation?",
+        "options": [
+          "Aluminum chloride (AlCl3)",
+          "Boron trifluoride (BF3)",
+          "Iron(III) chloride (FeCl3)"
+        ],
+        "answer": "Aluminum chloride (AlCl3)"
+      },
+      {
+        "question": "Which rare isotope of hydrogen contains one proton and one neutron and is used in certain nuclear fusion research?",
+        "options": [
+          "Deuterium",
+          "Protium",
+          "Tritium"
+        ],
+        "answer": "Deuterium"
+      },
+      {
+        "question": "Which element's coordination complexes are central to biological oxygen transport in hemocyanin instead of iron?",
+        "options": [
+          "Copper",
+          "Cobalt",
+          "Manganese"
+        ],
+        "answer": "Copper"
+      },
+      {
+        "question": "Which synthetic element with atomic number 118 completes the current periodic table's seventh row?",
+        "options": [
+          "Oganesson",
+          "Tennessine",
+          "Livermorium"
+        ],
+        "answer": "Oganesson"
+      },
+      {
+        "question": "Which compound's sodium salt is used to lower blood pH in aspirin overdose due to its buffering action (sodium bicarbonate)?",
+        "options": [
+          "Sodium bicarbonate",
+          "Sodium carbonate",
+          "Sodium sulfate"
+        ],
+        "answer": "Sodium bicarbonate"
+      },
+      {
+        "question": "Which transition metal forms stable carbonyl complexes like Fe(CO)5 used historically in organometallic chemistry?",
+        "options": [
+          "Iron",
+          "Copper",
+          "Zinc"
+        ],
+        "answer": "Iron"
+      },
+      {
+        "question": "Which element's presence in seawater gives it a slightly bitter taste and is essential for marine life in trace amounts?",
+        "options": [
+          "Magnesium",
+          "Sodium",
+          "Chlorine"
+        ],
+        "answer": "Magnesium"
+      },
+      {
+        "question": "Which compound is the primary refrigerant replacement in modern systems with lower ozone depletion potential: HFOs or CFCs?",
+        "options": [
+          "HFOs (hydrofluoroolefins)",
+          "CFCs (chlorofluorocarbons)",
+          "HCFCs (hydrochlorofluorocarbons)"
+        ],
+        "answer": "HFOs (hydrofluoroolefins)"
+      },
+      {
+        "question": "Which element's carbonate minerals include malachite and azurite, recognized as copper ores and pigments?",
+        "options": [
+          "Copper",
+          "Lead",
+          "Zinc"
+        ],
+        "answer": "Copper"
+      },
+      {
+        "question": "Which compound is an example of a superacid, stronger than 100% sulfuric acid, used to protonate weak bases?",
+        "options": [
+          "Fluoroantimonic acid (HSbF6)",
+          "Hydrochloric acid (HCl)",
+          "Nitric acid (HNO3)"
+        ],
+        "answer": "Fluoroantimonic acid (HSbF6)"
+      },
+      {
+        "question": "Which element's salts are commonly used as drying agents in organic synthesis due to high hygroscopicity, e.g., MgSO4 or CaCl2?",
+        "options": [
+          "Magnesium sulfate",
+          "Sodium chloride",
+          "Potassium nitrate"
+        ],
+        "answer": "Magnesium sulfate"
+      },
+      {
+        "question": "Which element's metal-organic frameworks (MOFs) often use zirconium clusters for exceptional chemical stability?",
+        "options": [
+          "Zirconium",
+          "Titanium",
+          "Aluminum"
+        ],
+        "answer": "Zirconium"
+      },
+      {
+        "question": "Which compound is the key oxidizing agent in classical organic Baeyer-Villiger oxidations converting ketones to esters?",
+        "options": [
+          "Peracids (e.g., peracetic acid)",
+          "PCC (pyridinium chlorochromate)",
+          "KMnO4"
+        ],
+        "answer": "Peracids (e.g., peracetic acid)"
+      },
+      {
+        "question": "Which element displays a stable +6 oxidation state in molybdenum trioxide and chromium trioxide respectively?",
+        "options": [
+          "Chromium",
+          "Iron",
+          "Copper"
+        ],
+        "answer": "Chromium"
+      },
+      {
+        "question": "Which gas-phase diatomic molecule shows a triple bond and is isoelectronic with CO?",
+        "options": [
+          "N2 (nitrogen)",
+          "O2 (oxygen)",
+          "F2 (fluorine)"
+        ],
+        "answer": "N2 (nitrogen)"
+      },
+      {
+        "question": "Which transition metal is central to biological nitrogenase enzymes enabling biological nitrogen fixation?",
+        "options": [
+          "Molybdenum",
+          "Copper",
+          "Zinc"
+        ],
+        "answer": "Molybdenum"
+      },
+      {
+        "question": "Which element forms the basis of organometallic Grubbs catalysts used in olefin metathesis?",
+        "options": [
+          "Ruthenium",
+          "Palladium",
+          "Iron"
+        ],
+        "answer": "Ruthenium"
+      },
+      {
+        "question": "Which compound is a key intermediate in atmospheric chemistry formed from volatile organic compounds and NOx leading to ozone?",
+        "options": [
+          "Peroxyacetyl nitrate (PAN)",
+          "Sulfur dioxide",
+          "Carbon monoxide"
+        ],
+        "answer": "Peroxyacetyl nitrate (PAN)"
+      },
+      {
+        "question": "Which element's coordination number commonly reaches 6 in octahedral complexes like [Co(NH3)6]3+?",
+        "options": [
+          "Cobalt",
+          "Sodium",
+          "Boron"
+        ],
+        "answer": "Cobalt"
+      },
+      {
+        "question": "Which element's allotrope black phosphorus has a layered structure and emerging interest for semiconductor applications?",
+        "options": [
+          "Phosphorus",
+          "Carbon",
+          "Sulfur"
+        ],
+        "answer": "Phosphorus"
+      },
+      {
+        "question": "Which heavy noble gas has been observed to form compounds like xenon hexafluoroplatinate under extreme conditions?",
+        "options": [
+          "Xenon",
+          "Krypton",
+          "Radon"
+        ],
+        "answer": "Xenon"
+      },
+      {
+        "question": "Which compound, an organosilicon polymer, is known for thermal stability and is used as a lubricant and in implants (silicone)?",
+        "options": [
+          "Polydimethylsiloxane (PDMS)",
+          "Polyethylene",
+          "Polystyrene"
+        ],
+        "answer": "Polydimethylsiloxane (PDMS)"
+      },
+      {
+        "question": "Which rare isotope is produced by neutron capture on mercury and used in medical radiotherapy as 197Hg derivative? ",
+        "options": [
+          "197Hg",
+          "198Au",
+          "60Co"
+        ],
+        "answer": "197Hg"
+      },
+      {
+        "question": "Which element forms perovskite-structured oxides like SrTiO3 used in ferroelectric and photovoltaic research?",
+        "options": [
+          "Titanium",
+          "Iron",
+          "Copper"
+        ],
+        "answer": "Titanium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded Amazon in 1994?",
+      "options": [
+        "Elon Musk",
+        "Jeff Bezos",
+        "Jack Ma"
+      ],
+      "answer": "Jeff Bezos"
+    },
+    {
+      "question_id": 2,
+      "question": "Which entrepreneur co-founded the professional network LinkedIn?",
+      "options": [
+        "Reid Hoffman",
+        "Ben Silbermann",
+        "Drew Houston"
+      ],
+      "answer": "Reid Hoffman"
+    },
+    {
+      "question_id": 3,
+      "question": "Which founder of Alibaba famously gave a 2015 speech criticizing short-term thinking in business?",
+      "options": [
+        "Lei Jun",
+        "Pony Ma",
+        "Jack Ma"
+      ],
+      "answer": "Jack Ma"
+    },
+    {
+      "question_id": 4,
+      "question": "Which entrepreneur co-founded PayPal and later founded Palantir?",
+      "options": [
+        "Peter Thiel",
+        "Marc Andreessen",
+        "Reid Hoffman"
+      ],
+      "answer": "Peter Thiel"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Microsoft co-founder created a major global philanthropic foundation?",
+      "options": [
+        "Steve Ballmer",
+        "Paul Allen",
+        "Bill Gates"
+      ],
+      "answer": "Bill Gates"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company acquired Instagram in 2012 for about $1 billion?",
+      "options": [
+        "Google",
+        "Twitter",
+        "Facebook"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded Walmart?",
+      "options": [
+        "John Walton",
+        "Sam Walton",
+        "Sam Walton Jr."
+      ],
+      "answer": "Sam Walton"
+    },
+    {
+      "question_id": 8,
+      "question": "In which year did Amazon launch its Prime subscription service?",
+      "options": [
+        "2003",
+        "2005",
+        "2007"
+      ],
+      "answer": "2005"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Netflix co-founder proposed the subscription model that replaced late fees?",
+      "options": [
+        "Ted Sarandos",
+        "Marc Randolph",
+        "Reed Hastings"
+      ],
+      "answer": "Reed Hastings"
+    },
+    {
+      "question_id": 10,
+      "question": "Which entrepreneur co-founded Instagram?",
+      "options": [
+        "Jack Dorsey",
+        "Jan Koum",
+        "Kevin Systrom"
+      ],
+      "answer": "Kevin Systrom"
+    },
+    {
+      "question_id": 11,
+      "question": "In which year did Jack Ma found Alibaba?",
+      "options": [
+        "2001",
+        "1999",
+        "1997"
+      ],
+      "answer": "1999"
+    },
+    {
+      "question_id": 12,
+      "question": "Which early Apple co-founder sold his shares back to Jobs and Wozniak for $800?",
+      "options": [
+        "Mike Markkula",
+        "Steve Wozniak",
+        "Ronald Wayne"
+      ],
+      "answer": "Ronald Wayne"
+    },
+    {
+      "question_id": 13,
+      "question": "Who founded the fashion retailer Zara?",
+      "options": [
+        "Bernard Arnault",
+        "Giorgio Armani",
+        "Amancio Ortega"
+      ],
+      "answer": "Amancio Ortega"
+    },
+    {
+      "question_id": 14,
+      "question": "Which entrepreneur co-founded Dropbox and served as CEO?",
+      "options": [
+        "Stewart Butterfield",
+        "Evan Williams",
+        "Drew Houston"
+      ],
+      "answer": "Drew Houston"
+    },
+    {
+      "question_id": 15,
+      "question": "Before founding Amazon, at which firm did Jeff Bezos work?",
+      "options": [
+        "D. E. Shaw & Co.",
+        "Goldman Sachs",
+        "McKinsey & Company"
+      ],
+      "answer": "D. E. Shaw & Co."
+    }
+  ]
+}

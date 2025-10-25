@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is meant by 'price elasticity of demand'?",
+      "options": [
+        "Government regulation of prices",
+        "Change in price when demand rises",
+        "Responsiveness of quantity demanded to price changes"
+      ],
+      "answer": "Responsiveness of quantity demanded to price changes"
+    },
+    {
+      "question_id": 2,
+      "question": "Which policy describes lowering taxes to stimulate growth?",
+      "options": [
+        "Tight monetary policy",
+        "Contractionary fiscal policy",
+        "Supply-side policy"
+      ],
+      "answer": "Supply-side policy"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the principal-agent problem in economics?",
+      "options": [
+        "Principal cannot contractually hire an agent",
+        "Agents always act in principals' best interest",
+        "Agent's incentives diverge from principal's objectives"
+      ],
+      "answer": "Agent's incentives diverge from principal's objectives"
+    },
+    {
+      "question_id": 4,
+      "question": "What is opportunity cost of attending college?",
+      "options": [
+        "Campus living expenses",
+        "Earnings forgone by not working",
+        "Total tuition paid"
+      ],
+      "answer": "Earnings forgone by not working"
+    },
+    {
+      "question_id": 5,
+      "question": "Which measure excludes volatile food and energy prices?",
+      "options": [
+        "Core inflation",
+        "Headline inflation",
+        "Producer inflation"
+      ],
+      "answer": "Core inflation"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'Ricardian equivalence' implication for government deficits?",
+      "options": [
+        "Deficits reduce real interest rates permanently",
+        "Deficits always stimulate aggregate demand fully",
+        "Consumers offset deficits by saving for future taxes, limiting stimulus"
+      ],
+      "answer": "Consumers offset deficits by saving for future taxes, limiting stimulus"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'marginal utility'?",
+      "options": [
+        "Price paid per unit",
+        "Extra satisfaction from consuming one more unit",
+        "Total satisfaction from all consumption"
+      ],
+      "answer": "Extra satisfaction from consuming one more unit"
+    },
+    {
+      "question_id": 8,
+      "question": "What does the Phillips Curve originally show?",
+      "options": [
+        "No link between wages and unemployment",
+        "Direct relationship between inflation and GDP growth",
+        "Inverse short-run relationship between inflation and unemployment"
+      ],
+      "answer": "Inverse short-run relationship between inflation and unemployment"
+    },
+    {
+      "question_id": 9,
+      "question": "What is 'transfer pricing' concern in multinational taxation?",
+      "options": [
+        "Fixed tariffs on imports",
+        "Market pricing for commodities",
+        "Profit shifting via intra-firm prices to minimize taxes"
+      ],
+      "answer": "Profit shifting via intra-firm prices to minimize taxes"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a bond?",
+      "options": [
+        "A debt instrument promising repayment with interest",
+        "An ownership share in a company",
+        "A type of currency"
+      ],
+      "answer": "A debt instrument promising repayment with interest"
+    },
+    {
+      "question_id": 11,
+      "question": "What is meant by 'stagflation'?",
+      "options": [
+        "High employment with deflation",
+        "Rapid growth with falling prices",
+        "High inflation with stagnant economic growth"
+      ],
+      "answer": "High inflation with stagnant economic growth"
+    },
+    {
+      "question_id": 12,
+      "question": "Which model formalizes consumption smoothing under certainty with future income known?",
+      "options": [
+        "Keynesian consumption function",
+        "Permanent Income Hypothesis",
+        "Absolute Income Hypothesis"
+      ],
+      "answer": "Permanent Income Hypothesis"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a market defined by many sellers and identical products?",
+      "options": [
+        "Monopolistic competition",
+        "Oligopoly",
+        "Perfect competition"
+      ],
+      "answer": "Perfect competition"
+    },
+    {
+      "question_id": 14,
+      "question": "What is market failure due to external costs called?",
+      "options": [
+        "Positive externality",
+        "Public good provision",
+        "Negative externality"
+      ],
+      "answer": "Negative externality"
+    },
+    {
+      "question_id": 15,
+      "question": "Which test identifies cointegration among nonstationary time series in macroeconometrics?",
+      "options": [
+        "Breusch-Pagan heteroskedasticity test",
+        "Engle-Granger or Johansen cointegration tests",
+        "Augmented Dickey-Fuller unit root test"
+      ],
+      "answer": "Engle-Granger or Johansen cointegration tests"
+    }
+  ]
+}

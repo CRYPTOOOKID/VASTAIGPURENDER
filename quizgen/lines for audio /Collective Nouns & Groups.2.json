@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which collective noun describes a group of zebras standing together?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which collective noun names a group of foxes commonly used in literature?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which collective noun is historically applied to a group of jellyfish in nautical language?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which collective noun refers to people singing together in structured harmony?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which collective noun describes people gathered for worship in one place?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare collective noun describes a group of caterpillars moving together?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which collective noun names a group of lions in English?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which collective noun names a group of swans on land or water near each other?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which collective noun names a group of stags assembled during rutting season?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which collective noun famously describes a group of owls?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which collective noun names a group of rhinoceroses moving together?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which collective noun names a group of kangaroos when they are running quickly?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which collective noun is used when many bees gather or move together?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which collective noun describes a group of hedgehogs found together?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which collective noun names a group of apes in some more obscure English lists?"
+    }
+  ]
+}

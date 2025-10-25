@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention uses a sequence of letters to find information on a network of computers?",
+      "options": [
+        "Light bulb",
+        "Search engine",
+        "Telephone"
+      ],
+      "answer": "Search engine"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention introduced the world to consumer digital photography with instant digital files?",
+      "options": [
+        "Polaroid camera",
+        "35mm film camera",
+        "Digital camera"
+      ],
+      "answer": "Digital camera"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention employed the Prandtl wing theory to optimize lift and reduce drag in aircraft design?",
+      "options": [
+        "Rotary wing",
+        "Airfoil wing",
+        "Biplane"
+      ],
+      "answer": "Airfoil wing"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention uses compressed air or vacuum to lift and move heavy objects?",
+      "options": [
+        "Elevator",
+        "Pulley",
+        "Crane"
+      ],
+      "answer": "Crane"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention used a mechanical computing concept of conditional branching proposed by Ada Lovelace's collaborator?",
+      "options": [
+        "Analytical Engine",
+        "Difference Engine",
+        "ENIAC"
+      ],
+      "answer": "Analytical Engine"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention integrated relational algebra to enable complex queries in early database systems?",
+      "options": [
+        "Flat file system",
+        "Hierarchical database",
+        "Relational database"
+      ],
+      "answer": "Relational database"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention allows rapid exchange of coded messages over long distances using electric pulses?",
+      "options": [
+        "Telephone",
+        "Semaphore",
+        "Telegraph"
+      ],
+      "answer": "Telegraph"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention enabled the modern smartphone by integrating computing and cellular radios on a single chip?",
+      "options": [
+        "Discrete transistors",
+        "Vacuum tubes",
+        "System-on-chip"
+      ],
+      "answer": "System-on-chip"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention leveraged the Hall effect in sensors to measure magnetic fields for precision control?",
+      "options": [
+        "Thermistor",
+        "Optical encoder",
+        "Hall effect sensor"
+      ],
+      "answer": "Hall effect sensor"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention converts chemical energy into motion within vehicles using controlled explosions?",
+      "options": [
+        "Internal combustion engine",
+        "Steam engine",
+        "Electric motor"
+      ],
+      "answer": "Internal combustion engine"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention combined wireless telephony with satellite relays to enable global broadcasts?",
+      "options": [
+        "Communication satellite",
+        "Microwave link",
+        "Undersea cable"
+      ],
+      "answer": "Communication satellite"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention's early applications used Geiger–Müller tubes to detect ionizing radiation counts?",
+      "options": [
+        "X-ray tube",
+        "Geiger counter",
+        "PET scanner"
+      ],
+      "answer": "Geiger counter"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention improved navigation by measuring latitude using the angle of stars?",
+      "options": [
+        "Chronometer",
+        "Sextant",
+        "Compass"
+      ],
+      "answer": "Sextant"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention first used a conserved vacuum tube amplifier to enable early electronic computers?",
+      "options": [
+        "Vacuum tube",
+        "Integrated circuit",
+        "Transistor"
+      ],
+      "answer": "Vacuum tube"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention's design relied on Bessemer's process to mass-produce steel rails for railways?",
+      "options": [
+        "Steel railroad tracks",
+        "Ironclad ship",
+        "Suspension bridge"
+      ],
+      "answer": "Steel railroad tracks"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'xenophobia' mean in the phobia context?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia involves fear of being without a mobile phone connection?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which research concept suggests some fears are more easily acquired through evolutionarily relevant stimuli?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia describes fear of thunder and lightning?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which professional commonly treats disabling phobias using CBT?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phobia often responds well to one-session exposure treatments in controlled settings?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia is the fear of water or deep bodies of water?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia denotes fear of crossing bridges or driving over them?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which culture-specific syndrome overlaps with social anxiety but centers on offending others?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'ophidiophobia' mean?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia means fear of mirrors or seeing oneself reflected?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia category commonly emerges earlier in life compared to social phobia onset?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'social phobia' commonly describe?"
+    },
+    {
+      "question_id": 14,
+      "question": "What root does '-phobia' come from in Greek?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare phobia denotes fear of thunderstorms and associated loud noises?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention displays printed words by striking inked type onto paper keys?",
+      "options": [
+        "Printer",
+        "Word processor",
+        "Typewriter"
+      ],
+      "answer": "Typewriter"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention first made widespread indoor air cooling practical for buildings?",
+      "options": [
+        "Evaporative cooler",
+        "Mechanical air conditioning",
+        "Fan"
+      ],
+      "answer": "Mechanical air conditioning"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention introduced the MOSFET enabling modern transistor scaling in the 1960s?",
+      "options": [
+        "Vacuum tube",
+        "Bipolar junction transistor",
+        "MOSFET"
+      ],
+      "answer": "MOSFET"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention automates textile production by weaving yarn into fabric faster?",
+      "options": [
+        "Sewing machine",
+        "Spinning wheel",
+        "Loom"
+      ],
+      "answer": "Loom"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention introduced the concept of mass-produced, interchangeable parts in manufacturing?",
+      "options": [
+        "Steam engine",
+        "Assembly line",
+        "Cotton gin"
+      ],
+      "answer": "Assembly line"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention used adaptive optics to correct atmospheric distortion in large ground telescopes?",
+      "options": [
+        "Space telescope",
+        "Refracting telescope",
+        "Adaptive optics system"
+      ],
+      "answer": "Adaptive optics system"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention allowed people to view moving pictures at home with recorded sound?",
+      "options": [
+        "Phonograph",
+        "Television",
+        "Slide projector"
+      ],
+      "answer": "Television"
+    },
+    {
+      "question_id": 8,
+      "question": "Which early computing device used punch cards for programming and data input?",
+      "options": [
+        "Analytical Engine",
+        "ENIAC",
+        "Hollerith tabulating machine"
+      ],
+      "answer": "Hollerith tabulating machine"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention incorporated the first practical use of H.264/AVC for high-efficiency video compression?",
+      "options": [
+        "H.264 encoder",
+        "MJPEG",
+        "MPEG-2"
+      ],
+      "answer": "H.264 encoder"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention transmits sound without wires using electromagnetic waves?",
+      "options": [
+        "Telephone",
+        "Telegraph",
+        "Radio"
+      ],
+      "answer": "Radio"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention converts rotational motion into linear motion in internal combustion engines?",
+      "options": [
+        "Camshaft",
+        "Timing belt",
+        "Crankshaft"
+      ],
+      "answer": "Crankshaft"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention harnessed the Coandă effect in early jet engine designs to improve thrust control?",
+      "options": [
+        "Piston engine",
+        "Rocket engine",
+        "Turbojet"
+      ],
+      "answer": "Turbojet"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention provides breathable air at deep underwater depths for humans?",
+      "options": [
+        "Diving bell",
+        "Periscope",
+        "Scuba gear"
+      ],
+      "answer": "Scuba gear"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention allowed multiple telephone conversations over a single wire using frequency separation?",
+      "options": [
+        "Amplitude modulation",
+        "Digital multiplexing",
+        "Frequency-division multiplexing"
+      ],
+      "answer": "Frequency-division multiplexing"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention's computational breakthrough relied on Fast Fourier Transform to accelerate spectral analysis?",
+      "options": [
+        "Vacuum tube amplifier",
+        "Analogue filter",
+        "Digital signal processor"
+      ],
+      "answer": "Digital signal processor"
+    }
+  ]
+}

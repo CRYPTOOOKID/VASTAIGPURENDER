@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian athlete won long jump bronze at the 2003 World Championships?",
+      "options": [
+        "Anju Bobby George",
+        "Seema Punia",
+        "PT Usha"
+      ],
+      "answer": "Anju Bobby George"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian cricketer captained the national team in both Test and ODI formats during early 2000s?",
+      "options": [
+        "Sourav Ganguly",
+        "Rahul Dravid",
+        "Anil Kumble"
+      ],
+      "answer": "Sourav Ganguly"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian sportsperson won the Rajiv Gandhi Khel Ratna (now Khel Ratna) first in 1991–92?",
+      "options": [
+        "Pullela Gopichand",
+        "Leander Paes",
+        "Viswanathan Anand"
+      ],
+      "answer": "Viswanathan Anand"
+    },
+    {
+      "question_id": 4,
+      "question": "Which organization runs the Indian Premier League (IPL)?",
+      "options": [
+        "Hockey India",
+        "All India Football Federation",
+        "Board of Control for Cricket in India"
+      ],
+      "answer": "Board of Control for Cricket in India"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian bowler recorded the best bowling figures in a World Cup match for India in 2011?",
+      "options": [
+        "Yuvraj Singh",
+        "Munaf Patel",
+        "Zaheer Khan"
+      ],
+      "answer": "Yuvraj Singh"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian shooter became World Champion in 2010 50m rifle three positions event?",
+      "options": [
+        "Gagan Narang",
+        "Abhinav Bindra",
+        "Chain Singh"
+      ],
+      "answer": "Gagan Narang"
+    },
+    {
+      "question_id": 7,
+      "question": "Which sport does Mary Kom represent internationally?",
+      "options": [
+        "Wrestling",
+        "Shooting",
+        "Boxing"
+      ],
+      "answer": "Boxing"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian athlete won gold in long jump at the 2004 Asian Indoor Games?",
+      "options": [
+        "Kavita Raut",
+        "Anju Bobby George",
+        "Tintu Luka"
+      ],
+      "answer": "Anju Bobby George"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian cricketer recorded the fastest Test double century in balls faced in 2004?",
+      "options": [
+        "Brendon McCullum",
+        "Andy Flower",
+        "Virender Sehwag"
+      ],
+      "answer": "Virender Sehwag"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is India's most decorated chess grandmaster and former world champion?",
+      "options": [
+        "Pentala Harikrishna",
+        "Viswanathan Anand",
+        "B. Adhiban"
+      ],
+      "answer": "Viswanathan Anand"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian cricketer has the most international wickets across formats among Indians?",
+      "options": [
+        "Zaheer Khan",
+        "Ishant Sharma",
+        "Anil Kumble"
+      ],
+      "answer": "Anil Kumble"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian cricketer scored 281 in a single Test innings against Sri Lanka in 2009?",
+      "options": [
+        "VVS Laxman",
+        "Rohit Sharma",
+        "Virender Sehwag"
+      ],
+      "answer": "Virender Sehwag"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian athlete narrowly missed an Olympic medal in 1984, becoming famous nationally?",
+      "options": [
+        "Kavita Raut",
+        "Anju Bobby George",
+        "PT Usha"
+      ],
+      "answer": "PT Usha"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian squash player reached a career-high world ranking inside top 10?",
+      "options": [
+        "Saurav Ghosal",
+        "Dipika Pallikal",
+        "Joshna Chinappa"
+      ],
+      "answer": "Saurav Ghosal"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian cricketer hit 29 runs off a single over in a Test match in 2002?",
+      "options": [
+        "VVS Laxman",
+        "Sachin Tendulkar",
+        "Virender Sehwag"
+      ],
+      "answer": "Virender Sehwag"
+    }
+  ]
+}

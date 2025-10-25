@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a tariff?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does CPI 'basket' represent?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test determines whether a tax is progressive across income distribution?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does unemployment rate measure?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is deadweight loss associated with?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'seigniorage' in public finance?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is GDP per capita intended to represent?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which indicator tracks wholesale prices before retail?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the Modigliani-Miller theorem assert for perfect markets?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a monopoly?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is Ricardian equivalence about?"
+    },
+    {
+      "question_id": 12,
+      "question": "What characterizes a Ponzi scheme from national fiscal perspective?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is supply in economic terms?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which tax is progressive by design?"
+    },
+    {
+      "question_id": 15,
+      "question": "What does the term 'haircut' mean in sovereign debt restructuring?"
+    }
+  ]
+}

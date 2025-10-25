@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which West Bengal festival honors goddess Durga with elaborate pandals and idols?",
+      "options": [
+        "Durga Puja",
+        "Diwali",
+        "Navratri"
+      ],
+      "answer": "Durga Puja"
+    },
+    {
+      "question_id": 2,
+      "question": "Which lunar month generally hosts the festival of Diwali in North India?",
+      "options": [
+        "Kartika",
+        "Ashadha",
+        "Shravana"
+      ],
+      "answer": "Kartika"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival's public procession in Mumbai historically integrated nationalist sentiment under Lokmanya Tilak?",
+      "options": [
+        "Ganesh Chaturthi",
+        "Diwali",
+        "Holi"
+      ],
+      "answer": "Ganesh Chaturthi"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival celebrates the goddess Saraswati, patron of learning and the arts?",
+      "options": [
+        "Raksha Bandhan",
+        "Vasant Panchami",
+        "Baisakhi"
+      ],
+      "answer": "Vasant Panchami"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Assamese festival marks the agricultural cycle with three major days: Rongali Bihu, Kongali Bihu, Bhogali Bihu?",
+      "options": [
+        "Onam",
+        "Bihu",
+        "Pongal"
+      ],
+      "answer": "Bihu"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival commemorates the legend of the Pandavas and Draupadi in the south as 'Yuddha festivals' in some villages?",
+      "options": [
+        "Ganesh immersion",
+        "Holi street plays",
+        "Dussehra folk plays (Ramlila variants)"
+      ],
+      "answer": "Dussehra folk plays (Ramlila variants)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which festival celebrates Christmas in Indian Christian communities on December 25?",
+      "options": [
+        "Good Friday",
+        "Christmas",
+        "Easter"
+      ],
+      "answer": "Christmas"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival in South India emphasizes classical dances and music recitals for the goddess Saraswati?",
+      "options": [
+        "Dussehra",
+        "Pongal",
+        "Vasant Panchami"
+      ],
+      "answer": "Vasant Panchami"
+    },
+    {
+      "question_id": 9,
+      "question": "Which festival ritual observes a ceremonial bath at Pushkar associated with Kartik month bathing rituals?",
+      "options": [
+        "Pongal holy dip",
+        "Lohri cleansing",
+        "Kartik Snan at Pushkar"
+      ],
+      "answer": "Kartik Snan at Pushkar"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Muslim festival marks the end of Ramadan with communal prayers and feasting?",
+      "options": [
+        "Muharram",
+        "Eid-ul-Adha",
+        "Eid-ul-Fitr"
+      ],
+      "answer": "Eid-ul-Fitr"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival uses the tradition of painting clay bulls and decorating cattle in rural Maharashtra and Karnataka?",
+      "options": [
+        "Pola",
+        "Lohri",
+        "Pongal"
+      ],
+      "answer": "Pola"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ritual during Diwali primarily venerates Lakshmi, goddess of wealth, through Lakshmi Puja at night?",
+      "options": [
+        "Saraswati Puja",
+        "Ganga Snan",
+        "Lakshmi Puja"
+      ],
+      "answer": "Lakshmi Puja"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival marks the beginning of the Hindu lunar new year in many regions?",
+      "options": [
+        "Holi",
+        "Akshaya Tritiya",
+        "Diwali"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival's traditional sweet offering in Maharashtra is 'puran poli' served during regional harvest celebrations?",
+      "options": [
+        "Makar Sankranti",
+        "Holi",
+        "Ganesh Chaturthi"
+      ],
+      "answer": "Makar Sankranti"
+    },
+    {
+      "question_id": 15,
+      "question": "Which harvest festival marks the solar transition when the sun enters Capricorn (Makara) on the Indian calendar?",
+      "options": [
+        "Rath Yatra",
+        "Makar Sankranti",
+        "Guru Purnima"
+      ],
+      "answer": "Makar Sankranti"
+    }
+  ]
+}

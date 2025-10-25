@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In what year did Samuel de Champlain found Quebec City, a cornerstone of French North America?"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did theist philosopher and statesman Thomas More publish Utopia, influencing political thought?"
+    },
+    {
+      "question_id": 3,
+      "question": "When did the Great Fire of Rome take place during Nero's reign, a debated historical event?"
+    },
+    {
+      "question_id": 4,
+      "question": "When was the first recorded use of gunpowder weapons in European warfare at the Battle of Crécy?"
+    },
+    {
+      "question_id": 5,
+      "question": "What year did the Berlin Conference regulate European colonization of Africa, formalizing the Scramble for Africa?"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Great Schism split the Christian Church into Western and Eastern branches?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which year marks the completion of the Domesday Book, William the Conqueror's survey of England?"
+    },
+    {
+      "question_id": 8,
+      "question": "In what year was the Treaty of Westphalia signed, ending the Thirty Years' War?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did the Treaty of Guadalupe Hidalgo end the Mexican-American War, ceding territory to the US?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which year did the Great Irish Rebellion of 1641 begin, affecting British Isles politics and war?"
+    },
+    {
+      "question_id": 11,
+      "question": "What year did the Anglo-Powhatan Wars in early colonial Virginia begin, shaping English-Native relations?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which year did Vasco da Gama reach India by sea, opening a direct Atlantic-Indian route?"
+    },
+    {
+      "question_id": 13,
+      "question": "In what year did the Irish Free State formally come into existence following the Anglo-Irish Treaty?"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Dreyfus Affair begin publicly in France, revealing deep institutional antisemitism and divisions?"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year was the Code of Justinian compiled, influencing civil law traditions?"
+    }
+  ]
+}

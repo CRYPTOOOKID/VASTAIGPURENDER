@@ -1,0 +1,55 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                         VIDEO RENDERING COMMANDS                           ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+LOCAL RENDERING (Your Machine)
+─────────────────────────────────────────────────────────────────────────────
+# Show progress summary
+npm run render:master -- --summary
+
+# Render ONE random quiz
+npm run render:master -- --one
+
+# Render ALL unrendered quizzes
+npm run render:master -- --all
+
+# Show help
+npm run render:master -- --help
+
+# Run without arguments to get the menu
+npm run render:master
+
+# Reset stuck videos first (recommended):
+npm run render:master -- --reset
+
+# Then start parallel rendering:
+npm run render:master -- --all
+
+
+VAST.AI GPU RENDERING (Cloud Instance) ⚡
+─────────────────────────────────────────────────────────────────────────────
+GPU-accelerated rendering is now configured! See these files:
+
+📖 START_HERE_VASTAI.md          - Quick start guide (READ THIS FIRST!)
+📖 CHEATSHEET.txt                - Quick reference commands
+📖 VAST_AI_COMMANDS.txt          - Complete command reference
+📖 LOCAL_DOWNLOAD_GUIDE.txt      - How to download videos
+📖 VAST_AI_INSTRUCTIONS.md       - Detailed technical docs
+
+✅ GPU settings configured in:
+   - remotion.config.ts (ANGLE renderer, GPU acceleration)
+   - scripts/masterRender.ts (Chromium GPU flags)
+
+🚀 Expected performance on Vast.ai:
+   - 30-60 seconds per video (vs 2-3 min without GPU)
+   - 430 videos in 14-28 hours
+   - Cost: ~$7-28 total
+
+QUICK STEPS FOR VAST.AI:
+1. Connect: ssh -p <PORT> root@<IP>
+2. Setup: See START_HERE_VASTAI.md
+3. Test: npm run render:master -- --one
+4. Render: npm run render:master -- --all
+5. Download: Use LOCAL_DOWNLOAD_GUIDE.txt
+
+═══════════════════════════════════════════════════════════════════════════════

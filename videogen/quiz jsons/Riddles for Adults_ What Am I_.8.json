@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which neuroscientific process is engaged when solvers experience an 'aha' moment?",
+      "options": [
+        "Linear computation in motor cortex",
+        "Complete shutdown of prefrontal cortex",
+        "Sudden reorganization of insights linked to reward circuitry"
+      ],
+      "answer": "Sudden reorganization of insights linked to reward circuitry"
+    },
+    {
+      "question_id": 2,
+      "question": "Which research area can inform riddle design for maximum engagement?",
+      "options": [
+        "Plate tectonics",
+        "Aeronautical engineering",
+        "Behavioral economics and cognitive psychology on reward and curiosity"
+      ],
+      "answer": "Behavioral economics and cognitive psychology on reward and curiosity"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced writing move can create an elegant riddle twist?",
+      "options": [
+        "Repurpose an everyday idiom into a literal riddle clue",
+        "Use an obscure dead language exclusively",
+        "Invent a new unrelated idiom"
+      ],
+      "answer": "Repurpose an everyday idiom into a literal riddle clue"
+    },
+    {
+      "question_id": 4,
+      "question": "What answer fits: \"I can run but never walk, have a mouth but never talk\"?",
+      "options": [
+        "A person asleep",
+        "A river",
+        "A clock"
+      ],
+      "answer": "A river"
+    },
+    {
+      "question_id": 5,
+      "question": "When a riddle's correct answer is an abstract concept, what is crucial?",
+      "options": [
+        "Concrete anchor clues that make the abstract relatable",
+        "Complete vagueness and no anchor",
+        "Only numeric hints"
+      ],
+      "answer": "Concrete anchor clues that make the abstract relatable"
+    },
+    {
+      "question_id": 6,
+      "question": "Which research finding relates to solving complex riddles rapidly?",
+      "options": [
+        "Experts memorize all riddles verbatim",
+        "Experts show pattern recognition and chunking similar to chess masters",
+        "Experts rely solely on luck"
+      ],
+      "answer": "Experts show pattern recognition and chunking similar to chess masters"
+    },
+    {
+      "question_id": 7,
+      "question": "Which characteristic distinguishes a virtuoso-level 'What am I?' riddle reveal?",
+      "options": [
+        "An answer that reinterprets earlier clues elegantly",
+        "A blunt, unsurprising answer",
+        "A nonsensical punchline"
+      ],
+      "answer": "An answer that reinterprets earlier clues elegantly"
+    },
+    {
+      "question_id": 8,
+      "question": "Which advanced measure helps evaluate riddle difficulty objectively?",
+      "options": [
+        "Relying on a single expert's judgment",
+        "Counting words alone",
+        "Pilot testing across varied populations measuring solve rates and hint sensitivity"
+      ],
+      "answer": "Pilot testing across varied populations measuring solve rates and hint sensitivity"
+    },
+    {
+      "question_id": 9,
+      "question": "Which compositional balance do top riddle writers aim for?",
+      "options": [
+        "Complete ambiguity preventing solution",
+        "Ambiguity that invites exploration but permits logical resolution",
+        "Rigid literalism with no cleverness"
+      ],
+      "answer": "Ambiguity that invites exploration but permits logical resolution"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of these is a canonical example of a paradox used in 'What am I?' riddles?",
+      "options": [
+        "This statement is false (liar paradox adapted into riddle form)",
+        "Simple arithmetic puzzles",
+        "A literal instruction manual"
+      ],
+      "answer": "This statement is false (liar paradox adapted into riddle form)"
+    },
+    {
+      "question_id": 11,
+      "question": "Which answer fits: \"I have chains yet I am free; I can bind but never touch\"?",
+      "options": [
+        "A promise or obligation",
+        "A prisoner",
+        "A physical necklace"
+      ],
+      "answer": "A promise or obligation"
+    },
+    {
+      "question_id": 12,
+      "question": "Which answer fits: \"I am taken from a mine and shut in a wooden case, used by artists and carpenters\"?",
+      "options": [
+        "Graphite (pencil lead)",
+        "Coal for heating",
+        "Gold jewelry"
+      ],
+      "answer": "Graphite (pencil lead)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which answer fits: \"I can be opened but never closed, I show what was but never what will be\"?",
+      "options": [
+        "A book of history or a photo album",
+        "A future calendar",
+        "A sealed box"
+      ],
+      "answer": "A book of history or a photo album"
+    },
+    {
+      "question_id": 14,
+      "question": "Which answer suits: \"I am born when two meet but die alone\"?",
+      "options": [
+        "A solitary statue",
+        "A book left unread",
+        "A conversation or relationship"
+      ],
+      "answer": "A conversation or relationship"
+    },
+    {
+      "question_id": 15,
+      "question": "Which approach helps keep an advanced riddle anthology fresh for repeat readers?",
+      "options": [
+        "Include thematic surprises and varied cognitive challenges",
+        "Avoid editorial curation",
+        "Use only riddles of one type"
+      ],
+      "answer": "Include thematic surprises and varied cognitive challenges"
+    }
+  ]
+}

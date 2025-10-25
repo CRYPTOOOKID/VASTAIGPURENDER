@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'fulfillment' in online retail?",
+      "options": [
+        "Picking, packing, and shipping customer orders",
+        "Designing website user experience",
+        "Creating discount coupons"
+      ],
+      "answer": "Picking, packing, and shipping customer orders"
+    },
+    {
+      "question_id": 2,
+      "question": "Which year did Shopify launch its platform to help merchants create online stores?",
+      "options": [
+        "2006",
+        "2012",
+        "1999"
+      ],
+      "answer": "2006"
+    },
+    {
+      "question_id": 3,
+      "question": "Which approach handles returns to minimize reverse logistics cost?",
+      "options": [
+        "Localized drop-off and refurbishment centers near key markets",
+        "Shipping all returns back to a central HQ overseas",
+        "Refunding without inspecting returned items"
+      ],
+      "answer": "Localized drop-off and refurbishment centers near key markets"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'mobile commerce' briefly?",
+      "options": [
+        "Buying and selling via smartphones or tablets",
+        "Wholesale trade via phone calls",
+        "Printing mobile coupons for stores"
+      ],
+      "answer": "Buying and selling via smartphones or tablets"
+    },
+    {
+      "question_id": 5,
+      "question": "Which database pattern helps keep inventory counts consistent across services?",
+      "options": [
+        "Event sourcing with eventual consistency",
+        "Ad hoc spreadsheets",
+        "Monolithic file locking"
+      ],
+      "answer": "Event sourcing with eventual consistency"
+    },
+    {
+      "question_id": 6,
+      "question": "Which architectural advantage does 'headless commerce' offer for omnichannel experiences?",
+      "options": [
+        "Independent frontends enabling tailored experiences per channel",
+        "Single static HTML storefront for all devices",
+        "Combined payment and fulfillment monolith"
+      ],
+      "answer": "Independent frontends enabling tailored experiences per channel"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'live chat' commonly used for on e-commerce sites?",
+      "options": [
+        "Providing real-time customer support",
+        "Updating inventory counts automatically",
+        "Measuring shipping transit times"
+      ],
+      "answer": "Providing real-time customer support"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'headroom' mean in conversion rate optimization context?",
+      "options": [
+        "The potential to improve conversion before saturation",
+        "Extra warehouse storage for peak season",
+        "An overfunded marketing budget"
+      ],
+      "answer": "The potential to improve conversion before saturation"
+    },
+    {
+      "question_id": 9,
+      "question": "Which attribution improvement uses randomized control trials across ad audiences?",
+      "options": [
+        "Geo- or audience-level holdout experiments for causal measurement",
+        "Last-click cookie replacement only",
+        "Increasing bid caps for top keywords"
+      ],
+      "answer": "Geo- or audience-level holdout experiments for causal measurement"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'conversion rate' in online business?",
+      "options": [
+        "Percentage of visitors who complete a desired action",
+        "Average value of items in a cart",
+        "Number of new product SKUs added monthly"
+      ],
+      "answer": "Percentage of visitors who complete a desired action"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'client-side' tracking limitation often cited by marketers?",
+      "options": [
+        "Blocking by browsers and ad blockers reduces accuracy",
+        "It requires extra warehouse labor",
+        "It prevents credit card encryption"
+      ],
+      "answer": "Blocking by browsers and ad blockers reduces accuracy"
+    },
+    {
+      "question_id": 12,
+      "question": "Which strategy reduces bot-driven inventory hoarding on limited releases?",
+      "options": [
+        "Proof-of-person techniques like verified accounts and CAPTCHAs",
+        "Allowing unlimited purchases per account",
+        "Listing products without any purchase limits"
+      ],
+      "answer": "Proof-of-person techniques like verified accounts and CAPTCHAs"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'free shipping' typically aim to improve?",
+      "options": [
+        "Conversion rate and average order value",
+        "Supplier lead times",
+        "Database security"
+      ],
+      "answer": "Conversion rate and average order value"
+    },
+    {
+      "question_id": 14,
+      "question": "What does 'RFM' analysis stand for in customer segmentation?",
+      "options": [
+        "Recency, Frequency, Monetary",
+        "Returns, Fulfillment, Metrics",
+        "Reach, Frequency, Measurement"
+      ],
+      "answer": "Recency, Frequency, Monetary"
+    },
+    {
+      "question_id": 15,
+      "question": "Which technique improves attribution when cross-device behavior hides conversions?",
+      "options": [
+        "Deterministic identity stitching via logged-in user identifiers",
+        "Removing all cookie tracking",
+        "Only tracking desktop visits"
+      ],
+      "answer": "Deterministic identity stitching via logged-in user identifiers"
+    }
+  ]
+}

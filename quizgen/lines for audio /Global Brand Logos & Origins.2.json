@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which airline uses a red kangaroo in its heritage branding?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company’s logo uses a red star and green typography reflecting Dutch roots?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which designer created the FedEx wordmark with the hidden arrow in 1994?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which logistics company is known for a brown shield and the color brown brand identity?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which historic logo comes from a merger of four manufacturers in Germany?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which logo change in 2010 removed the wordmark and enlarged the green siren?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which luxury fashion house uses interlocking double Cs as its logo?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which brand's wordmark historically featured a rainbow color scheme until 1998?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which designer was later compensated with stock after originally charging $35 for a famous Swoosh?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which beverage uses a red script logo with flowing letters?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which brand’s logo famously hides a smile that signifies satisfaction and A-to-Z range?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Seattle company used a 16th-century Norse woodcut as Starbucks’ early inspiration?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which energy company uses a yellow shell-shaped logo?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company's logo uses a stylized red and white bullseye historically?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which brand's emblem originally referenced a war ace's personal insignia and gained national recognition?"
+    }
+  ]
+}

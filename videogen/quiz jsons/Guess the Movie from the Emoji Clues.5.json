@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '🏴‍☠️⛵'?",
+      "options": [
+        "Pirates of the Caribbean",
+        "Master and Commander",
+        "Treasure Island"
+      ],
+      "answer": "Pirates of the Caribbean"
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '🕶️👽🕵️'?",
+      "options": [
+        "Men in Black",
+        "The Adjustment Bureau",
+        "The X-Files Movie"
+      ],
+      "answer": "Men in Black"
+    },
+    {
+      "question_id": 3,
+      "question": "Which movie matches '🏙️🚴‍♂️📸' focused on a city photographer?",
+      "options": [
+        "Rear Window",
+        "Manhunter",
+        "Blow-Up"
+      ],
+      "answer": "Blow-Up"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '🧟‍♂️🏙️'?",
+      "options": [
+        "Zombieland",
+        "Shaun of the Dead",
+        "World War Z"
+      ],
+      "answer": "World War Z"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🔬🧬🦠'?",
+      "options": [
+        "Outbreak",
+        "Contagion",
+        "I Am Legend"
+      ],
+      "answer": "Contagion"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie matches '📺👨‍👩‍👧‍👦🔮', blending media and prophecy?",
+      "options": [
+        "The Ring",
+        "Poltergeist",
+        "Videodrome"
+      ],
+      "answer": "Poltergeist"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🐟🔍'?",
+      "options": [
+        "Finding Nemo",
+        "Life of Pi",
+        "The Shape of Water"
+      ],
+      "answer": "Finding Nemo"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '🕺🎶🗽'?",
+      "options": [
+        "Step Up",
+        "West Side Story",
+        "Saturday Night Fever"
+      ],
+      "answer": "West Side Story"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '🧳🔑🏨' about a peculiar hotel locked in time?",
+      "options": [
+        "The Grand Budapest Hotel",
+        "Hotel Rwanda",
+        "The Shining"
+      ],
+      "answer": "The Grand Budapest Hotel"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '👨‍🚀🌕'?",
+      "options": [
+        "Apollo 13",
+        "The Martian",
+        "Gravity"
+      ],
+      "answer": "Apollo 13"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🧭⚓🌊'?",
+      "options": [
+        "Master and Commander",
+        "Moby Dick",
+        "Life of Pi"
+      ],
+      "answer": "Master and Commander"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🖼️🕵️‍♀️💰' about art theft and forgery investigation?",
+      "options": [
+        "The Thomas Crown Affair",
+        "The Great Train Robbery",
+        "The Monuments Men"
+      ],
+      "answer": "The Thomas Crown Affair"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '🕷️🧑'?",
+      "options": [
+        "Spider-Man",
+        "The Fly",
+        "Ant-Man"
+      ],
+      "answer": "Spider-Man"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue '👩‍🚒🔥🏢'?",
+      "options": [
+        "Ladder 49",
+        "The Towering Inferno",
+        "Backdraft"
+      ],
+      "answer": "Backdraft"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie fits '👩‍🌾🌽👻' about haunted rural settings?",
+      "options": [
+        "Poltergeist",
+        "Signs",
+        "The Wicker Man"
+      ],
+      "answer": "Signs"
+    }
+  ]
+}

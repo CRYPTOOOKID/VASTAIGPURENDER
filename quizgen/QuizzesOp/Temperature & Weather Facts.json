@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What instrument is commonly used to measure air temperature?",
+        "options": [
+          "Thermometer",
+          "Barometer",
+          "Anemometer"
+        ],
+        "answer": "Thermometer"
+      },
+      {
+        "question": "Which temperature scale sets water freezing at 0 and boiling at 100?",
+        "options": [
+          "Celsius",
+          "Fahrenheit",
+          "Kelvin"
+        ],
+        "answer": "Celsius"
+      },
+      {
+        "question": "What is the approximate standard atmospheric pressure at sea level?",
+        "options": [
+          "1013.25 hPa",
+          "7600 hPa",
+          "101.325 hPa"
+        ],
+        "answer": "1013.25 hPa"
+      },
+      {
+        "question": "Which instrument measures the amount of rainfall at a location?",
+        "options": [
+          "Rain gauge",
+          "Hygrometer",
+          "Pyranometer"
+        ],
+        "answer": "Rain gauge"
+      },
+      {
+        "question": "What does a barometer measure in meteorology?",
+        "options": [
+          "Air pressure",
+          "Wind speed",
+          "Humidity"
+        ],
+        "answer": "Air pressure"
+      },
+      {
+        "question": "Which frozen precipitation forms as ice crystals in clouds?",
+        "options": [
+          "Snow",
+          "Sleet",
+          "Hail"
+        ],
+        "answer": "Snow"
+      },
+      {
+        "question": "Which cloud type often appears fluffy and indicates fair weather?",
+        "options": [
+          "Cumulus",
+          "Nimbostratus",
+          "Cirrostratus"
+        ],
+        "answer": "Cumulus"
+      },
+      {
+        "question": "Which atmospheric layer contains most of Earth’s weather phenomena?",
+        "options": [
+          "Troposphere",
+          "Stratosphere",
+          "Mesosphere"
+        ],
+        "answer": "Troposphere"
+      },
+      {
+        "question": "What primarily causes wind to blow across Earth's surface?",
+        "options": [
+          "Differences in air pressure",
+          "Earth's rotation",
+          "Cloud cover"
+        ],
+        "answer": "Differences in air pressure"
+      },
+      {
+        "question": "What does humidity measure in the atmosphere?",
+        "options": [
+          "Amount of water vapor in air",
+          "Air pressure",
+          "Soil moisture"
+        ],
+        "answer": "Amount of water vapor in air"
+      },
+      {
+        "question": "Which temperature scale sets absolute zero at 0 units?",
+        "options": [
+          "Kelvin",
+          "Fahrenheit",
+          "Rankine"
+        ],
+        "answer": "Kelvin"
+      },
+      {
+        "question": "What forms when warm, moist air cools below its dew point near the ground?",
+        "options": [
+          "Fog",
+          "Haze",
+          "Mist"
+        ],
+        "answer": "Fog"
+      },
+      {
+        "question": "What is the name for a rotating tropical storm in the Atlantic basin?",
+        "options": [
+          "Hurricane",
+          "Typhoon",
+          "Cyclone"
+        ],
+        "answer": "Hurricane"
+      },
+      {
+        "question": "Which front forms when cold air pushes under a warm air mass?",
+        "options": [
+          "Cold front",
+          "Warm front",
+          "Stationary front"
+        ],
+        "answer": "Cold front"
+      },
+      {
+        "question": "What are tiny liquid water particles suspended in clouds called?",
+        "options": [
+          "Cloud droplets",
+          "Ice pellets",
+          "Hailstones"
+        ],
+        "answer": "Cloud droplets"
+      },
+      {
+        "question": "Which instrument is used to measure wind speed?",
+        "options": [
+          "Anemometer",
+          "Thermometer",
+          "Barometer"
+        ],
+        "answer": "Anemometer"
+      },
+      {
+        "question": "What instrument directly measures atmospheric humidity?",
+        "options": [
+          "Hygrometer",
+          "Rain gauge",
+          "Ceilometer"
+        ],
+        "answer": "Hygrometer"
+      },
+      {
+        "question": "Which temperature scale uses 32 for freezing and 212 for boiling of water?",
+        "options": [
+          "Fahrenheit",
+          "Celsius",
+          "Kelvin"
+        ],
+        "answer": "Fahrenheit"
+      },
+      {
+        "question": "What term describes long-term average weather for a region?",
+        "options": [
+          "Climate",
+          "Weather",
+          "Microclimate"
+        ],
+        "answer": "Climate"
+      },
+      {
+        "question": "Which gas makes up the largest percentage of Earth's atmosphere by volume?",
+        "options": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon dioxide"
+        ],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What process cools surfaces because liquid water evaporates into the air?",
+        "options": [
+          "Evaporative cooling",
+          "Conduction",
+          "Radiative heating"
+        ],
+        "answer": "Evaporative cooling"
+      },
+      {
+        "question": "What does the Beaufort scale describe in everyday weather reporting?",
+        "options": [
+          "Wind force",
+          "Cloud height",
+          "Air pressure"
+        ],
+        "answer": "Wind force"
+      },
+      {
+        "question": "What weather event typically forms from severe thunderstorms with rotating updrafts?",
+        "options": [
+          "Tornado",
+          "Blizzard",
+          "Heat wave"
+        ],
+        "answer": "Tornado"
+      },
+      {
+        "question": "Which device measures humidity using wet-bulb and dry-bulb temperatures?",
+        "options": [
+          "Sling psychrometer",
+          "Anemometer",
+          "Ceilometer"
+        ],
+        "answer": "Sling psychrometer"
+      },
+      {
+        "question": "What name describes the boundary between two air masses with different temperatures?",
+        "options": [
+          "Front",
+          "Occlusion",
+          "Jet stream"
+        ],
+        "answer": "Front"
+      },
+      {
+        "question": "Which single-letter symbol commonly marks a low-pressure center on surface maps?",
+        "options": [
+          "L",
+          "H",
+          "P"
+        ],
+        "answer": "L"
+      },
+      {
+        "question": "What term names the temperature at which air becomes saturated and dew forms?",
+        "options": [
+          "Dew point",
+          "Frost point",
+          "Heat index"
+        ],
+        "answer": "Dew point"
+      },
+      {
+        "question": "What is the freezing point of freshwater on the Celsius scale?",
+        "options": [
+          "0°C",
+          "32°C",
+          "100°C"
+        ],
+        "answer": "0°C"
+      },
+      {
+        "question": "Which Pacific Ocean phenomenon causes unusually warm surface waters and global weather shifts?",
+        "options": [
+          "El Niño",
+          "Monsoon",
+          "Gulf Stream"
+        ],
+        "answer": "El Niño"
+      },
+      {
+        "question": "What instrument records continuous temperature variations over time automatically?",
+        "options": [
+          "Thermograph",
+          "Barograph",
+          "Hygrograph"
+        ],
+        "answer": "Thermograph"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What two variables does the heat index combine to estimate perceived temperature?",
+        "options": [
+          "Air temperature and relative humidity",
+          "Air pressure and wind speed",
+          "Cloud cover and sunlight"
+        ],
+        "answer": "Air temperature and relative humidity"
+      },
+      {
+        "question": "Which meteorologist developed the original Fujita scale for tornado intensity?",
+        "options": [
+          "Tetsuya Fujita",
+          "Edward Lorenz",
+          "Jacob Bjerknes"
+        ],
+        "answer": "Tetsuya Fujita"
+      },
+      {
+        "question": "What term describes warming of descending air by compression without adding heat externally?",
+        "options": [
+          "Adiabatic warming",
+          "Radiative heating",
+          "Conductive heating"
+        ],
+        "answer": "Adiabatic warming"
+      },
+      {
+        "question": "Which phenomenon is the cool-phase counterpart to El Niño, producing cooler Pacific surface waters?",
+        "options": [
+          "La Niña",
+          "Madden-Julian Oscillation",
+          "Indian Ocean Dipole"
+        ],
+        "answer": "La Niña"
+      },
+      {
+        "question": "What device carried on weather balloons measures upper-air temperature and humidity profiles?",
+        "options": [
+          "Radiosonde",
+          "Ceilometer",
+          "Pyranometer"
+        ],
+        "answer": "Radiosonde"
+      },
+      {
+        "question": "Which meteorological term describes how temperature changes with altitude in the troposphere?",
+        "options": [
+          "Lapse rate",
+          "Advection",
+          "Baroclinicity"
+        ],
+        "answer": "Lapse rate"
+      },
+      {
+        "question": "Which measurement gives the actual mass of water vapor per unit mass of dry air?",
+        "options": [
+          "Specific humidity",
+          "Relative humidity",
+          "Dew point"
+        ],
+        "answer": "Specific humidity"
+      },
+      {
+        "question": "Which process forms clouds when rising air expands and cools without heat exchange?",
+        "options": [
+          "Adiabatic cooling",
+          "Radiative cooling",
+          "Conduction"
+        ],
+        "answer": "Adiabatic cooling"
+      },
+      {
+        "question": "What weather event occurs when wind lifts and suspends dust or sand into the atmosphere?",
+        "options": [
+          "Dust storm",
+          "Microburst",
+          "Virga"
+        ],
+        "answer": "Dust storm"
+      },
+      {
+        "question": "What causes lake-effect snow downwind of large lakes during cold air outbreaks?",
+        "options": [
+          "Cold air moving over warmer lake water",
+          "Warm fronts arriving from ocean",
+          "Orographic lifting over mountains"
+        ],
+        "answer": "Cold air moving over warmer lake water"
+      },
+      {
+        "question": "Which instrument quantifies incoming solar radiation at Earth's surface?",
+        "options": [
+          "Pyranometer",
+          "Radiometer",
+          "Hygrometer"
+        ],
+        "answer": "Pyranometer"
+      },
+      {
+        "question": "What large-scale atmospheric waves help shape jet stream meanders and weather patterns?",
+        "options": [
+          "Rossby waves",
+          "Gravity waves",
+          "Kelvin waves"
+        ],
+        "answer": "Rossby waves"
+      },
+      {
+        "question": "What is the commonly quoted average environmental lapse rate in the troposphere?",
+        "options": [
+          "About 6.5°C per kilometer",
+          "About 2°C per kilometer",
+          "About 12°C per kilometer"
+        ],
+        "answer": "About 6.5°C per kilometer"
+      },
+      {
+        "question": "Which warm, dry downslope wind in North America rapidly raises temperatures?",
+        "options": [
+          "Chinook",
+          "Nor'easter",
+          "Sirocco"
+        ],
+        "answer": "Chinook"
+      },
+      {
+        "question": "Which term measures atmospheric moisture as a percentage of saturation at current temperature?",
+        "options": [
+          "Relative humidity",
+          "Specific humidity",
+          "Mixing ratio"
+        ],
+        "answer": "Relative humidity"
+      },
+      {
+        "question": "Which satellite type remains fixed relative to Earth's rotation to monitor weather continuously?",
+        "options": [
+          "Geostationary satellite",
+          "Polar-orbiting satellite",
+          "LEO weather buoy"
+        ],
+        "answer": "Geostationary satellite"
+      },
+      {
+        "question": "Which index estimates human discomfort during hot, humid conditions combining temperature and humidity?",
+        "options": [
+          "Heat index",
+          "Wind chill index",
+          "UV index"
+        ],
+        "answer": "Heat index"
+      },
+      {
+        "question": "Which recording instrument produces a continuous trace of atmospheric pressure over time?",
+        "options": [
+          "Barograph",
+          "Thermograph",
+          "Anemograph"
+        ],
+        "answer": "Barograph"
+      },
+      {
+        "question": "What European mountain lee wind similar to Chinook creates a warm, dry condition called?",
+        "options": [
+          "Foehn",
+          "Mistral",
+          "Sirocco"
+        ],
+        "answer": "Foehn"
+      },
+      {
+        "question": "What does the term albedo quantify about Earth's surface?",
+        "options": [
+          "Reflectivity of incoming solar radiation",
+          "Surface roughness",
+          "Thermal conductivity"
+        ],
+        "answer": "Reflectivity of incoming solar radiation"
+      },
+      {
+        "question": "Which atmospheric layer above the troposphere contains the ozone layer and shows temperature increase with altitude?",
+        "options": [
+          "Stratosphere",
+          "Mesosphere",
+          "Thermosphere"
+        ],
+        "answer": "Stratosphere"
+      },
+      {
+        "question": "On a weather map, what do isobars connect?",
+        "options": [
+          "Points of equal pressure",
+          "Points of equal temperature",
+          "Points of equal humidity"
+        ],
+        "answer": "Points of equal pressure"
+      },
+      {
+        "question": "Which cloud type commonly appears before a warm front as high, thin layers spread across the sky?",
+        "options": [
+          "Cirrostratus",
+          "Cumulonimbus",
+          "Stratocumulus"
+        ],
+        "answer": "Cirrostratus"
+      },
+      {
+        "question": "What atmospheric layering leads to freezing rain instead of snowfall at the surface?",
+        "options": [
+          "A warm layer aloft melting snow then refreezing on surfaces",
+          "Strong surface heating",
+          "High pressure aloft"
+        ],
+        "answer": "A warm layer aloft melting snow then refreezing on surfaces"
+      },
+      {
+        "question": "What does the Saffir-Simpson scale classify regarding tropical cyclones?",
+        "options": [
+          "Hurricane intensity by sustained wind speed",
+          "Storm surge height only",
+          "Rainfall totals only"
+        ],
+        "answer": "Hurricane intensity by sustained wind speed"
+      },
+      {
+        "question": "What name describes a rotating column of air reaching from cloud base to the ground?",
+        "options": [
+          "Tornado",
+          "Waterspout",
+          "Dust devil"
+        ],
+        "answer": "Tornado"
+      },
+      {
+        "question": "What drives sea breezes that move from ocean toward land during the day?",
+        "options": [
+          "Land heating faster than the sea",
+          "Tidal forces",
+          "Nocturnal cooling"
+        ],
+        "answer": "Land heating faster than the sea"
+      },
+      {
+        "question": "Which rain gauge type uses a tipping mechanism to record rainfall increments electronically?",
+        "options": [
+          "Tipping-bucket rain gauge",
+          "Weighing gauge",
+          "Optical disdrometer"
+        ],
+        "answer": "Tipping-bucket rain gauge"
+      },
+      {
+        "question": "Around what altitude does the 850 hPa pressure level approximately lie in the troposphere?",
+        "options": [
+          "About 1.5 kilometers above sea level",
+          "About 10 kilometers above sea level",
+          "About 500 meters above sea level"
+        ],
+        "answer": "About 1.5 kilometers above sea level"
+      },
+      {
+        "question": "Which urban phenomenon reduces nighttime cooling and raises city temperatures relative to rural areas?",
+        "options": [
+          "Urban heat island effect",
+          "Sea breeze effect",
+          "Orographic lifting"
+        ],
+        "answer": "Urban heat island effect"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which type of humidity sensor often used on radiosondes senses moisture via a thin polymer film?",
+        "options": [
+          "Capacitive humidity sensor",
+          "Thermistor sensor",
+          "Pyranometer sensor"
+        ],
+        "answer": "Capacitive humidity sensor"
+      },
+      {
+        "question": "What technical term names the actual change in temperature with altitude averaged in the troposphere?",
+        "options": [
+          "Environmental lapse rate",
+          "Adiabatic index",
+          "Barotropic gradient"
+        ],
+        "answer": "Environmental lapse rate"
+      },
+      {
+        "question": "Which international organization establishes standards for global meteorological observations and data exchange?",
+        "options": [
+          "World Meteorological Organization",
+          "NASA",
+          "UNESCO"
+        ],
+        "answer": "World Meteorological Organization"
+      },
+      {
+        "question": "What is the definition of potential temperature in atmospheric thermodynamics?",
+        "options": [
+          "Temperature an air parcel would have if brought adiabatically to 1000 hPa",
+          "Temperature at the surface on a sunny day",
+          "Average global temperature"
+        ],
+        "answer": "Temperature an air parcel would have if brought adiabatically to 1000 hPa"
+      },
+      {
+        "question": "Which temperature metric represents air cooled by evaporation to saturation and gauges human heat stress?",
+        "options": [
+          "Wet-bulb temperature",
+          "Dew point temperature",
+          "Dry-bulb temperature"
+        ],
+        "answer": "Wet-bulb temperature"
+      },
+      {
+        "question": "In severe-weather forecasting what does CAPE stand for?",
+        "options": [
+          "Convective Available Potential Energy",
+          "Cloud Altitude Potential Estimate",
+          "Coriolis Adjusted Pressure Estimate"
+        ],
+        "answer": "Convective Available Potential Energy"
+      },
+      {
+        "question": "What process commonly produces mammatus clouds beneath thunderstorm anvils?",
+        "options": [
+          "Evaporative cooling and sinking air beneath the anvil",
+          "Strong surface heating",
+          "Orographic lifting"
+        ],
+        "answer": "Evaporative cooling and sinking air beneath the anvil"
+      },
+      {
+        "question": "Which instrument measures atmospheric electric field variations associated with thunderstorm charge separation?",
+        "options": [
+          "Electric field mill",
+          "Magnetometer",
+          "Pyrgeometer"
+        ],
+        "answer": "Electric field mill"
+      },
+      {
+        "question": "Which index compares the temperature of a lifted parcel to the environment to assess atmospheric instability?",
+        "options": [
+          "Lifted Index",
+          "K-Index",
+          "Humidity Index"
+        ],
+        "answer": "Lifted Index"
+      },
+      {
+        "question": "What common nighttime process creates temperature inversions that trap pollutants near the surface?",
+        "options": [
+          "Radiational cooling of the surface",
+          "Daytime convective mixing",
+          "Strong frontal passage"
+        ],
+        "answer": "Radiational cooling of the surface"
+      },
+      {
+        "question": "Which radar capability uses Doppler shifts to measure precipitation motion and wind velocity?",
+        "options": [
+          "Doppler radar",
+          "S-band radiometer",
+          "LIDAR reflectometer"
+        ],
+        "answer": "Doppler radar"
+      },
+      {
+        "question": "What primary feedback mechanism contributes to faster polar warming compared to global average?",
+        "options": [
+          "Ice-albedo feedback",
+          "Cloud seeding",
+          "Evaporation feedback"
+        ],
+        "answer": "Ice-albedo feedback"
+      },
+      {
+        "question": "What does isentropic analysis follow to study air parcel movement and mass transport?",
+        "options": [
+          "Surfaces of constant potential temperature",
+          "Surfaces of constant pressure",
+          "Surfaces of constant humidity"
+        ],
+        "answer": "Surfaces of constant potential temperature"
+      },
+      {
+        "question": "What wet-bulb temperature around 35°C is widely cited as a rough survivability limit for sustained human exposure?",
+        "options": [
+          "35°C wet-bulb",
+          "20°C wet-bulb",
+          "45°C wet-bulb"
+        ],
+        "answer": "35°C wet-bulb"
+      },
+      {
+        "question": "Which satellite instrument class measures vertical atmospheric temperature profiles using infrared emission?",
+        "options": [
+          "Infrared sounder",
+          "Microwave radiometer",
+          "Scatterometer"
+        ],
+        "answer": "Infrared sounder"
+      },
+      {
+        "question": "What causes katabatic winds that flow downslope from high plateaus or ice sheets?",
+        "options": [
+          "Dense, cold air draining under gravity",
+          "Sea breezes converging inland",
+          "Solar heating of slope surfaces"
+        ],
+        "answer": "Dense, cold air draining under gravity"
+      },
+      {
+        "question": "Which daytime boundary layer phenomenon mixes pollutants upward from the surface?",
+        "options": [
+          "Convective boundary layer turbulence",
+          "Nocturnal inversion",
+          "Subsidence inversion"
+        ],
+        "answer": "Convective boundary layer turbulence"
+      },
+      {
+        "question": "Why is the 500 hPa geopotential height field important in synoptic meteorology?",
+        "options": [
+          "It represents mid-tropospheric flow that steers large-scale weather systems",
+          "It measures surface humidity",
+          "It quantifies solar radiation"
+        ],
+        "answer": "It represents mid-tropospheric flow that steers large-scale weather systems"
+      },
+      {
+        "question": "Which index combines vertical wind shear with instability to evaluate tornado potential?",
+        "options": [
+          "Energy-Helicity Index",
+          "Heat Index",
+          "Haines Index"
+        ],
+        "answer": "Energy-Helicity Index"
+      },
+      {
+        "question": "What scientific field uses tree-ring width and density to reconstruct past climate variations?",
+        "options": [
+          "Dendroclimatology",
+          "Paleomagnetism",
+          "Glaciology"
+        ],
+        "answer": "Dendroclimatology"
+      },
+      {
+        "question": "What is the Madden-Julian Oscillation primarily characterized by in the tropical atmosphere?",
+        "options": [
+          "Eastward-propagating convective pulses",
+          "Westward-propagating Rossby waves",
+          "Stationary high-pressure anomalies"
+        ],
+        "answer": "Eastward-propagating convective pulses"
+      },
+      {
+        "question": "Which mechanism creates noctilucent clouds high in the mesosphere during summer twilight?",
+        "options": [
+          "Ice crystals forming on meteoric dust in the cold mesosphere",
+          "Volcanic ash lofted into the stratosphere",
+          "Orographic uplift of moisture"
+        ],
+        "answer": "Ice crystals forming on meteoric dust in the cold mesosphere"
+      },
+      {
+        "question": "What property of atmospheric motion does potential vorticity conservation help diagnose?",
+        "options": [
+          "Rotation and vertical motion of air parcels",
+          "Surface temperature changes",
+          "Precipitation chemistry"
+        ],
+        "answer": "Rotation and vertical motion of air parcels"
+      },
+      {
+        "question": "Which remote sensing instrument uses laser pulses to measure wind profiles and aerosol structure?",
+        "options": [
+          "Doppler lidar",
+          "RADAR altimeter",
+          "Pyrheliometer"
+        ],
+        "answer": "Doppler lidar"
+      },
+      {
+        "question": "What term describes the suppression of convection by a stable layer preventing thunderstorm growth?",
+        "options": [
+          "Convective inhibition",
+          "Convective available energy",
+          "Barotropic instability"
+        ],
+        "answer": "Convective inhibition"
+      },
+      {
+        "question": "Which seasonal wind reversal brings heavy summer rainfall to the Indian subcontinent?",
+        "options": [
+          "Southwest monsoon",
+          "Northeast trade winds",
+          "Bora wind"
+        ],
+        "answer": "Southwest monsoon"
+      },
+      {
+        "question": "What does baroclinic instability in the mid-latitude atmosphere typically generate?",
+        "options": [
+          "Extratropical cyclones and frontal systems",
+          "Tropical cyclones",
+          "Sea breezes"
+        ],
+        "answer": "Extratropical cyclones and frontal systems"
+      },
+      {
+        "question": "Which unit is commonly used to express atmospheric water vapor mixing ratio?",
+        "options": [
+          "Grams per kilogram (g/kg)",
+          "Parts per million (ppm)",
+          "Millimeters (mm)"
+        ],
+        "answer": "Grams per kilogram (g/kg)"
+      },
+      {
+        "question": "What large-scale circulation moves ozone and tracers from tropical stratosphere toward the poles?",
+        "options": [
+          "Brewer-Dobson circulation",
+          "Walker circulation",
+          "Hadley cell"
+        ],
+        "answer": "Brewer-Dobson circulation"
+      },
+      {
+        "question": "Which combined metric often gauges heat stress for livestock using temperature and humidity?",
+        "options": [
+          "Temperature-Humidity Index (THI)",
+          "Wind Chill Equivalent",
+          "Solar Radiation Index"
+        ],
+        "answer": "Temperature-Humidity Index (THI)"
+      }
+    ]
+  }
+}

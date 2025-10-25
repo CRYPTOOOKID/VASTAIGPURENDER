@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company acquired WhatsApp in 2014?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company uses headquarters in Cupertino, California?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company pioneered the app-store model on iOS and established a 70/30 revenue split?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company produces the electric cars Model S, 3, X, and Y?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company operates the advertising platform AdSense and AdWords?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company first introduced the concept of 'Prime Day' as a global shopping event?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which company owns LinkedIn after a 2016 acquisition?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Chinese company is often called the 'Amazon of China'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company held an early investment that turned into ownership of Twitter's competitor, ByteDance's TikTok interests? "
+    },
+    {
+      "question_id": 10,
+      "question": "Which company owns the Google search engine brand?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company acquired GitHub for $7.5 billion in 2018?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company announced a takeover bid for ARM in 2020 valued at around $40 billion?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which retailer is the world's largest by revenue?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company launched Shopify to help merchants build online stores starting in 2006?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company completed acquisition of ARM's rival technologies after a failed Nvidia deal? "
+    }
+  ]
+}

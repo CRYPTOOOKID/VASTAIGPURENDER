@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which river is worshipped as the goddess who descended from Shiva's hair?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Saraswati"
+      ],
+      "answer": "Ganga"
+    },
+    {
+      "question_id": 2,
+      "question": "Which sacred mountain is central in many Puranic myths as the axis of the world?",
+      "options": [
+        "Mount Meru",
+        "Mount Everest",
+        "Mount Kailash"
+      ],
+      "answer": "Mount Meru"
+    },
+    {
+      "question_id": 3,
+      "question": "Which deity is associated with the peacock mount and the Tamil festival of Thaipusam?",
+      "options": [
+        "Kartikeya (Murugan)",
+        "Indra",
+        "Kubera"
+      ],
+      "answer": "Kartikeya (Murugan)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which form of Shiva represents cosmic dance and rhythmic creation?",
+      "options": [
+        "Nataraja",
+        "Ardhanarishvara",
+        "Dakshinamurti"
+      ],
+      "answer": "Nataraja"
+    },
+    {
+      "question_id": 5,
+      "question": "Which divine weapon did Krishna advise Arjuna to use symbolically in battle ethics?",
+      "options": [
+        "Sudarshana Chakra",
+        "Brahmastra",
+        "No physical weapon"
+      ],
+      "answer": "No physical weapon"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river goddess's subterranean course is said to flow beneath the earth in Vedic lore?",
+      "options": [
+        "Saraswati",
+        "Ganga",
+        "Yamuna"
+      ],
+      "answer": "Saraswati"
+    },
+    {
+      "question_id": 7,
+      "question": "Which epic tells the story of Rama, an avatar of Vishnu?",
+      "options": [
+        "Ramayana",
+        "Mahabharata",
+        "Puranas"
+      ],
+      "answer": "Ramayana"
+    },
+    {
+      "question_id": 8,
+      "question": "Which avatar of Vishnu has a half-man, half-lion form who protected his devotee Prahlada?",
+      "options": [
+        "Narasimha",
+        "Varaha",
+        "Vamana"
+      ],
+      "answer": "Narasimha"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Vedic god is traditionally linked to cosmic law, the ocean, and judicial order?",
+      "options": [
+        "Varuna",
+        "Agni",
+        "Indra"
+      ],
+      "answer": "Varuna"
+    },
+    {
+      "question_id": 10,
+      "question": "Which goddess forms when Parvati takes a fierce warrior aspect to defeat demons?",
+      "options": [
+        "Durga",
+        "Sita",
+        "Radha"
+      ],
+      "answer": "Durga"
+    },
+    {
+      "question_id": 11,
+      "question": "Which epic features the Kurukshetra war and extensive genealogies of gods and kings?",
+      "options": [
+        "Mahabharata",
+        "Ramayana",
+        "Skanda Purana"
+      ],
+      "answer": "Mahabharata"
+    },
+    {
+      "question_id": 12,
+      "question": "Which avatar list places Buddha as an incarnation of Vishnu in many Puranic accounts?",
+      "options": [
+        "Dashavatara",
+        "Chaturvyuha",
+        "Saptamatrika"
+      ],
+      "answer": "Dashavatara"
+    },
+    {
+      "question_id": 13,
+      "question": "Which avatar of Vishnu appears as a dwarf Brahmin king to restore cosmic order?",
+      "options": [
+        "Vamana",
+        "Narasimha",
+        "Rama"
+      ],
+      "answer": "Vamana"
+    },
+    {
+      "question_id": 14,
+      "question": "Which goddess is called 'Mahadevi' when representing the supreme feminine cosmic power?",
+      "options": [
+        "Devi",
+        "Sita",
+        "Ganga"
+      ],
+      "answer": "Devi"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Vedic hymn collection contains the Nasadiya Sukta contemplating cosmic origin?",
+      "options": [
+        "Rigveda",
+        "Samaveda",
+        "Atharvaveda"
+      ],
+      "answer": "Rigveda"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia describes fear of small animals like mice?",
+      "options": [
+        "Musophobia",
+        "Heliophobia",
+        "Atychiphobia"
+      ],
+      "answer": "Musophobia"
+    },
+    {
+      "question_id": 2,
+      "question": "Which medication class is sometimes prescribed for social phobia symptoms?",
+      "options": [
+        "Selective serotonin reuptake inhibitors",
+        "Beta blockers only",
+        "Antipsychotics only"
+      ],
+      "answer": "Selective serotonin reuptake inhibitors"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare phobia means fear of the color red?",
+      "options": [
+        "Erythrophobia",
+        "Chlorophobia",
+        "Porphyrophobia"
+      ],
+      "answer": "Erythrophobia"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'pteromerhanophobia' mean?",
+      "options": [
+        "Fear of flying by plane",
+        "Fear of clowns",
+        "Fear of confined spaces"
+      ],
+      "answer": "Fear of flying by plane"
+    },
+    {
+      "question_id": 5,
+      "question": "Which therapeutic approach emphasizes changing fearful thoughts alongside exposure?",
+      "options": [
+        "Cognitive behavioral therapy",
+        "Psychoanalytic free association",
+        "Electrotherapy"
+      ],
+      "answer": "Cognitive behavioral therapy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which behavioral researcher exposed children to fearful stimuli to demonstrate unlearning of phobias?",
+      "options": [
+        "Mary Cover Jones",
+        "Wilhelm Wundt",
+        "Alfred Adler"
+      ],
+      "answer": "Mary Cover Jones"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia concerns fear of falling while asleep or sleep itself?",
+      "options": [
+        "Somniphobia",
+        "Aerophobia",
+        "Thalassophobia"
+      ],
+      "answer": "Somniphobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia is associated with a vasovagal fainting reaction?",
+      "options": [
+        "Blood-injection-injury phobia",
+        "Agoraphobia",
+        "Aerophobia"
+      ],
+      "answer": "Blood-injection-injury phobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia category often shows a biphasic physiological response including fainting?",
+      "options": [
+        "Blood-injection-injury phobia",
+        "Natural environment phobia",
+        "Social phobia"
+      ],
+      "answer": "Blood-injection-injury phobia"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia describes fear of public speaking?",
+      "options": [
+        "Glossophobia",
+        "Somniphobia",
+        "Xenophobia"
+      ],
+      "answer": "Glossophobia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which culture-bound fear emphasizes offending others rather than physical danger?",
+      "options": [
+        "Taijin kyofusho",
+        "Amok syndrome",
+        "Susto"
+      ],
+      "answer": "Taijin kyofusho"
+    },
+    {
+      "question_id": 12,
+      "question": "Which neurobiological area is frequently implicated in conditioned fear and phobic responses?",
+      "options": [
+        "Amygdala",
+        "Cerebellum",
+        "Occipital cortex"
+      ],
+      "answer": "Amygdala"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'agoraphobia' commonly involve?",
+      "options": [
+        "Fear of places where escape seems difficult",
+        "Fear of spiders",
+        "Fear of germs"
+      ],
+      "answer": "Fear of places where escape seems difficult"
+    },
+    {
+      "question_id": 14,
+      "question": "What distinguishes a phobia from normal fear clinically?",
+      "options": [
+        "Excessive, persistent fear causing impairment",
+        "Fear present only during sleep",
+        "Fear that always resolves quickly"
+      ],
+      "answer": "Excessive, persistent fear causing impairment"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia term describes fear of aging or growing old and associated changes?",
+      "options": [
+        "Gerascophobia",
+        "Nomophobia",
+        "Ablutophobia"
+      ],
+      "answer": "Gerascophobia"
+    }
+  ]
+}

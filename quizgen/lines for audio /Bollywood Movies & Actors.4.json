@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the primary language used in mainstream Bollywood films?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which actress starred opposite Shah Rukh Khan in Veer-Zaara (2004)?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which classical dancer turned actress played the tragic lead in Mughal-e-Azam's famous song sequences?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which actress starred opposite Raj Kapoor in the film Awaara (1951)?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which film directed by Anurag Basu starred Ranbir Kapoor and Priyanka Chopra in 2012?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian film star received the Padma Vibhushan award in 2015?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which 1992 film launched Akshay Kumar's 'Khiladi' action persona?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which 1975 film reinforced Amitabh Bachchan's 'angry young man' screen persona?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which actress performed the iconic dance number 'Ek Do Teen' that boosted her stardom?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which actress is affectionately nicknamed 'Bebo' in Bollywood?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which choreographer won multiple National Awards and created iconic dances for Madhuri Dixit?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which actor's early career included a breakthrough role in the film Rang De Basanti (2006)?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who played Prince Salim in the epic Mughal-e-Azam (1960)?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which actor received critical and award recognition for his role in The Lunchbox (2013)?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which veteran actor was the lead in Guru Dutt's Pyaasa (1957), a landmark in Hindi cinema?"
+    }
+  ]
+}

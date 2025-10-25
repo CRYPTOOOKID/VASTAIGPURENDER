@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which gesture involves throwing a pinch of salt over your left shoulder to prevent bad luck?",
+      "options": [
+        "Throwing salt",
+        "Tossing coins",
+        "Ringing bell"
+      ],
+      "answer": "Throwing salt"
+    },
+    {
+      "question_id": 2,
+      "question": "What name describes the custom of leaving small offerings for household spirits or ancestors?",
+      "options": [
+        "Household offerings",
+        "Eucharistic rites",
+        "Pilgrimage"
+      ],
+      "answer": "Household offerings"
+    },
+    {
+      "question_id": 3,
+      "question": "Which nineteenth-century occultist popularized talismanic sigils for personal magical practice?",
+      "options": [
+        "Eliphas Lévi",
+        "Auguste Comte",
+        "Emile Durkheim"
+      ],
+      "answer": "Eliphas Lévi"
+    },
+    {
+      "question_id": 4,
+      "question": "What common household action do people perform to avoid tempting fate after a lucky event?",
+      "options": [
+        "Knock on wood",
+        "Clap loudly",
+        "Wave a handkerchief"
+      ],
+      "answer": "Knock on wood"
+    },
+    {
+      "question_id": 5,
+      "question": "Which practice involves interpreting tea leaves poured into a cup for fortunes?",
+      "options": [
+        "Tasseography",
+        "Astrology",
+        "Palmistry"
+      ],
+      "answer": "Tasseography"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term names the practice of marking door lintels with scratched symbols to protect households?",
+      "options": [
+        "Ritual protection graffiti",
+        "Lintel heraldry",
+        "Family cresting"
+      ],
+      "answer": "Ritual protection graffiti"
+    },
+    {
+      "question_id": 7,
+      "question": "What do many people do immediately after saying a hopeful statement to avoid jinxing it?",
+      "options": [
+        "Knock on wood",
+        "Strike a match",
+        "Sit down"
+      ],
+      "answer": "Knock on wood"
+    },
+    {
+      "question_id": 8,
+      "question": "Which practice uses specially marked coins or objects hidden in buildings for luck?",
+      "options": [
+        "Time capsule tradition",
+        "Charm hiding",
+        "Heraldic sealing"
+      ],
+      "answer": "Charm hiding"
+    },
+    {
+      "question_id": 9,
+      "question": "Which sea superstition held that sailors considered albatrosses as omens and sometimes shot them?",
+      "options": [
+        "Albatross omen belief",
+        "Dolphin omen tradition",
+        "Seagull sanctity custom"
+      ],
+      "answer": "Albatross omen belief"
+    },
+    {
+      "question_id": 10,
+      "question": "What do people commonly do three times to complete a small ritual hoping for good luck?",
+      "options": [
+        "Knock on wood three times",
+        "Spin around three times",
+        "Snap fingers three times"
+      ],
+      "answer": "Knock on wood three times"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the name for charms or practices intended to ward off evil influences?",
+      "options": [
+        "Apotropaic practices",
+        "Iconoclastic rituals",
+        "Hermetic rites"
+      ],
+      "answer": "Apotropaic practices"
+    },
+    {
+      "question_id": 12,
+      "question": "Which period saw widespread publication of grimoires blending astrology, Christian prayer, and folk magic?",
+      "options": [
+        "Early modern period",
+        "Bronze Age",
+        "Late Antiquity"
+      ],
+      "answer": "Early modern period"
+    },
+    {
+      "question_id": 13,
+      "question": "Which figurine commonly sits with palms up to ward off the evil eye in some cultures?",
+      "options": [
+        "Hamsa hand",
+        "Laughing Buddha",
+        "Angel statue"
+      ],
+      "answer": "Hamsa hand"
+    },
+    {
+      "question_id": 14,
+      "question": "Which item placed above a door is oriented with ends upward to 'hold' luck in folklore?",
+      "options": [
+        "Horseshoe",
+        "Garland",
+        "Wind chime"
+      ],
+      "answer": "Horseshoe"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient Mesopotamian practice involved placing figurines to absorb disease and misfortune?",
+      "options": [
+        "Substitute effigy placement",
+        "Ziggurat prayer",
+        "Star divination"
+      ],
+      "answer": "Substitute effigy placement"
+    }
+  ]
+}

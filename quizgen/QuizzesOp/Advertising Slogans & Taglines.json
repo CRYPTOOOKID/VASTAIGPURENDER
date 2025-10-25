@@ -1,0 +1,784 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which brand uses the slogan \"Just Do It\"?",
+        "options": [
+          "Adidas",
+          "Nike",
+          "Reebok"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which company uses the tagline \"I'm Lovin' It\"?",
+        "options": [
+          "Burger King",
+          "McDonald's",
+          "Wendy's"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which brand used the slogan \"Think Different\"?",
+        "options": [
+          "Microsoft",
+          "Apple",
+          "IBM"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which soft drink uses the tagline \"Taste the Feeling\"?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "Dr Pepper"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which fast-food chain uses \"Finger Lickin' Good\"?",
+        "options": [
+          "KFC",
+          "Chick-fil-A",
+          "Popeyes"
+        ],
+        "answer": "KFC"
+      },
+      {
+        "question": "Which beauty brand uses \"Because You're Worth It\"?",
+        "options": [
+          "Maybelline",
+          "L'Oréal",
+          "CoverGirl"
+        ],
+        "answer": "L'Oréal"
+      },
+      {
+        "question": "Which candy uses the slogan \"Melts in your mouth, not in your hands\"?",
+        "options": [
+          "Skittles",
+          "M&M's",
+          "Hershey's"
+        ],
+        "answer": "M&M's"
+      },
+      {
+        "question": "Which burger chain used the tagline \"Have It Your Way\"?",
+        "options": [
+          "Burger King",
+          "McDonald's",
+          "In-N-Out"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which automaker uses \"The Ultimate Driving Machine\"?",
+        "options": [
+          "Mercedes-Benz",
+          "BMW",
+          "Audi"
+        ],
+        "answer": "BMW"
+      },
+      {
+        "question": "Which theme park is called \"The Happiest Place on Earth\"?",
+        "options": [
+          "Universal Studios",
+          "Disneyland",
+          "Six Flags"
+        ],
+        "answer": "Disneyland"
+      },
+      {
+        "question": "Which sandwich chain uses the slogan \"Eat Fresh\"?",
+        "options": [
+          "Subway",
+          "Quiznos",
+          "Jimmy John's"
+        ],
+        "answer": "Subway"
+      },
+      {
+        "question": "Which energy drink claims to \"gives you wings\"?",
+        "options": [
+          "Red Bull",
+          "Monster",
+          "Rockstar"
+        ],
+        "answer": "Red Bull"
+      },
+      {
+        "question": "Which paper towel brand calls itself \"The Quicker Picker Upper\"?",
+        "options": [
+          "Bounty",
+          "Viva",
+          "Scott"
+        ],
+        "answer": "Bounty"
+      },
+      {
+        "question": "Which snack brand uses \"Once you pop, you can't stop\"?",
+        "options": [
+          "Pringles",
+          "Doritos",
+          "Lays"
+        ],
+        "answer": "Pringles"
+      },
+      {
+        "question": "Which delivery company used the line \"When it absolutely, positively has to be there overnight\"?",
+        "options": [
+          "UPS",
+          "FedEx",
+          "USPS"
+        ],
+        "answer": "FedEx"
+      },
+      {
+        "question": "Which telecommunications brand popularized \"Can you hear me now?\"",
+        "options": [
+          "AT&T",
+          "Verizon",
+          "Sprint"
+        ],
+        "answer": "Verizon"
+      },
+      {
+        "question": "Which cereal is often called the \"Breakfast of Champions\"?",
+        "options": [
+          "Frosted Flakes",
+          "Wheaties",
+          "Cheerios"
+        ],
+        "answer": "Wheaties"
+      },
+      {
+        "question": "Which retailer uses the tagline \"Expect More. Pay Less.\"?",
+        "options": [
+          "Target",
+          "Walgreens",
+          "Best Buy"
+        ],
+        "answer": "Target"
+      },
+      {
+        "question": "Which insurer uses \"Like a good neighbor, State Farm is there\"?",
+        "options": [
+          "Geico",
+          "Progressive",
+          "State Farm"
+        ],
+        "answer": "State Farm"
+      },
+      {
+        "question": "Which men's grooming brand ran \"The Man Your Man Could Smell Like\" campaign?",
+        "options": [
+          "Axe",
+          "Old Spice",
+          "Dove Men+Care"
+        ],
+        "answer": "Old Spice"
+      },
+      {
+        "question": "Which automaker uses the German slogan \"Vorsprung durch Technik\"?",
+        "options": [
+          "Volkswagen",
+          "Audi",
+          "BMW"
+        ],
+        "answer": "Audi"
+      },
+      {
+        "question": "Which soda brand uses the tagline \"Obey Your Thirst\" historically?",
+        "options": [
+          "Sprite",
+          "7-Up",
+          "Fanta"
+        ],
+        "answer": "Sprite"
+      },
+      {
+        "question": "Which payment brand popularized the word \"Priceless\" in its campaign?",
+        "options": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "answer": "Mastercard"
+      },
+      {
+        "question": "Which mascara brand uses \"Maybe she's born with it\"?",
+        "options": [
+          "Maybelline",
+          "Rimmel",
+          "CoverGirl"
+        ],
+        "answer": "Maybelline"
+      },
+      {
+        "question": "Which automaker uses the tagline \"Let's Go Places\"?",
+        "options": [
+          "Toyota",
+          "Honda",
+          "Nissan"
+        ],
+        "answer": "Toyota"
+      },
+      {
+        "question": "Which stout beer uses the line \"Good things come to those who wait\"?",
+        "options": [
+          "Heineken",
+          "Guinness",
+          "Stella Artois"
+        ],
+        "answer": "Guinness"
+      },
+      {
+        "question": "Which quick-service chain uses the tagline \"Have It Your Way\" historically?",
+        "options": [
+          "Burger King",
+          "Taco Bell",
+          "Wendy's"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which brand uses the slogan \"Save Money. Live Better.\"?",
+        "options": [
+          "Target",
+          "Walmart",
+          "Costco"
+        ],
+        "answer": "Walmart"
+      },
+      {
+        "question": "Which company uses the tagline \"The Quicker Picker Upper\" for paper towels?",
+        "options": [
+          "Bounty",
+          "Brawny",
+          "Kleenex"
+        ],
+        "answer": "Bounty"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which advertising agency coined Nike's \"Just Do It\" slogan?",
+        "options": [
+          "Ogilvy",
+          "Wieden+Kennedy",
+          "DDB"
+        ],
+        "answer": "Wieden+Kennedy"
+      },
+      {
+        "question": "In which year did Nike launch the \"Just Do It\" campaign?",
+        "options": [
+          "1988",
+          "1978",
+          "1998"
+        ],
+        "answer": "1988"
+      },
+      {
+        "question": "Which organization originally launched the \"Got Milk?\" campaign?",
+        "options": [
+          "California Milk Processor Board",
+          "Dairy Farmers of America",
+          "National Dairy Council"
+        ],
+        "answer": "California Milk Processor Board"
+      },
+      {
+        "question": "Who wrote the famous line \"A diamond is forever\" for De Beers?",
+        "options": [
+          "Frances Gerety",
+          "Mary Wells",
+          "Rosser Reeves"
+        ],
+        "answer": "Frances Gerety"
+      },
+      {
+        "question": "Which agency created Volkswagen's influential \"Think Small\" campaign?",
+        "options": [
+          "Doyle Dane Bernbach",
+          "Young & Rubicam",
+          "BBDO"
+        ],
+        "answer": "Doyle Dane Bernbach"
+      },
+      {
+        "question": "Which pop star performed McDonald's \"I'm Lovin' It\" jingle?",
+        "options": [
+          "Justin Timberlake",
+          "Usher",
+          "Pharrell Williams"
+        ],
+        "answer": "Justin Timberlake"
+      },
+      {
+        "question": "Which company introduced the global tagline \"Open Happiness\"?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "Dr Pepper"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which year saw Coca-Cola roll out \"Taste the Feeling\" globally?",
+        "options": [
+          "2016",
+          "2010",
+          "2008"
+        ],
+        "answer": "2016"
+      },
+      {
+        "question": "Which airline used the line \"We Try Harder\" to reposition after being second?",
+        "options": [
+          "Avis",
+          "Hertz",
+          "National"
+        ],
+        "answer": "Avis"
+      },
+      {
+        "question": "Which ad campaign introduced the line \"The Quicker Picker Upper\" for paper towels?",
+        "options": [
+          "Bounty campaign",
+          "Brawny campaign",
+          "Scott campaign"
+        ],
+        "answer": "Bounty campaign"
+      },
+      {
+        "question": "Which brand used \"The Ultimate Driving Machine\" to emphasize performance?",
+        "options": [
+          "BMW",
+          "Mercedes-Benz",
+          "Lexus"
+        ],
+        "answer": "BMW"
+      },
+      {
+        "question": "Which retailer launched the slogan \"Expect More. Pay Less.\"?",
+        "options": [
+          "Target",
+          "Kmart",
+          "Sears"
+        ],
+        "answer": "Target"
+      },
+      {
+        "question": "Which chocolate brand asks consumers about feeling rather than ingredients with its slogan?",
+        "options": [
+          "Hershey's",
+          "KitKat",
+          "M&M's"
+        ],
+        "answer": "M&M's"
+      },
+      {
+        "question": "Which beverage brand once used the classic line \"The Pause That Refreshes\"?",
+        "options": [
+          "Coca-Cola",
+          "Pepsi",
+          "7-Up"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which brand's campaign uses the phrase \"Priceless\" with emotional moments?",
+        "options": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "answer": "Mastercard"
+      },
+      {
+        "question": "Which advertising agency created Apple’s \"Think Different\" campaign?",
+        "options": [
+          "TBWA\\Chiat\\Day",
+          "Ogilvy",
+          "Leo Burnett"
+        ],
+        "answer": "TBWA\\Chiat\\Day"
+      },
+      {
+        "question": "Which snack brand used the phrase \"Betcha can't eat just one\"?",
+        "options": [
+          "Lays",
+          "Doritos",
+          "Pringles"
+        ],
+        "answer": "Lays"
+      },
+      {
+        "question": "Which cosmetics slogan began as a message about self-worth in the 1970s?",
+        "options": [
+          "Because You're Worth It",
+          "Finger Lickin' Good",
+          "The Quicker Picker Upper"
+        ],
+        "answer": "Because You're Worth It"
+      },
+      {
+        "question": "Which marketing brief inspired the \"Got Milk?\" question-and-sticker approach?",
+        "options": [
+          "Promote milk consumption",
+          "Sell flavored milk",
+          "Replace soda sales"
+        ],
+        "answer": "Promote milk consumption"
+      },
+      {
+        "question": "Which company used a celebrity-spun jingle to globalize a single-line tagline in 2003?",
+        "options": [
+          "McDonald's",
+          "Burger King",
+          "KFC"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which auto slogan means \"advancement through technology\" in English?",
+        "options": [
+          "Vorsprung durch Technik",
+          "Sicherheit durch Leistung",
+          "Fahrfreude durch Design"
+        ],
+        "answer": "Vorsprung durch Technik"
+      },
+      {
+        "question": "Which advertising line linked breakfast cereal to sports champions?",
+        "options": [
+          "Breakfast of Champions",
+          "Fuel for Winners",
+          "Starts Winners"
+        ],
+        "answer": "Breakfast of Champions"
+      },
+      {
+        "question": "Which brand used the slogan emphasizing personal choice: \"Have It Your Way\"?",
+        "options": [
+          "Burger King",
+          "Wendy's",
+          "McDonald's"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which home product used a superlative slogan claiming quick cleanup superiority?",
+        "options": [
+          "Bounty",
+          "Swiffer",
+          "Mr. Clean"
+        ],
+        "answer": "Bounty"
+      },
+      {
+        "question": "Which fragrance campaign used a humorous spoken-word tagline aimed at female influencers?",
+        "options": [
+          "The Man Your Man Could Smell Like",
+          "Because You're Worth It",
+          "Once you pop..."
+        ],
+        "answer": "The Man Your Man Could Smell Like"
+      },
+      {
+        "question": "Which global brand revived a classic name with the tagline \"Taste the Feeling\" in 2016?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "Dr Pepper"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which motto did State Farm popularize about neighborly protection?",
+        "options": [
+          "Like a good neighbor, State Farm is there",
+          "You're in good hands",
+          "We know money"
+        ],
+        "answer": "Like a good neighbor, State Farm is there"
+      },
+      {
+        "question": "Which brand's tagline stressed product function with a clever onomatopoeic line about a clock?",
+        "options": [
+          "Rolls-Royce ad line",
+          "Cadillac ad line",
+          "Bentley ad line"
+        ],
+        "answer": "Rolls-Royce ad line"
+      },
+      {
+        "question": "Which brand famously used a line promising reliability for urgent deliveries?",
+        "options": [
+          "FedEx",
+          "UPS",
+          "DHL"
+        ],
+        "answer": "FedEx"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Whose last words inspired Dan Wieden to coin \"Just Do It\" for Nike?",
+        "options": [
+          "Ted Bundy",
+          "Gary Gilmore",
+          "John Hinckley"
+        ],
+        "answer": "Gary Gilmore"
+      },
+      {
+        "question": "Which copywriter at N. W. Ayer created \"A diamond is forever\"?",
+        "options": [
+          "Frances Gerety",
+          "Bill Bernbach",
+          "Rosser Reeves"
+        ],
+        "answer": "Frances Gerety"
+      },
+      {
+        "question": "Which agency developed Apple's iconic \"Think Different\" creative direction?",
+        "options": [
+          "TBWA\\Chiat\\Day",
+          "BBDO",
+          "J. Walter Thompson"
+        ],
+        "answer": "TBWA\\Chiat\\Day"
+      },
+      {
+        "question": "Which firm created the original \"Got Milk?\" ads for California producers?",
+        "options": [
+          "Goodby Silverstein & Partners",
+          "Ogilvy",
+          "McCann Erickson"
+        ],
+        "answer": "Goodby Silverstein & Partners"
+      },
+      {
+        "question": "Which brand paused the slogan \"Finger Lickin' Good\" during the COVID-19 pandemic?",
+        "options": [
+          "KFC",
+          "Popeyes",
+          "Chick-fil-A"
+        ],
+        "answer": "KFC"
+      },
+      {
+        "question": "Which 1959 campaign is credited with revolutionizing modern print advertising for Volkswagen?",
+        "options": [
+          "Think Small",
+          "Lemon Campaign",
+          "Drivers Wanted"
+        ],
+        "answer": "Think Small"
+      },
+      {
+        "question": "Which copywriter famously wrote the Rolls-Royce line about the loudest noise being the electric clock?",
+        "options": [
+          "David Ogilvy",
+          "John Watson",
+          "Howard Gossage"
+        ],
+        "answer": "David Ogilvy"
+      },
+      {
+        "question": "Which slogan helped transform diamond engagement norms worldwide after 1947?",
+        "options": [
+          "A diamond is forever",
+          "Diamonds are for everyone",
+          "Forever diamonds"
+        ],
+        "answer": "A diamond is forever"
+      },
+      {
+        "question": "Which agency created Avis's strategic \"We Try Harder\" repositioning?",
+        "options": [
+          "Doyle Dane Bernbach",
+          "Young & Rubicam",
+          "Leo Burnett"
+        ],
+        "answer": "Doyle Dane Bernbach"
+      },
+      {
+        "question": "Which advertising line did Justin Timberlake help popularize as a jingle?",
+        "options": [
+          "I'm Lovin' It",
+          "Open Happiness",
+          "Live For Now"
+        ],
+        "answer": "I'm Lovin' It"
+      },
+      {
+        "question": "Which slogan launched in 1993 as a question to boost milk consumption?",
+        "options": [
+          "Got Milk?",
+          "Milk Matters?",
+          "Need Milk?"
+        ],
+        "answer": "Got Milk?"
+      },
+      {
+        "question": "Which campaign is often cited as one of the greatest US ad campaigns of the 20th century?",
+        "options": [
+          "Think Small (Volkswagen)",
+          "Open Happiness (Coca-Cola)",
+          "Eat Fresh (Subway)"
+        ],
+        "answer": "Think Small (Volkswagen)"
+      },
+      {
+        "question": "Which famous tagline began as a single-sentence headline in a 1958 print ad?",
+        "options": [
+          "At 60 miles an hour the loudest noise...",
+          "The Pause That Refreshes",
+          "A Diamond Is Forever"
+        ],
+        "answer": "At 60 miles an hour the loudest noise..."
+      },
+      {
+        "question": "Which slogan is considered one of the longest-running brand taglines in luxury advertising?",
+        "options": [
+          "A diamond is forever",
+          "The Ultimate Driving Machine",
+          "Because You're Worth It"
+        ],
+        "answer": "A diamond is forever"
+      },
+      {
+        "question": "Which brand used a celebrity-recorded pop jingle to globalize a tagline in 2003?",
+        "options": [
+          "McDonald's",
+          "Coca-Cola",
+          "Pepsi"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which advertising campaign used self-deprecating honesty to reframe a #2 brand?",
+        "options": [
+          "We Try Harder (Avis)",
+          "Like a Good Neighbor (State Farm)",
+          "Have It Your Way (Burger King)"
+        ],
+        "answer": "We Try Harder (Avis)"
+      },
+      {
+        "question": "Which brand's slogan translates roughly as \"Progress through Technology\"?",
+        "options": [
+          "Vorsprung durch Technik (Audi)",
+          "Viva la Tecnologia (Fiat)",
+          "Ingenium per Technica (BMW)"
+        ],
+        "answer": "Vorsprung durch Technik (Audi)"
+      },
+      {
+        "question": "Which copywriter's 1947 line for De Beers shifted consumer behavior globally?",
+        "options": [
+          "Frances Gerety",
+          "Rosser Reeves",
+          "Leo Burnett"
+        ],
+        "answer": "Frances Gerety"
+      },
+      {
+        "question": "Which campaign used a two-word slogan to reposition a tech company against established rivals?",
+        "options": [
+          "Think Different (Apple)",
+          "Just Do It (Nike)",
+          "Eat Fresh (Subway)"
+        ],
+        "answer": "Think Different (Apple)"
+      },
+      {
+        "question": "Which television advertising era saw the rise of short, repeatable taglines tied to jingles?",
+        "options": [
+          "1960s–1980s",
+          "1920s–1940s",
+          "2000s–2020s"
+        ],
+        "answer": "1960s–1980s"
+      },
+      {
+        "question": "Which slogan's origin story involves a copywriter reacting to a client brief about desire and worth?",
+        "options": [
+          "Because You're Worth It",
+          "A diamond is forever",
+          "Melts in your mouth, not in your hands"
+        ],
+        "answer": "Because You're Worth It"
+      },
+      {
+        "question": "Which brand used a slogan asserting its product's emotional value beyond price with \"Priceless\"?",
+        "options": [
+          "Mastercard",
+          "Visa",
+          "American Express"
+        ],
+        "answer": "Mastercard"
+      },
+      {
+        "question": "Which 20th-century campaign used modest, self-effacing copy to challenge typical boastful ads?",
+        "options": [
+          "Think Small (Volkswagen)",
+          "Just Do It (Nike)",
+          "Open Happiness (Coca-Cola)"
+        ],
+        "answer": "Think Small (Volkswagen)"
+      },
+      {
+        "question": "Which famous tagline was created by an agency to capitalize on being second in market share?",
+        "options": [
+          "We Try Harder (Avis)",
+          "Have It Your Way (Burger King)",
+          "Open Happiness (Coca-Cola)"
+        ],
+        "answer": "We Try Harder (Avis)"
+      },
+      {
+        "question": "Which slogan was central to a campaign that used minimalist art direction and conversational headlines?",
+        "options": [
+          "Think Small (Volkswagen)",
+          "Taste the Feeling (Coca-Cola)",
+          "The Man Your Man Could Smell Like (Old Spice)"
+        ],
+        "answer": "Think Small (Volkswagen)"
+      },
+      {
+        "question": "Which slogan once ran as a series linking moments of family life to product utility and emotion?",
+        "options": [
+          "Taste the Feeling (Coca-Cola)",
+          "We Try Harder (Avis)",
+          "Priceless (Mastercard)"
+        ],
+        "answer": "Taste the Feeling (Coca-Cola)"
+      },
+      {
+        "question": "Which company's tagline has been periodically refreshed but retains the original core idea since 1973?",
+        "options": [
+          "Because You're Worth It (L'Oréal)",
+          "Just Do It (Nike)",
+          "Have It Your Way (Burger King)"
+        ],
+        "answer": "Because You're Worth It (L'Oréal)"
+      },
+      {
+        "question": "Which slogan's backstory involves a major ad agency creative team and set new creative standards?",
+        "options": [
+          "Think Small (Volkswagen)",
+          "Once you pop, you can't stop (Pringles)",
+          "Obey Your Thirst (Sprite)"
+        ],
+        "answer": "Think Small (Volkswagen)"
+      }
+    ]
+  }
+}

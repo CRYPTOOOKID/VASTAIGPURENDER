@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is the largest river island in India?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which river is historically nicknamed the 'Sorrow of Bengal' for its floods?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which tributary is the largest left-bank tributary of the Ganga by discharge?"
+    },
+    {
+      "question_id": 4,
+      "question": "Where do the Bhagirathi and Alaknanda join to officially form the Ganga?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which river originates near Amarkantak along with the Narmada?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian river carries one of the highest sediment loads due to Himalayan erosion?"
+    },
+    {
+      "question_id": 7,
+      "question": "Where does the Ganges originate?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which river originates in Manipur and continues as the Surma in Bangladesh?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which river in Goa is paired with the Mandovi as a major waterway for the state?"
+    },
+    {
+      "question_id": 10,
+      "question": "Where does the Yamuna originate?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river's delta is famed for the 'Konaseema' region in Andhra Pradesh?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river originates at Trimbakeshwar in Maharashtra?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which great river flows across Assam and Bangladesh causing regular floods?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which river flows through Srinagar in the Kashmir Valley?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river formed the deep ravines associated with Chambal dacoits in central India?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is diversification in investing?",
+      "options": [
+        "Spreading investments across assets to reduce risk",
+        "Putting all money into one promising company",
+        "Trading frequently to chase short-term gains"
+      ],
+      "answer": "Spreading investments across assets to reduce risk"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a trailing stop order primarily used to do?",
+      "options": [
+        "Protect gains by moving stop price with market",
+        "Guarantee a trade at a specific future time",
+        "Increase leverage automatically when price falls"
+      ],
+      "answer": "Protect gains by moving stop price with market"
+    },
+    {
+      "question_id": 3,
+      "question": "Which asset class historically offered the highest long-term nominal returns among stocks, bonds, and cash?",
+      "options": [
+        "Stocks",
+        "Cash equivalents",
+        "Government bonds"
+      ],
+      "answer": "Stocks"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a mutual fund?",
+      "options": [
+        "A pooled investment vehicle managed by professionals",
+        "An individual savings account for emergency funds",
+        "A government-guaranteed retirement plan"
+      ],
+      "answer": "A pooled investment vehicle managed by professionals"
+    },
+    {
+      "question_id": 5,
+      "question": "Which financial instrument pools mortgages into tradable securities?",
+      "options": [
+        "Mortgage-backed securities",
+        "Treasury inflation-protected securities",
+        "Convertible bonds"
+      ],
+      "answer": "Mortgage-backed securities"
+    },
+    {
+      "question_id": 6,
+      "question": "Which accounting measure adjusts reported earnings for nonrecurring items to assess true performance?",
+      "options": [
+        "Normalized earnings",
+        "Gross profit",
+        "Depreciation schedule"
+      ],
+      "answer": "Normalized earnings"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a bond in basic terms?",
+      "options": [
+        "A loan investors give to issuers for interest",
+        "An ownership share in a private company",
+        "A short-term speculative stock position"
+      ],
+      "answer": "A loan investors give to issuers for interest"
+    },
+    {
+      "question_id": 8,
+      "question": "What does a company's price-to-earnings (P/E) ratio compare?",
+      "options": [
+        "Share price to earnings per share",
+        "Market cap to total assets",
+        "Dividend yield to interest rates"
+      ],
+      "answer": "Share price to earnings per share"
+    },
+    {
+      "question_id": 9,
+      "question": "Which benchmark did Apple first surpass to become first U.S. public company reaching $1 trillion market cap?",
+      "options": [
+        "It reached $1 trillion market capitalization first",
+        "It reached $2 trillion market capitalization first",
+        "It led the Russell 2000 composition changes"
+      ],
+      "answer": "It reached $1 trillion market capitalization first"
+    },
+    {
+      "question_id": 10,
+      "question": "What is an exchange-traded fund (ETF)?",
+      "options": [
+        "A fund traded like a stock on an exchange",
+        "A private fund with no public trading",
+        "A type of corporate bond issued by funds"
+      ],
+      "answer": "A fund traded like a stock on an exchange"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a lock-up period after an IPO?",
+      "options": [
+        "Time insiders cannot sell shares post-IPO",
+        "Mandatory audit period for new public companies",
+        "Window for public to subscribe to additional shares"
+      ],
+      "answer": "Time insiders cannot sell shares post-IPO"
+    },
+    {
+      "question_id": 12,
+      "question": "Which corporate action reduces outstanding shares and increases per-share metrics?",
+      "options": [
+        "Reverse stock split",
+        "Forward stock split",
+        "Equity dilution"
+      ],
+      "answer": "Reverse stock split"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a brokerage account used for?",
+      "options": [
+        "Buying and selling securities like stocks and bonds",
+        "Holding only cash with no investment options",
+        "Registering trademarks and patents"
+      ],
+      "answer": "Buying and selling securities like stocks and bonds"
+    },
+    {
+      "question_id": 14,
+      "question": "Which valuation method focuses on projecting future cash flows discounted to present?",
+      "options": [
+        "Discounted cash flow valuation",
+        "Comparative peer counting",
+        "Net income smoothing"
+      ],
+      "answer": "Discounted cash flow valuation"
+    },
+    {
+      "question_id": 15,
+      "question": "Which market structure fee model compensates liquidity providers upon execution?",
+      "options": [
+        "Maker-taker pricing",
+        "Flat per-trade fee",
+        "Volume-weighted rebate"
+      ],
+      "answer": "Maker-taker pricing"
+    }
+  ]
+}

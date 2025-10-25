@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which 1994 drama film starred Tim Robbins and Morgan Freeman set in prison?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which device introduced in 1999 popularized MP3 portable music players commercially?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 1991 video by Michael Jackson received controversy and heavy rotation on music channels?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which 1994 animated film follows a lion cub named Simba?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which British girl group topped global charts with 'Wannabe' in 1996?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1993 legal drama film about a major sports team featured Al Pacino in 1996 actually?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which company released the consumer hit operating system Windows 95?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which browser introduced by Netscape sparked the 'browser wars' in the 1990s?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1990s TV show set in Seattle mixed legal drama and supernatural elements in a cult episode?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which video rental chain dominated weekend movie rentals in the 1990s?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which film won the Academy Award for Best Picture in 1998?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1990s American sitcom episode featured a supermodel cameo that boosted ratings dramatically?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which British pop group had global hits including 'Wannabe' in the 1990s?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which music channel launched MTV's alternative music block '120 Minutes' to spotlight new bands?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1997 album by Radiohead is noted for shifting from rock to experimental electronic textures?"
+    }
+  ]
+}

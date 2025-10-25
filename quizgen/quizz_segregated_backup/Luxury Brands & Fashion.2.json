@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which house created the quilted 2.55 handbag?",
+      "options": [
+        "Chanel",
+        "Louis Vuitton",
+        "Dior"
+      ],
+      "answer": "Chanel"
+    },
+    {
+      "question_id": 2,
+      "question": "Which creative director introduced flamboyant maximalism at Gucci beginning 2015?",
+      "options": [
+        "Alessandro Michele",
+        "Tom Ford",
+        "Frida Giannini"
+      ],
+      "answer": "Alessandro Michele"
+    },
+    {
+      "question_id": 3,
+      "question": "Which luxury house's logo features a double-T inspired by the founder's name and equestrian heritage?",
+      "options": [
+        "Tory Burch",
+        "Tod's",
+        "Trussardi"
+      ],
+      "answer": "Tory Burch"
+    },
+    {
+      "question_id": 4,
+      "question": "Which label popularized durable nylon backpacks in luxury fashion?",
+      "options": [
+        "Prada",
+        "Bottega Veneta",
+        "Chloé"
+      ],
+      "answer": "Prada"
+    },
+    {
+      "question_id": 5,
+      "question": "Which luxury conglomerate owns brands including Louis Vuitton and Dior?",
+      "options": [
+        "LVMH",
+        "Kering",
+        "Richemont"
+      ],
+      "answer": "LVMH"
+    },
+    {
+      "question_id": 6,
+      "question": "Which brand historically used a house code of 'Made in Italy' versus 'Made in France' to signal origin?",
+      "options": [
+        "Prada",
+        "Chanel",
+        "Cartier"
+      ],
+      "answer": "Prada"
+    },
+    {
+      "question_id": 7,
+      "question": "Which jeweler is known for the iconic panther motif?",
+      "options": [
+        "Cartier",
+        "Tiffany & Co.",
+        "Bulgari"
+      ],
+      "answer": "Cartier"
+    },
+    {
+      "question_id": 8,
+      "question": "Which luxury label established a famous leather weaving called intrecciato?",
+      "options": [
+        "Bottega Veneta",
+        "Tod's",
+        "Valentino"
+      ],
+      "answer": "Bottega Veneta"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Italian leather atelier founded in 1892 became famous for its house technique and monogram G?",
+      "options": [
+        "Gucci",
+        "Prada",
+        "Salvatore Ferragamo"
+      ],
+      "answer": "Gucci"
+    },
+    {
+      "question_id": 10,
+      "question": "Which pattern is most associated with Burberry?",
+      "options": [
+        "Tartan check",
+        "Polka dot",
+        "Chevron stripe"
+      ],
+      "answer": "Tartan check"
+    },
+    {
+      "question_id": 11,
+      "question": "Which brand created the classic Vara bow pump and is known for Italian craftsmanship?",
+      "options": [
+        "Salvatore Ferragamo",
+        "Jimmy Choo",
+        "Christian Louboutin"
+      ],
+      "answer": "Salvatore Ferragamo"
+    },
+    {
+      "question_id": 12,
+      "question": "Which French perfumer created Chanel No.5 for Coco Chanel in 1921?",
+      "options": [
+        "Ernest Beaux",
+        "François Demachy",
+        "Jacques Polge"
+      ],
+      "answer": "Ernest Beaux"
+    },
+    {
+      "question_id": 13,
+      "question": "Which brand was founded by Cristóbal Balenciaga?",
+      "options": [
+        "Balenciaga",
+        "Loewe",
+        "Céline"
+      ],
+      "answer": "Balenciaga"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Yves Saint Laurent introduce the women's tuxedo 'Le Smoking'?",
+      "options": [
+        "1966",
+        "1958",
+        "1972"
+      ],
+      "answer": "1966"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fashion house staged the Metropolitan Museum exhibition 'Savage Beauty' in 2011?",
+      "options": [
+        "Alexander McQueen",
+        "Givenchy",
+        "Chanel"
+      ],
+      "answer": "Alexander McQueen"
+    }
+  ]
+}

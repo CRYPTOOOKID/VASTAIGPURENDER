@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which device records and plays sound using mechanical grooves on a disc?",
+      "options": [
+        "MP3 player",
+        "Compact cassette",
+        "Gramophone"
+      ],
+      "answer": "Gramophone"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention simplified sewing for home users by automating the lockstitch mechanism?",
+      "options": [
+        "Embroidery machine",
+        "Hand needle",
+        "Sewing machine"
+      ],
+      "answer": "Sewing machine"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention's original patent drawing depicted a practical inkjet printing method in the 19th century?",
+      "options": [
+        "Dot matrix printer",
+        "Continuous inkjet",
+        "Lithographic press"
+      ],
+      "answer": "Continuous inkjet"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention stores and plays back visual images on a screen using electronic signals?",
+      "options": [
+        "Television",
+        "Radio",
+        "Projector"
+      ],
+      "answer": "Television"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention combined moving pictures with synchronized sound for commercial films in 1927?",
+      "options": [
+        "Color film",
+        "Talkies",
+        "CinemaScope"
+      ],
+      "answer": "Talkies"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention's early prototype used a 'cat's whisker' junction to demodulate radio signals?",
+      "options": [
+        "Crystal radio",
+        "Thermionic valve",
+        "Superheterodyne receiver"
+      ],
+      "answer": "Crystal radio"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention revolutionized food preservation by rapidly cooling and freezing perishable items?",
+      "options": [
+        "Dehydrator",
+        "Oven",
+        "Refrigerator"
+      ],
+      "answer": "Refrigerator"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention enabled mass transit across cities using electric traction on rails?",
+      "options": [
+        "Horsecar",
+        "Electric tram",
+        "Petrol bus"
+      ],
+      "answer": "Electric tram"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention used the Gaudí-inspired parabolic arch principles to improve structural efficiency in bridges?",
+      "options": [
+        "Cantilever bridge",
+        "Beam bridge",
+        "Arch bridge"
+      ],
+      "answer": "Arch bridge"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention lets users send written messages instantly over long distances using the internet?",
+      "options": [
+        "Email",
+        "Telegraph",
+        "Postal mail"
+      ],
+      "answer": "Email"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention's patent by Alexander Graham Bell in 1876 transformed voice communication?",
+      "options": [
+        "Telephone",
+        "Telegraph",
+        "Phonograph"
+      ],
+      "answer": "Telephone"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention introduced the first widely adopted non-volatile flash memory for solid-state storage?",
+      "options": [
+        "Magnetic core memory",
+        "Flash memory",
+        "EEPROM"
+      ],
+      "answer": "Flash memory"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention lets people travel quickly above ground along fixed rails?",
+      "options": [
+        "Ship",
+        "Car",
+        "Train"
+      ],
+      "answer": "Train"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention mechanized the separation of cotton fibers from seeds, boosting textile production?",
+      "options": [
+        "Loom",
+        "Cotton gin",
+        "Spinning jenny"
+      ],
+      "answer": "Cotton gin"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention popularized the TCP/IP suite for scalable internetworking in the early 1980s?",
+      "options": [
+        "Token ring",
+        "Proprietary LAN",
+        "ARPANET"
+      ],
+      "answer": "ARPANET"
+    }
+  ]
+}

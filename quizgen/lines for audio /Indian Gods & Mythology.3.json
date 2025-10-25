@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which goddess is associated with knowledge, music, and learning?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which divine couple represents wealth and auspiciousness and are worshipped together?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which goddess presides over the Sri Vidya tradition and is worshipped through the Sri Chakra?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which avatar of Vishnu is the fish who saved sages during a great flood?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which goddess is invoked in marriages for marital bliss and household prosperity?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare form of Shiva merges with Vishnu as Harihara in South Indian iconography?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which god is associated with fire and is invoked in Vedic rituals?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which goddess's nine-night festival celebrates her different manifestations across India?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Shaivite tradition reveres the 63 Nayanar saints in Tamil devotional literature?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which mountain is considered Shiva's abode in Hindu tradition?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is the primary antagonist king in the Ramayana who abducted Sita?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare Krishna form is the eight-armed warrior 'Shamana Krishna' in some texts?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which god is commonly depicted with a trident and matted hair?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which god presides over death and the cycle of rebirth in Hindu thought?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which weapon did Brahma grant to Rama in some regional retellings of Ramayana?"
+    }
+  ]
+}

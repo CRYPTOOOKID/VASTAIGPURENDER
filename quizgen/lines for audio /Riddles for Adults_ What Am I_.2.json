@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which voice is most commonly used in \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which editing step improves clarity of a \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which linguistic feature do many expert-level riddles exploit?"
+    },
+    {
+      "question_id": 4,
+      "question": "What skill improves with practicing \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes a riddle relying on double meanings of a single word?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced cognitive load concern should riddle designers manage?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the typical format of a \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 8,
+      "question": "When a riddle describes \"I go up and down but never move,\" what is the answer?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which cognitive phenomenon explains why groups often solve riddles faster than individuals?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which environment often features \"What am I?\" riddles for adults?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which cognitive skill is most exercised by complex \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which stylistic choice enriches layered adult riddles?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a safe content guideline for adult \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 14,
+      "question": "What answer fits: \"I am lighter than what I am made of, yet I can sink ships\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I have a neck but no head, two arms but no hands\"?"
+    }
+  ]
+}

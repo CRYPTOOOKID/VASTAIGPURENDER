@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who led the Indian National Army (INA) during World War II?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Act governs representation and conduct of elections in India?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which judgment constrained arbitrary dismissal of state governments using Article 356?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who served as India’s first Home Minister after independence?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who was India’s Prime Minister when Mandal Commission recommendations were implemented?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian leader served as both Vice President and later as President beginning 1967?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who was India’s first woman Prime Minister?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which political formation emerged as the Janata Party in 1977?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who was the first Chief Justice of India to head a Constitution Review Committee?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which constitutional amendment added Fundamental Duties in India?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which commission recommended reorganization of states on linguistic lines?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian Prime Minister advocated 'Look East' foreign policy in the 1990s?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which volunteer organization influenced the ideological base of the BJP?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Article empowers the President to impose President's Rule in a state?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major 1975–77 event led to significant constitutional and political debate?"
+    }
+  ]
+}

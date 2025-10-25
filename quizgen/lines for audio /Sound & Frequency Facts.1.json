@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an echo in acoustic terms?"
+    },
+    {
+      "question_id": 2,
+      "question": "What approximate decibel range describes the threshold of pain?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the approximate speed of sound in seawater near 20°C?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which physical property of a sound wave is linked to amplitude?"
+    },
+    {
+      "question_id": 5,
+      "question": "What physical quantity describes sound power per unit area?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which deep-ocean channel traps sound for long-distance propagation?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common pet hears ultrasonic frequencies beyond human limits?"
+    },
+    {
+      "question_id": 8,
+      "question": "What name describes integer-multiple frequencies above a fundamental tone?"
+    },
+    {
+      "question_id": 9,
+      "question": "Where along the basilar membrane do high frequencies produce peak vibration?"
+    },
+    {
+      "question_id": 10,
+      "question": "What phenomenon transmits sound through air and other materials?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the frequency ratio of one equal-tempered semitone?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which weighting curve approximates human hearing sensitivity for environmental noise?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the standard concert pitch frequency for the note A4?"
+    },
+    {
+      "question_id": 14,
+      "question": "What mathematical method decomposes complex sounds into sine waves?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which tube type produces primarily odd harmonics and quarter-wave resonances?"
+    }
+  ]
+}

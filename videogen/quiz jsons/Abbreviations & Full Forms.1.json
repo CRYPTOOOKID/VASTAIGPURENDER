@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does BBC stand for?",
+      "options": [
+        "British Broadcasting Company",
+        "British Broadcasting Corporation",
+        "Broadcasting British Corporation"
+      ],
+      "answer": "British Broadcasting Corporation"
+    },
+    {
+      "question_id": 2,
+      "question": "What does WTO mean?",
+      "options": [
+        "Worldwide Trade Organization",
+        "World Trade Organization",
+        "World Trading Office"
+      ],
+      "answer": "World Trade Organization"
+    },
+    {
+      "question_id": 3,
+      "question": "What does AES refer to in encryption?",
+      "options": [
+        "Advanced Encrypted System",
+        "Advanced Encryption Standard",
+        "Asymmetric Encryption Standard"
+      ],
+      "answer": "Advanced Encryption Standard"
+    },
+    {
+      "question_id": 4,
+      "question": "What does ECG refer to in medicine?",
+      "options": [
+        "Electrocardiogram",
+        "Electrocardio Graph",
+        "Electro Cardiac Graph"
+      ],
+      "answer": "Electrocardiogram"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the full form of SQL in databases?",
+      "options": [
+        "Sequential Query Language",
+        "Standard Query Language",
+        "Structured Query Language"
+      ],
+      "answer": "Structured Query Language"
+    },
+    {
+      "question_id": 6,
+      "question": "What does SFTP expand to compared to FTP?",
+      "options": [
+        "Secure File Transfer Protocol",
+        "Socket File Transfer Protocol",
+        "SSH File Transfer Protocol"
+      ],
+      "answer": "SSH File Transfer Protocol"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the full form of MRI?",
+      "options": [
+        "Magnetic Resonance Instrument",
+        "Magnetic Resonance Imaging",
+        "Magneto Resonance Imaging"
+      ],
+      "answer": "Magnetic Resonance Imaging"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the full form of LASER?",
+      "options": [
+        "Light Amplifying System Emission Radiation",
+        "Light Amplification by Spontaneous Emission Radiation",
+        "Light Amplification by Stimulated Emission of Radiation"
+      ],
+      "answer": "Light Amplification by Stimulated Emission of Radiation"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the meaning of the acronym TLA?",
+      "options": [
+        "Typical Letter Acronym",
+        "Three-Level Abbreviation",
+        "Three-Letter Acronym"
+      ],
+      "answer": "Three-Letter Acronym"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the full form of HTTP?",
+      "options": [
+        "HyperText Transmission Protocol",
+        "Hyperlink Transfer Protocol",
+        "HyperText Transfer Protocol"
+      ],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "question_id": 11,
+      "question": "What does BIOS mean on startup screens?",
+      "options": [
+        "Basic Input/Output System",
+        "Binary Input/Output System",
+        "Basic Interface/Output System"
+      ],
+      "answer": "Basic Input/Output System"
+    },
+    {
+      "question_id": 12,
+      "question": "What do the letters KLM originally abbreviate in Dutch?",
+      "options": [
+        "Koninklijke Luchtvaart Maatschapp",
+        "Koninklijke Lucht Maatschappij",
+        "Koninklijke Luchtvaart Maatschappij"
+      ],
+      "answer": "Koninklijke Luchtvaart Maatschappij"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the full form of LED?",
+      "options": [
+        "Luminous Emitting Diode",
+        "Light Emitting Diode",
+        "Light Energy Device"
+      ],
+      "answer": "Light Emitting Diode"
+    },
+    {
+      "question_id": 14,
+      "question": "What does LIFO stand for in accounting?",
+      "options": [
+        "Late In, First Out",
+        "Last In, Final Out",
+        "Last In, First Out"
+      ],
+      "answer": "Last In, First Out"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the full form of LDAP?",
+      "options": [
+        "Lightweight Directory Access Protocol",
+        "Light Directory Access Process",
+        "Local Directory Access Protocol"
+      ],
+      "answer": "Lightweight Directory Access Protocol"
+    }
+  ]
+}

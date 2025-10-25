@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who directed the period sports drama Lagaan (2001)?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who directed the coming-of-age film Dil Chahta Hai (2001)?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Bollywood actor made a marked global crossover with a role in the Hollywood film xXx: Return of Xander Cage?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which actor played Jai in the classic film Sholay (1975)?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who won the National Film Award for Best Actress for Queen (2014)?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which playback singer became the trademark voice for many of Raj Kapoor's on-screen songs?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which 1987 film features the villain Mogambo and the famous line 'Mogambo khush hua'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which actor played Rahul in Kuch Kuch Hota Hai (1998)?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which actress won the National Film Award for Best Actress for her role in The Dirty Picture (2011)?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who was the female lead opposite Salman Khan in Hum Aapke Hain Koun..?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which 2001 Aamir Khan film received an Academy Award nomination for Best Foreign Language Film?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1973 film written by Salim-Javed launched Amitabh Bachchan's 'angry young man' persona?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which actress played Simran opposite Shah Rukh Khan in Dilwale Dulhania Le Jayenge?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which actor won widespread acclaim for his role in Paan Singh Tomar (2012)?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which film directed by Anurag Basu starred Ranbir Kapoor as a mute and deaf hero?"
+    }
+  ]
+}

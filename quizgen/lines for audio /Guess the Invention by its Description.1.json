@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention displays printed words by striking inked type onto paper keys?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention first made widespread indoor air cooling practical for buildings?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention introduced the MOSFET enabling modern transistor scaling in the 1960s?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention automates textile production by weaving yarn into fabric faster?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention introduced the concept of mass-produced, interchangeable parts in manufacturing?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention used adaptive optics to correct atmospheric distortion in large ground telescopes?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention allowed people to view moving pictures at home with recorded sound?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which early computing device used punch cards for programming and data input?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention incorporated the first practical use of H.264/AVC for high-efficiency video compression?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention transmits sound without wires using electromagnetic waves?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention converts rotational motion into linear motion in internal combustion engines?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention harnessed the Coandă effect in early jet engine designs to improve thrust control?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention provides breathable air at deep underwater depths for humans?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention allowed multiple telephone conversations over a single wire using frequency separation?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention's computational breakthrough relied on Fast Fourier Transform to accelerate spectral analysis?"
+    }
+  ]
+}

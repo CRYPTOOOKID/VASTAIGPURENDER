@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who wrote 'Sense and Sensibility'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who authored 'The Stranger' (L'étranger)?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'The Magic Mountain'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who wrote 'Brave New World'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote 'Siddhartha' (novel)?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote the Gothic novel 'The Mysteries of Udolpho'?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is the author of '1984'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote 'Rebecca'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is the author of 'The Red and the Black' (Le Rouge et le Noir)?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who wrote 'The Hobbit'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who wrote 'The Portrait of a Lady'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote 'The History of Tom Jones, a Foundling'?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who wrote 'A Tale of Two Cities'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'On the Road'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who authored 'The Three Musketeers'?"
+    }
+  ]
+}

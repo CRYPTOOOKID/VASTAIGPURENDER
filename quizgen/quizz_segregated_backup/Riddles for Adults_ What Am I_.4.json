@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a simple example of a \"What am I?\" riddle answer?",
+      "options": [
+        "A shadow",
+        "A continent",
+        "A programming language"
+      ],
+      "answer": "A shadow"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of these is a famous historical riddle style used by adults?",
+      "options": [
+        "A sphinx-like enigmatic question with layered clues",
+        "Tabloid headlines with no clues",
+        "Legal deposition transcripts"
+      ],
+      "answer": "A sphinx-like enigmatic question with layered clues"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced constraint increases a riddle's craft value?",
+      "options": [
+        "Using minimal words while preserving multiple interpretive layers",
+        "Adding long explanatory paragraphs",
+        "Using technical jargon only specialists know"
+      ],
+      "answer": "Using minimal words while preserving multiple interpretive layers"
+    },
+    {
+      "question_id": 4,
+      "question": "Which of these makes a riddle unfair?",
+      "options": [
+        "Using obscure knowledge inaccessible to general adults",
+        "Providing clear, solvable clues",
+        "Keeping clues concise"
+      ],
+      "answer": "Using obscure knowledge inaccessible to general adults"
+    },
+    {
+      "question_id": 5,
+      "question": "If a riddle says \"I have teeth but cannot bite,\" which fits best?",
+      "options": [
+        "A comb",
+        "A person with braces",
+        "A carnivorous plant"
+      ],
+      "answer": "A comb"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I turn once, what is out will not get in; I turn again, what is in will not get out\"?",
+      "options": [
+        "A key in a lock",
+        "A doorknob",
+        "A rotating wheel"
+      ],
+      "answer": "A key in a lock"
+    },
+    {
+      "question_id": 7,
+      "question": "How should answers be revealed in a casual riddle game?",
+      "options": [
+        "After reasonable guessing attempts or hints",
+        "Never revealed at all",
+        "Only after contestants pay a fee"
+      ],
+      "answer": "After reasonable guessing attempts or hints"
+    },
+    {
+      "question_id": 8,
+      "question": "Which of these is an example of a riddle using paradox to mislead?",
+      "options": [
+        "I am taken before you get it (a photograph)",
+        "I am eaten but never digested",
+        "I run but never walk"
+      ],
+      "answer": "I am taken before you get it (a photograph)"
+    },
+    {
+      "question_id": 9,
+      "question": "What answer fits: \"I shrink as you feed me but grow when ignored\"?",
+      "options": [
+        "A fire needs fuel and shrinks when fed with water (or a fire itself)",
+        "A bank account",
+        "A shadow"
+      ],
+      "answer": "A fire needs fuel and shrinks when fed with water (or a fire itself)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which topic is appropriate for adult \"What am I?\" riddles?",
+      "options": [
+        "Abstract concepts, everyday objects, or professions",
+        "Only nursery rhymes",
+        "Only scientific equations"
+      ],
+      "answer": "Abstract concepts, everyday objects, or professions"
+    },
+    {
+      "question_id": 11,
+      "question": "Which form of misdirection is subtler in adult riddles?",
+      "options": [
+        "Using a truthful but misleading description",
+        "Stating false facts directly",
+        "Using gibberish words"
+      ],
+      "answer": "Using a truthful but misleading description"
+    },
+    {
+      "question_id": 12,
+      "question": "Which meta-quality makes a riddle collection lasting for enthusiasts?",
+      "options": [
+        "Interplay of theme, escalating difficulty, and editorial curation",
+        "Random assortment with no curation",
+        "Only reprints of classics"
+      ],
+      "answer": "Interplay of theme, escalating difficulty, and editorial curation"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a classic analogy used in many \"What am I?\" riddles?",
+      "options": [
+        "I have keys but open no locks (a piano)",
+        "I have wings and breathe underwater",
+        "I travel through time physically"
+      ],
+      "answer": "I have keys but open no locks (a piano)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phrase best describes a riddle that deliberately misdirects readers?",
+      "options": [
+        "A red herring is intentionally placed",
+        "A literal handbook is provided",
+        "A direct instruction is given"
+      ],
+      "answer": "A red herring is intentionally placed"
+    },
+    {
+      "question_id": 15,
+      "question": "What historical use of riddles elevated social status in some cultures?",
+      "options": [
+        "Riddle mastery as part of scholarly or bardic reputation",
+        "Riddles as legal contracts",
+        "Riddles as currency"
+      ],
+      "answer": "Riddle mastery as part of scholarly or bardic reputation"
+    }
+  ]
+}

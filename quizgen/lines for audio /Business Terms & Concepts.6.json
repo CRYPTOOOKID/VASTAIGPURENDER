@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is customer acquisition cost (CAC)?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a patent designed to protect legally?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is an earnout structure used for in acquisitions?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a business's value proposition?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does a consolidated financial statement combine?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does 'barriers to entry' refer to in industry analysis?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a brand in business context?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does a convertible note provide to startup investors?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the Herfindahl-Hirschman Index measure for industries?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does diversification aim to reduce for investors or firms?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is activity-based costing designed to improve?"
+    },
+    {
+      "question_id": 12,
+      "question": "What does a contingent liability represent on corporate accounts?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does a staggered board structure attempt to achieve?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is RACI used for in project management governance?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the corporate purpose of an equity carve-out transaction?"
+    }
+  ]
+}

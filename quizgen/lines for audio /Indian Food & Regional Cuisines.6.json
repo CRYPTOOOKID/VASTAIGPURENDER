@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the Bengali dish 'macher jhol' commonly understood to be when served at meals?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Marathi festival sweet made from chana dal and jaggery is a traditional offering during religious ceremonies?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which spice mixture called 'panch phoron' is composed of five whole seeds commonly used in Bengali and Assamese cuisines?"
+    },
+    {
+      "question_id": 4,
+      "question": "What Mumbai street food consists of a potato fritter sandwiched inside a soft bun with chutney?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which coastal Maharashtrian sweet uses coconut, jaggery, and rice flour and is often steamed in banana leaves?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Portuguese dish name transformed into the Goan curry 'vindaloo' through local adaptation of flavors?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which traditional Indian clay oven is commonly used for making naan, tandoori chicken, and kebabs?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which South Indian sweet fermented rice pancake is thicker than dosa and often topped with onions and chilies?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Mughal emperor's patronage significantly shaped the development of rich gravies and kebab traditions in Indian courts?"
+    },
+    {
+      "question_id": 10,
+      "question": "What Indian condiment includes chutneys made from coconut, coriander, and tamarind served with snacks?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coastal Karnataka dish uses coconut, tamarind, and fish layered in a tangy, spiced curry called 'neer dosa' accompaniment?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient Indian treatise and travelogues cite early mentions of spiced rice and meat dishes that predate Mughal influence?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which souring fruit, commonly used in Konkani and Goan coastal cooking, gives a tart flavor to seafood curries?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which coastal fish variety historically shaped Bengali elite cuisine and inspired many regional festivals and cookbooks?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fermented soybean product from northeastern India is a staple umami ingredient in several tribal cuisines?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which musical movement is associated with bands like Nirvana and Pearl Jam?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which handheld digital pet sold by Bandai was first released in 1996 in some regions?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 1998 video game pioneered cinematic storytelling on the PlayStation with Resident Evil style?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which collectible stuffed-toy brand sparked a trading craze in the 1990s?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which American teen drama premiered in 1998 and starred Claire Danes?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1994 album by Jeff Buckley featured a renowned cover of Leonard Cohen's 'Hallelujah'?"
+    },
+    {
+      "question_id": 7,
+      "question": "What handheld virtual pet toy became a global craze in the mid-1990s?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which dance craze came with the 1996 hit 'Macarena' by Los del Río?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1997 science fiction film directed by Paul Verhoeven caused controversy for its visual style?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which interactive toy released in 1998 could speak and respond to users?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which handheld Nintendo system used a monochrome screen in the early 1990s?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1997 marketing campaign famously used a heart-shaped logo and the word 'I' for a city?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which 1997 film became the highest-grossing movie of that year worldwide?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which animated 1995 Pixar short accompanied Toy Story's theatrical release?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1990s cultural event is credited with accelerating mainstream web adoption and ecommerce?"
+    }
+  ]
+}

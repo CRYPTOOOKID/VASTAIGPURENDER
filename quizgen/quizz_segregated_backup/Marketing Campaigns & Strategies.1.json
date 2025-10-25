@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'CTR' help marketers evaluate?",
+      "options": [
+        "Ad relevance and engagement",
+        "Employee turnover",
+        "Wholesale supplier reliability"
+      ],
+      "answer": "Ad relevance and engagement"
+    },
+    {
+      "question_id": 2,
+      "question": "Which KPI is most useful for ecommerce campaign profitability?",
+      "options": [
+        "Return on ad spend (ROAS)",
+        "Social followers count",
+        "Number of press mentions"
+      ],
+      "answer": "Return on ad spend (ROAS)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which approach segments audiences using both behavioral and attitudinal signals?",
+      "options": [
+        "Hybrid personas combining quantitative and qualitative data",
+        "Demographic-only lists",
+        "Random audience buckets"
+      ],
+      "answer": "Hybrid personas combining quantitative and qualitative data"
+    },
+    {
+      "question_id": 4,
+      "question": "Which type of content helps build long-term organic traffic?",
+      "options": [
+        "Educational blog posts and guides",
+        "Expensive one-off video stunts",
+        "Internal policy documents"
+      ],
+      "answer": "Educational blog posts and guides"
+    },
+    {
+      "question_id": 5,
+      "question": "Which content strategy supports SEO and long-term organic growth?",
+      "options": [
+        "Pillar pages and topic clusters",
+        "Random short social posts",
+        "One-time press releases"
+      ],
+      "answer": "Pillar pages and topic clusters"
+    },
+    {
+      "question_id": 6,
+      "question": "Which contractual inventory access offers premium placements with private negotiation?",
+      "options": [
+        "Private marketplace (PMP) deals",
+        "Open exchange spot buying",
+        "Community bulletin boards"
+      ],
+      "answer": "Private marketplace (PMP) deals"
+    },
+    {
+      "question_id": 7,
+      "question": "What role does segmentation play in campaign strategy?",
+      "options": [
+        "Divides audience into groups for tailored messaging",
+        "Schedules campaign launch dates",
+        "Sets advertising budgets automatically"
+      ],
+      "answer": "Divides audience into groups for tailored messaging"
+    },
+    {
+      "question_id": 8,
+      "question": "Which tactic improves ad relevance by swapping creative elements dynamically?",
+      "options": [
+        "Dynamic creative optimization (DCO)",
+        "Static banner rotation",
+        "Manual email editing"
+      ],
+      "answer": "Dynamic creative optimization (DCO)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which model decomposes total sales into media and non-media contributors?",
+      "options": [
+        "Marketing mix modeling (MMM)",
+        "First-touch attribution",
+        "Lookalike modeling"
+      ],
+      "answer": "Marketing mix modeling (MMM)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which channel is considered 'paid' media in marketing?",
+      "options": [
+        "Display advertising bought on platforms",
+        "Company blog content",
+        "Organic social posts"
+      ],
+      "answer": "Display advertising bought on platforms"
+    },
+    {
+      "question_id": 11,
+      "question": "Which channel combines organic listing improvements with paid results on search pages?",
+      "options": [
+        "Search engine marketing plus SEO",
+        "Outdoor advertising",
+        "Direct mail and telemarketing"
+      ],
+      "answer": "Search engine marketing plus SEO"
+    },
+    {
+      "question_id": 12,
+      "question": "Which privacy-first tactic increases marketer control over customer relationships?",
+      "options": [
+        "Building first-party data platforms",
+        "Purchasing third-party audiences exclusively",
+        "Relying on proxy cookies"
+      ],
+      "answer": "Building first-party data platforms"
+    },
+    {
+      "question_id": 13,
+      "question": "Which basic KPI shows average revenue per customer over time?",
+      "options": [
+        "Customer lifetime value (CLV)",
+        "Bounce rate",
+        "Pageviews"
+      ],
+      "answer": "Customer lifetime value (CLV)"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a key advantage of programmatic advertising?",
+      "options": [
+        "Automated real-time media buying and targeting",
+        "Guaranteed manual placement in newspapers",
+        "Fixed long-term TV ad rates"
+      ],
+      "answer": "Automated real-time media buying and targeting"
+    },
+    {
+      "question_id": 15,
+      "question": "Which concept describes shifting media spend to maximize diminishing marginal returns?",
+      "options": [
+        "Diminishing marginal ROI and optimal budget allocation",
+        "Increasing spend indefinitely on top channels",
+        "Halting measurement of returns"
+      ],
+      "answer": "Diminishing marginal ROI and optimal budget allocation"
+    }
+  ]
+}

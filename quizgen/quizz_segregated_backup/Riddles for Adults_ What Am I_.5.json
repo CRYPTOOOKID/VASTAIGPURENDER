@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a common goal when solving a \"What am I?\" riddle?",
+      "options": [
+        "Identify the object, person, or concept described",
+        "Calculate a numerical value",
+        "Translate a foreign phrase"
+      ],
+      "answer": "Identify the object, person, or concept described"
+    },
+    {
+      "question_id": 2,
+      "question": "Which technique counters solver frustration during riddle games?",
+      "options": [
+        "Offer tiered hints progressively",
+        "Reveal the answer immediately",
+        "Exclude any hint mechanism"
+      ],
+      "answer": "Offer tiered hints progressively"
+    },
+    {
+      "question_id": 3,
+      "question": "Which design principle helps expert riddle creators avoid accidental ambiguity?",
+      "options": [
+        "Explicitly test for alternate plausible answers during editing",
+        "Assume single-minded clarity from first draft",
+        "Remove all metaphors"
+      ],
+      "answer": "Explicitly test for alternate plausible answers during editing"
+    },
+    {
+      "question_id": 4,
+      "question": "Which feature distinguishes adult \"What am I?\" riddles from children's riddles?",
+      "options": [
+        "More subtle wordplay and layered meanings",
+        "Only using animal characters",
+        "Always rhyming couplets"
+      ],
+      "answer": "More subtle wordplay and layered meanings"
+    },
+    {
+      "question_id": 5,
+      "question": "Which of these is a nuanced answer for \"I speak without a mouth and hear without ears\"?",
+      "options": [
+        "An echo",
+        "A person with headphones",
+        "A radio"
+      ],
+      "answer": "An echo"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I am heavy forward but light backward\"?",
+      "options": [
+        "The word 'ton' spelled backward is 'not'",
+        "A see-saw",
+        "A feather"
+      ],
+      "answer": "The word 'ton' spelled backward is 'not'"
+    },
+    {
+      "question_id": 7,
+      "question": "Which literary device is frequently used in \"What am I?\" riddles?",
+      "options": [
+        "Metaphor or personification",
+        "Chemical notation",
+        "Spreadsheet formulas"
+      ],
+      "answer": "Metaphor or personification"
+    },
+    {
+      "question_id": 8,
+      "question": "If a riddle mentions \"I am oft broken but rarely kept,\" which answer fits?",
+      "options": [
+        "A promise",
+        "A windowpane",
+        "A record"
+      ],
+      "answer": "A promise"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rhetorical risk can alienate sophisticated riddle audiences?",
+      "options": [
+        "Overly obscure specialist facts without broad anchors",
+        "Using common, solvable metaphors",
+        "Keeping the riddle short"
+      ],
+      "answer": "Overly obscure specialist facts without broad anchors"
+    },
+    {
+      "question_id": 10,
+      "question": "Which mood best fits an adult \"What am I?\" riddle session?",
+      "options": [
+        "Playful and intellectually curious",
+        "Solemn and funeral-like",
+        "Chaotic and dangerous"
+      ],
+      "answer": "Playful and intellectually curious"
+    },
+    {
+      "question_id": 11,
+      "question": "What type of adult riddle uses cultural references most effectively?",
+      "options": [
+        "Those referencing widely known literature, films, or idioms",
+        "Those using hyper-local slang unknown to most adults",
+        "Technical manuals"
+      ],
+      "answer": "Those referencing widely known literature, films, or idioms"
+    },
+    {
+      "question_id": 12,
+      "question": "Which feature elevates a riddle to 'classic' status among adults?",
+      "options": [
+        "Timelessness and repeat reveal that still surprises",
+        "Reliance on ephemeral memes",
+        "Use of proprietary technical terms"
+      ],
+      "answer": "Timelessness and repeat reveal that still surprises"
+    },
+    {
+      "question_id": 13,
+      "question": "Which of these is a non-literal clue often used?",
+      "options": [
+        "I die when I drink (a fire)",
+        "I weigh a ton and cannot be moved",
+        "I have a color that never changes"
+      ],
+      "answer": "I die when I drink (a fire)"
+    },
+    {
+      "question_id": 14,
+      "question": "When a riddle says \"I have a heart that doesn't beat,\" what answer fits best?",
+      "options": [
+        "An artichoke or an art object",
+        "A living mammal",
+        "A clock"
+      ],
+      "answer": "An artichoke or an art object"
+    },
+    {
+      "question_id": 15,
+      "question": "Which historical figure used riddles as part of philosophical teaching methods?",
+      "options": [
+        "Plato and other classical teachers using paradoxical questions",
+        "Isaac Newton writing nursery rhymes",
+        "Marie Curie composing riddles"
+      ],
+      "answer": "Plato and other classical teachers using paradoxical questions"
+    }
+  ]
+}

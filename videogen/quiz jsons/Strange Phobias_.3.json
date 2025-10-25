@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia means fear of youth or teenagers?",
+      "options": [
+        "Pediophobia",
+        "Gerontophobia",
+        "Ephebiphobia"
+      ],
+      "answer": "Ephebiphobia"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia describes fear of teeth or dental work beyond dental anxiety?",
+      "options": [
+        "Ablutophobia",
+        "Necrophobia",
+        "Dentophobia"
+      ],
+      "answer": "Dentophobia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia refers to fear of mirrors reflective of deeper identity concerns?",
+      "options": [
+        "Eisoptrophobia",
+        "Atychiphobia",
+        "Xenophobia"
+      ],
+      "answer": "Eisoptrophobia"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia is fear of the number 13 called?",
+      "options": [
+        "Octophobia",
+        "Hexakosioihexekontahexaphobia",
+        "Triskaidekaphobia"
+      ],
+      "answer": "Triskaidekaphobia"
+    },
+    {
+      "question_id": 5,
+      "question": "The term 'nomophobia' first appeared prominently in which source?",
+      "options": [
+        "A 19th-century medical text",
+        "The DSM-IV manual",
+        "A 2008 UK Post Office study"
+      ],
+      "answer": "A 2008 UK Post Office study"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare phobia involves fear of hair loss or baldness affecting social confidence?",
+      "options": [
+        "Peladophobia",
+        "Chirophobia",
+        "Ochlophobia"
+      ],
+      "answer": "Peladophobia"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia describes fear of being without access to the internet or phone connectivity?",
+      "options": [
+        "Nomophobia",
+        "Technophobia",
+        "Cyberphobia"
+      ],
+      "answer": "Nomophobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia is fear of swallowing or of food going down the throat?",
+      "options": [
+        "Aerophobia",
+        "Necrophobia",
+        "Phagophobia"
+      ],
+      "answer": "Phagophobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia name combines Greek words meaning 'bridges' and 'fear' referencing travel avoidance?",
+      "options": [
+        "Pogonophobia",
+        "Gephyrophobia",
+        "Ablutophobia"
+      ],
+      "answer": "Gephyrophobia"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia refers to fear of insects and is often misapplied to many 'strange' phobias?",
+      "options": [
+        "Thanatophobia",
+        "Chronophobia",
+        "Entomophobia"
+      ],
+      "answer": "Entomophobia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia name literally means 'fear of knives or sharp objects'?",
+      "options": [
+        "Aichmophobia",
+        "Xenophobia",
+        "Nyctophobia"
+      ],
+      "answer": "Aichmophobia"
+    },
+    {
+      "question_id": 12,
+      "question": "Who is credited with popularizing the humorous long-word phobia often cited in trivia?",
+      "options": [
+        "Language humorists and internet culture",
+        "B.F. Skinner",
+        "Sigmund Freud"
+      ],
+      "answer": "Language humorists and internet culture"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia is the fear of being without a mobile phone?",
+      "options": [
+        "Agoraphobia",
+        "Nomophobia",
+        "Technophobia"
+      ],
+      "answer": "Nomophobia"
+    },
+    {
+      "question_id": 14,
+      "question": "Which unusual phobia involves intense fear of belly buttons?",
+      "options": [
+        "Gynophobia",
+        "Bathmophobia",
+        "Omphalophobia"
+      ],
+      "answer": "Omphalophobia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fictional phobia claims a duck is secretly watching you in a single-panel cartoon?",
+      "options": [
+        "Anatidaephobia",
+        "Xenophobia",
+        "Chronophobia"
+      ],
+      "answer": "Anatidaephobia"
+    }
+  ]
+}

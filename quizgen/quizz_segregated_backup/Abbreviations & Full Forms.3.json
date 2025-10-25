@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the full form of AIDS?",
+      "options": [
+        "Acquired Immunodeficiency Syndrome",
+        "Autoimmune Immunodeficiency Syndrome",
+        "Acute Immune Deficiency Syndrome"
+      ],
+      "answer": "Acquired Immunodeficiency Syndrome"
+    },
+    {
+      "question_id": 2,
+      "question": "What does API stand for in software development?",
+      "options": [
+        "Application Programming Interface",
+        "Application Protocol Interface",
+        "Accessible Programming Interface"
+      ],
+      "answer": "Application Programming Interface"
+    },
+    {
+      "question_id": 3,
+      "question": "What does SNA represent in legacy IBM networking?",
+      "options": [
+        "Systems Network Architecture",
+        "System Network Application",
+        "Standard Network Architecture"
+      ],
+      "answer": "Systems Network Architecture"
+    },
+    {
+      "question_id": 4,
+      "question": "What does PIN stand for on bank cards?",
+      "options": [
+        "Personal Identification Number",
+        "Private Identification Number",
+        "Personal Identity Number"
+      ],
+      "answer": "Personal Identification Number"
+    },
+    {
+      "question_id": 5,
+      "question": "What is MPEG short for?",
+      "options": [
+        "Moving Picture Experts Group",
+        "Motion Picture Experts Group",
+        "Motion Photo Experts Group"
+      ],
+      "answer": "Moving Picture Experts Group"
+    },
+    {
+      "question_id": 6,
+      "question": "What official full form does ISO use?",
+      "options": [
+        "International Organization for Standardization",
+        "International Standards Organization",
+        "International Standardization Organization"
+      ],
+      "answer": "International Organization for Standardization"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the full form of FYI?",
+      "options": [
+        "For Your Information",
+        "For Your Interest",
+        "From Your Information"
+      ],
+      "answer": "For Your Information"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the full form of UNESCO?",
+      "options": [
+        "United Nations Educational, Scientific and Cultural Organization",
+        "United Nations Education, Science and Cultural Organization",
+        "United Nations Educational, Science and Cultural Office"
+      ],
+      "answer": "United Nations Educational, Scientific and Cultural Organization"
+    },
+    {
+      "question_id": 9,
+      "question": "What does MBR stand for on storage drives?",
+      "options": [
+        "Master Boot Record",
+        "Main Boot Registry",
+        "Master Boot Registry"
+      ],
+      "answer": "Master Boot Record"
+    },
+    {
+      "question_id": 10,
+      "question": "What does URL mean?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Resource Link"
+      ],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the full form of HDMI?",
+      "options": [
+        "High-Definition Multimedia Interface",
+        "High-Definition Media Interface",
+        "High Data Multimedia Interface"
+      ],
+      "answer": "High-Definition Multimedia Interface"
+    },
+    {
+      "question_id": 12,
+      "question": "What full form does GPT represent in partitioning?",
+      "options": [
+        "GUID Partition Table",
+        "Global Partition Table",
+        "Generic Partition Table"
+      ],
+      "answer": "GUID Partition Table"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the full form of PDF?",
+      "options": [
+        "Portable Document Format",
+        "Portable Data Format",
+        "Public Document Format"
+      ],
+      "answer": "Portable Document Format"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the full form of DNS?",
+      "options": [
+        "Domain Name System",
+        "Domain Name Service",
+        "Distributed Name System"
+      ],
+      "answer": "Domain Name System"
+    },
+    {
+      "question_id": 15,
+      "question": "What does BLOB stand for in databases?",
+      "options": [
+        "Binary Large Object",
+        "Binary Large Option",
+        "Basic Large Object"
+      ],
+      "answer": "Binary Large Object"
+    }
+  ]
+}

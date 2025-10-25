@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company popularized coworking and reached unicorn status before governance issues?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which fast-growing startup popularized the phrase \"growth at all costs\" as a cautionary tale?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which high-profile unicorn raised questions about dual-class share structures concentrating founder control?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is \"due diligence\" during startup investment?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which venture firm is known by the shorthand \"a16z\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which legal document formally outlines investor rights, board seats, and liquidation preferences in a venture deal?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which mapping and navigation company began as a startup and was acquired by Google in 2004?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which startup became a unicorn by offering office space as a flexible membership service?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which technology trend commonly underpins unicorns in infrastructure and enterprise over the last decade?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which popular home-sharing startup became a famous unicorn founded in 2008?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company acquired WhatsApp in 2014 for about $19 billion?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which prominent startup valuation term describes money invested divided by post-money valuation?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"MVP\" stand for in startup product development?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which instrument introduced by Y Combinator simplifies early-stage startup investment?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which legal mechanism gives founders/early employees rights to repurchase unvested shares at nominal price upon exit?"
+    }
+  ]
+}

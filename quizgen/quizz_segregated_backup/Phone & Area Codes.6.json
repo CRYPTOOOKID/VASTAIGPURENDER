@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a toll-free telephone number mean for the caller?",
+      "options": [
+        "The caller is not charged for the call",
+        "The caller pays a premium per minute",
+        "The caller must use a specific carrier"
+      ],
+      "answer": "The caller is not charged for the call"
+    },
+    {
+      "question_id": 2,
+      "question": "What term describes the practice of dividing one area code region into two or more codes?",
+      "options": [
+        "Area code split",
+        "Area code overlay",
+        "Area code pooling"
+      ],
+      "answer": "Area code split"
+    },
+    {
+      "question_id": 3,
+      "question": "Which North American area code was one of the original codes assigned to New York State in 1947?",
+      "options": [
+        "212",
+        "917",
+        "646"
+      ],
+      "answer": "212"
+    },
+    {
+      "question_id": 4,
+      "question": "Which area code is associated with Washington, D.C.?",
+      "options": [
+        "202",
+        "305",
+        "617"
+      ],
+      "answer": "202"
+    },
+    {
+      "question_id": 5,
+      "question": "In the NANP, what does NPA commonly refer to?",
+      "options": [
+        "Numbering Plan Area (area code)",
+        "National Phone Authority",
+        "Network Provider Access"
+      ],
+      "answer": "Numbering Plan Area (area code)"
+    },
+    {
+      "question_id": 6,
+      "question": "What technical approach allows different carriers to share a single geographic number range?",
+      "options": [
+        "Number pooling",
+        "Number spoofing",
+        "Number aggregation"
+      ],
+      "answer": "Number pooling"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the term \"overlay\" mean regarding area codes?",
+      "options": [
+        "Multiple area codes serve the same geographic region",
+        "An area code that covers an entire country",
+        "An area code reserved only for mobile phones"
+      ],
+      "answer": "Multiple area codes serve the same geographic region"
+    },
+    {
+      "question_id": 8,
+      "question": "What is number portability in telephony?",
+      "options": [
+        "Ability to keep a phone number when changing carriers",
+        "Ability to forward calls internationally for free",
+        "Ability to change an area code automatically"
+      ],
+      "answer": "Ability to keep a phone number when changing carriers"
+    },
+    {
+      "question_id": 9,
+      "question": "Which numbering plan uses a fixed country code of 1 for multiple countries and territories?",
+      "options": [
+        "NANP (North American Numbering Plan)",
+        "E.164 global plan",
+        "European Numbering Scheme"
+      ],
+      "answer": "NANP (North American Numbering Plan)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which area code is commonly associated with San Francisco, California?",
+      "options": [
+        "415",
+        "213",
+        "312"
+      ],
+      "answer": "415"
+    },
+    {
+      "question_id": 11,
+      "question": "Which area code is commonly associated with downtown Boston, Massachusetts?",
+      "options": [
+        "617",
+        "212",
+        "213"
+      ],
+      "answer": "617"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ITU recommendation defines country calling codes and number structure?",
+      "options": [
+        "E.164",
+        "Q.931",
+        "X.500"
+      ],
+      "answer": "E.164"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the principal reason vanity numbers map letters to digits?",
+      "options": [
+        "To make numbers memorable by spelling words on the keypad",
+        "To encrypt subscriber identity on public networks",
+        "To indicate premium billing levels"
+      ],
+      "answer": "To make numbers memorable by spelling words on the keypad"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the usual length of NPA-NXX (area code + central office) digits before subscriber number in NANP?",
+      "options": [
+        "6 digits",
+        "4 digits",
+        "8 digits"
+      ],
+      "answer": "6 digits"
+    },
+    {
+      "question_id": 15,
+      "question": "What is an LRN used for when routing a ported telephone number?",
+      "options": [
+        "It identifies the switch that currently serves the ported number",
+        "It authenticates subscriber identity for secure calls",
+        "It denotes the subscriber's billing account number"
+      ],
+      "answer": "It identifies the switch that currently serves the ported number"
+    }
+  ]
+}

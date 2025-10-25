@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which basic statistical measure gives the arithmetic average value of a dataset?"
+    },
+    {
+      "question_id": 2,
+      "question": "What phrase describes an estimated interval that likely contains the true population parameter at a stated confidence level?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical paradox demonstrates that aggregated data can display trends opposite to those in disaggregated subgroups?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which basic statistic identifies the value that occurs most frequently in a dataset?"
+    },
+    {
+      "question_id": 5,
+      "question": "What model evaluation technique repeatedly splits data into training and validation sets to estimate predictive performance?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which regularization method uses an L1 penalty to encourage sparse coefficient estimates in high-dimensional regression problems?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which symbol denotes per thousand, used occasionally in demographic and financial statistics?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistician formalized the Pearson correlation coefficient for measuring linear association between variables?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which class of algorithms generates samples from complex posterior distributions via random chains and transition kernels?"
+    },
+    {
+      "question_id": 10,
+      "question": "What term describes the complete set of individuals or items under study in a statistical investigation?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which regression technique models the probability of a binary outcome using the logit link and estimated coefficients?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which normality test computes a statistic from ordered sample values and compares correlation with expected normal scores?"
+    },
+    {
+      "question_id": 13,
+      "question": "When ordering data, which measure identifies the middle value splitting the dataset into halves?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which average weights individual values by specified importance before summing and dividing by the total weights?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which regression framework models clustered or hierarchical data by including both fixed and random effects terms?"
+    }
+  ]
+}

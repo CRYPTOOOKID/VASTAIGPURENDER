@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What key privacy change in mobile advertising affected targeting after 2020?",
+      "options": [
+        "App tracking transparency (iOS) limiting cross-app identifiers",
+        "Removal of all cookies from browsers",
+        "Mandated universal user IDs for advertisers"
+      ],
+      "answer": "App tracking transparency (iOS) limiting cross-app identifiers"
+    },
+    {
+      "question_id": 2,
+      "question": "Which sophisticated analysis reveals audiences likely to respond incrementally to ads?",
+      "options": [
+        "Causal uplift modeling",
+        "Simple propensity scoring without treatment effect",
+        "Counting total conversions"
+      ],
+      "answer": "Causal uplift modeling"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced metric tracks viewable impressions relative to served impressions?",
+      "options": [
+        "Viewability rate",
+        "Bounce-adjusted CPM",
+        "Gross reach"
+      ],
+      "answer": "Viewability rate"
+    },
+    {
+      "question_id": 4,
+      "question": "Which method improves personalization while preserving privacy through aggregation?",
+      "options": [
+        "Federated learning and on-device modeling",
+        "Broad third-party list purchases",
+        "Centralized cross-site tracking"
+      ],
+      "answer": "Federated learning and on-device modeling"
+    },
+    {
+      "question_id": 5,
+      "question": "Which advanced creative measurement links specific assets to business outcomes?",
+      "options": [
+        "Multivariate creative testing tied to conversions",
+        "Single creative used for all audiences",
+        "Counting total creative impressions only"
+      ],
+      "answer": "Multivariate creative testing tied to conversions"
+    },
+    {
+      "question_id": 6,
+      "question": "Which technique optimizes bids by predicting conversion probability in real time?",
+      "options": [
+        "Value-based programmatic bidding",
+        "Manual flat bidding",
+        "Time-of-day bidding only"
+      ],
+      "answer": "Value-based programmatic bidding"
+    },
+    {
+      "question_id": 7,
+      "question": "Which advanced KPI assesses channel efficiency after controlling for external factors?",
+      "options": [
+        "Channel-level incremental ROI from controlled tests",
+        "Gross impressions regardless of outcome",
+        "Total number of ad creatives"
+      ],
+      "answer": "Channel-level incremental ROI from controlled tests"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistical approach is preferred for sequential experiments to control false positives?",
+      "options": [
+        "Group sequential and alpha-spending methods",
+        "Maximum likelihood estimation without correction",
+        "Ignoring multiple testing"
+      ],
+      "answer": "Group sequential and alpha-spending methods"
+    },
+    {
+      "question_id": 9,
+      "question": "Which data strategy reduces reliance on third-party cookies for targeting?",
+      "options": [
+        "Contextual advertising combined with first-party data",
+        "Expanding third-party data purchases",
+        "Increasing cookie expiration times"
+      ],
+      "answer": "Contextual advertising combined with first-party data"
+    },
+    {
+      "question_id": 10,
+      "question": "Which modeling technique quantifies uplift from marketing versus natural conversion?",
+      "options": [
+        "Uplift modeling or causal lift analysis",
+        "Standard churn modeling",
+        "Average order value segmentation"
+      ],
+      "answer": "Uplift modeling or causal lift analysis"
+    },
+    {
+      "question_id": 11,
+      "question": "Which advanced creative personalization balances relevance and scale without privacy leaks?",
+      "options": [
+        "Contextual signals plus aggregated first-party insights",
+        "Injecting raw PII into creative templates",
+        "Using third-party identifiers only"
+      ],
+      "answer": "Contextual signals plus aggregated first-party insights"
+    },
+    {
+      "question_id": 12,
+      "question": "Which tactic ensures creative diversity to avoid ad fatigue at scale?",
+      "options": [
+        "Creative rotation and variant testing",
+        "Deploying a single static creative globally",
+        "Increasing frequency without new creatives"
+      ],
+      "answer": "Creative rotation and variant testing"
+    },
+    {
+      "question_id": 13,
+      "question": "Which advanced campaign optimization prioritizes reducing churn among high-value customers?",
+      "options": [
+        "Retention-focused lifecycle campaigns using predictive scoring",
+        "Maximizing new leads regardless of quality",
+        "Only brand-awareness activities"
+      ],
+      "answer": "Retention-focused lifecycle campaigns using predictive scoring"
+    },
+    {
+      "question_id": 14,
+      "question": "Which experimental design avoids interference between test and control exposures?",
+      "options": [
+        "Geographical or household-level holdouts",
+        "Switching creative every hour",
+        "Uniform global rollout"
+      ],
+      "answer": "Geographical or household-level holdouts"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ad-buying environment uses private deals and guaranteed inventory?",
+      "options": [
+        "Programmatic guaranteed and private marketplaces",
+        "Open exchange only",
+        "Manual classified ads"
+      ],
+      "answer": "Programmatic guaranteed and private marketplaces"
+    }
+  ]
+}

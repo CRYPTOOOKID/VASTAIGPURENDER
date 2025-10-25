@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which famous admiral is associated with the last line \"Kiss me, Hardy\"?",
+      "options": [
+        "Admiral Nelson",
+        "Admiral T. E. Lawrence",
+        "Admiral Collingwood"
+      ],
+      "answer": "Admiral Nelson"
+    },
+    {
+      "question_id": 2,
+      "question": "Which famous mathematician's last words were \"Do not let us quarrel any longer\"?",
+      "options": [
+        "Srinivasa Ramanujan",
+        "Carl Friedrich Gauss",
+        "Ada Lovelace"
+      ],
+      "answer": "Srinivasa Ramanujan"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is attributed with the last words \"I shall hear in heaven\" referring to music and death?",
+      "options": [
+        "Frédéric Chopin",
+        "Franz Liszt",
+        "Niccolò Paganini"
+      ],
+      "answer": "Frédéric Chopin"
+    },
+    {
+      "question_id": 4,
+      "question": "Who reportedly murmured \"I should never have switched from scotch to martinis\" as a humorous dying quip?",
+      "options": [
+        "Humphrey Bogart",
+        "W. C. Fields",
+        "Ernest Hemingway"
+      ],
+      "answer": "W. C. Fields"
+    },
+    {
+      "question_id": 5,
+      "question": "Which English king said \"Remember for your good the blood you have shed this day\" before execution?",
+      "options": [
+        "Charles I",
+        "Richard III",
+        "Henry VIII"
+      ],
+      "answer": "Charles I"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Irish playwright reportedly muttered \"Have I not made a great mistake?\" before dying, reflecting on his career?",
+      "options": [
+        "Oscar Wilde",
+        "George Bernard Shaw",
+        "Samuel Beckett"
+      ],
+      "answer": "George Bernard Shaw"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is reported to have said \"Either that wallpaper goes, or I do\" as last words?",
+      "options": [
+        "Oscar Wilde",
+        "Agatha Christie",
+        "Groucho Marx"
+      ],
+      "answer": "Oscar Wilde"
+    },
+    {
+      "question_id": 8,
+      "question": "Which novelist reportedly said \"It is a far, far better rest that I go to than I have ever known\" at the moment of death?",
+      "options": [
+        "Charles Dickens",
+        "Victor Hugo",
+        "George Eliot"
+      ],
+      "answer": "Charles Dickens"
+    },
+    {
+      "question_id": 9,
+      "question": "Who reputedly said \"I am the resurrection and the life\" as last words during a well-documented final prayer?",
+      "options": [
+        "John Wesley",
+        "Charles Spurgeon",
+        "George Whitefield"
+      ],
+      "answer": "John Wesley"
+    },
+    {
+      "question_id": 10,
+      "question": "Who famously said \"Et tu, Brute?\" according to tradition?",
+      "options": [
+        "Julius Caesar",
+        "Marcus Antonius",
+        "Brutus"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is reported to have said \"I am a dead man\" shortly before dying from an assassination?",
+      "options": [
+        "Archduke Franz Ferdinand",
+        "James A. Garfield",
+        "Mahatma Gandhi"
+      ],
+      "answer": "James A. Garfield"
+    },
+    {
+      "question_id": 12,
+      "question": "Who reportedly said \"I am going to the happiest place on earth\" referencing heaven as final words?",
+      "options": [
+        "Walt Disney",
+        "Jim Henson",
+        "Michael Jackson"
+      ],
+      "answer": "Walt Disney"
+    },
+    {
+      "question_id": 13,
+      "question": "Which American president said \"All my possessions for a moment of time\" reportedly at death?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Charles I"
+      ],
+      "answer": "Charles I"
+    },
+    {
+      "question_id": 14,
+      "question": "Which famous scientist's last words were \"I will not be in the way of the progress\" expressing optimism?",
+      "options": [
+        "Albert Einstein",
+        "Michael Faraday",
+        "Niels Bohr"
+      ],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question_id": 15,
+      "question": "Which composer said in Italian \"Pietà, pietà, mio Dio\" at the moment of death?",
+      "options": [
+        "Giuseppe Verdi",
+        "Gioachino Rossini",
+        "Vincenzo Bellini"
+      ],
+      "answer": "Vincenzo Bellini"
+    }
+  ]
+}

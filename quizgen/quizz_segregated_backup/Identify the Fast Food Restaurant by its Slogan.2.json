@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Mexican-style chain used the slogan \"Food with Integrity\"?",
+      "options": [
+        "Chipotle Mexican Grill",
+        "Qdoba",
+        "Moe's Southwest Grill"
+      ],
+      "answer": "Chipotle Mexican Grill"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand used \"Better Ingredients. Better Pizza.\" but also pushed community campaigns?",
+      "options": [
+        "Papa John's",
+        "Domino's Pizza",
+        "Pizza Hut"
+      ],
+      "answer": "Papa John's"
+    },
+    {
+      "question_id": 3,
+      "question": "Which brand's controversial slogan emphasized customization with \"Have it your way\"?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 4,
+      "question": "Which brand once encouraged customers to \"Think outside the bun\"?",
+      "options": [
+        "Taco Bell",
+        "Burger King",
+        "Wendy's"
+      ],
+      "answer": "Taco Bell"
+    },
+    {
+      "question_id": 5,
+      "question": "Which burger chain emphasizes \"Fresh, Never Frozen\" beef in commercials?",
+      "options": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King"
+      ],
+      "answer": "Wendy's"
+    },
+    {
+      "question_id": 6,
+      "question": "Which pizza chain used promotional lines promising fast, value-driven pies with little frills?",
+      "options": [
+        "Little Caesars",
+        "Papa John's",
+        "Domino's Pizza"
+      ],
+      "answer": "Little Caesars"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Texas-based burger chain uses \"Just like you like it\"?",
+      "options": [
+        "Whataburger",
+        "In-N-Out Burger",
+        "What A Burger (fictional)"
+      ],
+      "answer": "Whataburger"
+    },
+    {
+      "question_id": 8,
+      "question": "Which fast casual burger chain stresses values in the line \"Stand For Something Good\"?",
+      "options": [
+        "Shake Shack",
+        "Five Guys",
+        "Smashburger"
+      ],
+      "answer": "Shake Shack"
+    },
+    {
+      "question_id": 9,
+      "question": "Which chain's legacy slogan proclaimed its sandwiches were delivered \"Freaky Fast\"?",
+      "options": [
+        "Jimmy John's",
+        "Jersey Mike's",
+        "Subway"
+      ],
+      "answer": "Jimmy John's"
+    },
+    {
+      "question_id": 10,
+      "question": "Which chain uses the slogan \"Eat Fresh\" in advertising?",
+      "options": [
+        "Subway",
+        "Panera Bread",
+        "Jimmy John's"
+      ],
+      "answer": "Subway"
+    },
+    {
+      "question_id": 11,
+      "question": "Which brand used the line \"We Didn't Invent the Chicken, Just the Chicken Sandwich\"?",
+      "options": [
+        "Chick-fil-A",
+        "Chick'n chain (fictional)",
+        "KFC"
+      ],
+      "answer": "Chick-fil-A"
+    },
+    {
+      "question_id": 12,
+      "question": "Which pizza franchise once guaranteed delivery in \"30 minutes or less\" in ads?",
+      "options": [
+        "Domino's Pizza",
+        "Pizza Hut",
+        "Papa John's"
+      ],
+      "answer": "Domino's Pizza"
+    },
+    {
+      "question_id": 13,
+      "question": "Which coffeehouse's mission reads \"To inspire and nurture the human spirit\"?",
+      "options": [
+        "Starbucks",
+        "Peet's Coffee",
+        "Costa Coffee"
+      ],
+      "answer": "Starbucks"
+    },
+    {
+      "question_id": 14,
+      "question": "Which brand used the slogan \"We Have The Meats\" to highlight deli quality?",
+      "options": [
+        "Arby's",
+        "Subway",
+        "Firehouse Subs"
+      ],
+      "answer": "Arby's"
+    },
+    {
+      "question_id": 15,
+      "question": "Which chain's advertising once invited customers to \"Think outside the bun\"?",
+      "options": [
+        "Taco Bell",
+        "Chipotle Mexican Grill",
+        "Del Taco"
+      ],
+      "answer": "Taco Bell"
+    }
+  ]
+}

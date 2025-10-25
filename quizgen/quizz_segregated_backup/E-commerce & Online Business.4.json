@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which platform is known for enabling small businesses to create online stores easily?",
+      "options": [
+        "Shopify",
+        "Salesforce CRM",
+        "Oracle ERP"
+      ],
+      "answer": "Shopify"
+    },
+    {
+      "question_id": 2,
+      "question": "What does 'chargeback' refer to in online payments?",
+      "options": [
+        "A customer dispute that reverses a transaction",
+        "A refund processed by the merchant system",
+        "A scheduled payment to suppliers"
+      ],
+      "answer": "A customer dispute that reverses a transaction"
+    },
+    {
+      "question_id": 3,
+      "question": "What problem does 'eventual consistency' address in distributed e-commerce systems?",
+      "options": [
+        "Keeping data synchronized across services with temporary divergence",
+        "Eliminating the need for backups",
+        "Automatically scaling payment networks"
+      ],
+      "answer": "Keeping data synchronized across services with temporary divergence"
+    },
+    {
+      "question_id": 4,
+      "question": "What metric measures how many customers keep buying over time?",
+      "options": [
+        "Customer retention rate",
+        "Product return rate",
+        "Cart recovery rate"
+      ],
+      "answer": "Customer retention rate"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'headless commerce' separate in architecture?",
+      "options": [
+        "Frontend presentation from backend commerce logic",
+        "Inventory from payment processing",
+        "Shipping from customer service"
+      ],
+      "answer": "Frontend presentation from backend commerce logic"
+    },
+    {
+      "question_id": 6,
+      "question": "Which algorithmic pricing technique adapts prices in real time based on demand signals?",
+      "options": [
+        "Dynamic pricing",
+        "Cost-plus pricing",
+        "Flat-rate shipping pricing"
+      ],
+      "answer": "Dynamic pricing"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'SEO' aim to improve for an online store?",
+      "options": [
+        "Visibility in search engine results",
+        "Warehouse inventory accuracy",
+        "Payment processing speed"
+      ],
+      "answer": "Visibility in search engine results"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'omnichannel' retailing?",
+      "options": [
+        "Seamless customer experience across physical and digital channels",
+        "Selling exclusively through marketplaces",
+        "Using only email and catalogs for marketing"
+      ],
+      "answer": "Seamless customer experience across physical and digital channels"
+    },
+    {
+      "question_id": 9,
+      "question": "Which compliance standard specifically focuses on cardholder data security?",
+      "options": [
+        "PCI DSS",
+        "HIPAA",
+        "ISO 14001"
+      ],
+      "answer": "PCI DSS"
+    },
+    {
+      "question_id": 10,
+      "question": "What role does a CDN play for online stores?",
+      "options": [
+        "Speeds up content delivery to users worldwide",
+        "Manages customer support tickets",
+        "Calculates taxation for international orders"
+      ],
+      "answer": "Speeds up content delivery to users worldwide"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term describes selling a supplier's brand under your own label?",
+      "options": [
+        "Private label",
+        "Open source",
+        "Consignment"
+      ],
+      "answer": "Private label"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technique helps estimate fraud losses using limited labeled examples?",
+      "options": [
+        "Semi-supervised anomaly detection models",
+        "Manual review of every order only",
+        "Always refunding disputed transactions"
+      ],
+      "answer": "Semi-supervised anomaly detection models"
+    },
+    {
+      "question_id": 13,
+      "question": "Which payment method became widely used for online payments starting in the late 1990s?",
+      "options": [
+        "PayPal",
+        "Cash on delivery",
+        "Money order"
+      ],
+      "answer": "PayPal"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'multitouch attribution' trying to improve over last-click?",
+      "options": [
+        "Credit distribution across multiple marketing interactions",
+        "Faster warehouse packing times",
+        "Lowering shipping costs per unit"
+      ],
+      "answer": "Credit distribution across multiple marketing interactions"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the essence of 'margin dilution' when marketplaces subsidize fast shipping?",
+      "options": [
+        "Promotions or subsidies reduce net margin per order",
+        "Margins increase automatically with every promotion",
+        "Shipping subsidies increase customer lifetime value only"
+      ],
+      "answer": "Promotions or subsidies reduce net margin per order"
+    }
+  ]
+}

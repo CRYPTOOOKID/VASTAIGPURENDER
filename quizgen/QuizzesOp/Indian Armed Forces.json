@@ -1,0 +1,811 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which three branches make up the Indian Armed Forces?",
+        "options": [
+          "Army, Navy, Air Force",
+          "Police, Coast Guard, Army",
+          "Navy, Paramilitary, Army"
+        ],
+        "answer": "Army, Navy, Air Force"
+      },
+      {
+        "question": "Who is the constitutional Supreme Commander of the Indian Armed Forces?",
+        "options": [
+          "President of India",
+          "Prime Minister of India",
+          "Chief of Defence Staff"
+        ],
+        "answer": "President of India"
+      },
+      {
+        "question": "Which day is celebrated as Indian Army Day each year?",
+        "options": [
+          "15 January",
+          "26 January",
+          "1 May"
+        ],
+        "answer": "15 January"
+      },
+      {
+        "question": "Which decoration is the highest wartime gallantry award in India?",
+        "options": [
+          "Param Vir Chakra",
+          "Ashoka Chakra",
+          "Maha Vir Chakra"
+        ],
+        "answer": "Param Vir Chakra"
+      },
+      {
+        "question": "Where is the National Defence Academy located?",
+        "options": [
+          "Pune",
+          "Dehradun",
+          "Ahmedabad"
+        ],
+        "answer": "Pune"
+      },
+      {
+        "question": "What is the primary role of the Indian Navy?",
+        "options": [
+          "Maritime security and naval warfare",
+          "Border policing on land",
+          "Domestic counterterrorism"
+        ],
+        "answer": "Maritime security and naval warfare"
+      },
+      {
+        "question": "Which force is primarily responsible for aerial defence of India?",
+        "options": [
+          "Indian Air Force",
+          "Indian Army",
+          "Indian Navy"
+        ],
+        "answer": "Indian Air Force"
+      },
+      {
+        "question": "Which academy trains Indian Army officers at Dehradun?",
+        "options": [
+          "Indian Military Academy",
+          "Air Force Academy",
+          "Naval Academy"
+        ],
+        "answer": "Indian Military Academy"
+      },
+      {
+        "question": "What is the name of India's indigenous light combat aircraft developed by HAL?",
+        "options": [
+          "Tejas",
+          "Jaguar",
+          "Mirage"
+        ],
+        "answer": "Tejas"
+      },
+      {
+        "question": "Which force conducts coastal security alongside the Indian Navy?",
+        "options": [
+          "Coast Guard",
+          "Border Security Force",
+          "Central Reserve Police Force"
+        ],
+        "answer": "Coast Guard"
+      },
+      {
+        "question": "Which award recognizes bravery during peacetime in India?",
+        "options": [
+          "Ashoka Chakra",
+          "Vir Chakra",
+          "Param Vir Chakra"
+        ],
+        "answer": "Ashoka Chakra"
+      },
+      {
+        "question": "Which branch operates submarines in the Indian Armed Forces?",
+        "options": [
+          "Indian Navy",
+          "Indian Army",
+          "Indian Air Force"
+        ],
+        "answer": "Indian Navy"
+      },
+      {
+        "question": "What is the name of India's first indigenously built aircraft carrier commissioned in 2022?",
+        "options": [
+          "INS Vikrant",
+          "INS Vikramaditya",
+          "INS Viraat"
+        ],
+        "answer": "INS Vikrant"
+      },
+      {
+        "question": "Which conflict is commemorated by Navy Day on December 4?",
+        "options": [
+          "1971 Indo-Pak naval operations",
+          "1965 Indo-Pak land battles",
+          "1999 Kargil conflict"
+        ],
+        "answer": "1971 Indo-Pak naval operations"
+      },
+      {
+        "question": "Which organization leads defence research and development in India?",
+        "options": [
+          "DRDO",
+          "ISRO",
+          "CSIR"
+        ],
+        "answer": "DRDO"
+      },
+      {
+        "question": "Which rank is the head of the Indian Army usually appointed to?",
+        "options": [
+          "General",
+          "Colonel",
+          "Major"
+        ],
+        "answer": "General"
+      },
+      {
+        "question": "Which regiment is famous for the Gurkha soldiers in the Indian Army?",
+        "options": [
+          "Gorkha Rifles",
+          "Punjab Regiment",
+          "Rajput Regiment"
+        ],
+        "answer": "Gorkha Rifles"
+      },
+      {
+        "question": "What does IAF stand for in the Indian context?",
+        "options": [
+          "Indian Air Force",
+          "Institute of Armed Forces",
+          "Indian Armoured Fleet"
+        ],
+        "answer": "Indian Air Force"
+      },
+      {
+        "question": "Which service uses warships and aircraft carriers primarily?",
+        "options": [
+          "Indian Navy",
+          "Indian Army",
+          "Indian Air Force"
+        ],
+        "answer": "Indian Navy"
+      },
+      {
+        "question": "Which is the principal ground warfare force of India?",
+        "options": [
+          "Indian Army",
+          "Border Security Force",
+          "State Police"
+        ],
+        "answer": "Indian Army"
+      },
+      {
+        "question": "Which award is the second-highest wartime gallantry decoration in India?",
+        "options": [
+          "Maha Vir Chakra",
+          "Vir Chakra",
+          "Param Vir Chakra"
+        ],
+        "answer": "Maha Vir Chakra"
+      },
+      {
+        "question": "Which specialized mountain warfare unit serves at very high altitudes like Siachen?",
+        "options": [
+          "High Altitude Warfare School graduates and mountain units",
+          "Parachute Regiment only",
+          "Navy marines"
+        ],
+        "answer": "High Altitude Warfare School graduates and mountain units"
+      },
+      {
+        "question": "Which Indian Navy ship is an example of an aircraft carrier in service?",
+        "options": [
+          "INS Vikramaditya",
+          "INS Kolkata",
+          "INS Karmuk"
+        ],
+        "answer": "INS Vikramaditya"
+      },
+      {
+        "question": "Which day marks Indian Air Force Day each year?",
+        "options": [
+          "8 October",
+          "26 January",
+          "15 August"
+        ],
+        "answer": "8 October"
+      },
+      {
+        "question": "Who leads the tri-service integration as a permanent chief post-2019?",
+        "options": [
+          "Chief of Defence Staff",
+          "Chief of Army Staff",
+          "Chief of Naval Staff"
+        ],
+        "answer": "Chief of Defence Staff"
+      },
+      {
+        "question": "Which corps in the Indian Army specializes in engineering and infrastructure?",
+        "options": [
+          "Corps of Engineers",
+          "Medical Corps",
+          "Signals Corps"
+        ],
+        "answer": "Corps of Engineers"
+      },
+      {
+        "question": "Which major war in 1971 resulted in creation of Bangladesh with Indian involvement?",
+        "options": [
+          "Bangladesh Liberation War",
+          "Kargil War",
+          "Sino-Indian War"
+        ],
+        "answer": "Bangladesh Liberation War"
+      },
+      {
+        "question": "Which Indian armed service operates fighter jets to maintain air superiority?",
+        "options": [
+          "Indian Air Force",
+          "Indian Navy",
+          "Indian Army"
+        ],
+        "answer": "Indian Air Force"
+      },
+      {
+        "question": "What is the Indian Army’s ceremonial mounted unit that serves the President?",
+        "options": [
+          "President's Bodyguard",
+          "Maratha Light Cavalry",
+          "Brigade of Guards"
+        ],
+        "answer": "President's Bodyguard"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who was the first recipient of the Param Vir Chakra in post-independence India?",
+        "options": [
+          "Major Somnath Sharma",
+          "Captain Vikram Batra",
+          "Subedar Major Bana Singh"
+        ],
+        "answer": "Major Somnath Sharma"
+      },
+      {
+        "question": "Which operation secured the Siachen Glacier for India in 1984?",
+        "options": [
+          "Operation Meghdoot",
+          "Operation Vijay",
+          "Operation Cactus"
+        ],
+        "answer": "Operation Meghdoot"
+      },
+      {
+        "question": "Which class of submarine is INS Arihant part of, representing India's SSBN capability?",
+        "options": [
+          "Arihant-class",
+          "Kilo-class",
+          "Sindhughosh-class"
+        ],
+        "answer": "Arihant-class"
+      },
+      {
+        "question": "Which university-style tri-service academy provides combined training to cadets from all three services?",
+        "options": [
+          "National Defence Academy",
+          "Indian Military Academy",
+          "Defence Services Staff College"
+        ],
+        "answer": "National Defence Academy"
+      },
+      {
+        "question": "Which Indian Air Force helicopter is widely used for heavy-lift operations?",
+        "options": [
+          "Mi-17",
+          "Cheetah",
+          "Pawan"
+        ],
+        "answer": "Mi-17"
+      },
+      {
+        "question": "Which indigenous main battle tank was developed by DRDO and produced at Avadi?",
+        "options": [
+          "Arjun",
+          "T-90",
+          "T-72"
+        ],
+        "answer": "Arjun"
+      },
+      {
+        "question": "Which Indian Navy missile attack on Karachi in 1971 was called Operation Trident or Operation Python?",
+        "options": [
+          "Operation Trident",
+          "Operation Meghdoot",
+          "Operation Vijay"
+        ],
+        "answer": "Operation Trident"
+      },
+      {
+        "question": "Which long-range surface-to-air missile system is used by the Indian Air Force and Army?",
+        "options": [
+          "S-400",
+          "Akash only",
+          "Stinger"
+        ],
+        "answer": "S-400"
+      },
+      {
+        "question": "Which rank is directly below Field Marshal in Indian Army hierarchy?",
+        "options": [
+          "General",
+          "Lieutenant General",
+          "Major General"
+        ],
+        "answer": "General"
+      },
+      {
+        "question": "Which elite Indian Army unit specializes in airborne and special operations?",
+        "options": [
+          "Parachute Regiment (Special Forces)",
+          "Gorkha Rifles",
+          "Jat Regiment"
+        ],
+        "answer": "Parachute Regiment (Special Forces)"
+      },
+      {
+        "question": "Which programme produced the Light Combat Aircraft inducted into the IAF?",
+        "options": [
+          "HAL Tejas development",
+          "MiG upgrade programme",
+          "Jaguar modernization"
+        ],
+        "answer": "HAL Tejas development"
+      },
+      {
+        "question": "Which ship class forms the backbone of India's blue-water destroyer force?",
+        "options": [
+          "Kolkata-class destroyers",
+          "Shivalik-class frigates",
+          "Kamorta-class corvettes"
+        ],
+        "answer": "Kolkata-class destroyers"
+      },
+      {
+        "question": "Which Indian military operation in 1987 involved the Indian Peace Keeping Force in Sri Lanka?",
+        "options": [
+          "Operation Pawan",
+          "Operation Cactus",
+          "Operation Blue Star"
+        ],
+        "answer": "Operation Pawan"
+      },
+      {
+        "question": "Which institution provides advanced staff and command training to mid-career officers?",
+        "options": [
+          "Defence Services Staff College",
+          "National Defence Academy",
+          "Indian Military Academy"
+        ],
+        "answer": "Defence Services Staff College"
+      },
+      {
+        "question": "Which central defence research lab is chiefly responsible for missile development like Agni?",
+        "options": [
+          "DRDO's Research Centre Integrated Systems",
+          "ISRO's Vikram Sarabhai Centre",
+          "BEL Research Division"
+        ],
+        "answer": "DRDO's Research Centre Integrated Systems"
+      },
+      {
+        "question": "Which arm of Indian services handles electronic warfare and communications?",
+        "options": [
+          "Army Signals Corps",
+          "Corps of Engineers",
+          "Army Medical Corps"
+        ],
+        "answer": "Army Signals Corps"
+      },
+      {
+        "question": "Which famous 1999 conflict was primarily fought along high-altitude Kargil heights?",
+        "options": [
+          "Kargil War",
+          "Siachen conflict",
+          "1965 War"
+        ],
+        "answer": "Kargil War"
+      },
+      {
+        "question": "Which Indian warship class focuses on anti-submarine warfare and stealth features?",
+        "options": [
+          "Shivalik-class frigates",
+          "Kora-class corvettes",
+          "Vishwast-class patrol vessels"
+        ],
+        "answer": "Shivalik-class frigates"
+      },
+      {
+        "question": "Which award ranks immediately below Maha Vir Chakra in wartime gallantry order?",
+        "options": [
+          "Vir Chakra",
+          "Param Vir Chakra",
+          "Sena Medal"
+        ],
+        "answer": "Vir Chakra"
+      },
+      {
+        "question": "Which operation in 1988 rescued Maldives from a coup using Indian forces?",
+        "options": [
+          "Operation Cactus",
+          "Operation Trident",
+          "Operation Meghdoot"
+        ],
+        "answer": "Operation Cactus"
+      },
+      {
+        "question": "Which Indian Air Force aircraft conducted precision strikes during the Balakot airstrike in 2019?",
+        "options": [
+          "Mirage 2000",
+          "Tejas",
+          "Su-30MKI"
+        ],
+        "answer": "Mirage 2000"
+      },
+      {
+        "question": "Which training establishment prepares naval officers in India at Ezhimala?",
+        "options": [
+          "Naval Academy (INS Mandovi/now at Ezhimala)",
+          "Naval Dockyard Academy",
+          "Navy Air Station"
+        ],
+        "answer": "Naval Academy (INS Mandovi/now at Ezhimala)"
+      },
+      {
+        "question": "Which corps provides medical services and hospitals for Indian Armed Forces?",
+        "options": [
+          "Army Medical Corps",
+          "Army Ordnance Corps",
+          "Corps of Signals"
+        ],
+        "answer": "Army Medical Corps"
+      },
+      {
+        "question": "Which missile family provides India's strategic land-based nuclear delivery capability?",
+        "options": [
+          "Agni series",
+          "Prithvi only",
+          "BrahMos series"
+        ],
+        "answer": "Agni series"
+      },
+      {
+        "question": "Which historical 1962 conflict involved large-scale combat with China?",
+        "options": [
+          "Sino-Indian War",
+          "Indo-Pakistani War",
+          "1971 War"
+        ],
+        "answer": "Sino-Indian War"
+      },
+      {
+        "question": "Which unit famously captured Tiger Hill during the Kargil conflict?",
+        "options": [
+          "14 Punjab",
+          "1 Madras",
+          "9 Gorkha Rifles"
+        ],
+        "answer": "14 Punjab"
+      },
+      {
+        "question": "Which riverine or amphibious capability is part of the Indian Navy's MARCOS force?",
+        "options": [
+          "Marine Commandos conduct special operations and amphibious raids",
+          "Naval Aviation manages all amphibious operations",
+          "Coast Guard handles amphibious combat"
+        ],
+        "answer": "Marine Commandos conduct special operations and amphibious raids"
+      },
+      {
+        "question": "Which defence public sector unit manufactures aircraft like Tejas components in India?",
+        "options": [
+          "Hindustan Aeronautics Limited",
+          "Bharat Electronics Limited",
+          "Bharat Earth Movers Limited"
+        ],
+        "answer": "Hindustan Aeronautics Limited"
+      },
+      {
+        "question": "Which river crossing and bridging capability belongs to which corps in the Army?",
+        "options": [
+          "Corps of Engineers",
+          "Corps of Signals",
+          "Army Service Corps"
+        ],
+        "answer": "Corps of Engineers"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which officer served as India’s first Chief of Defence Staff appointed in December 2019?",
+        "options": [
+          "General Bipin Rawat",
+          "General V. P. Malik",
+          "Admiral L. Ramdas"
+        ],
+        "answer": "General Bipin Rawat"
+      },
+      {
+        "question": "Which Indian warship launched the first successful anti-ship missile strike in Operation Trident 1971?",
+        "options": [
+          "INS Nipat",
+          "INS Vikrant",
+          "INS Godavari"
+        ],
+        "answer": "INS Nipat"
+      },
+      {
+        "question": "Which regiment is credited with the first ever Param Vir Chakra awarded post-independence?",
+        "options": [
+          "1 Kumaon (Major Somnath Sharma belonged to 4 Kumaon/was on attachment)",
+          "3 Gorkha Rifles",
+          "2 Rajputana Rifles"
+        ],
+        "answer": "1 Kumaon (Major Somnath Sharma belonged to 4 Kumaon/was on attachment)"
+      },
+      {
+        "question": "Which indigenous sonar project led to the development of hull-mounted sonar for Indian frigates?",
+        "options": [
+          "USBL/USN sonar collaboration under DRDO projects",
+          "BEL-origin sonar initiatives like HUMSA",
+          "Foreign off-the-shelf purchases only"
+        ],
+        "answer": "BEL-origin sonar initiatives like HUMSA"
+      },
+      {
+        "question": "Which operation in 1961 integrated Goa into India with naval and land components?",
+        "options": [
+          "Operation Vijay (1961)",
+          "Operation Flood",
+          "Operation Trident"
+        ],
+        "answer": "Operation Vijay (1961)"
+      },
+      {
+        "question": "Which missile is a joint India-Russia supersonic cruise missile deployed by Army and Navy?",
+        "options": [
+          "BrahMos",
+          "Pralay",
+          "Nirbhay"
+        ],
+        "answer": "BrahMos"
+      },
+      {
+        "question": "Which Indian Armed Forces formation is tasked with high-altitude acclimatization training at Gulmarg?",
+        "options": [
+          "High Altitude Warfare School",
+          "National Mountain Corps",
+          "Snow Warfare Training Centre"
+        ],
+        "answer": "High Altitude Warfare School"
+      },
+      {
+        "question": "Which officer is the only Indian Air Force officer elevated to Marshal of the Air Force?",
+        "options": [
+          "Arjan Singh",
+          "Subroto Mukerjee",
+          "Aspy Engineer"
+        ],
+        "answer": "Arjan Singh"
+      },
+      {
+        "question": "Which Indian Army regiment traces its lineage to the colonial-era Poona Horse cavalry?",
+        "options": [
+          "Poona Horse",
+          "Sikhs Regiment",
+          "Rajput Regiment"
+        ],
+        "answer": "Poona Horse"
+      },
+      {
+        "question": "Which platform provides India's nuclear second-strike sea capability via ballistic missiles?",
+        "options": [
+          "Nuclear-powered ballistic missile submarines (SSBNs) like INS Arihant",
+          "Aircraft carriers alone",
+          "Surface missile corvettes"
+        ],
+        "answer": "Nuclear-powered ballistic missile submarines (SSBNs) like INS Arihant"
+      },
+      {
+        "question": "Which wartime Revolutionary-era unit is considered the oldest continuously serving cavalry unit now serving the President?",
+        "options": [
+          "President's Bodyguard",
+          "Guides Cavalry",
+          "Skinner's Horse"
+        ],
+        "answer": "President's Bodyguard"
+      },
+      {
+        "question": "Which Indian Army operation recaptured Kargil heights during 1999 under combined infantry and artillery effort?",
+        "options": [
+          "Operation Vijay (1999)",
+          "Operation Meghdoot",
+          "Operation Blue Star"
+        ],
+        "answer": "Operation Vijay (1999)"
+      },
+      {
+        "question": "Which IAF squadron famously executed aerial engagements during the 1971 war and later received battle honours?",
+        "options": [
+          "No. 17 Squadron 'Golden Arrows'",
+          "No. 1 Squadron 'Tigers'",
+          "No. 18 Squadron 'Flying Bullets'"
+        ],
+        "answer": "No. 17 Squadron 'Golden Arrows'"
+      },
+      {
+        "question": "Which shipyard built India's first indigenous aircraft carrier INS Vikrant (IAC-1)?",
+        "options": [
+          "Cochin Shipyard",
+          "Mazagon Dock Shipbuilders",
+          "Garden Reach Shipbuilders"
+        ],
+        "answer": "Cochin Shipyard"
+      },
+      {
+        "question": "Which corps handles artillery firepower and includes regiments named after calibres like 155 mm guns?",
+        "options": [
+          "Regiment of Artillery",
+          "Corps of Engineers",
+          "Corps of Signals"
+        ],
+        "answer": "Regiment of Artillery"
+      },
+      {
+        "question": "Which operation marked the first major Indian naval blockade and air-sea strikes against Karachi in 1971?",
+        "options": [
+          "Operation Trident (and follow-up Operation Python)",
+          "Operation Cactus",
+          "Operation Pawan"
+        ],
+        "answer": "Operation Trident (and follow-up Operation Python)"
+      },
+      {
+        "question": "Which Indian defence ship class introduced stealth features and integrated propulsion across hull forms?",
+        "options": [
+          "Shivalik-class frigates",
+          "Kora-class corvettes",
+          "Vikram-class patrol craft"
+        ],
+        "answer": "Shivalik-class frigates"
+      },
+      {
+        "question": "Which training institution awards the Sword of Honour to the best performing cadet across services at NDA?",
+        "options": [
+          "National Defence Academy awards Sword of Honour",
+          "Indian Military Academy only",
+          "Air Force Academy only"
+        ],
+        "answer": "National Defence Academy awards Sword of Honour"
+      },
+      {
+        "question": "Which Indian missile development under DRDO combines road-mobile launch and multi-stage solid motors for strategic range?",
+        "options": [
+          "Agni series",
+          "Prithvi series",
+          "BrahMos cruise missile"
+        ],
+        "answer": "Agni series"
+      },
+      {
+        "question": "Which formation conducts combined maritime exercises such as MILAN to boost regional cooperation?",
+        "options": [
+          "Indian Navy organizes MILAN",
+          "Indian Army organizes MILAN",
+          "Indian Air Force organizes MILAN"
+        ],
+        "answer": "Indian Navy organizes MILAN"
+      },
+      {
+        "question": "Which historic brigade famously defended Longewala post during the 1971 war with minimal forces?",
+        "options": [
+          "14th Punjab and supporting units at Longewala",
+          "3rd Gorkha Rifles",
+          "1st Armoured Brigade only"
+        ],
+        "answer": "14th Punjab and supporting units at Longewala"
+      },
+      {
+        "question": "Which defence electronics company developed naval radar and communication systems for frontline ships?",
+        "options": [
+          "Bharat Electronics Limited",
+          "Hindustan Aeronautics Limited",
+          "Bharat Dynamics Limited"
+        ],
+        "answer": "Bharat Electronics Limited"
+      },
+      {
+        "question": "Which Indian airborne operation in 1971 aimed at securing Sylhet area involved paratroopers in Bangladesh theatre?",
+        "options": [
+          "Tangail and Sylhet airborne operations by Indian paratroopers",
+          "Operation Meghdoot",
+          "Operation Vijay"
+        ],
+        "answer": "Tangail and Sylhet airborne operations by Indian paratroopers"
+      },
+      {
+        "question": "Which coastal missile system co-developed by India and Russia is ship- and coastal-launch capable?",
+        "options": [
+          "BrahMos cruise missile",
+          "Prithvi ballistic missile",
+          "Astra air-to-air missile"
+        ],
+        "answer": "BrahMos cruise missile"
+      },
+      {
+        "question": "Which unique high-altitude forward post system uses solar power and ground sensors for surveillance in Ladakh?",
+        "options": [
+          "Sensors and BTS deployment by Corps of Engineers and electronics units",
+          "Traditional manned posts only",
+          "Only UAVs without ground sensors"
+        ],
+        "answer": "Sensors and BTS deployment by Corps of Engineers and electronics units"
+      },
+      {
+        "question": "Which Army chief famously led Indian forces during the 1971 war and later became a Field Marshal?",
+        "options": [
+          "Sam Manekshaw",
+          "K. Sundarji",
+          "B. M. Kaul"
+        ],
+        "answer": "Sam Manekshaw"
+      },
+      {
+        "question": "Which category of weapon is the Pinaka system that the Indian Army deploys for rocket artillery?",
+        "options": [
+          "Multiple rocket launcher system",
+          "Single-tube ballistic missile",
+          "Towed howitzer"
+        ],
+        "answer": "Multiple rocket launcher system"
+      },
+      {
+        "question": "Which Indian intelligence and special operations unit operates under the Research and Analysis Wing and specialised forces?",
+        "options": [
+          "Special Group and RAW-linked covert units",
+          "NSG only",
+          "Coast Guard units"
+        ],
+        "answer": "Special Group and RAW-linked covert units"
+      },
+      {
+        "question": "Which 1974 event demonstrated India's first successful nuclear device test at Pokhran?",
+        "options": [
+          "Smiling Buddha test",
+          "Operation Shakti",
+          "Operation Shanti"
+        ],
+        "answer": "Smiling Buddha test"
+      },
+      {
+        "question": "Which Navy base in Visakhapatnam serves as a major Eastern Fleet hub?",
+        "options": [
+          "Eastern Naval Command at Visakhapatnam",
+          "Western Naval Command",
+          "Southern Naval Command"
+        ],
+        "answer": "Eastern Naval Command at Visakhapatnam"
+      },
+      {
+        "question": "Which amphibious marine special force in India is trained at INS Abhimanyu and by the Navy’s MARCOS?",
+        "options": [
+          "MARCOS (Marine Commandos)",
+          "Para SF only",
+          "Ghatak platoons only"
+        ],
+        "answer": "MARCOS (Marine Commandos)"
+      }
+    ]
+  }
+}

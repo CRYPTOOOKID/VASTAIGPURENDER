@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which is the longest river in peninsular India?",
+        "options": [
+          "Godavari",
+          "Krishna",
+          "Narmada"
+        ],
+        "answer": "Godavari"
+      },
+      {
+        "question": "Where does the Ganges originate?",
+        "options": [
+          "Gangotri Glacier",
+          "Yamunotri",
+          "Kedarnath"
+        ],
+        "answer": "Gangotri Glacier"
+      },
+      {
+        "question": "Which river's distributary flows past Kolkata?",
+        "options": [
+          "Hooghly",
+          "Yamuna",
+          "Tapti"
+        ],
+        "answer": "Hooghly"
+      },
+      {
+        "question": "Which river empties into the Arabian Sea at the Gulf of Khambhat?",
+        "options": [
+          "Narmada",
+          "Godavari",
+          "Mahanadi"
+        ],
+        "answer": "Narmada"
+      },
+      {
+        "question": "Which river is often called the 'Dakshin Ganga' or 'Ganges of the South'?",
+        "options": [
+          "Godavari",
+          "Kaveri",
+          "Krishna"
+        ],
+        "answer": "Godavari"
+      },
+      {
+        "question": "Where does the Yamuna originate?",
+        "options": [
+          "Yamunotri",
+          "Gangotri Glacier",
+          "Pindari Glacier"
+        ],
+        "answer": "Yamunotri"
+      },
+      {
+        "question": "Which river system forms the Sundarbans mangrove region?",
+        "options": [
+          "Ganges-Brahmaputra",
+          "Godavari-Krishna",
+          "Narmada-Tapi"
+        ],
+        "answer": "Ganges-Brahmaputra"
+      },
+      {
+        "question": "Which is the largest river island in India?",
+        "options": [
+          "Majuli",
+          "Srirangam",
+          "Pamban Island"
+        ],
+        "answer": "Majuli"
+      },
+      {
+        "question": "Which ancient pilgrimage city lies on the banks of the Ganga?",
+        "options": [
+          "Varanasi",
+          "Mumbai",
+          "Bhopal"
+        ],
+        "answer": "Varanasi"
+      },
+      {
+        "question": "Which river is historically called the 'Sorrow of Bihar' due to floods?",
+        "options": [
+          "Kosi",
+          "Narmada",
+          "Godavari"
+        ],
+        "answer": "Kosi"
+      },
+      {
+        "question": "Which peninsular river flows westwards into the Arabian Sea through a rift valley?",
+        "options": [
+          "Narmada",
+          "Krishna",
+          "Mahanadi"
+        ],
+        "answer": "Narmada"
+      },
+      {
+        "question": "Which river forms the fertile delta around Thanjavur and Nagapattinam in Tamil Nadu?",
+        "options": [
+          "Kaveri",
+          "Mahanadi",
+          "Tapti"
+        ],
+        "answer": "Kaveri"
+      },
+      {
+        "question": "Which plateau is the origin of the Narmada river?",
+        "options": [
+          "Amarkantak Plateau",
+          "Deccan Plateau",
+          "Chota Nagpur Plateau"
+        ],
+        "answer": "Amarkantak Plateau"
+      },
+      {
+        "question": "Which river is formed by the confluence of the Tunga and Bhadra rivers?",
+        "options": [
+          "Tungabhadra",
+          "Krishna",
+          "Cauvery"
+        ],
+        "answer": "Tungabhadra"
+      },
+      {
+        "question": "Which great river flows across Assam and Bangladesh causing regular floods?",
+        "options": [
+          "Brahmaputra",
+          "Godavari",
+          "Periyar"
+        ],
+        "answer": "Brahmaputra"
+      },
+      {
+        "question": "Where do the Bhagirathi and Alaknanda join to officially form the Ganga?",
+        "options": [
+          "Devprayag",
+          "Rishikesh",
+          "Haridwar"
+        ],
+        "answer": "Devprayag"
+      },
+      {
+        "question": "Which basin covers the largest area within India?",
+        "options": [
+          "Ganges basin",
+          "Godavari basin",
+          "Narmada basin"
+        ],
+        "answer": "Ganges basin"
+      },
+      {
+        "question": "Which river is dammed by the Bhakra Dam?",
+        "options": [
+          "Sutlej",
+          "Yamuna",
+          "Kaveri"
+        ],
+        "answer": "Sutlej"
+      },
+      {
+        "question": "Which river drains into the Rann of Kutch and is the main river of western Rajasthan?",
+        "options": [
+          "Luni",
+          "Tapti",
+          "Mahi"
+        ],
+        "answer": "Luni"
+      },
+      {
+        "question": "Which major project is built on the Narmada River?",
+        "options": [
+          "Sardar Sarovar Project",
+          "Hirakud Project",
+          "Nagarjuna Sagar Project"
+        ],
+        "answer": "Sardar Sarovar Project"
+      },
+      {
+        "question": "Which river meets the Yamuna and Saraswati at the Triveni Sangam at Prayagraj?",
+        "options": [
+          "Ganga",
+          "Narmada",
+          "Kaveri"
+        ],
+        "answer": "Ganga"
+      },
+      {
+        "question": "Which river flows through the city of Hyderabad?",
+        "options": [
+          "Musi",
+          "Godavari",
+          "Narmada"
+        ],
+        "answer": "Musi"
+      },
+      {
+        "question": "Which headstreams meet at Devprayag to create the Ganga?",
+        "options": [
+          "Bhagirathi and Alaknanda",
+          "Yamuna and Tons",
+          "Kali and Gomti"
+        ],
+        "answer": "Bhagirathi and Alaknanda"
+      },
+      {
+        "question": "Which distributary of the Ganges is the main channel for the Port of Kolkata?",
+        "options": [
+          "Hooghly",
+          "Saraswati",
+          "Mahanadi"
+        ],
+        "answer": "Hooghly"
+      },
+      {
+        "question": "Which major river is the principal water source for the state of Odisha?",
+        "options": [
+          "Mahanadi",
+          "Krishna",
+          "Tapti"
+        ],
+        "answer": "Mahanadi"
+      },
+      {
+        "question": "Which river originates in the Chota Nagpur plateau near Ranchi?",
+        "options": [
+          "Subarnarekha",
+          "Ganga",
+          "Narmada"
+        ],
+        "answer": "Subarnarekha"
+      },
+      {
+        "question": "Which small coastal river flows by the Konark Sun Temple and its town?",
+        "options": [
+          "Chandrabhaga",
+          "Gomti",
+          "Kali"
+        ],
+        "answer": "Chandrabhaga"
+      },
+      {
+        "question": "Which river contributes to the backwaters and port system at Kochi?",
+        "options": [
+          "Periyar",
+          "Tapi",
+          "Godavari"
+        ],
+        "answer": "Periyar"
+      },
+      {
+        "question": "Which valley project was India's first multipurpose river valley development?",
+        "options": [
+          "Damodar Valley Corporation",
+          "Narmada Valley Project",
+          "Godavari Project"
+        ],
+        "answer": "Damodar Valley Corporation"
+      },
+      {
+        "question": "Which river separates parts of Uttar Pradesh and Bihar along its course?",
+        "options": [
+          "Ganga",
+          "Kaveri",
+          "Ghaghara"
+        ],
+        "answer": "Ganga"
+      }
+    ],
+    "medium": [
+      {
+        "question": "At which town do the Bhagirathi and Alaknanda meet to form the Ganga?",
+        "options": [
+          "Devprayag",
+          "Rishikesh",
+          "Haridwar"
+        ],
+        "answer": "Devprayag"
+      },
+      {
+        "question": "What is the Tibetan name for the upper course of the Brahmaputra?",
+        "options": [
+          "Yarlung Tsangpo",
+          "Koshi",
+          "Sutlej"
+        ],
+        "answer": "Yarlung Tsangpo"
+      },
+      {
+        "question": "Which dam is constructed across the Mahanadi River in Odisha?",
+        "options": [
+          "Hirakud Dam",
+          "Bhakra Dam",
+          "Tehri Dam"
+        ],
+        "answer": "Hirakud Dam"
+      },
+      {
+        "question": "Which river is historically nicknamed the 'Sorrow of Bengal' for its floods?",
+        "options": [
+          "Damodar",
+          "Mahanadi",
+          "Kaveri"
+        ],
+        "answer": "Damodar"
+      },
+      {
+        "question": "Which river originates at Talakaveri in the Western Ghats?",
+        "options": [
+          "Kaveri",
+          "Godavari",
+          "Krishna"
+        ],
+        "answer": "Kaveri"
+      },
+      {
+        "question": "Which river flows through Srinagar in the Kashmir Valley?",
+        "options": [
+          "Jhelum",
+          "Chenab",
+          "Ravi"
+        ],
+        "answer": "Jhelum"
+      },
+      {
+        "question": "Which tributary of the Brahmaputra has a name meaning 'red' in several local languages?",
+        "options": [
+          "Lohit",
+          "Dibang",
+          "Subansiri"
+        ],
+        "answer": "Lohit"
+      },
+      {
+        "question": "Which historic anicut, one of the world's oldest dams, is built across the Kaveri?",
+        "options": [
+          "Kallanai (Grand Anicut)",
+          "Sardar Sarovar",
+          "Hirakud"
+        ],
+        "answer": "Kallanai (Grand Anicut)"
+      },
+      {
+        "question": "Which dam creates the Nagarjuna Sagar reservoir on the Krishna River?",
+        "options": [
+          "Nagarjuna Sagar Dam",
+          "Bhakra Dam",
+          "Tehri Dam"
+        ],
+        "answer": "Nagarjuna Sagar Dam"
+      },
+      {
+        "question": "Which two rivers primarily form the Ganges-Brahmaputra delta?",
+        "options": [
+          "Ganga and Brahmaputra",
+          "Godavari and Krishna",
+          "Narmada and Tapi"
+        ],
+        "answer": "Ganga and Brahmaputra"
+      },
+      {
+        "question": "Which city holds a major Kumbh Mela on the banks of the Godavari?",
+        "options": [
+          "Nashik",
+          "Haridwar",
+          "Prayagraj"
+        ],
+        "answer": "Nashik"
+      },
+      {
+        "question": "Which river originates near Amarkantak along with the Narmada?",
+        "options": [
+          "Son",
+          "Tapti",
+          "Kali"
+        ],
+        "answer": "Son"
+      },
+      {
+        "question": "Which inter-state water dispute primarily involves Karnataka and Tamil Nadu?",
+        "options": [
+          "Cauvery water dispute",
+          "Narmada water dispute",
+          "Godavari water dispute"
+        ],
+        "answer": "Cauvery water dispute"
+      },
+      {
+        "question": "The Tehri Dam is built on which Ganga headstream?",
+        "options": [
+          "Bhagirathi",
+          "Alaknanda",
+          "Yamuna"
+        ],
+        "answer": "Bhagirathi"
+      },
+      {
+        "question": "Which river's delta is famed for the 'Konaseema' region in Andhra Pradesh?",
+        "options": [
+          "Krishna",
+          "Mahanadi",
+          "Godavari"
+        ],
+        "answer": "Krishna"
+      },
+      {
+        "question": "Which river basin forms the extensive agricultural Indo-Gangetic Plain?",
+        "options": [
+          "Ganges basin",
+          "Godavari basin",
+          "Narmada basin"
+        ],
+        "answer": "Ganges basin"
+      },
+      {
+        "question": "Which small river drains into Chilika Lake near Puri, Odisha?",
+        "options": [
+          "Daya",
+          "Brahmani",
+          "Mahi"
+        ],
+        "answer": "Daya"
+      },
+      {
+        "question": "Which river valley corporation pioneered multipurpose projects in eastern India?",
+        "options": [
+          "Damodar Valley Corporation",
+          "Narmada Valley Project",
+          "Kaveri Project"
+        ],
+        "answer": "Damodar Valley Corporation"
+      },
+      {
+        "question": "Which major river flows through Leh in Ladakh before entering Pakistan?",
+        "options": [
+          "Indus",
+          "Zanskar",
+          "Sutlej"
+        ],
+        "answer": "Indus"
+      },
+      {
+        "question": "Which river is the main source of irrigation in Tamil Nadu's delta plains?",
+        "options": [
+          "Cauvery",
+          "Godavari",
+          "Krishna"
+        ],
+        "answer": "Cauvery"
+      },
+      {
+        "question": "Which major port in Odisha lies on the mouth of the Mahanadi River?",
+        "options": [
+          "Paradip",
+          "Kandla",
+          "Visakhapatnam"
+        ],
+        "answer": "Paradip"
+      },
+      {
+        "question": "Which major tributary joins the Yamuna downstream contributing significant flow?",
+        "options": [
+          "Chambal",
+          "Narmada",
+          "Godavari"
+        ],
+        "answer": "Chambal"
+      },
+      {
+        "question": "Which river flows into the Arabian Sea at the port of Mangaluru?",
+        "options": [
+          "Netravati",
+          "Periyar",
+          "Tapti"
+        ],
+        "answer": "Netravati"
+      },
+      {
+        "question": "Which distributary of the Kaveri flows around Srirangam island?",
+        "options": [
+          "Kollidam",
+          "Palar",
+          "Ponnaiyar"
+        ],
+        "answer": "Kollidam"
+      },
+      {
+        "question": "Which river originates in Manipur and continues as the Surma in Bangladesh?",
+        "options": [
+          "Barak",
+          "Brahmaputra",
+          "Lohit"
+        ],
+        "answer": "Barak"
+      },
+      {
+        "question": "Which river supplies water to the city of Pune through the confluence of Mula and Mutha?",
+        "options": [
+          "Mula-Mutha",
+          "Bhima",
+          "Patalganga"
+        ],
+        "answer": "Mula-Mutha"
+      },
+      {
+        "question": "Which river is the primary distributary channel used by Kolkata for commercial shipping?",
+        "options": [
+          "Hooghly",
+          "Gomti",
+          "Varuna"
+        ],
+        "answer": "Hooghly"
+      },
+      {
+        "question": "Which western Ghats river forms the large backwater and port system at Kochi?",
+        "options": [
+          "Periyar",
+          "Narmada",
+          "Kaveri"
+        ],
+        "answer": "Periyar"
+      },
+      {
+        "question": "Which river is associated with the historic city of Srirangapatna in Karnataka?",
+        "options": [
+          "Kaveri",
+          "Krishna",
+          "Godavari"
+        ],
+        "answer": "Kaveri"
+      },
+      {
+        "question": "Which river is joined by the Ghaghara before it meets the Ganges?",
+        "options": [
+          "Ghaghara joins the Ganges directly",
+          "Ghaghara joins the Yamuna",
+          "Ghaghara joins the Brahmaputra"
+        ],
+        "answer": "Ghaghara joins the Ganges directly"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which river is the longest tributary of the Ganges by length?",
+        "options": [
+          "Yamuna",
+          "Ghaghara",
+          "Gomti"
+        ],
+        "answer": "Yamuna"
+      },
+      {
+        "question": "Which headstream of the Brahmaputra carves one of the world's deepest gorges in Tibet?",
+        "options": [
+          "Yarlung Tsangpo",
+          "Indus",
+          "Sutlej"
+        ],
+        "answer": "Yarlung Tsangpo"
+      },
+      {
+        "question": "Which Indian river carries one of the highest sediment loads due to Himalayan erosion?",
+        "options": [
+          "Brahmaputra",
+          "Mahanadi",
+          "Godavari"
+        ],
+        "answer": "Brahmaputra"
+      },
+      {
+        "question": "Which river's estuary contains Sagar Island, an important pilgrimage site near Kolkata?",
+        "options": [
+          "Hooghly (Ganga distributary)",
+          "Mahanadi",
+          "Krishna"
+        ],
+        "answer": "Hooghly (Ganga distributary)"
+      },
+      {
+        "question": "Which river is the primary source for the Farakka Barrage project?",
+        "options": [
+          "Ganga",
+          "Yamuna",
+          "Tapi"
+        ],
+        "answer": "Ganga"
+      },
+      {
+        "question": "Which river in India is the principal contributor to the island ecosystems of the Sundarbans?",
+        "options": [
+          "Ganga-Brahmaputra system",
+          "Godavari system",
+          "Narmada system"
+        ],
+        "answer": "Ganga-Brahmaputra system"
+      },
+      {
+        "question": "Which river formed the deep ravines associated with Chambal dacoits in central India?",
+        "options": [
+          "Chambal",
+          "Betwa",
+          "Sone"
+        ],
+        "answer": "Chambal"
+      },
+      {
+        "question": "Which river's basin contains the largest portion of India's coalfields including Jharia?",
+        "options": [
+          "Damodar",
+          "Mahanadi",
+          "Godavari"
+        ],
+        "answer": "Damodar"
+      },
+      {
+        "question": "Which river originates at Trimbakeshwar in Maharashtra?",
+        "options": [
+          "Godavari",
+          "Bhima",
+          "Tapi"
+        ],
+        "answer": "Godavari"
+      },
+      {
+        "question": "Which two rivers create the classic 'Doab' region in northern India?",
+        "options": [
+          "Ganga and Yamuna",
+          "Krishna and Godavari",
+          "Narmada and Tapi"
+        ],
+        "answer": "Ganga and Yamuna"
+      },
+      {
+        "question": "Which gulf receives discharge from the Tapti River?",
+        "options": [
+          "Gulf of Khambhat",
+          "Gulf of Mannar",
+          "Karaikal Bay"
+        ],
+        "answer": "Gulf of Khambhat"
+      },
+      {
+        "question": "Which river in Goa is paired with the Mandovi as a major waterway for the state?",
+        "options": [
+          "Zuari",
+          "Tapi",
+          "Narmada"
+        ],
+        "answer": "Zuari"
+      },
+      {
+        "question": "Which Indian river's delta is shared with Bangladesh and includes the world’s largest mangrove?",
+        "options": [
+          "Ganges-Brahmaputra-Meghna",
+          "Godavari-Krishna",
+          "Mahanadi-Tel"
+        ],
+        "answer": "Ganges-Brahmaputra-Meghna"
+      },
+      {
+        "question": "Which Himalayan river is the easternmost major tributary of the Indus system within India?",
+        "options": [
+          "Sutlej",
+          "Chenab",
+          "Jhelum"
+        ],
+        "answer": "Sutlej"
+      },
+      {
+        "question": "Which river is the primary freshwater source for the city of Guwahati and flows through Assam?",
+        "options": [
+          "Brahmaputra",
+          "Mahanadi",
+          "Godavari"
+        ],
+        "answer": "Brahmaputra"
+      },
+      {
+        "question": "Which river in India experiences a notable tidal bore near its estuary, historically challenging navigation?",
+        "options": [
+          "Hooghly",
+          "Kaveri",
+          "Tapi"
+        ],
+        "answer": "Hooghly"
+      },
+      {
+        "question": "Which tributary is the largest left-bank tributary of the Ganga by discharge?",
+        "options": [
+          "Ghaghara",
+          "Gomti",
+          "Kosi"
+        ],
+        "answer": "Ghaghara"
+      },
+      {
+        "question": "Which river is associated with the historic Grand Anicut engineering work built in the 2nd century CE?",
+        "options": [
+          "Kaveri",
+          "Narmada",
+          "Krishna"
+        ],
+        "answer": "Kaveri"
+      },
+      {
+        "question": "Which river's basin encompasses the Konkan coast's Western Ghats rain catchment areas?",
+        "options": [
+          "Godavari",
+          "Narmada",
+          "Kaveri"
+        ],
+        "answer": "Godavari"
+      },
+      {
+        "question": "Which river in northeastern India splits to form Majuli, the world's largest river island?",
+        "options": [
+          "Brahmaputra",
+          "Barak",
+          "Teesta"
+        ],
+        "answer": "Brahmaputra"
+      },
+      {
+        "question": "Which Indian river's source region is the Zanskar Range and is a major tributary of the Indus?",
+        "options": [
+          "Zanskar River",
+          "Sutlej",
+          "Beas"
+        ],
+        "answer": "Zanskar River"
+      },
+      {
+        "question": "Which river system was central to the construction of the Sone Barrage for irrigation in Bihar?",
+        "options": [
+          "Sone",
+          "Ghaghara",
+          "Gomti"
+        ],
+        "answer": "Sone"
+      },
+      {
+        "question": "Which river flows through the Eastern Ghats and forms the delta containing the Pulicat Lake area?",
+        "options": [
+          "Penna",
+          "Swarnamukhi",
+          "Arani"
+        ],
+        "answer": "Penna"
+      },
+      {
+        "question": "Which river is the largest east-flowing peninsular river by length after the Godavari?",
+        "options": [
+          "Krishna",
+          "Mahanadi",
+          "Cauvery"
+        ],
+        "answer": "Krishna"
+      },
+      {
+        "question": "Which river's catchment includes the Sundergarh and Angul coalfields in Odisha?",
+        "options": [
+          "Mahanadi",
+          "Godavari",
+          "Brahmani"
+        ],
+        "answer": "Mahanadi"
+      },
+      {
+        "question": "Which river's name means 'river of gold' in local languages and flows through eastern India?",
+        "options": [
+          "Subarnarekha",
+          "Damodar",
+          "Gomti"
+        ],
+        "answer": "Subarnarekha"
+      },
+      {
+        "question": "Which river forms the boundary between the states of Assam and Arunachal Pradesh in places?",
+        "options": [
+          "Subansiri",
+          "Teesta",
+          "Dibang"
+        ],
+        "answer": "Subansiri"
+      },
+      {
+        "question": "Which river was harnessed by the Sardar Sarovar Project on its Narmada basin for irrigation and power?",
+        "options": [
+          "Narmada",
+          "Tapti",
+          "Mahi"
+        ],
+        "answer": "Narmada"
+      },
+      {
+        "question": "Which major Himalayan tributary of the Ganges originates in Nepal and joins on the left bank?",
+        "options": [
+          "Gandak",
+          "Chambal",
+          "Betwa"
+        ],
+        "answer": "Gandak"
+      },
+      {
+        "question": "Which river system is designated as National Waterway 1 along the Haldia–Allahabad stretch?",
+        "options": [
+          "Ganga-Hooghly system",
+          "Godavari-Krishna system",
+          "Narmada-Tapi system"
+        ],
+        "answer": "Ganga-Hooghly system"
+      }
+    ]
+  }
+}

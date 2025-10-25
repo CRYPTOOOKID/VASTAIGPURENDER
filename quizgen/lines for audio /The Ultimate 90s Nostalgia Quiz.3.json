@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which boy band released the 1999 hit 'I Want It That Way'?"
+    },
+    {
+      "question_id": 2,
+      "question": "What year did Microsoft officially release Windows 95 to consumers?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which fashion icon's 1994 coat at a red carpet influenced 1990s outerwear trends?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which late-night host took over The Tonight Show in 1992?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which animated feature from 1998 was produced by DreamWorks instead of Pixar?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1996 movie's soundtrack featured the single 'Gangsta's Paradise' by Coolio?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which console did Nintendo release for North America in 1991 as a 16-bit system?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which television drama's pilot aired in 1999 featuring a teenage protagonist named Buffy?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1995 indie film introduced a unique nonlinear story structure and influenced future cinema?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which online auction and marketplace company launched in the 1990s?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company released the original Sony PlayStation in 1994 in Japan?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1999 album by Eminem launched his mainstream career with alter ego Slim Shady?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blue video game character runs fast and collects rings?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which rapper released the 1995 album 'Me Against the World'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1994 action film's soundtrack sold millions and featured multiple hip-hop collaborations?"
+    }
+  ]
+}

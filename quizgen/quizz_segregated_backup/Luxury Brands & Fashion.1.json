@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which house uses the interlocked YSL monogram as its signature mark?",
+      "options": [
+        "Yves Saint Laurent",
+        "Prada",
+        "Fendi"
+      ],
+      "answer": "Yves Saint Laurent"
+    },
+    {
+      "question_id": 2,
+      "question": "Which fashion house created the iconic 2.55 bag in February 1955?",
+      "options": [
+        "Chanel",
+        "Hermès",
+        "Gucci"
+      ],
+      "answer": "Chanel"
+    },
+    {
+      "question_id": 3,
+      "question": "Which renowned fashion photographer shot many iconic Vogue covers and campaigns for Dior and Chanel?",
+      "options": [
+        "Richard Avedon",
+        "Annie Leibovitz",
+        "Mario Testino"
+      ],
+      "answer": "Richard Avedon"
+    },
+    {
+      "question_id": 4,
+      "question": "Which luxury brand is renowned for Swiss-made watches?",
+      "options": [
+        "Rolex",
+        "Zara",
+        "H&M"
+      ],
+      "answer": "Rolex"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fashion house produced the iconic 'Prada nylon' backpack worn by celebrities in the 1990s?",
+      "options": [
+        "Prada",
+        "Miu Miu",
+        "Chanel"
+      ],
+      "answer": "Prada"
+    },
+    {
+      "question_id": 6,
+      "question": "Which couturier used math and geometry to sculpt garments and influenced modern architectural dressmaking?",
+      "options": [
+        "Paul Poiret",
+        "Madeleine Vionnet",
+        "Cristóbal Balenciaga"
+      ],
+      "answer": "Cristóbal Balenciaga"
+    },
+    {
+      "question_id": 7,
+      "question": "Which brand uses the interlocked double-G logo?",
+      "options": [
+        "Gucci",
+        "Givenchy",
+        "Versace"
+      ],
+      "answer": "Gucci"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Italian label launched the 'Sicilian' themed collections and use of religious iconography?",
+      "options": [
+        "Dolce & Gabbana",
+        "Versace",
+        "Fendi"
+      ],
+      "answer": "Dolce & Gabbana"
+    },
+    {
+      "question_id": 9,
+      "question": "Which luxury conglomerate acquired Fendi in a close partnership with the founding family in 2001?",
+      "options": [
+        "LVMH",
+        "Kering",
+        "Richemont"
+      ],
+      "answer": "LVMH"
+    },
+    {
+      "question_id": 10,
+      "question": "Which luxury house popularized the silk carré scarf as a signature accessory?",
+      "options": [
+        "Hermès",
+        "Chanel",
+        "Dior"
+      ],
+      "answer": "Hermès"
+    },
+    {
+      "question_id": 11,
+      "question": "Which couture technique describes garments made to a client’s precise measurements?",
+      "options": [
+        "Haute couture",
+        "Prêt-à-porter",
+        "Bespoke"
+      ],
+      "answer": "Haute couture"
+    },
+    {
+      "question_id": 12,
+      "question": "Which fashion house established a signature interwoven leather technique called 'intrecciato' in the 1960s?",
+      "options": [
+        "Bottega Veneta",
+        "Valentino",
+        "Chloé"
+      ],
+      "answer": "Bottega Veneta"
+    },
+    {
+      "question_id": 13,
+      "question": "Which city is Louis Vuitton originally associated with?",
+      "options": [
+        "Paris",
+        "Milan",
+        "London"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Italian maison popularized the Gommino driving shoe?",
+      "options": [
+        "Tod's",
+        "Salvatore Ferragamo",
+        "Prada"
+      ],
+      "answer": "Tod's"
+    },
+    {
+      "question_id": 15,
+      "question": "Which designer took over as creative director at Gucci in 2015 and shifted the brand aesthetic?",
+      "options": [
+        "Alessandro Michele",
+        "Frida Giannini",
+        "Tom Ford"
+      ],
+      "answer": "Alessandro Michele"
+    }
+  ]
+}

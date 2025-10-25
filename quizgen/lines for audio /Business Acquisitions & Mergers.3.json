@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is a vertical merger?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a reverse takeover?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which defense involves selling prized assets to thwart a bidder?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is integration after a merger?"
+    },
+    {
+      "question_id": 5,
+      "question": "What concern is central to horizontal merger antitrust review?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which high-profile proposed merger was blocked or constrained due to competition concerns in recent years?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is goodwill in a business combination?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which method does IFRS require for business combinations?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes ongoing operational commitments imposed by regulators?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes paying with company shares?"
+    },
+    {
+      "question_id": 11,
+      "question": "What increases on the acquirer's balance sheet when purchase price exceeds fair value?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which factor often drives strategic buyers to pay higher premiums than financial sponsors?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the main goal of post-merger integration (PMI)?"
+    },
+    {
+      "question_id": 14,
+      "question": "What remedy often requires selling assets to secure antitrust approval?"
+    },
+    {
+      "question_id": 15,
+      "question": "What duty does the board owe when a company is up for sale, per Revlon doctrine?"
+    }
+  ]
+}

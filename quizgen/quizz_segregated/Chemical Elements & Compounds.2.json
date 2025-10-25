@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which element is commonly used in light bulb filaments?",
+      "options": [
+        "Aluminum",
+        "Lead",
+        "Tungsten"
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "question_id": 2,
+      "question": "Which element is used as a catalyst in catalytic converters to reduce emissions?",
+      "options": [
+        "Platinum",
+        "Magnesium",
+        "Lead"
+      ],
+      "answer": "Platinum"
+    },
+    {
+      "question_id": 3,
+      "question": "Which element discovered by Seaborg completed the actinide series and is named after him?",
+      "options": [
+        "Curium",
+        "Seaborgium",
+        "Berkelium"
+      ],
+      "answer": "Seaborgium"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element is commonly used in aircraft because of its low density?",
+      "options": [
+        "Copper",
+        "Lead",
+        "Aluminum"
+      ],
+      "answer": "Aluminum"
+    },
+    {
+      "question_id": 5,
+      "question": "Which compound is commonly used as antifreeze in cars?",
+      "options": [
+        "Ethylene glycol",
+        "Propanol",
+        "Glycerol"
+      ],
+      "answer": "Ethylene glycol"
+    },
+    {
+      "question_id": 6,
+      "question": "Which transition metal forms stable carbonyl complexes like Fe(CO)5 used historically in organometallic chemistry?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Copper"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 7,
+      "question": "Which element is used to sterilize water and is a pale yellow gas?",
+      "options": [
+        "Bromine",
+        "Chlorine",
+        "Fluorine"
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 8,
+      "question": "Which element is commonly used in X-ray tubes for its high melting point and stability?",
+      "options": [
+        "Tungsten",
+        "Nickel",
+        "Copper"
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "question_id": 9,
+      "question": "Which element forms perovskite-structured oxides like SrTiO3 used in ferroelectric and photovoltaic research?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Titanium"
+      ],
+      "answer": "Titanium"
+    },
+    {
+      "question_id": 10,
+      "question": "What common element makes up most of the Sun's mass?",
+      "options": [
+        "Hydrogen",
+        "Iron",
+        "Oxygen"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 11,
+      "question": "Which compound makes up most of natural gas used for heating and cooking?",
+      "options": [
+        "Ethane",
+        "Propane",
+        "Methane"
+      ],
+      "answer": "Methane"
+    },
+    {
+      "question_id": 12,
+      "question": "Which element's presence in seawater gives it a slightly bitter taste and is essential for marine life in trace amounts?",
+      "options": [
+        "Chlorine",
+        "Magnesium",
+        "Sodium"
+      ],
+      "answer": "Magnesium"
+    },
+    {
+      "question_id": 13,
+      "question": "Which noble gas is used in neon signs to produce red light?",
+      "options": [
+        "Neon",
+        "Argon",
+        "Krypton"
+      ],
+      "answer": "Neon"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element is used in semiconductor devices and has four valence electrons?",
+      "options": [
+        "Silicon",
+        "Arsenic",
+        "Germanium"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 15,
+      "question": "Which element's carbonate minerals include malachite and azurite, recognized as copper ores and pigments?",
+      "options": [
+        "Zinc",
+        "Copper",
+        "Lead"
+      ],
+      "answer": "Copper"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What key privacy change in mobile advertising affected targeting after 2020?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which sophisticated analysis reveals audiences likely to respond incrementally to ads?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced metric tracks viewable impressions relative to served impressions?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which method improves personalization while preserving privacy through aggregation?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which advanced creative measurement links specific assets to business outcomes?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which technique optimizes bids by predicting conversion probability in real time?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which advanced KPI assesses channel efficiency after controlling for external factors?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistical approach is preferred for sequential experiments to control false positives?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which data strategy reduces reliance on third-party cookies for targeting?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which modeling technique quantifies uplift from marketing versus natural conversion?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which advanced creative personalization balances relevance and scale without privacy leaks?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which tactic ensures creative diversity to avoid ad fatigue at scale?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which advanced campaign optimization prioritizes reducing churn among high-value customers?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which experimental design avoids interference between test and control exposures?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ad-buying environment uses private deals and guaranteed inventory?"
+    }
+  ]
+}

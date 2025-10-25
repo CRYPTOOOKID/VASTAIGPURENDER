@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which bamboo wind instrument is central to Indian classical flute tradition?",
+      "options": [
+        "Bansuri",
+        "Shehnai",
+        "Clarinet"
+      ],
+      "answer": "Bansuri"
+    },
+    {
+      "question_id": 2,
+      "question": "Which gharana is associated with the sitarist Vilayat Khan?",
+      "options": [
+        "Etawah (Imdadkhani)",
+        "Patiala",
+        "Gwalior"
+      ],
+      "answer": "Etawah (Imdadkhani)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technique names the vocal percussion performance tradition in Carnatic music using syllables?",
+      "options": [
+        "Konnakol",
+        "Sargam",
+        "Bol"
+      ],
+      "answer": "Konnakol"
+    },
+    {
+      "question_id": 4,
+      "question": "Which instrument, associated with goddess Saraswati, is a plucked South Indian lute?",
+      "options": [
+        "Veena",
+        "Sitar",
+        "Sarod"
+      ],
+      "answer": "Veena"
+    },
+    {
+      "question_id": 5,
+      "question": "Which maestro popularized the bansuri in Hindustani classical concerts?",
+      "options": [
+        "Hariprasad Chaurasia",
+        "Shivkumar Sharma",
+        "Ravi Shankar"
+      ],
+      "answer": "Hariprasad Chaurasia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which delicate bridge shaping on sitar creates the characteristic buzzing resonance called jawari?",
+      "options": [
+        "Bridge filing on tabli",
+        "Tuning pegs adjustment",
+        "Sympathetic string removal"
+      ],
+      "answer": "Bridge filing on tabli"
+    },
+    {
+      "question_id": 7,
+      "question": "Which wind instrument is traditionally played at Indian weddings and auspicious events?",
+      "options": [
+        "Shehnai",
+        "Bansuri",
+        "Saxophone"
+      ],
+      "answer": "Shehnai"
+    },
+    {
+      "question_id": 8,
+      "question": "Which instrumental section follows alap and introduces pulse without tala in Hindustani performance?",
+      "options": [
+        "Jor",
+        "Jhala",
+        "Gat"
+      ],
+      "answer": "Jor"
+    },
+    {
+      "question_id": 9,
+      "question": "Which percussion technique uses a threefold rhythmic cadence, often ending a tabla solo?",
+      "options": [
+        "Tihai",
+        "Rela",
+        "Kayda"
+      ],
+      "answer": "Tihai"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two-drum percussion instrument commonly accompanies Hindustani performances?",
+      "options": [
+        "Tabla",
+        "Mridangam",
+        "Dholak"
+      ],
+      "answer": "Tabla"
+    },
+    {
+      "question_id": 11,
+      "question": "Which musicologist organized Hindustani ragas into ten thaats in the early 20th century?",
+      "options": [
+        "Vishnu Narayan Bhatkhande",
+        "Ravi Shankar",
+        "Pandit Omkarnath"
+      ],
+      "answer": "Vishnu Narayan Bhatkhande"
+    },
+    {
+      "question_id": 12,
+      "question": "Which classical vocalist from the 20th century established the Jaipur-Atrauli gharana lineage?",
+      "options": [
+        "Alladiya Khan",
+        "Bismillah Khan",
+        "Pandit Omkarnath"
+      ],
+      "answer": "Alladiya Khan"
+    },
+    {
+      "question_id": 13,
+      "question": "Which sitar maestro popularized Indian classical music internationally?",
+      "options": [
+        "Ravi Shankar",
+        "Zakir Hussain",
+        "Hariprasad Chaurasia"
+      ],
+      "answer": "Ravi Shankar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which percussion instrument predates tabla and remains central to dhrupad accompaniment?",
+      "options": [
+        "Pakhawaj",
+        "Mridangam",
+        "Dhol"
+      ],
+      "answer": "Pakhawaj"
+    },
+    {
+      "question_id": 15,
+      "question": "Which notation innovation did V.N. Bhatkhande introduce to standardize raga teaching in the 20th century?",
+      "options": [
+        "Thaat system and notation",
+        "Western staff notation",
+        "Gharana labels only"
+      ],
+      "answer": "Thaat system and notation"
+    }
+  ]
+}

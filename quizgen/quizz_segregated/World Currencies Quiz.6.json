@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency uses the symbol ₹?",
+      "options": [
+        "Sri Lankan Rupee",
+        "Indian Rupee",
+        "Pakistani Rupee"
+      ],
+      "answer": "Indian Rupee"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency uses the name 'forint' and is used in Hungary?",
+      "options": [
+        "Czech Koruna",
+        "Polish Zloty",
+        "Hungarian Forint"
+      ],
+      "answer": "Hungarian Forint"
+    },
+    {
+      "question_id": 3,
+      "question": "Which currency features portraits of national heroes rather than monarchs on most banknotes since republican transition?",
+      "options": [
+        "British Pound",
+        "Japanese Yen",
+        "Turkish Lira"
+      ],
+      "answer": "Turkish Lira"
+    },
+    {
+      "question_id": 4,
+      "question": "What currency is used in the Philippines?",
+      "options": [
+        "Indonesian Rupiah",
+        "Philippine Peso",
+        "Malaysian Ringgit"
+      ],
+      "answer": "Philippine Peso"
+    },
+    {
+      "question_id": 5,
+      "question": "Which currency replaced the Zimbabwean dollar after hyperinflation and before a new local currency?",
+      "options": [
+        "Euro",
+        "US Dollar",
+        "South African Rand"
+      ],
+      "answer": "US Dollar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which currency was demonetized in India in 2016 as part of a move against counterfeit currency?",
+      "options": [
+        "500 and 1000 rupee notes",
+        "200 and 50 rupee notes",
+        "100 and 20 rupee notes"
+      ],
+      "answer": "500 and 1000 rupee notes"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency uses the symbol €?",
+      "options": [
+        "Pound Sterling",
+        "Euro",
+        "Ruble"
+      ],
+      "answer": "Euro"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency is issued by the Eastern Caribbean Central Bank?",
+      "options": [
+        "Caribbean Peso",
+        "East Caribbean Dollar",
+        "US Dollar"
+      ],
+      "answer": "East Caribbean Dollar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Southeast Asian currency is issued in coins called 'sen' and notes called 'ringgit'?",
+      "options": [
+        "Thai Baht",
+        "Indonesian Rupiah",
+        "Malaysian Ringgit"
+      ],
+      "answer": "Malaysian Ringgit"
+    },
+    {
+      "question_id": 10,
+      "question": "What currency is used in Turkey?",
+      "options": [
+        "Euro",
+        "Dollar",
+        "Turkish Lira"
+      ],
+      "answer": "Turkish Lira"
+    },
+    {
+      "question_id": 11,
+      "question": "Which African country uses the CFA franc issued by the West African states?",
+      "options": [
+        "Kenya",
+        "Senegal",
+        "Egypt"
+      ],
+      "answer": "Senegal"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Scandinavian currency historically used 'öre' and 'krona' before EU-era adjustments?",
+      "options": [
+        "Danish Krone",
+        "Swedish Krona",
+        "Norwegian Krone"
+      ],
+      "answer": "Swedish Krona"
+    },
+    {
+      "question_id": 13,
+      "question": "Which currency is used by Japan's neighbors with a similar name but different symbol?",
+      "options": [
+        "Renminbi (China)",
+        "Won (Korea)",
+        "Yen (Japan)"
+      ],
+      "answer": "Yen (Japan)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which currency experienced the longest continuous gold backing in modern history influencing global trade?",
+      "options": [
+        "Swiss Franc",
+        "Pound Sterling",
+        "US Dollar"
+      ],
+      "answer": "Pound Sterling"
+    },
+    {
+      "question_id": 15,
+      "question": "Which currency was part of a successful currency board arrangement in Hong Kong maintaining a tight peg to the US dollar?",
+      "options": [
+        "Hong Kong Dollar",
+        "Macanese Pataca",
+        "Chinese Renminbi"
+      ],
+      "answer": "Hong Kong Dollar"
+    }
+  ]
+}

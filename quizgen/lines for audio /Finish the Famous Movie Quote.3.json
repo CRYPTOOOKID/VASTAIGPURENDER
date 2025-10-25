@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the famous movie quote: \"Go ahead, make my ____.\" (Sudden Impact)."
+    },
+    {
+      "question_id": 2,
+      "question": "Finish the quote: \"May the Force be with you\" was first spoken in which Star Wars film?"
+    },
+    {
+      "question_id": 3,
+      "question": "Finish the quote: \"Bond. James Bond.\" — which film first used this exact cadence?"
+    },
+    {
+      "question_id": 4,
+      "question": "Finish the famous movie quote: \"Here's looking at ____\" (Casablanca)."
+    },
+    {
+      "question_id": 5,
+      "question": "Finish the quote: \"They call it a Royale with ____\" (Pulp Fiction)."
+    },
+    {
+      "question_id": 6,
+      "question": "Finish the quote: \"Here's Johnny!\" — the line references which TV host?"
+    },
+    {
+      "question_id": 7,
+      "question": "Finish the famous movie quote: \"I'll be ____\" (from The Terminator)."
+    },
+    {
+      "question_id": 8,
+      "question": "Finish the quote: \"To infinity and ____!\" (Toy Story)."
+    },
+    {
+      "question_id": 9,
+      "question": "Finish the quote: \"Here's looking at you, kid\" — which actor originally improvised this line?"
+    },
+    {
+      "question_id": 10,
+      "question": "Finish the famous movie quote: \"I see dead ____.\" (The Sixth Sense)."
+    },
+    {
+      "question_id": 11,
+      "question": "Finish the quote: \"You had me at hello\" — what does this reveal about the speaker?"
+    },
+    {
+      "question_id": 12,
+      "question": "Finish the quote: \"Frankly, my dear, I don't give a damn\" — which studio fought to cut 'damn'?"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the famous movie quote: \"Here's Johnny!\" originates from which film?"
+    },
+    {
+      "question_id": 14,
+      "question": "Finish the quote: \"My mama always said life was like a box of chocolates.\" Who says it?"
+    },
+    {
+      "question_id": 15,
+      "question": "Finish the quote: \"May the Force be with you\" — which film later subverts this line emotionally?"
+    }
+  ]
+}

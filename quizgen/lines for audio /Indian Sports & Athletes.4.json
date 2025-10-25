@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which sport is popularized in India by the Pro Kabaddi League?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian wrestler won India's first wrestling medal at the 2008 Olympics?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian chess grandmaster drew a historic 1998 match to win the FIDE World Championship? (Reference: Anand era)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian cricketer captained India to the 2007 ICC World Twenty20 title?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian footballer captained India to the 1962 Asian Games gold medal?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian athlete won the 2018 Jakarta Asian Games gold in 400m hurdles?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian field hockey team captain led India to multiple Olympic golds pre-independence?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian bowler delivered the match-winning over in the 2007 T20 World Cup final?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian athlete won gold in discus throw at the 2018 Asian Games?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian chess player became World Chess Champion and popularized chess nationally?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian cricketer took a hat-trick in the 2007 ICC World Twenty20 Super 8s?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian cricketer was awarded Player of the Tournament in the 2007 T20 World Cup?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian sprinter reached fourth place in the 1960 Olympic 400m final?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who captained the Indian women's hockey team at the 2020 Tokyo Olympics?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian cricketer took a Test hat-trick and five-wicket haul at Lord's in 1986?"
+    }
+  ]
+}

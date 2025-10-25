@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which fresh cheese made by curdling milk with an acid is commonly used in North Indian cooking?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which spice derived from dried unripe mango is widely used as a tangy souring powder in Indian cooking?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which food preservation technique involving fermentation of raw mango, fish, or vegetables is widely practiced across northeastern India?"
+    },
+    {
+      "question_id": 4,
+      "question": "Aloo paratha is a stuffed flatbread primarily filled with which ingredient mashed and spiced?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which spice paste, made by grinding roasted spices, is a foundation of many Hyderabadi gravies?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Goan fish preparation traditionally uses kokum and coconut with a tangy-sour profile unique to Konkan cuisine?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which South Indian thin, tangy soup flavored with tamarind, tomato, and spices is called rasam?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which paneer-based curry from North India features a rich tomato-cream gravy and is popular internationally?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which technique describes shallow frying and then slow braising of spices and onions to create a concentrated base called bhuna?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which regional cuisine term refers to the refined slow-cooking style developed in Lucknow's royal kitchens?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which spice mix commonly used in street chaat includes amchur, roasted cumin, and black salt for tangy flavor?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which royal multi-course Kashmiri feast traditionally consists of around thirty-six meat-based dishes served together?"
+    },
+    {
+      "question_id": 13,
+      "question": "Ragi, a millet used for nutritious dosas and porridge, is commonly known by which English name?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which leafy green and mustard-based Punjabi dish is traditionally eaten with makki di roti in winter months?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which lesser-known Bengali confection uses roasted chhena and sugar cooked to a fudge-like consistency called 'sandesh'?"
+    }
+  ]
+}

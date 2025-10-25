@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Tamil festival involves women preparing kolams and offering thanks for the harvest?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival celebrates the divine feminine and culminates in Vijayadashami processions in many states?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival features a public horse or chariot procession called 'Kavad' in some North Indian regions?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival is associated with decorating doorways with colorful rangoli patterns?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which festival's name literally means 'boat journey' and features deities pulled on chariots?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival in Kerala is linked to the temple at Thrikkakara and myth of Vamana and Mahabali?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which festival marks the birth of Sikhism's first guru, Guru Nanak?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival features the ritual of drawing intricate rice-paste floor designs called 'kolam' in Tamil Nadu?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which four river-bank sites rotate as locations for the traditional Kumbh Mela cycle?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival marks the harvest in Assam with traditional dances like Bihu?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival involves worship of tools, vehicles, and instruments as part of Durga or Annapurna worship in streets?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which festival's central legend involves the demon king Hiranyakashipu and Prahlada's devotion to Vishnu?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival celebrates the birth of Lord Krishna?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival's climax includes the burning of Ravana, Kumbhakarna, and Meghnad effigies?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival celebrated in Tamil Nadu marks the Tamil New Year with auspicious rites called 'Puthandu'?"
+    }
+  ]
+}

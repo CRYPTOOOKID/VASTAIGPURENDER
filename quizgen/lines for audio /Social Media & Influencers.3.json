@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"verified\" status usually indicate on social platforms?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which content format tends to generate highest organic engagement for influencers?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which concept describes influencer value beyond immediate sales, like trust and awareness?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which action indicates immediate audience approval on many platforms?"
+    },
+    {
+      "question_id": 5,
+      "question": "What follower range commonly defines a micro-influencer in industry practice?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Asian platform popularized livestream commerce before western adoption?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which metric helps compare creator performance across accounts?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which campaign famously used influencers and went viral, spotlighting ALS research?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which practice increases authenticity when influencers disclose sponsorships effectively?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which social network is primarily career-focused and professional?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which short-video feature did Instagram add explicitly to compete with TikTok?"
+    },
+    {
+      "question_id": 12,
+      "question": "What practice did the FTC emphasize in its 2017-2020 influencer guidance updates?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which platform introduced the Stories format popularized across apps?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does \"reach frequency\" measure in a campaign?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which platform's verification initially depended heavily on celebrity status and press coverage?"
+    }
+  ]
+}

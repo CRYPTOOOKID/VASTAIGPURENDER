@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which regiment is famous for the Gurkha soldiers in the Indian Army?",
+      "options": [
+        "Rajput Regiment",
+        "Punjab Regiment",
+        "Gorkha Rifles"
+      ],
+      "answer": "Gorkha Rifles"
+    },
+    {
+      "question_id": 2,
+      "question": "Which long-range surface-to-air missile system is used by the Indian Air Force and Army?",
+      "options": [
+        "Akash only",
+        "S-400",
+        "Stinger"
+      ],
+      "answer": "S-400"
+    },
+    {
+      "question_id": 3,
+      "question": "Which corps handles artillery firepower and includes regiments named after calibres like 155 mm guns?",
+      "options": [
+        "Corps of Signals",
+        "Regiment of Artillery",
+        "Corps of Engineers"
+      ],
+      "answer": "Regiment of Artillery"
+    },
+    {
+      "question_id": 4,
+      "question": "Which service uses warships and aircraft carriers primarily?",
+      "options": [
+        "Indian Navy",
+        "Indian Army",
+        "Indian Air Force"
+      ],
+      "answer": "Indian Navy"
+    },
+    {
+      "question_id": 5,
+      "question": "Which university-style tri-service academy provides combined training to cadets from all three services?",
+      "options": [
+        "Defence Services Staff College",
+        "Indian Military Academy",
+        "National Defence Academy"
+      ],
+      "answer": "National Defence Academy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1974 event demonstrated India's first successful nuclear device test at Pokhran?",
+      "options": [
+        "Smiling Buddha test",
+        "Operation Shakti",
+        "Operation Shanti"
+      ],
+      "answer": "Smiling Buddha test"
+    },
+    {
+      "question_id": 7,
+      "question": "Which award is the second-highest wartime gallantry decoration in India?",
+      "options": [
+        "Vir Chakra",
+        "Param Vir Chakra",
+        "Maha Vir Chakra"
+      ],
+      "answer": "Maha Vir Chakra"
+    },
+    {
+      "question_id": 8,
+      "question": "Which riverine or amphibious capability is part of the Indian Navy's MARCOS force?",
+      "options": [
+        "Marine Commandos conduct special operations and amphibious raids",
+        "Coast Guard handles amphibious combat",
+        "Naval Aviation manages all amphibious operations"
+      ],
+      "answer": "Marine Commandos conduct special operations and amphibious raids"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian missile development under DRDO combines road-mobile launch and multi-stage solid motors for strategic range?",
+      "options": [
+        "Prithvi series",
+        "BrahMos cruise missile",
+        "Agni series"
+      ],
+      "answer": "Agni series"
+    },
+    {
+      "question_id": 10,
+      "question": "Which force conducts coastal security alongside the Indian Navy?",
+      "options": [
+        "Central Reserve Police Force",
+        "Border Security Force",
+        "Coast Guard"
+      ],
+      "answer": "Coast Guard"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unit famously captured Tiger Hill during the Kargil conflict?",
+      "options": [
+        "14 Punjab",
+        "1 Madras",
+        "9 Gorkha Rifles"
+      ],
+      "answer": "14 Punjab"
+    },
+    {
+      "question_id": 12,
+      "question": "Which formation conducts combined maritime exercises such as MILAN to boost regional cooperation?",
+      "options": [
+        "Indian Air Force organizes MILAN",
+        "Indian Navy organizes MILAN",
+        "Indian Army organizes MILAN"
+      ],
+      "answer": "Indian Navy organizes MILAN"
+    },
+    {
+      "question_id": 13,
+      "question": "Which rank is the head of the Indian Army usually appointed to?",
+      "options": [
+        "General",
+        "Colonel",
+        "Major"
+      ],
+      "answer": "General"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian military operation in 1987 involved the Indian Peace Keeping Force in Sri Lanka?",
+      "options": [
+        "Operation Blue Star",
+        "Operation Pawan",
+        "Operation Cactus"
+      ],
+      "answer": "Operation Pawan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which officer served as India’s first Chief of Defence Staff appointed in December 2019?",
+      "options": [
+        "General Bipin Rawat",
+        "General V. P. Malik",
+        "Admiral L. Ramdas"
+      ],
+      "answer": "General Bipin Rawat"
+    }
+  ]
+}

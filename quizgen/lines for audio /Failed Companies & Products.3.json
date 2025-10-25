@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which 1993 video game console from Atari failed commercially and left limited market impact?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which mail-order video rental startup tried to transform video rental before Blockbuster's decline?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which beverage experiment from PepsiCo reappeared briefly but ultimately failed to become a permanent product line?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which subscription music service filed for bankruptcy after competing with Spotify and Apple Music?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which social network was acquired by Specific Media and Justin Timberlake in 2011?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which media rental chain's CEO turned down an opportunity to buy Netflix in the early 2000s?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Sega console, released in 1999, was discontinued in 2001 and marked Sega's hardware exit?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which early internet company symbolized speculative excess and collapsed after spending on marketing and logistics?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1980s videotape format lost market dominance despite superior picture quality according to many technologists?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which smartphone maker once dominated business phones but declined after the iPhone's 2007 launch?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which failed music device by Microsoft attempted to integrate subscription services into a portable player?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1999 online retailer became emblematic of the dot-com bubble with a famous sock puppet advertising campaign?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which wearable tech product struggled in the consumer market due to privacy concerns and high price?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which hardware product did Google end public sales for in 2015 after limited consumer uptake?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which high-end portable device by Apple in the early 1990s was intended for education and targeted niche markets?"
+    }
+  ]
+}

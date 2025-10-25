@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which movie fits the emoji clue '🚢🧊'?",
+        "options": [
+          "Titanic",
+          "The Poseidon Adventure",
+          "Life of Pi"
+        ],
+        "answer": "Titanic"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🦁👑'?",
+        "options": [
+          "The Lion King",
+          "King Kong",
+          "Brave"
+        ],
+        "answer": "The Lion King"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🦖🌴'?",
+        "options": [
+          "Jurassic Park",
+          "King Kong",
+          "Ice Age"
+        ],
+        "answer": "Jurassic Park"
+      },
+      {
+        "question": "Which movie fits the emoji clue '⭐⚔️'?",
+        "options": [
+          "Star Wars",
+          "The Lord of the Rings",
+          "Stardust"
+        ],
+        "answer": "Star Wars"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧙‍♂️⚡️'?",
+        "options": [
+          "Harry Potter",
+          "The Hobbit",
+          "The Sorcerer's Apprentice"
+        ],
+        "answer": "Harry Potter"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕷️🧑'?",
+        "options": [
+          "Spider-Man",
+          "Ant-Man",
+          "The Fly"
+        ],
+        "answer": "Spider-Man"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🐟🔍'?",
+        "options": [
+          "Finding Nemo",
+          "The Shape of Water",
+          "Life of Pi"
+        ],
+        "answer": "Finding Nemo"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🤠👽'?",
+        "options": [
+          "Cowboys & Aliens",
+          "Toy Story",
+          "Westworld"
+        ],
+        "answer": "Cowboys & Aliens"
+      },
+      {
+        "question": "Which movie fits the emoji clue '❄️👭'?",
+        "options": [
+          "Frozen",
+          "The Parent Trap",
+          "Sisters"
+        ],
+        "answer": "Frozen"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🦈🌊'?",
+        "options": [
+          "Jaws",
+          "The Meg",
+          "Finding Dory"
+        ],
+        "answer": "Jaws"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🤖🕶️'?",
+        "options": [
+          "I, Robot",
+          "The Matrix",
+          "Terminator"
+        ],
+        "answer": "I, Robot"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🌪️👠'?",
+        "options": [
+          "The Wizard of Oz",
+          "Twister",
+          "The Hurricane"
+        ],
+        "answer": "The Wizard of Oz"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👽🚲'?",
+        "options": [
+          "E.T.",
+          "Close Encounters",
+          "Alien"
+        ],
+        "answer": "E.T."
+      },
+      {
+        "question": "Which movie fits the emoji clue '🐒🗼'?",
+        "options": [
+          "King Kong",
+          "Planet of the Apes",
+          "Godzilla"
+        ],
+        "answer": "King Kong"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👨‍🚀🌕'?",
+        "options": [
+          "Apollo 13",
+          "Gravity",
+          "The Martian"
+        ],
+        "answer": "Apollo 13"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧟‍♂️🏙️'?",
+        "options": [
+          "World War Z",
+          "Shaun of the Dead",
+          "Zombieland"
+        ],
+        "answer": "World War Z"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🎩🐰'?",
+        "options": [
+          "The Prestige",
+          "The Illusionist",
+          "Harry Potter"
+        ],
+        "answer": "The Prestige"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🛸👽'?",
+        "options": [
+          "Close Encounters of the Third Kind",
+          "Independence Day",
+          "E.T."
+        ],
+        "answer": "Close Encounters of the Third Kind"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🏁🚗'?",
+        "options": [
+          "Fast & Furious",
+          "Cars",
+          "Days of Thunder"
+        ],
+        "answer": "Fast & Furious"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧊🚪'?",
+        "options": [
+          "The Chronicles of Narnia",
+          "The Lion King",
+          "Frozen"
+        ],
+        "answer": "The Chronicles of Narnia"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🚗⏰'?",
+        "options": [
+          "Back to the Future",
+          "The Time Machine",
+          "Bill & Ted's Excellent Adventure"
+        ],
+        "answer": "Back to the Future"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🏹🔥'?",
+        "options": [
+          "The Hunger Games",
+          "Brave",
+          "Robin Hood"
+        ],
+        "answer": "The Hunger Games"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧝‍♂️💍'?",
+        "options": [
+          "The Lord of the Rings",
+          "The Hobbit",
+          "Harry Potter"
+        ],
+        "answer": "The Lord of the Rings"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕵️‍♂️🔪'?",
+        "options": [
+          "Knives Out",
+          "Sherlock Holmes",
+          "Clue"
+        ],
+        "answer": "Knives Out"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👨‍🔬🧪'?",
+        "options": [
+          "Frankenstein",
+          "The Martian",
+          "Contagion"
+        ],
+        "answer": "Frankenstein"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🏝️⚽️'?",
+        "options": [
+          "Cast Away",
+          "Life of Pi",
+          "Swiss Family Robinson"
+        ],
+        "answer": "Cast Away"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🦸‍♂️🕶️'?",
+        "options": [
+          "Iron Man",
+          "Superman",
+          "Batman"
+        ],
+        "answer": "Iron Man"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧸🚀'?",
+        "options": [
+          "Toy Story",
+          "The Martian",
+          "WALL·E"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🏴‍☠️⛵'?",
+        "options": [
+          "Pirates of the Caribbean",
+          "Master and Commander",
+          "Treasure Island"
+        ],
+        "answer": "Pirates of the Caribbean"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which movie fits the emoji clue sequence '🧠💤🔁'?",
+        "options": [
+          "Inception",
+          "Memento",
+          "Eternal Sunshine of the Spotless Mind"
+        ],
+        "answer": "Inception"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕰️🛰️👨'?",
+        "options": [
+          "Interstellar",
+          "The Martian",
+          "Gravity"
+        ],
+        "answer": "Interstellar"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕶️👽🕵️'?",
+        "options": [
+          "Men in Black",
+          "The X-Files Movie",
+          "The Adjustment Bureau"
+        ],
+        "answer": "Men in Black"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🐻🚵‍♂️'?",
+        "options": [
+          "The Revenant",
+          "Brother Bear",
+          "Paddington"
+        ],
+        "answer": "The Revenant"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧊👑👧'?",
+        "options": [
+          "Frozen",
+          "The Chronicles of Narnia",
+          "The Queen"
+        ],
+        "answer": "Frozen"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🔬🧬🦠'?",
+        "options": [
+          "Contagion",
+          "I Am Legend",
+          "Outbreak"
+        ],
+        "answer": "Contagion"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👨‍🚀📡🪐'?",
+        "options": [
+          "The Martian",
+          "Gravity",
+          "Interstellar"
+        ],
+        "answer": "The Martian"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🛡️🗡️👑'?",
+        "options": [
+          "Gladiator",
+          "Braveheart",
+          "King Arthur"
+        ],
+        "answer": "Braveheart"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧑‍🎤⭐🎸'?",
+        "options": [
+          "Bohemian Rhapsody",
+          "Rocketman",
+          "A Star Is Born"
+        ],
+        "answer": "Bohemian Rhapsody"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧳✈️⛴️'?",
+        "options": [
+          "The Terminal",
+          "Catch Me If You Can",
+          "Up in the Air"
+        ],
+        "answer": "The Terminal"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧑‍🎓🔮🏫'?",
+        "options": [
+          "Harry Potter and the Sorcerer's Stone",
+          "Matilda",
+          "The Craft"
+        ],
+        "answer": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧟‍♀️🛍️'?",
+        "options": [
+          "Train to Busan",
+          "Dawn of the Dead",
+          "Shaun of the Dead"
+        ],
+        "answer": "Shaun of the Dead"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🎨🖼️👨‍🎨'?",
+        "options": [
+          "The Grand Budapest Hotel",
+          "Loving Vincent",
+          "The Artist"
+        ],
+        "answer": "Loving Vincent"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👩‍👧‍👦🛣️🚐'?",
+        "options": [
+          "Little Miss Sunshine",
+          "The Goonies",
+          "National Lampoon's Vacation"
+        ],
+        "answer": "Little Miss Sunshine"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🐘🎪🎩'?",
+        "options": [
+          "Dumbo",
+          "The Greatest Showman",
+          "Water for Elephants"
+        ],
+        "answer": "Dumbo"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕵️‍♀️📦🔍'?",
+        "options": [
+          "The Girl with the Dragon Tattoo",
+          "Zodiac",
+          "Mystic River"
+        ],
+        "answer": "Zodiac"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧊🏞️🔪'?",
+        "options": [
+          "Fargo",
+          "The Hateful Eight",
+          "No Country for Old Men"
+        ],
+        "answer": "Fargo"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧑‍🏫🎓📚'?",
+        "options": [
+          "Dead Poets Society",
+          "Freedom Writers",
+          "Good Will Hunting"
+        ],
+        "answer": "Dead Poets Society"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕴️💼⌛'?",
+        "options": [
+          "The Adjustment Bureau",
+          "In Time",
+          "Limitless"
+        ],
+        "answer": "In Time"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👩‍⚖️📖🇺🇸'?",
+        "options": [
+          "To Kill a Mockingbird",
+          "A Few Good Men",
+          "12 Angry Men"
+        ],
+        "answer": "To Kill a Mockingbird"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🕺🎶🗽'?",
+        "options": [
+          "Saturday Night Fever",
+          "West Side Story",
+          "Step Up"
+        ],
+        "answer": "West Side Story"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧑‍🚀🛰️🌌'?",
+        "options": [
+          "2001: A Space Odyssey",
+          "Alien",
+          "Moon"
+        ],
+        "answer": "2001: A Space Odyssey"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👨‍👩‍👧‍👦🎈🏠'?",
+        "options": [
+          "Up",
+          "The Incredibles",
+          "Home Alone"
+        ],
+        "answer": "Up"
+      },
+      {
+        "question": "Which movie fits the emoji clue '👩‍🚒🔥🏢'?",
+        "options": [
+          "Backdraft",
+          "The Towering Inferno",
+          "Ladder 49"
+        ],
+        "answer": "Backdraft"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧪👨‍🔬👾'?",
+        "options": [
+          "The Fly",
+          "Splice",
+          "Annihilation"
+        ],
+        "answer": "The Fly"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🏜️🔫🤠'?",
+        "options": [
+          "No Country for Old Men",
+          "The Good, the Bad and the Ugly",
+          "Django Unchained"
+        ],
+        "answer": "The Good, the Bad and the Ugly"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧭⚓🌊'?",
+        "options": [
+          "Master and Commander",
+          "Life of Pi",
+          "Moby Dick"
+        ],
+        "answer": "Master and Commander"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧑‍🏫🎤🎵'?",
+        "options": [
+          "Whiplash",
+          "Singin' in the Rain",
+          "School of Rock"
+        ],
+        "answer": "School of Rock"
+      },
+      {
+        "question": "Which movie fits the emoji clue '🧑‍🔧🚗💥'?",
+        "options": [
+          "The Fast and the Furious",
+          "Christine",
+          "Gone in 60 Seconds"
+        ],
+        "answer": "Gone in 60 Seconds"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which movie fits the emoji clue '🕰️🌆🔁' that emphasizes repeating days concept?",
+        "options": [
+          "Groundhog Day",
+          "Edge of Tomorrow",
+          "Source Code"
+        ],
+        "answer": "Groundhog Day"
+      },
+      {
+        "question": "Which movie fits '🧭📜🏴‍☠️' referencing maritime treasure maps?",
+        "options": [
+          "Treasure Island",
+          "Pirates of the Caribbean",
+          "The Goonies"
+        ],
+        "answer": "Treasure Island"
+      },
+      {
+        "question": "Which movie fits '👩‍🌾🌽👻' about haunted rural settings?",
+        "options": [
+          "Signs",
+          "Poltergeist",
+          "The Wicker Man"
+        ],
+        "answer": "Signs"
+      },
+      {
+        "question": "Which movie fits '🎪🎩🤡' about a historical circus?",
+        "options": [
+          "The Greatest Showman",
+          "Water for Elephants",
+          "The Elephant Man"
+        ],
+        "answer": "The Greatest Showman"
+      },
+      {
+        "question": "Which movie matches '📺👨‍👩‍👧‍👦🔮', blending media and prophecy?",
+        "options": [
+          "The Ring",
+          "Poltergeist",
+          "Videodrome"
+        ],
+        "answer": "Poltergeist"
+      },
+      {
+        "question": "Which movie matches emoji clue '⛏️💎🏔️' about mountain treasure mining?",
+        "options": [
+          "The Treasure of the Sierra Madre",
+          "Gold",
+          "The Revenant"
+        ],
+        "answer": "The Treasure of the Sierra Madre"
+      },
+      {
+        "question": "Which movie fits '🎬🔍🕵️' referencing a filmmaker mystery?",
+        "options": [
+          "The Player",
+          "Day for Night",
+          "Tropic Thunder"
+        ],
+        "answer": "The Player"
+      },
+      {
+        "question": "Which movie fits '🧑‍✈️🌧️🛬' about an emergency landing?",
+        "options": [
+          "Sully",
+          "Flight",
+          "Alive"
+        ],
+        "answer": "Sully"
+      },
+      {
+        "question": "Which movie fits '🌋🚢🔥' involving island eruption and escape?",
+        "options": [
+          "Dante's Peak",
+          "Krakatoa, East of Java",
+          "Journey to the Center of the Earth"
+        ],
+        "answer": "Krakatoa, East of Java"
+      },
+      {
+        "question": "Which movie fits '🔒🏛️📜' about a heist with historical clues?",
+        "options": [
+          "National Treasure",
+          "The Da Vinci Code",
+          "The Monuments Men"
+        ],
+        "answer": "National Treasure"
+      },
+      {
+        "question": "Which movie fits '🎻🔪🔍' centering on musical obsession and murder?",
+        "options": [
+          "Whiplash",
+          "The Red Violin",
+          "The Phantom of the Opera"
+        ],
+        "answer": "The Phantom of the Opera"
+      },
+      {
+        "question": "Which movie matches '🏙️🚴‍♂️📸' focused on a city photographer?",
+        "options": [
+          "Manhunter",
+          "Rear Window",
+          "Blow-Up"
+        ],
+        "answer": "Blow-Up"
+      },
+      {
+        "question": "Which film fits '🪞🕵️‍♂️🧠' about memory and identity reconstruction?",
+        "options": [
+          "Memento",
+          "Total Recall",
+          "The Bourne Identity"
+        ],
+        "answer": "Memento"
+      },
+      {
+        "question": "Which movie fits '🐺🌕🔪' referencing classic transformations?",
+        "options": [
+          "The Wolfman",
+          "An American Werewolf in London",
+          "The Howling"
+        ],
+        "answer": "An American Werewolf in London"
+      },
+      {
+        "question": "Which movie fits '🧭🌊💡' about navigating by a single guiding light?",
+        "options": [
+          "The Lighthouse",
+          "All Is Lost",
+          "Life of Pi"
+        ],
+        "answer": "The Lighthouse"
+      },
+      {
+        "question": "Which movie fits '🧪🔭🌌' exploring mutation and cosmic discovery?",
+        "options": [
+          "Annihilation",
+          "Contact",
+          "Event Horizon"
+        ],
+        "answer": "Annihilation"
+      },
+      {
+        "question": "Which movie fits '🪦⏳⚖️' focusing on justice delayed and mortality?",
+        "options": [
+          "The Green Mile",
+          "Dead Man Walking",
+          "Mystic River"
+        ],
+        "answer": "The Green Mile"
+      },
+      {
+        "question": "Which movie fits '🧳🔑🏨' about a peculiar hotel locked in time?",
+        "options": [
+          "The Grand Budapest Hotel",
+          "The Shining",
+          "Hotel Rwanda"
+        ],
+        "answer": "The Grand Budapest Hotel"
+      },
+      {
+        "question": "Which movie matches '🦅🏔️👨' highlighting a lone mountaineer and bird motif?",
+        "options": [
+          "The Eagle Huntress",
+          "The Revenant",
+          "Everest"
+        ],
+        "answer": "The Revenant"
+      },
+      {
+        "question": "Which movie fits '☠️🏴‍☠️💰' about a cursed pirate treasure?",
+        "options": [
+          "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "Cutthroat Island",
+          "Treasure Planet"
+        ],
+        "answer": "Pirates of the Caribbean: The Curse of the Black Pearl"
+      },
+      {
+        "question": "Which movie fits '🖼️🕵️‍♀️💰' about art theft and forgery investigation?",
+        "options": [
+          "The Thomas Crown Affair",
+          "The Monuments Men",
+          "The Great Train Robbery"
+        ],
+        "answer": "The Thomas Crown Affair"
+      },
+      {
+        "question": "Which movie fits '👩‍🚀🧊🛰️' involving frozen space discovery?",
+        "options": [
+          "Sunshine",
+          "Alien: Covenant",
+          "Europa Report"
+        ],
+        "answer": "Europa Report"
+      },
+      {
+        "question": "Which movie fits '🏃‍♂️📞🚨' about a prisoner chasing calls and danger?",
+        "options": [
+          "Cellular",
+          "Phone Booth",
+          "Die Hard 4.0"
+        ],
+        "answer": "Cellular"
+      },
+      {
+        "question": "Which movie fits '🧶🛋️👵' about a cozy thread connecting generations?",
+        "options": [
+          "Fried Green Tomatoes",
+          "The Hundred-Foot Journey",
+          "The Best Exotic Marigold Hotel"
+        ],
+        "answer": "The Best Exotic Marigold Hotel"
+      },
+      {
+        "question": "Which movie fits '🎭📽️🕊️' blending silent performance and cinematic transition?",
+        "options": [
+          "The Artist",
+          "Singin' in the Rain",
+          "Chaplin"
+        ],
+        "answer": "The Artist"
+      },
+      {
+        "question": "Which film fits '🏞️🦌🎯' focusing on hunting, wilderness, and pursuit?",
+        "options": [
+          "The Deer Hunter",
+          "Deliverance",
+          "The Hunger Games"
+        ],
+        "answer": "The Deer Hunter"
+      },
+      {
+        "question": "Which movie fits '🧱🕶️🚔' featuring a gritty urban cop and moral conflict?",
+        "options": [
+          "Se7en",
+          "Training Day",
+          "Heat"
+        ],
+        "answer": "Training Day"
+      },
+      {
+        "question": "Which movie fits '🎒🔫👦' depicting boyhood adventure with weapon motif?",
+        "options": [
+          "Stand by Me",
+          "The Goonies",
+          "Home Alone"
+        ],
+        "answer": "The Goonies"
+      },
+      {
+        "question": "Which movie fits '🧠🏥🕳️' exploring psychological treatment and dream invasion?",
+        "options": [
+          "Shutter Island",
+          "A Clockwork Orange",
+          "Jacob's Ladder"
+        ],
+        "answer": "Shutter Island"
+      },
+      {
+        "question": "Which movie matches '📡👽👨‍🔬' about institutional contact and scientific secrecy?",
+        "options": [
+          "Contact",
+          "The Andromeda Strain",
+          "Dark Skies"
+        ],
+        "answer": "Contact"
+      }
+    ]
+  }
+}

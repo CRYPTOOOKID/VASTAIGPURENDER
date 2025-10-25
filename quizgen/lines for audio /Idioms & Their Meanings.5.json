@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"burn the midnight oil\" mean?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom means \"examine details too closely and miss the bigger picture\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom exemplifies synecdoche, using part to represent a whole?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"spill the beans\" commonly mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom most closely matches \"sudden and complete collapse\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom originally emerged from printing press or publishing contexts?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"pull someone’s leg\" mean playfully?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom describes \"someone who refuses new ideas stubbornly\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom exemplifies a proverb-like structure delivering moral advice?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"break a leg\" mean when said to performers?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom denotes \"stop arguing and accept a result\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom originally described courtroom or legal procedure language historically?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"face the music\" mean figuratively?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom best matches \"act before thinking leads to mistakes\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom best illustrates a calque from French into English historically?"
+    }
+  ]
+}

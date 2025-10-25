@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is customer acquisition cost (CAC)?",
+      "options": [
+        "Average cost to acquire a new customer",
+        "Revenue from the first product sale",
+        "Total monthly website visits"
+      ],
+      "answer": "Average cost to acquire a new customer"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a patent designed to protect legally?",
+      "options": [
+        "Novel inventions and technical processes for a limited time",
+        "Brand slogans and logos",
+        "Employee noncompete clauses"
+      ],
+      "answer": "Novel inventions and technical processes for a limited time"
+    },
+    {
+      "question_id": 3,
+      "question": "What is an earnout structure used for in acquisitions?",
+      "options": [
+        "Tie part of purchase price to future performance milestones",
+        "Guarantee immediate full payment regardless of outcomes",
+        "Prevent seller from working for competitors forever"
+      ],
+      "answer": "Tie part of purchase price to future performance milestones"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a business's value proposition?",
+      "options": [
+        "Clear reason customers choose its product or service",
+        "Legal ownership structure of the business",
+        "Internal company mission statement only employees use"
+      ],
+      "answer": "Clear reason customers choose its product or service"
+    },
+    {
+      "question_id": 5,
+      "question": "What does a consolidated financial statement combine?",
+      "options": [
+        "Parent company and its subsidiaries into a single report",
+        "Only the assets of several independent companies",
+        "Multiple years of tax filings into one document"
+      ],
+      "answer": "Parent company and its subsidiaries into a single report"
+    },
+    {
+      "question_id": 6,
+      "question": "What does 'barriers to entry' refer to in industry analysis?",
+      "options": [
+        "Factors that make it difficult for new competitors to enter",
+        "Government incentives for new startups only",
+        "Short-term promotional campaigns to attract customers"
+      ],
+      "answer": "Factors that make it difficult for new competitors to enter"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a brand in business context?",
+      "options": [
+        "Perception and identity associated with a product or company",
+        "List of product ingredients",
+        "Legal patent for an invention"
+      ],
+      "answer": "Perception and identity associated with a product or company"
+    },
+    {
+      "question_id": 8,
+      "question": "What does a convertible note provide to startup investors?",
+      "options": [
+        "Debt that can convert to equity under specified conditions",
+        "Permanent unrestricted ownership stake immediately",
+        "A nonbinding letter of intent only"
+      ],
+      "answer": "Debt that can convert to equity under specified conditions"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the Herfindahl-Hirschman Index measure for industries?",
+      "options": [
+        "Market concentration using sum of squared market shares",
+        "Average consumer satisfaction across brands",
+        "Typical product lifecycle length in years"
+      ],
+      "answer": "Market concentration using sum of squared market shares"
+    },
+    {
+      "question_id": 10,
+      "question": "What does diversification aim to reduce for investors or firms?",
+      "options": [
+        "Exposure to risk through a varied portfolio or activities",
+        "Total annual tax liability",
+        "Number of managerial layers"
+      ],
+      "answer": "Exposure to risk through a varied portfolio or activities"
+    },
+    {
+      "question_id": 11,
+      "question": "What is activity-based costing designed to improve?",
+      "options": [
+        "Accuracy of product-cost allocation using activity drivers",
+        "Speed of payroll processing",
+        "Customer relationship management"
+      ],
+      "answer": "Accuracy of product-cost allocation using activity drivers"
+    },
+    {
+      "question_id": 12,
+      "question": "What does a contingent liability represent on corporate accounts?",
+      "options": [
+        "Potential obligation dependent on future events",
+        "Fixed repayment schedule for long-term loans",
+        "Guaranteed revenue stream from contracts"
+      ],
+      "answer": "Potential obligation dependent on future events"
+    },
+    {
+      "question_id": 13,
+      "question": "What does a staggered board structure attempt to achieve?",
+      "options": [
+        "Prevent hostile takeovers by rotating director elections",
+        "Allow immediate replacement of all directors annually",
+        "Require unanimous shareholder approval for price changes"
+      ],
+      "answer": "Prevent hostile takeovers by rotating director elections"
+    },
+    {
+      "question_id": 14,
+      "question": "What is RACI used for in project management governance?",
+      "options": [
+        "Define who is Responsible, Accountable, Consulted, and Informed",
+        "Calculate project cost estimates using linear models",
+        "Track inventory levels across multiple warehouses"
+      ],
+      "answer": "Define who is Responsible, Accountable, Consulted, and Informed"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the corporate purpose of an equity carve-out transaction?",
+      "options": [
+        "Sell minority stake in a subsidiary while retaining control",
+        "Immediately dissolve the subsidiary and liquidate assets",
+        "Transfer all intellectual property to competitors"
+      ],
+      "answer": "Sell minority stake in a subsidiary while retaining control"
+    }
+  ]
+}

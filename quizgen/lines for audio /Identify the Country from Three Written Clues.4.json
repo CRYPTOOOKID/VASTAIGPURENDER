@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Serengeti, Mount Kilimanjaro, Swahili language — Which country?"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Gaelic language, Loch Ness, Edinburgh Castle — Which country?"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Rohingya crisis attention, Yangon former capital, Irrawaddy Delta — Which country?"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Maple leaf, Toronto, Niagara Falls — Which country?"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Basque Country, Guggenheim Museum, Bilbao — Which country?"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Lake Titicaca, Aymara culture, high-altitude capital La Paz — Which country?"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Ha Long Bay, Hanoi, pho — Which country?"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Suez Canal, Alexandria library history, Sinai Peninsula — Which country?"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Sahel nation, Timbuktu manuscripts, Niger River loop — Which country?"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Big Ben, London, red double-decker buses — Which country?"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Bollywood headquarters, Bollywood films, Hindi film industry center — Which country?"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Quechua language prevalence, Nazca Lines, Cusco Inca history — Which country?"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Rolex watches, Alps, Geneva — Which country?"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Chocolate brand Nestlé origin, Geneva diplomacy, neutrality — Which country?"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Haka war dance origin, Waitangi Treaty, Wellington capital — Which country?"
+    }
+  ]
+}

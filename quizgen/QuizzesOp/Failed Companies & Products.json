@@ -1,0 +1,811 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which dot-com era company used a sock puppet mascot and collapsed during 2000?",
+        "options": [
+          "Pets.com",
+          "Webvan",
+          "eToys"
+        ],
+        "answer": "Pets.com"
+      },
+      {
+        "question": "Which photography company filed for bankruptcy in 2012 after failing to adapt to digital cameras?",
+        "options": [
+          "Kodak",
+          "Polaroid",
+          "Fujifilm"
+        ],
+        "answer": "Kodak"
+      },
+      {
+        "question": "Which video rental chain filed for bankruptcy in 2010 as streaming services grew?",
+        "options": [
+          "Blockbuster",
+          "Movie Gallery",
+          "Hollywood Video"
+        ],
+        "answer": "Blockbuster"
+      },
+      {
+        "question": "Which Coca-Cola reformulation launched in 1985 and was quickly withdrawn due to customer backlash?",
+        "options": [
+          "New Coke",
+          "Coca-Cola Zero",
+          "Coke II"
+        ],
+        "answer": "New Coke"
+      },
+      {
+        "question": "Which high-profile health startup was exposed for fraudulent blood-testing technology?",
+        "options": [
+          "Theranos",
+          "Vioxx",
+          "Valeant"
+        ],
+        "answer": "Theranos"
+      },
+      {
+        "question": "Which expensive home juicer required proprietary packets and shut down in 2017?",
+        "options": [
+          "Juicero",
+          "Nutribullet Pro",
+          "Blendtec Stealth"
+        ],
+        "answer": "Juicero"
+      },
+      {
+        "question": "Which grocery delivery startup expanded rapidly then collapsed during the dot-com crash?",
+        "options": [
+          "Webvan",
+          "Instacart",
+          "Shipt"
+        ],
+        "answer": "Webvan"
+      },
+      {
+        "question": "Which portable music player did Microsoft release in 2006 that failed to beat the iPod?",
+        "options": [
+          "Zune",
+          "PlayForSure",
+          "Portable Media Center"
+        ],
+        "answer": "Zune"
+      },
+      {
+        "question": "Which smartphone by Amazon launched in 2014 and failed to attract mainstream buyers?",
+        "options": [
+          "Amazon Fire Phone",
+          "Kindle Phone",
+          "Echo Phone"
+        ],
+        "answer": "Amazon Fire Phone"
+      },
+      {
+        "question": "Which collaborative communication product Google launched in 2009 then discontinued soon after?",
+        "options": [
+          "Google Wave",
+          "Google Buzz",
+          "Google Talk"
+        ],
+        "answer": "Google Wave"
+      },
+      {
+        "question": "Which Apple workstation launched in 1983 failed commercially but influenced Macintosh development?",
+        "options": [
+          "Apple Lisa",
+          "Apple IIe",
+          "Macintosh Portable"
+        ],
+        "answer": "Apple Lisa"
+      },
+      {
+        "question": "Which hybrid gaming-phone released in 2003 failed due to awkward design and low sales?",
+        "options": [
+          "Nokia N-Gage",
+          "Sony Ericsson Xperia Play",
+          "Motorola RAZR V3"
+        ],
+        "answer": "Nokia N-Gage"
+      },
+      {
+        "question": "Which clear soda introduced in the early 1990s failed to last on shelves?",
+        "options": [
+          "Crystal Pepsi",
+          "Tab Clear",
+          "Surge Clear"
+        ],
+        "answer": "Crystal Pepsi"
+      },
+      {
+        "question": "Which modular smartphone project led by Google was canceled before mass production?",
+        "options": [
+          "Project Ara",
+          "Project Tango",
+          "Project Vault"
+        ],
+        "answer": "Project Ara"
+      },
+      {
+        "question": "Which subscription music service filed for bankruptcy after competing with Spotify and Apple Music?",
+        "options": [
+          "Rdio",
+          "Napster",
+          "Grooveshark"
+        ],
+        "answer": "Rdio"
+      },
+      {
+        "question": "Which automobile company became infamous in the early 1980s and produced an iconic stainless-steel sports car?",
+        "options": [
+          "DeLorean",
+          "AMC",
+          "Triumph"
+        ],
+        "answer": "DeLorean"
+      },
+      {
+        "question": "Which short-form streaming startup raised large funding then folded within months in 2020?",
+        "options": [
+          "Quibi",
+          "Vine 2.0",
+          "Beme"
+        ],
+        "answer": "Quibi"
+      },
+      {
+        "question": "Which Sega console, released in 1999, was discontinued in 2001 and marked Sega's hardware exit?",
+        "options": [
+          "Dreamcast",
+          "Saturn",
+          "Mega Drive"
+        ],
+        "answer": "Dreamcast"
+      },
+      {
+        "question": "Which HP tablet running webOS launched in 2011 then got discontinued after poor sales?",
+        "options": [
+          "HP TouchPad",
+          "HP Slate 7",
+          "HP ElitePad"
+        ],
+        "answer": "HP TouchPad"
+      },
+      {
+        "question": "Which social network lost dominance after Facebook rose and saw steep user decline?",
+        "options": [
+          "Myspace",
+          "Friendster",
+          "Orkut"
+        ],
+        "answer": "Myspace"
+      },
+      {
+        "question": "Which bitcoin exchange collapsed in 2014 after losing customer funds?",
+        "options": [
+          "Mt. Gox",
+          "Bitstamp",
+          "Coinbase"
+        ],
+        "answer": "Mt. Gox"
+      },
+      {
+        "question": "Which smartphone maker once dominated business phones but declined after the iPhone's 2007 launch?",
+        "options": [
+          "BlackBerry",
+          "Palm",
+          "Nokia"
+        ],
+        "answer": "BlackBerry"
+      },
+      {
+        "question": "Which wearable tech product struggled in the consumer market due to privacy concerns and high price?",
+        "options": [
+          "Google Glass",
+          "Samsung Gear",
+          "Microsoft Band"
+        ],
+        "answer": "Google Glass"
+      },
+      {
+        "question": "Which mobile operating system by Microsoft failed to capture market share and was discontinued in 2017?",
+        "options": [
+          "Windows Phone",
+          "Windows Mobile",
+          "Windows CE"
+        ],
+        "answer": "Windows Phone"
+      },
+      {
+        "question": "Which instant camera company declared bankruptcy in 2001 before later restructuring its brand?",
+        "options": [
+          "Polaroid",
+          "Instax",
+          "Kodak"
+        ],
+        "answer": "Polaroid"
+      },
+      {
+        "question": "Which rapid-delivery startup promised one-hour service and collapsed during the dot-com bust?",
+        "options": [
+          "Kozmo",
+          "Shipt",
+          "DoorDash"
+        ],
+        "answer": "Kozmo"
+      },
+      {
+        "question": "Which Apple handheld assistant from the 1990s struggled commercially because of handwriting recognition issues?",
+        "options": [
+          "Newton",
+          "Pippin",
+          "eMate 300"
+        ],
+        "answer": "Newton"
+      },
+      {
+        "question": "Which personal transporter promised revolution but did not achieve projected mass-market adoption?",
+        "options": [
+          "Segway",
+          "Hoverboard",
+          "iBOT"
+        ],
+        "answer": "Segway"
+      },
+      {
+        "question": "Which energy company collapsed in 2001 after one of the largest accounting scandals in U.S. history?",
+        "options": [
+          "Enron",
+          "WorldCom",
+          "Tyco"
+        ],
+        "answer": "Enron"
+      },
+      {
+        "question": "Which 1993 video game console from Atari failed commercially and left limited market impact?",
+        "options": [
+          "Atari Jaguar",
+          "3DO",
+          "Neo Geo"
+        ],
+        "answer": "Atari Jaguar"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did Kodak file for Chapter 11 bankruptcy protection?",
+        "options": [
+          "2012",
+          "2008",
+          "2015"
+        ],
+        "answer": "2012"
+      },
+      {
+        "question": "What year did Blockbuster file for bankruptcy protection?",
+        "options": [
+          "2010",
+          "2006",
+          "2014"
+        ],
+        "answer": "2010"
+      },
+      {
+        "question": "Which company acquired Nokia's devices division in 2014 for approximately $7.2 billion?",
+        "options": [
+          "Microsoft",
+          "Google",
+          "Apple"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "How much funding did Quibi raise before launching its short-form streaming service in 2020?",
+        "options": [
+          "About $1.75 billion",
+          "About $250 million",
+          "About $5 billion"
+        ],
+        "answer": "About $1.75 billion"
+      },
+      {
+        "question": "Which company canceled its modular smartphone Project Ara in 2016?",
+        "options": [
+          "Google",
+          "Motorola",
+          "Samsung"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which videotape format did Sony introduce that ultimately lost the format war to VHS?",
+        "options": [
+          "Betamax",
+          "Video8",
+          "D-VHS"
+        ],
+        "answer": "Betamax"
+      },
+      {
+        "question": "Which Ford vehicle launched in 1957 is one of the most famous commercial automotive failures?",
+        "options": [
+          "Edsel",
+          "Mustang",
+          "Galaxie"
+        ],
+        "answer": "Edsel"
+      },
+      {
+        "question": "Which social network was acquired by Specific Media and Justin Timberlake in 2011?",
+        "options": [
+          "Myspace",
+          "Friendster",
+          "Bebo"
+        ],
+        "answer": "Myspace"
+      },
+      {
+        "question": "Which major energy firm's collapse in 2001 led to the dissolution of accounting firm Arthur Andersen?",
+        "options": [
+          "Enron",
+          "WorldCom",
+          "Parmalat"
+        ],
+        "answer": "Enron"
+      },
+      {
+        "question": "Which soda's return to its original formula followed public rejection of a 1985 reformulation?",
+        "options": [
+          "Coca-Cola Classic",
+          "Pepsi Classic",
+          "Sprite Classic"
+        ],
+        "answer": "Coca-Cola Classic"
+      },
+      {
+        "question": "Which Samsung phone was recalled worldwide in 2016 due to battery fires?",
+        "options": [
+          "Galaxy Note 7",
+          "Galaxy S7 Edge",
+          "Galaxy Fold"
+        ],
+        "answer": "Galaxy Note 7"
+      },
+      {
+        "question": "In which year did Theranos cease its consumer testing operations amid controversy?",
+        "options": [
+          "2016",
+          "2012",
+          "2018"
+        ],
+        "answer": "2016"
+      },
+      {
+        "question": "Which streaming device attempt by Amazon launched in 2014 and was discontinued after poor sales?",
+        "options": [
+          "Fire Phone",
+          "Kindle Fire",
+          "Fire TV Stick"
+        ],
+        "answer": "Fire Phone"
+      },
+      {
+        "question": "Which dot-com grocery startup spent heavily on infrastructure before collapsing in 2001?",
+        "options": [
+          "Webvan",
+          "Peapod",
+          "FreshDirect"
+        ],
+        "answer": "Webvan"
+      },
+      {
+        "question": "Which handheld gaming device introduced in 1994 competed directly with the Sega Game Gear and failed commercially?",
+        "options": [
+          "Atari Jaguar",
+          "Neo Geo Pocket",
+          "Virtual Boy"
+        ],
+        "answer": "Virtual Boy"
+      },
+      {
+        "question": "Which MP3 subscription service was an early competitor to Spotify but struggled financially?",
+        "options": [
+          "Rhapsody",
+          "Rdio",
+          "Napster To Go"
+        ],
+        "answer": "Rdio"
+      },
+      {
+        "question": "Which company's camera division succeeded after pivoting while Kodak declined in digital transition?",
+        "options": [
+          "Fujifilm",
+          "Canon",
+          "Agfa"
+        ],
+        "answer": "Fujifilm"
+      },
+      {
+        "question": "Which smartphone line did Microsoft introduce aimed at social users but discontinued within months in 2010?",
+        "options": [
+          "Kin",
+          "Lumia",
+          "Surface Phone"
+        ],
+        "answer": "Kin"
+      },
+      {
+        "question": "Which instant camera brand declared bankruptcy in 2001 and later rebranded different business lines?",
+        "options": [
+          "Polaroid",
+          "Kodak",
+          "FujiFilm Instax"
+        ],
+        "answer": "Polaroid"
+      },
+      {
+        "question": "Which hardware product did Google end public sales for in 2015 after limited consumer uptake?",
+        "options": [
+          "Google Glass Explorer Edition",
+          "Chromecast Audio",
+          "Nexus Q"
+        ],
+        "answer": "Google Glass Explorer Edition"
+      },
+      {
+        "question": "Which failed music device by Microsoft attempted to integrate subscription services into a portable player?",
+        "options": [
+          "Zune",
+          "Surface Music Player",
+          "MSN Player"
+        ],
+        "answer": "Zune"
+      },
+      {
+        "question": "Which mail-order video rental startup tried to transform video rental before Blockbuster's decline?",
+        "options": [
+          "Netflix",
+          "Redbox",
+          "MovieFone"
+        ],
+        "answer": "Netflix"
+      },
+      {
+        "question": "Which online delivery startup promised deliveries under an hour but failed after overspending and low revenue?",
+        "options": [
+          "Kozmo",
+          "Gorillas",
+          "Instacart"
+        ],
+        "answer": "Kozmo"
+      },
+      {
+        "question": "Which smartphone introduced in 2007 most directly accelerated BlackBerry's market decline?",
+        "options": [
+          "iPhone",
+          "G1",
+          "Pre"
+        ],
+        "answer": "iPhone"
+      },
+      {
+        "question": "Which company once dominant in instant photography reinvented itself with digital-focused product lines?",
+        "options": [
+          "Polaroid",
+          "Kodak",
+          "Minolta"
+        ],
+        "answer": "Polaroid"
+      },
+      {
+        "question": "Which video game company left console hardware in 2001 after Dreamcast discontinuation?",
+        "options": [
+          "Sega",
+          "Atari",
+          "SNK"
+        ],
+        "answer": "Sega"
+      },
+      {
+        "question": "Which streaming startup built around short episodes failed despite celebrity partnerships in 2020?",
+        "options": [
+          "Quibi",
+          "Vewd",
+          "Tubi"
+        ],
+        "answer": "Quibi"
+      },
+      {
+        "question": "Which retailer once known for electronics closed stores after being unable to compete with online retailers?",
+        "options": [
+          "Circuit City",
+          "Best Buy",
+          "RadioShack"
+        ],
+        "answer": "Circuit City"
+      },
+      {
+        "question": "Which early internet company symbolized speculative excess and collapsed after spending on marketing and logistics?",
+        "options": [
+          "Pets.com",
+          "Yahoo!",
+          "AOL"
+        ],
+        "answer": "Pets.com"
+      },
+      {
+        "question": "Which smartphone maker released the N-Gage then later abandoned the hybrid gaming-phone concept?",
+        "options": [
+          "Nokia",
+          "Sony",
+          "Motorola"
+        ],
+        "answer": "Nokia"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which auditing firm was implicated and destroyed due to shredding documents related to Enron in 2001?",
+        "options": [
+          "Arthur Andersen",
+          "Deloitte",
+          "KPMG"
+        ],
+        "answer": "Arthur Andersen"
+      },
+      {
+        "question": "Which year did Lehman Brothers file for bankruptcy, triggering global financial upheaval?",
+        "options": [
+          "2008",
+          "2006",
+          "2010"
+        ],
+        "answer": "2008"
+      },
+      {
+        "question": "Which company acquired Rdio's assets after Rdio filed for bankruptcy in 2015?",
+        "options": [
+          "Pandora",
+          "Spotify",
+          "Apple"
+        ],
+        "answer": "Pandora"
+      },
+      {
+        "question": "Which product's proprietary pads were shown to be usable by hand, undermining its $400 press value proposition?",
+        "options": [
+          "Juicero",
+          "Keurig K-Cup",
+          "Nespresso"
+        ],
+        "answer": "Juicero"
+      },
+      {
+        "question": "Which Microsoft acquisition of a mobile phone maker cost about $7.2 billion and failed to revive Windows Phone?",
+        "options": [
+          "Nokia devices unit",
+          "BlackBerry",
+          "Palm"
+        ],
+        "answer": "Nokia devices unit"
+      },
+      {
+        "question": "Which infamous dot-com company offered free trial delivery but collapsed after high logistics costs in 2001?",
+        "options": [
+          "Webvan",
+          "Peapod",
+          "HomeGrocer"
+        ],
+        "answer": "Webvan"
+      },
+      {
+        "question": "Which lightweight gaming console by Nintendo failed commercially due to poor third-party support and timing?",
+        "options": [
+          "Wii U",
+          "Virtual Boy",
+          "GameCube"
+        ],
+        "answer": "Virtual Boy"
+      },
+      {
+        "question": "Which startup claimed revolutionary blood tests from a tiny finger prick but failed validation repeatedly?",
+        "options": [
+          "Theranos",
+          "23andMe",
+          "Color Genomics"
+        ],
+        "answer": "Theranos"
+      },
+      {
+        "question": "Which failed consumer product by Google targeted social sharing but was discontinued after privacy and adoption issues?",
+        "options": [
+          "Google Plus",
+          "Orkut",
+          "Google Buzz"
+        ],
+        "answer": "Google Plus"
+      },
+      {
+        "question": "Which carmaker's model name became synonymous with a high-profile 1950s commercial failure?",
+        "options": [
+          "Edsel",
+          "Corsair",
+          "Fairlane"
+        ],
+        "answer": "Edsel"
+      },
+      {
+        "question": "Which high-end portable device by Apple in the early 1990s was intended for education and targeted niche markets?",
+        "options": [
+          "eMate 300",
+          "Newton MessagePad",
+          "PowerBook Duo"
+        ],
+        "answer": "eMate 300"
+      },
+      {
+        "question": "Which startup folded after heavy funding when teardown analysis revealed its hardware added little value to packaged ingredients?",
+        "options": [
+          "Juicero",
+          "SousVide Supreme",
+          "Anova Culinary"
+        ],
+        "answer": "Juicero"
+      },
+      {
+        "question": "Which failed streaming venture focused on short mobile episodes and shut down within six months of launch?",
+        "options": [
+          "Quibi",
+          "Vine Paper",
+          "Seeso"
+        ],
+        "answer": "Quibi"
+      },
+      {
+        "question": "Which gaming console failed after Sega's rushed transition from 32-bit to 64-bit architecture and weak software support?",
+        "options": [
+          "Saturn",
+          "Dreamcast",
+          "Saturn"
+        ],
+        "answer": "Saturn"
+      },
+      {
+        "question": "Which instant camera brand's founder, Edwin H. Land, saw the company struggle against digital disruption late in its history?",
+        "options": [
+          "Polaroid",
+          "Kodak",
+          "Agfa"
+        ],
+        "answer": "Polaroid"
+      },
+      {
+        "question": "Which ride-on personal transporter inventor famously predicted its device would change transportation worldwide?",
+        "options": [
+          "Dean Kamen",
+          "James Dyson",
+          "Steve Jobs"
+        ],
+        "answer": "Dean Kamen"
+      },
+      {
+        "question": "Which retail chain's collapse highlighted failure to adapt to e-commerce and declining foot traffic in the 2000s?",
+        "options": [
+          "Circuit City",
+          "Borders",
+          "Sears"
+        ],
+        "answer": "Circuit City"
+      },
+      {
+        "question": "Which mobile phone's design forced users to hold it sideways to talk, harming its consumer appeal?",
+        "options": [
+          "Nokia N-Gage",
+          "Motorola A1000",
+          "Sony Mylo"
+        ],
+        "answer": "Nokia N-Gage"
+      },
+      {
+        "question": "Which company used the tagline 'We try harder' and later shuttered under bankruptcy pressures from online competition?",
+        "options": [
+          "Avis",
+          "Blockbuster",
+          "Eddie Bauer"
+        ],
+        "answer": "Blockbuster"
+      },
+      {
+        "question": "Which 1999 online retailer became emblematic of the dot-com bubble with a famous sock puppet advertising campaign?",
+        "options": [
+          "Pets.com",
+          "Amazon Marketplace",
+          "BN.com"
+        ],
+        "answer": "Pets.com"
+      },
+      {
+        "question": "Which consumer device's Explorer Edition launched as a $1,500 prototype targeting developers and early adopters?",
+        "options": [
+          "Google Glass",
+          "Oculus Rift DK1",
+          "Microsoft HoloLens Dev Kit"
+        ],
+        "answer": "Google Glass"
+      },
+      {
+        "question": "Which company misreported profits leading to a 2002 conviction reversal and major corporate governance reforms?",
+        "options": [
+          "WorldCom",
+          "Enron",
+          "Global Crossing"
+        ],
+        "answer": "WorldCom"
+      },
+      {
+        "question": "Which 1980s videotape format lost market dominance despite superior picture quality according to many technologists?",
+        "options": [
+          "Betamax",
+          "VHS",
+          "LaserDisc"
+        ],
+        "answer": "Betamax"
+      },
+      {
+        "question": "Which online grocery company declared bankruptcy in 2001 after building expensive regional distribution centers?",
+        "options": [
+          "Webvan",
+          "Peapod",
+          "HomeGrocer"
+        ],
+        "answer": "Webvan"
+      },
+      {
+        "question": "Which beverage experiment from PepsiCo reappeared briefly but ultimately failed to become a permanent product line?",
+        "options": [
+          "Crystal Pepsi",
+          "Pepsi Ice",
+          "Pepsi Blue"
+        ],
+        "answer": "Crystal Pepsi"
+      },
+      {
+        "question": "Which media rental chain's CEO turned down an opportunity to buy Netflix in the early 2000s?",
+        "options": [
+          "Blockbuster",
+          "Movie Gallery",
+          "Hollywood Video"
+        ],
+        "answer": "Blockbuster"
+      },
+      {
+        "question": "Which startup's failure highlighted issues in overvalued hardware startups backed by venture capital in the 2010s?",
+        "options": [
+          "Juicero",
+          "Jawbone",
+          "Pebble"
+        ],
+        "answer": "Juicero"
+      },
+      {
+        "question": "Which handheld console by Nintendo used a monochrome display and is known for failing commercially in the 1990s?",
+        "options": [
+          "Game Boy Light",
+          "Virtual Boy",
+          "Game Boy Pocket"
+        ],
+        "answer": "Virtual Boy"
+      },
+      {
+        "question": "Which scandalous collapse involved off-balance-sheet entities called SPEs that hid debt and sank a major energy company?",
+        "options": [
+          "Enron",
+          "WorldCom",
+          "Tyco"
+        ],
+        "answer": "Enron"
+      }
+    ]
+  }
+}

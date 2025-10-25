@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which measure indicates the size of a cryptocurrency ecosystem?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which mechanism reduces Bitcoin block reward periodically?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which standard allows token approvals to be revoked in a single on-chain call (ERC feature)?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a blockchain 'explorer' used for?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which consensus algorithm did Ethereum adopt in The Merge?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which cryptographic scheme improves privacy by aggregating signatures in Bitcoin's Taproot era?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'mining' do in Bitcoin's network?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does TPS commonly measure for blockchains?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which vulnerability was central to the 2016 DAO exploit on Ethereum?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes tokens representing unique digital items?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which upgrade introduced fee burning and base fee in Ethereum?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which upgrade activated Taproot on Bitcoin in 2021?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an exchange in cryptocurrency terms?"
+    },
+    {
+      "question_id": 14,
+      "question": "What model does Bitcoin use for tracking funds?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which elliptic curve does Bitcoin use for ECDSA signatures?"
+    }
+  ]
+}

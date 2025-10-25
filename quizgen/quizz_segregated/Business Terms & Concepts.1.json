@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does ROI commonly mean for business decisions?",
+      "options": [
+        "Measure of return relative to investment cost",
+        "Number of customers acquired per month",
+        "Total revenue earned in a quarter"
+      ],
+      "answer": "Measure of return relative to investment cost"
+    },
+    {
+      "question_id": 2,
+      "question": "What does churn rate measure for subscription businesses?",
+      "options": [
+        "Percentage of customers who leave over a period",
+        "Percentage of website visitors who convert",
+        "Rate of new customer signups"
+      ],
+      "answer": "Percentage of customers who leave over a period"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a fungible asset characteristic often relevant to markets?",
+      "options": [
+        "Interchangeable units with identical value",
+        "Requires physical transportation per unit",
+        "Unique identifiable serial numbers"
+      ],
+      "answer": "Interchangeable units with identical value"
+    },
+    {
+      "question_id": 4,
+      "question": "What is venture capital usually used for?",
+      "options": [
+        "Providing loans to homeowners",
+        "Paying employee salaries at established firms",
+        "Funding high-growth startups in exchange for equity"
+      ],
+      "answer": "Funding high-growth startups in exchange for equity"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a KPI often paired with in performance frameworks?",
+      "options": [
+        "Only qualitative anecdotes from customers",
+        "Targets and timeframes to measure progress",
+        "Employee birthdays and anniversaries"
+      ],
+      "answer": "Targets and timeframes to measure progress"
+    },
+    {
+      "question_id": 6,
+      "question": "What role does a special purpose vehicle (SPV) commonly serve?",
+      "options": [
+        "Function as a retail distribution company",
+        "Provide employee retirement benefits directly",
+        "Isolate financial risk or hold specific assets off parent balance sheet"
+      ],
+      "answer": "Isolate financial risk or hold specific assets off parent balance sheet"
+    },
+    {
+      "question_id": 7,
+      "question": "Who directs a company's overall strategy and operations?",
+      "options": [
+        "Chief Financial Analyst",
+        "Chief Executive Officer",
+        "Head of Human Resources"
+      ],
+      "answer": "Chief Executive Officer"
+    },
+    {
+      "question_id": 8,
+      "question": "What does a market leader position imply for a company?",
+      "options": [
+        "Largest market share or strongest influence in its sector",
+        "Oldest company by founding date",
+        "Lowest employee turnover in the industry"
+      ],
+      "answer": "Largest market share or strongest influence in its sector"
+    },
+    {
+      "question_id": 9,
+      "question": "What does enterprise value include beyond market capitalization?",
+      "options": [
+        "Only stock-based compensation expenses",
+        "Net of debt and cash plus equity value",
+        "Just the company's intangible assets"
+      ],
+      "answer": "Net of debt and cash plus equity value"
+    },
+    {
+      "question_id": 10,
+      "question": "What is supply chain management focused on?",
+      "options": [
+        "Coordinating production, inventory, and delivery processes",
+        "Designing corporate logos and branding",
+        "Setting employee work schedules"
+      ],
+      "answer": "Coordinating production, inventory, and delivery processes"
+    },
+    {
+      "question_id": 11,
+      "question": "What does amortization usually apply to in accounting?",
+      "options": [
+        "Immediate expensing of all research costs",
+        "Recording depreciation for physical machinery",
+        "Systematic allocation of intangible asset cost over time"
+      ],
+      "answer": "Systematic allocation of intangible asset cost over time"
+    },
+    {
+      "question_id": 12,
+      "question": "What does NPS measure for customer experience programs?",
+      "options": [
+        "Number of product returns per quarter",
+        "Net profit from new sales only",
+        "Likelihood of customers recommending a company to others"
+      ],
+      "answer": "Likelihood of customers recommending a company to others"
+    },
+    {
+      "question_id": 13,
+      "question": "What does a profit margin measure for a company?",
+      "options": [
+        "Total market value of the company",
+        "Percentage of revenue retained as profit",
+        "Number of products sold"
+      ],
+      "answer": "Percentage of revenue retained as profit"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the role of a board of directors in corporations?",
+      "options": [
+        "Manage manufacturing floor operations",
+        "Provide oversight and set strategic direction for management",
+        "Handle daily customer service issues"
+      ],
+      "answer": "Provide oversight and set strategic direction for management"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the main implication of the agency problem?",
+      "options": [
+        "Managers' interests may diverge from shareholders' interests",
+        "Suppliers will always provide best possible pricing",
+        "Customers always prefer lower quality at lower price"
+      ],
+      "answer": "Managers' interests may diverge from shareholders' interests"
+    }
+  ]
+}

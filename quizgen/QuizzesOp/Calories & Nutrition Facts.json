@@ -1,0 +1,838 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does one food Calorie (capital C) equal in scientific energy units?",
+        "options": [
+          "One kilocalorie (1000 small calories)",
+          "One joule",
+          "One watt"
+        ],
+        "answer": "One kilocalorie (1000 small calories)"
+      },
+      {
+        "question": "Which macronutrient provides about 9 kilocalories per gram?",
+        "options": [
+          "Fat",
+          "Carbohydrate",
+          "Protein"
+        ],
+        "answer": "Fat"
+      },
+      {
+        "question": "Which macronutrient is the body's main immediate energy source?",
+        "options": [
+          "Carbohydrate",
+          "Fat",
+          "Vitamin"
+        ],
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Which nutrient primarily helps build and repair body tissues?",
+        "options": [
+          "Protein",
+          "Sugar",
+          "Fiber"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "What term describes calories that provide little vitamins or minerals?",
+        "options": [
+          "Empty calories",
+          "Complete calories",
+          "Balanced calories"
+        ],
+        "answer": "Empty calories"
+      },
+      {
+        "question": "Which beverage contains calories despite not being a food?",
+        "options": [
+          "Alcoholic drinks",
+          "Distilled water",
+          "Black coffee without sugar"
+        ],
+        "answer": "Alcoholic drinks"
+      },
+      {
+        "question": "What does the calories value on a food label represent?",
+        "options": [
+          "Energy per serving listed on the label",
+          "Recommended daily energy intake",
+          "Amount of vitamins in the food"
+        ],
+        "answer": "Energy per serving listed on the label"
+      },
+      {
+        "question": "Which item contains zero calories and no nutrients?",
+        "options": [
+          "Plain water",
+          "Olive oil",
+          "Brown rice"
+        ],
+        "answer": "Plain water"
+      },
+      {
+        "question": "What information does the % Daily Value on nutrition labels indicate?",
+        "options": [
+          "How much a nutrient in one serving contributes to a daily diet",
+          "How many calories to eat per meal",
+          "How many servings equal one cup"
+        ],
+        "answer": "How much a nutrient in one serving contributes to a daily diet"
+      },
+      {
+        "question": "Which macronutrient contains about 4 kilocalories per gram?",
+        "options": [
+          "Carbohydrate",
+          "Fat",
+          "Alcohol"
+        ],
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Which common food component adds bulk but few digestible calories?",
+        "options": [
+          "Dietary fiber",
+          "Added sugars",
+          "Saturated fat"
+        ],
+        "answer": "Dietary fiber"
+      },
+      {
+        "question": "What does a serving size on a Nutrition Facts label describe?",
+        "options": [
+          "Amount used to calculate the nutrition information",
+          "Amount required per meal",
+          "Maximum recommended daily portion"
+        ],
+        "answer": "Amount used to calculate the nutrition information"
+      },
+      {
+        "question": "Which macronutrient helps you feel full longest per typical portion?",
+        "options": [
+          "Protein",
+          "Sugary drinks",
+          "Refined carbohydrates"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "Which food component supplies energy but is not an essential nutrient?",
+        "options": [
+          "Alcohol",
+          "Vitamin C",
+          "Calcium"
+        ],
+        "answer": "Alcohol"
+      },
+      {
+        "question": "Which label entry gives the amount of energy a food provides?",
+        "options": [
+          "Calories",
+          "Cholesterol",
+          "Sodium content"
+        ],
+        "answer": "Calories"
+      },
+      {
+        "question": "Which macronutrient often appears highest in nuts and oils?",
+        "options": [
+          "Fat",
+          "Carbohydrate",
+          "Protein"
+        ],
+        "answer": "Fat"
+      },
+      {
+        "question": "What is the simplest way to reduce empty calories in a diet?",
+        "options": [
+          "Cut sugary drinks and sweets",
+          "Add extra salt",
+          "Increase fried snacks"
+        ],
+        "answer": "Cut sugary drinks and sweets"
+      },
+      {
+        "question": "Which food label term indicates the amount of a vitamin or mineral?",
+        "options": [
+          "Percent Daily Value",
+          "Calories",
+          "Fat grams"
+        ],
+        "answer": "Percent Daily Value"
+      },
+      {
+        "question": "Which nutrient group includes sugars, starches, and fiber?",
+        "options": [
+          "Carbohydrates",
+          "Proteins",
+          "Fats"
+        ],
+        "answer": "Carbohydrates"
+      },
+      {
+        "question": "Which snack choice is more likely to be nutrient dense?",
+        "options": [
+          "Greek yogurt with berries",
+          "Plain candy bar",
+          "Soda"
+        ],
+        "answer": "Greek yogurt with berries"
+      },
+      {
+        "question": "Which food component increases energy density most per gram?",
+        "options": [
+          "Fat",
+          "Water",
+          "Dietary fiber"
+        ],
+        "answer": "Fat"
+      },
+      {
+        "question": "Which term describes eating more calories than you expend?",
+        "options": [
+          "Caloric surplus",
+          "Caloric balance",
+          "Caloric neutral"
+        ],
+        "answer": "Caloric surplus"
+      },
+      {
+        "question": "Which micronutrient contributes no calories to the diet?",
+        "options": [
+          "Vitamin C",
+          "Alcohol",
+          "Sugar"
+        ],
+        "answer": "Vitamin C"
+      },
+      {
+        "question": "Which common kitchen measurement often differs from a serving size?",
+        "options": [
+          "Portion",
+          "Percent Daily Value",
+          "Daily recommendation"
+        ],
+        "answer": "Portion"
+      },
+      {
+        "question": "Which food label component helps compare nutrients between products easily?",
+        "options": [
+          "Serving size and calories per serving",
+          "Manufacturer address",
+          "Color of packaging"
+        ],
+        "answer": "Serving size and calories per serving"
+      },
+      {
+        "question": "Which macronutrient is especially important for muscle repair after exercise?",
+        "options": [
+          "Protein",
+          "Sugar",
+          "Trans fat"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "Which snack change lowers calories without removing nutrients?",
+        "options": [
+          "Swap soda for sparkling water",
+          "Swap fruit for candy",
+          "Add extra butter"
+        ],
+        "answer": "Swap soda for sparkling water"
+      },
+      {
+        "question": "Which label ingredient indicates added simple sugars rather than natural sugars?",
+        "options": [
+          "Added sugars",
+          "Dietary fiber",
+          "Natural flavors"
+        ],
+        "answer": "Added sugars"
+      },
+      {
+        "question": "Which macronutrient provides about 7 kilocalories per gram?",
+        "options": [
+          "Alcohol",
+          "Carbohydrate",
+          "Protein"
+        ],
+        "answer": "Alcohol"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which number does the FDA use as the reference daily calorie intake on labels?",
+        "options": [
+          "2000 kilocalories",
+          "1500 kilocalories",
+          "2500 kilocalories"
+        ],
+        "answer": "2000 kilocalories"
+      },
+      {
+        "question": "What is the thermic effect of food (TEF)?",
+        "options": [
+          "Energy used to digest, absorb, and process nutrients",
+          "Calories burned during sleep",
+          "Energy stored as fat after eating"
+        ],
+        "answer": "Energy used to digest, absorb, and process nutrients"
+      },
+      {
+        "question": "Which macronutrient typically has the highest thermic effect after eating?",
+        "options": [
+          "Protein",
+          "Fat",
+          "Carbohydrate"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "What does nutrient density measure in a food?",
+        "options": [
+          "Vitamins and minerals per calorie",
+          "Calories per bite",
+          "Serving size per package"
+        ],
+        "answer": "Vitamins and minerals per calorie"
+      },
+      {
+        "question": "Which label change highlighted added sugars on updated Nutrition Facts labels?",
+        "options": [
+          "Added sugars now listed separately",
+          "Calories removed entirely",
+          "Serving sizes standardized globally"
+        ],
+        "answer": "Added sugars now listed separately"
+      },
+      {
+        "question": "What does “energy density” describe about a food?",
+        "options": [
+          "Calories per unit weight or volume",
+          "Vitamin content per serving",
+          "Shelf life in days"
+        ],
+        "answer": "Calories per unit weight or volume"
+      },
+      {
+        "question": "Which effect reduces calorie absorption from some high-fiber meals?",
+        "options": [
+          "Fiber binding and limiting digestion",
+          "Fiber increasing sugar absorption",
+          "Fiber converting to alcohol"
+        ],
+        "answer": "Fiber binding and limiting digestion"
+      },
+      {
+        "question": "What is non-exercise activity thermogenesis (NEAT)?",
+        "options": [
+          "Energy from everyday non-exercise movements",
+          "Calories burned only during formal workouts",
+          "Energy stored as glycogen"
+        ],
+        "answer": "Energy from everyday non-exercise movements"
+      },
+      {
+        "question": "Which laboratory device measures gross energy by burning food?",
+        "options": [
+          "Bomb calorimeter",
+          "Spectrophotometer",
+          "pH meter"
+        ],
+        "answer": "Bomb calorimeter"
+      },
+      {
+        "question": "Which label term indicates the amount of a nutrient per serving relative to daily intake?",
+        "options": [
+          "Percent Daily Value",
+          "Net carbs",
+          "Glycemic index"
+        ],
+        "answer": "Percent Daily Value"
+      },
+      {
+        "question": "Which macronutrient yields calories lost in urine when consumed in excess?",
+        "options": [
+          "Protein",
+          "Carbohydrate",
+          "Fat"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "Which dietary component commonly lowers energy density and increases fullness?",
+        "options": [
+          "Water content and fiber",
+          "Refined sugar",
+          "Saturated fat"
+        ],
+        "answer": "Water content and fiber"
+      },
+      {
+        "question": "What is the main difference between glycemic index and glycemic load?",
+        "options": [
+          "Glycemic load combines index with typical carbohydrate portion size",
+          "Glycemic index measures fat content",
+          "Glycemic load measures vitamin content"
+        ],
+        "answer": "Glycemic load combines index with typical carbohydrate portion size"
+      },
+      {
+        "question": "Which term describes calories available to the body after digestion and losses?",
+        "options": [
+          "Metabolizable energy",
+          "Gross energy",
+          "Thermal energy"
+        ],
+        "answer": "Metabolizable energy"
+      },
+      {
+        "question": "Which sugar alcohol is often labeled as near-zero calories and used in reduced-calorie products?",
+        "options": [
+          "Erythritol",
+          "Sucrose",
+          "Fructose"
+        ],
+        "answer": "Erythritol"
+      },
+      {
+        "question": "Which fatty acids are essential because the body cannot synthesize them?",
+        "options": [
+          "Linoleic acid and alpha-linolenic acid",
+          "Palmitic acid and stearic acid",
+          "Oleic acid and lauric acid"
+        ],
+        "answer": "Linoleic acid and alpha-linolenic acid"
+      },
+      {
+        "question": "Which phrase best describes percent of calories from fat on nutrition labels?",
+        "options": [
+          "Proportion of total calories derived from fat",
+          "Grams of fat per hundred calories",
+          "Serving size in fat ounces"
+        ],
+        "answer": "Proportion of total calories derived from fat"
+      },
+      {
+        "question": "Which practice most reliably reduces caloric intake without losing nutrients?",
+        "options": [
+          "Swapping energy-dense foods for lower-calorie, nutrient-dense options",
+          "Skipping vegetables and eating only fruit",
+          "Replacing meals with sugary snacks"
+        ],
+        "answer": "Swapping energy-dense foods for lower-calorie, nutrient-dense options"
+      },
+      {
+        "question": "Which population factor generally increases basal metabolic rate?",
+        "options": [
+          "Greater lean body mass",
+          "Older age",
+          "Lower thyroid hormone levels"
+        ],
+        "answer": "Greater lean body mass"
+      },
+      {
+        "question": "Which labeling term helps consumers see how a serving fits into a 2,000 calorie diet?",
+        "options": [
+          "Percent Daily Value",
+          "Ingredients list",
+          "Best-by date"
+        ],
+        "answer": "Percent Daily Value"
+      },
+      {
+        "question": "Which component of energy expenditure is most variable day to day?",
+        "options": [
+          "Physical activity energy expenditure",
+          "Basal metabolic rate",
+          "Thermic effect of food"
+        ],
+        "answer": "Physical activity energy expenditure"
+      },
+      {
+        "question": "Which food type typically increases satiety relative to calorie content?",
+        "options": [
+          "High-protein and high-fiber foods",
+          "Sugary beverages",
+          "Refined white bread"
+        ],
+        "answer": "High-protein and high-fiber foods"
+      },
+      {
+        "question": "Which nutrient label change emphasized realistic portion sizes in recent updates?",
+        "options": [
+          "Serving sizes updated to reflect actual consumption",
+          "Daily values switched to grams only",
+          "Calories removed from top of label"
+        ],
+        "answer": "Serving sizes updated to reflect actual consumption"
+      },
+      {
+        "question": "Which macronutrient's excess intake most directly increases urinary nitrogen excretion?",
+        "options": [
+          "Protein",
+          "Carbohydrate",
+          "Fat"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "What effect does soluble fiber have on blood glucose after a meal?",
+        "options": [
+          "It slows glucose absorption and moderates blood sugar rise",
+          "It rapidly increases glucose absorption",
+          "It converts glucose into fat instantly"
+        ],
+        "answer": "It slows glucose absorption and moderates blood sugar rise"
+      },
+      {
+        "question": "Which measurement combines caloric content and nutrient quality to evaluate foods?",
+        "options": [
+          "Nutrient density",
+          "Glycemic index",
+          "Serving frequency"
+        ],
+        "answer": "Nutrient density"
+      },
+      {
+        "question": "Which common misconception about calories is often incorrect?",
+        "options": [
+          "All calories have identical metabolic effects in every context",
+          "Higher protein increases thermic effect",
+          "Fat is more calorie-dense than carbohydrates"
+        ],
+        "answer": "All calories have identical metabolic effects in every context"
+      },
+      {
+        "question": "Which guidance helps customers compare calories between products fairly?",
+        "options": [
+          "Compare calories per common portion or per 100 grams",
+          "Compare package colors",
+          "Compare serving suggestions only"
+        ],
+        "answer": "Compare calories per common portion or per 100 grams"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who pioneered systematic calorimetry of foods and developed early energy standards?",
+        "options": [
+          "Wilbur O. Atwater",
+          "Louis Pasteur",
+          "Carl Linnaeus"
+        ],
+        "answer": "Wilbur O. Atwater"
+      },
+      {
+        "question": "What do Atwater factors estimate in nutrition science?",
+        "options": [
+          "Physiological energy yield per gram of macronutrients",
+          "Vitamin bioavailability coefficients",
+          "Rate of gastric emptying"
+        ],
+        "answer": "Physiological energy yield per gram of macronutrients"
+      },
+      {
+        "question": "Which value best describes the general Atwater energy factors for carbs, protein, and fat?",
+        "options": [
+          "4 kcal/g, 4 kcal/g, 9 kcal/g",
+          "2 kcal/g, 3 kcal/g, 7 kcal/g",
+          "5 kcal/g, 5 kcal/g, 10 kcal/g"
+        ],
+        "answer": "4 kcal/g, 4 kcal/g, 9 kcal/g"
+      },
+      {
+        "question": "What major limitation separates bomb calorimeter readings from physiological energy?",
+        "options": [
+          "Bomb calorimeter measures gross energy including nonabsorbable components",
+          "Bomb calorimeter measures vitamin levels, not energy",
+          "Bomb calorimeter underestimates food energy by half"
+        ],
+        "answer": "Bomb calorimeter measures gross energy including nonabsorbable components"
+      },
+      {
+        "question": "Which term describes energy remaining after fecal and urinary losses are subtracted?",
+        "options": [
+          "Metabolizable energy",
+          "Gross energy",
+          "Bomb energy"
+        ],
+        "answer": "Metabolizable energy"
+      },
+      {
+        "question": "Which macronutrient yields the highest postprandial oxygen consumption per calorie?",
+        "options": [
+          "Protein",
+          "Carbohydrate",
+          "Fat"
+        ],
+        "answer": "Protein"
+      },
+      {
+        "question": "What does the term 'net energy' often account for beyond metabolizable energy?",
+        "options": [
+          "Energy used for digestion and nutrient partitioning",
+          "Gross energy from combustion",
+          "Calories from alcohol only"
+        ],
+        "answer": "Energy used for digestion and nutrient partitioning"
+      },
+      {
+        "question": "Which fatty acid class contains essential omega-3s and omega-6s required in the diet?",
+        "options": [
+          "Polyunsaturated fatty acids",
+          "Monounsaturated fatty acids",
+          "Saturated fatty acids"
+        ],
+        "answer": "Polyunsaturated fatty acids"
+      },
+      {
+        "question": "Which physiological factor most strongly influences individual variation in BMR?",
+        "options": [
+          "Lean body mass",
+          "Daily carbohydrate intake",
+          "Time of day of meals"
+        ],
+        "answer": "Lean body mass"
+      },
+      {
+        "question": "Which food component can reduce measured metabolizable energy through fermentation in the colon?",
+        "options": [
+          "Resistant starch and certain fibers",
+          "Simple sugars",
+          "Saturated fats"
+        ],
+        "answer": "Resistant starch and certain fibers"
+      },
+      {
+        "question": "Which measurement compares caloric contribution adjusted for absorption and urinary losses?",
+        "options": [
+          "Apparent metabolizable energy",
+          "Gross caloric value",
+          "Label serving energy"
+        ],
+        "answer": "Apparent metabolizable energy"
+      },
+      {
+        "question": "Which biochemical process explains calories lost as urea when protein is oxidized?",
+        "options": [
+          "Deamination of amino acids",
+          "Glycolysis",
+          "Fatty acid synthesis"
+        ],
+        "answer": "Deamination of amino acids"
+      },
+      {
+        "question": "Which sweetener yields essentially zero calories because humans excrete it unmetabolized?",
+        "options": [
+          "Erythritol",
+          "Sucrose",
+          "Maltodextrin"
+        ],
+        "answer": "Erythritol"
+      },
+      {
+        "question": "Which factor causes alcohol to be metabolized preferentially over other macronutrients?",
+        "options": [
+          "Its toxic byproducts demand immediate oxidation",
+          "It is stored in large adipose depots",
+          "It raises insulin dramatically"
+        ],
+        "answer": "Its toxic byproducts demand immediate oxidation"
+      },
+      {
+        "question": "Which label concept quantifies nutrient per 100 grams to compare energy density across foods?",
+        "options": [
+          "Calories per 100 grams",
+          "Daily value per serving",
+          "Glycemic index per unit"
+        ],
+        "answer": "Calories per 100 grams"
+      },
+      {
+        "question": "Which minor component can yield measurable caloric value through gut microbiota fermentation?",
+        "options": [
+          "Soluble fiber and oligosaccharides",
+          "Inorganic minerals",
+          "Fat-soluble vitamins"
+        ],
+        "answer": "Soluble fiber and oligosaccharides"
+      },
+      {
+        "question": "Which change in the US Nutrition Facts label increased emphasis on public health priorities?",
+        "options": [
+          "Listing added sugars separately",
+          "Removing calories entirely",
+          "Hiding trans fat content"
+        ],
+        "answer": "Listing added sugars separately"
+      },
+      {
+        "question": "Which metric helps estimate a food’s impact on long-term blood glucose and portion size?",
+        "options": [
+          "Glycemic load",
+          "Total carbohydrate grams",
+          "Ingredient ordering"
+        ],
+        "answer": "Glycemic load"
+      },
+      {
+        "question": "Which organ’s activity accounts for a large portion of resting energy expenditure per mass?",
+        "options": [
+          "Brain",
+          "Skin",
+          "Appendix"
+        ],
+        "answer": "Brain"
+      },
+      {
+        "question": "Which physiological adaptation often reduces weight-loss rate beyond caloric calculations?",
+        "options": [
+          "Adaptive thermogenesis lowering energy expenditure",
+          "Increased bomb calorimeter readings",
+          "Permanent elevation of BMR"
+        ],
+        "answer": "Adaptive thermogenesis lowering energy expenditure"
+      },
+      {
+        "question": "Which compound contributes to calorie counting errors by providing fermentable but non-digestible carbohydrates?",
+        "options": [
+          "Sugar alcohols and resistant starches",
+          "Monosaccharides only",
+          "Water-soluble vitamins"
+        ],
+        "answer": "Sugar alcohols and resistant starches"
+      },
+      {
+        "question": "Which nutritional label practice can mislead consumers about calorie contribution from mixed dishes?",
+        "options": [
+          "Using unrealistic serving sizes",
+          "Listing calories per 100 grams",
+          "Providing ingredient origins"
+        ],
+        "answer": "Using unrealistic serving sizes"
+      },
+      {
+        "question": "Which phenomenon explains why some high-fat foods feel less filling per calorie than protein-rich foods?",
+        "options": [
+          "Lower thermic effect and slower satiety signaling",
+          "Higher vitamin load",
+          "Faster digestion than carbohydrates"
+        ],
+        "answer": "Lower thermic effect and slower satiety signaling"
+      },
+      {
+        "question": "Which advanced concept links caloric content with hormonal responses influencing appetite?",
+        "options": [
+          "Metabolic fuel partitioning and signaling",
+          "Calorie color coding",
+          "Serving multiplicity theory"
+        ],
+        "answer": "Metabolic fuel partitioning and signaling"
+      },
+      {
+        "question": "Which laboratory approach estimates human metabolizable energy more accurately than simple combustion?",
+        "options": [
+          "Balance studies measuring intake and excreta",
+          "Single-meal bomb calorimetry",
+          "Measuring food color"
+        ],
+        "answer": "Balance studies measuring intake and excreta"
+      },
+      {
+        "question": "Which dietary component increases fecal energy losses and lowers effective metabolizable energy?",
+        "options": [
+          "Certain non-digestible fibers and anti-nutrients",
+          "Refined sugars",
+          "Monosaturated fats"
+        ],
+        "answer": "Certain non-digestible fibers and anti-nutrients"
+      },
+      {
+        "question": "Which essential fatty acid family includes linoleic acid with known calorie contribution?",
+        "options": [
+          "Omega-6 family",
+          "Trans fat family",
+          "Saturated fat family"
+        ],
+        "answer": "Omega-6 family"
+      },
+      {
+        "question": "Which precise reason explains why two foods with equal calories produce different weight outcomes?",
+        "options": [
+          "Differences in digestion, thermogenesis, and hormonal response",
+          "Calories are inherently identical biologically",
+          "Only packaging influences weight"
+        ],
+        "answer": "Differences in digestion, thermogenesis, and hormonal response"
+      },
+      {
+        "question": "Which historic observation led to standardized calorie tables and food energy science?",
+        "options": [
+          "Systematic human feeding trials in late 19th century",
+          "Randomized soda consumption study in 2000s",
+          "Discovery of vitamin C"
+        ],
+        "answer": "Systematic human feeding trials in late 19th century"
+      },
+      {
+        "question": "Which advanced sweetener can be fermented by gut microbes producing calories unexpectedly?",
+        "options": [
+          "Certain sugar alcohols and oligosaccharides",
+          "Pure table sugar only",
+          "Sodium chloride"
+        ],
+        "answer": "Certain sugar alcohols and oligosaccharides"
+      },
+      {
+        "question": "Which measurement concept addresses energy available after accounting for microbial and enzymatic losses?",
+        "options": [
+          "True metabolizable energy",
+          "Gross caloric potential",
+          "Label declared energy"
+        ],
+        "answer": "True metabolizable energy"
+      },
+      {
+        "question": "Which policy-driven label change helps consumers identify foods contributing excess caloric sugars?",
+        "options": [
+          "Mandatory disclosure of added sugars",
+          "Removal of ingredient lists",
+          "Uniform color coding for calories"
+        ],
+        "answer": "Mandatory disclosure of added sugars"
+      },
+      {
+        "question": "Which nuanced factor makes calorie estimates less accurate for highly processed versus whole foods?",
+        "options": [
+          "Altered digestibility and faster absorption rates",
+          "Higher vitamin content in processed foods",
+          "Processed foods always weigh more"
+        ],
+        "answer": "Altered digestibility and faster absorption rates"
+      },
+      {
+        "question": "Which scientific phrase describes energy partitioning toward fat storage after excess calorie intake?",
+        "options": [
+          "Positive energy balance and lipogenesis",
+          "Negative nitrogen balance",
+          "Glycogen sparing protocol"
+        ],
+        "answer": "Positive energy balance and lipogenesis"
+      },
+      {
+        "question": "Which rare situation leads to negative metabolizable energy when foods increase excreta energy markedly?",
+        "options": [
+          "High intake of nonabsorbable compounds causing increased fecal losses",
+          "Drinking water only",
+          "Eating only refined sugars"
+        ],
+        "answer": "High intake of nonabsorbable compounds causing increased fecal losses"
+      }
+    ]
+  }
+}

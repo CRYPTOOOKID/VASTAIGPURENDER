@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'CTR' help marketers evaluate?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which KPI is most useful for ecommerce campaign profitability?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which approach segments audiences using both behavioral and attitudinal signals?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which type of content helps build long-term organic traffic?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which content strategy supports SEO and long-term organic growth?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which contractual inventory access offers premium placements with private negotiation?"
+    },
+    {
+      "question_id": 7,
+      "question": "What role does segmentation play in campaign strategy?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which tactic improves ad relevance by swapping creative elements dynamically?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which model decomposes total sales into media and non-media contributors?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which channel is considered 'paid' media in marketing?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which channel combines organic listing improvements with paid results on search pages?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which privacy-first tactic increases marketer control over customer relationships?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which basic KPI shows average revenue per customer over time?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a key advantage of programmatic advertising?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which concept describes shifting media spend to maximize diminishing marginal returns?"
+    }
+  ]
+}

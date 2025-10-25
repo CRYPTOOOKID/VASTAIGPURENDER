@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Battle of Waterloo, ending Napoleon's rule?",
+      "options": [
+        "1805",
+        "1815",
+        "1821"
+      ],
+      "answer": "1815"
+    },
+    {
+      "question_id": 2,
+      "question": "When was the Gutenberg Bible completed, marking a milestone in printing history?",
+      "options": [
+        "1455",
+        "1476",
+        "1439"
+      ],
+      "answer": "1455"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did the Reform Act of 1867 in Britain significantly extend voting rights to urban working men?",
+      "options": [
+        "1832",
+        "1867",
+        "1884"
+      ],
+      "answer": "1867"
+    },
+    {
+      "question_id": 4,
+      "question": "What year did Australia become a federated nation (Commonwealth of Australia)?",
+      "options": [
+        "1914",
+        "1888",
+        "1901"
+      ],
+      "answer": "1901"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year was the Magna Carta reissued with broader royal concessions after initial sealing?",
+      "options": [
+        "1225",
+        "1216",
+        "1215"
+      ],
+      "answer": "1216"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Tet Offensive occur, a pivotal series of conflicts in the Vietnam War?",
+      "options": [
+        "1968",
+        "1972",
+        "1965"
+      ],
+      "answer": "1968"
+    },
+    {
+      "question_id": 7,
+      "question": "When did India gain independence from British rule?",
+      "options": [
+        "1950",
+        "1935",
+        "1947"
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 8,
+      "question": "What year did the first Crusade capture Jerusalem, establishing several Crusader states?",
+      "options": [
+        "1100",
+        "1096",
+        "1099"
+      ],
+      "answer": "1099"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the Haitian Revolution begin, leading to the world's first Black republic?",
+      "options": [
+        "1789",
+        "1791",
+        "1804"
+      ],
+      "answer": "1791"
+    },
+    {
+      "question_id": 10,
+      "question": "What year did the Titanic sink on its maiden voyage?",
+      "options": [
+        "1906",
+        "1912",
+        "1920"
+      ],
+      "answer": "1912"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Ottoman Empire officially dissolve after World War I?",
+      "options": [
+        "1918",
+        "1924",
+        "1922"
+      ],
+      "answer": "1922"
+    },
+    {
+      "question_id": 12,
+      "question": "What year did the Periclean building program, including the Parthenon, begin in Athens?",
+      "options": [
+        "460 BCE",
+        "430 BCE",
+        "447 BCE"
+      ],
+      "answer": "447 BCE"
+    },
+    {
+      "question_id": 13,
+      "question": "Which year did the Great Fire of London occur?",
+      "options": [
+        "1605",
+        "1666",
+        "1703"
+      ],
+      "answer": "1666"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did the British Parliament pass the Reform Act extending the franchise in 19th century Britain?",
+      "options": [
+        "1867",
+        "1828",
+        "1832"
+      ],
+      "answer": "1832"
+    },
+    {
+      "question_id": 15,
+      "question": "When did Tokugawa Ieyasu consolidate power at the Battle of Sekigahara, initiating Tokugawa shogunate rule?",
+      "options": [
+        "1600",
+        "1614",
+        "1590"
+      ],
+      "answer": "1600"
+    }
+  ]
+}

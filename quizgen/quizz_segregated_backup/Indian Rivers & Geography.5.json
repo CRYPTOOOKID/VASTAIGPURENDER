@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which river meets the Yamuna and Saraswati at the Triveni Sangam at Prayagraj?",
+      "options": [
+        "Ganga",
+        "Narmada",
+        "Kaveri"
+      ],
+      "answer": "Ganga"
+    },
+    {
+      "question_id": 2,
+      "question": "Which small river drains into Chilika Lake near Puri, Odisha?",
+      "options": [
+        "Daya",
+        "Brahmani",
+        "Mahi"
+      ],
+      "answer": "Daya"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river is the primary freshwater source for the city of Guwahati and flows through Assam?",
+      "options": [
+        "Brahmaputra",
+        "Mahanadi",
+        "Godavari"
+      ],
+      "answer": "Brahmaputra"
+    },
+    {
+      "question_id": 4,
+      "question": "Which major project is built on the Narmada River?",
+      "options": [
+        "Sardar Sarovar Project",
+        "Hirakud Project",
+        "Nagarjuna Sagar Project"
+      ],
+      "answer": "Sardar Sarovar Project"
+    },
+    {
+      "question_id": 5,
+      "question": "Which western Ghats river forms the large backwater and port system at Kochi?",
+      "options": [
+        "Periyar",
+        "Narmada",
+        "Kaveri"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river's basin encompasses the Konkan coast's Western Ghats rain catchment areas?",
+      "options": [
+        "Godavari",
+        "Narmada",
+        "Kaveri"
+      ],
+      "answer": "Godavari"
+    },
+    {
+      "question_id": 7,
+      "question": "Which river drains into the Rann of Kutch and is the main river of western Rajasthan?",
+      "options": [
+        "Luni",
+        "Tapti",
+        "Mahi"
+      ],
+      "answer": "Luni"
+    },
+    {
+      "question_id": 8,
+      "question": "Which major port in Odisha lies on the mouth of the Mahanadi River?",
+      "options": [
+        "Paradip",
+        "Kandla",
+        "Visakhapatnam"
+      ],
+      "answer": "Paradip"
+    },
+    {
+      "question_id": 9,
+      "question": "Which two rivers create the classic 'Doab' region in northern India?",
+      "options": [
+        "Ganga and Yamuna",
+        "Krishna and Godavari",
+        "Narmada and Tapi"
+      ],
+      "answer": "Ganga and Yamuna"
+    },
+    {
+      "question_id": 10,
+      "question": "Which river's distributary flows past Kolkata?",
+      "options": [
+        "Hooghly",
+        "Yamuna",
+        "Tapti"
+      ],
+      "answer": "Hooghly"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river is associated with the historic city of Srirangapatna in Karnataka?",
+      "options": [
+        "Kaveri",
+        "Krishna",
+        "Godavari"
+      ],
+      "answer": "Kaveri"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river in India is the principal contributor to the island ecosystems of the Sundarbans?",
+      "options": [
+        "Ganga-Brahmaputra system",
+        "Godavari system",
+        "Narmada system"
+      ],
+      "answer": "Ganga-Brahmaputra system"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river is formed by the confluence of the Tunga and Bhadra rivers?",
+      "options": [
+        "Tungabhadra",
+        "Krishna",
+        "Cauvery"
+      ],
+      "answer": "Tungabhadra"
+    },
+    {
+      "question_id": 14,
+      "question": "Which historic anicut, one of the world's oldest dams, is built across the Kaveri?",
+      "options": [
+        "Kallanai (Grand Anicut)",
+        "Sardar Sarovar",
+        "Hirakud"
+      ],
+      "answer": "Kallanai (Grand Anicut)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river is the longest tributary of the Ganges by length?",
+      "options": [
+        "Yamuna",
+        "Ghaghara",
+        "Gomti"
+      ],
+      "answer": "Yamuna"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What makes an adult riddle more shareable on social platforms?"
+    },
+    {
+      "question_id": 2,
+      "question": "What makes a riddle's distractors effective for adults?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which answer fits: \"I wear many faces but have one name\"?"
+    },
+    {
+      "question_id": 4,
+      "question": "What quality makes a good \"What am I?\" riddle for adults?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pattern is effective for constructing progressive hints in a riddle?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced riddle answer leverages irony for impact?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which audience are \"What am I?\" riddles typically suitable for?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric indicates a riddle's success in a group setting?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which answer fits: \"I have roots nobody sees, I am taller than trees\"?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of these is a typical subject for a \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 11,
+      "question": "What advantage does first-person narration provide in adult riddles?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which historical riddle asked by the Sphinx targeted travelers' reasoning skills?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which technique helps when approaching a \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which approach helps craft memorable riddle conclusions?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I have keys but no doors, space but no room, you can enter but not go inside\"?"
+    }
+  ]
+}

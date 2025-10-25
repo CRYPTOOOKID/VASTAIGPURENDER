@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the primary language used in mainstream Bollywood films?",
+      "options": [
+        "Hindi",
+        "Telugu",
+        "Tamil"
+      ],
+      "answer": "Hindi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which actress starred opposite Shah Rukh Khan in Veer-Zaara (2004)?",
+      "options": [
+        "Kareena Kapoor",
+        "Preity Zinta",
+        "Rani Mukerji"
+      ],
+      "answer": "Preity Zinta"
+    },
+    {
+      "question_id": 3,
+      "question": "Which classical dancer turned actress played the tragic lead in Mughal-e-Azam's famous song sequences?",
+      "options": [
+        "Madhubala",
+        "Mehtab",
+        "Nargis"
+      ],
+      "answer": "Madhubala"
+    },
+    {
+      "question_id": 4,
+      "question": "Which actress starred opposite Raj Kapoor in the film Awaara (1951)?",
+      "options": [
+        "Nargis",
+        "Meena Kumari",
+        "Madhubala"
+      ],
+      "answer": "Nargis"
+    },
+    {
+      "question_id": 5,
+      "question": "Which film directed by Anurag Basu starred Ranbir Kapoor and Priyanka Chopra in 2012?",
+      "options": [
+        "Barfi!",
+        "Wake Up Sid",
+        "Rockstar"
+      ],
+      "answer": "Barfi!"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian film star received the Padma Vibhushan award in 2015?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Amitabh Bachchan"
+      ],
+      "answer": "Amitabh Bachchan"
+    },
+    {
+      "question_id": 7,
+      "question": "Which 1992 film launched Akshay Kumar's 'Khiladi' action persona?",
+      "options": [
+        "Mohra",
+        "Khiladi",
+        "Main Khiladi Tu Anari"
+      ],
+      "answer": "Khiladi"
+    },
+    {
+      "question_id": 8,
+      "question": "Which 1975 film reinforced Amitabh Bachchan's 'angry young man' screen persona?",
+      "options": [
+        "Anand",
+        "Sholay",
+        "Deewar"
+      ],
+      "answer": "Deewar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which actress performed the iconic dance number 'Ek Do Teen' that boosted her stardom?",
+      "options": [
+        "Madhuri Dixit",
+        "Sridevi",
+        "Meenakshi Seshadri"
+      ],
+      "answer": "Madhuri Dixit"
+    },
+    {
+      "question_id": 10,
+      "question": "Which actress is affectionately nicknamed 'Bebo' in Bollywood?",
+      "options": [
+        "Katrina Kaif",
+        "Priyanka Chopra",
+        "Kareena Kapoor"
+      ],
+      "answer": "Kareena Kapoor"
+    },
+    {
+      "question_id": 11,
+      "question": "Which choreographer won multiple National Awards and created iconic dances for Madhuri Dixit?",
+      "options": [
+        "Saroj Khan",
+        "Farah Khan",
+        "Prabhu Deva"
+      ],
+      "answer": "Saroj Khan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which actor's early career included a breakthrough role in the film Rang De Basanti (2006)?",
+      "options": [
+        "R. Madhavan",
+        "Shahid Kapoor",
+        "Aamir Khan"
+      ],
+      "answer": "R. Madhavan"
+    },
+    {
+      "question_id": 13,
+      "question": "Who played Prince Salim in the epic Mughal-e-Azam (1960)?",
+      "options": [
+        "Dev Anand",
+        "Raj Kapoor",
+        "Dilip Kumar"
+      ],
+      "answer": "Dilip Kumar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which actor received critical and award recognition for his role in The Lunchbox (2013)?",
+      "options": [
+        "Nawazuddin Siddiqui",
+        "R. Madhavan",
+        "Irrfan Khan"
+      ],
+      "answer": "Irrfan Khan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which veteran actor was the lead in Guru Dutt's Pyaasa (1957), a landmark in Hindi cinema?",
+      "options": [
+        "Guru Dutt",
+        "Dev Anand",
+        "Dilip Kumar"
+      ],
+      "answer": "Guru Dutt"
+    }
+  ]
+}

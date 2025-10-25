@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an ethical consideration when writing adult riddles?",
+      "options": [
+        "Avoid personal attacks or sensitive topics",
+        "Target private individuals for mockery",
+        "Promote illegal activity"
+      ],
+      "answer": "Avoid personal attacks or sensitive topics"
+    },
+    {
+      "question_id": 2,
+      "question": "Which real-world connection strengthens a riddle's appeal?",
+      "options": [
+        "Linking clues to common daily experiences",
+        "Referring to very rare technical procedures",
+        "Using only fictional elements"
+      ],
+      "answer": "Linking clues to common daily experiences"
+    },
+    {
+      "question_id": 3,
+      "question": "Which literary movement influenced complex adult riddle phrasing in modern puzzles?",
+      "options": [
+        "Surrealism's embrace of unexpected juxtapositions",
+        "Neoclassicism's strict forms",
+        "Realism's plain descriptions"
+      ],
+      "answer": "Surrealism's embrace of unexpected juxtapositions"
+    },
+    {
+      "question_id": 4,
+      "question": "Which reaction indicates a well-crafted adult riddle?",
+      "options": [
+        "People say \"I should have seen that!\"",
+        "People demand a refund",
+        "People ignore the riddle entirely"
+      ],
+      "answer": "People say \"I should have seen that!\""
+    },
+    {
+      "question_id": 5,
+      "question": "Which demographic details should riddle writers avoid to remain inclusive?",
+      "options": [
+        "Regional slang or culturally specific references unknown globally",
+        "Universal sensory descriptions",
+        "Simple physical object references"
+      ],
+      "answer": "Regional slang or culturally specific references unknown globally"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I hide in plain sight, reflect truth but distort images\"?",
+      "options": [
+        "Water surface or mirror under ripples",
+        "A photograph",
+        "A newspaper"
+      ],
+      "answer": "Water surface or mirror under ripples"
+    },
+    {
+      "question_id": 7,
+      "question": "What element often makes a \"What am I?\" riddle satisfying?",
+      "options": [
+        "An unexpected twist or double meaning",
+        "A long list of dates",
+        "A complex diagram"
+      ],
+      "answer": "An unexpected twist or double meaning"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rhetorical device helps disguise the subject in a \"What am I?\" riddle?",
+      "options": [
+        "Anthropomorphism giving human traits to objects",
+        "Footnote citation of sources",
+        "Mathematical induction"
+      ],
+      "answer": "Anthropomorphism giving human traits to objects"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ethical concern arises in competitive adult riddle communities?",
+      "options": [
+        "Plagiarism of original riddles without attribution",
+        "Sharing too many hints publicly",
+        "Using only ancient riddles"
+      ],
+      "answer": "Plagiarism of original riddles without attribution"
+    },
+    {
+      "question_id": 10,
+      "question": "What role do subtle clues play in \"What am I?\" riddles?",
+      "options": [
+        "They guide solvers without giving away the answer",
+        "They intentionally mislead with false facts",
+        "They add random numbers for decoration"
+      ],
+      "answer": "They guide solvers without giving away the answer"
+    },
+    {
+      "question_id": 11,
+      "question": "If a riddle says \"I make music but have no voice,\" which fits best?",
+      "options": [
+        "A musical instrument like a piano",
+        "A celebrity singer",
+        "A thunderstorm"
+      ],
+      "answer": "A musical instrument like a piano"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced wordplay device can subtly hide an answer within a riddle?",
+      "options": [
+        "Acrostic spelling first letters of each line",
+        "Adding complex algebra",
+        "Using only synonyms"
+      ],
+      "answer": "Acrostic spelling first letters of each line"
+    },
+    {
+      "question_id": 13,
+      "question": "Which long-term trend affects the evolution of 'What am I?' adult riddles?",
+      "options": [
+        "Shorter, social-media-friendly formats and visual riddles",
+        "Long-form printed-only collections increasing",
+        "Exclusively oral traditions rising"
+      ],
+      "answer": "Shorter, social-media-friendly formats and visual riddles"
+    },
+    {
+      "question_id": 14,
+      "question": "Which feature often marks a riddle as 'overfitted' to a niche audience?",
+      "options": [
+        "Excessive reliance on domain-specific trivia without general clues",
+        "Use of general metaphors",
+        "Short, elegant wording"
+      ],
+      "answer": "Excessive reliance on domain-specific trivia without general clues"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I fly without wings, cry without eyes, wherever I go darkness follows\"?",
+      "options": [
+        "Cloud or storm",
+        "A bat",
+        "A comet"
+      ],
+      "answer": "Cloud or storm"
+    }
+  ]
+}

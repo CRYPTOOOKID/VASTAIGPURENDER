@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which regiment is famous for the Gurkha soldiers in the Indian Army?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which long-range surface-to-air missile system is used by the Indian Air Force and Army?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which corps handles artillery firepower and includes regiments named after calibres like 155 mm guns?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which service uses warships and aircraft carriers primarily?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which university-style tri-service academy provides combined training to cadets from all three services?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1974 event demonstrated India's first successful nuclear device test at Pokhran?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which award is the second-highest wartime gallantry decoration in India?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which riverine or amphibious capability is part of the Indian Navy's MARCOS force?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian missile development under DRDO combines road-mobile launch and multi-stage solid motors for strategic range?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which force conducts coastal security alongside the Indian Navy?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unit famously captured Tiger Hill during the Kargil conflict?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which formation conducts combined maritime exercises such as MILAN to boost regional cooperation?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which rank is the head of the Indian Army usually appointed to?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian military operation in 1987 involved the Indian Peace Keeping Force in Sri Lanka?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which officer served as India’s first Chief of Defence Staff appointed in December 2019?"
+    }
+  ]
+}

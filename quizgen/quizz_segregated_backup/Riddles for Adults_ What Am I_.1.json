@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What makes an adult riddle more shareable on social platforms?",
+      "options": [
+        "A clever twist and brief, punchy wording",
+        "Long, detailed historical essays",
+        "Ambiguous answers with no resolution"
+      ],
+      "answer": "A clever twist and brief, punchy wording"
+    },
+    {
+      "question_id": 2,
+      "question": "What makes a riddle's distractors effective for adults?",
+      "options": [
+        "They reflect plausible but incorrect interpretations of clues",
+        "They are obviously unrelated nonsense",
+        "They repeat the correct answer twice"
+      ],
+      "answer": "They reflect plausible but incorrect interpretations of clues"
+    },
+    {
+      "question_id": 3,
+      "question": "Which answer fits: \"I wear many faces but have one name\"?",
+      "options": [
+        "A coin with heads and tails",
+        "A living person with multiple personalities",
+        "A painting that changes"
+      ],
+      "answer": "A coin with heads and tails"
+    },
+    {
+      "question_id": 4,
+      "question": "What quality makes a good \"What am I?\" riddle for adults?",
+      "options": [
+        "Clever ambiguity with logical resolution",
+        "Completely random facts",
+        "Obvious literal description"
+      ],
+      "answer": "Clever ambiguity with logical resolution"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pattern is effective for constructing progressive hints in a riddle?",
+      "options": [
+        "Start abstract and get progressively concrete",
+        "Start with exact answer then obscure it",
+        "Use random unrelated facts"
+      ],
+      "answer": "Start abstract and get progressively concrete"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced riddle answer leverages irony for impact?",
+      "options": [
+        "A safe described as 'empty but full of danger' (like a moldy cellar)",
+        "A literal description with no irony",
+        "A numeric code"
+      ],
+      "answer": "A safe described as 'empty but full of danger' (like a moldy cellar)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which audience are \"What am I?\" riddles typically suitable for?",
+      "options": [
+        "Adults seeking clever, layered clues",
+        "Only kindergarten children",
+        "Professional mathematicians exclusively"
+      ],
+      "answer": "Adults seeking clever, layered clues"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric indicates a riddle's success in a group setting?",
+      "options": [
+        "Lively discussion and multiple 'aha' moments",
+        "Immediate resignation with no guesses",
+        "One person solving instantly without interaction"
+      ],
+      "answer": "Lively discussion and multiple 'aha' moments"
+    },
+    {
+      "question_id": 9,
+      "question": "Which answer fits: \"I have roots nobody sees, I am taller than trees\"?",
+      "options": [
+        "A mountain",
+        "A cactus",
+        "A skyscraper"
+      ],
+      "answer": "A mountain"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of these is a typical subject for a \"What am I?\" riddle?",
+      "options": [
+        "An everyday object like a key or mirror",
+        "A highly technical proprietary algorithm",
+        "A unique individual's private diary"
+      ],
+      "answer": "An everyday object like a key or mirror"
+    },
+    {
+      "question_id": 11,
+      "question": "What advantage does first-person narration provide in adult riddles?",
+      "options": [
+        "Creates intimacy and misdirection through subjective voice",
+        "Removes all ambiguity entirely",
+        "Provides exact scientific data"
+      ],
+      "answer": "Creates intimacy and misdirection through subjective voice"
+    },
+    {
+      "question_id": 12,
+      "question": "Which historical riddle asked by the Sphinx targeted travelers' reasoning skills?",
+      "options": [
+        "What walks on four legs in the morning...?",
+        "Which god controls the wind?",
+        "How many seeds in a pomegranate?"
+      ],
+      "answer": "What walks on four legs in the morning...?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which technique helps when approaching a \"What am I?\" riddle?",
+      "options": [
+        "Consider literal and figurative meanings",
+        "Ignore the wording entirely",
+        "Only guess names of famous people"
+      ],
+      "answer": "Consider literal and figurative meanings"
+    },
+    {
+      "question_id": 14,
+      "question": "Which approach helps craft memorable riddle conclusions?",
+      "options": [
+        "A reveal that reframes earlier clues in hindsight",
+        "A random unrelated punchline",
+        "Leaving the answer ambiguous forever"
+      ],
+      "answer": "A reveal that reframes earlier clues in hindsight"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I have keys but no doors, space but no room, you can enter but not go inside\"?",
+      "options": [
+        "A keyboard",
+        "A piano teacher's office",
+        "A blue keycard"
+      ],
+      "answer": "A keyboard"
+    }
+  ]
+}

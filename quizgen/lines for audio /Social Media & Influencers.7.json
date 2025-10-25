@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ad product helps brands target users similar to a creator's followers?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which influencer platform was an early marketplace connecting brands to YouTube creators?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which platform native analytics insight helps measure story-level performance?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company introduced the first native social-platform shopping checkout experience?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metric do platforms often use to detect inauthentic influencer behavior?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did Instagram introduce algorithmic feed ranking replacing chronological order?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which influencer scandal highlighted nondisclosure issues in 2017 festival promotions?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which platform feature allows creators to earn recurring subscriber revenue natively?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which influencer-focused scandal led to increased platform enforcement around 2018-2020?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which global regulation most directly affects cross-border data use in influencer platforms?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which advertising format did Snapchat pioneer for vertical mobile-first viewing?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which metric is most useful to compare virality independent of audience size?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which verification practice supports compliance with disclosure regulations?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metric combination best estimates long-term influencer audience quality?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which strategy helps scale influencer programs while maintaining authenticity?"
+    }
+  ]
+}

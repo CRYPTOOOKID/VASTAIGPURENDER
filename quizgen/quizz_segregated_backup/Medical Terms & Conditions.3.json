@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'palliative care' primarily aim to provide for seriously ill patients?",
+      "options": [
+        "Symptom relief and quality of life",
+        "Curative treatment",
+        "Routine vaccinations"
+      ],
+      "answer": "Symptom relief and quality of life"
+    },
+    {
+      "question_id": 2,
+      "question": "Which screening test uses Papanicolaou smear to detect cervical pre-cancer changes?",
+      "options": [
+        "Pap test",
+        "Mammogram",
+        "Fecal occult blood test"
+      ],
+      "answer": "Pap test"
+    },
+    {
+      "question_id": 3,
+      "question": "Which antibiotic resistance mechanism involves bacteria producing enzymes that hydrolyze beta-lactam rings?",
+      "options": [
+        "Beta-lactamase production",
+        "Efflux pump activation",
+        "Porin channel mutation"
+      ],
+      "answer": "Beta-lactamase production"
+    },
+    {
+      "question_id": 4,
+      "question": "Which vaccine prevented smallpox and pioneered modern vaccination practice?",
+      "options": [
+        "Jenner's cowpox vaccine",
+        "Salk polio vaccine",
+        "Pasteur rabies vaccine"
+      ],
+      "answer": "Jenner's cowpox vaccine"
+    },
+    {
+      "question_id": 5,
+      "question": "Which lab test best estimates kidney function by measuring creatinine clearance or eGFR?",
+      "options": [
+        "Estimated glomerular filtration rate",
+        "C-reactive protein",
+        "Lipid panel"
+      ],
+      "answer": "Estimated glomerular filtration rate"
+    },
+    {
+      "question_id": 6,
+      "question": "Which bacteria produces a pseudomembrane in the colon causing severe antibiotic-associated diarrhea?",
+      "options": [
+        "Clostridioides difficile",
+        "Bacteroides fragilis",
+        "Lactobacillus acidophilus"
+      ],
+      "answer": "Clostridioides difficile"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the prefix 'hepato-' indicate about a medical condition?",
+      "options": [
+        "It involves the liver",
+        "It involves the kidneys",
+        "It involves the brain"
+      ],
+      "answer": "It involves the liver"
+    },
+    {
+      "question_id": 8,
+      "question": "Which scoring system predicts risk of stroke in atrial fibrillation patients clinically?",
+      "options": [
+        "CHA2DS2-VASc score",
+        "APGAR score",
+        "Melanoma staging score"
+      ],
+      "answer": "CHA2DS2-VASc score"
+    },
+    {
+      "question_id": 9,
+      "question": "Which acid-base disorder shows low pH, low bicarbonate, and compensatory low PaCO2?",
+      "options": [
+        "Metabolic acidosis with respiratory compensation",
+        "Respiratory acidosis with renal compensation",
+        "Metabolic alkalosis with respiratory compensation"
+      ],
+      "answer": "Metabolic acidosis with respiratory compensation"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the medical abbreviation 'HR' usually refer to on patient charts?",
+      "options": [
+        "Heart rate",
+        "Hematocrit ratio",
+        "Hepatic response"
+      ],
+      "answer": "Heart rate"
+    },
+    {
+      "question_id": 11,
+      "question": "Which condition is characterized by autoimmune destruction of pancreatic beta cells?",
+      "options": [
+        "Type 1 diabetes mellitus",
+        "Type 2 diabetes mellitus",
+        "Gestational diabetes"
+      ],
+      "answer": "Type 1 diabetes mellitus"
+    },
+    {
+      "question_id": 12,
+      "question": "Which toxin mechanism causes botulism by blocking acetylcholine release at neuromuscular junctions?",
+      "options": [
+        "Cleaves SNARE proteins preventing acetylcholine release",
+        "Activates cholinergic receptors permanently",
+        "Inhibits acetylcholinesterase activity"
+      ],
+      "answer": "Cleaves SNARE proteins preventing acetylcholine release"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term describes surgical removal of the appendix?",
+      "options": [
+        "Appendectomy",
+        "Cholecystectomy",
+        "Nephrectomy"
+      ],
+      "answer": "Appendectomy"
+    },
+    {
+      "question_id": 14,
+      "question": "Which antibiotic class inhibits bacterial cell wall synthesis by binding penicillin-binding proteins?",
+      "options": [
+        "Beta-lactams",
+        "Aminoglycosides",
+        "Macrolides"
+      ],
+      "answer": "Beta-lactams"
+    },
+    {
+      "question_id": 15,
+      "question": "Which physiologic process describes convalescent antibody transfer via placenta protecting newborns temporarily?",
+      "options": [
+        "Passive immunity from maternal IgG",
+        "Active neonatal vaccination",
+        "Innate complement activation"
+      ],
+      "answer": "Passive immunity from maternal IgG"
+    }
+  ]
+}

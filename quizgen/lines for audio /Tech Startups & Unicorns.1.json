@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a startup \"accelerator\" program?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the difference between pre-money and post-money valuation?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which public-market approach lets existing private shareholders sell shares without a traditional IPO roadshow?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a \"seed\" round in startup funding?"
+    },
+    {
+      "question_id": 5,
+      "question": "What metric pairs customer lifetime value with acquisition cost for unit economics?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced anti-dilution provision adjusts investor price protection by weighted-average or full-ratchet methods?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"founder\" in the context of startups?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric measures monthly recurring revenue normalized for subscription businesses?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company famously scaled via aggressive subsidized pricing to capture market share in ride-hailing?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"burn rate\" measure for a startup?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which marketplace unicorn popularized short-term private rentals globally?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which unicorn built a developer platform and raised major private funding while staying private as of 2024?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which startup famous for short videos launched globally under the name TikTok?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which startup popularized the \"network effects\" concept by becoming more valuable as users increased?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which provision protects early employees by scheduling equity vesting over time with a cliff period?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What seasonal practice do many countries near mid-latitudes follow to save energy?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which clock comparison revealed the need for global time standardization in the 19th century?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare timekeeping oddity exists in Nepal's standard time offset?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which large country uses a single time zone despite spanning many longitudes?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which U.S. legislation limited the length of daylight saving time after 1966?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which island group's repositioning of the International Date Line in 1995 created the world's earliest time zone?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the Prime Meridian's longitude?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which city historically used 'local mean time' before adopting standardized zones?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country uses a non-integer time zone offset of UTC+3:30?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of these is a half-hour time offset country?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which African country uses UTC+3 as standard time year-round?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which European microstate aligns its legal time with a neighboring country rather than its longitude?"
+    },
+    {
+      "question_id": 13,
+      "question": "Why do some countries use half-hour or 45-minute offsets?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which European country spans three time zones including overseas regions?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which nation adopted 'Moscow Time' year-round in 2014 by changing DST rules?"
+    }
+  ]
+}

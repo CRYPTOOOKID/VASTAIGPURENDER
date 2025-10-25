@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What currency is used in New Zealand?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency uses the ISO code INR?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Middle Eastern currency uses the dinar and was historically among the most stable in the region due to oil revenues?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country uses the rupee as its currency?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country issues the Belize dollar pegged to the US dollar at a fixed rate?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which small European country's currency shares legal tender status with the euro but issues its own coins: San Marino or Monaco?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency uses the abbreviation CHF?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency uses the ISO code ZAR?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency's coins include a micro-engraved hologram as a security feature introduced in the 2010s?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the currency of South Africa?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European country uses the lek and once had a currency called the 'dollar' historically?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which European microstate issues euro coins bearing its own national designs under agreement with the EU?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the currency of China?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which South Asian country uses the rupee but with a unique script on notes called 'Lao'"
+    },
+    {
+      "question_id": 15,
+      "question": "Which currency underwent redenomination in 2015 where 100 old units became 1 new unit due to inflation?"
+    }
+  ]
+}

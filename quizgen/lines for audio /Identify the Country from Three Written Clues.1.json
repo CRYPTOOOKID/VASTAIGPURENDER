@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Sumo wrestling, tatami, Kyoto temples — Which country?"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Baltic capitals, Riga Old Town, Daugava River — Which country?"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Silk Road city Samarkand, Registan square, Timurid architecture — Which country?"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Tango, Patagonia, Buenos Aires — Which country?"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Andes copper mines, Santiago economy, Easter Island governance — Which country?"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Himalayan kingdom, capital Kathmandu, UNESCO-listed Durbar Squares — Which country?"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Mount Fuji, sushi, Tokyo — Which country?"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Amritsar's Golden Temple, Punjab region, Sikhism birthplace — Which country?"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Drakensberg peaks, Zulu nation history, Durban port — Which country?"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Colosseum, Rome, pizza — Which country?"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Ottoman architecture, Bosphorus, Hagia Sophia — Which country?"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Penang George Town heritage, Malay-Chinese-Indian mix, capital Kuala Lumpur — Which country?"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Redwood forests, Hollywood, Silicon Valley — Which country?"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Forbidden City, Terracotta Army, Shanghai financial center — Which country?"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Atlantic archipelago, volcanic Pico island, Azores autonomous region — Which country?"
+    }
+  ]
+}

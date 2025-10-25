@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is known for the last words \"Don't let it end like this. Tell them I said something\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who said \"I should like to be buried in a plain box\" as last wishes revealing humility?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which scientist reportedly murmured \"I am not afraid of death\" as their final reflection on mortality?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is often quoted as saying \"Let us cross over the river and rest under the shade of the trees\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which American writer's final words were reportedly \"I want to go home\" after long travel and illness?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who reportedly told a nurse \"Send for the priest\" as a pious final request in 1540s England?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who reportedly said \"I am about to take my last voyage, a great leap in the dark\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who reportedly said \"It is a mercy that I have been spared\" after surviving an earlier danger and before dying later?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Renaissance artist said \"I have offended God and mankind because my work did not reach the quality it should have\"?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is often credited with the last words \"Et tu, Brute? Then fall, Caesar!\" in Shakespeare's play?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who said \"I am about to die: I expect to be murdered\" before being assassinated?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who reportedly said \"Lord help my poor soul\" before being executed for rebellion in England?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which artist is known for the ambiguous last words \"I am dying beyond my means\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who is associated with the last words \"Let us march on Rome\" as a dramatic final phrase? (Historical context matters)"
+    },
+    {
+      "question_id": 15,
+      "question": "Who allegedly told a doctor \"I see blackness and a staircase\" moments before dying in 19th-century reports?"
+    }
+  ]
+}

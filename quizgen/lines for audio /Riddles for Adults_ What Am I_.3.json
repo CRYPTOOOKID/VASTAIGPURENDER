@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "How many lines do many traditional short \"What am I?\" riddles have?"
+    },
+    {
+      "question_id": 2,
+      "question": "What makes wordplay-based adult riddles particularly engaging?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technique helps maintain fairness in expert-level riddle contests?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which reaction is common when someone solves a clever \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which best practice helps balance fairness in adult riddles?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I speak in numbers without words, guide decisions but lack emotion\"?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a common structure for clues in these riddles?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which famous myth uses a riddle as a plot device relevant to adult puzzling?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phrase describes a riddle that depends on historical knowledge for adults?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which is a common first hint when someone struggles with a riddle?"
+    },
+    {
+      "question_id": 11,
+      "question": "When writing adult riddles, why include sensory details sparingly?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which cognitive strategy helps solvers of hard 'What am I?' riddles?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which verb tense frequently appears in \"What am I?\" riddles' phrasing?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element increases replay value of riddle collections for adults?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which editorial guideline aids fairness in competitive riddling?"
+    }
+  ]
+}

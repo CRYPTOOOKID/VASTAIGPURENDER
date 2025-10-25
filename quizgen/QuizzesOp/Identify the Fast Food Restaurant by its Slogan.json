@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which fast food restaurant uses the slogan \"I'm lovin' it\"?",
+        "options": [
+          "McDonald's",
+          "Burger King",
+          "Wendy's"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which chain uses the slogan \"Eat Fresh\" in advertising?",
+        "options": [
+          "Subway",
+          "Panera Bread",
+          "Jimmy John's"
+        ],
+        "answer": "Subway"
+      },
+      {
+        "question": "Which restaurant promoted \"Have it your way\" as its slogan?",
+        "options": [
+          "Burger King",
+          "Hardee's",
+          "Carl's Jr."
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which brand is famous for the slogan \"It's Finger Lickin' Good\"?",
+        "options": [
+          "KFC",
+          "Popeyes",
+          "Chick-fil-A"
+        ],
+        "answer": "KFC"
+      },
+      {
+        "question": "Which fast food chain uses the cow-written slogan \"Eat Mor Chikin\"?",
+        "options": [
+          "Chick-fil-A",
+          "Church's Chicken",
+          "Raising Cane's"
+        ],
+        "answer": "Chick-fil-A"
+      },
+      {
+        "question": "Which sandwich chain uses the slogan \"We Have The Meats\"?",
+        "options": [
+          "Arby's",
+          "Subway",
+          "Jimmy John's"
+        ],
+        "answer": "Arby's"
+      },
+      {
+        "question": "Which pizza chain uses the slogan \"No one outpizzas the Hut\"?",
+        "options": [
+          "Pizza Hut",
+          "Papa John's",
+          "Domino's"
+        ],
+        "answer": "Pizza Hut"
+      },
+      {
+        "question": "Which coffee-and-doughnut chain uses \"America Runs on Dunkin'\"?",
+        "options": [
+          "Dunkin'",
+          "Tim Hortons",
+          "Krispy Kreme"
+        ],
+        "answer": "Dunkin'"
+      },
+      {
+        "question": "Which chain adopted the Spanish-flavored slogan \"Live Más\"?",
+        "options": [
+          "Taco Bell",
+          "Del Taco",
+          "El Pollo Loco"
+        ],
+        "answer": "Taco Bell"
+      },
+      {
+        "question": "Which burger chain famously asked \"Where's the beef?\" in its campaign?",
+        "options": [
+          "Wendy's",
+          "McDonald's",
+          "Burger King"
+        ],
+        "answer": "Wendy's"
+      },
+      {
+        "question": "Which West Coast burger chain uses \"Quality You Can Taste\"?",
+        "options": [
+          "In-N-Out Burger",
+          "Five Guys",
+          "Shake Shack"
+        ],
+        "answer": "In-N-Out Burger"
+      },
+      {
+        "question": "Which sandwich chain is known for the slogan \"Freaky Fast\"?",
+        "options": [
+          "Jimmy John's",
+          "Jersey Mike's",
+          "Subway"
+        ],
+        "answer": "Jimmy John's"
+      },
+      {
+        "question": "Which chain calls itself the \"Home of the Whopper\"?",
+        "options": [
+          "Burger King",
+          "Wendy's",
+          "Jack in the Box"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which chain promotes \"Love That Chicken\" in its advertising?",
+        "options": [
+          "Popeyes",
+          "KFC",
+          "Church's Chicken"
+        ],
+        "answer": "Popeyes"
+      },
+      {
+        "question": "Which drive-in brand uses the slogan \"America's Drive-In\"?",
+        "options": [
+          "Sonic Drive-In",
+          "A&W Restaurants",
+          "Jack in the Box"
+        ],
+        "answer": "Sonic Drive-In"
+      },
+      {
+        "question": "Which Texas-based burger chain uses \"Just like you like it\"?",
+        "options": [
+          "Whataburger",
+          "In-N-Out Burger",
+          "What A Burger (fictional)"
+        ],
+        "answer": "Whataburger"
+      },
+      {
+        "question": "Which brand once encouraged customers to \"Think outside the bun\"?",
+        "options": [
+          "Taco Bell",
+          "Burger King",
+          "Wendy's"
+        ],
+        "answer": "Taco Bell"
+      },
+      {
+        "question": "Which Mexican-style chain used the slogan \"Food with Integrity\"?",
+        "options": [
+          "Chipotle Mexican Grill",
+          "Qdoba",
+          "Moe's Southwest Grill"
+        ],
+        "answer": "Chipotle Mexican Grill"
+      },
+      {
+        "question": "Which burger brand uses the slogan \"Eat Like You Mean It\"?",
+        "options": [
+          "Carl's Jr.",
+          "Hardee's",
+          "Jack in the Box"
+        ],
+        "answer": "Carl's Jr."
+      },
+      {
+        "question": "Which newer burger chain uses \"Stand For Something Good\"?",
+        "options": [
+          "Shake Shack",
+          "Smashburger",
+          "Five Guys"
+        ],
+        "answer": "Shake Shack"
+      },
+      {
+        "question": "Which pizza chain uses \"Better Ingredients. Better Pizza.\"?",
+        "options": [
+          "Papa John's",
+          "Domino's",
+          "Pizza Hut"
+        ],
+        "answer": "Papa John's"
+      },
+      {
+        "question": "Which donut chain uses the slogan \"Hot Now\" to advertise fresh doughnuts?",
+        "options": [
+          "Krispy Kreme",
+          "Dunkin'",
+          "Shipley Do-Nuts"
+        ],
+        "answer": "Krispy Kreme"
+      },
+      {
+        "question": "Which brand uses \"Fan Food, Not Fast Food\" in its marketing?",
+        "options": [
+          "Dairy Queen",
+          "Culver's",
+          "Baskin-Robbins"
+        ],
+        "answer": "Dairy Queen"
+      },
+      {
+        "question": "Which bakery-cafe uses the slogan \"Food as it should be\"?",
+        "options": [
+          "Panera Bread",
+          "Le Pain Quotidien",
+          "Au Bon Pain"
+        ],
+        "answer": "Panera Bread"
+      },
+      {
+        "question": "Which pizza chain popularized the call \"Pizza! Pizza!\"?",
+        "options": [
+          "Little Caesars",
+          "Papa Murphy's",
+          "Sbarro"
+        ],
+        "answer": "Little Caesars"
+      },
+      {
+        "question": "Which delivery brand became known for the \"30 minutes or less\" delivery promise?",
+        "options": [
+          "Domino's Pizza",
+          "Pizza Hut",
+          "Papa John's"
+        ],
+        "answer": "Domino's Pizza"
+      },
+      {
+        "question": "Which coffeehouse's mission reads \"To inspire and nurture the human spirit\"?",
+        "options": [
+          "Starbucks",
+          "Peet's Coffee",
+          "Costa Coffee"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which burger chain uses \"Better Burger. Better Price.\" (commonly rounded) advertising?",
+        "options": [
+          "Wendy's",
+          "Five Guys",
+          "Red Robin"
+        ],
+        "answer": "Wendy's"
+      },
+      {
+        "question": "Which fried-chicken chain advertises its biscuits as \"Made From Scratch\"?",
+        "options": [
+          "Hardee's",
+          "Carl's Jr.",
+          "Bojangles' Famous Chicken 'n Biscuits"
+        ],
+        "answer": "Bojangles' Famous Chicken 'n Biscuits"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which fast food brand historically used \"Where's the beef?\" in a famous ad campaign?",
+        "options": [
+          "Wendy's",
+          "Burger King",
+          "McDonald's"
+        ],
+        "answer": "Wendy's"
+      },
+      {
+        "question": "Which chain used the slogan \"Good Mood Food\" to brand its menu?",
+        "options": [
+          "Popeyes",
+          "Arby's",
+          "Shake Shack"
+        ],
+        "answer": "Popeyes"
+      },
+      {
+        "question": "Which pizza chain used the tagline \"Make it great\" in recent marketing?",
+        "options": [
+          "Pizza Hut",
+          "Papa John's",
+          "Domino's Pizza"
+        ],
+        "answer": "Pizza Hut"
+      },
+      {
+        "question": "Which chain used \"We Do Chicken Right\" to emphasize preparation quality?",
+        "options": [
+          "Church's Chicken",
+          "KFC",
+          "Bojangles'"
+        ],
+        "answer": "Church's Chicken"
+      },
+      {
+        "question": "Which national chain used \"Famous for the Burger\" style branding and \"YUM\" slogan variants?",
+        "options": [
+          "Red Robin",
+          "Smashburger",
+          "Jack in the Box"
+        ],
+        "answer": "Red Robin"
+      },
+      {
+        "question": "Which sandwich chain used \"A Sandwich for Everyone\" messaging in campaigns?",
+        "options": [
+          "Jimmy John's",
+          "Jersey Mike's",
+          "Subway"
+        ],
+        "answer": "Jersey Mike's"
+      },
+      {
+        "question": "Which drive-in chain used \"This is how you Sonic\" in modern advertising?",
+        "options": [
+          "Sonic Drive-In",
+          "Culver's",
+          "Whataburger"
+        ],
+        "answer": "Sonic Drive-In"
+      },
+      {
+        "question": "Which breakfast chain uses the slogan \"Always Fresh\" in some regional marketing?",
+        "options": [
+          "Tim Hortons",
+          "Dunkin'",
+          "Einstein Bros. Bagels"
+        ],
+        "answer": "Tim Hortons"
+      },
+      {
+        "question": "Which brand used \"Better Ingredients. Better Pizza.\" but also pushed community campaigns?",
+        "options": [
+          "Papa John's",
+          "Domino's Pizza",
+          "Pizza Hut"
+        ],
+        "answer": "Papa John's"
+      },
+      {
+        "question": "Which burger chain's 2000s campaign used \"Have it your way\" as a distinguishing promise?",
+        "options": [
+          "Burger King",
+          "Wendy's",
+          "McDonald's"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which quick-serve restaurant uses \"One Love\" as a shorthand for its signature chicken focus?",
+        "options": [
+          "Raising Cane's Chicken Fingers",
+          "Zaxby's",
+          "Chick-fil-A"
+        ],
+        "answer": "Raising Cane's Chicken Fingers"
+      },
+      {
+        "question": "Which pizza company used the slogan \"You Got 30 Minutes\" in earlier delivery guarantees?",
+        "options": [
+          "Domino's Pizza",
+          "Papa John's",
+          "Little Caesars"
+        ],
+        "answer": "Domino's Pizza"
+      },
+      {
+        "question": "Which Mexican chain used the tagline \"Think outside the bun\" before adopting other slogans?",
+        "options": [
+          "Taco Bell",
+          "Qdoba",
+          "Del Taco"
+        ],
+        "answer": "Taco Bell"
+      },
+      {
+        "question": "Which brand promoted \"Food For All\" style messaging in outreach and advertising?",
+        "options": [
+          "Panera Bread",
+          "Chipotle Mexican Grill",
+          "Subway"
+        ],
+        "answer": "Panera Bread"
+      },
+      {
+        "question": "Which chain used \"Eat Fresh\" while pushing customizable subs?",
+        "options": [
+          "Subway",
+          "Blaze Pizza",
+          "Which Wich"
+        ],
+        "answer": "Subway"
+      },
+      {
+        "question": "Which fast casual chain used the pledge \"Food With Integrity\" to promote sourcing?",
+        "options": [
+          "Chipotle Mexican Grill",
+          "Qdoba",
+          "Mendocino Farms"
+        ],
+        "answer": "Chipotle Mexican Grill"
+      },
+      {
+        "question": "Which chicken chain used the slogan \"Love That Chicken From Popeyes\"?",
+        "options": [
+          "Popeyes",
+          "KFC",
+          "Bojangles'"
+        ],
+        "answer": "Popeyes"
+      },
+      {
+        "question": "Which brand used the slogan \"We Have The Meats\" to highlight deli quality?",
+        "options": [
+          "Arby's",
+          "Subway",
+          "Firehouse Subs"
+        ],
+        "answer": "Arby's"
+      },
+      {
+        "question": "Which chain has used the tagline \"Freaky Fresh\" or similar in marketing?",
+        "options": [
+          "Jimmy John's",
+          "Quiznos",
+          "Subway"
+        ],
+        "answer": "Jimmy John's"
+      },
+      {
+        "question": "Which coffee chain used the motto \"To inspire and nurture the human spirit\" as its mission?",
+        "options": [
+          "Starbucks",
+          "Costa Coffee",
+          "Peet's Coffee"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which brand's classic ad line was \"Pizza! Pizza!\" to emphasize value?",
+        "options": [
+          "Little Caesars",
+          "Papa John's",
+          "Domino's Pizza"
+        ],
+        "answer": "Little Caesars"
+      },
+      {
+        "question": "Which burger chain emphasizes \"Fresh, Never Frozen\" beef in commercials?",
+        "options": [
+          "Wendy's",
+          "McDonald's",
+          "Burger King"
+        ],
+        "answer": "Wendy's"
+      },
+      {
+        "question": "Which brand used the line \"We Didn't Invent the Chicken, Just the Chicken Sandwich\"?",
+        "options": [
+          "Chick-fil-A",
+          "Chick'n chain (fictional)",
+          "KFC"
+        ],
+        "answer": "Chick-fil-A"
+      },
+      {
+        "question": "Which chain used the slogan \"Eat Like You Mean It\" to promote bolder flavors?",
+        "options": [
+          "Carl's Jr.",
+          "Hardee's",
+          "Jack in the Box"
+        ],
+        "answer": "Carl's Jr."
+      },
+      {
+        "question": "Which drive-thru chain is associated with the phrase \"America's Drive-In\" historically?",
+        "options": [
+          "Sonic Drive-In",
+          "In-N-Out Burger",
+          "Jack in the Box"
+        ],
+        "answer": "Sonic Drive-In"
+      },
+      {
+        "question": "Which bakery-cafe anchored branding with \"Food as it should be\" messaging?",
+        "options": [
+          "Panera Bread",
+          "Corner Bakery Cafe",
+          "Au Bon Pain"
+        ],
+        "answer": "Panera Bread"
+      },
+      {
+        "question": "Which donut chain invites customers with the sign \"Hot Now\" when fresh items arrive?",
+        "options": [
+          "Krispy Kreme",
+          "Dunkin'",
+          "Tim Hortons"
+        ],
+        "answer": "Krispy Kreme"
+      },
+      {
+        "question": "Which fast casual burger chain stresses values in the line \"Stand For Something Good\"?",
+        "options": [
+          "Shake Shack",
+          "Five Guys",
+          "Smashburger"
+        ],
+        "answer": "Shake Shack"
+      },
+      {
+        "question": "Which pizza chain used a long-running claim of superior dough with \"Better Ingredients\"?",
+        "options": [
+          "Papa John's",
+          "Pizza Hut",
+          "Domino's Pizza"
+        ],
+        "answer": "Papa John's"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which chain used the 1980s campaign phrase \"Where's the beef?\" to highlight portion size?",
+        "options": [
+          "Wendy's",
+          "McDonald's",
+          "Burger King"
+        ],
+        "answer": "Wendy's"
+      },
+      {
+        "question": "Which brand ran the early-2000s campaign \"Eat Like You Mean It\" for bolder burgers?",
+        "options": [
+          "Carl's Jr.",
+          "Wendy's",
+          "Hardee's"
+        ],
+        "answer": "Carl's Jr."
+      },
+      {
+        "question": "Which regional chain uses \"One Love\" to reference a single-menu focus on chicken fingers?",
+        "options": [
+          "Raising Cane's Chicken Fingers",
+          "Zaxby's",
+          "Chick-fil-A"
+        ],
+        "answer": "Raising Cane's Chicken Fingers"
+      },
+      {
+        "question": "Which pizza franchise once guaranteed delivery in \"30 minutes or less\" in ads?",
+        "options": [
+          "Domino's Pizza",
+          "Pizza Hut",
+          "Papa John's"
+        ],
+        "answer": "Domino's Pizza"
+      },
+      {
+        "question": "Which UK-origin coffee house uses a corporate line about inspiring the human spirit?",
+        "options": [
+          "Starbucks",
+          "Costa Coffee",
+          "Caffè Nero"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which brand's controversial slogan emphasized customization with \"Have it your way\"?",
+        "options": [
+          "Burger King",
+          "McDonald's",
+          "Wendy's"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which chicken chain used the phrase \"Love That Chicken From Popeyes\" in ads?",
+        "options": [
+          "Popeyes",
+          "KFC",
+          "Church's Chicken"
+        ],
+        "answer": "Popeyes"
+      },
+      {
+        "question": "Which sandwich chain stressed fast delivery with the tagline \"Freaky Fast\"?",
+        "options": [
+          "Jimmy John's",
+          "Subway",
+          "Quiznos"
+        ],
+        "answer": "Jimmy John's"
+      },
+      {
+        "question": "Which pizza chain used \"No one outpizzas the Hut\" across decades of marketing?",
+        "options": [
+          "Pizza Hut",
+          "Papa John's",
+          "Domino's Pizza"
+        ],
+        "answer": "Pizza Hut"
+      },
+      {
+        "question": "Which chain built a long-term brand around \"Eat Fresh\" and footlong customization?",
+        "options": [
+          "Subway",
+          "Jersey Mike's",
+          "Firehouse Subs"
+        ],
+        "answer": "Subway"
+      },
+      {
+        "question": "Which brand used billboards with cows urging \"Eat Mor Chikin\" to sell chicken sandwiches?",
+        "options": [
+          "Chick-fil-A",
+          "KFC",
+          "Popeyes"
+        ],
+        "answer": "Chick-fil-A"
+      },
+      {
+        "question": "Which burger chain touts \"Fresh, Never Frozen\" beef as a key differentiator?",
+        "options": [
+          "Wendy's",
+          "McDonald's",
+          "Burger King"
+        ],
+        "answer": "Wendy's"
+      },
+      {
+        "question": "Which quick-service chain claims \"We Have The Meats\" for roast and deli offerings?",
+        "options": [
+          "Arby's",
+          "Subway",
+          "Firehouse Subs"
+        ],
+        "answer": "Arby's"
+      },
+      {
+        "question": "Which pizza company popularized the short exclamation \"Pizza! Pizza!\" as a jingle?",
+        "options": [
+          "Little Caesars",
+          "Papa John's",
+          "Sbarro"
+        ],
+        "answer": "Little Caesars"
+      },
+      {
+        "question": "Which donut brand uses a lighted sign reading \"Hot Now\" to indicate fresh batches?",
+        "options": [
+          "Krispy Kreme",
+          "Dunkin'",
+          "Tim Hortons"
+        ],
+        "answer": "Krispy Kreme"
+      },
+      {
+        "question": "Which chain emphasized ingredients with the line \"Better Ingredients. Better Pizza.\"?",
+        "options": [
+          "Papa John's",
+          "Pizza Hut",
+          "Domino's Pizza"
+        ],
+        "answer": "Papa John's"
+      },
+      {
+        "question": "Which burger brand introduced the global jingle \"I'm lovin' it\" in a wide campaign?",
+        "options": [
+          "McDonald's",
+          "Burger King",
+          "Wendy's"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which brand used the line \"Fan Food, Not Fast Food\" to reposition its menu appeal?",
+        "options": [
+          "Dairy Queen",
+          "Culver's",
+          "Steak 'n Shake"
+        ],
+        "answer": "Dairy Queen"
+      },
+      {
+        "question": "Which chain's advertising once invited customers to \"Think outside the bun\"?",
+        "options": [
+          "Taco Bell",
+          "Chipotle Mexican Grill",
+          "Del Taco"
+        ],
+        "answer": "Taco Bell"
+      },
+      {
+        "question": "Which fast-casual chain championed \"Food With Integrity\" and sustainable sourcing?",
+        "options": [
+          "Chipotle Mexican Grill",
+          "Panera Bread",
+          "CAVA"
+        ],
+        "answer": "Chipotle Mexican Grill"
+      },
+      {
+        "question": "Which brand positioned itself with the identity \"America Runs on Dunkin'\"?",
+        "options": [
+          "Dunkin'",
+          "Tim Hortons",
+          "Krispy Kreme"
+        ],
+        "answer": "Dunkin'"
+      },
+      {
+        "question": "Which burger chain uses the slogan \"Quality You Can Taste\" on its West Coast roots?",
+        "options": [
+          "In-N-Out Burger",
+          "Five Guys",
+          "Shake Shack"
+        ],
+        "answer": "In-N-Out Burger"
+      },
+      {
+        "question": "Which fast-food biscuit brand proclaims its biscuits are \"Made From Scratch\"?",
+        "options": [
+          "Bojangles' Famous Chicken 'n Biscuits",
+          "Hardee's",
+          "Carl's Jr."
+        ],
+        "answer": "Bojangles' Famous Chicken 'n Biscuits"
+      },
+      {
+        "question": "Which national chain uses the rallying slogan \"Stand For Something Good\" in PR?",
+        "options": [
+          "Shake Shack",
+          "Whataburger",
+          "Red Robin"
+        ],
+        "answer": "Shake Shack"
+      },
+      {
+        "question": "Which chain used the tagline \"Home of the Whopper\" to anchor its identity?",
+        "options": [
+          "Burger King",
+          "McDonald's",
+          "Wendy's"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which fast-food coffee brand uses a mission-style slogan rather than a short tagline?",
+        "options": [
+          "Starbucks",
+          "Dunkin'",
+          "Peet's Coffee"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which chain's legacy slogan proclaimed its sandwiches were delivered \"Freaky Fast\"?",
+        "options": [
+          "Jimmy John's",
+          "Jersey Mike's",
+          "Subway"
+        ],
+        "answer": "Jimmy John's"
+      },
+      {
+        "question": "Which pizza chain used promotional lines promising fast, value-driven pies with little frills?",
+        "options": [
+          "Little Caesars",
+          "Papa John's",
+          "Domino's Pizza"
+        ],
+        "answer": "Little Caesars"
+      },
+      {
+        "question": "Which Southern chicken chain used regional pride slogans tied to its signature biscuits?",
+        "options": [
+          "Bojangles' Famous Chicken 'n Biscuits",
+          "KFC",
+          "Popeyes"
+        ],
+        "answer": "Bojangles' Famous Chicken 'n Biscuits"
+      }
+    ]
+  }
+}

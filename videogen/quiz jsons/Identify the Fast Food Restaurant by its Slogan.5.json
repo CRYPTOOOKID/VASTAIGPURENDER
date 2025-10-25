@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which sandwich chain is known for the slogan \"Freaky Fast\"?",
+      "options": [
+        "Subway",
+        "Jersey Mike's",
+        "Jimmy John's"
+      ],
+      "answer": "Jimmy John's"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand's classic ad line was \"Pizza! Pizza!\" to emphasize value?",
+      "options": [
+        "Domino's Pizza",
+        "Little Caesars",
+        "Papa John's"
+      ],
+      "answer": "Little Caesars"
+    },
+    {
+      "question_id": 3,
+      "question": "Which quick-service chain claims \"We Have The Meats\" for roast and deli offerings?",
+      "options": [
+        "Subway",
+        "Firehouse Subs",
+        "Arby's"
+      ],
+      "answer": "Arby's"
+    },
+    {
+      "question_id": 4,
+      "question": "Which pizza chain uses \"Better Ingredients. Better Pizza.\"?",
+      "options": [
+        "Pizza Hut",
+        "Papa John's",
+        "Domino's"
+      ],
+      "answer": "Papa John's"
+    },
+    {
+      "question_id": 5,
+      "question": "Which breakfast chain uses the slogan \"Always Fresh\" in some regional marketing?",
+      "options": [
+        "Tim Hortons",
+        "Einstein Bros. Bagels",
+        "Dunkin'"
+      ],
+      "answer": "Tim Hortons"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Southern chicken chain used regional pride slogans tied to its signature biscuits?",
+      "options": [
+        "Popeyes",
+        "KFC",
+        "Bojangles' Famous Chicken 'n Biscuits"
+      ],
+      "answer": "Bojangles' Famous Chicken 'n Biscuits"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fried-chicken chain advertises its biscuits as \"Made From Scratch\"?",
+      "options": [
+        "Bojangles' Famous Chicken 'n Biscuits",
+        "Carl's Jr.",
+        "Hardee's"
+      ],
+      "answer": "Bojangles' Famous Chicken 'n Biscuits"
+    },
+    {
+      "question_id": 8,
+      "question": "Which chain used \"Eat Fresh\" while pushing customizable subs?",
+      "options": [
+        "Which Wich",
+        "Subway",
+        "Blaze Pizza"
+      ],
+      "answer": "Subway"
+    },
+    {
+      "question_id": 9,
+      "question": "Which chain built a long-term brand around \"Eat Fresh\" and footlong customization?",
+      "options": [
+        "Subway",
+        "Firehouse Subs",
+        "Jersey Mike's"
+      ],
+      "answer": "Subway"
+    },
+    {
+      "question_id": 10,
+      "question": "Which bakery-cafe uses the slogan \"Food as it should be\"?",
+      "options": [
+        "Au Bon Pain",
+        "Le Pain Quotidien",
+        "Panera Bread"
+      ],
+      "answer": "Panera Bread"
+    },
+    {
+      "question_id": 11,
+      "question": "Which chain used \"We Do Chicken Right\" to emphasize preparation quality?",
+      "options": [
+        "Church's Chicken",
+        "Bojangles'",
+        "KFC"
+      ],
+      "answer": "Church's Chicken"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand ran the early-2000s campaign \"Eat Like You Mean It\" for bolder burgers?",
+      "options": [
+        "Hardee's",
+        "Carl's Jr.",
+        "Wendy's"
+      ],
+      "answer": "Carl's Jr."
+    },
+    {
+      "question_id": 13,
+      "question": "Which burger chain famously asked \"Where's the beef?\" in its campaign?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "answer": "Wendy's"
+    },
+    {
+      "question_id": 14,
+      "question": "Which bakery-cafe anchored branding with \"Food as it should be\" messaging?",
+      "options": [
+        "Corner Bakery Cafe",
+        "Au Bon Pain",
+        "Panera Bread"
+      ],
+      "answer": "Panera Bread"
+    },
+    {
+      "question_id": 15,
+      "question": "Which chain emphasized ingredients with the line \"Better Ingredients. Better Pizza.\"?",
+      "options": [
+        "Pizza Hut",
+        "Papa John's",
+        "Domino's Pizza"
+      ],
+      "answer": "Papa John's"
+    }
+  ]
+}

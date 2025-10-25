@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which telecommunications brand popularized \"Can you hear me now?\""
+    },
+    {
+      "question_id": 2,
+      "question": "Which snack brand used the phrase \"Betcha can't eat just one\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 20th-century campaign used modest, self-effacing copy to challenge typical boastful ads?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which soda brand uses the tagline \"Obey Your Thirst\" historically?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which agency created Volkswagen's influential \"Think Small\" campaign?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which television advertising era saw the rise of short, repeatable taglines tied to jingles?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which sandwich chain uses the slogan \"Eat Fresh\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which brand famously used a line promising reliability for urgent deliveries?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which brand used a celebrity-recorded pop jingle to globalize a tagline in 2003?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which company uses the tagline \"I'm Lovin' It\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which year saw Coca-Cola roll out \"Taste the Feeling\" globally?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand used a slogan asserting its product's emotional value beyond price with \"Priceless\"?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which theme park is called \"The Happiest Place on Earth\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which advertising line linked breakfast cereal to sports champions?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which slogan's backstory involves a major ad agency creative team and set new creative standards?"
+    }
+  ]
+}

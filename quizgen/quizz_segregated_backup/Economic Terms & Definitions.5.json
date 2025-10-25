@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a tariff?",
+      "options": [
+        "A tax on imports",
+        "A subsidy for exports",
+        "A domestic sales tax"
+      ],
+      "answer": "A tax on imports"
+    },
+    {
+      "question_id": 2,
+      "question": "What does CPI 'basket' represent?",
+      "options": [
+        "Typical goods and services purchased by consumers",
+        "All goods produced domestically",
+        "Government procurement items"
+      ],
+      "answer": "Typical goods and services purchased by consumers"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test determines whether a tax is progressive across income distribution?",
+      "options": [
+        "Comparing average tax rates rising with income quantiles",
+        "Checking whether marginal rates equal zero",
+        "Verifying that everyone pays same percentage"
+      ],
+      "answer": "Comparing average tax rates rising with income quantiles"
+    },
+    {
+      "question_id": 4,
+      "question": "What does unemployment rate measure?",
+      "options": [
+        "Share of labor force actively seeking work without a job",
+        "Share of population below poverty line",
+        "Share of people working part-time"
+      ],
+      "answer": "Share of labor force actively seeking work without a job"
+    },
+    {
+      "question_id": 5,
+      "question": "What is deadweight loss associated with?",
+      "options": [
+        "Market inefficiency from price controls or taxes",
+        "Government budget surplus",
+        "Full employment equilibrium"
+      ],
+      "answer": "Market inefficiency from price controls or taxes"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'seigniorage' in public finance?",
+      "options": [
+        "Revenue from issuing money net of production costs",
+        "Profit from sovereign bonds issuance",
+        "Tax on foreign earnings"
+      ],
+      "answer": "Revenue from issuing money net of production costs"
+    },
+    {
+      "question_id": 7,
+      "question": "What is GDP per capita intended to represent?",
+      "options": [
+        "Average output per person",
+        "Average household income",
+        "Total government spending per person"
+      ],
+      "answer": "Average output per person"
+    },
+    {
+      "question_id": 8,
+      "question": "Which indicator tracks wholesale prices before retail?",
+      "options": [
+        "Producer Price Index",
+        "Consumer Price Index",
+        "GDP deflator"
+      ],
+      "answer": "Producer Price Index"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the Modigliani-Miller theorem assert for perfect markets?",
+      "options": [
+        "Capital structure does not affect firm value",
+        "Only debt financing maximizes firm value",
+        "Share buybacks reduce firm value"
+      ],
+      "answer": "Capital structure does not affect firm value"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a monopoly?",
+      "options": [
+        "Single seller dominating a market",
+        "Many sellers offering identical goods",
+        "Government-controlled industry"
+      ],
+      "answer": "Single seller dominating a market"
+    },
+    {
+      "question_id": 11,
+      "question": "What is Ricardian equivalence about?",
+      "options": [
+        "Private saving offsets government borrowing for future taxes",
+        "Trade policies increasing total welfare",
+        "Monetary policy having no effect on output"
+      ],
+      "answer": "Private saving offsets government borrowing for future taxes"
+    },
+    {
+      "question_id": 12,
+      "question": "What characterizes a Ponzi scheme from national fiscal perspective?",
+      "options": [
+        "New borrowing used solely to service earlier debt, unsustainable without growth",
+        "High investment in productive capital",
+        "Balanced budgets with surpluses"
+      ],
+      "answer": "New borrowing used solely to service earlier debt, unsustainable without growth"
+    },
+    {
+      "question_id": 13,
+      "question": "What is supply in economic terms?",
+      "options": [
+        "Quantity producers are willing to sell at various prices",
+        "Consumer desire for products",
+        "Government allocation of resources"
+      ],
+      "answer": "Quantity producers are willing to sell at various prices"
+    },
+    {
+      "question_id": 14,
+      "question": "Which tax is progressive by design?",
+      "options": [
+        "Income tax with rising marginal rates",
+        "Flat sales tax",
+        "Per unit excise tax"
+      ],
+      "answer": "Income tax with rising marginal rates"
+    },
+    {
+      "question_id": 15,
+      "question": "What does the term 'haircut' mean in sovereign debt restructuring?",
+      "options": [
+        "Creditor accepts a reduction in principal or payments",
+        "Government imposes a sudden inflation tax",
+        "Investor receives extra collateral"
+      ],
+      "answer": "Creditor accepts a reduction in principal or payments"
+    }
+  ]
+}

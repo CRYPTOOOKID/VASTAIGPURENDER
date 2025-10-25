@@ -1,0 +1,1171 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "In which year did Christopher Columbus first arrive in the Americas?",
+        "options": [
+          "1492",
+          "1519",
+          "1607"
+        ],
+        "answer": "1492"
+      },
+      {
+        "question": "What year did the United States declare independence?",
+        "options": [
+          "1776",
+          "1789",
+          "1801"
+        ],
+        "answer": "1776"
+      },
+      {
+        "question": "In which year did World War I begin?",
+        "options": [
+          "1914",
+          "1939",
+          "1905"
+        ],
+        "answer": "1914"
+      },
+      {
+        "question": "Which year marks the end of World War II in Europe (VE Day)?",
+        "options": [
+          "1945",
+          "1948",
+          "1939"
+        ],
+        "answer": "1945"
+      },
+      {
+        "question": "When was the Declaration of the Rights of Man and of the Citizen adopted during the French Revolution?",
+        "options": [
+          "1789",
+          "1799",
+          "1774"
+        ],
+        "answer": "1789"
+      },
+      {
+        "question": "What year did the Roman Empire traditionally fall with the deposition of Romulus Augustulus?",
+        "options": [
+          "476",
+          "410",
+          "1453"
+        ],
+        "answer": "476"
+      },
+      {
+        "question": "Which year did the Berlin Wall fall, symbolizing the end of Cold War divisions?",
+        "options": [
+          "1989",
+          "1975",
+          "1991"
+        ],
+        "answer": "1989"
+      },
+      {
+        "question": "In what year did the Magna Carta get sealed at Runnymede?",
+        "options": [
+          "1215",
+          "1066",
+          "1314"
+        ],
+        "answer": "1215"
+      },
+      {
+        "question": "When did the American Civil War begin?",
+        "options": [
+          "1861",
+          "1850",
+          "1877"
+        ],
+        "answer": "1861"
+      },
+      {
+        "question": "Which year marks the start of the Protestant Reformation when Martin Luther posted his 95 Theses?",
+        "options": [
+          "1517",
+          "1492",
+          "1534"
+        ],
+        "answer": "1517"
+      },
+      {
+        "question": "In which year did Napoleon Bonaparte become Emperor of the French?",
+        "options": [
+          "1804",
+          "1799",
+          "1815"
+        ],
+        "answer": "1804"
+      },
+      {
+        "question": "What year did the Titanic sink on its maiden voyage?",
+        "options": [
+          "1912",
+          "1906",
+          "1920"
+        ],
+        "answer": "1912"
+      },
+      {
+        "question": "When did India gain independence from British rule?",
+        "options": [
+          "1947",
+          "1950",
+          "1935"
+        ],
+        "answer": "1947"
+      },
+      {
+        "question": "Which year did the Russian Revolution that led to Bolshevik power occur?",
+        "options": [
+          "1917",
+          "1905",
+          "1924"
+        ],
+        "answer": "1917"
+      },
+      {
+        "question": "In which year was the United Nations founded?",
+        "options": [
+          "1945",
+          "1919",
+          "1950"
+        ],
+        "answer": "1945"
+      },
+      {
+        "question": "What year marks the beginning of the Renaissance often used by historians (fall of Constantinople)?",
+        "options": [
+          "1453",
+          "1300",
+          "1517"
+        ],
+        "answer": "1453"
+      },
+      {
+        "question": "When was the first successful powered flight by the Wright brothers?",
+        "options": [
+          "1903",
+          "1899",
+          "1910"
+        ],
+        "answer": "1903"
+      },
+      {
+        "question": "Which year did the Spanish Armada attempt to invade England?",
+        "options": [
+          "1588",
+          "1642",
+          "1707"
+        ],
+        "answer": "1588"
+      },
+      {
+        "question": "In what year did Gandhi lead the Salt March against British salt taxes?",
+        "options": [
+          "1930",
+          "1920",
+          "1942"
+        ],
+        "answer": "1930"
+      },
+      {
+        "question": "What year did the Black Death reach Europe, beginning its major pandemic wave?",
+        "options": [
+          "1347",
+          "1204",
+          "1492"
+        ],
+        "answer": "1347"
+      },
+      {
+        "question": "When was the Battle of Waterloo, ending Napoleon's rule?",
+        "options": [
+          "1815",
+          "1805",
+          "1821"
+        ],
+        "answer": "1815"
+      },
+      {
+        "question": "Which year did the Ottoman Empire capture Constantinople?",
+        "options": [
+          "1453",
+          "1204",
+          "1299"
+        ],
+        "answer": "1453"
+      },
+      {
+        "question": "In which year did the UK pass the Act of Union creating the United Kingdom of Great Britain?",
+        "options": [
+          "1707",
+          "1801",
+          "1603"
+        ],
+        "answer": "1707"
+      },
+      {
+        "question": "What year did Australia become a federated nation (Commonwealth of Australia)?",
+        "options": [
+          "1901",
+          "1914",
+          "1888"
+        ],
+        "answer": "1901"
+      },
+      {
+        "question": "When did Japan formally surrender, ending World War II?",
+        "options": [
+          "1945",
+          "1947",
+          "1944"
+        ],
+        "answer": "1945"
+      },
+      {
+        "question": "Which year did the Suez Canal open, transforming global trade routes?",
+        "options": [
+          "1869",
+          "1798",
+          "1914"
+        ],
+        "answer": "1869"
+      },
+      {
+        "question": "In what year did the Warsaw Pact formally dissolve?",
+        "options": [
+          "1991",
+          "1989",
+          "1999"
+        ],
+        "answer": "1991"
+      },
+      {
+        "question": "What year did the Protestant English king Henry VIII break with Rome establishing the Church of England?",
+        "options": [
+          "1534",
+          "1517",
+          "1558"
+        ],
+        "answer": "1534"
+      },
+      {
+        "question": "When did the Moon landing of Apollo 11 occur?",
+        "options": [
+          "1969",
+          "1972",
+          "1965"
+        ],
+        "answer": "1969"
+      },
+      {
+        "question": "Which year did the Great Fire of London occur?",
+        "options": [
+          "1666",
+          "1605",
+          "1703"
+        ],
+        "answer": "1666"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did the Bolsheviks sign the Treaty of Brest-Litovsk, exiting World War I?",
+        "options": [
+          "1918",
+          "1917",
+          "1920"
+        ],
+        "answer": "1918"
+      },
+      {
+        "question": "When was the Edict of Nantes, granting religious toleration in France, issued?",
+        "options": [
+          "1598",
+          "1572",
+          "1610"
+        ],
+        "answer": "1598"
+      },
+      {
+        "question": "What year did the Meiji Restoration begin transforming Japan into a modern state?",
+        "options": [
+          "1868",
+          "1853",
+          "1877"
+        ],
+        "answer": "1868"
+      },
+      {
+        "question": "In which year did the Cuban Missile Crisis bring the world close to nuclear war?",
+        "options": [
+          "1962",
+          "1956",
+          "1968"
+        ],
+        "answer": "1962"
+      },
+      {
+        "question": "What year was the Berlin Airlift initiated in response to the Soviet blockade?",
+        "options": [
+          "1948",
+          "1945",
+          "1950"
+        ],
+        "answer": "1948"
+      },
+      {
+        "question": "When did the Ottoman Empire officially dissolve after World War I?",
+        "options": [
+          "1922",
+          "1918",
+          "1924"
+        ],
+        "answer": "1922"
+      },
+      {
+        "question": "Which year did the Statute of Westminster grant legislative independence to British Dominions?",
+        "options": [
+          "1931",
+          "1919",
+          "1947"
+        ],
+        "answer": "1931"
+      },
+      {
+        "question": "In what year did Israel declare independence, leading to the 1948 Arab-Israeli War?",
+        "options": [
+          "1948",
+          "1956",
+          "1939"
+        ],
+        "answer": "1948"
+      },
+      {
+        "question": "What year did Martin Luther King Jr. deliver his 'I Have a Dream' speech?",
+        "options": [
+          "1963",
+          "1960",
+          "1968"
+        ],
+        "answer": "1963"
+      },
+      {
+        "question": "When did South Africa hold its first multiracial democratic elections ending apartheid?",
+        "options": [
+          "1994",
+          "1990",
+          "1989"
+        ],
+        "answer": "1994"
+      },
+      {
+        "question": "Which year was the Magna Carta reissued with broader royal concessions after initial sealing?",
+        "options": [
+          "1216",
+          "1215",
+          "1225"
+        ],
+        "answer": "1216"
+      },
+      {
+        "question": "In what year did the Black Tuesday stock market crash that precipitated the Great Depression occur?",
+        "options": [
+          "1929",
+          "1918",
+          "1933"
+        ],
+        "answer": "1929"
+      },
+      {
+        "question": "What year did the Treaty of Versailles formally end World War I?",
+        "options": [
+          "1919",
+          "1918",
+          "1923"
+        ],
+        "answer": "1919"
+      },
+      {
+        "question": "When was the Gutenberg Bible completed, marking a milestone in printing history?",
+        "options": [
+          "1455",
+          "1439",
+          "1476"
+        ],
+        "answer": "1455"
+      },
+      {
+        "question": "Which year did the Spanish conquest of the Aztec Empire culminate with Tenochtitlan's fall?",
+        "options": [
+          "1521",
+          "1519",
+          "1532"
+        ],
+        "answer": "1521"
+      },
+      {
+        "question": "In what year did the English Bill of Rights become law, shaping constitutional monarchy?",
+        "options": [
+          "1689",
+          "1660",
+          "1701"
+        ],
+        "answer": "1689"
+      },
+      {
+        "question": "What year did the Louisiana Purchase double the size of the United States?",
+        "options": [
+          "1803",
+          "1812",
+          "1796"
+        ],
+        "answer": "1803"
+      },
+      {
+        "question": "When did the Chinese Communist Party proclaim the People's Republic of China?",
+        "options": [
+          "1949",
+          "1937",
+          "1958"
+        ],
+        "answer": "1949"
+      },
+      {
+        "question": "Which year did the Irish Potato Famine, a major demographic catastrophe, begin in earnest?",
+        "options": [
+          "1845",
+          "1830",
+          "1852"
+        ],
+        "answer": "1845"
+      },
+      {
+        "question": "In what year did the Battle of Stalingrad end, marking a turning point in WWII's Eastern Front?",
+        "options": [
+          "1943",
+          "1942",
+          "1944"
+        ],
+        "answer": "1943"
+      },
+      {
+        "question": "What year did the first Crusade capture Jerusalem, establishing several Crusader states?",
+        "options": [
+          "1099",
+          "1096",
+          "1100"
+        ],
+        "answer": "1099"
+      },
+      {
+        "question": "When was the Treaty of Tordesillas, dividing new lands between Spain and Portugal, signed?",
+        "options": [
+          "1494",
+          "1506",
+          "1479"
+        ],
+        "answer": "1494"
+      },
+      {
+        "question": "Which year did the Bolshevik leader Lenin die, initiating a power struggle in the USSR?",
+        "options": [
+          "1924",
+          "1922",
+          "1930"
+        ],
+        "answer": "1924"
+      },
+      {
+        "question": "In what year did the Panama Canal officially open for traffic?",
+        "options": [
+          "1914",
+          "1904",
+          "1920"
+        ],
+        "answer": "1914"
+      },
+      {
+        "question": "What year did Florence Nightingale gain renown for nursing work during the Crimean War?",
+        "options": [
+          "1854",
+          "1848",
+          "1865"
+        ],
+        "answer": "1854"
+      },
+      {
+        "question": "When did the Ottoman siege and fall of Constantinople lead to the end of the Byzantine Empire?",
+        "options": [
+          "1453",
+          "1204",
+          "1261"
+        ],
+        "answer": "1453"
+      },
+      {
+        "question": "Which year saw the formation of NATO as a collective defense alliance?",
+        "options": [
+          "1949",
+          "1955",
+          "1939"
+        ],
+        "answer": "1949"
+      },
+      {
+        "question": "In which year did the British Parliament pass the Reform Act extending the franchise in 19th century Britain?",
+        "options": [
+          "1832",
+          "1828",
+          "1867"
+        ],
+        "answer": "1832"
+      },
+      {
+        "question": "What year did the Franco-Prussian War end, leading to German unification under the Second Reich?",
+        "options": [
+          "1871",
+          "1866",
+          "1870"
+        ],
+        "answer": "1871"
+      },
+      {
+        "question": "When did the Spanish Civil War begin, a precursor to broader European conflicts?",
+        "options": [
+          "1936",
+          "1933",
+          "1939"
+        ],
+        "answer": "1936"
+      }
+    ],
+    "hard": [
+      {
+        "question": "In what year was the Edict of Milan issued, granting religious toleration to Christians in the Roman Empire?",
+        "options": [
+          "313",
+          "306",
+          "325"
+        ],
+        "answer": "313"
+      },
+      {
+        "question": "When did the Great Schism split the Christian Church into Western and Eastern branches?",
+        "options": [
+          "1054",
+          "988",
+          "1204"
+        ],
+        "answer": "1054"
+      },
+      {
+        "question": "Which year did the Council of Trent conclude, shaping Catholic Counter-Reformation doctrine?",
+        "options": [
+          "1563",
+          "1545",
+          "1583"
+        ],
+        "answer": "1563"
+      },
+      {
+        "question": "In what year did the Battle of Tours halt Umayyad expansion into Western Europe?",
+        "options": [
+          "732",
+          "711",
+          "754"
+        ],
+        "answer": "732"
+      },
+      {
+        "question": "What year did the Library of Alexandria suffer a major destructive event often dated by historians?",
+        "options": [
+          "48 BCE",
+          "391 CE",
+          "642 CE"
+        ],
+        "answer": "48 BCE"
+      },
+      {
+        "question": "When did Charlemagne get crowned Emperor by the Pope, reviving the Roman imperial title in the West?",
+        "options": [
+          "800",
+          "814",
+          "793"
+        ],
+        "answer": "800"
+      },
+      {
+        "question": "Which year marks the completion of the Domesday Book, William the Conqueror's survey of England?",
+        "options": [
+          "1086",
+          "1066",
+          "1100"
+        ],
+        "answer": "1086"
+      },
+      {
+        "question": "In what year was the Treaty of Westphalia signed, ending the Thirty Years' War?",
+        "options": [
+          "1648",
+          "1618",
+          "1654"
+        ],
+        "answer": "1648"
+      },
+      {
+        "question": "What year did Hernán Cortés begin his expedition that led to the fall of the Aztec Empire?",
+        "options": [
+          "1519",
+          "1502",
+          "1524"
+        ],
+        "answer": "1519"
+      },
+      {
+        "question": "When did the Haitian Revolution begin, leading to the world's first Black republic?",
+        "options": [
+          "1791",
+          "1804",
+          "1789"
+        ],
+        "answer": "1791"
+      },
+      {
+        "question": "Which year did Vasco da Gama reach India by sea, opening a direct Atlantic-Indian route?",
+        "options": [
+          "1498",
+          "1488",
+          "1502"
+        ],
+        "answer": "1498"
+      },
+      {
+        "question": "In what year did the Glorious Revolution depose James II and bring William and Mary to the throne?",
+        "options": [
+          "1688",
+          "1679",
+          "1702"
+        ],
+        "answer": "1688"
+      },
+      {
+        "question": "What year did the Voyages of Zheng He reach the East African coast, demonstrating Ming naval reach?",
+        "options": [
+          "1415",
+          "1405",
+          "1433"
+        ],
+        "answer": "1433"
+      },
+      {
+        "question": "When was the Edict of Caracalla (Constitutio Antoniniana) granting Roman citizenship to many free men?",
+        "options": [
+          "212",
+          "193",
+          "217"
+        ],
+        "answer": "212"
+      },
+      {
+        "question": "Which year did the Battle of Lepanto occur, curbing Ottoman naval dominance in the Mediterranean?",
+        "options": [
+          "1571",
+          "1566",
+          "1588"
+        ],
+        "answer": "1571"
+      },
+      {
+        "question": "In what year was the Code of Justinian compiled, influencing civil law traditions?",
+        "options": [
+          "529",
+          "565",
+          "534"
+        ],
+        "answer": "534"
+      },
+      {
+        "question": "What year did the Norman conquest of southern Italy begin with Norman incursions?",
+        "options": [
+          "1016",
+          "1061",
+          "1042"
+        ],
+        "answer": "1016"
+      },
+      {
+        "question": "When did the Tet Offensive occur, a pivotal series of conflicts in the Vietnam War?",
+        "options": [
+          "1968",
+          "1965",
+          "1972"
+        ],
+        "answer": "1968"
+      },
+      {
+        "question": "Which year did Ferdinand Magellan's expedition begin the first circumnavigation of the globe?",
+        "options": [
+          "1519",
+          "1509",
+          "1522"
+        ],
+        "answer": "1519"
+      },
+      {
+        "question": "In what year did the Paris Commune arise as a radical socialist government in the city?",
+        "options": [
+          "1871",
+          "1848",
+          "1867"
+        ],
+        "answer": "1871"
+      },
+      {
+        "question": "What year did the Taiping Rebellion, one of the deadliest conflicts, begin in China?",
+        "options": [
+          "1850",
+          "1840",
+          "1860"
+        ],
+        "answer": "1850"
+      },
+      {
+        "question": "When was the Rosetta Stone engraved, enabling the decipherment of Egyptian hieroglyphs after discovery?",
+        "options": [
+          "196 BCE",
+          "332 BCE",
+          "30 BCE"
+        ],
+        "answer": "196 BCE"
+      },
+      {
+        "question": "Which year did the Anglo-Zanzibar War occur, often cited as the shortest war in history?",
+        "options": [
+          "1896",
+          "1884",
+          "1900"
+        ],
+        "answer": "1896"
+      },
+      {
+        "question": "In what year did theist philosopher and statesman Thomas More publish Utopia, influencing political thought?",
+        "options": [
+          "1516",
+          "1509",
+          "1523"
+        ],
+        "answer": "1516"
+      },
+      {
+        "question": "What year did the Glorious Revolution lead to the Bill of Rights in England, shaping parliamentary sovereignty?",
+        "options": [
+          "1689",
+          "1695",
+          "1701"
+        ],
+        "answer": "1689"
+      },
+      {
+        "question": "When did the Great Fire of Rome take place during Nero's reign, a debated historical event?",
+        "options": [
+          "64",
+          "54",
+          "68"
+        ],
+        "answer": "64"
+      },
+      {
+        "question": "Which year did the Tanzimat reforms begin in the Ottoman Empire, modernizing its institutions?",
+        "options": [
+          "1839",
+          "1856",
+          "1826"
+        ],
+        "answer": "1839"
+      },
+      {
+        "question": "In what year did the Bolsheviks launch the Kronstadt rebellion suppression, consolidating Soviet power?",
+        "options": [
+          "1921",
+          "1919",
+          "1924"
+        ],
+        "answer": "1921"
+      },
+      {
+        "question": "What year did the Congress of Vienna conclude, reshaping Europe after the Napoleonic Wars?",
+        "options": [
+          "1815",
+          "1814",
+          "1820"
+        ],
+        "answer": "1815"
+      },
+      {
+        "question": "When did the Sui Dynasty complete the Grand Canal, transforming Chinese internal trade routes?",
+        "options": [
+          "609",
+          "581",
+          "618"
+        ],
+        "answer": "609"
+      },
+      {
+        "question": "Which year did Ferdinand and Isabella complete the Reconquista with Granada's fall, ending Muslim rule in Iberia?",
+        "options": [
+          "1492",
+          "1479",
+          "1504"
+        ],
+        "answer": "1492"
+      },
+      {
+        "question": "In what year did the first self-propelled steam locomotive successfully operate, marking early railway history?",
+        "options": [
+          "1804",
+          "1825",
+          "1784"
+        ],
+        "answer": "1804"
+      },
+      {
+        "question": "What year did the Act of Supremacy declare the English monarch head of the Church of England?",
+        "options": [
+          "1534",
+          "1547",
+          "1559"
+        ],
+        "answer": "1534"
+      },
+      {
+        "question": "When was the city of Constantinople formally renamed Istanbul by Turkish authorities?",
+        "options": [
+          "1930",
+          "1923",
+          "1918"
+        ],
+        "answer": "1930"
+      },
+      {
+        "question": "Which year did the Zanj Rebellion, a major slave uprising in Basra, begin?",
+        "options": [
+          "869",
+          "861",
+          "880"
+        ],
+        "answer": "869"
+      },
+      {
+        "question": "In what year did the Stockholm Bloodbath, a mass execution in Scandinavian history, occur?",
+        "options": [
+          "1520",
+          "1513",
+          "1536"
+        ],
+        "answer": "1520"
+      },
+      {
+        "question": "What year did the Anglo-Powhatan Wars in early colonial Virginia begin, shaping English-Native relations?",
+        "options": [
+          "1610",
+          "1607",
+          "1622"
+        ],
+        "answer": "1610"
+      },
+      {
+        "question": "When did the Opium War between Britain and Qing China begin, initiating major 19th-century treaties?",
+        "options": [
+          "1839",
+          "1820",
+          "1842"
+        ],
+        "answer": "1839"
+      },
+      {
+        "question": "Which year did the Spanish reconquest of Granada complete the Christian reconquista of Iberia?",
+        "options": [
+          "1492",
+          "1469",
+          "1501"
+        ],
+        "answer": "1492"
+      },
+      {
+        "question": "In what year did the Ethiopian victory at Adwa repel Italian colonization attempts?",
+        "options": [
+          "1896",
+          "1889",
+          "1905"
+        ],
+        "answer": "1896"
+      },
+      {
+        "question": "What year did the Peace of Augsburg permit rulers to choose Lutheranism or Catholicism in the Holy Roman Empire?",
+        "options": [
+          "1555",
+          "1517",
+          "1568"
+        ],
+        "answer": "1555"
+      },
+      {
+        "question": "When was the first recorded use of gunpowder weapons in European warfare at the Battle of Crécy?",
+        "options": [
+          "1346",
+          "1314",
+          "1360"
+        ],
+        "answer": "1346"
+      },
+      {
+        "question": "Which year did the Battle of Tours (Poitiers) take place where Charles Martel halted Islamic expansion?",
+        "options": [
+          "732",
+          "718",
+          "750"
+        ],
+        "answer": "732"
+      },
+      {
+        "question": "In what year did Constantine I issue the first civil recognition of Christianity in the Roman Empire?",
+        "options": [
+          "313",
+          "306",
+          "330"
+        ],
+        "answer": "313"
+      },
+      {
+        "question": "What year did the Periclean building program, including the Parthenon, begin in Athens?",
+        "options": [
+          "447 BCE",
+          "460 BCE",
+          "430 BCE"
+        ],
+        "answer": "447 BCE"
+      },
+      {
+        "question": "When was the Treaty of Nanking signed, ending the First Opium War and ceding Hong Kong to Britain?",
+        "options": [
+          "1842",
+          "1839",
+          "1856"
+        ],
+        "answer": "1842"
+      },
+      {
+        "question": "Which year did the Reform Act of 1867 in Britain significantly extend voting rights to urban working men?",
+        "options": [
+          "1867",
+          "1832",
+          "1884"
+        ],
+        "answer": "1867"
+      },
+      {
+        "question": "In what year did the Great Mutiny (Indian Rebellion) against British rule begin?",
+        "options": [
+          "1857",
+          "1849",
+          "1865"
+        ],
+        "answer": "1857"
+      },
+      {
+        "question": "What year marks the official start of the Safavid dynasty in Persia under Shah Ismail I?",
+        "options": [
+          "1501",
+          "1487",
+          "1524"
+        ],
+        "answer": "1501"
+      },
+      {
+        "question": "When did Tokugawa Ieyasu consolidate power at the Battle of Sekigahara, initiating Tokugawa shogunate rule?",
+        "options": [
+          "1600",
+          "1590",
+          "1614"
+        ],
+        "answer": "1600"
+      },
+      {
+        "question": "Which year did the Treaty of Guadalupe Hidalgo end the Mexican-American War, ceding territory to the US?",
+        "options": [
+          "1848",
+          "1846",
+          "1853"
+        ],
+        "answer": "1848"
+      },
+      {
+        "question": "In what year did the First Crusade's avenue of pilgrimage and military campaigns formally begin with Pope Urban II's call?",
+        "options": [
+          "1095",
+          "1096",
+          "1101"
+        ],
+        "answer": "1095"
+      },
+      {
+        "question": "What year did the Anglo-Saxon Chronicle first begin recording English history under King Alfred?",
+        "options": [
+          "890",
+          "871",
+          "900"
+        ],
+        "answer": "890"
+      },
+      {
+        "question": "When did the Dutch capture Malacca from the Portuguese, altering Southeast Asian trade control?",
+        "options": [
+          "1641",
+          "1606",
+          "1623"
+        ],
+        "answer": "1641"
+      },
+      {
+        "question": "Which year did the Great Irish Rebellion of 1641 begin, affecting British Isles politics and war?",
+        "options": [
+          "1641",
+          "1637",
+          "1650"
+        ],
+        "answer": "1641"
+      },
+      {
+        "question": "In what year did the Black Hawk War, signaling final Native American resistance in Illinois region, take place?",
+        "options": [
+          "1832",
+          "1812",
+          "1848"
+        ],
+        "answer": "1832"
+      },
+      {
+        "question": "What year did Belgium gain independence from the Netherlands following the Belgian Revolution?",
+        "options": [
+          "1830",
+          "1825",
+          "1848"
+        ],
+        "answer": "1830"
+      },
+      {
+        "question": "When was the first edition of Adam Smith's The Wealth of Nations published, influencing economics?",
+        "options": [
+          "1776",
+          "1764",
+          "1789"
+        ],
+        "answer": "1776"
+      },
+      {
+        "question": "Which year did the Treaty of Kanagawa open Japan to American trade under Commodore Perry?",
+        "options": [
+          "1854",
+          "1845",
+          "1868"
+        ],
+        "answer": "1854"
+      },
+      {
+        "question": "In what year did the Pilgrims land at Plymouth Rock and establish Plymouth Colony?",
+        "options": [
+          "1620",
+          "1607",
+          "1630"
+        ],
+        "answer": "1620"
+      },
+      {
+        "question": "What year did the Berlin Conference regulate European colonization of Africa, formalizing the Scramble for Africa?",
+        "options": [
+          "1884",
+          "1871",
+          "1899"
+        ],
+        "answer": "1884"
+      },
+      {
+        "question": "When did the Dreyfus Affair begin publicly in France, revealing deep institutional antisemitism and divisions?",
+        "options": [
+          "1894",
+          "1901",
+          "1885"
+        ],
+        "answer": "1894"
+      },
+      {
+        "question": "Which year did the Battle of Midway occur, turning the tide in the Pacific Theater of World War II?",
+        "options": [
+          "1942",
+          "1941",
+          "1943"
+        ],
+        "answer": "1942"
+      },
+      {
+        "question": "In what year did the Irish Free State formally come into existence following the Anglo-Irish Treaty?",
+        "options": [
+          "1922",
+          "1919",
+          "1937"
+        ],
+        "answer": "1922"
+      },
+      {
+        "question": "What year did the Salt March conclude when Gandhi reached Dandi, creating international attention?",
+        "options": [
+          "1930",
+          "1929",
+          "1931"
+        ],
+        "answer": "1930"
+      },
+      {
+        "question": "When was the Ottoman Tanzimat edict Hatt-ı Şerif of Gülhane proclaimed, starting legal reforms?",
+        "options": [
+          "1839",
+          "1856",
+          "1826"
+        ],
+        "answer": "1839"
+      },
+      {
+        "question": "Which year did the Battle of Hastings occur, leading to Norman rule in England?",
+        "options": [
+          "1066",
+          "1050",
+          "1087"
+        ],
+        "answer": "1066"
+      },
+      {
+        "question": "In what year did Samuel de Champlain found Quebec City, a cornerstone of French North America?",
+        "options": [
+          "1608",
+          "1580",
+          "1620"
+        ],
+        "answer": "1608"
+      },
+      {
+        "question": "What year did the French Revolution's Reign of Terror peak with mass executions under the Committee of Public Safety?",
+        "options": [
+          "1793",
+          "1789",
+          "1799"
+        ],
+        "answer": "1793"
+      }
+    ]
+  }
+}

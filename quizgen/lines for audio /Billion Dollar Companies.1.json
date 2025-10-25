@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company acquired Instagram in 2012 for about $1 billion?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which cloud service did Amazon launch in 2006 that transformed corporate IT?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company completed an $8.45 billion acquisition of MGM Studios in 2022?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Chinese e-commerce giant was founded by Jack Ma?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company founded by Reed Hastings disrupted television with original streaming content?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company’s name refers to a maritime trading company and became synonymous with large online marketplaces?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which company began in a Palo Alto garage in 1939, later shaping Silicon Valley?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company introduced the concept of a smartphone app marketplace for iOS in 2008?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company first popularized the subscription streaming model for global original series production?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who founded Amazon in 1994?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company was the first U.S. firm to reach a $1 trillion market cap?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which early Amazon name did Jeff Bezos consider before renaming it Amazon?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which company launched the Kindle e-reader series?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company released the PlayStation 5 in 2020?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company’s founder originally chose the domain 'relentless.com' before settling on Amazon?"
+    }
+  ]
+}

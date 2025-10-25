@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'cart abandonment'?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'inventory turnover' measuring for retailers?"
+    },
+    {
+      "question_id": 3,
+      "question": "What role does 'idempotency' play in payment APIs?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company is known for the 'Buy Box' in online marketplaces?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'subscription commerce' primarily?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which legal consideration affects cross-border e-commerce pricing and checkout?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'multichannel selling'?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the purpose of '3D Secure' in card payments?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which inventory strategy minimizes stockouts while reducing holding costs?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'dropshipping' in e-commerce?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'affiliate cookie attribution' used for?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which supply chain innovation uses blockchain for provenance tracking?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'retargeting' in online advertising?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which protocol replaced SSL for secure web connections?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is 'progressive web app' (PWA) benefit for e-commerce?"
+    }
+  ]
+}

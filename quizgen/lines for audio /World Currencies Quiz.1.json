@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency uses the symbol ₩?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency is the legal tender of the Cayman Islands?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which currency uses the denomination 'pa'anga' and is the official currency of a Pacific island nation?"
+    },
+    {
+      "question_id": 4,
+      "question": "What currency is used in Chile?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country adopted the euro but retains its own coins for collector issues?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country uses a currency called the 'lek' and experienced major monetary reform after World War II?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency uses the abbreviation JPY?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency is used in Switzerland and Liechtenstein and sometimes abbreviated as 'Fr.'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency featured the portrait of Mustafa Kemal Atatürk after a major redesign post-1923 republican reforms?"
+    },
+    {
+      "question_id": 10,
+      "question": "What currency does Mexico use?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which currency is unique for being made primarily of polymer rather than paper in many series?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country introduced a 'bimonetary' system using both a local currency and the US dollar after 2009 crisis?"
+    },
+    {
+      "question_id": 13,
+      "question": "What currency is used in Brazil?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which South American country uses the guarani as its currency?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country uses the 'sol' as its currency and reintroduced it in 1991 to stabilize the economy?"
+    }
+  ]
+}

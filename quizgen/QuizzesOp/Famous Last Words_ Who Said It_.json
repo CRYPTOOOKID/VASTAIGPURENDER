@@ -1,0 +1,829 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who famously said \"Et tu, Brute?\" according to tradition?",
+        "options": [
+          "Julius Caesar",
+          "Marcus Antonius",
+          "Brutus"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Who is credited with the last words \"I have a terrific headache\" before a fatal event?",
+        "options": [
+          "Napoleon Bonaparte",
+          "Alexander Pope",
+          "Ludwig van Beethoven"
+        ],
+        "answer": "Napoleon Bonaparte"
+      },
+      {
+        "question": "Which scientist reportedly said \"I have not failed\" as last words reflecting persistence?",
+        "options": [
+          "Thomas Edison",
+          "Albert Einstein",
+          "Isaac Newton"
+        ],
+        "answer": "Thomas Edison"
+      },
+      {
+        "question": "Who is known for the last words \"I die hard but am not afraid to go\"?",
+        "options": [
+          "Jane Austen",
+          "Winston Churchill",
+          "Sir Walter Scott"
+        ],
+        "answer": "Sir Walter Scott"
+      },
+      {
+        "question": "Which American president said \"All my possessions for a moment of time\" reportedly at death?",
+        "options": [
+          "George Washington",
+          "Thomas Jefferson",
+          "Charles I"
+        ],
+        "answer": "Charles I"
+      },
+      {
+        "question": "Who is reported to have said \"Either that wallpaper goes, or I do\" as last words?",
+        "options": [
+          "Oscar Wilde",
+          "Agatha Christie",
+          "Groucho Marx"
+        ],
+        "answer": "Oscar Wilde"
+      },
+      {
+        "question": "Which explorer’s purported last words were \"I only regret that I have but one life to lose for my country\"? (Famous variation)",
+        "options": [
+          "Nathan Hale",
+          "Christopher Columbus",
+          "Ferdinand Magellan"
+        ],
+        "answer": "Nathan Hale"
+      },
+      {
+        "question": "Who is often quoted as saying \"Let us cross over the river and rest under the shade of the trees\"?",
+        "options": [
+          "Ulysses S. Grant",
+          "Stonewall Jackson",
+          "Robert E. Lee"
+        ],
+        "answer": "Ulysses S. Grant"
+      },
+      {
+        "question": "Which writer reportedly said his last words: \"Now I shall go to sleep\"?",
+        "options": [
+          "Emily Dickinson",
+          "Mark Twain",
+          "Samuel Taylor Coleridge"
+        ],
+        "answer": "Mark Twain"
+      },
+      {
+        "question": "Who is known to have said \"I am ready to meet my Maker\" on their deathbed?",
+        "options": [
+          "George Washington",
+          "Florence Nightingale",
+          "Pope John Paul II"
+        ],
+        "answer": "George Washington"
+      },
+      {
+        "question": "Which famous composer said \"Play it, Sam\" at his death according to popular culture? (Note: misquoted line)",
+        "options": [
+          "Miles Davis",
+          "Humphrey Bogart",
+          "Cole Porter"
+        ],
+        "answer": "Humphrey Bogart"
+      },
+      {
+        "question": "Who reportedly said \"I am about to take my last voyage, a great leap in the dark\"?",
+        "options": [
+          "Thomas Jefferson",
+          "John Quincy Adams",
+          "Francis Bacon"
+        ],
+        "answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Which abolitionist is credited with the final words \"I only regret that I have but one life to lose for my country\"?",
+        "options": [
+          "Frederick Douglass",
+          "John Brown",
+          "Harriet Tubman"
+        ],
+        "answer": "John Brown"
+      },
+      {
+        "question": "Who is famous for the defiant last words \"I am still standing\"?",
+        "options": [
+          "Harriet Beecher Stowe",
+          "Winston Churchill",
+          "Leon Trotsky"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Which playwright reportedly said \"I should never have switched from scotch to martinis\" as last words?",
+        "options": [
+          "George Bernard Shaw",
+          "Noël Coward",
+          "Ernest Hemingway"
+        ],
+        "answer": "Ernest Hemingway"
+      },
+      {
+        "question": "Who is often credited with the last words \"Et tu, Brute? Then fall, Caesar!\" in Shakespeare's play?",
+        "options": [
+          "Cassius",
+          "Julius Caesar",
+          "Brutus"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Which US founding father said \"It is well, I die hard, but I am not afraid to go\" on his deathbed?",
+        "options": [
+          "Alexander Hamilton",
+          "Benjamin Franklin",
+          "John Adams"
+        ],
+        "answer": "Benjamin Franklin"
+      },
+      {
+        "question": "Who reportedly said \"Now I can die, for I have seen tyranny\" after witnessing an event?",
+        "options": [
+          "Patrick Henry",
+          "Nathan Hale",
+          "Thomas Paine"
+        ],
+        "answer": "Nathan Hale"
+      },
+      {
+        "question": "Which artist is known for the ambiguous last words \"I am dying beyond my means\"?",
+        "options": [
+          "Frida Kahlo",
+          "Oscar Wilde",
+          "Edgar Allan Poe"
+        ],
+        "answer": "Oscar Wilde"
+      },
+      {
+        "question": "Who allegedly said \"Go on, get out — last words are for fools who haven't said enough\"?",
+        "options": [
+          "Karl Marx",
+          "Jean-Paul Sartre",
+          "Samuel Johnson"
+        ],
+        "answer": "Karl Marx"
+      },
+      {
+        "question": "Which US president's last words were reported as \"I want to be left alone\"?",
+        "options": [
+          "Calvin Coolidge",
+          "Ulysses S. Grant",
+          "Herbert Hoover"
+        ],
+        "answer": "Ulysses S. Grant"
+      },
+      {
+        "question": "Who reportedly said \"It is very beautiful over there\" as their final words referring to a place beyond life?",
+        "options": [
+          "Florence Nightingale",
+          "Mary Shelley",
+          "Emily Brontë"
+        ],
+        "answer": "Florence Nightingale"
+      },
+      {
+        "question": "Which inventor is reported to have said \"I will not be there to see the end\" near death?",
+        "options": [
+          "Nikola Tesla",
+          "Thomas Edison",
+          "Alexander Graham Bell"
+        ],
+        "answer": "Nikola Tesla"
+      },
+      {
+        "question": "Who is credited with saying \"I have offended God and mankind because my work did not reach the quality it should have\" on their deathbed?",
+        "options": [
+          "Leonardo da Vinci",
+          "Miguel de Cervantes",
+          "Wolfgang Amadeus Mozart"
+        ],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Which author allegedly said \"I must go in, the fog is rising\" as his last words?",
+        "options": [
+          "Ralph Waldo Emerson",
+          "T. S. Eliot",
+          "F. Scott Fitzgerald"
+        ],
+        "answer": "Ralph Waldo Emerson"
+      },
+      {
+        "question": "Who reportedly murmured \"I should never have switched from scotch to martinis\" as a humorous dying quip?",
+        "options": [
+          "Humphrey Bogart",
+          "W. C. Fields",
+          "Ernest Hemingway"
+        ],
+        "answer": "W. C. Fields"
+      },
+      {
+        "question": "Which famous admiral is associated with the last line \"Kiss me, Hardy\"?",
+        "options": [
+          "Admiral Nelson",
+          "Admiral T. E. Lawrence",
+          "Admiral Collingwood"
+        ],
+        "answer": "Admiral Nelson"
+      },
+      {
+        "question": "Who is known for the last words \"Don't let it end like this. Tell them I said something\"?",
+        "options": [
+          "Marilyn Monroe",
+          "Ernest Hemingway",
+          "Franz Kafka"
+        ],
+        "answer": "Marilyn Monroe"
+      },
+      {
+        "question": "Which composer reportedly said \"It is very sad, but it is over\" in their final moments?",
+        "options": [
+          "Claude Debussy",
+          "Franz Schubert",
+          "Gustav Mahler"
+        ],
+        "answer": "Claude Debussy"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Whose reported dying words were \"I have tried so hard to do right\"?",
+        "options": [
+          "Abraham Lincoln",
+          "Grover Cleveland",
+          "Thomas Edison"
+        ],
+        "answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Which English king said \"Remember for your good the blood you have shed this day\" before execution?",
+        "options": [
+          "Charles I",
+          "Richard III",
+          "Henry VIII"
+        ],
+        "answer": "Charles I"
+      },
+      {
+        "question": "Which famous actor said \"I'm losing it\" just before death from a heart attack on stage?",
+        "options": [
+          "James Dean",
+          "Laurence Olivier",
+          "John Barrymore"
+        ],
+        "answer": "John Barrymore"
+      },
+      {
+        "question": "Who reportedly said \"It is a mercy that I have been spared\" after surviving an earlier danger and before dying later?",
+        "options": [
+          "Marie Curie",
+          "Florence Nightingale",
+          "Bram Stoker"
+        ],
+        "answer": "Marie Curie"
+      },
+      {
+        "question": "Which French heroine's alleged last words were \"I am not afraid; I was born to do this\"?",
+        "options": [
+          "Joan of Arc",
+          "Catherine de Medici",
+          "Marie Antoinette"
+        ],
+        "answer": "Joan of Arc"
+      },
+      {
+        "question": "Who said \"I should like to be buried in a plain box\" as last wishes revealing humility?",
+        "options": [
+          "Susan B. Anthony",
+          "Queen Victoria",
+          "Ralph Waldo Emerson"
+        ],
+        "answer": "Ralph Waldo Emerson"
+      },
+      {
+        "question": "Which American writer's final words were reportedly \"I want to go home\" after long travel and illness?",
+        "options": [
+          "Mark Twain",
+          "Herman Melville",
+          "Edgar Allan Poe"
+        ],
+        "answer": "Mark Twain"
+      },
+      {
+        "question": "Which scientist reputedly said \"I go to seek a Great Perhaps\" on his deathbed?",
+        "options": [
+          "Blaise Pascal",
+          "François Rabelais",
+          "Laurence Sterne"
+        ],
+        "answer": "François Rabelais"
+      },
+      {
+        "question": "Which Roman poet is credited with dying words about returning to the Elysian fields?",
+        "options": [
+          "Virgil",
+          "Horace",
+          "Ovid"
+        ],
+        "answer": "Virgil"
+      },
+      {
+        "question": "Who reportedly said \"I regret that I am not fit to be buried among saints\" before dying?",
+        "options": [
+          "John Wesley",
+          "Jonathan Swift",
+          "John Donne"
+        ],
+        "answer": "Jonathan Swift"
+      },
+      {
+        "question": "Which American jazz legend reportedly said \"Don't worry about me\" before death?",
+        "options": [
+          "Louis Armstrong",
+          "Duke Ellington",
+          "Charlie Parker"
+        ],
+        "answer": "Louis Armstrong"
+      },
+      {
+        "question": "Who is associated with the last words \"Let us march on Rome\" as a dramatic final phrase? (Historical context matters)",
+        "options": [
+          "Benito Mussolini",
+          "Victor Emmanuel II",
+          "Gabriele D'Annunzio"
+        ],
+        "answer": "Benito Mussolini"
+      },
+      {
+        "question": "Which author said \"I should like to thank God for a happy life\" as last words?",
+        "options": [
+          "Nathaniel Hawthorne",
+          "Henry David Thoreau",
+          "Charles Dickens"
+        ],
+        "answer": "Charles Dickens"
+      },
+      {
+        "question": "Who reportedly said \"I'm bored with it all\" in their final moments expressing weariness?",
+        "options": [
+          "Winston Churchill",
+          "George Eliot",
+          "Lewis Carroll"
+        ],
+        "answer": "Lewis Carroll"
+      },
+      {
+        "question": "Which famous mathematician's last words were \"Do not let us quarrel any longer\"?",
+        "options": [
+          "Srinivasa Ramanujan",
+          "Carl Friedrich Gauss",
+          "Ada Lovelace"
+        ],
+        "answer": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Who is reported to have said \"I am a dead man\" shortly before dying from an assassination?",
+        "options": [
+          "Archduke Franz Ferdinand",
+          "James A. Garfield",
+          "Mahatma Gandhi"
+        ],
+        "answer": "James A. Garfield"
+      },
+      {
+        "question": "Which famous composer reportedly said \"Hear my music, my love\" as final words to a companion?",
+        "options": [
+          "Ludwig van Beethoven",
+          "Franz Liszt",
+          "Johann Sebastian Bach"
+        ],
+        "answer": "Ludwig van Beethoven"
+      },
+      {
+        "question": "Who reportedly said \"I must be ready to go\" referencing death as a transition?",
+        "options": [
+          "Pope John Paul II",
+          "Mother Teresa",
+          "Desmond Tutu"
+        ],
+        "answer": "Mother Teresa"
+      },
+      {
+        "question": "Which leader said \"If only I had served my country as I served my family\" in remorse near death?",
+        "options": [
+          "Otto von Bismarck",
+          "Napoleon Bonaparte",
+          "Puyi"
+        ],
+        "answer": "Napoleon Bonaparte"
+      },
+      {
+        "question": "Who famously said \"Drink to me only with thine eyes\" as quoted at death in cultural retellings?",
+        "options": [
+          "John Keats",
+          "Oscar Wilde",
+          "Ben Jonson"
+        ],
+        "answer": "John Keats"
+      },
+      {
+        "question": "Which American civil rights leader is reported to have said \"I've been to the mountaintop\" just before dying?",
+        "options": [
+          "Malcolm X",
+          "Martin Luther King Jr.",
+          "Medgar Evers"
+        ],
+        "answer": "Martin Luther King Jr."
+      },
+      {
+        "question": "Whose last words included a simple request: \"Tell my wife I think of her\" as they died abroad?",
+        "options": [
+          "General Douglas MacArthur",
+          "Ernest Hemingway",
+          "Frederick Chopin"
+        ],
+        "answer": "Ernest Hemingway"
+      },
+      {
+        "question": "Which poet reportedly murmured \"I am dying. I shall sleep well\" on their deathbed?",
+        "options": [
+          "Emily Dickinson",
+          "Percy Bysshe Shelley",
+          "William Wordsworth"
+        ],
+        "answer": "Percy Bysshe Shelley"
+      },
+      {
+        "question": "Who said \"Whatever happens, you must not be afraid\" as calming last words to a loved one?",
+        "options": [
+          "Queen Elizabeth I",
+          "Marie Curie",
+          "Florence Nightingale"
+        ],
+        "answer": "Florence Nightingale"
+      },
+      {
+        "question": "Which English king allegedly declared \"I go from a corruptible to an incorruptible crown\" near death?",
+        "options": [
+          "Henry V",
+          "Charles I",
+          "James I"
+        ],
+        "answer": "Charles I"
+      },
+      {
+        "question": "Who reportedly said \"Don't cry for me\" as last words inspiring later cultural references?",
+        "options": [
+          "Eva Perón",
+          "Marilyn Monroe",
+          "Edith Piaf"
+        ],
+        "answer": "Eva Perón"
+      },
+      {
+        "question": "Which famous scientist's last words were \"I will not be in the way of the progress\" expressing optimism?",
+        "options": [
+          "Albert Einstein",
+          "Michael Faraday",
+          "Niels Bohr"
+        ],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "Who said \"I am about to die: I expect to be murdered\" before being assassinated?",
+        "options": [
+          "Rasputin",
+          "Julius Caesar",
+          "Emiliano Zapata"
+        ],
+        "answer": "Rasputin"
+      },
+      {
+        "question": "Which novelist reportedly said \"It is a far, far better rest that I go to than I have ever known\" at the moment of death?",
+        "options": [
+          "Charles Dickens",
+          "Victor Hugo",
+          "George Eliot"
+        ],
+        "answer": "Charles Dickens"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Irish playwright reportedly muttered \"Have I not made a great mistake?\" before dying, reflecting on his career?",
+        "options": [
+          "Oscar Wilde",
+          "George Bernard Shaw",
+          "Samuel Beckett"
+        ],
+        "answer": "George Bernard Shaw"
+      },
+      {
+        "question": "Who reputedly said \"I am the resurrection and the life\" as last words during a well-documented final prayer?",
+        "options": [
+          "John Wesley",
+          "Charles Spurgeon",
+          "George Whitefield"
+        ],
+        "answer": "John Wesley"
+      },
+      {
+        "question": "Which 19th-century abolitionist's last words were \"I have not one regret\", uttered before execution in 1859?",
+        "options": [
+          "John Brown",
+          "Sojourner Truth",
+          "William Lloyd Garrison"
+        ],
+        "answer": "John Brown"
+      },
+      {
+        "question": "Who reportedly said \"I am going to the happiest place on earth\" referencing heaven as final words?",
+        "options": [
+          "Walt Disney",
+          "Jim Henson",
+          "Michael Jackson"
+        ],
+        "answer": "Walt Disney"
+      },
+      {
+        "question": "Which explorer supposedly said \"We are now in sight of the promised land\" as last words on an expedition?",
+        "options": [
+          "David Livingstone",
+          "John Franklin",
+          "Lewis Carroll"
+        ],
+        "answer": "David Livingstone"
+      },
+      {
+        "question": "Who is reported to have said \"Either that wallpaper goes or I do\" while criticizing decor as last words?",
+        "options": [
+          "Oscar Wilde",
+          "Edgar Allan Poe",
+          "John Keats"
+        ],
+        "answer": "Oscar Wilde"
+      },
+      {
+        "question": "Which composer said in Italian \"Pietà, pietà, mio Dio\" at the moment of death?",
+        "options": [
+          "Giuseppe Verdi",
+          "Gioachino Rossini",
+          "Vincenzo Bellini"
+        ],
+        "answer": "Vincenzo Bellini"
+      },
+      {
+        "question": "Which Soviet leader is recorded as saying \"I am not ready to be a saint\" in his final hours?",
+        "options": [
+          "Vladimir Lenin",
+          "Joseph Stalin",
+          "Leon Trotsky"
+        ],
+        "answer": "Leon Trotsky"
+      },
+      {
+        "question": "Who is said to have described death as \"the great equaliser\" in their final utterance?",
+        "options": [
+          "Mark Twain",
+          "Napoleon Bonaparte",
+          "William Shakespeare"
+        ],
+        "answer": "Mark Twain"
+      },
+      {
+        "question": "Which English poet allegedly said \"Now comes the mystery\" on his deathbed?",
+        "options": [
+          "John Keats",
+          "William Blake",
+          "Percy Bysshe Shelley"
+        ],
+        "answer": "John Keats"
+      },
+      {
+        "question": "Who reportedly said \"Lord help my poor soul\" before being executed for rebellion in England?",
+        "options": [
+          "Guy Fawkes",
+          "Oliver Cromwell",
+          "Wat Tyler"
+        ],
+        "answer": "Guy Fawkes"
+      },
+      {
+        "question": "Which US president said \"I hope to have placed my country in the hands of God\" as last words?",
+        "options": [
+          "George Washington",
+          "Abraham Lincoln",
+          "Thomas Jefferson"
+        ],
+        "answer": "George Washington"
+      },
+      {
+        "question": "Who is reported to have said \"I am dying as a member of the Church of England\" in their final moments?",
+        "options": [
+          "Florence Nightingale",
+          "Samuel Taylor Coleridge",
+          "Queen Elizabeth I"
+        ],
+        "answer": "Samuel Taylor Coleridge"
+      },
+      {
+        "question": "Which poet is said to have whispered \"I am not afraid\" before passing away in 1821?",
+        "options": [
+          "Percy Bysshe Shelley",
+          "Lord Byron",
+          "John Keats"
+        ],
+        "answer": "Percy Bysshe Shelley"
+      },
+      {
+        "question": "Who uttered the last words \"I am going to see now whether God will think me a good man\"?",
+        "options": [
+          "Blaise Pascal",
+          "René Descartes",
+          "Voltaire"
+        ],
+        "answer": "Blaise Pascal"
+      },
+      {
+        "question": "Which American gangster reportedly said \"I made my bed, I lie in it\" as final remarks?",
+        "options": [
+          "Al Capone",
+          "John Dillinger",
+          "Bonnie Parker"
+        ],
+        "answer": "John Dillinger"
+      },
+      {
+        "question": "Who is credited with telling a confidant \"I told you I was ill\" moments before death?",
+        "options": [
+          "Spike Milligan",
+          "Marlene Dietrich",
+          "Spike Milligan"
+        ],
+        "answer": "Spike Milligan"
+      },
+      {
+        "question": "Which Renaissance artist said \"I have offended God and mankind because my work did not reach the quality it should have\"?",
+        "options": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Raphael"
+        ],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Who reportedly told a nurse \"Send for the priest\" as a pious final request in 1540s England?",
+        "options": [
+          "Anne Boleyn",
+          "Thomas More",
+          "Catherine Howard"
+        ],
+        "answer": "Anne Boleyn"
+      },
+      {
+        "question": "Which English king is alleged to have said \"I see the Tower and the scaffold\" just before execution?",
+        "options": [
+          "Charles I",
+          "James II",
+          "Edward II"
+        ],
+        "answer": "Charles I"
+      },
+      {
+        "question": "Who is quoted as saying \"It hurts to breathe\" in the final seconds of their life in a famous assassination?",
+        "options": [
+          "Abraham Lincoln",
+          "John F. Kennedy",
+          "William McKinley"
+        ],
+        "answer": "William McKinley"
+      },
+      {
+        "question": "Which British naval hero's last words to a friend were the single phrase \"Kiss me, Hardy\"?",
+        "options": [
+          "Admiral Horatio Nelson",
+          "Admiral John Jervis",
+          "Admiral Sir Edward Pellew"
+        ],
+        "answer": "Admiral Horatio Nelson"
+      },
+      {
+        "question": "Who said \"It is the end of an era\" as last words in some modern retellings about 20th-century figures?",
+        "options": [
+          "Margaret Thatcher",
+          "Winston Churchill",
+          "Franklin D. Roosevelt"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Which scientist reportedly murmured \"I am not afraid of death\" as their final reflection on mortality?",
+        "options": [
+          "Charles Darwin",
+          "Gregor Mendel",
+          "Marie Curie"
+        ],
+        "answer": "Charles Darwin"
+      },
+      {
+        "question": "Who was said to have asked \"Is it the end?\" as their last words after a long illness in Victorian era?",
+        "options": [
+          "Queen Victoria",
+          "Charles Dickens",
+          "Alfred, Lord Tennyson"
+        ],
+        "answer": "Queen Victoria"
+      },
+      {
+        "question": "Which composer pronounced in Italian \"La mia anima è in pace\" meaning \"My soul is at peace\"?",
+        "options": [
+          "Giuseppe Verdi",
+          "Giacomo Puccini",
+          "Domenico Scarlatti"
+        ],
+        "answer": "Giacomo Puccini"
+      },
+      {
+        "question": "Who reportedly told a servant \"I have tried to do my duty\" as dying assurance to history?",
+        "options": [
+          "Queen Elizabeth I",
+          "George Washington",
+          "Lord Nelson"
+        ],
+        "answer": "George Washington"
+      },
+      {
+        "question": "Which French king said \"I die the king's good servant, but God's first\" before execution?",
+        "options": [
+          "Thomas More",
+          "Henry VIII",
+          "Louis XVI"
+        ],
+        "answer": "Thomas More"
+      },
+      {
+        "question": "Who is attributed with the last words \"I shall hear in heaven\" referring to music and death?",
+        "options": [
+          "Frédéric Chopin",
+          "Franz Liszt",
+          "Niccolò Paganini"
+        ],
+        "answer": "Frédéric Chopin"
+      },
+      {
+        "question": "Which 20th-century author reportedly said \"I am ready to meet my Maker\" and referenced faith at death?",
+        "options": [
+          "C. S. Lewis",
+          "Aldous Huxley",
+          "T. S. Eliot"
+        ],
+        "answer": "C. S. Lewis"
+      },
+      {
+        "question": "Who allegedly told a doctor \"I see blackness and a staircase\" moments before dying in 19th-century reports?",
+        "options": [
+          "Emily Brontë",
+          "Charlotte Brontë",
+          "Anne Brontë"
+        ],
+        "answer": "Charlotte Brontë"
+      },
+      {
+        "question": "Which explorer's last words included a practical instruction: \"Get my journals and publish them\"?",
+        "options": [
+          "Robert Falcon Scott",
+          "Ernest Shackleton",
+          "John Franklin"
+        ],
+        "answer": "Robert Falcon Scott"
+      },
+      {
+        "question": "Who reportedly said in a famous final message: \"Tell my mother I did my best\" after a heroic act?",
+        "options": [
+          "Sully Sullenberger",
+          "J. Robert Oppenheimer",
+          "Rudolf Nureyev"
+        ],
+        "answer": "J. Robert Oppenheimer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which 1919 massacre at Jallianwala Bagh galvanized Indian opposition to British rule?",
+      "options": [
+        "Jallianwala Bagh Massacre",
+        "Chauri Chaura Incident",
+        "Dandi March"
+      ],
+      "answer": "Jallianwala Bagh Massacre"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian leader organized the Simon Commission protests with the slogan 'Simon Go Back' in 1928?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Bhagat Singh",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Lala Lajpat Rai"
+    },
+    {
+      "question_id": 3,
+      "question": "Which body replaced the Indian Councils under reforms of 1861 expanding legislative participation marginally?",
+      "options": [
+        "Legislative Council",
+        "Governor-General's Executive Council",
+        "Council of India"
+      ],
+      "answer": "Legislative Council"
+    },
+    {
+      "question_id": 4,
+      "question": "Which 1858 proclamation transferred authority from the East India Company to the British Crown?",
+      "options": [
+        "Government of India Act 1858",
+        "Indian Councils Act 1861",
+        "Charter Act of 1853"
+      ],
+      "answer": "Government of India Act 1858"
+    },
+    {
+      "question_id": 5,
+      "question": "Which hill station in India served as the initial headquarters of the Indian National Army in Southeast Asia?",
+      "options": [
+        "Singapore",
+        "Rangoon",
+        "None; INA HQ was in Singapore region"
+      ],
+      "answer": "None; INA HQ was in Singapore region"
+    },
+    {
+      "question_id": 6,
+      "question": "Which provincial leader chaired the Simon Commission boycott that led to nationwide protests in 1928?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Lala Lajpat Rai"
+    },
+    {
+      "question_id": 7,
+      "question": "Which princely queen fought against the British in the 1857 rebellion and became a national heroine?",
+      "options": [
+        "Rani Lakshmibai",
+        "Begum Hazrat Mahal",
+        "Kittur Chennamma"
+      ],
+      "answer": "Rani Lakshmibai"
+    },
+    {
+      "question_id": 8,
+      "question": "Which act introduced separate electorates for depressed classes in 1932 mediated by Poona Pact discussions?",
+      "options": [
+        "Communal Award",
+        "Montagu Award",
+        "Poona Award"
+      ],
+      "answer": "Communal Award"
+    },
+    {
+      "question_id": 9,
+      "question": "Which medieval Indian dynasty built the Sun Temple at Konark in the 13th century?",
+      "options": [
+        "Eastern Ganga Dynasty",
+        "Chola Dynasty",
+        "Pala Dynasty"
+      ],
+      "answer": "Eastern Ganga Dynasty"
+    },
+    {
+      "question_id": 10,
+      "question": "Who authored the book 'Discovery of India' while imprisoned during the freedom struggle?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 11,
+      "question": "Who authored 'Annihilation of Caste', a critique of caste and social orthodoxy?",
+      "options": [
+        "B. R. Ambedkar",
+        "Mahatma Gandhi",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question_id": 12,
+      "question": "Who was the viceroy who issued the 1858 proclamation transferring power to the Crown after the 1857 revolt?",
+      "options": [
+        "Lord Canning",
+        "Lord Dalhousie",
+        "Lord Wellesley"
+      ],
+      "answer": "Lord Canning"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is popularly known as the 'Iron Man of India' for leading a campaign against princely rule?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movement protested the British salt monopoly and led to mass civil disobedience across India in 1930?",
+      "options": [
+        "Civil Disobedience Movement",
+        "Non-Cooperation Movement",
+        "Khilafat Movement"
+      ],
+      "answer": "Civil Disobedience Movement"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1799 event led to the fall of Tipu Sultan and increased British control in South India?",
+      "options": [
+        "Fourth Anglo-Mysore War",
+        "Third Anglo-Mysore War",
+        "Anglo-Maratha War"
+      ],
+      "answer": "Fourth Anglo-Mysore War"
+    }
+  ]
+}

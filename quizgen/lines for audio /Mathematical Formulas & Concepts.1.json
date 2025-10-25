@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the standard form of a circle centered at (h,k)?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the derivative of sin(x) with respect to x?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which operator measures infinitesimal rotation of a vector field?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which identity is true for cos^2θ + sin^2θ?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does the binomial coefficient C(n,k) count?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which result links line integrals and double integrals (in plane)?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the slope of a horizontal line?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which matrix operation uses row reduction to find solution of linear systems?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which identity expresses the derivative of determinant det(A(t))?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which expression defines geometric sequence nth term?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the formula for the distance between two points (x1,y1) and (x2,y2)?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept measures topological equivalence classes of maps from sphere to sphere?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the slope formula for a line through (x1,y1) and (x2,y2)?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which test uses limsup |a_{n+1}/a_n| to assess series convergence?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which function space contains square-integrable functions L^2 defined by?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which nine-night festival honors the goddess Durga with dance and prayer?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival includes the urs and qawwali gatherings at Sufi shrines across India?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival tradition in Gujarat involves nine-day nightly gatherings invoking different forms of the goddess?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival is famous for the tiger dance 'Pulikali' performed in Kerala streets?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian festival is associated with charity and meat distribution during Eid-al-Adha variant celebrated by some communities?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival's Vedic antecedent includes rituals described in the ancient text 'Yajurveda' for seasonal rites?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which harvest festival in South India spans four days and includes Mattu Pongal for cattle?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival's regional form in West Bengal involves competitive immersion tableaux called 'pandal hopping'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which festival's ritual includes offering food to ancestors known as 'pinda daan' during Pitru Paksha?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival features people throwing colored powders and water?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival's key activity is boat racing called 'Vallam Kali' in Kerala during the season?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Maharashtra festival was large-scale revived by Lokamanya Tilak to foster public participation in the early 20th century?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival involves installing and immersing clay idols of Lord Ganesha?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival includes the tradition of breaking the sister's fast with a sibling's meal in some regions?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival tradition involves making and distributing 'tilgul' sesame sweets during Makar Sankranti in Maharashtra?"
+    }
+  ]
+}

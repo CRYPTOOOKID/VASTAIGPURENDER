@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which prefix denotes one millionth of a unit (10^-6)?",
+      "options": [
+        "milli",
+        "micro",
+        "pico"
+      ],
+      "answer": "micro"
+    },
+    {
+      "question_id": 2,
+      "question": "Which unit used in chemistry denotes 6.02214076×10^23 entities exactly?",
+      "options": [
+        "molecule",
+        "mole",
+        "dozen"
+      ],
+      "answer": "mole"
+    },
+    {
+      "question_id": 3,
+      "question": "Which gravitational unit used in geophysics equals one galileo defined as one centimeter per second squared?",
+      "options": [
+        "galileo",
+        "g",
+        "gal"
+      ],
+      "answer": "gal"
+    },
+    {
+      "question_id": 4,
+      "question": "Which SI base unit measures temperature thermodynamically?",
+      "options": [
+        "fahrenheit",
+        "celsius",
+        "kelvin"
+      ],
+      "answer": "kelvin"
+    },
+    {
+      "question_id": 5,
+      "question": "Which unit is commonly used to express the density of materials in g/cm^3?",
+      "options": [
+        "kilogram per meter",
+        "gram per cubic centimeter",
+        "pound per inch"
+      ],
+      "answer": "gram per cubic centimeter"
+    },
+    {
+      "question_id": 6,
+      "question": "Which obsolete unit for length was based on the length of a human foot?",
+      "options": [
+        "ell",
+        "furlong",
+        "foot"
+      ],
+      "answer": "foot"
+    },
+    {
+      "question_id": 7,
+      "question": "Which unit measures force in the SI system?",
+      "options": [
+        "watt",
+        "newton",
+        "joule"
+      ],
+      "answer": "newton"
+    },
+    {
+      "question_id": 8,
+      "question": "Which organization maintains the international prototype standards and SI units?",
+      "options": [
+        "BIPM",
+        "IEC",
+        "ISO"
+      ],
+      "answer": "BIPM"
+    },
+    {
+      "question_id": 9,
+      "question": "Which unit quantifies information content equal to log base 2 of possible states, commonly in bits?",
+      "options": [
+        "shannon",
+        "nat",
+        "bit"
+      ],
+      "answer": "bit"
+    },
+    {
+      "question_id": 10,
+      "question": "Which unit measures frequency in the SI system?",
+      "options": [
+        "tesla",
+        "pascal",
+        "hertz"
+      ],
+      "answer": "hertz"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unit is commonly used to describe petroleum volume internationally?",
+      "options": [
+        "litre",
+        "barrel",
+        "gallon"
+      ],
+      "answer": "barrel"
+    },
+    {
+      "question_id": 12,
+      "question": "Which instrument historically measured mass by balancing against a standard kilogram prototype?",
+      "options": [
+        "spring scale",
+        "load cell",
+        "balance scale"
+      ],
+      "answer": "balance scale"
+    },
+    {
+      "question_id": 13,
+      "question": "What device measures atmospheric pressure in weather reports?",
+      "options": [
+        "hygrometer",
+        "thermometer",
+        "barometer"
+      ],
+      "answer": "barometer"
+    },
+    {
+      "question_id": 14,
+      "question": "Which prefix denotes 10^6 in the SI system?",
+      "options": [
+        "kilo",
+        "giga",
+        "mega"
+      ],
+      "answer": "mega"
+    },
+    {
+      "question_id": 15,
+      "question": "Which unit of time equals 1/86000 of a mean solar day in historical French decimal time trials?",
+      "options": [
+        "decimal second",
+        "centiday",
+        "milliday"
+      ],
+      "answer": "decimal second"
+    }
+  ]
+}

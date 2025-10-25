@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '👨‍🔬🧪'?",
+      "options": [
+        "Contagion",
+        "The Martian",
+        "Frankenstein"
+      ],
+      "answer": "Frankenstein"
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '👩‍⚖️📖🇺🇸'?",
+      "options": [
+        "12 Angry Men",
+        "A Few Good Men",
+        "To Kill a Mockingbird"
+      ],
+      "answer": "To Kill a Mockingbird"
+    },
+    {
+      "question_id": 3,
+      "question": "Which movie fits '🧶🛋️👵' about a cozy thread connecting generations?",
+      "options": [
+        "The Hundred-Foot Journey",
+        "Fried Green Tomatoes",
+        "The Best Exotic Marigold Hotel"
+      ],
+      "answer": "The Best Exotic Marigold Hotel"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '⭐⚔️'?",
+      "options": [
+        "The Lord of the Rings",
+        "Star Wars",
+        "Stardust"
+      ],
+      "answer": "Star Wars"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🧑‍🚀🛰️🌌'?",
+      "options": [
+        "Alien",
+        "2001: A Space Odyssey",
+        "Moon"
+      ],
+      "answer": "2001: A Space Odyssey"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie fits '🏃‍♂️📞🚨' about a prisoner chasing calls and danger?",
+      "options": [
+        "Die Hard 4.0",
+        "Phone Booth",
+        "Cellular"
+      ],
+      "answer": "Cellular"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🦈🌊'?",
+      "options": [
+        "Finding Dory",
+        "The Meg",
+        "Jaws"
+      ],
+      "answer": "Jaws"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '🐘🎪🎩'?",
+      "options": [
+        "The Greatest Showman",
+        "Water for Elephants",
+        "Dumbo"
+      ],
+      "answer": "Dumbo"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '🧠🏥🕳️' exploring psychological treatment and dream invasion?",
+      "options": [
+        "A Clockwork Orange",
+        "Shutter Island",
+        "Jacob's Ladder"
+      ],
+      "answer": "Shutter Island"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '🧝‍♂️💍'?",
+      "options": [
+        "The Hobbit",
+        "The Lord of the Rings",
+        "Harry Potter"
+      ],
+      "answer": "The Lord of the Rings"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🎨🖼️👨‍🎨'?",
+      "options": [
+        "The Artist",
+        "Loving Vincent",
+        "The Grand Budapest Hotel"
+      ],
+      "answer": "Loving Vincent"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🧪🔭🌌' exploring mutation and cosmic discovery?",
+      "options": [
+        "Annihilation",
+        "Contact",
+        "Event Horizon"
+      ],
+      "answer": "Annihilation"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '🕵️‍♂️🔪'?",
+      "options": [
+        "Sherlock Holmes",
+        "Clue",
+        "Knives Out"
+      ],
+      "answer": "Knives Out"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue '🐻🚵‍♂️'?",
+      "options": [
+        "Paddington",
+        "The Revenant",
+        "Brother Bear"
+      ],
+      "answer": "The Revenant"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie matches emoji clue '⛏️💎🏔️' about mountain treasure mining?",
+      "options": [
+        "Gold",
+        "The Revenant",
+        "The Treasure of the Sierra Madre"
+      ],
+      "answer": "The Treasure of the Sierra Madre"
+    }
+  ]
+}

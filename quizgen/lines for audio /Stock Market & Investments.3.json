@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is diversification in investing?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a trailing stop order primarily used to do?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which asset class historically offered the highest long-term nominal returns among stocks, bonds, and cash?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a mutual fund?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which financial instrument pools mortgages into tradable securities?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which accounting measure adjusts reported earnings for nonrecurring items to assess true performance?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a bond in basic terms?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does a company's price-to-earnings (P/E) ratio compare?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which benchmark did Apple first surpass to become first U.S. public company reaching $1 trillion market cap?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is an exchange-traded fund (ETF)?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a lock-up period after an IPO?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which corporate action reduces outstanding shares and increases per-share metrics?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a brokerage account used for?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which valuation method focuses on projecting future cash flows discounted to present?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which market structure fee model compensates liquidity providers upon execution?"
+    }
+  ]
+}

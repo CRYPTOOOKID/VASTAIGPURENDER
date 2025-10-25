@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is the author of 'Wuthering Heights'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who is the author of 'The Age of Innocence'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'Nineteen Eighty-Four' pen name origin: author born Eric Arthur Blair?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who authored 'Dracula'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who authored 'Things Fall Apart'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who authored 'The Brothers Karamazov'?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'The Secret Garden'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote 'The Sound and the Fury' major modernist novel?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is the author of the early modern best-known travelogue 'Gulliver's Travels'?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who authored 'Jane Eyre'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is the author of 'The Hobbit' illustrator-author?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who authored 'Pamela', an influential epistolary novel, in 1740?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who wrote 'Moby-Dick'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'Madame Bovary'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who is the author of 'The Master and Margarita' blending satire and fantasy?"
+    }
+  ]
+}

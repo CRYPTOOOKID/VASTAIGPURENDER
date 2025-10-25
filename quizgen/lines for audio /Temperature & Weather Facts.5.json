@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What weather event typically forms from severe thunderstorms with rotating updrafts?"
+    },
+    {
+      "question_id": 2,
+      "question": "What name describes a rotating column of air reaching from cloud base to the ground?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which temperature metric represents air cooled by evaporation to saturation and gauges human heat stress?"
+    },
+    {
+      "question_id": 4,
+      "question": "What term names the temperature at which air becomes saturated and dew forms?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phenomenon is the cool-phase counterpart to El Niño, producing cooler Pacific surface waters?"
+    },
+    {
+      "question_id": 6,
+      "question": "What term describes the suppression of convection by a stable layer preventing thunderstorm growth?"
+    },
+    {
+      "question_id": 7,
+      "question": "What instrument records continuous temperature variations over time automatically?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which measurement gives the actual mass of water vapor per unit mass of dry air?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the Madden-Julian Oscillation primarily characterized by in the tropical atmosphere?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the Beaufort scale describe in everyday weather reporting?"
+    },
+    {
+      "question_id": 11,
+      "question": "What causes lake-effect snow downwind of large lakes during cold air outbreaks?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which international organization establishes standards for global meteorological observations and data exchange?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which gas makes up the largest percentage of Earth's atmosphere by volume?"
+    },
+    {
+      "question_id": 14,
+      "question": "What drives sea breezes that move from ocean toward land during the day?"
+    },
+    {
+      "question_id": 15,
+      "question": "What property of atmospheric motion does potential vorticity conservation help diagnose?"
+    }
+  ]
+}

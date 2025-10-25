@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which symbol represents an angle in geometry?",
+      "options": [
+        "∑",
+        "∠",
+        "√"
+      ],
+      "answer": "∠"
+    },
+    {
+      "question_id": 2,
+      "question": "Which expression gives the equation of an ellipse centered at origin?",
+      "options": [
+        "x^2 + y^2 = r^2",
+        "x^2/a^2 + y^2/b^2 = 1",
+        "x^2/a + y^2/b = 1"
+      ],
+      "answer": "x^2/a^2 + y^2/b^2 = 1"
+    },
+    {
+      "question_id": 3,
+      "question": "Which asymptotic notation gives tight bound both upper and lower (up to constant)?",
+      "options": [
+        "Ω(n^2)",
+        "Θ(n)",
+        "O(n)"
+      ],
+      "answer": "Θ(n)"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the formula for the circumference of a circle?",
+      "options": [
+        "r^2 + π",
+        "πr^2",
+        "2πr"
+      ],
+      "answer": "2πr"
+    },
+    {
+      "question_id": 5,
+      "question": "Which formula expresses arithmetic series sum for n terms?",
+      "options": [
+        "n × a_n",
+        "a_1 × r^{n-1}",
+        "n(a_1 + a_n)/2"
+      ],
+      "answer": "n(a_1 + a_n)/2"
+    },
+    {
+      "question_id": 6,
+      "question": "What is Cayley-Hamilton theorem statement for square matrix A?",
+      "options": [
+        "A satisfies its own characteristic polynomial",
+        "det(A)=trace(A)",
+        "A is diagonalizable"
+      ],
+      "answer": "A satisfies its own characteristic polynomial"
+    },
+    {
+      "question_id": 7,
+      "question": "Which function is the inverse of f(x) = e^x?",
+      "options": [
+        "ln(x)",
+        "x^2",
+        "log_{10}(x)"
+      ],
+      "answer": "ln(x)"
+    },
+    {
+      "question_id": 8,
+      "question": "Which formula finds the roots of ax^2 + bx + c = 0?",
+      "options": [
+        "(-b ± √(b^2-4ac))/(2a)",
+        "(-b)/(2a)",
+        "(b ± √(b^2+4ac))/(2a)"
+      ],
+      "answer": "(-b ± √(b^2-4ac))/(2a)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which condition defines uniform convergence of function sequence f_n to f?",
+      "options": [
+        "pointwise equality for each x",
+        "sup_x |f_n(x)-f(x)| → 0",
+        "integral difference → 0"
+      ],
+      "answer": "sup_x |f_n(x)-f(x)| → 0"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the mid-point formula for points (x1,y1) and (x2,y2)?",
+      "options": [
+        "(x1+x2, y1+y2)",
+        "(x2-x1, y2-y1)",
+        "((x1+x2)/2, (y1+y2)/2)"
+      ],
+      "answer": "((x1+x2)/2, (y1+y2)/2)"
+    },
+    {
+      "question_id": 11,
+      "question": "Which formula gives probability of independent events A and B both occurring?",
+      "options": [
+        "P(A)P(B)",
+        "P(A|B)",
+        "P(A)+P(B)"
+      ],
+      "answer": "P(A)P(B)"
+    },
+    {
+      "question_id": 12,
+      "question": "What is Green's function used for in differential equations?",
+      "options": [
+        "finding eigenvalues",
+        "solving inhomogeneous linear equations",
+        "optimizing functions"
+      ],
+      "answer": "solving inhomogeneous linear equations"
+    },
+    {
+      "question_id": 13,
+      "question": "Which formula gives the area of a triangle?",
+      "options": [
+        "(base × height)/2",
+        "base + height",
+        "base × height"
+      ],
+      "answer": "(base × height)/2"
+    },
+    {
+      "question_id": 14,
+      "question": "What does the mean value theorem guarantee for differentiable functions?",
+      "options": [
+        "function is linear",
+        "a point where derivative equals average slope",
+        "global maximum exists"
+      ],
+      "answer": "a point where derivative equals average slope"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formula gives area of a spherical triangle using spherical excess E?",
+      "options": [
+        "Area = 1/2 ab sin C",
+        "Area = πr^2",
+        "Area = R^2 E"
+      ],
+      "answer": "Area = R^2 E"
+    }
+  ]
+}

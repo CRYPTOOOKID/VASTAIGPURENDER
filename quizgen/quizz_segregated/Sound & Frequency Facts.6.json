@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which organ detects airborne sound in humans?",
+      "options": [
+        "Ear",
+        "Nose",
+        "Eye"
+      ],
+      "answer": "Ear"
+    },
+    {
+      "question_id": 2,
+      "question": "Which device converts analog acoustic signals into digital samples?",
+      "options": [
+        "Equalizer",
+        "DAC (digital-to-analog converter)",
+        "ADC (analog-to-digital converter)"
+      ],
+      "answer": "ADC (analog-to-digital converter)"
+    },
+    {
+      "question_id": 3,
+      "question": "What reference pressure defines 0 dB SPL in pascals?",
+      "options": [
+        "100 micropascals (100 µPa)",
+        "20 micropascals (20 µPa)",
+        "1 pascal (1 Pa)"
+      ],
+      "answer": "20 micropascals (20 µPa)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which condition allows sound to travel through a space?",
+      "options": [
+        "Absolute darkness",
+        "Presence of matter",
+        "Perfect vacuum"
+      ],
+      "answer": "Presence of matter"
+    },
+    {
+      "question_id": 5,
+      "question": "What acoustic metric measures time for a room to decay by 60 dB?",
+      "options": [
+        "RT60",
+        "Q-factor",
+        "SPL60"
+      ],
+      "answer": "RT60"
+    },
+    {
+      "question_id": 6,
+      "question": "Which marine animal produces very low-frequency calls used for long-range communication?",
+      "options": [
+        "Dolphin",
+        "Clownfish",
+        "Blue whale"
+      ],
+      "answer": "Blue whale"
+    },
+    {
+      "question_id": 7,
+      "question": "What term describes the persistence of sound in a hall after the source stops?",
+      "options": [
+        "Reverberation",
+        "Diffraction",
+        "Refraction"
+      ],
+      "answer": "Reverberation"
+    },
+    {
+      "question_id": 8,
+      "question": "What principle underlies sonar distance measurement?",
+      "options": [
+        "Magnetic induction",
+        "Optical triangulation",
+        "Echo ranging"
+      ],
+      "answer": "Echo ranging"
+    },
+    {
+      "question_id": 9,
+      "question": "What term describes frequency-dependent phase velocity in a medium?",
+      "options": [
+        "Interference",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "answer": "Dispersion"
+    },
+    {
+      "question_id": 10,
+      "question": "What property of a sound wave correlates most directly with musical pitch?",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Phase"
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question_id": 11,
+      "question": "Which tuning system uses exact integer frequency ratios for intervals?",
+      "options": [
+        "12-tone serialism",
+        "Just intonation",
+        "Equal temperament"
+      ],
+      "answer": "Just intonation"
+    },
+    {
+      "question_id": 12,
+      "question": "What term describes permanent hearing degradation from excessive sound exposure?",
+      "options": [
+        "Presbycusis",
+        "Otitis media",
+        "Noise-induced hearing loss"
+      ],
+      "answer": "Noise-induced hearing loss"
+    },
+    {
+      "question_id": 13,
+      "question": "Which instrument displays waveforms and helps measure frequency visually?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Oscilloscope"
+      ],
+      "answer": "Oscilloscope"
+    },
+    {
+      "question_id": 14,
+      "question": "Which instrument displays a real-time frequency spectrum using FFT?",
+      "options": [
+        "Spectrum analyzer",
+        "Tuning fork",
+        "Metronome"
+      ],
+      "answer": "Spectrum analyzer"
+    },
+    {
+      "question_id": 15,
+      "question": "Acoustic intensity equals sound pressure squared divided by which property?",
+      "options": [
+        "Characteristic impedance (ρc)",
+        "Wavelength (m)",
+        "Frequency (Hz)"
+      ],
+      "answer": "Characteristic impedance (ρc)"
+    }
+  ]
+}

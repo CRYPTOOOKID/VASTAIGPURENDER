@@ -1,0 +1,919 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is an area code in telephone numbering?",
+        "options": [
+          "A three-digit code designating a geographic calling region",
+          "A two-digit country identifier for international calls",
+          "A sequence that routes calls to voicemail systems"
+        ],
+        "answer": "A three-digit code designating a geographic calling region"
+      },
+      {
+        "question": "Which symbol commonly indicates an international telephone prefix on phones?",
+        "options": [
+          "The pound sign (#)",
+          "The plus sign (+)",
+          "The asterisk (*)"
+        ],
+        "answer": "The plus sign (+)"
+      },
+      {
+        "question": "Which country uses the country calling code +1?",
+        "options": [
+          "United States and other NANP countries",
+          "United Kingdom",
+          "India"
+        ],
+        "answer": "United States and other NANP countries"
+      },
+      {
+        "question": "Which country calling code belongs to the United Kingdom?",
+        "options": [
+          "+44",
+          "+49",
+          "+45"
+        ],
+        "answer": "+44"
+      },
+      {
+        "question": "Which country uses country code +91?",
+        "options": [
+          "India",
+          "Italy",
+          "Indonesia"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which three-digit area code is famously associated with Manhattan, New York?",
+        "options": [
+          "212",
+          "415",
+          "305"
+        ],
+        "answer": "212"
+      },
+      {
+        "question": "What is the typical US emergency telephone number?",
+        "options": [
+          "911",
+          "112",
+          "999"
+        ],
+        "answer": "911"
+      },
+      {
+        "question": "Which area code is commonly associated with San Francisco, California?",
+        "options": [
+          "415",
+          "213",
+          "312"
+        ],
+        "answer": "415"
+      },
+      {
+        "question": "Which country calling code is assigned to Japan?",
+        "options": [
+          "+81",
+          "+31",
+          "+61"
+        ],
+        "answer": "+81"
+      },
+      {
+        "question": "What type of service typically uses the 800 area code in North America?",
+        "options": [
+          "Toll-free telephone service",
+          "Premium-rate entertainment service",
+          "Local municipal services"
+        ],
+        "answer": "Toll-free telephone service"
+      },
+      {
+        "question": "Which country uses the country calling code +86?",
+        "options": [
+          "China",
+          "Canada",
+          "Chile"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "What does the abbreviation NANP stand for?",
+        "options": [
+          "North American Numbering Plan",
+          "National Automatic Numbering Program",
+          "Network Area Numbering Protocol"
+        ],
+        "answer": "North American Numbering Plan"
+      },
+      {
+        "question": "Which country calling code is assigned to Australia?",
+        "options": [
+          "+61",
+          "+65",
+          "+60"
+        ],
+        "answer": "+61"
+      },
+      {
+        "question": "What is the international dialing prefix used when calling from the United States?",
+        "options": [
+          "011",
+          "00",
+          "10"
+        ],
+        "answer": "011"
+      },
+      {
+        "question": "Which two countries share the country calling code +7?",
+        "options": [
+          "Russia and Kazakhstan",
+          "Russia and Ukraine",
+          "Kazakhstan and Uzbekistan"
+        ],
+        "answer": "Russia and Kazakhstan"
+      },
+      {
+        "question": "Which country uses the calling code +49?",
+        "options": [
+          "Germany",
+          "Greece",
+          "Guatemala"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "What does a toll-free telephone number mean for the caller?",
+        "options": [
+          "The caller is not charged for the call",
+          "The caller pays a premium per minute",
+          "The caller must use a specific carrier"
+        ],
+        "answer": "The caller is not charged for the call"
+      },
+      {
+        "question": "Which area code is traditionally associated with Los Angeles, California?",
+        "options": [
+          "213",
+          "312",
+          "702"
+        ],
+        "answer": "213"
+      },
+      {
+        "question": "Which country uses the calling code +52?",
+        "options": [
+          "Mexico",
+          "Malaysia",
+          "Morocco"
+        ],
+        "answer": "Mexico"
+      },
+      {
+        "question": "What does the term \"overlay\" mean regarding area codes?",
+        "options": [
+          "Multiple area codes serve the same geographic region",
+          "An area code that covers an entire country",
+          "An area code reserved only for mobile phones"
+        ],
+        "answer": "Multiple area codes serve the same geographic region"
+      },
+      {
+        "question": "Which area code is associated with Washington, D.C.?",
+        "options": [
+          "202",
+          "305",
+          "617"
+        ],
+        "answer": "202"
+      },
+      {
+        "question": "Which country uses the country calling code +33?",
+        "options": [
+          "France",
+          "Finland",
+          "Fiji"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which prefix often indicates a premium-rate telephone service in North America?",
+        "options": [
+          "900",
+          "700",
+          "600"
+        ],
+        "answer": "900"
+      },
+      {
+        "question": "What does a country calling code identify in international dialing?",
+        "options": [
+          "The country or region of the destination number",
+          "The local area within a city",
+          "The specific telephone carrier"
+        ],
+        "answer": "The country or region of the destination number"
+      },
+      {
+        "question": "Which country uses calling code +39?",
+        "options": [
+          "Italy",
+          "Ireland",
+          "Iceland"
+        ],
+        "answer": "Italy"
+      },
+      {
+        "question": "Which symbol should you press to replace the international dialing prefix on a mobile phone?",
+        "options": [
+          "The plus sign (+)",
+          "The hash sign (#)",
+          "The zero (0)"
+        ],
+        "answer": "The plus sign (+)"
+      },
+      {
+        "question": "Which country uses the calling code +380?",
+        "options": [
+          "Ukraine",
+          "United Kingdom",
+          "Uruguay"
+        ],
+        "answer": "Ukraine"
+      },
+      {
+        "question": "Which area code is strongly associated with downtown Chicago, Illinois?",
+        "options": [
+          "312",
+          "213",
+          "415"
+        ],
+        "answer": "312"
+      },
+      {
+        "question": "What is a vanity phone number?",
+        "options": [
+          "A number that spells a word or brand name",
+          "A number reserved for government use",
+          "A number that changes monthly"
+        ],
+        "answer": "A number that spells a word or brand name"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What is the standard maximum length for international telephone numbers under E.164?",
+        "options": [
+          "15 digits",
+          "12 digits",
+          "18 digits"
+        ],
+        "answer": "15 digits"
+      },
+      {
+        "question": "In the NANP, what does NPA commonly refer to?",
+        "options": [
+          "Numbering Plan Area (area code)",
+          "National Phone Authority",
+          "Network Provider Access"
+        ],
+        "answer": "Numbering Plan Area (area code)"
+      },
+      {
+        "question": "Which digit range is allowed for the first digit of a NANP area code?",
+        "options": [
+          "2 through 9",
+          "0 through 9",
+          "1 through 9"
+        ],
+        "answer": "2 through 9"
+      },
+      {
+        "question": "Which organization assigns international country calling codes?",
+        "options": [
+          "International Telecommunication Union (ITU)",
+          "Internet Assigned Numbers Authority (IANA)",
+          "European Telecommunications Standards Institute (ETSI)"
+        ],
+        "answer": "International Telecommunication Union (ITU)"
+      },
+      {
+        "question": "What is number portability in telephony?",
+        "options": [
+          "Ability to keep a phone number when changing carriers",
+          "Ability to forward calls internationally for free",
+          "Ability to change an area code automatically"
+        ],
+        "answer": "Ability to keep a phone number when changing carriers"
+      },
+      {
+        "question": "Which of these is a North American toll-free area code?",
+        "options": [
+          "888",
+          "404",
+          "509"
+        ],
+        "answer": "888"
+      },
+      {
+        "question": "What does the NXX pattern represent in NANP structure?",
+        "options": [
+          "Exchange code digits following the area code",
+          "Country code followed by area code",
+          "International prefix encoding"
+        ],
+        "answer": "Exchange code digits following the area code"
+      },
+      {
+        "question": "Which common international dialing prefix is used across many countries?",
+        "options": [
+          "00",
+          "011",
+          "001"
+        ],
+        "answer": "00"
+      },
+      {
+        "question": "What triggered widespread adoption of area code overlays in the 1990s and 2000s?",
+        "options": [
+          "Rapid growth in mobile and data lines exhausting numbers",
+          "Government mandates to reduce call costs",
+          "Decline in landline usage"
+        ],
+        "answer": "Rapid growth in mobile and data lines exhausting numbers"
+      },
+      {
+        "question": "What does LRN stand for in number portability systems?",
+        "options": [
+          "Local Routing Number",
+          "Local Regional Number",
+          "Line Reservation Number"
+        ],
+        "answer": "Local Routing Number"
+      },
+      {
+        "question": "Which of these area codes was part of the original 1947 NANP assignments?",
+        "options": [
+          "212",
+          "929",
+          "332"
+        ],
+        "answer": "212"
+      },
+      {
+        "question": "Which prefix sequence often indicates an international direct dial from mobile phones worldwide?",
+        "options": [
+          "The plus sign (+)",
+          "Double zero (00)",
+          "One-one-one (111)"
+        ],
+        "answer": "The plus sign (+)"
+      },
+      {
+        "question": "What is an overlay plan for area codes?",
+        "options": [
+          "Introducing a new area code that covers the same geographic area",
+          "Splitting a region into two separate area codes",
+          "Merging adjacent area codes into one"
+        ],
+        "answer": "Introducing a new area code that covers the same geographic area"
+      },
+      {
+        "question": "Which NANP restriction applies to the N (first) digit of central office codes (NXX)?",
+        "options": [
+          "Must be 2 through 9",
+          "Must be 0 or 1",
+          "Must be 5 through 9"
+        ],
+        "answer": "Must be 2 through 9"
+      },
+      {
+        "question": "Which North American area code was originally assigned to nearly all of California's Bay Area?",
+        "options": [
+          "415",
+          "310",
+          "702"
+        ],
+        "answer": "415"
+      },
+      {
+        "question": "Which of these is a premium-rate prefix in North America?",
+        "options": [
+          "900",
+          "800",
+          "311"
+        ],
+        "answer": "900"
+      },
+      {
+        "question": "Which country uses the international dialing code +351?",
+        "options": [
+          "Portugal",
+          "Poland",
+          "Peru"
+        ],
+        "answer": "Portugal"
+      },
+      {
+        "question": "What term describes the practice of dividing one area code region into two or more codes?",
+        "options": [
+          "Area code split",
+          "Area code overlay",
+          "Area code pooling"
+        ],
+        "answer": "Area code split"
+      },
+      {
+        "question": "Which database stores routing information for ported numbers in North America?",
+        "options": [
+          "Number Portability Administration Center (NPAC)",
+          "Global Number Registry (GNR)",
+          "Local Exchange Repository (LER)"
+        ],
+        "answer": "Number Portability Administration Center (NPAC)"
+      },
+      {
+        "question": "Which area code is associated with Miami, Florida?",
+        "options": [
+          "305",
+          "212",
+          "617"
+        ],
+        "answer": "305"
+      },
+      {
+        "question": "Which of these is a common reason a region moves to mandatory ten-digit dialing?",
+        "options": [
+          "Introduction of an overlay area code",
+          "Switch to an analog network",
+          "Spin-off of the original area code"
+        ],
+        "answer": "Introduction of an overlay area code"
+      },
+      {
+        "question": "Which country code belongs to Brazil?",
+        "options": [
+          "+55",
+          "+35",
+          "+95"
+        ],
+        "answer": "+55"
+      },
+      {
+        "question": "Which area code is commonly associated with downtown Boston, Massachusetts?",
+        "options": [
+          "617",
+          "212",
+          "213"
+        ],
+        "answer": "617"
+      },
+      {
+        "question": "What is number pooling in telephone number management?",
+        "options": [
+          "Allocating blocks of numbers in smaller increments to carriers",
+          "Merging carriers’ number ranges into one pool",
+          "Sharing a single area code among multiple countries"
+        ],
+        "answer": "Allocating blocks of numbers in smaller increments to carriers"
+      },
+      {
+        "question": "Which country uses the calling code +358?",
+        "options": [
+          "Finland",
+          "France",
+          "Fiji"
+        ],
+        "answer": "Finland"
+      },
+      {
+        "question": "What feature allows a toll-free number to route calls based on caller location and time?",
+        "options": [
+          "Toll-free advanced routing",
+          "Caller ID blocking",
+          "Number overlaying"
+        ],
+        "answer": "Toll-free advanced routing"
+      },
+      {
+        "question": "Which area code covers central Philadelphia, Pennsylvania?",
+        "options": [
+          "215",
+          "312",
+          "404"
+        ],
+        "answer": "215"
+      },
+      {
+        "question": "Which country uses prefix +27 for international calls?",
+        "options": [
+          "South Africa",
+          "Sweden",
+          "Saudi Arabia"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "What does the E.164 recommendation primarily specify?",
+        "options": [
+          "International telephone number format and length",
+          "Emergency call routing procedures",
+          "Mobile network encryption standards"
+        ],
+        "answer": "International telephone number format and length"
+      }
+    ],
+    "hard": [
+      {
+        "question": "In the original 1947 NANP design, what did a middle digit of 0 indicate for an area code?",
+        "options": [
+          "The area code covered an entire state or province",
+          "The area code was reserved for mobile services",
+          "The area code was for toll-free numbers"
+        ],
+        "answer": "The area code covered an entire state or province"
+      },
+      {
+        "question": "Which two-digit pattern was forbidden in the first digit of a NANP NPA historically?",
+        "options": [
+          "0 or 1",
+          "5 or 6",
+          "8 or 9"
+        ],
+        "answer": "0 or 1"
+      },
+      {
+        "question": "What is the maximum number of digits allowed for an E.164 telephone number?",
+        "options": [
+          "15",
+          "12",
+          "20"
+        ],
+        "answer": "15"
+      },
+      {
+        "question": "Which country shares the +290 country code?",
+        "options": [
+          "Saint Helena, Ascension and Tristan da Cunha",
+          "Seychelles",
+          "San Marino"
+        ],
+        "answer": "Saint Helena, Ascension and Tristan da Cunha"
+      },
+      {
+        "question": "What does the acronym NPAC specifically manage in North America?",
+        "options": [
+          "The database supporting number portability routing",
+          "International dialing code assignments",
+          "Emergency services number allocations"
+        ],
+        "answer": "The database supporting number portability routing"
+      },
+      {
+        "question": "Which New York City area code was introduced specifically to serve mobile phones across boroughs?",
+        "options": [
+          "917",
+          "646",
+          "332"
+        ],
+        "answer": "917"
+      },
+      {
+        "question": "Which ITU recommendation defines country calling codes and number structure?",
+        "options": [
+          "E.164",
+          "Q.931",
+          "X.500"
+        ],
+        "answer": "E.164"
+      },
+      {
+        "question": "What is an LRN used for when routing a ported telephone number?",
+        "options": [
+          "It identifies the switch that currently serves the ported number",
+          "It authenticates subscriber identity for secure calls",
+          "It denotes the subscriber's billing account number"
+        ],
+        "answer": "It identifies the switch that currently serves the ported number"
+      },
+      {
+        "question": "Which country uses the unusual country code +388 previously assigned for a European experiment?",
+        "options": [
+          "It was a European Union shared code for cross-border services",
+          "Malta",
+          "Moldova"
+        ],
+        "answer": "It was a European Union shared code for cross-border services"
+      },
+      {
+        "question": "Which North American area code was one of the original codes assigned to New York State in 1947?",
+        "options": [
+          "212",
+          "917",
+          "646"
+        ],
+        "answer": "212"
+      },
+      {
+        "question": "What technical measure reduced area code exhaustion by assigning numbers in smaller blocks?",
+        "options": [
+          "Number pooling",
+          "Number cloaking",
+          "Number concatenation"
+        ],
+        "answer": "Number pooling"
+      },
+      {
+        "question": "Which organization historically approved changes to the NANP and area code assignments?",
+        "options": [
+          "Federal Communications Commission (FCC)",
+          "International Telecommunication Union (ITU)",
+          "World Trade Organization (WTO)"
+        ],
+        "answer": "Federal Communications Commission (FCC)"
+      },
+      {
+        "question": "Which European emergency number was standardized to provide cross-border access?",
+        "options": [
+          "112",
+          "911",
+          "999"
+        ],
+        "answer": "112"
+      },
+      {
+        "question": "What is the usual length of NPA-NXX (area code + central office) digits before subscriber number in NANP?",
+        "options": [
+          "6 digits",
+          "4 digits",
+          "8 digits"
+        ],
+        "answer": "6 digits"
+      },
+      {
+        "question": "Which North American area code was originally split from 212 to relieve demand in New York?",
+        "options": [
+          "718",
+          "415",
+          "305"
+        ],
+        "answer": "718"
+      },
+      {
+        "question": "What is the principal reason vanity numbers map letters to digits?",
+        "options": [
+          "To make numbers memorable by spelling words on the keypad",
+          "To encrypt subscriber identity on public networks",
+          "To indicate premium billing levels"
+        ],
+        "answer": "To make numbers memorable by spelling words on the keypad"
+      },
+      {
+        "question": "Which Caribbean country uses country code +1 242 under the NANP?",
+        "options": [
+          "The Bahamas",
+          "Barbados",
+          "Belize"
+        ],
+        "answer": "The Bahamas"
+      },
+      {
+        "question": "Which code set includes 800, 888, 877, 866 as examples in North America?",
+        "options": [
+          "Toll-free area codes",
+          "Mobile-only area codes",
+          "Emergency routing codes"
+        ],
+        "answer": "Toll-free area codes"
+      },
+      {
+        "question": "Which numbering plan uses a fixed country code of 1 for multiple countries and territories?",
+        "options": [
+          "NANP (North American Numbering Plan)",
+          "E.164 global plan",
+          "European Numbering Scheme"
+        ],
+        "answer": "NANP (North American Numbering Plan)"
+      },
+      {
+        "question": "What technical approach allows different carriers to share a single geographic number range?",
+        "options": [
+          "Number pooling",
+          "Number spoofing",
+          "Number aggregation"
+        ],
+        "answer": "Number pooling"
+      },
+      {
+        "question": "Which area code overlay was introduced to Manhattan after 212 was exhausted?",
+        "options": [
+          "646",
+          "310",
+          "917"
+        ],
+        "answer": "646"
+      },
+      {
+        "question": "Which three-digit pattern historically identified toll-free numbers in North America?",
+        "options": [
+          "8XX (e.g., 800, 888)",
+          "9XX (e.g., 900, 999)",
+          "6XX (e.g., 600, 666)"
+        ],
+        "answer": "8XX (e.g., 800, 888)"
+      },
+      {
+        "question": "Which database element indicates the current service provider for a ported number?",
+        "options": [
+          "Local Routing Number (LRN)",
+          "Country Calling Code (CCC)",
+          "Subscriber Identification Token (SIT)"
+        ],
+        "answer": "Local Routing Number (LRN)"
+      },
+      {
+        "question": "Which area code was one of the original NANP codes assigned to Illinois in 1947?",
+        "options": [
+          "312",
+          "773",
+          "872"
+        ],
+        "answer": "312"
+      },
+      {
+        "question": "Which North American area code introduced mandatory ten-digit dialing due to the 988 hotline implementation?",
+        "options": [
+          "Any area code with overlapping 10-digit conflicts implemented 988",
+          "Only area codes starting with 9",
+          "Only toll-free area codes"
+        ],
+        "answer": "Any area code with overlapping 10-digit conflicts implemented 988"
+      },
+      {
+        "question": "Which nation uses the country code +254?",
+        "options": [
+          "Kenya",
+          "Kuwait",
+          "Kazakhstan"
+        ],
+        "answer": "Kenya"
+      },
+      {
+        "question": "Which factor most directly causes exhaustion of available central office prefixes within an area code?",
+        "options": [
+          "Allocation of prefixes to carriers without pooling",
+          "Introduction of caller ID services",
+          "Increase in international call tariffs"
+        ],
+        "answer": "Allocation of prefixes to carriers without pooling"
+      },
+      {
+        "question": "Which North American area code originally served nearly all of southern Florida?",
+        "options": [
+          "305",
+          "617",
+          "206"
+        ],
+        "answer": "305"
+      },
+      {
+        "question": "Which ITU region document lists assigned country calling codes globally?",
+        "options": [
+          "The ITU Operational Bulletin and E.164 assignments",
+          "The IETF RFC phone registry",
+          "The ISO country code annex"
+        ],
+        "answer": "The ITU Operational Bulletin and E.164 assignments"
+      },
+      {
+        "question": "Which technical standard ensures each international number is dialable and globally unique?",
+        "options": [
+          "E.164 international numbering standard",
+          "ITU-T Q.1200 encryption standard",
+          "IEEE 802 numbering standard"
+        ],
+        "answer": "E.164 international numbering standard"
+      },
+      {
+        "question": "Which area code is an overlay introduced to relieve exhaust in Manhattan alongside 212 and 646?",
+        "options": [
+          "332",
+          "310",
+          "718"
+        ],
+        "answer": "332"
+      },
+      {
+        "question": "Which country code is shared by both Russia and Kazakhstan?",
+        "options": [
+          "+7",
+          "+77",
+          "+70"
+        ],
+        "answer": "+7"
+      },
+      {
+        "question": "Which approach replaced assigning entire 10,000-number blocks to carriers to conserve numbers?",
+        "options": [
+          "Thousand-number pooling (1,000-block pooling)",
+          "Million-number allocation",
+          "Carrier-wide allocation"
+        ],
+        "answer": "Thousand-number pooling (1,000-block pooling)"
+      },
+      {
+        "question": "Which area code split helped create area code 718 from the original New York numbering plan?",
+        "options": [
+          "212 split",
+          "917 overlay",
+          "646 reassignment"
+        ],
+        "answer": "212 split"
+      },
+      {
+        "question": "Which country uses the unusual international dialing code +672 for remote territories?",
+        "options": [
+          "Australian external territories (e.g., Norfolk Island)",
+          "A special ITU experimental code",
+          "A code reserved for Antarctica only"
+        ],
+        "answer": "Australian external territories (e.g., Norfolk Island)"
+      },
+      {
+        "question": "Which factor is a regulatory tool used to delay adding new area codes?",
+        "options": [
+          "Implementing number conservation measures like pooling",
+          "Raising international call rates",
+          "Prohibiting mobile number registrations"
+        ],
+        "answer": "Implementing number conservation measures like pooling"
+      },
+      {
+        "question": "Which North American area code covers southern Nevada, including Las Vegas?",
+        "options": [
+          "702",
+          "313",
+          "408"
+        ],
+        "answer": "702"
+      },
+      {
+        "question": "Which change often requires public education campaigns when new area codes are implemented?",
+        "options": [
+          "Mandatory ten-digit dialing and updated printed materials",
+          "Reduction of international prefixes",
+          "Conversion of mobile numbers to landline format"
+        ],
+        "answer": "Mandatory ten-digit dialing and updated printed materials"
+      },
+      {
+        "question": "Which country uses calling code +353?",
+        "options": [
+          "Ireland",
+          "Iceland",
+          "Israel"
+        ],
+        "answer": "Ireland"
+      },
+      {
+        "question": "Which North American concept routes toll-free calls based on called number and calling geography?",
+        "options": [
+          "Toll-free number translation and advanced routing",
+          "Area code split routing",
+          "Local number concatenation"
+        ],
+        "answer": "Toll-free number translation and advanced routing"
+      },
+      {
+        "question": "Which area code was originally assigned to Seattle, Washington?",
+        "options": [
+          "206",
+          "303",
+          "214"
+        ],
+        "answer": "206"
+      },
+      {
+        "question": "Which mechanism allows customers to retain mobile numbers when switching wireless providers?",
+        "options": [
+          "Wireless local number portability (WLNP)",
+          "Toll-free reassignment",
+          "Area code swapping"
+        ],
+        "answer": "Wireless local number portability (WLNP)"
+      },
+      {
+        "question": "Which country uses the dialing code +351 and requires a trunk prefix 0 for domestic long-distance?",
+        "options": [
+          "Portugal",
+          "Poland",
+          "Panama"
+        ],
+        "answer": "Portugal"
+      }
+    ]
+  }
+}

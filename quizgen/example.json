@@ -1,0 +1,139 @@
+{
+    "quiz": [
+      {
+        "question": "Who holds the record for the highest individual score in Test cricket?",
+        "options": [
+          "Sachin Tendulkar",
+          "Brian Lara",
+          "Ricky Ponting"
+        ],
+        "answer": "Brian Lara"
+      },
+      {
+        "question": "Which country won the first-ever Cricket World Cup in 1975?",
+        "options": [
+          "Australia",
+          "England",
+          "West Indies"
+        ],
+        "answer": "West Indies"
+      },
+      {
+        "question": "How many days is a standard Test match scheduled for?",
+        "options": [
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": "5"
+      },
+      {
+        "question": "What is the term for a score of 111 in cricket?",
+        "options": [
+          "Nelson",
+          "A Century",
+          "Duck"
+        ],
+        "answer": "Nelson"
+      },
+      {
+        "question": "Who is the only bowler to have taken a hat-trick on his birthday in Test cricket?",
+        "options": [
+          "Shane Warne",
+          "Muttiah Muralitharan",
+          "Peter Siddle"
+        ],
+        "answer": "Peter Siddle"
+      },
+      {
+        "question": "In which country is the world's largest cricket stadium, by seating capacity, located?",
+        "options": [
+          "Australia",
+          "India",
+          "England"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What is the name of the biennial Test cricket series played between England and Australia?",
+        "options": [
+          "The Ashes",
+          "The Trans-Tasman Trophy",
+          "The Border-Gavaskar Trophy"
+        ],
+        "answer": "The Ashes"
+      },
+      {
+        "question": "Who was the first player to be given out by a third umpire?",
+        "options": [
+          "Javed Miandad",
+          "Sachin Tendulkar",
+          "Allan Border"
+        ],
+        "answer": "Sachin Tendulkar"
+      },
+      {
+        "question": "Which country is the only one to have won the 60-over, 50-over, and 20-over World Cups?",
+        "options": [
+          "Australia",
+          "India",
+          "West Indies"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What is a cricket bat traditionally made from?",
+        "options": [
+          "Maple Wood",
+          "Willow Wood",
+          "Ash Wood"
+        ],
+        "answer": "Willow Wood"
+      },
+      {
+        "question": "The first-ever cricket World Cup was held for which gender?",
+        "options": [
+          "Men",
+          "Women",
+          "Both simultaneously"
+        ],
+        "answer": "Women"
+      },
+      {
+        "question": "Who is the only cricketer to have been hanged for murder?",
+        "options": [
+          "Leslie Hylton",
+          "W. G. Grace",
+          "Donald Bradman"
+        ],
+        "answer": "Leslie Hylton"
+      },
+      {
+        "question": "What does the term 'LBW' stand for in cricket?",
+        "options": [
+          "Leg Before Wicket",
+          "Long Boundary Width",
+          "Light Bat Weight"
+        ],
+        "answer": "Leg Before Wicket"
+      },
+      {
+        "question": "In which year was the first official Twenty20 match played?",
+        "options": [
+          "2001",
+          "2003",
+          "2005"
+        ],
+        "answer": "2003"
+      },
+      {
+        "question": "Who is the leading wicket-taker in the history of Test cricket?",
+        "options": [
+          "Shane Warne",
+          "Muttiah Muralitharan",
+          "James Anderson"
+        ],
+        "answer": "Muttiah Muralitharan"
+      }
+    ]
+  }

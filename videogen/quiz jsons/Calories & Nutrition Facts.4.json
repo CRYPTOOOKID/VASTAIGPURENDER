@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which term describes eating more calories than you expend?",
+      "options": [
+        "Caloric balance",
+        "Caloric neutral",
+        "Caloric surplus"
+      ],
+      "answer": "Caloric surplus"
+    },
+    {
+      "question_id": 2,
+      "question": "Which fatty acids are essential because the body cannot synthesize them?",
+      "options": [
+        "Oleic acid and lauric acid",
+        "Linoleic acid and alpha-linolenic acid",
+        "Palmitic acid and stearic acid"
+      ],
+      "answer": "Linoleic acid and alpha-linolenic acid"
+    },
+    {
+      "question_id": 3,
+      "question": "What do Atwater factors estimate in nutrition science?",
+      "options": [
+        "Physiological energy yield per gram of macronutrients",
+        "Rate of gastric emptying",
+        "Vitamin bioavailability coefficients"
+      ],
+      "answer": "Physiological energy yield per gram of macronutrients"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the simplest way to reduce empty calories in a diet?",
+      "options": [
+        "Increase fried snacks",
+        "Cut sugary drinks and sweets",
+        "Add extra salt"
+      ],
+      "answer": "Cut sugary drinks and sweets"
+    },
+    {
+      "question_id": 5,
+      "question": "Which macronutrient typically has the highest thermic effect after eating?",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Fat"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "question_id": 6,
+      "question": "Which dietary component increases fecal energy losses and lowers effective metabolizable energy?",
+      "options": [
+        "Monosaturated fats",
+        "Refined sugars",
+        "Certain non-digestible fibers and anti-nutrients"
+      ],
+      "answer": "Certain non-digestible fibers and anti-nutrients"
+    },
+    {
+      "question_id": 7,
+      "question": "Which macronutrient is the body's main immediate energy source?",
+      "options": [
+        "Fat",
+        "Carbohydrate",
+        "Vitamin"
+      ],
+      "answer": "Carbohydrate"
+    },
+    {
+      "question_id": 8,
+      "question": "Which population factor generally increases basal metabolic rate?",
+      "options": [
+        "Greater lean body mass",
+        "Older age",
+        "Lower thyroid hormone levels"
+      ],
+      "answer": "Greater lean body mass"
+    },
+    {
+      "question_id": 9,
+      "question": "Who pioneered systematic calorimetry of foods and developed early energy standards?",
+      "options": [
+        "Wilbur O. Atwater",
+        "Louis Pasteur",
+        "Carl Linnaeus"
+      ],
+      "answer": "Wilbur O. Atwater"
+    },
+    {
+      "question_id": 10,
+      "question": "Which micronutrient contributes no calories to the diet?",
+      "options": [
+        "Sugar",
+        "Vitamin C",
+        "Alcohol"
+      ],
+      "answer": "Vitamin C"
+    },
+    {
+      "question_id": 11,
+      "question": "Which measurement combines caloric content and nutrient quality to evaluate foods?",
+      "options": [
+        "Serving frequency",
+        "Glycemic index",
+        "Nutrient density"
+      ],
+      "answer": "Nutrient density"
+    },
+    {
+      "question_id": 12,
+      "question": "Which policy-driven label change helps consumers identify foods contributing excess caloric sugars?",
+      "options": [
+        "Removal of ingredient lists",
+        "Uniform color coding for calories",
+        "Mandatory disclosure of added sugars"
+      ],
+      "answer": "Mandatory disclosure of added sugars"
+    },
+    {
+      "question_id": 13,
+      "question": "Which food label component helps compare nutrients between products easily?",
+      "options": [
+        "Color of packaging",
+        "Serving size and calories per serving",
+        "Manufacturer address"
+      ],
+      "answer": "Serving size and calories per serving"
+    },
+    {
+      "question_id": 14,
+      "question": "Which macronutrient yields calories lost in urine when consumed in excess?",
+      "options": [
+        "Fat",
+        "Carbohydrate",
+        "Protein"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metric helps estimate a food’s impact on long-term blood glucose and portion size?",
+      "options": [
+        "Glycemic load",
+        "Total carbohydrate grams",
+        "Ingredient ordering"
+      ],
+      "answer": "Glycemic load"
+    }
+  ]
+}

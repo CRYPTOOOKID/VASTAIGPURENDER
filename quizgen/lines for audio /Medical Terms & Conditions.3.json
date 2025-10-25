@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'palliative care' primarily aim to provide for seriously ill patients?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which screening test uses Papanicolaou smear to detect cervical pre-cancer changes?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which antibiotic resistance mechanism involves bacteria producing enzymes that hydrolyze beta-lactam rings?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which vaccine prevented smallpox and pioneered modern vaccination practice?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which lab test best estimates kidney function by measuring creatinine clearance or eGFR?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which bacteria produces a pseudomembrane in the colon causing severe antibiotic-associated diarrhea?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the prefix 'hepato-' indicate about a medical condition?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which scoring system predicts risk of stroke in atrial fibrillation patients clinically?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which acid-base disorder shows low pH, low bicarbonate, and compensatory low PaCO2?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the medical abbreviation 'HR' usually refer to on patient charts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which condition is characterized by autoimmune destruction of pancreatic beta cells?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which toxin mechanism causes botulism by blocking acetylcholine release at neuromuscular junctions?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term describes surgical removal of the appendix?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which antibiotic class inhibits bacterial cell wall synthesis by binding penicillin-binding proteins?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which physiologic process describes convalescent antibody transfer via placenta protecting newborns temporarily?"
+    }
+  ]
+}

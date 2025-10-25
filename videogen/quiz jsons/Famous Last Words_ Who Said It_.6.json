@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who reportedly said \"It is very beautiful over there\" as their final words referring to a place beyond life?",
+      "options": [
+        "Florence Nightingale",
+        "Mary Shelley",
+        "Emily Brontë"
+      ],
+      "answer": "Florence Nightingale"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientist reputedly said \"I go to seek a Great Perhaps\" on his deathbed?",
+      "options": [
+        "Laurence Sterne",
+        "Blaise Pascal",
+        "François Rabelais"
+      ],
+      "answer": "François Rabelais"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is reported to have said \"Either that wallpaper goes or I do\" while criticizing decor as last words?",
+      "options": [
+        "Oscar Wilde",
+        "John Keats",
+        "Edgar Allan Poe"
+      ],
+      "answer": "Oscar Wilde"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is credited with saying \"I have offended God and mankind because my work did not reach the quality it should have\" on their deathbed?",
+      "options": [
+        "Miguel de Cervantes",
+        "Leonardo da Vinci",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question_id": 5,
+      "question": "Which English king allegedly declared \"I go from a corruptible to an incorruptible crown\" near death?",
+      "options": [
+        "Charles I",
+        "Henry V",
+        "James I"
+      ],
+      "answer": "Charles I"
+    },
+    {
+      "question_id": 6,
+      "question": "Which poet is said to have whispered \"I am not afraid\" before passing away in 1821?",
+      "options": [
+        "John Keats",
+        "Lord Byron",
+        "Percy Bysshe Shelley"
+      ],
+      "answer": "Percy Bysshe Shelley"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is credited with the last words \"I have a terrific headache\" before a fatal event?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Alexander Pope",
+        "Napoleon Bonaparte"
+      ],
+      "answer": "Napoleon Bonaparte"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Roman poet is credited with dying words about returning to the Elysian fields?",
+      "options": [
+        "Virgil",
+        "Horace",
+        "Ovid"
+      ],
+      "answer": "Virgil"
+    },
+    {
+      "question_id": 9,
+      "question": "Which American gangster reportedly said \"I made my bed, I lie in it\" as final remarks?",
+      "options": [
+        "John Dillinger",
+        "Bonnie Parker",
+        "Al Capone"
+      ],
+      "answer": "John Dillinger"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is known for the last words \"I die hard but am not afraid to go\"?",
+      "options": [
+        "Sir Walter Scott",
+        "Jane Austen",
+        "Winston Churchill"
+      ],
+      "answer": "Sir Walter Scott"
+    },
+    {
+      "question_id": 11,
+      "question": "Which French heroine's alleged last words were \"I am not afraid; I was born to do this\"?",
+      "options": [
+        "Joan of Arc",
+        "Marie Antoinette",
+        "Catherine de Medici"
+      ],
+      "answer": "Joan of Arc"
+    },
+    {
+      "question_id": 12,
+      "question": "Which British naval hero's last words to a friend were the single phrase \"Kiss me, Hardy\"?",
+      "options": [
+        "Admiral Horatio Nelson",
+        "Admiral Sir Edward Pellew",
+        "Admiral John Jervis"
+      ],
+      "answer": "Admiral Horatio Nelson"
+    },
+    {
+      "question_id": 13,
+      "question": "Which 19th-century abolitionist's last words were \"I have not one regret\", uttered before execution in 1859?",
+      "options": [
+        "William Lloyd Garrison",
+        "Sojourner Truth",
+        "John Brown"
+      ],
+      "answer": "John Brown"
+    },
+    {
+      "question_id": 14,
+      "question": "Who was said to have asked \"Is it the end?\" as their last words after a long illness in Victorian era?",
+      "options": [
+        "Alfred, Lord Tennyson",
+        "Charles Dickens",
+        "Queen Victoria"
+      ],
+      "answer": "Queen Victoria"
+    },
+    {
+      "question_id": 15,
+      "question": "Who uttered the last words \"I am going to see now whether God will think me a good man\"?",
+      "options": [
+        "Blaise Pascal",
+        "René Descartes",
+        "Voltaire"
+      ],
+      "answer": "Blaise Pascal"
+    }
+  ]
+}

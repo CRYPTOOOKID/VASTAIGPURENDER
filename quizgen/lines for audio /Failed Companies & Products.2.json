@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Apple workstation launched in 1983 failed commercially but influenced Macintosh development?"
+    },
+    {
+      "question_id": 2,
+      "question": "How much funding did Quibi raise before launching its short-form streaming service in 2020?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which handheld console by Nintendo used a monochrome display and is known for failing commercially in the 1990s?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which social network lost dominance after Facebook rose and saw steep user decline?"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did Kodak file for Chapter 11 bankruptcy protection?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which scandalous collapse involved off-balance-sheet entities called SPEs that hid debt and sank a major energy company?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Coca-Cola reformulation launched in 1985 and was quickly withdrawn due to customer backlash?"
+    },
+    {
+      "question_id": 8,
+      "question": "What year did Blockbuster file for bankruptcy protection?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which lightweight gaming console by Nintendo failed commercially due to poor third-party support and timing?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which photography company filed for bankruptcy in 2012 after failing to adapt to digital cameras?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which instant camera brand declared bankruptcy in 2001 and later rebranded different business lines?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ride-on personal transporter inventor famously predicted its device would change transportation worldwide?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which clear soda introduced in the early 1990s failed to last on shelves?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company once dominant in instant photography reinvented itself with digital-focused product lines?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company misreported profits leading to a 2002 conviction reversal and major corporate governance reforms?"
+    }
+  ]
+}

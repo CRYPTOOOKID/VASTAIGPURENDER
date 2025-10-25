@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'net migration' in population statistics?",
+      "options": [
+        "Immigrants minus emigrants",
+        "Total births minus deaths",
+        "Population density change"
+      ],
+      "answer": "Immigrants minus emigrants"
+    },
+    {
+      "question_id": 2,
+      "question": "Which African country is projected to add the largest number to global population by 2100?",
+      "options": [
+        "Nigeria",
+        "Ethiopia",
+        "Egypt"
+      ],
+      "answer": "Nigeria"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country historically used household registration (hukou) affecting internal migration statistics?",
+      "options": [
+        "China",
+        "Mexico",
+        "Norway"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 4,
+      "question": "Which region has the highest population growth rate in recent decades?",
+      "options": [
+        "Sub-Saharan Africa",
+        "Europe",
+        "North America"
+      ],
+      "answer": "Sub-Saharan Africa"
+    },
+    {
+      "question_id": 5,
+      "question": "Which region has seen the fastest urban population growth in recent decades?",
+      "options": [
+        "Asia",
+        "Oceania",
+        "Antarctica"
+      ],
+      "answer": "Asia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which demographic event is described by a sudden drop in births following major societal disruption?",
+      "options": [
+        "Birth trough",
+        "Baby boom",
+        "Replacement spike"
+      ],
+      "answer": "Birth trough"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'population projection' estimate?",
+      "options": [
+        "Future population based on trends",
+        "Current census count",
+        "Historical population only"
+      ],
+      "answer": "Future population based on trends"
+    },
+    {
+      "question_id": 8,
+      "question": "Which global event caused a temporary but sharp decline in population growth rates in the 14th century?",
+      "options": [
+        "Black Death",
+        "Industrial Revolution",
+        "World War I"
+      ],
+      "answer": "Black Death"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country showed a historic fertility decline associated with dramatic educational expansion for women in recent decades?",
+      "options": [
+        "Bangladesh",
+        "Saudi Arabia",
+        "Haiti"
+      ],
+      "answer": "Bangladesh"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country experienced rapid urban population growth after World War II?",
+      "options": [
+        "United States",
+        "Bhutan",
+        "Greenland"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country had the highest urban population share by the early 21st century?",
+      "options": [
+        "Monaco",
+        "India",
+        "Nigeria"
+      ],
+      "answer": "Monaco"
+    },
+    {
+      "question_id": 12,
+      "question": "By mid-21st century projections, which country is expected to have the largest population decline in absolute numbers?",
+      "options": [
+        "China",
+        "India",
+        "United States"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country has one of the largest youth populations globally?",
+      "options": [
+        "Nigeria",
+        "Germany",
+        "Japan"
+      ],
+      "answer": "Nigeria"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the replacement-level TFR typically adjusted for in developed nations?",
+      "options": [
+        "Around 2.1 children per woman",
+        "Around 3.5 children per woman",
+        "Around 1.5 children per woman"
+      ],
+      "answer": "Around 2.1 children per woman"
+    },
+    {
+      "question_id": 15,
+      "question": "Which demographic indicator is sensitive to short-term shocks and often used to assess child health conditions?",
+      "options": [
+        "Under-five mortality rate",
+        "Total fertility rate",
+        "Life expectancy at 65"
+      ],
+      "answer": "Under-five mortality rate"
+    }
+  ]
+}

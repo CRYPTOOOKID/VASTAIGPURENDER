@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is a time zone primarily based on?",
+        "options": [
+          "Longitude",
+          "Latitude",
+          "Altitude"
+        ],
+        "answer": "Longitude"
+      },
+      {
+        "question": "What does UTC stand for in timekeeping?",
+        "options": [
+          "Coordinated Universal Time",
+          "Universal Time Calculation",
+          "United Time Code"
+        ],
+        "answer": "Coordinated Universal Time"
+      },
+      {
+        "question": "Which country spans the most time zones including overseas territories?",
+        "options": [
+          "France",
+          "Russia",
+          "United States"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "If it is noon UTC, what time is it at UTC+3?",
+        "options": [
+          "3:00 PM",
+          "9:00 AM",
+          "12:00 PM"
+        ],
+        "answer": "3:00 PM"
+      },
+      {
+        "question": "What event causes clocks to move forward one hour in many regions?",
+        "options": [
+          "Daylight Saving Time start",
+          "Leap second insertion",
+          "Time zone change"
+        ],
+        "answer": "Daylight Saving Time start"
+      },
+      {
+        "question": "Which line is the basis for the date change when crossing oceans?",
+        "options": [
+          "International Date Line",
+          "Prime Meridian",
+          "Equator"
+        ],
+        "answer": "International Date Line"
+      },
+      {
+        "question": "What is the Prime Meridian's longitude?",
+        "options": [
+          "0°",
+          "90° E",
+          "180°"
+        ],
+        "answer": "0°"
+      },
+      {
+        "question": "Which continent uses the fewest time zones across its mainland?",
+        "options": [
+          "Australia",
+          "Africa",
+          "Europe"
+        ],
+        "answer": "Europe"
+      },
+      {
+        "question": "If New York is UTC-5 during standard time, what is its offset during standard time?",
+        "options": [
+          "UTC-5",
+          "UTC+5",
+          "UTC+0"
+        ],
+        "answer": "UTC-5"
+      },
+      {
+        "question": "Which city defines GMT historically?",
+        "options": [
+          "Greenwich",
+          "Paris",
+          "Zurich"
+        ],
+        "answer": "Greenwich"
+      },
+      {
+        "question": "How many hours ahead is Tokyo (UTC+9) from London (UTC+0)?",
+        "options": [
+          "9 hours",
+          "7 hours",
+          "12 hours"
+        ],
+        "answer": "9 hours"
+      },
+      {
+        "question": "What happens to the calendar when you cross the International Date Line traveling westward?",
+        "options": [
+          "You add a day",
+          "You subtract a day",
+          "No change"
+        ],
+        "answer": "You add a day"
+      },
+      {
+        "question": "Which U.S. state has two time zones on the mainland?",
+        "options": [
+          "Florida",
+          "California",
+          "Alabama"
+        ],
+        "answer": "Florida"
+      },
+      {
+        "question": "Which global time standard replaced GMT in technical contexts?",
+        "options": [
+          "UTC",
+          "TUT",
+          "GST"
+        ],
+        "answer": "UTC"
+      },
+      {
+        "question": "Why do some countries use half-hour or 45-minute offsets?",
+        "options": [
+          "To better match solar time",
+          "To confuse travelers",
+          "To follow climate zones"
+        ],
+        "answer": "To better match solar time"
+      },
+      {
+        "question": "Which hemisphere experiences longer daylight hours in June?",
+        "options": [
+          "Northern Hemisphere",
+          "Southern Hemisphere",
+          "Both equally"
+        ],
+        "answer": "Northern Hemisphere"
+      },
+      {
+        "question": "What is a common reason countries adjust their time zones historically?",
+        "options": [
+          "Trade and transportation coordination",
+          "Religious observance",
+          "Soil types"
+        ],
+        "answer": "Trade and transportation coordination"
+      },
+      {
+        "question": "Which U.S. time zone is two hours ahead of Pacific Time?",
+        "options": [
+          "Central Time",
+          "Mountain Time",
+          "Eastern Time"
+        ],
+        "answer": "Central Time"
+      },
+      {
+        "question": "Which island nation is known for being the first to experience each new day?",
+        "options": [
+          "Kiribati",
+          "Iceland",
+          "Madagascar"
+        ],
+        "answer": "Kiribati"
+      },
+      {
+        "question": "What is the main practical purpose of the International Date Line?",
+        "options": [
+          "To maintain consistent calendar dates across longitudes",
+          "To mark tectonic plate boundaries",
+          "To separate time zones by language"
+        ],
+        "answer": "To maintain consistent calendar dates across longitudes"
+      },
+      {
+        "question": "Which term describes adjusting clocks backward one hour at the end of DST?",
+        "options": [
+          "Fall back",
+          "Jump forward",
+          "Spring forward"
+        ],
+        "answer": "Fall back"
+      },
+      {
+        "question": "What does 'UTC+0' indicate about a place's time offset?",
+        "options": [
+          "It matches Coordinated Universal Time",
+          "It is one hour ahead of UTC",
+          "It is one hour behind UTC"
+        ],
+        "answer": "It matches Coordinated Universal Time"
+      },
+      {
+        "question": "Which large country uses a single time zone despite spanning many longitudes?",
+        "options": [
+          "China",
+          "India",
+          "Brazil"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "If it is 6 PM in Los Angeles (UTC-8 standard), what time is it in New York (UTC-5 standard)?",
+        "options": [
+          "9 PM",
+          "6 PM",
+          "3 PM"
+        ],
+        "answer": "9 PM"
+      },
+      {
+        "question": "What seasonal practice do many countries near mid-latitudes follow to save energy?",
+        "options": [
+          "Daylight Saving Time",
+          "Equinox Adjustment",
+          "Solar Shifting"
+        ],
+        "answer": "Daylight Saving Time"
+      },
+      {
+        "question": "What is the typical length of one time zone in degrees of longitude?",
+        "options": [
+          "15 degrees",
+          "30 degrees",
+          "5 degrees"
+        ],
+        "answer": "15 degrees"
+      },
+      {
+        "question": "Which ocean commonly determines reference when crossing the International Date Line?",
+        "options": [
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Indian Ocean"
+        ],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Which country changed its standard time to reduce confusion with neighboring regions?",
+        "options": [
+          "Nepal",
+          "Spain",
+          "Ecuador"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which of these is a half-hour time offset country?",
+        "options": [
+          "India",
+          "Japan",
+          "Germany"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What is the term for the official legal time used by a country?",
+        "options": [
+          "Standard time",
+          "Solar time",
+          "Local mean time"
+        ],
+        "answer": "Standard time"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which treaty established the prime meridian at Greenwich in 1884?",
+        "options": [
+          "International Meridian Conference",
+          "Treaty of Paris",
+          "GMT Accord"
+        ],
+        "answer": "International Meridian Conference"
+      },
+      {
+        "question": "Which U.S. state observes Atlantic Standard Time for most of the year?",
+        "options": [
+          "Puerto Rico",
+          "Hawaii",
+          "Washington"
+        ],
+        "answer": "Puerto Rico"
+      },
+      {
+        "question": "What rare adjustment adds a second to UTC to align atomic clocks with Earth's rotation?",
+        "options": [
+          "Leap second",
+          "Leap minute",
+          "Leap hour"
+        ],
+        "answer": "Leap second"
+      },
+      {
+        "question": "Which European country stopped observing Daylight Saving Time in 1975 but later resumed?",
+        "options": [
+          "United Kingdom",
+          "France",
+          "Spain"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which African country uses UTC+3 as standard time year-round?",
+        "options": [
+          "Kenya",
+          "Mali",
+          "Ghana"
+        ],
+        "answer": "Kenya"
+      },
+      {
+        "question": "Which U.S. territories permanently use Atlantic Time year-round? ",
+        "options": [
+          "Puerto Rico and US Virgin Islands",
+          "Guam and American Samoa",
+          "Northern Mariana Islands and Guam"
+        ],
+        "answer": "Puerto Rico and US Virgin Islands"
+      },
+      {
+        "question": "Which city is just west of the prime meridian but uses UTC+0 time legally?",
+        "options": [
+          "Lisbon",
+          "Madrid",
+          "Paris"
+        ],
+        "answer": "Lisbon"
+      },
+      {
+        "question": "Which country adopted a single time zone (UTC+8) in 1949 to unify administration?",
+        "options": [
+          "China",
+          "Russia",
+          "Australia"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which island country set its time zone forward by 24 hours in 1995 to align with trading partners?",
+        "options": [
+          "Kiribati",
+          "Samoa",
+          "Tonga"
+        ],
+        "answer": "Kiribati"
+      },
+      {
+        "question": "Which body is responsible for publishing and maintaining official time standards like UTC?",
+        "options": [
+          "International Bureau of Weights and Measures (BIPM)",
+          "United Nations Time Authority",
+          "World Time Organization"
+        ],
+        "answer": "International Bureau of Weights and Measures (BIPM)"
+      },
+      {
+        "question": "Which city historically used 'local mean time' before adopting standardized zones?",
+        "options": [
+          "Paris",
+          "Tokyo",
+          "New Delhi"
+        ],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which U.S. law standardized time zones in the country in 1918?",
+        "options": [
+          "Standard Time Act",
+          "Time Unification Act",
+          "Uniform Time Act"
+        ],
+        "answer": "Standard Time Act"
+      },
+      {
+        "question": "Which country uses UTC+5:30 as its national time?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Bangladesh"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which region observes the world's easternmost time zone at UTC+14?",
+        "options": [
+          "Line Islands of Kiribati",
+          "New Zealand mainland",
+          "Fiji"
+        ],
+        "answer": "Line Islands of Kiribati"
+      },
+      {
+        "question": "Which practice do some countries use instead of DST to adjust local time seasonally?",
+        "options": [
+          "Permanent standard time shifts",
+          "Month-long calendar changes",
+          "Weekly time resets"
+        ],
+        "answer": "Permanent standard time shifts"
+      },
+      {
+        "question": "Which European country spans three time zones including overseas regions?",
+        "options": [
+          "France",
+          "United Kingdom",
+          "Italy"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which island territory uses UTC-11, making it among the last places to see each day?",
+        "options": [
+          "American Samoa",
+          "Hawaii",
+          "Fiji"
+        ],
+        "answer": "American Samoa"
+      },
+      {
+        "question": "Which clock comparison revealed the need for global time standardization in the 19th century?",
+        "options": [
+          "Railway timetables inconsistencies",
+          "Telegraph signal failures",
+          "Maritime compass errors"
+        ],
+        "answer": "Railway timetables inconsistencies"
+      },
+      {
+        "question": "Which country uses two standard time zones despite its small land area due to political reasons?",
+        "options": [
+          "Spain",
+          "Portugal",
+          "France"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "What major change did Russia implement in 2011 related to clocks?",
+        "options": [
+          "Abolished seasonal clock changes (stayed on DST)",
+          "Adopted new prime meridian",
+          "Shifted all regions one hour earlier"
+        ],
+        "answer": "Abolished seasonal clock changes (stayed on DST)"
+      },
+      {
+        "question": "Which organization coordinates leap second decisions?",
+        "options": [
+          "International Earth Rotation and Reference Systems Service (IERS)",
+          "International Telecommunication Union (ITU)",
+          "World Meteorological Organization (WMO)"
+        ],
+        "answer": "International Earth Rotation and Reference Systems Service (IERS)"
+      },
+      {
+        "question": "Which U.S. legislation limited the length of daylight saving time after 1966?",
+        "options": [
+          "Uniform Time Act",
+          "Daylight Act",
+          "Time Zone Standardization Act"
+        ],
+        "answer": "Uniform Time Act"
+      },
+      {
+        "question": "Which Latin American country uses UTC-4:30 as its standard time historically?",
+        "options": [
+          "Venezuela",
+          "Chile",
+          "Peru"
+        ],
+        "answer": "Venezuela"
+      },
+      {
+        "question": "Which region uses 'Zulu time' as a synonym for UTC in aviation and military contexts?",
+        "options": [
+          "Aviation and military communities",
+          "Retail businesses",
+          "Local radio stations"
+        ],
+        "answer": "Aviation and military communities"
+      },
+      {
+        "question": "Which factor often determines whether a country keeps DST: latitude, population size, or elevation?",
+        "options": [
+          "Latitude",
+          "Population size",
+          "Elevation"
+        ],
+        "answer": "Latitude"
+      },
+      {
+        "question": "Which famous meridian passing through Paris was replaced in international use by Greenwich?",
+        "options": [
+          "Paris Meridian",
+          "Berlin Meridian",
+          "Madrid Meridian"
+        ],
+        "answer": "Paris Meridian"
+      },
+      {
+        "question": "Which U.S. state moved its time zone border in 2007 to better align with trade patterns?",
+        "options": [
+          "Indiana",
+          "Maine",
+          "Texas"
+        ],
+        "answer": "Indiana"
+      },
+      {
+        "question": "Which country uses UTC+4:30 as its official time?",
+        "options": [
+          "Afghanistan",
+          "Iran",
+          "Pakistan"
+        ],
+        "answer": "Afghanistan"
+      },
+      {
+        "question": "Which Pacific nation jumped the International Date Line in 2011 to align with Australia and New Zealand?",
+        "options": [
+          "Samoa",
+          "Tonga",
+          "Fiji"
+        ],
+        "answer": "Samoa"
+      },
+      {
+        "question": "Which phenomenon requires inserting a negative leap second only in hypothetical scenarios, never yet used?",
+        "options": [
+          "Earth rotating faster than atomic time",
+          "Earth reversing rotation",
+          "Permanent daylight saving"
+        ],
+        "answer": "Earth rotating faster than atomic time"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which country experimented with 'double daylight saving' creating two-hour seasonal shifts in the 1940s?",
+        "options": [
+          "United Kingdom",
+          "Spain",
+          "United States"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which island group's repositioning of the International Date Line in 1995 created the world's earliest time zone?",
+        "options": [
+          "Line Islands (Kiribati)",
+          "Marquesas Islands",
+          "Aleutian Islands"
+        ],
+        "answer": "Line Islands (Kiribati)"
+      },
+      {
+        "question": "Which mathematician's work underpins timekeeping and the definition of the second via atomic transitions? ",
+        "options": [
+          "Willis E. Lamb (atomic spectroscopy researcher)",
+          "Isaac Newton",
+          "Albert Einstein"
+        ],
+        "answer": "Willis E. Lamb (atomic spectroscopy researcher)"
+      },
+      {
+        "question": "Which year saw the first international agreement to adopt a single prime meridian at Greenwich?",
+        "options": [
+          "1884",
+          "1901",
+          "1856"
+        ],
+        "answer": "1884"
+      },
+      {
+        "question": "Which country maintained two simultaneous time zones (legal vs. de facto) for decades for political reasons?",
+        "options": [
+          "Spain",
+          "China",
+          "Nepal"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which rare timekeeping oddity exists in Nepal's standard time offset?",
+        "options": [
+          "UTC+5:45 offset",
+          "UTC+6:15 offset",
+          "UTC+5:30 offset"
+        ],
+        "answer": "UTC+5:45 offset"
+      },
+      {
+        "question": "Which Pacific nation uses a 45-minute offset (UTC-3:30) for part of its territory?",
+        "options": [
+          "None; 45-minute offsets occur elsewhere",
+          "New Zealand",
+          "Argentina"
+        ],
+        "answer": "None; 45-minute offsets occur elsewhere"
+      },
+      {
+        "question": "Which major railway company's timetabling problems in the 19th century led directly to time zone adoption?",
+        "options": [
+          "Great Western Railway in Britain",
+          "Union Pacific in the U.S.",
+          "Trans-Siberian Railway"
+        ],
+        "answer": "Great Western Railway in Britain"
+      },
+      {
+        "question": "Which treaty or conference first proposed an International Date Line concept in formal terms?",
+        "options": [
+          "International Meridian Conference (1884)",
+          "Treaty of Versailles (1919)",
+          "Monroe Doctrine meeting"
+        ],
+        "answer": "International Meridian Conference (1884)"
+      },
+      {
+        "question": "Which nation adopted 'Moscow Time' year-round in 2014 by changing DST rules?",
+        "options": [
+          "Russia",
+          "Belarus",
+          "Ukraine"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which Caribbean territory uses UTC-4 but does not observe DST and thus differs seasonally from nearby US regions?",
+        "options": [
+          "Puerto Rico",
+          "Cayman Islands",
+          "Barbados"
+        ],
+        "answer": "Puerto Rico"
+      },
+      {
+        "question": "Which historical figure promoted Greenwich as the prime meridian through naval influence?",
+        "options": [
+          "Sir George Airy",
+          "Ferdinand Magellan",
+          "James Cook"
+        ],
+        "answer": "Sir George Airy"
+      },
+      {
+        "question": "Which measurement defines the SI second using a cesium-133 atomic transition frequency?",
+        "options": [
+          "9,192,631,770 oscillations",
+          "1,000,000 oscillations",
+          "86,400 oscillations"
+        ],
+        "answer": "9,192,631,770 oscillations"
+      },
+      {
+        "question": "Which country set its time zone to UTC+8 in 1949 but saw local unofficial times remain in use for years?",
+        "options": [
+          "China",
+          "Indonesia",
+          "Philippines"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which municipality uniquely observes a different time zone than its surrounding region for commerce reasons in the U.S.?",
+        "options": [
+          "Phenix City, Alabama (aligning with Columbus, GA)",
+          "El Paso, Texas",
+          "Key West, Florida"
+        ],
+        "answer": "Phenix City, Alabama (aligning with Columbus, GA)"
+      },
+      {
+        "question": "Which scientific service publishes leap second announcements months in advance?",
+        "options": [
+          "IERS Bulletin C",
+          "BIPM Annual Report",
+          "ITU Circular"
+        ],
+        "answer": "IERS Bulletin C"
+      },
+      {
+        "question": "Which country's legal time was advanced by 30 minutes in 1982 to reduce power usage during peak hours?",
+        "options": [
+          "Venezuela (historical change)",
+          "Iraq",
+          "Myanmar"
+        ],
+        "answer": "Venezuela (historical change)"
+      },
+      {
+        "question": "Which timekeeping system did railroads in 19th-century North America adopt before national standardization?",
+        "options": [
+          "Railway Time",
+          "Greenwich Time",
+          "Solar Time"
+        ],
+        "answer": "Railway Time"
+      },
+      {
+        "question": "Which island in the Pacific uses UTC-9:30 as its standard time?",
+        "options": [
+          "Marquesas Islands",
+          "Easter Island",
+          "Cook Islands"
+        ],
+        "answer": "Marquesas Islands"
+      },
+      {
+        "question": "Which country maintains unique legal definitions for time in different regions leading to multiple 'official' times?",
+        "options": [
+          "Australia",
+          "Russia",
+          "Brazil"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which technology's adoption in the 19th century most required synchronized time across cities?",
+        "options": [
+          "Railways and telegraphs",
+          "Steamships",
+          "Agricultural calendars"
+        ],
+        "answer": "Railways and telegraphs"
+      },
+      {
+        "question": "Which historical convention set the day starting at midnight worldwide for civil purposes?",
+        "options": [
+          "Adoption by national civil codes in late 19th century",
+          "Papal decree in 1600s",
+          "Gregorian calendar reform of 1582"
+        ],
+        "answer": "Adoption by national civil codes in late 19th century"
+      },
+      {
+        "question": "Which country uses a non-integer time zone offset of UTC+3:30?",
+        "options": [
+          "Iran",
+          "Iraq",
+          "Turkey"
+        ],
+        "answer": "Iran"
+      },
+      {
+        "question": "Which airline/time-industry standard uses the letter 'Z' to denote UTC?",
+        "options": [
+          "ICAO and IATA conventions",
+          "FAA domestic only",
+          "Railway timetable code"
+        ],
+        "answer": "ICAO and IATA conventions"
+      },
+      {
+        "question": "Which major capital officially changed time zone in 1919 to support postwar commerce?",
+        "options": [
+          "Paris",
+          "Berlin",
+          "Rome"
+        ],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which global navigation satellite system provides precise time synchronization crucial for UTC realization?",
+        "options": [
+          "GPS (Global Positioning System)",
+          "GLONASS only",
+          "Galileo exclusively"
+        ],
+        "answer": "GPS (Global Positioning System)"
+      },
+      {
+        "question": "Which country altered its date line position internally in the 19th century, causing local calendar inconsistencies?",
+        "options": [
+          "Samoa (historically adjusted later)",
+          "Fiji",
+          "Tonga"
+        ],
+        "answer": "Samoa (historically adjusted later)"
+      },
+      {
+        "question": "Which legal instrument in the UK originally defined Greenwich Mean Time as the legal time of Great Britain?",
+        "options": [
+          "Standard Time Act (1880s precedents) leading to later acts",
+          "Uniform Time Act",
+          "Time Zone Consolidation Act"
+        ],
+        "answer": "Standard Time Act (1880s precedents) leading to later acts"
+      },
+      {
+        "question": "Which European microstate aligns its legal time with a neighboring country rather than its longitude?",
+        "options": [
+          "Monaco aligns with France",
+          "Andorra aligns with Portugal",
+          "Liechtenstein aligns with Germany"
+        ],
+        "answer": "Monaco aligns with France"
+      },
+      {
+        "question": "Which scientific observation links irregularities in Earth's rotation to leap second decisions?",
+        "options": [
+          "Variations in length of day measured by VLBI",
+          "Sunspot counts",
+          "Tidal height records"
+        ],
+        "answer": "Variations in length of day measured by VLBI"
+      }
+    ]
+  }
+}

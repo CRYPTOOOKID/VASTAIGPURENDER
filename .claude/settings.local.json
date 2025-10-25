@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(tree:*)",
+      "Bash([ -d \"venv\" ])",
+      "Bash([ -f \"prompt.json\" ])",
+      "Bash([ -f \"topics.json\" ])",
+      "Bash([ -f \".env\" ])",
+      "Bash([ -d \"QuizzesOp\" ])",
+      "Bash(if grep -q \"OPENAI_API_KEY=sk-\" .env)",
+      "Bash(then echo \"✓ API key appears to be set\")",
+      "Bash(else echo \"⚠️  API key is EMPTY - YOU NEED TO ADD IT\")",
+      "Bash(fi)",
+      "Bash(pkill:*)",
+      "Read(//Users/srinadhchitrakavi/Desktop/**)",
+      "Bash(cat:*)",
+      "Bash(sysctl:*)",
+      "Bash(awk:*)",
+      "Bash(npx tsc:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp -r:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

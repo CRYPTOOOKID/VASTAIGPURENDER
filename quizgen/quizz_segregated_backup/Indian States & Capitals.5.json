@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Arunachal Pradesh?",
+      "options": [
+        "Itanagar",
+        "Naharlagun",
+        "Pasighat"
+      ],
+      "answer": "Itanagar"
+    },
+    {
+      "question_id": 2,
+      "question": "Which city served as the capital of the Bombay Presidency and later became a state capital?",
+      "options": [
+        "Mumbai",
+        "Surat",
+        "Poona"
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 3,
+      "question": "Which state capital has a significant colonial-era heritage area centered around the Marina promenade?",
+      "options": [
+        "Chennai",
+        "Kolkata",
+        "Mumbai"
+      ],
+      "answer": "Chennai"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Sikkim?",
+      "options": [
+        "Gangtok",
+        "Namchi",
+        "Geyzing"
+      ],
+      "answer": "Gangtok"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital city serves as the seat of the IT and aerospace industries in Karnataka?",
+      "options": [
+        "Bengaluru",
+        "Mysuru",
+        "Hubballi"
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 6,
+      "question": "Which state capital has a legislative assembly session shifted seasonally to a second city by convention?",
+      "options": [
+        "Maharashtra",
+        "West Bengal",
+        "Tamil Nadu"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Tripura?",
+      "options": [
+        "Agartala",
+        "Udaipur",
+        "Kailashahar"
+      ],
+      "answer": "Agartala"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital was chosen as a new administrative center after partition of Bombay State in 1960?",
+      "options": [
+        "Gandhinagar",
+        "Ahmedabad",
+        "Vadodara"
+      ],
+      "answer": "Gandhinagar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital city has a name derived from the local language phrase meaning 'hill of the goddess'?",
+      "options": [
+        "Gangtok",
+        "Shimla",
+        "Gangapur"
+      ],
+      "answer": "Gangtok"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the summer capital of the former state Jammu and Kashmir?",
+      "options": [
+        "Srinagar",
+        "Jammu",
+        "Anantnag"
+      ],
+      "answer": "Srinagar"
+    },
+    {
+      "question_id": 11,
+      "question": "Which city serves as Assam's legislative capital while its largest city is Guwahati?",
+      "options": [
+        "Dispur",
+        "Guwahati",
+        "Tezpur"
+      ],
+      "answer": "Dispur"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital city historically served as the headquarters for a major princely state's administration?",
+      "options": [
+        "Jaipur",
+        "Bhopal",
+        "Shillong"
+      ],
+      "answer": "Jaipur"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Punjab?",
+      "options": [
+        "Chandigarh",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answer": "Chandigarh"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city's official name changed from Bangalore to Bengaluru in 2006?",
+      "options": [
+        "Bengaluru",
+        "Mysuru",
+        "Hubballi"
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian state capital has the highest elevation above sea level among state capitals?",
+      "options": [
+        "Shimla",
+        "Gangtok",
+        "Leh"
+      ],
+      "answer": "Shimla"
+    }
+  ]
+}

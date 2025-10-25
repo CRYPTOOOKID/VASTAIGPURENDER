@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company runs the iOS App Store?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company raised roughly $16 billion in its 2012 IPO?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company’s IPO was notable for being the largest U.S. tech IPO since 2014 when it raised about $21.8 billion?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company launched the iPad tablet in 2010?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company bought Beats Electronics for about $3 billion in 2014?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company introduced the original Model S electric sedan to position luxury EVs mainstream?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which company reported the largest social network by monthly users?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company launched its first iPhone in 2007, reshaping smartphones?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company's initial public offering in 2019 was one of the largest U.S. tech IPOs with about $8.1 billion?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which company develops the Android operating system?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company launched its major electric vehicle Roadster in 2008?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company acquired LinkedIn to integrate enterprise social and cloud services in 2016?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which sporting brand uses the slogan \"Just Do It\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company agreed to buy Activision Blizzard for about $68.7 billion in 2022?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company went public via a direct listing on the NYSE in April 2018?"
+    }
+  ]
+}

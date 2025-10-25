@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which boy band released the 1999 hit 'I Want It That Way'?",
+      "options": [
+        "Backstreet Boys",
+        "NSYNC",
+        "98 Degrees"
+      ],
+      "answer": "Backstreet Boys"
+    },
+    {
+      "question_id": 2,
+      "question": "What year did Microsoft officially release Windows 95 to consumers?",
+      "options": [
+        "1995",
+        "1996",
+        "1994"
+      ],
+      "answer": "1995"
+    },
+    {
+      "question_id": 3,
+      "question": "Which fashion icon's 1994 coat at a red carpet influenced 1990s outerwear trends?",
+      "options": [
+        "Winona Ryder",
+        "Demi Moore",
+        "Kate Moss"
+      ],
+      "answer": "Winona Ryder"
+    },
+    {
+      "question_id": 4,
+      "question": "Which late-night host took over The Tonight Show in 1992?",
+      "options": [
+        "Jay Leno",
+        "David Letterman",
+        "Conan O'Brien"
+      ],
+      "answer": "Jay Leno"
+    },
+    {
+      "question_id": 5,
+      "question": "Which animated feature from 1998 was produced by DreamWorks instead of Pixar?",
+      "options": [
+        "The Prince of Egypt",
+        "A Bug's Life",
+        "Toy Story 2"
+      ],
+      "answer": "The Prince of Egypt"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1996 movie's soundtrack featured the single 'Gangsta's Paradise' by Coolio?",
+      "options": [
+        "Dangerous Minds",
+        "The Nutty Professor",
+        "Space Jam"
+      ],
+      "answer": "Dangerous Minds"
+    },
+    {
+      "question_id": 7,
+      "question": "Which console did Nintendo release for North America in 1991 as a 16-bit system?",
+      "options": [
+        "Super Nintendo Entertainment System",
+        "Sega Genesis",
+        "TurboGrafx-16"
+      ],
+      "answer": "Super Nintendo Entertainment System"
+    },
+    {
+      "question_id": 8,
+      "question": "Which television drama's pilot aired in 1999 featuring a teenage protagonist named Buffy?",
+      "options": [
+        "Buffy the Vampire Slayer",
+        "Roswell",
+        "Angel"
+      ],
+      "answer": "Buffy the Vampire Slayer"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1995 indie film introduced a unique nonlinear story structure and influenced future cinema?",
+      "options": [
+        "Pulp Fiction",
+        "Clerks",
+        "Before Sunrise"
+      ],
+      "answer": "Pulp Fiction"
+    },
+    {
+      "question_id": 10,
+      "question": "Which online auction and marketplace company launched in the 1990s?",
+      "options": [
+        "eBay",
+        "Etsy",
+        "Shopify"
+      ],
+      "answer": "eBay"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company released the original Sony PlayStation in 1994 in Japan?",
+      "options": [
+        "Sony",
+        "Sega",
+        "Nintendo"
+      ],
+      "answer": "Sony"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1999 album by Eminem launched his mainstream career with alter ego Slim Shady?",
+      "options": [
+        "The Slim Shady LP",
+        "The Marshall Mathers LP",
+        "Infinite"
+      ],
+      "answer": "The Slim Shady LP"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blue video game character runs fast and collects rings?",
+      "options": [
+        "Sonic the Hedgehog",
+        "Mario",
+        "Mega Man"
+      ],
+      "answer": "Sonic the Hedgehog"
+    },
+    {
+      "question_id": 14,
+      "question": "Which rapper released the 1995 album 'Me Against the World'?",
+      "options": [
+        "2Pac",
+        "Snoop Dogg",
+        "Notorious B.I.G."
+      ],
+      "answer": "2Pac"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1994 action film's soundtrack sold millions and featured multiple hip-hop collaborations?",
+      "options": [
+        "Pulp Fiction",
+        "Above the Rim",
+        "Menace II Society"
+      ],
+      "answer": "Above the Rim"
+    }
+  ]
+}

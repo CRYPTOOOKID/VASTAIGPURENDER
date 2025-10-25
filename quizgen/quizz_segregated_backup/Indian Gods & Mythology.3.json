@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which goddess is associated with knowledge, music, and learning?",
+      "options": [
+        "Saraswati",
+        "Durga",
+        "Annapurna"
+      ],
+      "answer": "Saraswati"
+    },
+    {
+      "question_id": 2,
+      "question": "Which divine couple represents wealth and auspiciousness and are worshipped together?",
+      "options": [
+        "Vishnu and Lakshmi",
+        "Shiva and Parvati",
+        "Indra and Shachi"
+      ],
+      "answer": "Vishnu and Lakshmi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which goddess presides over the Sri Vidya tradition and is worshipped through the Sri Chakra?",
+      "options": [
+        "Tripurasundari",
+        "Parvati",
+        "Saraswati"
+      ],
+      "answer": "Tripurasundari"
+    },
+    {
+      "question_id": 4,
+      "question": "Which avatar of Vishnu is the fish who saved sages during a great flood?",
+      "options": [
+        "Matsya",
+        "Kurma",
+        "Varaha"
+      ],
+      "answer": "Matsya"
+    },
+    {
+      "question_id": 5,
+      "question": "Which goddess is invoked in marriages for marital bliss and household prosperity?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Durga"
+      ],
+      "answer": "Lakshmi"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare form of Shiva merges with Vishnu as Harihara in South Indian iconography?",
+      "options": [
+        "Harihara",
+        "Kalaratri",
+        "Bhairava"
+      ],
+      "answer": "Harihara"
+    },
+    {
+      "question_id": 7,
+      "question": "Which god is associated with fire and is invoked in Vedic rituals?",
+      "options": [
+        "Agni",
+        "Indra",
+        "Varuna"
+      ],
+      "answer": "Agni"
+    },
+    {
+      "question_id": 8,
+      "question": "Which goddess's nine-night festival celebrates her different manifestations across India?",
+      "options": [
+        "Durga (Navaratri)",
+        "Lakshmi (Diwali)",
+        "Saraswati (Vasant Panchami)"
+      ],
+      "answer": "Durga (Navaratri)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Shaivite tradition reveres the 63 Nayanar saints in Tamil devotional literature?",
+      "options": [
+        "Shaiva Siddhanta",
+        "Vaishnavism",
+        "Shakta"
+      ],
+      "answer": "Shaiva Siddhanta"
+    },
+    {
+      "question_id": 10,
+      "question": "Which mountain is considered Shiva's abode in Hindu tradition?",
+      "options": [
+        "Mount Kailash",
+        "Himalaya",
+        "Mount Meru"
+      ],
+      "answer": "Mount Kailash"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is the primary antagonist king in the Ramayana who abducted Sita?",
+      "options": [
+        "Ravana",
+        "Vibhishana",
+        "Surpanakha"
+      ],
+      "answer": "Ravana"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare Krishna form is the eight-armed warrior 'Shamana Krishna' in some texts?",
+      "options": [
+        "Hayagriva",
+        "Vishvarupa",
+        "Shamana Krishna"
+      ],
+      "answer": "Shamana Krishna"
+    },
+    {
+      "question_id": 13,
+      "question": "Which god is commonly depicted with a trident and matted hair?",
+      "options": [
+        "Shiva",
+        "Indra",
+        "Agni"
+      ],
+      "answer": "Shiva"
+    },
+    {
+      "question_id": 14,
+      "question": "Which god presides over death and the cycle of rebirth in Hindu thought?",
+      "options": [
+        "Yama",
+        "Kubera",
+        "Vayu"
+      ],
+      "answer": "Yama"
+    },
+    {
+      "question_id": 15,
+      "question": "Which weapon did Brahma grant to Rama in some regional retellings of Ramayana?",
+      "options": [
+        "Brahmastra",
+        "Pashupatastra",
+        "Sudarshana Chakra"
+      ],
+      "answer": "Brahmastra"
+    }
+  ]
+}

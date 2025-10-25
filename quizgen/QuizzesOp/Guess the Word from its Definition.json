@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does the term 'definition' primarily provide for a word?",
+        "options": [
+          "A description of its meaning",
+          "A list of rhyming words",
+          "An example sentence"
+        ],
+        "answer": "A description of its meaning"
+      },
+      {
+        "question": "Which resource most people use first to find word meanings?",
+        "options": [
+          "Dictionary",
+          "Atlas",
+          "Cookbook"
+        ],
+        "answer": "Dictionary"
+      },
+      {
+        "question": "In 'Guess the Word from its Definition' games, what is the player's main task?",
+        "options": [
+          "Identify the word matching the definition",
+          "Write a new definition",
+          "Translate the word to another language"
+        ],
+        "answer": "Identify the word matching the definition"
+      },
+      {
+        "question": "What is a synonym for 'definition'?",
+        "options": [
+          "Meaning",
+          "Rhythm",
+          "Color"
+        ],
+        "answer": "Meaning"
+      },
+      {
+        "question": "Which part of speech is indicated by labels like noun, verb, or adjective in definitions?",
+        "options": [
+          "Word class",
+          "Font style",
+          "Syllable count"
+        ],
+        "answer": "Word class"
+      },
+      {
+        "question": "Which feature helps narrow down a guessed word: length, part of speech, or color?",
+        "options": [
+          "Part of speech",
+          "Color",
+          "Length"
+        ],
+        "answer": "Part of speech"
+      },
+      {
+        "question": "What type of clue gives an example of how the word is used in a sentence?",
+        "options": [
+          "Usage example",
+          "Etymology",
+          "Pronunciation guide"
+        ],
+        "answer": "Usage example"
+      },
+      {
+        "question": "What does 'antonym' mean in relation to a word definition?",
+        "options": [
+          "A word with opposite meaning",
+          "A shortened form of a word",
+          "A word spelled the same"
+        ],
+        "answer": "A word with opposite meaning"
+      },
+      {
+        "question": "When a definition describes something 'edible', what does that mean?",
+        "options": [
+          "Safe to eat",
+          "Very expensive",
+          "Difficult to see"
+        ],
+        "answer": "Safe to eat"
+      },
+      {
+        "question": "If a definition calls something 'aquatic', it relates to what?",
+        "options": [
+          "Water",
+          "Fire",
+          "Mountains"
+        ],
+        "answer": "Water"
+      },
+      {
+        "question": "What is the best first step when unsure about a definition in a guessing game?",
+        "options": [
+          "Identify part of speech",
+          "Count letters blindly",
+          "Pick a random word"
+        ],
+        "answer": "Identify part of speech"
+      },
+      {
+        "question": "Which is a common clue word meaning 'capable of living or moving'?",
+        "options": [
+          "Active",
+          "Opaque",
+          "Barren"
+        ],
+        "answer": "Active"
+      },
+      {
+        "question": "In plain definitions, what does 'portable' mean?",
+        "options": [
+          "Easy to carry",
+          "Extremely heavy",
+          "Permanently fixed"
+        ],
+        "answer": "Easy to carry"
+      },
+      {
+        "question": "A definition that mentions 'a sudden, loud noise' likely refers to which word?",
+        "options": [
+          "Bang",
+          "Whisper",
+          "Murmur"
+        ],
+        "answer": "Bang"
+      },
+      {
+        "question": "What does 'stellar' usually mean in straightforward definitions?",
+        "options": [
+          "Excellent or star-related",
+          "Underground",
+          "Wet"
+        ],
+        "answer": "Excellent or star-related"
+      },
+      {
+        "question": "If a definition says 'able to be seen', which word matches it?",
+        "options": [
+          "Visible",
+          "Invisible",
+          "Silent"
+        ],
+        "answer": "Visible"
+      },
+      {
+        "question": "Which type of definition gives the origin of a word?",
+        "options": [
+          "Etymological",
+          "Concise",
+          "Illustrative"
+        ],
+        "answer": "Etymological"
+      },
+      {
+        "question": "If a definition uses 'temporary', it indicates the word relates to what?",
+        "options": [
+          "Short duration",
+          "Permanent state",
+          "Size measurement"
+        ],
+        "answer": "Short duration"
+      },
+      {
+        "question": "What does 'fragile' mean as a definition clue?",
+        "options": [
+          "Easily broken",
+          "Very tasty",
+          "Highly detailed"
+        ],
+        "answer": "Easily broken"
+      },
+      {
+        "question": "Which definition clue suggests an object belongs to a group, like 'feline'?",
+        "options": [
+          "Belonging to cats",
+          "Related to plants",
+          "Made of metal"
+        ],
+        "answer": "Belonging to cats"
+      },
+      {
+        "question": "If a definition describes a 'place where books are kept', what word fits?",
+        "options": [
+          "Library",
+          "Gymnasium",
+          "Bakery"
+        ],
+        "answer": "Library"
+      },
+      {
+        "question": "Which word matches the definition 'a small natural stream of water'?",
+        "options": [
+          "Brook",
+          "Mountain",
+          "Valley"
+        ],
+        "answer": "Brook"
+      },
+      {
+        "question": "What does a concise dictionary definition aim to be?",
+        "options": [
+          "Clear and brief",
+          "Long and verbose",
+          "Obscure and poetic"
+        ],
+        "answer": "Clear and brief"
+      },
+      {
+        "question": "If a definition says 'to cook food in an oven', which verb matches?",
+        "options": [
+          "Bake",
+          "Boil",
+          "Fry"
+        ],
+        "answer": "Bake"
+      },
+      {
+        "question": "What does the word 'ancient' mean in simple definitions?",
+        "options": [
+          "Very old",
+          "Brand new",
+          "Medium size"
+        ],
+        "answer": "Very old"
+      },
+      {
+        "question": "Which word fits the definition 'a vehicle with two wheels'?",
+        "options": [
+          "Bicycle",
+          "Airplane",
+          "Submarine"
+        ],
+        "answer": "Bicycle"
+      },
+      {
+        "question": "If a definition states 'capable of burning', which word applies?",
+        "options": [
+          "Flammable",
+          "Edible",
+          "Transparent"
+        ],
+        "answer": "Flammable"
+      },
+      {
+        "question": "Which word matches the simple definition 'a large natural elevation of the earth's surface'?",
+        "options": [
+          "Mountain",
+          "Plain",
+          "Pond"
+        ],
+        "answer": "Mountain"
+      },
+      {
+        "question": "What does 'nocturnal' mean in common definitions?",
+        "options": [
+          "Active at night",
+          "Active during day",
+          "Less than average"
+        ],
+        "answer": "Active at night"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which word fits 'a short, amusing story often used to illustrate a point'?",
+        "options": [
+          "Anecdote",
+          "Paragraph",
+          "Foreword"
+        ],
+        "answer": "Anecdote"
+      },
+      {
+        "question": "What word means 'the study of word origins and history'?",
+        "options": [
+          "Etymology",
+          "Phonology",
+          "Syntax"
+        ],
+        "answer": "Etymology"
+      },
+      {
+        "question": "Which term denotes 'a subtle variation in meaning or tone among related words'?",
+        "options": [
+          "Nuance",
+          "Glyph",
+          "Metric"
+        ],
+        "answer": "Nuance"
+      },
+      {
+        "question": "Which word matches 'an authoritative list of words with definitions'?",
+        "options": [
+          "Lexicon",
+          "Archive",
+          "Registry"
+        ],
+        "answer": "Lexicon"
+      },
+      {
+        "question": "What word means 'a belief accepted as authoritative without proof'?",
+        "options": [
+          "Dogma",
+          "Theory",
+          "Experiment"
+        ],
+        "answer": "Dogma"
+      },
+      {
+        "question": "Which word fits 'speech delivered without preparation'?",
+        "options": [
+          "Impromptu",
+          "Scripted",
+          "Rehearsed"
+        ],
+        "answer": "Impromptu"
+      },
+      {
+        "question": "What word matches 'a word formed from the initial letters of a phrase'?",
+        "options": [
+          "Acronym",
+          "Palindrome",
+          "Anagram"
+        ],
+        "answer": "Acronym"
+      },
+      {
+        "question": "Which term means 'a false belief resulting from incorrect reasoning'?",
+        "options": [
+          "Fallacy",
+          "Euphemism",
+          "Homonym"
+        ],
+        "answer": "Fallacy"
+      },
+      {
+        "question": "Which word means 'self-evident truth requiring no proof'?",
+        "options": [
+          "Axiom",
+          "Hypothesis",
+          "Conjecture"
+        ],
+        "answer": "Axiom"
+      },
+      {
+        "question": "Which word describes 'the practice of using fewer words to express an idea'?",
+        "options": [
+          "Conciseness",
+          "Ambiguity",
+          "Diffusion"
+        ],
+        "answer": "Conciseness"
+      },
+      {
+        "question": "Which term fits 'a mild or indirect word substituted for a harsher one'?",
+        "options": [
+          "Euphemism",
+          "Hyperbole",
+          "Proverb"
+        ],
+        "answer": "Euphemism"
+      },
+      {
+        "question": "Which word means 'a word that imitates the sound it describes'?",
+        "options": [
+          "Onomatopoeia",
+          "Oxymoron",
+          "Palindrome"
+        ],
+        "answer": "Onomatopoeia"
+      },
+      {
+        "question": "Which word fits 'a phrase or expression that has a figurative meaning'?",
+        "options": [
+          "Idiom",
+          "Literalism",
+          "Supplement"
+        ],
+        "answer": "Idiom"
+      },
+      {
+        "question": "Which term denotes 'a word spelled the same backwards and forwards'?",
+        "options": [
+          "Palindrome",
+          "Synonym",
+          "Homophone"
+        ],
+        "answer": "Palindrome"
+      },
+      {
+        "question": "Which word matches 'an expression used to praise someone lavishly'?",
+        "options": [
+          "Panegyric",
+          "Liturgy",
+          "Obituary"
+        ],
+        "answer": "Panegyric"
+      },
+      {
+        "question": "Which term means 'the practice of assigning human traits to nonhuman entities'?",
+        "options": [
+          "Personification",
+          "Alliteration",
+          "Metonymy"
+        ],
+        "answer": "Personification"
+      },
+      {
+        "question": "Which word fits 'a word that sounds like another but differs in meaning'?",
+        "options": [
+          "Homophone",
+          "Antonym",
+          "Synonym"
+        ],
+        "answer": "Homophone"
+      },
+      {
+        "question": "Which word describes 'a concise saying expressing a general truth'?",
+        "options": [
+          "Aphorism",
+          "Novel",
+          "Epic"
+        ],
+        "answer": "Aphorism"
+      },
+      {
+        "question": "Which term means 'an exaggerated statement not meant literally'?",
+        "options": [
+          "Hyperbole",
+          "Understatement",
+          "Literalism"
+        ],
+        "answer": "Hyperbole"
+      },
+      {
+        "question": "Which word fits 'a technical, specialized vocabulary used by a profession'?",
+        "options": [
+          "Jargon",
+          "Colloquialism",
+          "Slang"
+        ],
+        "answer": "Jargon"
+      },
+      {
+        "question": "Which word means 'a word or phrase that replaces another related term'?",
+        "options": [
+          "Metonymy",
+          "Oxymoron",
+          "Palindrome"
+        ],
+        "answer": "Metonymy"
+      },
+      {
+        "question": "Which term denotes 'a short phrase repeated at intervals in a poem or song'?",
+        "options": [
+          "Refrain",
+          "Greeting",
+          "Footnote"
+        ],
+        "answer": "Refrain"
+      },
+      {
+        "question": "Which word fits 'the quality of being brief and to the point in writing'?",
+        "options": [
+          "Brevity",
+          "Redundancy",
+          "Explication"
+        ],
+        "answer": "Brevity"
+      },
+      {
+        "question": "Which term means 'an expression that intentionally understates for effect'?",
+        "options": [
+          "Litotes",
+          "Eulogy",
+          "Diatribe"
+        ],
+        "answer": "Litotes"
+      },
+      {
+        "question": "Which word fits 'a false friend: a word that looks familiar but has different meaning'?",
+        "options": [
+          "False cognate",
+          "Homograph",
+          "Neologism"
+        ],
+        "answer": "False cognate"
+      },
+      {
+        "question": "Which term denotes 'the study of word sounds and pronunciation patterns'?",
+        "options": [
+          "Phonetics",
+          "Semantics",
+          "Morphology"
+        ],
+        "answer": "Phonetics"
+      },
+      {
+        "question": "Which word means 'an invented word or expression recently introduced'?",
+        "options": [
+          "Neologism",
+          "Archaism",
+          "Eponym"
+        ],
+        "answer": "Neologism"
+      },
+      {
+        "question": "Which term fits 'a word used to name something after a person'?",
+        "options": [
+          "Eponym",
+          "Homonym",
+          "Prologue"
+        ],
+        "answer": "Eponym"
+      },
+      {
+        "question": "Which word describes 'a word whose meaning has broadened over time'?",
+        "options": [
+          "Semantic broadening",
+          "Reduplication",
+          "Clipping"
+        ],
+        "answer": "Semantic broadening"
+      },
+      {
+        "question": "Which word means 'a shortened form of a longer word or phrase'?",
+        "options": [
+          "Clipping",
+          "Infixing",
+          "Elision"
+        ],
+        "answer": "Clipping"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which term denotes 'a word change where sounds are inserted into a word's form'?",
+        "options": [
+          "Epenthesis",
+          "Apocope",
+          "Tmesis"
+        ],
+        "answer": "Epenthesis"
+      },
+      {
+        "question": "Which technical term means 'the study of meaning in language and words'?",
+        "options": [
+          "Semantics",
+          "Orthography",
+          "Prosody"
+        ],
+        "answer": "Semantics"
+      },
+      {
+        "question": "Which term describes 'a word borrowed from another language without translation'?",
+        "options": [
+          "Loanword",
+          "Calque",
+          "Hybrid word"
+        ],
+        "answer": "Loanword"
+      },
+      {
+        "question": "Which term means 'a word formed by blending parts of two words'?",
+        "options": [
+          "Portmanteau",
+          "Back-formation",
+          "Tautology"
+        ],
+        "answer": "Portmanteau"
+      },
+      {
+        "question": "Which term denotes 'a word created by removing an affix from an existing word'?",
+        "options": [
+          "Back-formation",
+          "Derivation",
+          "Infixation"
+        ],
+        "answer": "Back-formation"
+      },
+      {
+        "question": "Which rare term means 'a word used only once in a text'?",
+        "options": [
+          "Hapax legomenon",
+          "Solecism",
+          "Palindrome"
+        ],
+        "answer": "Hapax legomenon"
+      },
+      {
+        "question": "Which concept describes 'a word's change in meaning due to social shifts'?",
+        "options": [
+          "Semantic shift",
+          "Morphological fusion",
+          "Phonemic split"
+        ],
+        "answer": "Semantic shift"
+      },
+      {
+        "question": "Which term denotes 'a word that has multiple related meanings'?",
+        "options": [
+          "Polysemy",
+          "Monosemy",
+          "Antonymy"
+        ],
+        "answer": "Polysemy"
+      },
+      {
+        "question": "Which linguistic device names 'a word coined from a proper noun'?",
+        "options": [
+          "Eponym",
+          "Collocation",
+          "Contronym"
+        ],
+        "answer": "Eponym"
+      },
+      {
+        "question": "Which term describes 'a word whose meaning is the opposite depending on context'?",
+        "options": [
+          "Contronym",
+          "Homograph",
+          "Syncretism"
+        ],
+        "answer": "Contronym"
+      },
+      {
+        "question": "Which technical word refers to 'the loss of a final sound in a word over time'?",
+        "options": [
+          "Apocope",
+          "Lenition",
+          "Metathesis"
+        ],
+        "answer": "Apocope"
+      },
+      {
+        "question": "Which process is 'the switching of adjacent sounds within a word'?",
+        "options": [
+          "Metathesis",
+          "Assimilation",
+          "Epenthesis"
+        ],
+        "answer": "Metathesis"
+      },
+      {
+        "question": "Which term means 'the assimilation of two words into one by sound change'?",
+        "options": [
+          "Contraction",
+          "Calque",
+          "Apheresis"
+        ],
+        "answer": "Contraction"
+      },
+      {
+        "question": "Which word denotes 'a literal translation of a phrase from another language'?",
+        "options": [
+          "Calque",
+          "Loanword",
+          "Portmanteau"
+        ],
+        "answer": "Calque"
+      },
+      {
+        "question": "Which rare term refers to 'a word formed by combining morphemes from different languages'?",
+        "options": [
+          "Hybrid word",
+          "Reduplication",
+          "Back-formation"
+        ],
+        "answer": "Hybrid word"
+      },
+      {
+        "question": "Which term names 'an older word revived and used again'?",
+        "options": [
+          "Archaism",
+          "Neologism",
+          "Euphemism"
+        ],
+        "answer": "Archaism"
+      },
+      {
+        "question": "Which linguistic term means 'the creation of a word from the sound it represents'?",
+        "options": [
+          "Onomatopoeia",
+          "Calque",
+          "Derivation"
+        ],
+        "answer": "Onomatopoeia"
+      },
+      {
+        "question": "Which word describes 'the process of combining parts of words to create abbreviations'?",
+        "options": [
+          "Acronymy",
+          "Affixation",
+          "Compounding"
+        ],
+        "answer": "Acronymy"
+      },
+      {
+        "question": "Which rare term refers to 'a word that imitates a pattern to create related words'?",
+        "options": [
+          "Reduplication",
+          "Apposition",
+          "Syllepsis"
+        ],
+        "answer": "Reduplication"
+      },
+      {
+        "question": "Which term denotes 'a word that loses its original force through overuse'?",
+        "options": [
+          "Bleaching",
+          "Fortification",
+          "Obliteration"
+        ],
+        "answer": "Bleaching"
+      },
+      {
+        "question": "Which concept refers to 'meaning change by association with another concept'?",
+        "options": [
+          "Metaphorical extension",
+          "Phonetic erosion",
+          "Orthographic drift"
+        ],
+        "answer": "Metaphorical extension"
+      },
+      {
+        "question": "Which term describes 'the tendency of a word to take on taboo-related euphemisms'?",
+        "options": [
+          "Euphemism treadmill",
+          "Semantic narrowing",
+          "Back-formation"
+        ],
+        "answer": "Euphemism treadmill"
+      },
+      {
+        "question": "Which technical term means 'creation of a word by clipping and then adding an affix'?",
+        "options": [
+          "Clipping plus affixation",
+          "Reduplication",
+          "Transposition"
+        ],
+        "answer": "Clipping plus affixation"
+      },
+      {
+        "question": "Which word denotes 'a lexical item specific to a particular region or group'?",
+        "options": [
+          "Dialectism",
+          "Universalism",
+          "Panword"
+        ],
+        "answer": "Dialectism"
+      },
+      {
+        "question": "Which term refers to 'a word whose meaning narrows over time to a specific sense'?",
+        "options": [
+          "Semantic narrowing",
+          "Semantic broadening",
+          "Etymological fallacy"
+        ],
+        "answer": "Semantic narrowing"
+      },
+      {
+        "question": "Which linguistic term denotes 'the creation of a word by combining full words rather than parts'?",
+        "options": [
+          "Compound word",
+          "Blend",
+          "Clipping"
+        ],
+        "answer": "Compound word"
+      },
+      {
+        "question": "Which term describes 'a word that triggers a culturally sensitive reaction and is then altered'?",
+        "options": [
+          "Dysphemism avoidance",
+          "Etymological inversion",
+          "Morphological reanalysis"
+        ],
+        "answer": "Dysphemism avoidance"
+      },
+      {
+        "question": "Which specialized term names 'a word borrowed but adapted to the donor language's sounds'?",
+        "options": [
+          "Nativized loanword",
+          "Calque",
+          "Exonym"
+        ],
+        "answer": "Nativized loanword"
+      },
+      {
+        "question": "Which concept describes 'meaning change by metaphor linking a concrete image to an abstract idea'?",
+        "options": [
+          "Conceptual metaphor",
+          "Phonological awareness",
+          "Orthographic reform"
+        ],
+        "answer": "Conceptual metaphor"
+      },
+      {
+        "question": "Which term denotes 'reanalysis of a word's morphological makeup leading to new forms'?",
+        "options": [
+          "Morphological reanalysis",
+          "Prosodic shift",
+          "Syntactic collapse"
+        ],
+        "answer": "Morphological reanalysis"
+      },
+      {
+        "question": "Which obscure term refers to 'a mistaken belief about a word's origin'?",
+        "options": [
+          "Folk etymology",
+          "Prescriptive error",
+          "Orthographic myth"
+        ],
+        "answer": "Folk etymology"
+      }
+    ]
+  }
+}

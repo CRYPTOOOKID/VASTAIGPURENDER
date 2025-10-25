@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What was the main demand of the Swadeshi Movement beginning in 1905?",
+      "options": [
+        "Boycott of British goods",
+        "Universal franchise",
+        "Land reforms"
+      ],
+      "answer": "Boycott of British goods"
+    },
+    {
+      "question_id": 2,
+      "question": "Which year marks the signing of the Treaty of Seringapatam that ended the Third Anglo-Mysore War?",
+      "options": [
+        "1792",
+        "1800",
+        "1780"
+      ],
+      "answer": "1792"
+    },
+    {
+      "question_id": 3,
+      "question": "Which leader founded the Servants of India Society in 1905 to promote social reform and education?",
+      "options": [
+        "Annie Besant",
+        "Gopal Krishna Gokhale",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Gopal Krishna Gokhale"
+    },
+    {
+      "question_id": 4,
+      "question": "In which year was the Indian National Congress founded?",
+      "options": [
+        "1905",
+        "1885",
+        "1920"
+      ],
+      "answer": "1885"
+    },
+    {
+      "question_id": 5,
+      "question": "Which battle in 1764 established British dominance after victory over the Nawab of Bengal?",
+      "options": [
+        "Battle of Wandiwash",
+        "Battle of Plassey",
+        "Battle of Buxar"
+      ],
+      "answer": "Battle of Buxar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which reformer campaigned for widow remarriage and female education in 19th century Bengal?",
+      "options": [
+        "Jyotirao Phule",
+        "Ishwar Chandra Vidyasagar",
+        "Raja Ram Mohan Roy"
+      ],
+      "answer": "Ishwar Chandra Vidyasagar"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movement did Mahatma Gandhi call off after the Chauri Chaura violence in 1922?",
+      "options": [
+        "Quit India Movement",
+        "Civil Disobedience Movement",
+        "Non-Cooperation Movement"
+      ],
+      "answer": "Non-Cooperation Movement"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian regiment famously rebelled in Kanpur during the 1857 uprising under Nana Sahib?",
+      "options": [
+        "Madras Native Infantry",
+        "Bihar Regiment",
+        "Bengal Native Infantry"
+      ],
+      "answer": "Bengal Native Infantry"
+    },
+    {
+      "question_id": 9,
+      "question": "Which commission's recommendations in 1902 led to the Morley-Minto reforms and inclusion of Indians in governance?",
+      "options": [
+        "Durand Commission",
+        "Royal Commission on Indian Affairs",
+        "Royal Commission on Indian Expenditure"
+      ],
+      "answer": "Royal Commission on Indian Expenditure"
+    },
+    {
+      "question_id": 10,
+      "question": "Who founded the Indian National Congress along with Indian leaders in 1885?",
+      "options": [
+        "Dadabhai Naoroji",
+        "Allan Octavian Hume",
+        "Surendranath Banerjee"
+      ],
+      "answer": "Allan Octavian Hume"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian reformer founded the Brahmo Samaj in 1828 promoting monotheism and social reform?",
+      "options": [
+        "Raja Ram Mohan Roy",
+        "Dayananda Saraswati",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movement combined the Khilafat agitation and non-cooperation under Gandhi's leadership around 1920?",
+      "options": [
+        "Bande Mataram Movement",
+        "Khilaafat-NonCooperation alliance",
+        "Home Rule Movement"
+      ],
+      "answer": "Khilaafat-NonCooperation alliance"
+    },
+    {
+      "question_id": 13,
+      "question": "Which battle in 1526 marked the beginning of Mughal rule in India?",
+      "options": [
+        "Battle of Buxar",
+        "Battle of Talikota",
+        "First Battle of Panipat"
+      ],
+      "answer": "First Battle of Panipat"
+    },
+    {
+      "question_id": 14,
+      "question": "Who chaired the committee that produced the Montagu-Chelmsford Reforms leading to the Government of India Act 1919?",
+      "options": [
+        "Lord Chelmsford and Edwin Montagu",
+        "Lord Ripon and Lord Curzon",
+        "Lord Curzon and Viceroy Hardinge"
+      ],
+      "answer": "Lord Chelmsford and Edwin Montagu"
+    },
+    {
+      "question_id": 15,
+      "question": "Which leader negotiated the Poona Pact with Ambedkar in 1932 regarding representation for depressed classes?",
+      "options": [
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Mahatma Gandhi"
+    }
+  ]
+}

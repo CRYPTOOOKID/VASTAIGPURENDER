@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does the calories value on a food label represent?",
+      "options": [
+        "Recommended daily energy intake",
+        "Energy per serving listed on the label",
+        "Amount of vitamins in the food"
+      ],
+      "answer": "Energy per serving listed on the label"
+    },
+    {
+      "question_id": 2,
+      "question": "Which dietary component commonly lowers energy density and increases fullness?",
+      "options": [
+        "Saturated fat",
+        "Refined sugar",
+        "Water content and fiber"
+      ],
+      "answer": "Water content and fiber"
+    },
+    {
+      "question_id": 3,
+      "question": "Which label concept quantifies nutrient per 100 grams to compare energy density across foods?",
+      "options": [
+        "Daily value per serving",
+        "Calories per 100 grams",
+        "Glycemic index per unit"
+      ],
+      "answer": "Calories per 100 grams"
+    },
+    {
+      "question_id": 4,
+      "question": "Which snack choice is more likely to be nutrient dense?",
+      "options": [
+        "Soda",
+        "Greek yogurt with berries",
+        "Plain candy bar"
+      ],
+      "answer": "Greek yogurt with berries"
+    },
+    {
+      "question_id": 5,
+      "question": "Which component of energy expenditure is most variable day to day?",
+      "options": [
+        "Physical activity energy expenditure",
+        "Thermic effect of food",
+        "Basal metabolic rate"
+      ],
+      "answer": "Physical activity energy expenditure"
+    },
+    {
+      "question_id": 6,
+      "question": "Which biochemical process explains calories lost as urea when protein is oxidized?",
+      "options": [
+        "Fatty acid synthesis",
+        "Deamination of amino acids",
+        "Glycolysis"
+      ],
+      "answer": "Deamination of amino acids"
+    },
+    {
+      "question_id": 7,
+      "question": "Which food label term indicates the amount of a vitamin or mineral?",
+      "options": [
+        "Calories",
+        "Percent Daily Value",
+        "Fat grams"
+      ],
+      "answer": "Percent Daily Value"
+    },
+    {
+      "question_id": 8,
+      "question": "Which practice most reliably reduces caloric intake without losing nutrients?",
+      "options": [
+        "Swapping energy-dense foods for lower-calorie, nutrient-dense options",
+        "Replacing meals with sugary snacks",
+        "Skipping vegetables and eating only fruit"
+      ],
+      "answer": "Swapping energy-dense foods for lower-calorie, nutrient-dense options"
+    },
+    {
+      "question_id": 9,
+      "question": "Which organ’s activity accounts for a large portion of resting energy expenditure per mass?",
+      "options": [
+        "Brain",
+        "Skin",
+        "Appendix"
+      ],
+      "answer": "Brain"
+    },
+    {
+      "question_id": 10,
+      "question": "Which label entry gives the amount of energy a food provides?",
+      "options": [
+        "Sodium content",
+        "Cholesterol",
+        "Calories"
+      ],
+      "answer": "Calories"
+    },
+    {
+      "question_id": 11,
+      "question": "What is non-exercise activity thermogenesis (NEAT)?",
+      "options": [
+        "Energy from everyday non-exercise movements",
+        "Energy stored as glycogen",
+        "Calories burned only during formal workouts"
+      ],
+      "answer": "Energy from everyday non-exercise movements"
+    },
+    {
+      "question_id": 12,
+      "question": "Which precise reason explains why two foods with equal calories produce different weight outcomes?",
+      "options": [
+        "Only packaging influences weight",
+        "Calories are inherently identical biologically",
+        "Differences in digestion, thermogenesis, and hormonal response"
+      ],
+      "answer": "Differences in digestion, thermogenesis, and hormonal response"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient contains about 4 kilocalories per gram?",
+      "options": [
+        "Fat",
+        "Alcohol",
+        "Carbohydrate"
+      ],
+      "answer": "Carbohydrate"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nutrient label change emphasized realistic portion sizes in recent updates?",
+      "options": [
+        "Serving sizes updated to reflect actual consumption",
+        "Daily values switched to grams only",
+        "Calories removed from top of label"
+      ],
+      "answer": "Serving sizes updated to reflect actual consumption"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare situation leads to negative metabolizable energy when foods increase excreta energy markedly?",
+      "options": [
+        "High intake of nonabsorbable compounds causing increased fecal losses",
+        "Eating only refined sugars",
+        "Drinking water only"
+      ],
+      "answer": "High intake of nonabsorbable compounds causing increased fecal losses"
+    }
+  ]
+}

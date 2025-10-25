@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a common reason businesses use FX hedging?",
+      "options": [
+        "To avoid paying taxes",
+        "To reduce risk from exchange rate fluctuations",
+        "To increase exposure to currency swings"
+      ],
+      "answer": "To reduce risk from exchange rate fluctuations"
+    },
+    {
+      "question_id": 2,
+      "question": "Which market metric shows daily liquidity and tightness in FX trading?",
+      "options": [
+        "Unemployment rate",
+        "GDP per capita",
+        "Bid-ask spread"
+      ],
+      "answer": "Bid-ask spread"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced phenomenon describes appreciation pressure following large capital inflows?",
+      "options": [
+        "Permanent elimination of inflation",
+        "Dutch disease style real appreciation",
+        "Immediate increase in exports only"
+      ],
+      "answer": "Dutch disease style real appreciation"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a 'currency intervention'?",
+      "options": [
+        "A bank's marketing campaign for forex services",
+        "Central bank actions to influence exchange rates",
+        "A financial audit of currency reserves"
+      ],
+      "answer": "Central bank actions to influence exchange rates"
+    },
+    {
+      "question_id": 5,
+      "question": "What role does the balance of payments play for exchange rates?",
+      "options": [
+        "Tracks consumer sentiment only",
+        "Measures unemployment impact on money supply",
+        "Records transactions that affect currency supply and demand"
+      ],
+      "answer": "Records transactions that affect currency supply and demand"
+    },
+    {
+      "question_id": 6,
+      "question": "What was the main mechanism of contagion during the 1997 Asian crisis affecting exchange rates?",
+      "options": [
+        "Sudden stop of capital flows and forced currency sales across markets",
+        "Coordinated appreciation by central banks",
+        "Global trade embargoes"
+      ],
+      "answer": "Sudden stop of capital flows and forced currency sales across markets"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a currency pair's base currency?",
+      "options": [
+        "The first currency listed in the pair",
+        "The second currency listed in the pair",
+        "The currency with higher value"
+      ],
+      "answer": "The first currency listed in the pair"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistic indicates expected real returns adjusted for inflation in FX terms?",
+      "options": [
+        "Money supply growth rate",
+        "Gross domestic product",
+        "Real interest rate differential"
+      ],
+      "answer": "Real interest rate differential"
+    },
+    {
+      "question_id": 9,
+      "question": "What does 'sterilized intervention' fail to change in theory if UIP holds perfectly?",
+      "options": [
+        "The spot exchange rate permanently",
+        "Fiscal balances immediately",
+        "The long-run exchange rate since monetary base is unchanged"
+      ],
+      "answer": "The long-run exchange rate since monetary base is unchanged"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a 'peg' in currency policy?",
+      "options": [
+        "Banning foreign exchange trading",
+        "Allowing free market float",
+        "Linking a currency's value to another currency or asset"
+      ],
+      "answer": "Linking a currency's value to another currency or asset"
+    },
+    {
+      "question_id": 11,
+      "question": "Which economist is associated with the interest rate parity concept?",
+      "options": [
+        "Milton Friedman",
+        "John Maynard Keynes",
+        "No single founder; it's a core financial arbitrage principle"
+      ],
+      "answer": "No single founder; it's a core financial arbitrage principle"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced modeling approach captures time-varying risk premia in FX returns?",
+      "options": [
+        "Static linear regression without dynamics",
+        "Simple moving averages only",
+        "State-space models with stochastic volatility"
+      ],
+      "answer": "State-space models with stochastic volatility"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'nominal exchange rate' refer to?",
+      "options": [
+        "Theoretical rate in economic models only",
+        "Exchange rate adjusted for price differences",
+        "Observed market exchange rate without inflation adjustment"
+      ],
+      "answer": "Observed market exchange rate without inflation adjustment"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's exit from a monetary arrangement is called 'devaluation' when rate is lowered?",
+      "options": [
+        "Only developing countries",
+        "Only European Union members",
+        "Any country that reduces its currency's peg value"
+      ],
+      "answer": "Any country that reduces its currency's peg value"
+    },
+    {
+      "question_id": 15,
+      "question": "How do transaction costs influence covered interest parity deviations?",
+      "options": [
+        "They reverse the direction of parity",
+        "They explain small consistent deviations because arbitrage is costly",
+        "They eliminate all deviations entirely"
+      ],
+      "answer": "They explain small consistent deviations because arbitrage is costly"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a divestiture?",
+      "options": [
+        "Company sells off a business unit",
+        "Company acquires a new competitor",
+        "Company issues new shares"
+      ],
+      "answer": "Company sells off a business unit"
+    },
+    {
+      "question_id": 2,
+      "question": "Vodafone's 2000 takeover famously acquired which company?",
+      "options": [
+        "Mannesmann",
+        "AOL",
+        "Time Warner"
+      ],
+      "answer": "Mannesmann"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the primary accounting task called after closing a business combination?",
+      "options": [
+        "Purchase price allocation (PPA)",
+        "Dividend recapitalization",
+        "Merger arbitrage"
+      ],
+      "answer": "Purchase price allocation (PPA)"
+    },
+    {
+      "question_id": 4,
+      "question": "What is closing in M&A?",
+      "options": [
+        "Completion of the transaction",
+        "Initial offer announcement",
+        "First negotiation meeting"
+      ],
+      "answer": "Completion of the transaction"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes acquiring a company by buying its majority shares?",
+      "options": [
+        "Stock acquisition",
+        "Asset carve-out",
+        "Management buyout"
+      ],
+      "answer": "Stock acquisition"
+    },
+    {
+      "question_id": 6,
+      "question": "What is rollover equity in an MBO or private equity deal?",
+      "options": [
+        "Sellers reinvest a portion of proceeds as equity in the new company",
+        "Equity issued to customers as a loyalty program",
+        "Mandatory dividend paid before closing"
+      ],
+      "answer": "Sellers reinvest a portion of proceeds as equity in the new company"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a leveraged buyout (LBO)?",
+      "options": [
+        "Purchase mainly financed with debt",
+        "Stock swap between competitors",
+        "Government-funded takeover"
+      ],
+      "answer": "Purchase mainly financed with debt"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proposed 2011 telecom acquisition by AT&T was abandoned due to regulatory pushback?",
+      "options": [
+        "T-Mobile USA",
+        "Sprint",
+        "Verizon Wireless"
+      ],
+      "answer": "T-Mobile USA"
+    },
+    {
+      "question_id": 9,
+      "question": "Which accounting standard governs business combinations under IFRS?",
+      "options": [
+        "IFRS 3",
+        "IFRS 9",
+        "IAS 12"
+      ],
+      "answer": "IFRS 3"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a material adverse change clause?",
+      "options": [
+        "Provision allowing withdrawal if large negative events occur",
+        "Clause increasing purchase price automatically",
+        "Term guaranteeing employee benefits"
+      ],
+      "answer": "Provision allowing withdrawal if large negative events occur"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company did Disney acquire in 2006 to boost animation capabilities?",
+      "options": [
+        "Pixar",
+        "DreamWorks",
+        "Studio Ghibli"
+      ],
+      "answer": "Pixar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which risk is central to merger arbitrage strategies?",
+      "options": [
+        "Deal failure or regulatory intervention before closing",
+        "Employee turnover only after five years",
+        "Inflation causing immediate re-pricing daily"
+      ],
+      "answer": "Deal failure or regulatory intervention before closing"
+    },
+    {
+      "question_id": 13,
+      "question": "What is synergy in acquisitions?",
+      "options": [
+        "Combined firm value greater than the sum",
+        "Legal penalty for a merger",
+        "Purchase price discount"
+      ],
+      "answer": "Combined firm value greater than the sum"
+    },
+    {
+      "question_id": 14,
+      "question": "What is merger arbitrage investing?",
+      "options": [
+        "Buying target shares and shorting acquirer to profit from spread",
+        "Lending money to fund acquisitions",
+        "Advising on legal compliance"
+      ],
+      "answer": "Buying target shares and shorting acquirer to profit from spread"
+    },
+    {
+      "question_id": 15,
+      "question": "Which post-closing adjustment period permits valuation updates under many standards?",
+      "options": [
+        "Measurement period under IFRS/GAAP",
+        "Statutory audit period",
+        "Tax reassessment window"
+      ],
+      "answer": "Measurement period under IFRS/GAAP"
+    }
+  ]
+}

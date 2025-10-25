@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which global organization regularly publishes population estimates and projections?",
+      "options": [
+        "United Nations",
+        "World Trade Organization",
+        "International Monetary Fund"
+      ],
+      "answer": "United Nations"
+    },
+    {
+      "question_id": 2,
+      "question": "What does 'population momentum' refer to?",
+      "options": [
+        "Continued growth after fertility fall due to age structure",
+        "Immediate population collapse",
+        "Instantaneous doubling of population"
+      ],
+      "answer": "Continued growth after fertility fall due to age structure"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did the UN first publish its World Population Prospects reports regularly?",
+      "options": [
+        "1951",
+        "1948",
+        "1964"
+      ],
+      "answer": "1951"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country is known for having a high population density city like Tokyo?",
+      "options": [
+        "Japan",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 5,
+      "question": "Which measure is commonly used to compare mortality across countries independent of age structure?",
+      "options": [
+        "Age-standardized mortality rate",
+        "Crude death rate",
+        "Life expectancy"
+      ],
+      "answer": "Age-standardized mortality rate"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country’s postwar baby boom created a large cohort that influenced labor markets for decades?",
+      "options": [
+        "United States",
+        "Nepal",
+        "Mongolia"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a population pyramid used to show?",
+      "options": [
+        "Age and sex structure",
+        "GDP growth",
+        "Life expectancy trends"
+      ],
+      "answer": "Age and sex structure"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'crude migration rate' measured as?",
+      "options": [
+        "Net migrants per 1,000 population",
+        "Births per 1,000 population",
+        "Deaths per 1,000 population"
+      ],
+      "answer": "Net migrants per 1,000 population"
+    },
+    {
+      "question_id": 9,
+      "question": "Which demographic concept quantifies births required to maintain a stable population given current mortality and sex ratios?",
+      "options": [
+        "Net reproduction rate",
+        "Crude birth rate",
+        "Gross reproduction rate"
+      ],
+      "answer": "Net reproduction rate"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country has the largest national population today?",
+      "options": [
+        "China",
+        "India",
+        "United States"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 11,
+      "question": "Which measurement adjusts crude rates to a standard age distribution for comparisons?",
+      "options": [
+        "Age-standardized rate",
+        "Median age",
+        "Crude rate"
+      ],
+      "answer": "Age-standardized rate"
+    },
+    {
+      "question_id": 12,
+      "question": "Which region’s population is projected to double by 2100 under medium UN projections?",
+      "options": [
+        "Sub-Saharan Africa",
+        "North America",
+        "Europe"
+      ],
+      "answer": "Sub-Saharan Africa"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statistic gauges average lifespan at birth in a population?",
+      "options": [
+        "Life expectancy",
+        "Median age",
+        "Crude death rate"
+      ],
+      "answer": "Life expectancy"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country experienced a demographic dividend due to falling fertility and growing workforce?",
+      "options": [
+        "South Korea",
+        "Haiti",
+        "Papua New Guinea"
+      ],
+      "answer": "South Korea"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country’s 1950s population policy is a classic case study of coercive family planning measures?",
+      "options": [
+        "China",
+        "India",
+        "Sweden"
+      ],
+      "answer": "China"
+    }
+  ]
+}

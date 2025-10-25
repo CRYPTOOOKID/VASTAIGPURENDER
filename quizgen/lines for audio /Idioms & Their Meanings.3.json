@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"jump on the bandwagon\" mean socially?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom best replaces \"to fully trust someone's intentions\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom most clearly functions as a hyperbole to emphasize difficulty?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"saved by the bell\" commonly mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom best fits negotiating when both sides compromise?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom shows avoidance by indirect speech, a politeness strategy?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"the ball is in your court\" mean?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom means \"to give up a position or status voluntarily\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom exemplifies antonomasia when a proper name replaces a general concept?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"break the ice\" mean in social contexts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom suggests \"be cautious with words to avoid offense\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom demonstrates prolepsis by mentioning outcome before process completion?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"bite the bullet\" mean when used conversationally?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom signals \"someone showing false friendliness for gain\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom shows ironic understatement (litotes) in everyday speech?"
+    }
+  ]
+}

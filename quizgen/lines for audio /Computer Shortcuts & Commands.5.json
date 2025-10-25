@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which single keypress typically opens the Start menu on a Windows PC?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Windows shortcut toggles between showing the desktop and restoring open windows quickly?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Windows tool remaps keyboard shortcuts system-wide in modern Windows versions as an official Microsoft utility?"
+    },
+    {
+      "question_id": 4,
+      "question": "On macOS Safari and many mac browsers, which shortcut focuses the address bar for quick typing?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Linux/Unix command prevents a process from being terminated when the shell exits?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which key sequence in Vim returns the cursor to the position before the last jump, using normal-mode commands?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which shortcut closes the current window or application window on Windows platforms?"
+    },
+    {
+      "question_id": 8,
+      "question": "In most command-line shells, which key combination sends an end-of-file (EOF) to the terminal session?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which POSIX signal does the terminal send to a foreground process when the user presses Ctrl+C?"
+    },
+    {
+      "question_id": 10,
+      "question": "On macOS, which keyboard shortcut copies the currently selected text, files, or items to the clipboard?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Ubuntu desktop shortcut commonly opens a new terminal window by default?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which command makes a script file executable by the current user on Unix-like systems?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which key cancels or closes many dialogs and stops ongoing operations in GUI applications?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which terminal keybinding starts an interactive reverse search through command history in Bash?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which environment variable commonly defines the default text editor used by many CLI tools and git?"
+    }
+  ]
+}

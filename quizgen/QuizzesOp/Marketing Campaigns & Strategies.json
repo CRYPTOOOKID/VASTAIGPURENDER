@@ -1,0 +1,973 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is a marketing campaign primarily designed to achieve?",
+        "options": [
+          "Increase brand awareness or drive customer action",
+          "Reduce manufacturing costs",
+          "Improve internal team structure"
+        ],
+        "answer": "Increase brand awareness or drive customer action"
+      },
+      {
+        "question": "Which metric measures how many people click an ad divided by impressions?",
+        "options": [
+          "Click-through rate (CTR)",
+          "Customer lifetime value (CLV)",
+          "Return on ad spend (ROAS)"
+        ],
+        "answer": "Click-through rate (CTR)"
+      },
+      {
+        "question": "What does 'target audience' refer to in campaign planning?",
+        "options": [
+          "The specific group of customers a campaign aims to reach",
+          "The company stakeholders funding the campaign",
+          "All internet users globally"
+        ],
+        "answer": "The specific group of customers a campaign aims to reach"
+      },
+      {
+        "question": "Which channel is considered 'paid' media in marketing?",
+        "options": [
+          "Display advertising bought on platforms",
+          "Company blog content",
+          "Organic social posts"
+        ],
+        "answer": "Display advertising bought on platforms"
+      },
+      {
+        "question": "What is a 'call to action' (CTA) in an ad?",
+        "options": [
+          "A phrase prompting the audience to take a specific action",
+          "The design template used for the ad",
+          "The legal disclaimer at the bottom of an ad"
+        ],
+        "answer": "A phrase prompting the audience to take a specific action"
+      },
+      {
+        "question": "Which basic tool maps stages from awareness to purchase?",
+        "options": [
+          "Marketing funnel",
+          "Financial forecast",
+          "Organizational chart"
+        ],
+        "answer": "Marketing funnel"
+      },
+      {
+        "question": "What does 'brand positioning' describe?",
+        "options": [
+          "How a brand is perceived relative to competitors",
+          "The physical store layout",
+          "Employee roles and responsibilities"
+        ],
+        "answer": "How a brand is perceived relative to competitors"
+      },
+      {
+        "question": "Which simple A/B test compares two versions of an email subject line?",
+        "options": [
+          "Split testing",
+          "Market segmentation",
+          "Sentiment analysis"
+        ],
+        "answer": "Split testing"
+      },
+      {
+        "question": "What is the typical purpose of a landing page in a campaign?",
+        "options": [
+          "Convert visitors by focusing on one offer",
+          "Provide annual company financials",
+          "Host the company internal wiki"
+        ],
+        "answer": "Convert visitors by focusing on one offer"
+      },
+      {
+        "question": "Which metric indicates the cost to reach one thousand impressions?",
+        "options": [
+          "CPM (cost per mille)",
+          "CPL (cost per lead)",
+          "CPA (cost per acquisition)"
+        ],
+        "answer": "CPM (cost per mille)"
+      },
+      {
+        "question": "What is ‘brand awareness’ in simple terms?",
+        "options": [
+          "How many people recognize or recall the brand",
+          "How many products are in stock",
+          "How quickly a website loads"
+        ],
+        "answer": "How many people recognize or recall the brand"
+      },
+      {
+        "question": "Which social campaign technique encourages users to create and share content?",
+        "options": [
+          "User-generated content campaign",
+          "Direct mail campaign",
+          "Internal training campaign"
+        ],
+        "answer": "User-generated content campaign"
+      },
+      {
+        "question": "What role does segmentation play in campaign strategy?",
+        "options": [
+          "Divides audience into groups for tailored messaging",
+          "Schedules campaign launch dates",
+          "Sets advertising budgets automatically"
+        ],
+        "answer": "Divides audience into groups for tailored messaging"
+      },
+      {
+        "question": "What is a key characteristic of integrated marketing communications?",
+        "options": [
+          "Consistent messaging across channels",
+          "Randomized promotional offers",
+          "Exclusive reliance on print media"
+        ],
+        "answer": "Consistent messaging across channels"
+      },
+      {
+        "question": "Which common campaign objective focuses on getting a sale or signup?",
+        "options": [
+          "Conversion",
+          "Brand research",
+          "Employee recruitment"
+        ],
+        "answer": "Conversion"
+      },
+      {
+        "question": "What does 'segmentation by demographics' commonly use?",
+        "options": [
+          "Age, gender, income and education",
+          "Browser type and cache size",
+          "Employee job titles"
+        ],
+        "answer": "Age, gender, income and education"
+      },
+      {
+        "question": "Which creative element captures attention first in most ads?",
+        "options": [
+          "Headline or visual",
+          "Legal footer",
+          "Internal project code"
+        ],
+        "answer": "Headline or visual"
+      },
+      {
+        "question": "What is remarketing (retargeting) used for?",
+        "options": [
+          "Re-engage users who previously visited a site",
+          "Hire new marketing staff",
+          "Generate quarterly tax filings"
+        ],
+        "answer": "Re-engage users who previously visited a site"
+      },
+      {
+        "question": "Which basic KPI shows average revenue per customer over time?",
+        "options": [
+          "Customer lifetime value (CLV)",
+          "Bounce rate",
+          "Pageviews"
+        ],
+        "answer": "Customer lifetime value (CLV)"
+      },
+      {
+        "question": "What is the simplest definition of 'creative brief'?",
+        "options": [
+          "A short document outlining campaign goals and audience",
+          "A legal contract with the creative agency",
+          "A technical specification for website coding"
+        ],
+        "answer": "A short document outlining campaign goals and audience"
+      },
+      {
+        "question": "Which basic advertising format is native to a platform and matches its look?",
+        "options": [
+          "Native advertising",
+          "Billboard advertising",
+          "Telemarketing"
+        ],
+        "answer": "Native advertising"
+      },
+      {
+        "question": "What does ROI stand for in marketing?",
+        "options": [
+          "Return on investment",
+          "Rate of impressions",
+          "Regulatory oversight index"
+        ],
+        "answer": "Return on investment"
+      },
+      {
+        "question": "Which channel is typically strongest for highly visual product campaigns?",
+        "options": [
+          "Social media platforms like Instagram",
+          "Plain text email",
+          "Telephone cold calls"
+        ],
+        "answer": "Social media platforms like Instagram"
+      },
+      {
+        "question": "What is the first step in planning a marketing campaign?",
+        "options": [
+          "Define objectives and target audience",
+          "Hire a creative agency immediately",
+          "Launch ads to test interest"
+        ],
+        "answer": "Define objectives and target audience"
+      },
+      {
+        "question": "Which type of content helps build long-term organic traffic?",
+        "options": [
+          "Educational blog posts and guides",
+          "Expensive one-off video stunts",
+          "Internal policy documents"
+        ],
+        "answer": "Educational blog posts and guides"
+      },
+      {
+        "question": "What is A/B testing primarily used to determine?",
+        "options": [
+          "Which version performs better with audiences",
+          "The legal ownership of creative assets",
+          "Employee satisfaction levels"
+        ],
+        "answer": "Which version performs better with audiences"
+      },
+      {
+        "question": "Which concept describes tailoring messages to individual customer needs?",
+        "options": [
+          "Personalization",
+          "Outsourcing",
+          "Batch processing"
+        ],
+        "answer": "Personalization"
+      },
+      {
+        "question": "What is an example of earned media?",
+        "options": [
+          "A journalist covering a product launch",
+          "A paid banner ad",
+          "A company-owned product page"
+        ],
+        "answer": "A journalist covering a product launch"
+      },
+      {
+        "question": "Which scheduling technique spreads ad impressions evenly over time?",
+        "options": [
+          "Flighting or pacing",
+          "Immediate bankruptcy",
+          "Cross-validation"
+        ],
+        "answer": "Flighting or pacing"
+      },
+      {
+        "question": "What does 'CTR' help marketers evaluate?",
+        "options": [
+          "Ad relevance and engagement",
+          "Employee turnover",
+          "Wholesale supplier reliability"
+        ],
+        "answer": "Ad relevance and engagement"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which famous campaign launched Nike's 'Just Do It' slogan into mainstream awareness?",
+        "options": [
+          "1988 national ad campaign",
+          "1998 athlete endorsement program",
+          "2008 social media challenge"
+        ],
+        "answer": "1988 national ad campaign"
+      },
+      {
+        "question": "What does 'share of voice' measure in competitive marketing?",
+        "options": [
+          "Brand's advertising presence relative to competitors",
+          "Shareholder communication frequency",
+          "Internal meeting participation rate"
+        ],
+        "answer": "Brand's advertising presence relative to competitors"
+      },
+      {
+        "question": "Which attribution model gives all credit to the first touchpoint?",
+        "options": [
+          "First-touch attribution",
+          "Last-click attribution",
+          "Linear attribution"
+        ],
+        "answer": "First-touch attribution"
+      },
+      {
+        "question": "Which viral campaign used user videos to raise ALS awareness in 2014?",
+        "options": [
+          "Ice Bucket Challenge",
+          "Red Bull Stratos",
+          "Old Spice Response"
+        ],
+        "answer": "Ice Bucket Challenge"
+      },
+      {
+        "question": "Which metric helps marketers evaluate email list engagement over time?",
+        "options": [
+          "Open rate and click rate trends",
+          "Manufacturing defect rate",
+          "Server uptime percentage"
+        ],
+        "answer": "Open rate and click rate trends"
+      },
+      {
+        "question": "What is the primary benefit of persona development in campaigns?",
+        "options": [
+          "Creates realistic audience archetypes for targeted messaging",
+          "Reduces product manufacturing time",
+          "Improves payroll accuracy"
+        ],
+        "answer": "Creates realistic audience archetypes for targeted messaging"
+      },
+      {
+        "question": "Which channel mix principle balances reach and frequency effectively?",
+        "options": [
+          "Using multiple channels for repeated exposure",
+          "Relying solely on one high-frequency channel",
+          "Cutting budget to avoid frequency"
+        ],
+        "answer": "Using multiple channels for repeated exposure"
+      },
+      {
+        "question": "Which famous ad introduced Apple during the 1984 Super Bowl?",
+        "options": [
+          "Apple '1984' commercial",
+          "Apple 'Think Different' ad",
+          "Apple 'Get a Mac' spot"
+        ],
+        "answer": "Apple '1984' commercial"
+      },
+      {
+        "question": "What does 'lookalike audience' targeting use?",
+        "options": [
+          "Data from existing customers to find similar prospects",
+          "Random sampling of website visitors",
+          "Manual phone surveys"
+        ],
+        "answer": "Data from existing customers to find similar prospects"
+      },
+      {
+        "question": "Which paid media pricing model charges per completed action?",
+        "options": [
+          "CPA (cost per acquisition)",
+          "CPM (cost per mille)",
+          "CPV (cost per view)"
+        ],
+        "answer": "CPA (cost per acquisition)"
+      },
+      {
+        "question": "What is a key advantage of programmatic advertising?",
+        "options": [
+          "Automated real-time media buying and targeting",
+          "Guaranteed manual placement in newspapers",
+          "Fixed long-term TV ad rates"
+        ],
+        "answer": "Automated real-time media buying and targeting"
+      },
+      {
+        "question": "Which KPI is most relevant for brand awareness campaigns?",
+        "options": [
+          "Impressions and reach",
+          "Checkout conversion rate",
+          "Call center average handle time"
+        ],
+        "answer": "Impressions and reach"
+      },
+      {
+        "question": "What does 'brand lift study' typically measure?",
+        "options": [
+          "Impact of advertising on brand metrics like awareness",
+          "Number of products manufactured",
+          "Employee brand advocacy scores"
+        ],
+        "answer": "Impact of advertising on brand metrics like awareness"
+      },
+      {
+        "question": "Which segmentation approach groups customers by purchase behavior?",
+        "options": [
+          "Behavioral segmentation",
+          "Geographic segmentation",
+          "Organizational segmentation"
+        ],
+        "answer": "Behavioral segmentation"
+      },
+      {
+        "question": "Which technique reduces wasted ad spend by excluding uninterested audiences?",
+        "options": [
+          "Negative targeting or exclusion lists",
+          "Increasing bid limits for all users",
+          "Sending more emails to inactive users"
+        ],
+        "answer": "Negative targeting or exclusion lists"
+      },
+      {
+        "question": "Which content strategy supports SEO and long-term organic growth?",
+        "options": [
+          "Pillar pages and topic clusters",
+          "Random short social posts",
+          "One-time press releases"
+        ],
+        "answer": "Pillar pages and topic clusters"
+      },
+      {
+        "question": "What does 'frequency capping' control in digital campaigns?",
+        "options": [
+          "How often a single user sees an ad",
+          "The number of creatives produced",
+          "The budget allocation per channel"
+        ],
+        "answer": "How often a single user sees an ad"
+      },
+      {
+        "question": "Which famous campaign repositioned Old Spice with humor in 2010?",
+        "options": [
+          "The Man Your Man Could Smell Like",
+          "Dove Real Beauty",
+          "Share a Coke"
+        ],
+        "answer": "The Man Your Man Could Smell Like"
+      },
+      {
+        "question": "Which marketing approach aligns messages to customer lifecycle stages?",
+        "options": [
+          "Lifecycle marketing",
+          "Asset liquidation",
+          "Product recall management"
+        ],
+        "answer": "Lifecycle marketing"
+      },
+      {
+        "question": "What is an advantage of marketing automation platforms?",
+        "options": [
+          "Automate repetitive campaigns and scoring",
+          "Guarantee viral content",
+          "Replace creative teams entirely"
+        ],
+        "answer": "Automate repetitive campaigns and scoring"
+      },
+      {
+        "question": "Which qualitative method helps uncover customer motivations for campaigns?",
+        "options": [
+          "In-depth interviews and focus groups",
+          "Batch invoice processing",
+          "Automated email blasts"
+        ],
+        "answer": "In-depth interviews and focus groups"
+      },
+      {
+        "question": "Which model estimates the incremental effect of marketing channels using historical data?",
+        "options": [
+          "Marketing mix modeling (MMM)",
+          "Single-touch attribution",
+          "Cross-sectional survey"
+        ],
+        "answer": "Marketing mix modeling (MMM)"
+      },
+      {
+        "question": "Which tactic improves ad relevance by swapping creative elements dynamically?",
+        "options": [
+          "Dynamic creative optimization (DCO)",
+          "Static banner rotation",
+          "Manual email editing"
+        ],
+        "answer": "Dynamic creative optimization (DCO)"
+      },
+      {
+        "question": "What does 'CAC' measure in campaign economics?",
+        "options": [
+          "Customer acquisition cost",
+          "Content average clicks",
+          "Campaign asset count"
+        ],
+        "answer": "Customer acquisition cost"
+      },
+      {
+        "question": "Which campaign test uses randomized control and treatment groups?",
+        "options": [
+          "Holdout or controlled experiment",
+          "Cross-sectional ad scheduling",
+          "Descriptive demographic profiling"
+        ],
+        "answer": "Holdout or controlled experiment"
+      },
+      {
+        "question": "Which channel is especially effective for high-intent searchers?",
+        "options": [
+          "Search engine marketing (SEM)",
+          "Billboard advertising",
+          "Cold email lists"
+        ],
+        "answer": "Search engine marketing (SEM)"
+      },
+      {
+        "question": "Which KPI is most useful for ecommerce campaign profitability?",
+        "options": [
+          "Return on ad spend (ROAS)",
+          "Social followers count",
+          "Number of press mentions"
+        ],
+        "answer": "Return on ad spend (ROAS)"
+      },
+      {
+        "question": "Which approach helps align creative messaging with customer emotions?",
+        "options": [
+          "Emotional positioning and storytelling",
+          "Randomized price cutting",
+          "Ignoring audience insights"
+        ],
+        "answer": "Emotional positioning and storytelling"
+      },
+      {
+        "question": "Which channel combines organic listing improvements with paid results on search pages?",
+        "options": [
+          "Search engine marketing plus SEO",
+          "Outdoor advertising",
+          "Direct mail and telemarketing"
+        ],
+        "answer": "Search engine marketing plus SEO"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which advanced method isolates ad-driven sales by holding out a control group?",
+        "options": [
+          "Randomized controlled incrementality test",
+          "Multi-touch attribution via last click",
+          "Simple cohort averaging"
+        ],
+        "answer": "Randomized controlled incrementality test"
+      },
+      {
+        "question": "Which model decomposes total sales into media and non-media contributors?",
+        "options": [
+          "Marketing mix modeling (MMM)",
+          "First-touch attribution",
+          "Lookalike modeling"
+        ],
+        "answer": "Marketing mix modeling (MMM)"
+      },
+      {
+        "question": "What key privacy change in mobile advertising affected targeting after 2020?",
+        "options": [
+          "App tracking transparency (iOS) limiting cross-app identifiers",
+          "Removal of all cookies from browsers",
+          "Mandated universal user IDs for advertisers"
+        ],
+        "answer": "App tracking transparency (iOS) limiting cross-app identifiers"
+      },
+      {
+        "question": "Which advanced targeting uses propensity scores to predict purchase likelihood?",
+        "options": [
+          "Predictive propensity modeling",
+          "Contextual keyword bidding",
+          "Static demographic segmentation"
+        ],
+        "answer": "Predictive propensity modeling"
+      },
+      {
+        "question": "Which technique optimizes bids by predicting conversion probability in real time?",
+        "options": [
+          "Value-based programmatic bidding",
+          "Manual flat bidding",
+          "Time-of-day bidding only"
+        ],
+        "answer": "Value-based programmatic bidding"
+      },
+      {
+        "question": "Which statistical approach is preferred for sequential experiments to control false positives?",
+        "options": [
+          "Group sequential and alpha-spending methods",
+          "Maximum likelihood estimation without correction",
+          "Ignoring multiple testing"
+        ],
+        "answer": "Group sequential and alpha-spending methods"
+      },
+      {
+        "question": "Which channel-level measurement suffers most from cookie depreciation?",
+        "options": [
+          "Cross-site behavioral tracking for display ads",
+          "Outdoor billboard reach estimates",
+          "In-store point-of-sale receipts"
+        ],
+        "answer": "Cross-site behavioral tracking for display ads"
+      },
+      {
+        "question": "What is the main limitation of last-click attribution in modern campaigns?",
+        "options": [
+          "Ignores upper-funnel and assist interactions",
+          "Requires large randomized experiments",
+          "Overestimates organic search quality"
+        ],
+        "answer": "Ignores upper-funnel and assist interactions"
+      },
+      {
+        "question": "Which advanced creative technique uses modular assets assembled at runtime?",
+        "options": [
+          "Dynamic creative optimization (DCO) with modular templates",
+          "Fixed hero-image banners",
+          "Hand-coded single creatives"
+        ],
+        "answer": "Dynamic creative optimization (DCO) with modular templates"
+      },
+      {
+        "question": "Which fraud type inflates ad metrics using non-human traffic?",
+        "options": [
+          "Bot-driven invalid traffic (IVT)",
+          "Contextual misplacement",
+          "Brand safety compliance"
+        ],
+        "answer": "Bot-driven invalid traffic (IVT)"
+      },
+      {
+        "question": "Which multi-touch attribution method assigns credit proportionally across touchpoints?",
+        "options": [
+          "Linear attribution",
+          "First-touch only attribution",
+          "Time-of-day attribution"
+        ],
+        "answer": "Linear attribution"
+      },
+      {
+        "question": "Which advanced KPI estimates discounted future profits from a customer cohort?",
+        "options": [
+          "Predictive customer lifetime value (CLV)",
+          "Immediate average order value",
+          "Gross margin per ad"
+        ],
+        "answer": "Predictive customer lifetime value (CLV)"
+      },
+      {
+        "question": "Which experimental design avoids interference between test and control exposures?",
+        "options": [
+          "Geographical or household-level holdouts",
+          "Switching creative every hour",
+          "Uniform global rollout"
+        ],
+        "answer": "Geographical or household-level holdouts"
+      },
+      {
+        "question": "Which measurement blends short-term digital signals with long-run brand effects?",
+        "options": [
+          "Hybrid measurement combining MMM and experiments",
+          "Exclusive use of last-click reports",
+          "Single-channel reporting"
+        ],
+        "answer": "Hybrid measurement combining MMM and experiments"
+      },
+      {
+        "question": "Which optimization objective focuses on long-term revenue over immediate conversions?",
+        "options": [
+          "Lifetime value (LTV)-driven bidding",
+          "Maximizing click volume",
+          "Minimizing creative production"
+        ],
+        "answer": "Lifetime value (LTV)-driven bidding"
+      },
+      {
+        "question": "Which privacy-first tactic increases marketer control over customer relationships?",
+        "options": [
+          "Building first-party data platforms",
+          "Purchasing third-party audiences exclusively",
+          "Relying on proxy cookies"
+        ],
+        "answer": "Building first-party data platforms"
+      },
+      {
+        "question": "Which advanced segmentation uses clustering on behavioral patterns?",
+        "options": [
+          "Unsupervised clustering segmentation",
+          "Simple geographic buckets",
+          "Manual alphabetical lists"
+        ],
+        "answer": "Unsupervised clustering segmentation"
+      },
+      {
+        "question": "Which concept describes shifting media spend to maximize diminishing marginal returns?",
+        "options": [
+          "Diminishing marginal ROI and optimal budget allocation",
+          "Increasing spend indefinitely on top channels",
+          "Halting measurement of returns"
+        ],
+        "answer": "Diminishing marginal ROI and optimal budget allocation"
+      },
+      {
+        "question": "Which analytic method quantifies causal impact when randomized tests aren't feasible?",
+        "options": [
+          "Quasi-experimental methods like synthetic controls",
+          "Pure correlation analysis",
+          "Simple before-after averages"
+        ],
+        "answer": "Quasi-experimental methods like synthetic controls"
+      },
+      {
+        "question": "Which advanced bidding leverages predicted incrementality rather than conversions?",
+        "options": [
+          "Incrementality-optimized bidding",
+          "CPM-only budget maximization",
+          "Random bidding"
+        ],
+        "answer": "Incrementality-optimized bidding"
+      },
+      {
+        "question": "Which tactic ensures creative diversity to avoid ad fatigue at scale?",
+        "options": [
+          "Creative rotation and variant testing",
+          "Deploying a single static creative globally",
+          "Increasing frequency without new creatives"
+        ],
+        "answer": "Creative rotation and variant testing"
+      },
+      {
+        "question": "Which framework helps prioritize campaign experiments by expected impact and effort?",
+        "options": [
+          "ICE or PIE prioritization frameworks",
+          "Throw-everything-at-the-wall approach",
+          "Only run low-impact tests"
+        ],
+        "answer": "ICE or PIE prioritization frameworks"
+      },
+      {
+        "question": "Which advanced metric tracks viewable impressions relative to served impressions?",
+        "options": [
+          "Viewability rate",
+          "Bounce-adjusted CPM",
+          "Gross reach"
+        ],
+        "answer": "Viewability rate"
+      },
+      {
+        "question": "Which data strategy reduces reliance on third-party cookies for targeting?",
+        "options": [
+          "Contextual advertising combined with first-party data",
+          "Expanding third-party data purchases",
+          "Increasing cookie expiration times"
+        ],
+        "answer": "Contextual advertising combined with first-party data"
+      },
+      {
+        "question": "Which ad safety approach prevents placements next to harmful content?",
+        "options": [
+          "Brand safety controls and pre-bid filtering",
+          "Increasing bid floors indiscriminately",
+          "Avoiding any online advertising"
+        ],
+        "answer": "Brand safety controls and pre-bid filtering"
+      },
+      {
+        "question": "Which modeling technique quantifies uplift from marketing versus natural conversion?",
+        "options": [
+          "Uplift modeling or causal lift analysis",
+          "Standard churn modeling",
+          "Average order value segmentation"
+        ],
+        "answer": "Uplift modeling or causal lift analysis"
+      },
+      {
+        "question": "Which ad-buying environment uses private deals and guaranteed inventory?",
+        "options": [
+          "Programmatic guaranteed and private marketplaces",
+          "Open exchange only",
+          "Manual classified ads"
+        ],
+        "answer": "Programmatic guaranteed and private marketplaces"
+      },
+      {
+        "question": "Which attribution approach explicitly models decay of influence across interactions?",
+        "options": [
+          "Time-decay attribution",
+          "First-click attribution",
+          "Zero-sum attribution"
+        ],
+        "answer": "Time-decay attribution"
+      },
+      {
+        "question": "Which advanced KPI evaluates incremental profit per marketing dollar spent?",
+        "options": [
+          "Incremental ROAS (iROAS)",
+          "Vanity follower growth",
+          "Number of creatives produced"
+        ],
+        "answer": "Incremental ROAS (iROAS)"
+      },
+      {
+        "question": "Which method improves personalization while preserving privacy through aggregation?",
+        "options": [
+          "Federated learning and on-device modeling",
+          "Broad third-party list purchases",
+          "Centralized cross-site tracking"
+        ],
+        "answer": "Federated learning and on-device modeling"
+      },
+      {
+        "question": "Which optimization balances reach against frequency to minimize waste?",
+        "options": [
+          "Reach-frequency optimization with diminishing returns analysis",
+          "Maximize frequency for all users",
+          "Ignore reach and focus only on impressions"
+        ],
+        "answer": "Reach-frequency optimization with diminishing returns analysis"
+      },
+      {
+        "question": "Which advanced creative measurement links specific assets to business outcomes?",
+        "options": [
+          "Multivariate creative testing tied to conversions",
+          "Single creative used for all audiences",
+          "Counting total creative impressions only"
+        ],
+        "answer": "Multivariate creative testing tied to conversions"
+      },
+      {
+        "question": "Which approach segments audiences using both behavioral and attitudinal signals?",
+        "options": [
+          "Hybrid personas combining quantitative and qualitative data",
+          "Demographic-only lists",
+          "Random audience buckets"
+        ],
+        "answer": "Hybrid personas combining quantitative and qualitative data"
+      },
+      {
+        "question": "Which privacy regulation requires explicit consent for personal data processing in many regions?",
+        "options": [
+          "General Data Protection Regulation (GDPR)",
+          "Fair Labor Standards Act",
+          "Sarbanes-Oxley Act"
+        ],
+        "answer": "General Data Protection Regulation (GDPR)"
+      },
+      {
+        "question": "Which advanced KPI assesses channel efficiency after controlling for external factors?",
+        "options": [
+          "Channel-level incremental ROI from controlled tests",
+          "Gross impressions regardless of outcome",
+          "Total number of ad creatives"
+        ],
+        "answer": "Channel-level incremental ROI from controlled tests"
+      },
+      {
+        "question": "Which optimization uses multi-armed bandits to allocate traffic dynamically?",
+        "options": [
+          "Bandit algorithms for adaptive experimentation",
+          "Static A/B testing with equal traffic",
+          "Manual weekly traffic swapping"
+        ],
+        "answer": "Bandit algorithms for adaptive experimentation"
+      },
+      {
+        "question": "Which advanced measurement challenge arises from cross-device user behavior?",
+        "options": [
+          "Accurately stitching identities across devices",
+          "Counting only mobile app installs",
+          "Measuring print circulation"
+        ],
+        "answer": "Accurately stitching identities across devices"
+      },
+      {
+        "question": "Which strategic framework helps define unique customer value and competitive differentiation?",
+        "options": [
+          "Value proposition and positioning statement",
+          "Quarterly expense report",
+          "IT infrastructure diagram"
+        ],
+        "answer": "Value proposition and positioning statement"
+      },
+      {
+        "question": "Which method estimates media synergy effects between channels in planning?",
+        "options": [
+          "Cross-channel interaction terms in MMM or experiments",
+          "Treating channels as independent",
+          "Solely using last-click data"
+        ],
+        "answer": "Cross-channel interaction terms in MMM or experiments"
+      },
+      {
+        "question": "Which advanced analytics practice improves targeting by reducing label bias?",
+        "options": [
+          "Using propensity and uplift models instead of raw conversions",
+          "Relying only on historical conversion labels",
+          "Excluding modeling completely"
+        ],
+        "answer": "Using propensity and uplift models instead of raw conversions"
+      },
+      {
+        "question": "Which contractual model gives advertisers guaranteed delivery and fixed pricing?",
+        "options": [
+          "Direct-sold guaranteed media buys",
+          "Open auction programmatic buys",
+          "Pay-per-click only agreements"
+        ],
+        "answer": "Direct-sold guaranteed media buys"
+      },
+      {
+        "question": "Which data governance practice is critical for campaign measurement accuracy?",
+        "options": [
+          "Consistent taxonomy and event definitions across platforms",
+          "Changing event names monthly",
+          "Storing only raw logs without standards"
+        ],
+        "answer": "Consistent taxonomy and event definitions across platforms"
+      },
+      {
+        "question": "Which advanced technique attributes revenue when consumers interact with many touchpoints over time?",
+        "options": [
+          "Time-series based mixed attribution and experimental blending",
+          "Single-session analysis only",
+          "Ignoring attribution and counting clicks"
+        ],
+        "answer": "Time-series based mixed attribution and experimental blending"
+      },
+      {
+        "question": "Which strategic move strengthens resilience against platform policy changes?",
+        "options": [
+          "Diversifying channels and building owned audiences",
+          "Doubling spend on one dominant platform",
+          "Eliminating measurement entirely"
+        ],
+        "answer": "Diversifying channels and building owned audiences"
+      },
+      {
+        "question": "Which advanced campaign optimization prioritizes reducing churn among high-value customers?",
+        "options": [
+          "Retention-focused lifecycle campaigns using predictive scoring",
+          "Maximizing new leads regardless of quality",
+          "Only brand-awareness activities"
+        ],
+        "answer": "Retention-focused lifecycle campaigns using predictive scoring"
+      },
+      {
+        "question": "Which sophisticated analysis reveals audiences likely to respond incrementally to ads?",
+        "options": [
+          "Causal uplift modeling",
+          "Simple propensity scoring without treatment effect",
+          "Counting total conversions"
+        ],
+        "answer": "Causal uplift modeling"
+      },
+      {
+        "question": "Which contractual inventory access offers premium placements with private negotiation?",
+        "options": [
+          "Private marketplace (PMP) deals",
+          "Open exchange spot buying",
+          "Community bulletin boards"
+        ],
+        "answer": "Private marketplace (PMP) deals"
+      },
+      {
+        "question": "Which advanced creative personalization balances relevance and scale without privacy leaks?",
+        "options": [
+          "Contextual signals plus aggregated first-party insights",
+          "Injecting raw PII into creative templates",
+          "Using third-party identifiers only"
+        ],
+        "answer": "Contextual signals plus aggregated first-party insights"
+      }
+    ]
+  }
+}

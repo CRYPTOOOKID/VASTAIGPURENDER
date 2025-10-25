@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country uses 'La Marseillaise' as its national anthem?",
+      "options": [
+        "France",
+        "Belgium",
+        "Switzerland"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's national anthem includes a chorus that became widely known as a patriotic hymn outside the nation?",
+      "options": [
+        "France ('La Marseillaise')",
+        "Japan ('Kimigayo')",
+        "Mexico ('Himno Nacional Mexicano')"
+      ],
+      "answer": "France ('La Marseillaise')"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national anthem is among the oldest in text, with lyrics tracing to a poem possibly from the 10th century?",
+      "options": [
+        "Greece's 'Hymn to Liberty'",
+        "Japan's 'Kimigayo'",
+        "Iran's 'Soroud-e Melli'"
+      ],
+      "answer": "Japan's 'Kimigayo'"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country's anthem lyrics originate from an ancient classical waka poem?",
+      "options": [
+        "Korea",
+        "Japan",
+        "China"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country's motto 'A Mari Usque Ad Mare' comes from a biblical phrase translated into Latin?",
+      "options": [
+        "France",
+        "Italy",
+        "Canada"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 6,
+      "question": "Which national anthem's lyrics were written by a poet who was locked in a room until he produced them?",
+      "options": [
+        "Mexico's Himno Nacional Mexicano",
+        "France's La Marseillaise",
+        "Spain's La Marcha Real"
+      ],
+      "answer": "Mexico's Himno Nacional Mexicano"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country's national motto reads 'Ordem e Progresso' meaning 'Order and Progress'?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Brazil"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "question_id": 8,
+      "question": "Which modern nation adopted a composite anthem combining a hymn and liberation song in 1997?",
+      "options": [
+        "Namibia",
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem includes portions sung in isiXhosa and isiZulu to reflect linguistic diversity?",
+      "options": [
+        "Mozambique",
+        "Zimbabwe",
+        "South Africa"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses 'Il Canto degli Italiani' as its national anthem?",
+      "options": [
+        "San Marino",
+        "Italy",
+        "Switzerland"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "question_id": 11,
+      "question": "Which anthem's music was composed by Jaime Nunó with lyrics by Francisco González Bocanegra?",
+      "options": [
+        "Mexico's Himno Nacional Mexicano",
+        "Spain's Marcha Real",
+        "Argentina's Himno Nacional"
+      ],
+      "answer": "Mexico's Himno Nacional Mexicano"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country's national motto is written in an indigenous Khoisan language and appears on its coat of arms?",
+      "options": [
+        "South Africa ('ǃke e: ǀxarra ǁke')",
+        "Namibia",
+        "Botswana"
+      ],
+      "answer": "South Africa ('ǃke e: ǀxarra ǁke')"
+    },
+    {
+      "question_id": 13,
+      "question": "Which nation's anthem is 'Kde domov můj'?",
+      "options": [
+        "Slovakia",
+        "Poland",
+        "Czech Republic"
+      ],
+      "answer": "Czech Republic"
+    },
+    {
+      "question_id": 14,
+      "question": "Which national anthem was subject to long debates over official lyrics because of regional language sensitivities?",
+      "options": [
+        "Ireland",
+        "Spain (various regional issues)",
+        "Germany"
+      ],
+      "answer": "Spain (various regional issues)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national motto appears on coins and banknotes and was established during wartime to unify the population?",
+      "options": [
+        "France ('Liberté, égalité, fraternité')",
+        "Canada ('A Mari Usque Ad Mare')",
+        "United States ('In God We Trust' formalized in 1956)"
+      ],
+      "answer": "United States ('In God We Trust' formalized in 1956)"
+    }
+  ]
+}

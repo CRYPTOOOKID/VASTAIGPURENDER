@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the main element in natural diamond?",
+      "options": [
+        "Carbon",
+        "Boron",
+        "Silicon"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 2,
+      "question": "Which element is most abundant in Earth's crust by mass?",
+      "options": [
+        "Oxygen",
+        "Silicon",
+        "Aluminum"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 3,
+      "question": "Which heavy noble gas has been observed to form compounds like xenon hexafluoroplatinate under extreme conditions?",
+      "options": [
+        "Xenon",
+        "Krypton",
+        "Radon"
+      ],
+      "answer": "Xenon"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element has the chemical symbol 'Ag'?",
+      "options": [
+        "Silver",
+        "Argon",
+        "Astatine"
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 5,
+      "question": "Which compound is the common bleaching agent in household bleach (sodium hypochlorite)?",
+      "options": [
+        "NaOCl",
+        "NaClO3",
+        "NaCl"
+      ],
+      "answer": "NaOCl"
+    },
+    {
+      "question_id": 6,
+      "question": "Which element's hydrides include both covalent (e.g., PH3) and polymeric forms (e.g., polyphosphine)?",
+      "options": [
+        "Phosphorus",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "question_id": 7,
+      "question": "Which gas is produced by yeast during bread making and fermentation?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Hydrogen sulfide"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 8,
+      "question": "Which element is essential for nitrogen fixation in many enzymes and proteins (not atmospheric nitrogen)?",
+      "options": [
+        "Molybdenum",
+        "Carbon",
+        "Neon"
+      ],
+      "answer": "Molybdenum"
+    },
+    {
+      "question_id": 9,
+      "question": "Which synthetic element with atomic number 118 completes the current periodic table's seventh row?",
+      "options": [
+        "Oganesson",
+        "Tennessine",
+        "Livermorium"
+      ],
+      "answer": "Oganesson"
+    },
+    {
+      "question_id": 10,
+      "question": "What compound is vinegar primarily composed of?",
+      "options": [
+        "Acetic acid",
+        "Citric acid",
+        "Sulfuric acid"
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "question_id": 11,
+      "question": "Which compound is the primary component of limestone and marble?",
+      "options": [
+        "Calcium carbonate",
+        "Calcium sulfate",
+        "Magnesium carbonate"
+      ],
+      "answer": "Calcium carbonate"
+    },
+    {
+      "question_id": 12,
+      "question": "Which compound, an organosilicon polymer, is known for thermal stability and is used as a lubricant and in implants (silicone)?",
+      "options": [
+        "Polydimethylsiloxane (PDMS)",
+        "Polyethylene",
+        "Polystyrene"
+      ],
+      "answer": "Polydimethylsiloxane (PDMS)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which gas do plants primarily use for photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element is crucial in alloying with steel to produce stainless steel's corrosion resistance?",
+      "options": [
+        "Chromium",
+        "Lead",
+        "Mercury"
+      ],
+      "answer": "Chromium"
+    },
+    {
+      "question_id": 15,
+      "question": "Which element's coordination complexes are central to biological oxygen transport in hemocyanin instead of iron?",
+      "options": [
+        "Copper",
+        "Cobalt",
+        "Manganese"
+      ],
+      "answer": "Copper"
+    }
+  ]
+}

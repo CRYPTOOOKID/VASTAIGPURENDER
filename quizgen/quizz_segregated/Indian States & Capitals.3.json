@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Manipur?",
+      "options": [
+        "Thoubal",
+        "Churachandpur",
+        "Imphal"
+      ],
+      "answer": "Imphal"
+    },
+    {
+      "question_id": 2,
+      "question": "Which state capital is located at the foot of the Western Ghats and is a major spice trade center?",
+      "options": [
+        "Panaji",
+        "Kochi",
+        "Thiruvananthapuram"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "question_id": 3,
+      "question": "Which state capital district contains a UNESCO World Heritage Sun Temple at nearby Konark?",
+      "options": [
+        "Bhubaneswar",
+        "Puri",
+        "Cuttack"
+      ],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the official capital of Andhra Pradesh?",
+      "options": [
+        "Vijayawada",
+        "Visakhapatnam",
+        "Amaravati"
+      ],
+      "answer": "Amaravati"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian state uses Nagpur as a second capital for legislative sessions?",
+      "options": [
+        "Telangana",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital was the administrative seat of the ancient Kalinga kingdom region?",
+      "options": [
+        "Puri",
+        "Bhubaneswar",
+        "Cuttack"
+      ],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Telangana?",
+      "options": [
+        "Hyderabad",
+        "Warangal",
+        "Karimnagar"
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state was created on 15 November 2000 with Ranchi as its capital?",
+      "options": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Uttarakhand"
+      ],
+      "answer": "Jharkhand"
+    },
+    {
+      "question_id": 9,
+      "question": "Which state capital was built near an ancient temple city and now serves as its modern administrative center?",
+      "options": [
+        "Tiruchirappalli",
+        "Thiruvananthapuram",
+        "Bhubaneswar"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Tamil Nadu?",
+      "options": [
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "answer": "Chennai"
+    },
+    {
+      "question_id": 11,
+      "question": "Which state capital lies on the banks of the Ganges River?",
+      "options": [
+        "Patna",
+        "Bhopal",
+        "Ranchi"
+      ],
+      "answer": "Patna"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital was part of the ancient Kakatiya kingdom and later became a major medieval city in its region?",
+      "options": [
+        "Hyderabad",
+        "Karimnagar",
+        "Warangal"
+      ],
+      "answer": "Warangal"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Odisha?",
+      "options": [
+        "Bhubaneswar",
+        "Puri",
+        "Cuttack"
+      ],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city lies near the ancient Buddhist site of Sarnath in its state?",
+      "options": [
+        "Varanasi",
+        "Kanpur",
+        "Lucknow"
+      ],
+      "answer": "Varanasi"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital hosts the headquarters of the Indian Navy's Eastern Command nearby?",
+      "options": [
+        "Visakhapatnam",
+        "Mumbai",
+        "Kochi"
+      ],
+      "answer": "Visakhapatnam"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When did the Black Death peak in Europe?",
+      "options": [
+        "1400",
+        "1287",
+        "1348"
+      ],
+      "answer": "1348"
+    },
+    {
+      "question_id": 2,
+      "question": "When was the first successful vaccine for smallpox developed by Edward Jenner?",
+      "options": [
+        "1801",
+        "1796",
+        "1774"
+      ],
+      "answer": "1796"
+    },
+    {
+      "question_id": 3,
+      "question": "When did Suleiman the Magnificent begin his reign over the Ottoman Empire?",
+      "options": [
+        "1534",
+        "1520",
+        "1512"
+      ],
+      "answer": "1520"
+    },
+    {
+      "question_id": 4,
+      "question": "When was the printing press invented by Johannes Gutenberg (approximate year)?",
+      "options": [
+        "1440",
+        "1500",
+        "1375"
+      ],
+      "answer": "1440"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the Berlin Airlift start in response to the Soviet blockade?",
+      "options": [
+        "1945",
+        "1951",
+        "1948"
+      ],
+      "answer": "1948"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Battle of Lepanto, a major naval engagement, occur?",
+      "options": [
+        "1571",
+        "1588",
+        "1565"
+      ],
+      "answer": "1571"
+    },
+    {
+      "question_id": 7,
+      "question": "When did the United Nations officially come into existence?",
+      "options": [
+        "1919",
+        "1950",
+        "1945"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question_id": 8,
+      "question": "When did Ferdinand Magellan's expedition successfully complete the first circumnavigation (return year)?",
+      "options": [
+        "1522",
+        "1536",
+        "1519"
+      ],
+      "answer": "1522"
+    },
+    {
+      "question_id": 9,
+      "question": "When was the Battle of Yorktown, effectively ending major fighting in the American Revolution?",
+      "options": [
+        "1781",
+        "1777",
+        "1783"
+      ],
+      "answer": "1781"
+    },
+    {
+      "question_id": 10,
+      "question": "When was the first successful powered flight by the Wright brothers?",
+      "options": [
+        "1890",
+        "1903",
+        "1910"
+      ],
+      "answer": "1903"
+    },
+    {
+      "question_id": 11,
+      "question": "When was the Warsaw Pact formed as a Soviet-led military alliance?",
+      "options": [
+        "1955",
+        "1961",
+        "1949"
+      ],
+      "answer": "1955"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Ming dynasty complete Zheng He's final voyages before the fleet was retired?",
+      "options": [
+        "1450",
+        "1421",
+        "1433"
+      ],
+      "answer": "1433"
+    },
+    {
+      "question_id": 13,
+      "question": "In what year did the Declaration of Independence get adopted by the United States?",
+      "options": [
+        "1776",
+        "1789",
+        "1754"
+      ],
+      "answer": "1776"
+    },
+    {
+      "question_id": 14,
+      "question": "When was the Battle of Waterloo where Napoleon was finally defeated?",
+      "options": [
+        "1805",
+        "1815",
+        "1821"
+      ],
+      "answer": "1815"
+    },
+    {
+      "question_id": 15,
+      "question": "When was the Peace of Augsburg allowing princes to choose Lutheranism or Catholicism?",
+      "options": [
+        "1566",
+        "1555",
+        "1548"
+      ],
+      "answer": "1555"
+    }
+  ]
+}

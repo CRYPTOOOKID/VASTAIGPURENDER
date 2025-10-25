@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the simplest definition of 'creative brief'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which campaign test uses randomized control and treatment groups?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the main limitation of last-click attribution in modern campaigns?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'brand positioning' describe?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which channel is especially effective for high-intent searchers?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced measurement challenge arises from cross-device user behavior?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does ROI stand for in marketing?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which channel mix principle balances reach and frequency effectively?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which attribution approach explicitly models decay of influence across interactions?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the typical purpose of a landing page in a campaign?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which marketing approach aligns messages to customer lifecycle stages?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced segmentation uses clustering on behavioral patterns?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which social campaign technique encourages users to create and share content?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which viral campaign used user videos to raise ALS awareness in 2014?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advanced creative technique uses modular assets assembled at runtime?"
+    }
+  ]
+}

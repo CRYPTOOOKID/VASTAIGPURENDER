@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Finish the famous movie quote: \"I'll be ____\" (from The Terminator).",
+        "options": [
+          "Back",
+          "Coming",
+          "Waiting"
+        ],
+        "answer": "Back"
+      },
+      {
+        "question": "Finish the famous movie quote: \"May the ____ be with you.\" (Star Wars).",
+        "options": [
+          "Force",
+          "Story",
+          "Dreams"
+        ],
+        "answer": "Force"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Here's looking at ____\" (Casablanca).",
+        "options": [
+          "You",
+          "Her",
+          "Them"
+        ],
+        "answer": "You"
+      },
+      {
+        "question": "Finish the famous movie quote: \"You can't handle the ____!\" (A Few Good Men).",
+        "options": [
+          "Truth",
+          "Justice",
+          "Power"
+        ],
+        "answer": "Truth"
+      },
+      {
+        "question": "Finish the famous movie quote: \"I'm going to make him an ____ he can't refuse.\" (The Godfather).",
+        "options": [
+          "Offer",
+          "Promise",
+          "Threat"
+        ],
+        "answer": "Offer"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Toto, I've a feeling we're not in ____ anymore.\" (The Wizard of Oz).",
+        "options": [
+          "Kansas",
+          "London",
+          "Paris"
+        ],
+        "answer": "Kansas"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Here's Johnny!\" originates from which film?",
+        "options": [
+          "The Shining",
+          "Psycho",
+          "Alien"
+        ],
+        "answer": "The Shining"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Life is like a box of ____.\" (Forrest Gump).",
+        "options": [
+          "Chocolates",
+          "Flowers",
+          "Cookies"
+        ],
+        "answer": "Chocolates"
+      },
+      {
+        "question": "Finish the famous movie quote: \"You're gonna need a bigger ____.\" (Jaws).",
+        "options": [
+          "Boat",
+          "Car",
+          "House"
+        ],
+        "answer": "Boat"
+      },
+      {
+        "question": "Finish the famous movie quote: \"I'll have what she's ____.\" (When Harry Met Sally).",
+        "options": [
+          "Having",
+          "Saying",
+          "Eating"
+        ],
+        "answer": "Having"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Houston, we have a ____.\" (Apollo 13).",
+        "options": [
+          "Problem",
+          "Solution",
+          "Signal"
+        ],
+        "answer": "Problem"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Say hello to my little ____!\" (Scarface).",
+        "options": [
+          "Friend",
+          "Brother",
+          "Neighbor"
+        ],
+        "answer": "Friend"
+      },
+      {
+        "question": "Finish the famous movie quote: \"You talking to ____?\" (Taxi Driver).",
+        "options": [
+          "Me",
+          "Him",
+          "Her"
+        ],
+        "answer": "Me"
+      },
+      {
+        "question": "Finish the famous movie quote: \"I'm the king of the ____!\" (Titanic).",
+        "options": [
+          "World",
+          "Sea",
+          "Hill"
+        ],
+        "answer": "World"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Here's looking at you, ____\" is followed by what name?",
+        "options": [
+          "Kid",
+          "Friend",
+          "Darling"
+        ],
+        "answer": "Kid"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Why so ____?\" (The Dark Knight).",
+        "options": [
+          "Serious",
+          "Happy",
+          "Quiet"
+        ],
+        "answer": "Serious"
+      },
+      {
+        "question": "Finish the famous movie quote: \"You had me at ____\" (Jerry Maguire).",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Yes"
+        ],
+        "answer": "Hello"
+      },
+      {
+        "question": "Finish the famous movie quote: \"There's no place like ____\" (The Wizard of Oz).",
+        "options": [
+          "Home",
+          "Heaven",
+          "Dreams"
+        ],
+        "answer": "Home"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Keep your friends close, but your enemies ____\" (The Godfather Part II).",
+        "options": [
+          "Closer",
+          "Farther",
+          "Happy"
+        ],
+        "answer": "Closer"
+      },
+      {
+        "question": "Finish the famous movie quote: \"I'm the king of the world!\" was shouted from where in the film?",
+        "options": [
+          "Bow of the ship",
+          "Top of a mountain",
+          "Movie theater"
+        ],
+        "answer": "Bow of the ship"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Elementary, my ____\" commonly attributed to which detective?",
+        "options": [
+          "Dear Watson",
+          "Friend Holmes",
+          "Enemy Moriarty"
+        ],
+        "answer": "Dear Watson"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Bond. James Bond.\" What does this emphasize?",
+        "options": [
+          "Introduction",
+          "Farewell",
+          "Apology"
+        ],
+        "answer": "Introduction"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Why don't you come up and see ____ sometime?\" (She Done Him Wrong).",
+        "options": [
+          "Me",
+          "Us",
+          "Them"
+        ],
+        "answer": "Me"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Here's looking at you, kid\" is from which decade?",
+        "options": [
+          "1940s",
+          "1960s",
+          "1980s"
+        ],
+        "answer": "1940s"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Go ahead, make my ____.\" (Sudden Impact).",
+        "options": [
+          "Day",
+          "Dream",
+          "Choice"
+        ],
+        "answer": "Day"
+      },
+      {
+        "question": "Finish the famous movie quote: \"Show me the ____!\" (Jerry Maguire).",
+        "options": [
+          "Money",
+          "Talent",
+          "Proof"
+        ],
+        "answer": "Money"
+      },
+      {
+        "question": "Finish the famous movie quote: \"I'm having an old friend for ____.\" (Casablanca).",
+        "options": [
+          "Dinner",
+          "Tea",
+          "Coffee"
+        ],
+        "answer": "Dinner"
+      },
+      {
+        "question": "Finish the famous movie quote: \"I see dead ____.\" (The Sixth Sense).",
+        "options": [
+          "People",
+          "Places",
+          "Animals"
+        ],
+        "answer": "People"
+      },
+      {
+        "question": "Finish the famous movie quote: \"You're gonna need a bigger boat\" expresses what emotion?",
+        "options": [
+          "Fear",
+          "Joy",
+          "Indifference"
+        ],
+        "answer": "Fear"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Finish the quote: \"After all, tomorrow is another ____.\" (Gone with the Wind).",
+        "options": [
+          "Day",
+          "Night",
+          "World"
+        ],
+        "answer": "Day"
+      },
+      {
+        "question": "Finish the quote: \"They're here!\" is from which 1980s horror film?",
+        "options": [
+          "Poltergeist",
+          "A Nightmare on Elm Street",
+          "Friday the 13th"
+        ],
+        "answer": "Poltergeist"
+      },
+      {
+        "question": "Finish the quote: \"I love the smell of napalm in the ____.\" (Apocalypse Now).",
+        "options": [
+          "Morning",
+          "Evening",
+          "Afternoon"
+        ],
+        "answer": "Morning"
+      },
+      {
+        "question": "Finish the quote: \"You can't handle the truth!\" Who delivers this in the film?",
+        "options": [
+          "Colonel Jessup",
+          "Lieutenant Kaffee",
+          "Daniel Kaffee"
+        ],
+        "answer": "Colonel Jessup"
+      },
+      {
+        "question": "Finish the quote: \"Keep your friends close, but your enemies closer.\" Which film popularized this phrasing?",
+        "options": [
+          "The Godfather Part II",
+          "Scarface",
+          "Goodfellas"
+        ],
+        "answer": "The Godfather Part II"
+      },
+      {
+        "question": "Finish the quote: \"E.T. phone ____.\"",
+        "options": [
+          "Home",
+          "Mars",
+          "Friend"
+        ],
+        "answer": "Home"
+      },
+      {
+        "question": "Finish the quote: \"I'll be back\" was first spoken by which actor?",
+        "options": [
+          "Arnold Schwarzenegger",
+          "Sylvester Stallone",
+          "Bruce Willis"
+        ],
+        "answer": "Arnold Schwarzenegger"
+      },
+      {
+        "question": "Finish the quote: \"Frankly, my dear, I don't give a ____.\" (Gone with the Wind).",
+        "options": [
+          "Damn",
+          "Cent",
+          "Thought"
+        ],
+        "answer": "Damn"
+      },
+      {
+        "question": "Finish the quote: \"The first rule of Fight Club is: you do not talk about ____.\"",
+        "options": [
+          "Fight Club",
+          "Movies",
+          "War"
+        ],
+        "answer": "Fight Club"
+      },
+      {
+        "question": "Finish the quote: \"To infinity and ____!\" (Toy Story).",
+        "options": [
+          "Beyond",
+          "Victory",
+          "Heaven"
+        ],
+        "answer": "Beyond"
+      },
+      {
+        "question": "Finish the quote: \"I'm gonna make him an offer he can't ____\" — what concept does this imply?",
+        "options": [
+          "Refuse",
+          "Accept",
+          "Ignore"
+        ],
+        "answer": "Refuse"
+      },
+      {
+        "question": "Finish the quote: \"Here's looking at you, kid\" — who says it to whom in Casablanca?",
+        "options": [
+          "Rick to Ilsa",
+          "Captain to soldier",
+          "Doctor to patient"
+        ],
+        "answer": "Rick to Ilsa"
+      },
+      {
+        "question": "Finish the quote: \"Nobody puts Baby in a ____\" (Dirty Dancing).",
+        "options": [
+          "Corner",
+          "Car",
+          "Box"
+        ],
+        "answer": "Corner"
+      },
+      {
+        "question": "Finish the quote: \"You had me at hello\" — what does this reveal about the speaker?",
+        "options": [
+          "Immediate affection",
+          "Anger",
+          "Confusion"
+        ],
+        "answer": "Immediate affection"
+      },
+      {
+        "question": "Finish the quote: \"My mama always said life was like a box of chocolates.\" Who says it?",
+        "options": [
+          "Forrest Gump",
+          "Tom Hanks' character",
+          "Both"
+        ],
+        "answer": "Forrest Gump"
+      },
+      {
+        "question": "Finish the quote: \"I'm the king of the world!\" Who directed the film that includes this line?",
+        "options": [
+          "James Cameron",
+          "Steven Spielberg",
+          "Ridley Scott"
+        ],
+        "answer": "James Cameron"
+      },
+      {
+        "question": "Finish the quote: \"Here's Johnny!\" was ad-libbed by which actor?",
+        "options": [
+          "Jack Nicholson",
+          "Anthony Hopkins",
+          "Al Pacino"
+        ],
+        "answer": "Jack Nicholson"
+      },
+      {
+        "question": "Finish the quote: \"They call it a Royale with ____\" (Pulp Fiction).",
+        "options": [
+          "Cheese",
+          "Ham",
+          "Bacon"
+        ],
+        "answer": "Cheese"
+      },
+      {
+        "question": "Finish the quote: \"I'm walking here!\" is a famous improvised line from which film?",
+        "options": [
+          "Midnight Cowboy",
+          "Taxi Driver",
+          "The Godfather"
+        ],
+        "answer": "Midnight Cowboy"
+      },
+      {
+        "question": "Finish the quote: \"You're gonna need a bigger boat\" was originally delivered in response to what?",
+        "options": [
+          "Seeing the shark",
+          "Losing a crew member",
+          "Storm approaching"
+        ],
+        "answer": "Seeing the shark"
+      },
+      {
+        "question": "Finish the quote: \"Say 'what' again! I dare you, I double dare you, ____' what!'\" Which film?",
+        "options": [
+          "Pulp Fiction",
+          "Reservoir Dogs",
+          "Goodfellas"
+        ],
+        "answer": "Pulp Fiction"
+      },
+      {
+        "question": "Finish the quote: \"There's no crying in ____!\" (A League of Their Own).",
+        "options": [
+          "Baseball",
+          "Basketball",
+          "Tennis"
+        ],
+        "answer": "Baseball"
+      },
+      {
+        "question": "Finish the quote: \"I'll have what she's having\" references what comedic element?",
+        "options": [
+          "Imitation of reaction",
+          "Hidden plot twist",
+          "Action sequence"
+        ],
+        "answer": "Imitation of reaction"
+      },
+      {
+        "question": "Finish the quote: \"You can't handle the truth!\" is delivered during what scene type?",
+        "options": [
+          "Courtroom confrontation",
+          "Romantic dinner",
+          "Car chase"
+        ],
+        "answer": "Courtroom confrontation"
+      },
+      {
+        "question": "Finish the quote: \"I'm the king of the world!\" is shouted by which character?",
+        "options": [
+          "Jack Dawson",
+          "Cal Hockley",
+          "Captain Smith"
+        ],
+        "answer": "Jack Dawson"
+      },
+      {
+        "question": "Finish the quote: \"Here's looking at you, kid\" occurs at what point in the story?",
+        "options": [
+          "Bittersweet farewell",
+          "Opening scene",
+          "Climactic battle"
+        ],
+        "answer": "Bittersweet farewell"
+      },
+      {
+        "question": "Finish the quote: \"May the Force be with you\" was first spoken in which Star Wars film?",
+        "options": [
+          "A New Hope",
+          "The Empire Strikes Back",
+          "Return of the Jedi"
+        ],
+        "answer": "A New Hope"
+      },
+      {
+        "question": "Finish the quote: \"You're gonna need a bigger boat\" became shorthand for what?",
+        "options": [
+          "Underestimating a problem",
+          "Romantic success",
+          "Winning easily"
+        ],
+        "answer": "Underestimating a problem"
+      },
+      {
+        "question": "Finish the quote: \"I'll be back\" is an example of what cinematic device?",
+        "options": [
+          "Foreshadowing",
+          "Flashback",
+          "Montage"
+        ],
+        "answer": "Foreshadowing"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Finish the quote: \"After all, tomorrow is another day\" — who wrote the novel containing this line?",
+        "options": [
+          "Margaret Mitchell",
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald"
+        ],
+        "answer": "Margaret Mitchell"
+      },
+      {
+        "question": "Finish the quote: \"I'm going to make him an offer he can't refuse\" — which screenplay writer adapted this line?",
+        "options": [
+          "Mario Puzo and Francis Ford Coppola",
+          "William Goldman",
+          "Truman Capote"
+        ],
+        "answer": "Mario Puzo and Francis Ford Coppola"
+      },
+      {
+        "question": "Finish the quote: \"Here's looking at you, kid\" — which actor originally improvised this line?",
+        "options": [
+          "Humphrey Bogart",
+          "Ingrid Bergman",
+          "Claude Rains"
+        ],
+        "answer": "Humphrey Bogart"
+      },
+      {
+        "question": "Finish the quote: \"You're gonna need a bigger boat\" — who ad-libbed the line in Jaws?",
+        "options": [
+          "Roy Scheider",
+          "Richard Dreyfuss",
+          "Robert Shaw"
+        ],
+        "answer": "Roy Scheider"
+      },
+      {
+        "question": "Finish the quote: \"May the Force be with you\" — who delivered it first on-screen?",
+        "options": [
+          "General Dodonna",
+          "Luke Skywalker",
+          "Obi-Wan Kenobi"
+        ],
+        "answer": "General Dodonna"
+      },
+      {
+        "question": "Finish the quote: \"I'll be back\" — what was the script originally intending instead?",
+        "options": [
+          "I'll come back",
+          "I'll return",
+          "I'm gone"
+        ],
+        "answer": "I'll come back"
+      },
+      {
+        "question": "Finish the quote: \"You can't handle the truth!\" — who penned the screenplay for that film?",
+        "options": [
+          "Aaron Sorkin",
+          "Robert Towne",
+          "William Goldman"
+        ],
+        "answer": "Aaron Sorkin"
+      },
+      {
+        "question": "Finish the quote: \"Frankly, my dear, I don't give a damn\" — which studio fought to cut 'damn'?",
+        "options": [
+          "Metro-Goldwyn-Mayer",
+          "Warner Bros.",
+          "RKO"
+        ],
+        "answer": "Metro-Goldwyn-Mayer"
+      },
+      {
+        "question": "Finish the quote: \"E.T. phone home\" — which director insisted on E.T.'s childlike voice?",
+        "options": [
+          "Steven Spielberg",
+          "George Lucas",
+          "John Carpenter"
+        ],
+        "answer": "Steven Spielberg"
+      },
+      {
+        "question": "Finish the quote: \"Nobody puts Baby in a corner\" — who choreographed the film's lift scene?",
+        "options": [
+          " Kenny Ortega",
+          "Bob Fosse",
+          "Martha Graham"
+        ],
+        "answer": " Kenny Ortega"
+      },
+      {
+        "question": "Finish the quote: \"Show me the money!\" — which actor improvised the chant?",
+        "options": [
+          "Tom Cruise",
+          "Cuba Gooding Jr.",
+          "Jerry Maguire"
+        ],
+        "answer": "Tom Cruise"
+      },
+      {
+        "question": "Finish the quote: \"Say hello to my little friend!\" — which prop became iconic?",
+        "options": [
+          "M16-style rifle",
+          "M134 Minigun-style replica",
+          "Tommy gun"
+        ],
+        "answer": "M134 Minigun-style replica"
+      },
+      {
+        "question": "Finish the quote: \"I see dead people.\" — who wrote the screenplay for The Sixth Sense?",
+        "options": [
+          "M. Night Shyamalan",
+          "David Koepp",
+          "Christopher Nolan"
+        ],
+        "answer": "M. Night Shyamalan"
+      },
+      {
+        "question": "Finish the quote: \"Here's Johnny!\" — the line references which TV host?",
+        "options": [
+          "Johnny Carson",
+          "Ed Sullivan",
+          "Jack Paar"
+        ],
+        "answer": "Johnny Carson"
+      },
+      {
+        "question": "Finish the quote: \"My precious\" — which actor voiced Gollum in both motion capture and voice?",
+        "options": [
+          "Andy Serkis",
+          "Ian McKellen",
+          "Christopher Lee"
+        ],
+        "answer": "Andy Serkis"
+      },
+      {
+        "question": "Finish the quote: \"I'll have what she's having\" — which director staged the final restaurant scene?",
+        "options": [
+          "Rob Reiner",
+          "Nora Ephron",
+          "Mike Nichols"
+        ],
+        "answer": "Rob Reiner"
+      },
+      {
+        "question": "Finish the quote: \"You're gonna need a bigger boat\" — which composer scored the film?",
+        "options": [
+          "John Williams",
+          "Ennio Morricone",
+          "Danny Elfman"
+        ],
+        "answer": "John Williams"
+      },
+      {
+        "question": "Finish the quote: \"Keep your friends close, but your enemies closer\" — which historical figure inspired the line in the screenplay?",
+        "options": [
+          "Sun Tzu",
+          "Niccolò Machiavelli",
+          "Julius Caesar"
+        ],
+        "answer": "Niccolò Machiavelli"
+      },
+      {
+        "question": "Finish the quote: \"I love the smell of napalm in the morning\" — which cinematographer shot Apocalypse Now?",
+        "options": [
+          "Vittorio Storaro",
+          "Roger Deakins",
+          "Gordon Willis"
+        ],
+        "answer": "Vittorio Storaro"
+      },
+      {
+        "question": "Finish the quote: \"You're gonna need a bigger boat\" — how many different shark models were used in production?",
+        "options": [
+          "Three",
+          "One",
+          "Five"
+        ],
+        "answer": "Three"
+      },
+      {
+        "question": "Finish the quote: \"Give me the ____\" — which film features the line 'Give me the ring' as a pivotal moment?",
+        "options": [
+          "Rings of Power",
+          "Lord of the Rings: Fellowship of the Ring",
+          "Ring of Power"
+        ],
+        "answer": "Lord of the Rings: Fellowship of the Ring"
+      },
+      {
+        "question": "Finish the quote: \"Bond. James Bond.\" — which film first used this exact cadence?",
+        "options": [
+          "Dr. No",
+          "Goldfinger",
+          "From Russia with Love"
+        ],
+        "answer": "Dr. No"
+      },
+      {
+        "question": "Finish the quote: \"Go ahead, make my day\" — which actor popularized this line?",
+        "options": [
+          "Clint Eastwood",
+          "Charles Bronson",
+          "Burt Reynolds"
+        ],
+        "answer": "Clint Eastwood"
+      },
+      {
+        "question": "Finish the quote: \"Here's looking at you, kid\" — what literary device does the line primarily use?",
+        "options": [
+          "Apostrophe (direct address)",
+          "Metaphor",
+          "Alliteration"
+        ],
+        "answer": "Apostrophe (direct address)"
+      },
+      {
+        "question": "Finish the quote: \"You talking to me?\" — which unfilmed antagonist inspired De Niro's monologue?",
+        "options": [
+          "Travis Bickle's reflection",
+          "A real-life mugger",
+          "Taxi rival"
+        ],
+        "answer": "Travis Bickle's reflection"
+      },
+      {
+        "question": "Finish the quote: \"I'll be back\" — in which film did the line later become a recurring motif?",
+        "options": [
+          "Terminator 2: Judgment Day",
+          "Total Recall",
+          "Predator"
+        ],
+        "answer": "Terminator 2: Judgment Day"
+      },
+      {
+        "question": "Finish the quote: \"I'll have what she's having\" — which actor's comedic timing sold the line?",
+        "options": [
+          "Meg Ryan",
+          "Cantonese actor",
+          "Estelle Reiner"
+        ],
+        "answer": "Estelle Reiner"
+      },
+      {
+        "question": "Finish the quote: \"The first rule of Fight Club is: you do not talk about Fight Club\" — who adapted this novel into a screenplay?",
+        "options": [
+          "Jim Uhls",
+          "Scott Frank",
+          "Seth Rogen"
+        ],
+        "answer": "Jim Uhls"
+      },
+      {
+        "question": "Finish the quote: \"May the Force be with you\" — which film later subverts this line emotionally?",
+        "options": [
+          "The Empire Strikes Back",
+          "Return of the Jedi",
+          "The Last Jedi"
+        ],
+        "answer": "The Empire Strikes Back"
+      },
+      {
+        "question": "Finish the quote: \"There's no place like home\" — which technique was used to create Dorothy's return?",
+        "options": [
+          "Technicolor transition",
+          "Black-and-white wipe",
+          "Stop motion"
+        ],
+        "answer": "Technicolor transition"
+      }
+    ]
+  }
+}

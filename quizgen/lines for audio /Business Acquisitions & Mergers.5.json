@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which body commonly reviews large M&A deals globally?"
+    },
+    {
+      "question_id": 2,
+      "question": "What are representations and warranties in a purchase agreement?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a go-shop's typical strategic benefit to target shareholders?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a merger?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does an integration roadmap primarily outline?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which instrument often protects acquirers from target pre-closing losses?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a fairness opinion?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which major tech purchase did Google complete in 2006 for about $1.65 billion?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is contingent consideration classification in acquisition accounting?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does acquirer mean?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company acquired WhatsApp in 2014?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which instrument often preserves target management continuity post-deal?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a friendly merger?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a share swap ratio used for?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which remedy requires permanent sale of business units to address competition concerns?"
+    }
+  ]
+}

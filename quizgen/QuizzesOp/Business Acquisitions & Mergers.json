@@ -1,0 +1,847 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is a merger?",
+        "options": [
+          "Combining two companies into one",
+          "Purchase of assets only",
+          "Short-term loan"
+        ],
+        "answer": "Combining two companies into one"
+      },
+      {
+        "question": "What is an acquisition?",
+        "options": [
+          "One company buys controlling interest",
+          "Companies form a joint venture",
+          "Government takeover"
+        ],
+        "answer": "One company buys controlling interest"
+      },
+      {
+        "question": "What is a hostile takeover?",
+        "options": [
+          "Target board opposes bidder",
+          "Friendly negotiated sale",
+          "Merger approved by shareholders"
+        ],
+        "answer": "Target board opposes bidder"
+      },
+      {
+        "question": "What does due diligence mean in M&A?",
+        "options": [
+          "Investigative review of the target",
+          "Price negotiation meeting",
+          "Post-merger integration plan"
+        ],
+        "answer": "Investigative review of the target"
+      },
+      {
+        "question": "What is a tender offer?",
+        "options": [
+          "Bid to buy shares directly from shareholders",
+          "Loan to the target company",
+          "Announcement of merger talks"
+        ],
+        "answer": "Bid to buy shares directly from shareholders"
+      },
+      {
+        "question": "What is synergy in acquisitions?",
+        "options": [
+          "Combined firm value greater than the sum",
+          "Legal penalty for a merger",
+          "Purchase price discount"
+        ],
+        "answer": "Combined firm value greater than the sum"
+      },
+      {
+        "question": "Which is a horizontal merger?",
+        "options": [
+          "Two competing firms in the same industry",
+          "Supplier and buyer merging",
+          "Two unrelated businesses combining"
+        ],
+        "answer": "Two competing firms in the same industry"
+      },
+      {
+        "question": "Which is a vertical merger?",
+        "options": [
+          "Supplier merges with a customer",
+          "Two competitors merge",
+          "Company buys an unrelated business"
+        ],
+        "answer": "Supplier merges with a customer"
+      },
+      {
+        "question": "What is goodwill in a business combination?",
+        "options": [
+          "Excess paid over net identifiable assets",
+          "Physical fixed assets acquired",
+          "Deferred tax liability"
+        ],
+        "answer": "Excess paid over net identifiable assets"
+      },
+      {
+        "question": "Who typically advises on M&A transactions?",
+        "options": [
+          "Investment banks",
+          "Retail customers",
+          "Human resources firms"
+        ],
+        "answer": "Investment banks"
+      },
+      {
+        "question": "What is a breakup fee?",
+        "options": [
+          "Payment if target accepts another offer",
+          "Annual dividend paid to shareholders",
+          "Fee for accounting services"
+        ],
+        "answer": "Payment if target accepts another offer"
+      },
+      {
+        "question": "What does acquirer mean?",
+        "options": [
+          "Company that buys another company",
+          "Company that is sold",
+          "Regulatory body overseeing the deal"
+        ],
+        "answer": "Company that buys another company"
+      },
+      {
+        "question": "What is an earn-out in M&A?",
+        "options": [
+          "Contingent future payment based on performance",
+          "Immediate tax benefit",
+          "Employee severance plan"
+        ],
+        "answer": "Contingent future payment based on performance"
+      },
+      {
+        "question": "What is a leveraged buyout (LBO)?",
+        "options": [
+          "Purchase mainly financed with debt",
+          "Stock swap between competitors",
+          "Government-funded takeover"
+        ],
+        "answer": "Purchase mainly financed with debt"
+      },
+      {
+        "question": "Which document is critical in due diligence?",
+        "options": [
+          "Target's financial statements",
+          "Local newspaper articles",
+          "Employee birthday lists"
+        ],
+        "answer": "Target's financial statements"
+      },
+      {
+        "question": "What is a divestiture?",
+        "options": [
+          "Company sells off a business unit",
+          "Company acquires a new competitor",
+          "Company issues new shares"
+        ],
+        "answer": "Company sells off a business unit"
+      },
+      {
+        "question": "What is a friendly merger?",
+        "options": [
+          "Target board supports the merger",
+          "Hostile bid by an outsider",
+          "Merger without shareholder approval"
+        ],
+        "answer": "Target board supports the merger"
+      },
+      {
+        "question": "What is integration after a merger?",
+        "options": [
+          "Combining operations of merged companies",
+          "Filing paperwork only",
+          "Immediate sale of the combined firm"
+        ],
+        "answer": "Combining operations of merged companies"
+      },
+      {
+        "question": "What is a spin-off?",
+        "options": [
+          "Company creates independent company from a unit",
+          "Company buys a new division",
+          "Company merges with a competitor"
+        ],
+        "answer": "Company creates independent company from a unit"
+      },
+      {
+        "question": "What is an asset purchase in M&A?",
+        "options": [
+          "Buyer purchases specific assets and liabilities",
+          "Buyer buys entire company shares only",
+          "Government seizes assets"
+        ],
+        "answer": "Buyer purchases specific assets and liabilities"
+      },
+      {
+        "question": "Who negotiates purchase price in M&A?",
+        "options": [
+          "Buyers and sellers",
+          "Employees and customers",
+          "Regulators and courts"
+        ],
+        "answer": "Buyers and sellers"
+      },
+      {
+        "question": "What is a fairness opinion?",
+        "options": [
+          "Independent advisors' view on deal price fairness",
+          "Government approval certificate",
+          "Employee performance review"
+        ],
+        "answer": "Independent advisors' view on deal price fairness"
+      },
+      {
+        "question": "What is a majority stake?",
+        "options": [
+          "Ownership of more than 50% voting shares",
+          "Ownership of less than 10%",
+          "Temporary lease of assets"
+        ],
+        "answer": "Ownership of more than 50% voting shares"
+      },
+      {
+        "question": "Which term describes paying with company shares?",
+        "options": [
+          "Stock consideration",
+          "Cash consideration",
+          "Loan consideration"
+        ],
+        "answer": "Stock consideration"
+      },
+      {
+        "question": "What is closing in M&A?",
+        "options": [
+          "Completion of the transaction",
+          "Initial offer announcement",
+          "First negotiation meeting"
+        ],
+        "answer": "Completion of the transaction"
+      },
+      {
+        "question": "What is the main goal of post-merger integration (PMI)?",
+        "options": [
+          "Realize synergies and combine operations",
+          "Increase regulatory scrutiny",
+          "Delay combined operations indefinitely"
+        ],
+        "answer": "Realize synergies and combine operations"
+      },
+      {
+        "question": "Which body commonly reviews large M&A deals globally?",
+        "options": [
+          "Competition authority",
+          "Local chamber of commerce",
+          "Employee union"
+        ],
+        "answer": "Competition authority"
+      },
+      {
+        "question": "What is cash consideration?",
+        "options": [
+          "Buyer pays cash for shares or assets",
+          "Seller pays buyer cash",
+          "Company issues new stock"
+        ],
+        "answer": "Buyer pays cash for shares or assets"
+      },
+      {
+        "question": "What is a material adverse change clause?",
+        "options": [
+          "Provision allowing withdrawal if large negative events occur",
+          "Clause increasing purchase price automatically",
+          "Term guaranteeing employee benefits"
+        ],
+        "answer": "Provision allowing withdrawal if large negative events occur"
+      },
+      {
+        "question": "What is the purpose of anti-trust review in M&A?",
+        "options": [
+          "Prevent anti-competitive market concentration",
+          "Increase taxes on deals",
+          "Promote hostile takeovers"
+        ],
+        "answer": "Prevent anti-competitive market concentration"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did AOL announce its merger with Time Warner?",
+        "options": [
+          "2000",
+          "1995",
+          "2005"
+        ],
+        "answer": "2000"
+      },
+      {
+        "question": "Which company acquired WhatsApp in 2014?",
+        "options": [
+          "Facebook",
+          "Google",
+          "Microsoft"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Which term describes acquiring a company by buying its majority shares?",
+        "options": [
+          "Stock acquisition",
+          "Asset carve-out",
+          "Management buyout"
+        ],
+        "answer": "Stock acquisition"
+      },
+      {
+        "question": "What is a poison pill defense?",
+        "options": [
+          "Issuing rights that dilute a bidder",
+          "Increasing dividends to shareholders",
+          "Selling company assets quickly"
+        ],
+        "answer": "Issuing rights that dilute a bidder"
+      },
+      {
+        "question": "Which major retailer did Amazon acquire in 2017?",
+        "options": [
+          "Whole Foods",
+          "Best Buy",
+          "Sears"
+        ],
+        "answer": "Whole Foods"
+      },
+      {
+        "question": "What is a golden parachute?",
+        "options": [
+          "Severance benefits for executives after change of control",
+          "Large acquisition premium paid to shareholders",
+          "Stock swap method"
+        ],
+        "answer": "Severance benefits for executives after change of control"
+      },
+      {
+        "question": "What is a reverse takeover?",
+        "options": [
+          "Private company acquires public company to go public",
+          "Company reverses a merger agreement",
+          "Buyer pays a higher price after closing"
+        ],
+        "answer": "Private company acquires public company to go public"
+      },
+      {
+        "question": "What role does a lead arranger play in acquisition financing?",
+        "options": [
+          "Coordinates the financing syndicate",
+          "Manages employee integration",
+          "Handles legal compliance"
+        ],
+        "answer": "Coordinates the financing syndicate"
+      },
+      {
+        "question": "Vodafone's 2000 takeover famously acquired which company?",
+        "options": [
+          "Mannesmann",
+          "AOL",
+          "Time Warner"
+        ],
+        "answer": "Mannesmann"
+      },
+      {
+        "question": "What does earnings accretion measure after an acquisition?",
+        "options": [
+          "Increase in acquirer's EPS",
+          "Change in market share",
+          "Number of new employees"
+        ],
+        "answer": "Increase in acquirer's EPS"
+      },
+      {
+        "question": "Which company did Disney acquire in 2006 to boost animation capabilities?",
+        "options": [
+          "Pixar",
+          "DreamWorks",
+          "Studio Ghibli"
+        ],
+        "answer": "Pixar"
+      },
+      {
+        "question": "What is a merger of equals?",
+        "options": [
+          "Two companies combine with shared governance",
+          "One company buys a small asset",
+          "Company sells a unit"
+        ],
+        "answer": "Two companies combine with shared governance"
+      },
+      {
+        "question": "Which U.S. law mandates pre-merger notification for large deals?",
+        "options": [
+          "Hart-Scott-Rodino Act",
+          "Sarbanes-Oxley Act",
+          "Dodd-Frank Act"
+        ],
+        "answer": "Hart-Scott-Rodino Act"
+      },
+      {
+        "question": "What are representations and warranties in a purchase agreement?",
+        "options": [
+          "Seller statements about the business condition",
+          "Employee contracts",
+          "Regulatory approval documents"
+        ],
+        "answer": "Seller statements about the business condition"
+      },
+      {
+        "question": "Which proposed 2011 telecom acquisition by AT&T was abandoned due to regulatory pushback?",
+        "options": [
+          "T-Mobile USA",
+          "Sprint",
+          "Verizon Wireless"
+        ],
+        "answer": "T-Mobile USA"
+      },
+      {
+        "question": "What is a white knight in takeover situations?",
+        "options": [
+          "Friendly third-party purchaser rescues the target",
+          "Hostile bidder forcing a sale",
+          "Regulator blocking the deal"
+        ],
+        "answer": "Friendly third-party purchaser rescues the target"
+      },
+      {
+        "question": "Which major tech purchase did Google complete in 2006 for about $1.65 billion?",
+        "options": [
+          "YouTube",
+          "Instagram",
+          "Snapchat"
+        ],
+        "answer": "YouTube"
+      },
+      {
+        "question": "What remedy often requires selling assets to secure antitrust approval?",
+        "options": [
+          "Divestiture",
+          "Price fixing",
+          "Arbitration"
+        ],
+        "answer": "Divestiture"
+      },
+      {
+        "question": "What is a management buyout (MBO)?",
+        "options": [
+          "Managers acquire the company they run",
+          "Rival buys the company",
+          "Government nationalizes the firm"
+        ],
+        "answer": "Managers acquire the company they run"
+      },
+      {
+        "question": "What is a share swap ratio used for?",
+        "options": [
+          "Determine shares exchanged in stock-for-stock deals",
+          "Calculate tax due",
+          "Set interest on debt financing"
+        ],
+        "answer": "Determine shares exchanged in stock-for-stock deals"
+      },
+      {
+        "question": "Which method does IFRS require for business combinations?",
+        "options": [
+          "Acquisition method",
+          "Equity method",
+          "Cost method"
+        ],
+        "answer": "Acquisition method"
+      },
+      {
+        "question": "Which liabilities are retained by the seller after an asset sale?",
+        "options": [
+          "Retained liabilities",
+          "Earn-out liability",
+          "Purchase price adjustment"
+        ],
+        "answer": "Retained liabilities"
+      },
+      {
+        "question": "What is sector consolidation typically driven by M&A?",
+        "options": [
+          "Reduction in number of competitors",
+          "Increase in IPOs",
+          "Rise in small startups"
+        ],
+        "answer": "Reduction in number of competitors"
+      },
+      {
+        "question": "Which is an example of a strategic buyer?",
+        "options": [
+          "Company seeking synergies by acquiring a competitor",
+          "Private equity firm seeking returns",
+          "Employee group buying the company"
+        ],
+        "answer": "Company seeking synergies by acquiring a competitor"
+      },
+      {
+        "question": "What is merger arbitrage investing?",
+        "options": [
+          "Buying target shares and shorting acquirer to profit from spread",
+          "Lending money to fund acquisitions",
+          "Advising on legal compliance"
+        ],
+        "answer": "Buying target shares and shorting acquirer to profit from spread"
+      },
+      {
+        "question": "What does staple financing provide in an auction process?",
+        "options": [
+          "Financing package pre-arranged by the target for bidders",
+          "Loan for employee wages",
+          "Insurance policy for the deal"
+        ],
+        "answer": "Financing package pre-arranged by the target for bidders"
+      },
+      {
+        "question": "What increases on the acquirer's balance sheet when purchase price exceeds fair value?",
+        "options": [
+          "Goodwill",
+          "Deferred tax asset",
+          "Contingent liability"
+        ],
+        "answer": "Goodwill"
+      },
+      {
+        "question": "What is a crown jewel defense?",
+        "options": [
+          "Selling or threatening to sell valuable assets to deter a bidder",
+          "Increasing dividend payouts",
+          "Removing the CEO"
+        ],
+        "answer": "Selling or threatening to sell valuable assets to deter a bidder"
+      },
+      {
+        "question": "What concern is central to horizontal merger antitrust review?",
+        "options": [
+          "Reduced competition and higher prices",
+          "Lower production costs",
+          "Increased charity donations"
+        ],
+        "answer": "Reduced competition and higher prices"
+      },
+      {
+        "question": "What does an integration roadmap primarily outline?",
+        "options": [
+          "Steps to combine operations and systems",
+          "Method to increase dividends",
+          "Plan to spin off assets immediately"
+        ],
+        "answer": "Steps to combine operations and systems"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which 2000 takeover is often cited as the largest corporate acquisition by value?",
+        "options": [
+          "Vodafone's acquisition of Mannesmann",
+          "AOL's acquisition of Time Warner",
+          "Exxon's merger with Mobil"
+        ],
+        "answer": "Vodafone's acquisition of Mannesmann"
+      },
+      {
+        "question": "Which accounting standard governs business combinations under IFRS?",
+        "options": [
+          "IFRS 3",
+          "IFRS 9",
+          "IAS 12"
+        ],
+        "answer": "IFRS 3"
+      },
+      {
+        "question": "What is a bargain purchase gain in acquisition accounting?",
+        "options": [
+          "Gain when fair value of net assets exceeds purchase consideration",
+          "Gain from selling a non-core asset after closing",
+          "Tax benefit from acquisition financing"
+        ],
+        "answer": "Gain when fair value of net assets exceeds purchase consideration"
+      },
+      {
+        "question": "Which U.S. case established enhanced judicial scrutiny of defensive measures by a board?",
+        "options": [
+          "Unocal v. Mesa Petroleum",
+          "Revlon v. MacAndrews",
+          "Chevron v. Natural Resources"
+        ],
+        "answer": "Unocal v. Mesa Petroleum"
+      },
+      {
+        "question": "What duty does the board owe when a company is up for sale, per Revlon doctrine?",
+        "options": [
+          "Maximize shareholder value in sale",
+          "Protect employees' jobs above all",
+          "Minimize taxes regardless of price"
+        ],
+        "answer": "Maximize shareholder value in sale"
+      },
+      {
+        "question": "What does a go-shop provision allow after signing an agreement?",
+        "options": [
+          "Target solicits higher bids for a limited period",
+          "Acquirer withdraws without penalty anytime",
+          "Target must immediately close the deal"
+        ],
+        "answer": "Target solicits higher bids for a limited period"
+      },
+      {
+        "question": "Which instrument often preserves target management continuity post-deal?",
+        "options": [
+          "Earn-out tied to performance",
+          "No-shop provision",
+          "Breakup fee"
+        ],
+        "answer": "Earn-out tied to performance"
+      },
+      {
+        "question": "What is the tax advantage of an asset purchase over a stock purchase for buyers?",
+        "options": [
+          "Step-up in tax basis of acquired assets",
+          "Lower immediate cash outflow",
+          "No requirement for due diligence"
+        ],
+        "answer": "Step-up in tax basis of acquired assets"
+      },
+      {
+        "question": "Which remedy requires permanent sale of business units to address competition concerns?",
+        "options": [
+          "Structural remedy (divestiture)",
+          "Behavioral remedy",
+          "Temporary injunction"
+        ],
+        "answer": "Structural remedy (divestiture)"
+      },
+      {
+        "question": "What is a reverse triangular merger commonly used for?",
+        "options": [
+          "Acquirer obtains target while preserving target's contracts",
+          "Target buys the acquirer's shares",
+          "Acquirer sells off a major asset before closing"
+        ],
+        "answer": "Acquirer obtains target while preserving target's contracts"
+      },
+      {
+        "question": "Which instrument gives minority investors rights to block control changes?",
+        "options": [
+          "Shareholder rights plan or special voting rights",
+          "Golden parachute",
+          "Staple financing"
+        ],
+        "answer": "Shareholder rights plan or special voting rights"
+      },
+      {
+        "question": "What is the primary accounting task called after closing a business combination?",
+        "options": [
+          "Purchase price allocation (PPA)",
+          "Dividend recapitalization",
+          "Merger arbitrage"
+        ],
+        "answer": "Purchase price allocation (PPA)"
+      },
+      {
+        "question": "Which concept measures expected cost-cutting benefits from combining companies?",
+        "options": [
+          "Cost synergies",
+          "Revenue synergies",
+          "Brand synergies"
+        ],
+        "answer": "Cost synergies"
+      },
+      {
+        "question": "What is a go-shop's typical strategic benefit to target shareholders?",
+        "options": [
+          "Maximizes sale price by encouraging competing bids",
+          "Prevents any competing bids",
+          "Automatically increases breakup fee"
+        ],
+        "answer": "Maximizes sale price by encouraging competing bids"
+      },
+      {
+        "question": "Which defense involves selling prized assets to thwart a bidder?",
+        "options": [
+          "Crown jewel defense",
+          "Pac-Man defense",
+          "Scorched earth defense"
+        ],
+        "answer": "Crown jewel defense"
+      },
+      {
+        "question": "Which legal instrument often governs indemnities and post-closing claims?",
+        "options": [
+          "Purchase agreement representations and warranties",
+          "Proxy statement",
+          "Tender offer announcement"
+        ],
+        "answer": "Purchase agreement representations and warranties"
+      },
+      {
+        "question": "What is a white squire in takeover contexts?",
+        "options": [
+          "Investor who buys a blocking minority stake to defend the target",
+          "Hostile bidder seeking full control",
+          "Regulator imposing merger conditions"
+        ],
+        "answer": "Investor who buys a blocking minority stake to defend the target"
+      },
+      {
+        "question": "Which financing source commonly supplies high-yield debt in LBOs?",
+        "options": [
+          "Institutional investors in the leveraged loan and high-yield markets",
+          "Retail bank savings accounts",
+          "Customer deposits"
+        ],
+        "answer": "Institutional investors in the leveraged loan and high-yield markets"
+      },
+      {
+        "question": "Which term describes ongoing operational commitments imposed by regulators?",
+        "options": [
+          "Behavioral remedies",
+          "Structural remedies",
+          "Breach notices"
+        ],
+        "answer": "Behavioral remedies"
+      },
+      {
+        "question": "Which clause allows adjustment of purchase price for working capital changes?",
+        "options": [
+          "Purchase price adjustment clause",
+          "Breakup fee clause",
+          "No-shop clause"
+        ],
+        "answer": "Purchase price adjustment clause"
+      },
+      {
+        "question": "What is the key valuation concern with hostile takeover targets?",
+        "options": [
+          "Potential premium and rapid price moves from contest",
+          "Guaranteed regulatory approval",
+          "No need for due diligence"
+        ],
+        "answer": "Potential premium and rapid price moves from contest"
+      },
+      {
+        "question": "Which corporate reorganization code in the U.S. defines certain tax-free mergers?",
+        "options": [
+          "Section 368 of the Internal Revenue Code",
+          "Section 11 of the Securities Act",
+          "Section 404 of Sarbanes-Oxley"
+        ],
+        "answer": "Section 368 of the Internal Revenue Code"
+      },
+      {
+        "question": "Which doctrine requires directors to seek the best value when breakup is inevitable?",
+        "options": [
+          "Revlon duty",
+          "Unocal standard",
+          "Business judgment rule"
+        ],
+        "answer": "Revlon duty"
+      },
+      {
+        "question": "What is rollover equity in an MBO or private equity deal?",
+        "options": [
+          "Sellers reinvest a portion of proceeds as equity in the new company",
+          "Equity issued to customers as a loyalty program",
+          "Mandatory dividend paid before closing"
+        ],
+        "answer": "Sellers reinvest a portion of proceeds as equity in the new company"
+      },
+      {
+        "question": "Which post-closing adjustment period permits valuation updates under many standards?",
+        "options": [
+          "Measurement period under IFRS/GAAP",
+          "Statutory audit period",
+          "Tax reassessment window"
+        ],
+        "answer": "Measurement period under IFRS/GAAP"
+      },
+      {
+        "question": "Which risk is central to merger arbitrage strategies?",
+        "options": [
+          "Deal failure or regulatory intervention before closing",
+          "Employee turnover only after five years",
+          "Inflation causing immediate re-pricing daily"
+        ],
+        "answer": "Deal failure or regulatory intervention before closing"
+      },
+      {
+        "question": "What is contingent consideration classification in acquisition accounting?",
+        "options": [
+          "Liability or equity depending on settlement terms",
+          "Guaranteed cash paid at signing",
+          "Non-binding advisory fee"
+        ],
+        "answer": "Liability or equity depending on settlement terms"
+      },
+      {
+        "question": "Which instrument often protects acquirers from target pre-closing losses?",
+        "options": [
+          "Reps and warranties insurance or indemnity provisions",
+          "Golden parachute",
+          "No-shop clause"
+        ],
+        "answer": "Reps and warranties insurance or indemnity provisions"
+      },
+      {
+        "question": "What key test evaluates whether a stock-for-stock deal dilutes EPS?",
+        "options": [
+          "Accretion/dilution analysis",
+          "Return on equity test",
+          "Liquidity ratio test"
+        ],
+        "answer": "Accretion/dilution analysis"
+      },
+      {
+        "question": "Which transaction form often avoids successor liability for acquirer?",
+        "options": [
+          "Asset purchase with specific liability carve-outs",
+          "100% stock purchase with no disclosures",
+          "Hostile tender offer"
+        ],
+        "answer": "Asset purchase with specific liability carve-outs"
+      },
+      {
+        "question": "What is a key advantage of a reverse triangular merger for acquirers?",
+        "options": [
+          "Preserves target's contractual relationships while achieving control",
+          "Automatically avoids all regulatory review",
+          "Eliminates need for purchase price allocation"
+        ],
+        "answer": "Preserves target's contractual relationships while achieving control"
+      },
+      {
+        "question": "Which factor often drives strategic buyers to pay higher premiums than financial sponsors?",
+        "options": [
+          "Expected long-term synergies and strategic fit",
+          "Lower financing costs only",
+          "Regulatory immunity"
+        ],
+        "answer": "Expected long-term synergies and strategic fit"
+      },
+      {
+        "question": "Which high-profile proposed merger was blocked or constrained due to competition concerns in recent years?",
+        "options": [
+          "AT&T's attempted acquisition of T-Mobile USA in 2011",
+          "Disney's acquisition of Pixar in 2006",
+          "Google's acquisition of YouTube in 2006"
+        ],
+        "answer": "AT&T's attempted acquisition of T-Mobile USA in 2011"
+      }
+    ]
+  }
+}

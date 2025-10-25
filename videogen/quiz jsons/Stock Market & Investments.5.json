@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a market order instruct a broker to do?",
+      "options": [
+        "Buy or sell immediately at current market price",
+        "Execute a trade only at a specific higher price",
+        "Hold the order until a target date"
+      ],
+      "answer": "Buy or sell immediately at current market price"
+    },
+    {
+      "question_id": 2,
+      "question": "Which ratio measures a company's ability to pay short-term liabilities?",
+      "options": [
+        "Dividend payout ratio",
+        "Current ratio",
+        "Price-to-book ratio"
+      ],
+      "answer": "Current ratio"
+    },
+    {
+      "question_id": 3,
+      "question": "Which investment approach focuses on company free cash flow rather than accounting earnings?",
+      "options": [
+        "Price-to-earnings analysis",
+        "Free cash flow valuation",
+        "Dividend discount model"
+      ],
+      "answer": "Free cash flow valuation"
+    },
+    {
+      "question_id": 4,
+      "question": "What is liquidity in financial markets?",
+      "options": [
+        "The number of shareholders a company has",
+        "How quickly an asset can be bought or sold",
+        "The tax rate applied to investment income"
+      ],
+      "answer": "How quickly an asset can be bought or sold"
+    },
+    {
+      "question_id": 5,
+      "question": "Which U.S. act tightened corporate governance after accounting scandals in 2002?",
+      "options": [
+        "Patriot Act",
+        "Sarbanes-Oxley Act",
+        "Glass-Steagall Act"
+      ],
+      "answer": "Sarbanes-Oxley Act"
+    },
+    {
+      "question_id": 6,
+      "question": "Which metric captures company value including debt and excluding cash relative to earnings?",
+      "options": [
+        "Book value per share",
+        "Price-to-earnings ratio",
+        "Enterprise value to EBITDA"
+      ],
+      "answer": "Enterprise value to EBITDA"
+    },
+    {
+      "question_id": 7,
+      "question": "What is diversification benefit primarily intended to reduce?",
+      "options": [
+        "Investor taxes owed each year",
+        "Transaction fees incurred by trading",
+        "Unspecific risk from individual investments"
+      ],
+      "answer": "Unspecific risk from individual investments"
+    },
+    {
+      "question_id": 8,
+      "question": "Which trading practice involves borrowing shares to sell them first?",
+      "options": [
+        "Short selling",
+        "Covered call writing",
+        "Dollar-cost averaging"
+      ],
+      "answer": "Short selling"
+    },
+    {
+      "question_id": 9,
+      "question": "Which mechanism allows large orders to execute away from public exchanges?",
+      "options": [
+        "Dark pools",
+        "Auction markets",
+        "Clearinghouses"
+      ],
+      "answer": "Dark pools"
+    },
+    {
+      "question_id": 10,
+      "question": "What is insider trading in securities markets?",
+      "options": [
+        "Buying international stocks through foreign brokers",
+        "Trading only during market open hours",
+        "Trading using material nonpublic information illegally"
+      ],
+      "answer": "Trading using material nonpublic information illegally"
+    },
+    {
+      "question_id": 11,
+      "question": "Which academic proposed the Efficient Market Hypothesis prominently?",
+      "options": [
+        "John Maynard Keynes",
+        "Myron Scholes",
+        "Eugene Fama"
+      ],
+      "answer": "Eugene Fama"
+    },
+    {
+      "question_id": 12,
+      "question": "Which academic introduced the concept of portfolio mean-variance optimization?",
+      "options": [
+        "Harry Markowitz",
+        "Eugene Fama",
+        "Paul Samuelson"
+      ],
+      "answer": "Harry Markowitz"
+    },
+    {
+      "question_id": 13,
+      "question": "What defines a bear market?",
+      "options": [
+        "Market closure due to holidays",
+        "Rapidly rising stock prices and excitement",
+        "Prolonged falling stock prices and pessimism"
+      ],
+      "answer": "Prolonged falling stock prices and pessimism"
+    },
+    {
+      "question_id": 14,
+      "question": "Which accounting scandal used special purpose entities at Enron?",
+      "options": [
+        "Enron used SPEs to hide liabilities",
+        "Enron used reverse splits to raise capital",
+        "Enron avoided SEC filings by deregistration"
+      ],
+      "answer": "Enron used SPEs to hide liabilities"
+    },
+    {
+      "question_id": 15,
+      "question": "Which year did U.S. markets adopt decimal pricing replacing fractions?",
+      "options": [
+        "1987",
+        "2001",
+        "1993"
+      ],
+      "answer": "2001"
+    }
+  ]
+}

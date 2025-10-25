@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which early alphabetic symbol meaning 'ox' developed into the letter 'A'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which letter originally named 'beth' meant 'house' in early Semitic acrophony?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which ancient culture applied acrophony to name letters after everyday objects like 'house' and 'ox'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which writing system arranges signs to represent individual spoken sounds (consonants and vowels)?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which code ensures only one bit changes between successive values in sequence?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Phoenician letter name originally meant 'ox' and morphed into Greek Alpha and Latin A?"
+    },
+    {
+      "question_id": 7,
+      "question": "How many letters are in the Greek alphabet?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which alphabet type groups letters by shared visual features, like Korean Hangul?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which specialized numeral system uses digits −1, 0, and +1 often represented as T, 0, 1?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which script is commonly referred to as an abjad, primarily representing consonants?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ancient culture developed the positional base-60 number system?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which numeric representation method stores negative integers by inverting bits and adding one?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which ancient script is widely considered the ancestor of many modern alphabets?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script influenced the development of the modern Cyrillic alphabet?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which historical alphabet used a cuneiform-like script but functioned as an alphabet at Ugarit?"
+    }
+  ]
+}

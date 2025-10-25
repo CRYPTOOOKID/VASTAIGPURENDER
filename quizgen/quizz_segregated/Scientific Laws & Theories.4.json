@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which law describes the relationship between pressure, temperature, and volume for gases at low density?",
+      "options": [
+        "Kepler's law",
+        "Hooke's law",
+        "Ideal gas law"
+      ],
+      "answer": "Ideal gas law"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientific law explains how reaction rates depend on concentration and rate constants?",
+      "options": [
+        "Le Chatelier's principle",
+        "Hess's law",
+        "Rate law of chemical kinetics"
+      ],
+      "answer": "Rate law of chemical kinetics"
+    },
+    {
+      "question_id": 3,
+      "question": "Which empirical law relates stellar luminosity roughly to a power of stellar mass on the main sequence?",
+      "options": [
+        "Mass–luminosity relation",
+        "Hubble's law",
+        "Stefan–Boltzmann law"
+      ],
+      "answer": "Mass–luminosity relation"
+    },
+    {
+      "question_id": 4,
+      "question": "What law relates the force needed to extend or compress a spring to the displacement?",
+      "options": [
+        "Laplace's law",
+        "Newton's third law",
+        "Hooke's law"
+      ],
+      "answer": "Hooke's law"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law in thermodynamics states entropy approaches a constant as temperature approaches absolute zero?",
+      "options": [
+        "First law of thermodynamics",
+        "Third law of thermodynamics",
+        "Zeroth law of thermodynamics"
+      ],
+      "answer": "Third law of thermodynamics"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept explains anomalies in planetary precession resolved by general relativity?",
+      "options": [
+        "Tidal friction theory",
+        "Newtonian perturbation theory",
+        "Perihelion precession of Mercury explained by general relativity"
+      ],
+      "answer": "Perihelion precession of Mercury explained by general relativity"
+    },
+    {
+      "question_id": 7,
+      "question": "What theory explains why solids, liquids, and gases have different macroscopic behavior from particle motion?",
+      "options": [
+        "String theory",
+        "Relativity",
+        "Kinetic theory of gases"
+      ],
+      "answer": "Kinetic theory of gases"
+    },
+    {
+      "question_id": 8,
+      "question": "Who formulated the laws of planetary motion using Tycho Brahe's observations?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler"
+      ],
+      "answer": "Johannes Kepler"
+    },
+    {
+      "question_id": 9,
+      "question": "Which relation predicts the entropy of an ideal gas in terms of volume, energy, and particle number constants?",
+      "options": [
+        "Boltzmann formula",
+        "Gibbs free energy",
+        "Sackur–Tetrode equation"
+      ],
+      "answer": "Sackur–Tetrode equation"
+    },
+    {
+      "question_id": 10,
+      "question": "Which law explains that pressure in a fluid decreases as the speed of the fluid increases?",
+      "options": [
+        "Archimedes' principle",
+        "Pascal's principle",
+        "Bernoulli's principle"
+      ],
+      "answer": "Bernoulli's principle"
+    },
+    {
+      "question_id": 11,
+      "question": "Which empirical law approximates the relation between pressure and vapor pressure of a solution?",
+      "options": [
+        "Dalton's law",
+        "Raoult's law",
+        "Henry's law"
+      ],
+      "answer": "Raoult's law"
+    },
+    {
+      "question_id": 12,
+      "question": "Which law quantifies tunneling decay rates in nuclear alpha decay using barrier penetration?",
+      "options": [
+        "Gamow theory of alpha decay",
+        "Rutherford scattering law",
+        "Bohr model"
+      ],
+      "answer": "Gamow theory of alpha decay"
+    },
+    {
+      "question_id": 13,
+      "question": "Which theory established that cells are the basic unit of life?",
+      "options": [
+        "Cell theory",
+        "Germ theory",
+        "Plate tectonics"
+      ],
+      "answer": "Cell theory"
+    },
+    {
+      "question_id": 14,
+      "question": "Which law describes how osmotic pressure depends on solute concentration and temperature?",
+      "options": [
+        "Henry's law",
+        "Van 't Hoff's law",
+        "Raoult's law"
+      ],
+      "answer": "Van 't Hoff's law"
+    },
+    {
+      "question_id": 15,
+      "question": "Which law describes the empirical steep power-law relation in many natural networks and distributions?",
+      "options": [
+        "Zipf's law",
+        "Central limit law",
+        "Benford's law"
+      ],
+      "answer": "Zipf's law"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the famous movie quote: \"Here's looking at you, kid\" is from which decade?",
+      "options": [
+        "1940s",
+        "1960s",
+        "1980s"
+      ],
+      "answer": "1940s"
+    },
+    {
+      "question_id": 2,
+      "question": "Finish the quote: \"Here's looking at you, kid\" — who says it to whom in Casablanca?",
+      "options": [
+        "Rick to Ilsa",
+        "Captain to soldier",
+        "Doctor to patient"
+      ],
+      "answer": "Rick to Ilsa"
+    },
+    {
+      "question_id": 3,
+      "question": "Finish the quote: \"You're gonna need a bigger boat\" — who ad-libbed the line in Jaws?",
+      "options": [
+        "Roy Scheider",
+        "Richard Dreyfuss",
+        "Robert Shaw"
+      ],
+      "answer": "Roy Scheider"
+    },
+    {
+      "question_id": 4,
+      "question": "Finish the famous movie quote: \"There's no place like ____\" (The Wizard of Oz).",
+      "options": [
+        "Home",
+        "Heaven",
+        "Dreams"
+      ],
+      "answer": "Home"
+    },
+    {
+      "question_id": 5,
+      "question": "Finish the quote: \"Here's looking at you, kid\" occurs at what point in the story?",
+      "options": [
+        "Bittersweet farewell",
+        "Opening scene",
+        "Climactic battle"
+      ],
+      "answer": "Bittersweet farewell"
+    },
+    {
+      "question_id": 6,
+      "question": "Finish the quote: \"I'll have what she's having\" — which director staged the final restaurant scene?",
+      "options": [
+        "Rob Reiner",
+        "Nora Ephron",
+        "Mike Nichols"
+      ],
+      "answer": "Rob Reiner"
+    },
+    {
+      "question_id": 7,
+      "question": "Finish the famous movie quote: \"You talking to ____?\" (Taxi Driver).",
+      "options": [
+        "Me",
+        "Him",
+        "Her"
+      ],
+      "answer": "Me"
+    },
+    {
+      "question_id": 8,
+      "question": "Finish the quote: \"I'm walking here!\" is a famous improvised line from which film?",
+      "options": [
+        "Midnight Cowboy",
+        "Taxi Driver",
+        "The Godfather"
+      ],
+      "answer": "Midnight Cowboy"
+    },
+    {
+      "question_id": 9,
+      "question": "Finish the quote: \"I'll have what she's having\" — which actor's comedic timing sold the line?",
+      "options": [
+        "Meg Ryan",
+        "Cantonese actor",
+        "Estelle Reiner"
+      ],
+      "answer": "Estelle Reiner"
+    },
+    {
+      "question_id": 10,
+      "question": "Finish the famous movie quote: \"You can't handle the ____!\" (A Few Good Men).",
+      "options": [
+        "Truth",
+        "Justice",
+        "Power"
+      ],
+      "answer": "Truth"
+    },
+    {
+      "question_id": 11,
+      "question": "Finish the quote: \"Say 'what' again! I dare you, I double dare you, ____' what!'\" Which film?",
+      "options": [
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Goodfellas"
+      ],
+      "answer": "Pulp Fiction"
+    },
+    {
+      "question_id": 12,
+      "question": "Finish the quote: \"Keep your friends close, but your enemies closer\" — which historical figure inspired the line in the screenplay?",
+      "options": [
+        "Sun Tzu",
+        "Niccolò Machiavelli",
+        "Julius Caesar"
+      ],
+      "answer": "Niccolò Machiavelli"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the famous movie quote: \"I'm having an old friend for ____.\" (Casablanca).",
+      "options": [
+        "Dinner",
+        "Tea",
+        "Coffee"
+      ],
+      "answer": "Dinner"
+    },
+    {
+      "question_id": 14,
+      "question": "Finish the quote: \"They're here!\" is from which 1980s horror film?",
+      "options": [
+        "Poltergeist",
+        "A Nightmare on Elm Street",
+        "Friday the 13th"
+      ],
+      "answer": "Poltergeist"
+    },
+    {
+      "question_id": 15,
+      "question": "Finish the quote: \"The first rule of Fight Club is: you do not talk about Fight Club\" — who adapted this novel into a screenplay?",
+      "options": [
+        "Jim Uhls",
+        "Scott Frank",
+        "Seth Rogen"
+      ],
+      "answer": "Jim Uhls"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who became India’s first President after independence?",
+      "options": [
+        "Dr. Zakir Husain",
+        "Sarvepalli Radhakrishnan",
+        "Dr. Rajendra Prasad"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question_id": 2,
+      "question": "Which leader is credited with founding India’s White Revolution?",
+      "options": [
+        "M. S. Swaminathan",
+        "Verghese Kurien",
+        "Norman Borlaug"
+      ],
+      "answer": "Verghese Kurien"
+    },
+    {
+      "question_id": 3,
+      "question": "Which leader headed the Planning Commission before it was replaced by NITI Aayog?",
+      "options": [
+        "Morarji Desai",
+        "Pranab Mukherjee",
+        "J. Nehru and later appointed Chairmen"
+      ],
+      "answer": "J. Nehru and later appointed Chairmen"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B. R. Ambedkar",
+        "Rajendra Prasad"
+      ],
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question_id": 5,
+      "question": "Who was India’s Prime Minister during the 1971 war with Pakistan?",
+      "options": [
+        "Indira Gandhi",
+        "Morarji Desai",
+        "Atal Bihari Vajpayee"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Prime Minister led India’s first non-Congress central government in 1977?",
+      "options": [
+        "Lal Krishna Advani",
+        "Morarji Desai",
+        "Charan Singh"
+      ],
+      "answer": "Morarji Desai"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded the All India Forward Bloc?",
+      "options": [
+        "Sardar Patel",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 8,
+      "question": "Who first served as the woman Speaker of the Lok Sabha?",
+      "options": [
+        "Sumitra Mahajan",
+        "Pratibha Patil",
+        "Meira Kumar"
+      ],
+      "answer": "Meira Kumar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Constitutional Amendment introduced the Goods and Services Tax (GST)?",
+      "options": [
+        "42nd Amendment Act, 1976",
+        "73rd Amendment Act, 1992",
+        "101st Amendment Act, 2016"
+      ],
+      "answer": "101st Amendment Act, 2016"
+    },
+    {
+      "question_id": 10,
+      "question": "On which date did India become a republic?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949"
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Article of the Constitution abolishes untouchability?",
+      "options": [
+        "Article 21",
+        "Article 17",
+        "Article 15"
+      ],
+      "answer": "Article 17"
+    },
+    {
+      "question_id": 12,
+      "question": "Which legal instrument extended fundamental rights protection against state actions originally?",
+      "options": [
+        "Part III of the Constitution",
+        "Part IV of the Constitution",
+        "Part II of the Constitution"
+      ],
+      "answer": "Part III of the Constitution"
+    },
+    {
+      "question_id": 13,
+      "question": "Who was India’s first woman President?",
+      "options": [
+        "Pranab Mukherjee",
+        "Pratibha Patil",
+        "Sarvepalli Radhakrishnan"
+      ],
+      "answer": "Pratibha Patil"
+    },
+    {
+      "question_id": 14,
+      "question": "Who led the 1930 Salt March to challenge British salt laws?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhagat Singh"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 15,
+      "question": "Which leader led accession talks and merger of Junagadh into the Indian Union?",
+      "options": [
+        "V. P. Menon",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    }
+  ]
+}

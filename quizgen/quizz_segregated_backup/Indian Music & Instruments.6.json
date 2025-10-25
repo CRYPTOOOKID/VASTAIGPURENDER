@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ancient vocal form, older than khayal, focuses on spiritual themes and weighty style?",
+      "options": [
+        "Dhrupad",
+        "Thumri",
+        "Ghazal"
+      ],
+      "answer": "Dhrupad"
+    },
+    {
+      "question_id": 2,
+      "question": "How many beats comprise the common Hindustani teental cycle?",
+      "options": [
+        "16",
+        "10",
+        "12"
+      ],
+      "answer": "16"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 20th-century maestro created the Maihar school and united multiple instruments under one pedagogy?",
+      "options": [
+        "Allauddin Khan",
+        "Alladiya Khan",
+        "Pandit Vishnu Digambar Paluskar"
+      ],
+      "answer": "Allauddin Khan"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the principal melodic framework in Indian classical music?",
+      "options": [
+        "Raga",
+        "Tala",
+        "Sargam"
+      ],
+      "answer": "Raga"
+    },
+    {
+      "question_id": 5,
+      "question": "Who founded the Maihar gharana and taught several 20th-century maestros?",
+      "options": [
+        "Allauddin Khan",
+        "Alladiya Khan",
+        "Ustad Bade Ghulam Ali Khan"
+      ],
+      "answer": "Allauddin Khan"
+    },
+    {
+      "question_id": 6,
+      "question": "Which classical form’s roots trace to royal courts and emphasize strict intonation and austere style?",
+      "options": [
+        "Dhrupad",
+        "Khayal",
+        "Thumri"
+      ],
+      "answer": "Dhrupad"
+    },
+    {
+      "question_id": 7,
+      "question": "Which classical tradition originates principally from South India?",
+      "options": [
+        "Carnatic",
+        "Hindustani",
+        "Filmi"
+      ],
+      "answer": "Carnatic"
+    },
+    {
+      "question_id": 8,
+      "question": "Which raga is traditionally performed at dusk and features a raised fourth (teevra Ma)?",
+      "options": [
+        "Yaman",
+        "Bhairav",
+        "Todi"
+      ],
+      "answer": "Yaman"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian classical performance section introduces rhythm through fixed composition called gat?",
+      "options": [
+        "Gat",
+        "Alaap",
+        "Tanpura"
+      ],
+      "answer": "Gat"
+    },
+    {
+      "question_id": 10,
+      "question": "What term describes the cyclic rhythmic pattern in Indian music?",
+      "options": [
+        "Tala",
+        "Raga",
+        "Bandish"
+      ],
+      "answer": "Tala"
+    },
+    {
+      "question_id": 11,
+      "question": "Which style of singing emphasizes improvisation around a small poetic theme, often romantic?",
+      "options": [
+        "Thumri",
+        "Dhrupad",
+        "Khayal"
+      ],
+      "answer": "Thumri"
+    },
+    {
+      "question_id": 12,
+      "question": "Which gharana is especially renowned for preserving dhrupad vocal technique into modern times?",
+      "options": [
+        "Dagar",
+        "Patiala",
+        "Kirana"
+      ],
+      "answer": "Dagar"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is commonly called the 'Nightingale of India' for her vocal contributions?",
+      "options": [
+        "Lata Mangeshkar",
+        "Asha Bhosle",
+        "Kishori Amonkar"
+      ],
+      "answer": "Lata Mangeshkar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which modern Indian musician popularized the Mohan Veena, a modified slide guitar?",
+      "options": [
+        "Vishwa Mohan Bhatt",
+        "Pandit Shivkumar Sharma",
+        "R.D. Burman"
+      ],
+      "answer": "Vishwa Mohan Bhatt"
+    },
+    {
+      "question_id": 15,
+      "question": "Which vocal ornamentation involves forceful, oscillatory shakes across a note cluster?",
+      "options": [
+        "Gamak",
+        "Meend",
+        "Khatka"
+      ],
+      "answer": "Gamak"
+    }
+  ]
+}

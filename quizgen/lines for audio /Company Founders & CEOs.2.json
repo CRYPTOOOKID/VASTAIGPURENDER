@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded Toyota Motor Company?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company did Travis Kalanick co-found in 2009?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early investor and CEO transformed Amazon from bookstore to 'everything store'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded Ford Motor Company?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which executive expanded Starbucks globally as its longtime CEO?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does the acronym IKEA stand for?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded Alibaba Group?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which founder launched Virgin Atlantic airline as part of Virgin Group?"
+    },
+    {
+      "question_id": 9,
+      "question": "In which California town was Apple founded in Steve Jobs' parents' garage?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who co-founded Oracle and led it for decades?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company did Elon Musk co-found that later merged into PayPal?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which founder created the modular business model behind Zara's rapid fashion cycles?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who transformed Berkshire Hathaway into a major conglomerate as CEO?"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Tim Cook officially become Apple CEO?"
+    },
+    {
+      "question_id": 15,
+      "question": "What was the Netflix service model before streaming became primary?"
+    }
+  ]
+}

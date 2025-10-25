@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which conflict is commemorated by Navy Day on December 4?",
+      "options": [
+        "1999 Kargil conflict",
+        "1971 Indo-Pak naval operations",
+        "1965 Indo-Pak land battles"
+      ],
+      "answer": "1971 Indo-Pak naval operations"
+    },
+    {
+      "question_id": 2,
+      "question": "Which training establishment prepares naval officers in India at Ezhimala?",
+      "options": [
+        "Naval Dockyard Academy",
+        "Naval Academy (INS Mandovi/now at Ezhimala)",
+        "Navy Air Station"
+      ],
+      "answer": "Naval Academy (INS Mandovi/now at Ezhimala)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian intelligence and special operations unit operates under the Research and Analysis Wing and specialised forces?",
+      "options": [
+        "Special Group and RAW-linked covert units",
+        "NSG only",
+        "Coast Guard units"
+      ],
+      "answer": "Special Group and RAW-linked covert units"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian armed service operates fighter jets to maintain air superiority?",
+      "options": [
+        "Indian Air Force",
+        "Indian Navy",
+        "Indian Army"
+      ],
+      "answer": "Indian Air Force"
+    },
+    {
+      "question_id": 5,
+      "question": "Which elite Indian Army unit specializes in airborne and special operations?",
+      "options": [
+        "Parachute Regiment (Special Forces)",
+        "Gorkha Rifles",
+        "Jat Regiment"
+      ],
+      "answer": "Parachute Regiment (Special Forces)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which wartime Revolutionary-era unit is considered the oldest continuously serving cavalry unit now serving the President?",
+      "options": [
+        "President's Bodyguard",
+        "Guides Cavalry",
+        "Skinner's Horse"
+      ],
+      "answer": "President's Bodyguard"
+    },
+    {
+      "question_id": 7,
+      "question": "Which branch operates submarines in the Indian Armed Forces?",
+      "options": [
+        "Indian Navy",
+        "Indian Army",
+        "Indian Air Force"
+      ],
+      "answer": "Indian Navy"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian warship class focuses on anti-submarine warfare and stealth features?",
+      "options": [
+        "Vishwast-class patrol vessels",
+        "Shivalik-class frigates",
+        "Kora-class corvettes"
+      ],
+      "answer": "Shivalik-class frigates"
+    },
+    {
+      "question_id": 9,
+      "question": "Which training institution awards the Sword of Honour to the best performing cadet across services at NDA?",
+      "options": [
+        "Air Force Academy only",
+        "National Defence Academy awards Sword of Honour",
+        "Indian Military Academy only"
+      ],
+      "answer": "National Defence Academy awards Sword of Honour"
+    },
+    {
+      "question_id": 10,
+      "question": "Which specialized mountain warfare unit serves at very high altitudes like Siachen?",
+      "options": [
+        "Parachute Regiment only",
+        "High Altitude Warfare School graduates and mountain units",
+        "Navy marines"
+      ],
+      "answer": "High Altitude Warfare School graduates and mountain units"
+    },
+    {
+      "question_id": 11,
+      "question": "Which award ranks immediately below Maha Vir Chakra in wartime gallantry order?",
+      "options": [
+        "Vir Chakra",
+        "Param Vir Chakra",
+        "Sena Medal"
+      ],
+      "answer": "Vir Chakra"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Army chief famously led Indian forces during the 1971 war and later became a Field Marshal?",
+      "options": [
+        "B. M. Kaul",
+        "Sam Manekshaw",
+        "K. Sundarji"
+      ],
+      "answer": "Sam Manekshaw"
+    },
+    {
+      "question_id": 13,
+      "question": "Which academy trains Indian Army officers at Dehradun?",
+      "options": [
+        "Naval Academy",
+        "Air Force Academy",
+        "Indian Military Academy"
+      ],
+      "answer": "Indian Military Academy"
+    },
+    {
+      "question_id": 14,
+      "question": "Which institution provides advanced staff and command training to mid-career officers?",
+      "options": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "Defence Services Staff College"
+      ],
+      "answer": "Defence Services Staff College"
+    },
+    {
+      "question_id": 15,
+      "question": "Which category of weapon is the Pinaka system that the Indian Army deploys for rocket artillery?",
+      "options": [
+        "Multiple rocket launcher system",
+        "Towed howitzer",
+        "Single-tube ballistic missile"
+      ],
+      "answer": "Multiple rocket launcher system"
+    }
+  ]
+}

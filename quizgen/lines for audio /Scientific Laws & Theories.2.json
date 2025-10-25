@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which law describes conservation of electric charge as a continuity equation?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which effect demonstrates quantum tunneling in electron microscopy and field emission?"
+    },
+    {
+      "question_id": 4,
+      "question": "What theory explains the diversity of species through natural selection?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law describes how the rate of effusion of a gas relates to its molar mass?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which law gives the thermodynamic relationship between entropy and number of microscopic configurations?"
+    },
+    {
+      "question_id": 7,
+      "question": "What theory explains matter behaving as both particles and waves at microscopic scales?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which principle explains the conservation of circulation in ideal fluid flow?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which theorem in quantum field theory predicts massless modes when continuous symmetries break spontaneously?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which law measures the attraction between electrical charges?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which law predicts the inverse-square decrease of light intensity with distance from a point source?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which inequality sets bounds on simultaneous measurements in quantum estimation beyond Heisenberg's limit?"
+    },
+    {
+      "question_id": 13,
+      "question": "What principle explains why pressure applied to an enclosed fluid is transmitted undiminished?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which empirical law links earthquake frequency and magnitude distribution logarithmically?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which result in quantum mechanics forbids copying an unknown quantum state exactly?"
+    }
+  ]
+}

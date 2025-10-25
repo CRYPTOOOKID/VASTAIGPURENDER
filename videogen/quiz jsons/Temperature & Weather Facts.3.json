@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which single-letter symbol commonly marks a low-pressure center on surface maps?",
+      "options": [
+        "H",
+        "P",
+        "L"
+      ],
+      "answer": "L"
+    },
+    {
+      "question_id": 2,
+      "question": "Which meteorological term describes how temperature changes with altitude in the troposphere?",
+      "options": [
+        "Baroclinicity",
+        "Advection",
+        "Lapse rate"
+      ],
+      "answer": "Lapse rate"
+    },
+    {
+      "question_id": 3,
+      "question": "Which type of humidity sensor often used on radiosondes senses moisture via a thin polymer film?",
+      "options": [
+        "Pyranometer sensor",
+        "Capacitive humidity sensor",
+        "Thermistor sensor"
+      ],
+      "answer": "Capacitive humidity sensor"
+    },
+    {
+      "question_id": 4,
+      "question": "Which atmospheric layer contains most of Earth’s weather phenomena?",
+      "options": [
+        "Stratosphere",
+        "Mesosphere",
+        "Troposphere"
+      ],
+      "answer": "Troposphere"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the commonly quoted average environmental lapse rate in the troposphere?",
+      "options": [
+        "About 12°C per kilometer",
+        "About 2°C per kilometer",
+        "About 6.5°C per kilometer"
+      ],
+      "answer": "About 6.5°C per kilometer"
+    },
+    {
+      "question_id": 6,
+      "question": "Which index combines vertical wind shear with instability to evaluate tornado potential?",
+      "options": [
+        "Heat Index",
+        "Haines Index",
+        "Energy-Helicity Index"
+      ],
+      "answer": "Energy-Helicity Index"
+    },
+    {
+      "question_id": 7,
+      "question": "What process cools surfaces because liquid water evaporates into the air?",
+      "options": [
+        "Radiative heating",
+        "Evaporative cooling",
+        "Conduction"
+      ],
+      "answer": "Evaporative cooling"
+    },
+    {
+      "question_id": 8,
+      "question": "Which satellite type remains fixed relative to Earth's rotation to monitor weather continuously?",
+      "options": [
+        "LEO weather buoy",
+        "Polar-orbiting satellite",
+        "Geostationary satellite"
+      ],
+      "answer": "Geostationary satellite"
+    },
+    {
+      "question_id": 9,
+      "question": "Which mechanism creates noctilucent clouds high in the mesosphere during summer twilight?",
+      "options": [
+        "Orographic uplift of moisture",
+        "Ice crystals forming on meteoric dust in the cold mesosphere",
+        "Volcanic ash lofted into the stratosphere"
+      ],
+      "answer": "Ice crystals forming on meteoric dust in the cold mesosphere"
+    },
+    {
+      "question_id": 10,
+      "question": "Which cloud type often appears fluffy and indicates fair weather?",
+      "options": [
+        "Cirrostratus",
+        "Cumulus",
+        "Nimbostratus"
+      ],
+      "answer": "Cumulus"
+    },
+    {
+      "question_id": 11,
+      "question": "What does the term albedo quantify about Earth's surface?",
+      "options": [
+        "Thermal conductivity",
+        "Reflectivity of incoming solar radiation",
+        "Surface roughness"
+      ],
+      "answer": "Reflectivity of incoming solar radiation"
+    },
+    {
+      "question_id": 12,
+      "question": "Which instrument measures atmospheric electric field variations associated with thunderstorm charge separation?",
+      "options": [
+        "Pyrgeometer",
+        "Electric field mill",
+        "Magnetometer"
+      ],
+      "answer": "Electric field mill"
+    },
+    {
+      "question_id": 13,
+      "question": "What term describes long-term average weather for a region?",
+      "options": [
+        "Microclimate",
+        "Weather",
+        "Climate"
+      ],
+      "answer": "Climate"
+    },
+    {
+      "question_id": 14,
+      "question": "What does the Saffir-Simpson scale classify regarding tropical cyclones?",
+      "options": [
+        "Storm surge height only",
+        "Rainfall totals only",
+        "Hurricane intensity by sustained wind speed"
+      ],
+      "answer": "Hurricane intensity by sustained wind speed"
+    },
+    {
+      "question_id": 15,
+      "question": "Why is the 500 hPa geopotential height field important in synoptic meteorology?",
+      "options": [
+        "It represents mid-tropospheric flow that steers large-scale weather systems",
+        "It quantifies solar radiation",
+        "It measures surface humidity"
+      ],
+      "answer": "It represents mid-tropospheric flow that steers large-scale weather systems"
+    }
+  ]
+}

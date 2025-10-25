@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which paper towel brand calls itself \"The Quicker Picker Upper\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which cosmetics slogan began as a message about self-worth in the 1970s?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which slogan was central to a campaign that used minimalist art direction and conversational headlines?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which cereal is often called the \"Breakfast of Champions\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fragrance campaign used a humorous spoken-word tagline aimed at female influencers?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which slogan once ran as a series linking moments of family life to product utility and emotion?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which stout beer uses the line \"Good things come to those who wait\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ad campaign introduced the line \"The Quicker Picker Upper\" for paper towels?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which advertising campaign used self-deprecating honesty to reframe a #2 brand?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which quick-service chain uses the tagline \"Have It Your Way\" historically?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which airline used the line \"We Try Harder\" to reposition after being second?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand paused the slogan \"Finger Lickin' Good\" during the COVID-19 pandemic?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which brand uses the slogan \"Just Do It\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Nike launch the \"Just Do It\" campaign?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which slogan helped transform diamond engagement norms worldwide after 1947?"
+    }
+  ]
+}

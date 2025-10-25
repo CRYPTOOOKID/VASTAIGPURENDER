@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which suffragist said \"Failure is impossible\" during a women’s suffrage campaign?",
+      "options": [
+        "Susan B. Anthony",
+        "Emmeline Pankhurst",
+        "Elizabeth Cady Stanton"
+      ],
+      "answer": "Emmeline Pankhurst"
+    },
+    {
+      "question_id": 2,
+      "question": "Which composer and nationalist said \"Music is the shorthand of emotion\" historically attributed to a famous thinker?",
+      "options": [
+        "Leo Tolstoy",
+        "Gustav Mahler",
+        "G. B. Shaw"
+      ],
+      "answer": "G. B. Shaw"
+    },
+    {
+      "question_id": 3,
+      "question": "Which English revolutionary declared \"Give me liberty or give me death\" in a lesser-known pamphlet aside from Patrick Henry?",
+      "options": [
+        "John Wilkes",
+        "Thomas Paine",
+        "John Locke"
+      ],
+      "answer": "Thomas Paine"
+    },
+    {
+      "question_id": 4,
+      "question": "Who said \"Ask not what your country can do for you\" in 1961?",
+      "options": [
+        "John F. Kennedy",
+        "Richard Nixon",
+        "Lyndon B. Johnson"
+      ],
+      "answer": "John F. Kennedy"
+    },
+    {
+      "question_id": 5,
+      "question": "Who proclaimed \"The ends justify the means\" is often associated with which political theorist?",
+      "options": [
+        "Niccolò Machiavelli",
+        "Thomas Hobbes",
+        "Jean-Jacques Rousseau"
+      ],
+      "answer": "Niccolò Machiavelli"
+    },
+    {
+      "question_id": 6,
+      "question": "Which ancient Chinese philosopher wrote \"He who controls others may be powerful\" in a military treatise?",
+      "options": [
+        "Sun Tzu",
+        "Confucius",
+        "Laozi"
+      ],
+      "answer": "Sun Tzu"
+    },
+    {
+      "question_id": 7,
+      "question": "Who declared \"Peace for our time\" in 1938 after meeting Hitler?",
+      "options": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Stanley Baldwin"
+      ],
+      "answer": "Neville Chamberlain"
+    },
+    {
+      "question_id": 8,
+      "question": "Who asserted \"A people that values its privileges above its principles will soon lose both\"?",
+      "options": [
+        "Dwight D. Eisenhower",
+        "Franklin D. Roosevelt",
+        "Theodore Roosevelt"
+      ],
+      "answer": "Dwight D. Eisenhower"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 19th-century pope wrote \"We can do nothing without men's approval\" in diplomatic commentary?",
+      "options": [
+        "Pope Pius IX",
+        "Pope Leo XIII",
+        "Pope Gregory XVI"
+      ],
+      "answer": "Pope Leo XIII"
+    },
+    {
+      "question_id": 10,
+      "question": "Who said \"Speak softly and carry a big stick\" as a foreign policy motto?",
+      "options": [
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "William Howard Taft"
+      ],
+      "answer": "Theodore Roosevelt"
+    },
+    {
+      "question_id": 11,
+      "question": "Who declared \"Paris is worth a mass\" when converting for political reasons?",
+      "options": [
+        "Henry IV of France",
+        "Louis XIII",
+        "Francis I"
+      ],
+      "answer": "Henry IV of France"
+    },
+    {
+      "question_id": 12,
+      "question": "Which British admiral told subordinates \"I have not yet begun to fight\" in naval battle?",
+      "options": [
+        "John Paul Jones",
+        "Horatio Nelson",
+        "Francis Drake"
+      ],
+      "answer": "John Paul Jones"
+    },
+    {
+      "question_id": 13,
+      "question": "Who said \"The die is cast\" upon crossing the Rubicon River?",
+      "options": [
+        "Julius Caesar",
+        "Pompey",
+        "Marcus Crassus"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Egyptian leader declared \"Peace for the region must come\" during mid-20th-century diplomacy?",
+      "options": [
+        "Anwar Sadat",
+        "Gamal Abdel Nasser",
+        "Hosni Mubarak"
+      ],
+      "answer": "Anwar Sadat"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"The most effective way to destroy people is to deny and obliterate their own understanding of their history\"?",
+      "options": [
+        "George Orwell",
+        "Maya Angelou",
+        "William Faulkner"
+      ],
+      "answer": "George Orwell"
+    }
+  ]
+}

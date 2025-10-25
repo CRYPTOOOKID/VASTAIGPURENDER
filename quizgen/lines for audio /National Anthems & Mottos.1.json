@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the national anthem of the United States?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's national motto appears on its coat of arms as 'Plus Ultra'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country's national anthem includes stanzas borrowed from a 19th-century independence song written by an exile?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country's national anthem is titled 'Lupang Hinirang'?"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did the United States officially adopt 'The Star-Spangled Banner' as its national anthem?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country revised its anthem in 1994 to remove references to a previous political system while keeping the melody?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which nation's official motto is 'Satyameva Jayate', meaning 'Truth alone triumphs'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country's national anthem opens with words meaning 'Arise, descendants of' in its official language?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem melody was used as the basis for the Prussian royal anthem 'Heil dir im Siegerkranz'?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the traditional royal anthem of the United Kingdom?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country's national motto 'Dieu et mon droit' uses a French phrase despite an English-speaking nation?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which national anthem was composed by a musician who later became famous as a bandleader for a state's official choir?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country's current national anthem melody was composed by Joseph Haydn?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's anthem melody was originally written as an emperor's hymn titled 'Gott erhalte Franz den Kaiser'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national motto is a Latin phrase once used as a Roman imperial slogan and later adopted by the modern state?"
+    }
+  ]
+}

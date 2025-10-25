@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which streaming service famously disrupted the video rental industry led by Blockbuster?",
+      "options": [
+        "Netflix",
+        "Hulu",
+        "Amazon Prime Video"
+      ],
+      "answer": "Netflix"
+    },
+    {
+      "question_id": 2,
+      "question": "Which automaker's GT40 program achieved a 1-2-3 finish at Le Mans in which decade?",
+      "options": [
+        "1960s",
+        "1950s",
+        "1970s"
+      ],
+      "answer": "1960s"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company launched the Xbox in 2001 to challenge which existing console franchise?",
+      "options": [
+        "Microsoft challenging Sony's PlayStation",
+        "Microsoft challenging Nintendo's GameCube",
+        "Microsoft challenging Sega's Dreamcast"
+      ],
+      "answer": "Microsoft challenging Sony's PlayStation"
+    },
+    {
+      "question_id": 4,
+      "question": "Which two companies vied for dominance in online retail marketplaces in the 2000s?",
+      "options": [
+        "Amazon and eBay",
+        "Target and Walmart",
+        "Best Buy and Amazon"
+      ],
+      "answer": "Amazon and eBay"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year did Microsoft launch Windows 1.0, intensifying its rivalry with Apple?",
+      "options": [
+        "1985",
+        "1981",
+        "1990"
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 6,
+      "question": "Which automaker partnered with which Italian company to create the Dino and later rival Ferrari?",
+      "options": [
+        "Fiat and Ferrari",
+        "Ford and Ferrari",
+        "Ferrari and Lamborghini"
+      ],
+      "answer": "Fiat and Ferrari"
+    },
+    {
+      "question_id": 7,
+      "question": "Which e-commerce giant competes directly with traditional retailers like Walmart?",
+      "options": [
+        "Amazon",
+        "eBay",
+        "Alibaba"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company acquired Beats Electronics in 2014, affecting competition in headphones and music services?",
+      "options": [
+        "Apple",
+        "Sony",
+        "Samsung"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 9,
+      "question": "Which automaker's legal antitrust suit accused which rival of ramping rebate practices harming competition?",
+      "options": [
+        "Chrysler sued Ford",
+        "Toyota sued GM",
+        "Ford sued Tesla"
+      ],
+      "answer": "Chrysler sued Ford"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two companies competed in the 1960s for dominance at the 24 Hours of Le Mans?",
+      "options": [
+        "Ford and Ferrari",
+        "Porsche and Jaguar",
+        "Aston Martin and Shelby"
+      ],
+      "answer": "Ford and Ferrari"
+    },
+    {
+      "question_id": 11,
+      "question": "Which console rivalry saw Sega Genesis compete directly with which Nintendo system in the early 1990s?",
+      "options": [
+        "Super Nintendo",
+        "PlayStation",
+        "Xbox"
+      ],
+      "answer": "Super Nintendo"
+    },
+    {
+      "question_id": 12,
+      "question": "Which legal battle outcome affected Android manufacturers by involving which company and patents?",
+      "options": [
+        "Oracle claiming Java API copyrights against Google",
+        "Apple claiming patents against Microsoft",
+        "Microsoft claiming royalties against Samsung"
+      ],
+      "answer": "Oracle claiming Java API copyrights against Google"
+    },
+    {
+      "question_id": 13,
+      "question": "Which enterprise software companies are famous rivals in databases and ERP systems?",
+      "options": [
+        "Oracle and SAP",
+        "Salesforce and HubSpot",
+        "IBM and Microsoft"
+      ],
+      "answer": "Oracle and SAP"
+    },
+    {
+      "question_id": 14,
+      "question": "Which gaming company launched the PlayStation after breaking off a partnership with Nintendo?",
+      "options": [
+        "Sony",
+        "Sega",
+        "Atari"
+      ],
+      "answer": "Sony"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major antitrust case alleged Microsoft illegally maintained a monopoly through which practice?",
+      "options": [
+        "Bundling Internet Explorer with Windows",
+        "Price fixing CPUs",
+        "Blocking hardware vendors"
+      ],
+      "answer": "Bundling Internet Explorer with Windows"
+    }
+  ]
+}

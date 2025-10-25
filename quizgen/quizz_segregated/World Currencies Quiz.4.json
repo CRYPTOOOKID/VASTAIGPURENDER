@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency is used in the United Kingdom?",
+      "options": [
+        "Norwegian Krone",
+        "Euro",
+        "Pound Sterling"
+      ],
+      "answer": "Pound Sterling"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency is pegged to the US dollar by the United Arab Emirates?",
+      "options": [
+        "UAE Dirham",
+        "Qatari Riyal",
+        "Saudi Riyal"
+      ],
+      "answer": "UAE Dirham"
+    },
+    {
+      "question_id": 3,
+      "question": "Which African country introduced the kwanza and has redenominated it multiple times since independence?",
+      "options": [
+        "Namibia",
+        "Mozambique",
+        "Angola"
+      ],
+      "answer": "Angola"
+    },
+    {
+      "question_id": 4,
+      "question": "Which common currency is used by many European Union countries?",
+      "options": [
+        "Dinar",
+        "Euro",
+        "Pound"
+      ],
+      "answer": "Euro"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country uses the manat as its currency?",
+      "options": [
+        "Azerbaijan",
+        "Armenia",
+        "Georgia"
+      ],
+      "answer": "Azerbaijan"
+    },
+    {
+      "question_id": 6,
+      "question": "Which currency's highest-denomination note once reached a face value in the millions during a famous hyperinflation episode?",
+      "options": [
+        "German Papiermark",
+        "Hungarian Pengő",
+        "Zimbabwean Dollar"
+      ],
+      "answer": "Zimbabwean Dollar"
+    },
+    {
+      "question_id": 7,
+      "question": "What currency is used in the United States?",
+      "options": [
+        "Franc",
+        "Peso",
+        "Dollar"
+      ],
+      "answer": "Dollar"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Caribbean country uses the East Caribbean dollar shared among multiple states?",
+      "options": [
+        "Saint Lucia",
+        "Barbados",
+        "Jamaica"
+      ],
+      "answer": "Saint Lucia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency issued the world's first polymer banknote in 1988?",
+      "options": [
+        "New Zealand Dollar",
+        "Canadian Dollar",
+        "Australian Dollar"
+      ],
+      "answer": "Australian Dollar"
+    },
+    {
+      "question_id": 10,
+      "question": "What currency is used in Switzerland?",
+      "options": [
+        "Pound",
+        "Euro",
+        "Swiss Franc"
+      ],
+      "answer": "Swiss Franc"
+    },
+    {
+      "question_id": 11,
+      "question": "What currency was the first to be fully decimalized in 1793 influencing others?",
+      "options": [
+        "US Dollar",
+        "British Pound",
+        "French Franc"
+      ],
+      "answer": "US Dollar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which currency once circulated as the 'Maria Theresa thaler' widely accepted across Africa and the Middle East?",
+      "options": [
+        "Austro-Hungarian Thaler",
+        "Spanish Dollar",
+        "British Pound"
+      ],
+      "answer": "Austro-Hungarian Thaler"
+    },
+    {
+      "question_id": 13,
+      "question": "Which currency is used in Norway?",
+      "options": [
+        "Swedish Krona",
+        "Euro",
+        "Norwegian Krone"
+      ],
+      "answer": "Norwegian Krone"
+    },
+    {
+      "question_id": 14,
+      "question": "Which currency is known for featuring Queen Elizabeth II on many banknotes before her passing?",
+      "options": [
+        "Pound Sterling",
+        "Euro",
+        "US Dollar"
+      ],
+      "answer": "Pound Sterling"
+    },
+    {
+      "question_id": 15,
+      "question": "Which currency's name comes from the Italian word for 'crown' and is used in several Northern European countries?",
+      "options": [
+        "Peso",
+        "Krone/Krona/Krone variants",
+        "Lira"
+      ],
+      "answer": "Krone/Krona/Krone variants"
+    }
+  ]
+}

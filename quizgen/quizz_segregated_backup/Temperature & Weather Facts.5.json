@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What weather event typically forms from severe thunderstorms with rotating updrafts?",
+      "options": [
+        "Tornado",
+        "Blizzard",
+        "Heat wave"
+      ],
+      "answer": "Tornado"
+    },
+    {
+      "question_id": 2,
+      "question": "What name describes a rotating column of air reaching from cloud base to the ground?",
+      "options": [
+        "Tornado",
+        "Waterspout",
+        "Dust devil"
+      ],
+      "answer": "Tornado"
+    },
+    {
+      "question_id": 3,
+      "question": "Which temperature metric represents air cooled by evaporation to saturation and gauges human heat stress?",
+      "options": [
+        "Wet-bulb temperature",
+        "Dew point temperature",
+        "Dry-bulb temperature"
+      ],
+      "answer": "Wet-bulb temperature"
+    },
+    {
+      "question_id": 4,
+      "question": "What term names the temperature at which air becomes saturated and dew forms?",
+      "options": [
+        "Dew point",
+        "Frost point",
+        "Heat index"
+      ],
+      "answer": "Dew point"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phenomenon is the cool-phase counterpart to El Niño, producing cooler Pacific surface waters?",
+      "options": [
+        "La Niña",
+        "Madden-Julian Oscillation",
+        "Indian Ocean Dipole"
+      ],
+      "answer": "La Niña"
+    },
+    {
+      "question_id": 6,
+      "question": "What term describes the suppression of convection by a stable layer preventing thunderstorm growth?",
+      "options": [
+        "Convective inhibition",
+        "Convective available energy",
+        "Barotropic instability"
+      ],
+      "answer": "Convective inhibition"
+    },
+    {
+      "question_id": 7,
+      "question": "What instrument records continuous temperature variations over time automatically?",
+      "options": [
+        "Thermograph",
+        "Barograph",
+        "Hygrograph"
+      ],
+      "answer": "Thermograph"
+    },
+    {
+      "question_id": 8,
+      "question": "Which measurement gives the actual mass of water vapor per unit mass of dry air?",
+      "options": [
+        "Specific humidity",
+        "Relative humidity",
+        "Dew point"
+      ],
+      "answer": "Specific humidity"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the Madden-Julian Oscillation primarily characterized by in the tropical atmosphere?",
+      "options": [
+        "Eastward-propagating convective pulses",
+        "Westward-propagating Rossby waves",
+        "Stationary high-pressure anomalies"
+      ],
+      "answer": "Eastward-propagating convective pulses"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the Beaufort scale describe in everyday weather reporting?",
+      "options": [
+        "Wind force",
+        "Cloud height",
+        "Air pressure"
+      ],
+      "answer": "Wind force"
+    },
+    {
+      "question_id": 11,
+      "question": "What causes lake-effect snow downwind of large lakes during cold air outbreaks?",
+      "options": [
+        "Cold air moving over warmer lake water",
+        "Warm fronts arriving from ocean",
+        "Orographic lifting over mountains"
+      ],
+      "answer": "Cold air moving over warmer lake water"
+    },
+    {
+      "question_id": 12,
+      "question": "Which international organization establishes standards for global meteorological observations and data exchange?",
+      "options": [
+        "World Meteorological Organization",
+        "NASA",
+        "UNESCO"
+      ],
+      "answer": "World Meteorological Organization"
+    },
+    {
+      "question_id": 13,
+      "question": "Which gas makes up the largest percentage of Earth's atmosphere by volume?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "question_id": 14,
+      "question": "What drives sea breezes that move from ocean toward land during the day?",
+      "options": [
+        "Land heating faster than the sea",
+        "Tidal forces",
+        "Nocturnal cooling"
+      ],
+      "answer": "Land heating faster than the sea"
+    },
+    {
+      "question_id": 15,
+      "question": "What property of atmospheric motion does potential vorticity conservation help diagnose?",
+      "options": [
+        "Rotation and vertical motion of air parcels",
+        "Surface temperature changes",
+        "Precipitation chemistry"
+      ],
+      "answer": "Rotation and vertical motion of air parcels"
+    }
+  ]
+}

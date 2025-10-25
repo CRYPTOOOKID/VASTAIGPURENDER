@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which front forms when cold air pushes under a warm air mass?"
+    },
+    {
+      "question_id": 2,
+      "question": "What device carried on weather balloons measures upper-air temperature and humidity profiles?"
+    },
+    {
+      "question_id": 3,
+      "question": "What wet-bulb temperature around 35°C is widely cited as a rough survivability limit for sustained human exposure?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does a barometer measure in meteorology?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which atmospheric layer above the troposphere contains the ozone layer and shows temperature increase with altitude?"
+    },
+    {
+      "question_id": 6,
+      "question": "What large-scale circulation moves ozone and tracers from tropical stratosphere toward the poles?"
+    },
+    {
+      "question_id": 7,
+      "question": "What name describes the boundary between two air masses with different temperatures?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rain gauge type uses a tipping mechanism to record rainfall increments electronically?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which combined metric often gauges heat stress for livestock using temperature and humidity?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the freezing point of freshwater on the Celsius scale?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which warm, dry downslope wind in North America rapidly raises temperatures?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which daytime boundary layer phenomenon mixes pollutants upward from the surface?"
+    },
+    {
+      "question_id": 13,
+      "question": "What are tiny liquid water particles suspended in clouds called?"
+    },
+    {
+      "question_id": 14,
+      "question": "What European mountain lee wind similar to Chinook creates a warm, dry condition called?"
+    },
+    {
+      "question_id": 15,
+      "question": "What primary feedback mechanism contributes to faster polar warming compared to global average?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Magna Carta originally sealed by King John?",
+      "options": [
+        "1066",
+        "1215",
+        "1314"
+      ],
+      "answer": "1215"
+    },
+    {
+      "question_id": 2,
+      "question": "When was the League of Nations officially established after World War I?",
+      "options": [
+        "1930",
+        "1920",
+        "1919"
+      ],
+      "answer": "1920"
+    },
+    {
+      "question_id": 3,
+      "question": "When was the Edict of Fontainebleau revoking the Edict of Nantes issued in France?",
+      "options": [
+        "1701",
+        "1598",
+        "1685"
+      ],
+      "answer": "1685"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Suez Canal officially open?",
+      "options": [
+        "1869",
+        "1901",
+        "1840"
+      ],
+      "answer": "1869"
+    },
+    {
+      "question_id": 5,
+      "question": "When was the Oslo Accords first signed between Israel and the PLO?",
+      "options": [
+        "1993",
+        "1990",
+        "1995"
+      ],
+      "answer": "1993"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Tonkin Gulf Resolution, escalating U.S. involvement in Vietnam, pass?",
+      "options": [
+        "1964",
+        "1966",
+        "1962"
+      ],
+      "answer": "1964"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did the American Civil War begin?",
+      "options": [
+        "1812",
+        "1861",
+        "1848"
+      ],
+      "answer": "1861"
+    },
+    {
+      "question_id": 8,
+      "question": "When was the Battle of Hastings, which changed English monarchy?",
+      "options": [
+        "1016",
+        "1154",
+        "1066"
+      ],
+      "answer": "1066"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the Ottoman Sultan Mehmed II capture Constantinople, marking a shift in trade routes?",
+      "options": [
+        "1422",
+        "1461",
+        "1453"
+      ],
+      "answer": "1453"
+    },
+    {
+      "question_id": 10,
+      "question": "When did World War II officially start in Europe with Germany's invasion of Poland?",
+      "options": [
+        "1939",
+        "1936",
+        "1941"
+      ],
+      "answer": "1939"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Cuban Missile Crisis occur, bringing Cold War tension to a peak?",
+      "options": [
+        "1968",
+        "1962",
+        "1959"
+      ],
+      "answer": "1962"
+    },
+    {
+      "question_id": 12,
+      "question": "In what year did the Babylonian king Nebuchadnezzar II destroy Jerusalem's First Temple (approx.)?",
+      "options": [
+        "539 BCE",
+        "612 BCE",
+        "586 BCE"
+      ],
+      "answer": "586 BCE"
+    },
+    {
+      "question_id": 13,
+      "question": "When was the Emancipation Proclamation issued by Abraham Lincoln?",
+      "options": [
+        "1863",
+        "1870",
+        "1861"
+      ],
+      "answer": "1863"
+    },
+    {
+      "question_id": 14,
+      "question": "In what year did Vasco da Gama reach India by sea, opening a sea route?",
+      "options": [
+        "1502",
+        "1498",
+        "1488"
+      ],
+      "answer": "1498"
+    },
+    {
+      "question_id": 15,
+      "question": "When did the Glorious Revolution replace James II with William and Mary in England?",
+      "options": [
+        "1692",
+        "1688",
+        "1679"
+      ],
+      "answer": "1688"
+    }
+  ]
+}

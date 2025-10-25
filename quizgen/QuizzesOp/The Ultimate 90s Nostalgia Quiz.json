@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which band released the 1991 album 'Nevermind' that changed rock music?",
+        "options": [
+          "Nirvana",
+          "Pearl Jam",
+          "Red Hot Chili Peppers"
+        ],
+        "answer": "Nirvana"
+      },
+      {
+        "question": "Which 1997 film became the highest-grossing movie of that year worldwide?",
+        "options": [
+          "Titanic",
+          "Men in Black",
+          "Good Will Hunting"
+        ],
+        "answer": "Titanic"
+      },
+      {
+        "question": "What handheld virtual pet toy became a global craze in the mid-1990s?",
+        "options": [
+          "Tamagotchi",
+          "Furby",
+          "Beanie Babies"
+        ],
+        "answer": "Tamagotchi"
+      },
+      {
+        "question": "Which sitcom about six friends in New York debuted in 1994?",
+        "options": [
+          "Friends",
+          "Seinfeld",
+          "Frasier"
+        ],
+        "answer": "Friends"
+      },
+      {
+        "question": "Which search engine launched in 1998 and transformed how people find information?",
+        "options": [
+          "Google",
+          "Yahoo",
+          "AltaVista"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which musical movement is associated with bands like Nirvana and Pearl Jam?",
+        "options": [
+          "Grunge",
+          "Britpop",
+          "Hip hop"
+        ],
+        "answer": "Grunge"
+      },
+      {
+        "question": "Which console did Nintendo release for North America in 1991 as a 16-bit system?",
+        "options": [
+          "Super Nintendo Entertainment System",
+          "Sega Genesis",
+          "TurboGrafx-16"
+        ],
+        "answer": "Super Nintendo Entertainment System"
+      },
+      {
+        "question": "Which handheld gaming device dominated the early 1990s market for portability?",
+        "options": [
+          "Game Boy",
+          "Game Gear",
+          "Neo Geo Pocket"
+        ],
+        "answer": "Game Boy"
+      },
+      {
+        "question": "Which British pop group had global hits including 'Wannabe' in the 1990s?",
+        "options": [
+          "Spice Girls",
+          "Backstreet Boys",
+          "Take That"
+        ],
+        "answer": "Spice Girls"
+      },
+      {
+        "question": "Which 1994 animated film follows a lion cub named Simba?",
+        "options": [
+          "The Lion King",
+          "Aladdin",
+          "Pocahontas"
+        ],
+        "answer": "The Lion King"
+      },
+      {
+        "question": "What technology popularized email and web browsing in the 1990s?",
+        "options": [
+          "The Internet",
+          "The Fax Machine",
+          "The Pager"
+        ],
+        "answer": "The Internet"
+      },
+      {
+        "question": "Which company released the consumer hit operating system Windows 95?",
+        "options": [
+          "Microsoft",
+          "Apple",
+          "IBM"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which athletic brand was a 1990s staple with Air Max and basketball sneakers?",
+        "options": [
+          "Nike",
+          "Reebok",
+          "Adidas"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which supernatural drama series starring Sarah Michelle Gellar premiered in 1997?",
+        "options": [
+          "Buffy the Vampire Slayer",
+          "Charmed",
+          "The X-Files"
+        ],
+        "answer": "Buffy the Vampire Slayer"
+      },
+      {
+        "question": "Which collectible stuffed-toy brand sparked a trading craze in the 1990s?",
+        "options": [
+          "Beanie Babies",
+          "Tyco Monsters",
+          "Fisher-Price Friends"
+        ],
+        "answer": "Beanie Babies"
+      },
+      {
+        "question": "Which singer performed 'My Heart Will Go On' from the 1997 blockbuster soundtrack?",
+        "options": [
+          "Celine Dion",
+          "Mariah Carey",
+          "Whitney Houston"
+        ],
+        "answer": "Celine Dion"
+      },
+      {
+        "question": "Which video rental chain dominated weekend movie rentals in the 1990s?",
+        "options": [
+          "Blockbuster",
+          "Movie Gallery",
+          "Hollywood Video"
+        ],
+        "answer": "Blockbuster"
+      },
+      {
+        "question": "Which Nintendo home console launched in 1996 using cartridges for games?",
+        "options": [
+          "Nintendo 64",
+          "PlayStation",
+          "Sega Saturn"
+        ],
+        "answer": "Nintendo 64"
+      },
+      {
+        "question": "Which animated series debuted in 1999 featuring an optimistic sea sponge character?",
+        "options": [
+          "SpongeBob SquarePants",
+          "Rugrats",
+          "CatDog"
+        ],
+        "answer": "SpongeBob SquarePants"
+      },
+      {
+        "question": "Which clothing item became a grunge fashion hallmark during the 1990s?",
+        "options": [
+          "Flannel shirts",
+          "Blazers",
+          "Leather jackets"
+        ],
+        "answer": "Flannel shirts"
+      },
+      {
+        "question": "Which 1992 courtroom drama contains the line 'You can't handle the truth'?",
+        "options": [
+          "A Few Good Men",
+          "The Firm",
+          "Scent of a Woman"
+        ],
+        "answer": "A Few Good Men"
+      },
+      {
+        "question": "Which late-night host took over The Tonight Show in 1992?",
+        "options": [
+          "Jay Leno",
+          "David Letterman",
+          "Conan O'Brien"
+        ],
+        "answer": "Jay Leno"
+      },
+      {
+        "question": "Which interactive toy released in 1998 could speak and respond to users?",
+        "options": [
+          "Furby",
+          "Tamagotchi",
+          "Giga Pet"
+        ],
+        "answer": "Furby"
+      },
+      {
+        "question": "Which 1994 drama film starred Tim Robbins and Morgan Freeman set in prison?",
+        "options": [
+          "The Shawshank Redemption",
+          "Pulp Fiction",
+          "Forrest Gump"
+        ],
+        "answer": "The Shawshank Redemption"
+      },
+      {
+        "question": "Which blue video game character runs fast and collects rings?",
+        "options": [
+          "Sonic the Hedgehog",
+          "Mario",
+          "Mega Man"
+        ],
+        "answer": "Sonic the Hedgehog"
+      },
+      {
+        "question": "Which boy band released the 1999 hit 'I Want It That Way'?",
+        "options": [
+          "Backstreet Boys",
+          "NSYNC",
+          "98 Degrees"
+        ],
+        "answer": "Backstreet Boys"
+      },
+      {
+        "question": "Which fashion accessories like chokers and slip dresses were staples in the 1990s?",
+        "options": [
+          "90s fashion",
+          "Victorian fashion",
+          "Baroque fashion"
+        ],
+        "answer": "90s fashion"
+      },
+      {
+        "question": "Which popular 1993 film featured groundbreaking CGI for a theme park disaster?",
+        "options": [
+          "Jurassic Park",
+          "The Matrix",
+          "Forrest Gump"
+        ],
+        "answer": "Jurassic Park"
+      },
+      {
+        "question": "Which television network primarily played music videos in the early 1990s?",
+        "options": [
+          "MTV",
+          "CNN",
+          "ESPN"
+        ],
+        "answer": "MTV"
+      },
+      {
+        "question": "Which online auction and marketplace company launched in the 1990s?",
+        "options": [
+          "eBay",
+          "Etsy",
+          "Shopify"
+        ],
+        "answer": "eBay"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which 1995 film became the first full-length feature made entirely with CGI?",
+        "options": [
+          "Toy Story",
+          "A Bug's Life",
+          "Antz"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "Which band famously performed 'Smells Like Teen Spirit' at the 1992 MTV VMAs?",
+        "options": [
+          "Nirvana",
+          "Pearl Jam",
+          "Soundgarden"
+        ],
+        "answer": "Nirvana"
+      },
+      {
+        "question": "Which company released the original Sony PlayStation in 1994 in Japan?",
+        "options": [
+          "Sony",
+          "Sega",
+          "Nintendo"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which actress played Mia Wallace in Quentin Tarantino's 1994 film Pulp Fiction?",
+        "options": [
+          "Uma Thurman",
+          "Rosanna Arquette",
+          "Juliette Lewis"
+        ],
+        "answer": "Uma Thurman"
+      },
+      {
+        "question": "Which British band released the album (What's the Story) Morning Glory? in 1995?",
+        "options": [
+          "Oasis",
+          "Blur",
+          "Pulp"
+        ],
+        "answer": "Oasis"
+      },
+      {
+        "question": "Which animated feature from 1998 was produced by DreamWorks instead of Pixar?",
+        "options": [
+          "The Prince of Egypt",
+          "A Bug's Life",
+          "Toy Story 2"
+        ],
+        "answer": "The Prince of Egypt"
+      },
+      {
+        "question": "Which rapper released the 1995 album 'Me Against the World'?",
+        "options": [
+          "2Pac",
+          "Snoop Dogg",
+          "Notorious B.I.G."
+        ],
+        "answer": "2Pac"
+      },
+      {
+        "question": "What year did Microsoft officially release Windows 95 to consumers?",
+        "options": [
+          "1995",
+          "1996",
+          "1994"
+        ],
+        "answer": "1995"
+      },
+      {
+        "question": "Which browser introduced by Netscape sparked the 'browser wars' in the 1990s?",
+        "options": [
+          "Netscape Navigator",
+          "Internet Explorer",
+          "Mosaic"
+        ],
+        "answer": "Netscape Navigator"
+      },
+      {
+        "question": "Which 1997 television series introduced the character Fox Mulder and Dana Scully?",
+        "options": [
+          "The X-Files",
+          "Millennium",
+          "Twin Peaks"
+        ],
+        "answer": "The X-Files"
+      },
+      {
+        "question": "Which pop star released the 1999 album '…Baby One More Time' as her debut?",
+        "options": [
+          "Britney Spears",
+          "Christina Aguilera",
+          "Jessica Simpson"
+        ],
+        "answer": "Britney Spears"
+      },
+      {
+        "question": "Which handheld Nintendo system used a monochrome screen in the early 1990s?",
+        "options": [
+          "Game Boy",
+          "Game Boy Color",
+          "Atari Lynx"
+        ],
+        "answer": "Game Boy"
+      },
+      {
+        "question": "Which 1998 film featured a fictional boy wizard introduced to the world?",
+        "options": [
+          "Harry Potter and the Philosopher's Stone",
+          "The Craft",
+          "Matilda"
+        ],
+        "answer": "Harry Potter and the Philosopher's Stone"
+      },
+      {
+        "question": "Which TV drama premiered in 1993 about the lives of six high school students?",
+        "options": [
+          "My So-Called Life",
+          "Beverly Hills, 90210",
+          "Party of Five"
+        ],
+        "answer": "My So-Called Life"
+      },
+      {
+        "question": "Which device introduced in 1999 popularized MP3 portable music players commercially?",
+        "options": [
+          "Rio PMP300",
+          "iPod",
+          "Walkman"
+        ],
+        "answer": "Rio PMP300"
+      },
+      {
+        "question": "Which sitcom episode in 1997 featured Ross and Rachel's first kiss at Central Perk?",
+        "options": [
+          "The One Where Ross Finds Out",
+          "The One With the Prom Video",
+          "The One With Ross's Sandwich"
+        ],
+        "answer": "The One Where Ross Finds Out"
+      },
+      {
+        "question": "Which film won the Academy Award for Best Picture in 1998?",
+        "options": [
+          "Titanic",
+          "Shakespeare in Love",
+          "Saving Private Ryan"
+        ],
+        "answer": "Shakespeare in Love"
+      },
+      {
+        "question": "Which handheld digital pet sold by Bandai was first released in 1996 in some regions?",
+        "options": [
+          "Tamagotchi",
+          "Digimon",
+          "Giga Pet"
+        ],
+        "answer": "Tamagotchi"
+      },
+      {
+        "question": "Which British girl group topped global charts with 'Wannabe' in 1996?",
+        "options": [
+          "Spice Girls",
+          "All Saints",
+          "Wilson Phillips"
+        ],
+        "answer": "Spice Girls"
+      },
+      {
+        "question": "Which animated 1995 Pixar short accompanied Toy Story's theatrical release?",
+        "options": [
+          "Knick Knack",
+          "Geri's Game",
+          "Luxo Jr."
+        ],
+        "answer": "Geri's Game"
+      },
+      {
+        "question": "Which video game released in 1996 popularized 3D platforming on the N64?",
+        "options": [
+          "Super Mario 64",
+          "Crash Bandicoot",
+          "Banjo-Kazooie"
+        ],
+        "answer": "Super Mario 64"
+      },
+      {
+        "question": "Which fashion brand popularized the 'Rachel' haircut after a 1995 TV appearance?",
+        "options": [
+          "Jennifer Aniston's stylist",
+          "Versace",
+          "Calvin Klein"
+        ],
+        "answer": "Jennifer Aniston's stylist"
+      },
+      {
+        "question": "Which comic-based 1998 film launched a successful superhero franchise starring Tobey Maguire?",
+        "options": [
+          "Spider-Man",
+          "Blade",
+          "Spawn"
+        ],
+        "answer": "Spider-Man"
+      },
+      {
+        "question": "Which music channel launched MTV's alternative music block '120 Minutes' to spotlight new bands?",
+        "options": [
+          "MTV",
+          "VH1",
+          "BET"
+        ],
+        "answer": "MTV"
+      },
+      {
+        "question": "Which dance craze came with the 1996 hit 'Macarena' by Los del Río?",
+        "options": [
+          "The Macarena",
+          "The Hammer Dance",
+          "The Electric Slide"
+        ],
+        "answer": "The Macarena"
+      },
+      {
+        "question": "Which American teen drama premiered in 1998 and starred Claire Danes?",
+        "options": [
+          "My So-Called Life",
+          "Felicity",
+          "Dawson's Creek"
+        ],
+        "answer": "Felicity"
+      },
+      {
+        "question": "Which technology became widely available for home use after dial-up modems in the 1990s?",
+        "options": [
+          "Broadband",
+          "Fiber to the Home",
+          "5G"
+        ],
+        "answer": "Broadband"
+      },
+      {
+        "question": "Which 1999 film explored virtual reality and featured Keanu Reeves as Neo?",
+        "options": [
+          "The Matrix",
+          "The Thirteenth Floor",
+          "Dark City"
+        ],
+        "answer": "The Matrix"
+      },
+      {
+        "question": "Which television drama's pilot aired in 1999 featuring a teenage protagonist named Buffy?",
+        "options": [
+          "Buffy the Vampire Slayer",
+          "Roswell",
+          "Angel"
+        ],
+        "answer": "Buffy the Vampire Slayer"
+      },
+      {
+        "question": "Which 1990s platform popularized teen-centric magazines like YM and Seventeen?",
+        "options": [
+          "Print magazines",
+          "Streaming services",
+          "Podcasts"
+        ],
+        "answer": "Print magazines"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which 1992 album second single 'Come As You Are' helped Nirvana reach mainstream audiences?",
+        "options": [
+          "Nevermind",
+          "In Utero",
+          "Bleach"
+        ],
+        "answer": "Nevermind"
+      },
+      {
+        "question": "Which 1997 marketing campaign famously used a heart-shaped logo and the word 'I' for a city?",
+        "options": [
+          "I Love New York revival",
+          "Got Milk?",
+          "Just Do It"
+        ],
+        "answer": "I Love New York revival"
+      },
+      {
+        "question": "Which 1994 Pixar short was originally produced in 1997 and later paired with theatrical releases?",
+        "options": [
+          "Knick Knack",
+          "Geri's Game",
+          "Luxo Jr."
+        ],
+        "answer": "Knick Knack"
+      },
+      {
+        "question": "Which British band's 1995 album featured the singles 'Wonderwall' and 'Don't Look Back in Anger'?",
+        "options": [
+          "Oasis",
+          "Blur",
+          "Radiohead"
+        ],
+        "answer": "Oasis"
+      },
+      {
+        "question": "Which 1996 rap single by The Fugees showcased a Lauryn Hill lead vocal and global success?",
+        "options": [
+          "Killing Me Softly",
+          "Ready or Not",
+          "Fu-Gee-La"
+        ],
+        "answer": "Killing Me Softly"
+      },
+      {
+        "question": "Which 1999 handheld console prototype from Nintendo led to later portable innovations?",
+        "options": [
+          "Game Boy Advance prototype",
+          "Virtual Boy prototype",
+          "Game Boy Color prototype"
+        ],
+        "answer": "Game Boy Color prototype"
+      },
+      {
+        "question": "Which film's 1995 soundtrack popularized Celine Dion's association with a blockbuster romance?",
+        "options": [
+          "Titanic",
+          "Braveheart",
+          "Romeo + Juliet"
+        ],
+        "answer": "Titanic"
+      },
+      {
+        "question": "Which 1990s animated series was created by Arlene Klasky, Gábor Csupó, and Paul Germain?",
+        "options": [
+          "Rugrats",
+          "Doug",
+          "Hey Arnold!"
+        ],
+        "answer": "Rugrats"
+      },
+      {
+        "question": "Which 1998 video game pioneered cinematic storytelling on the PlayStation with Resident Evil style?",
+        "options": [
+          "Metal Gear Solid",
+          "Final Fantasy VII",
+          "Silent Hill"
+        ],
+        "answer": "Metal Gear Solid"
+      },
+      {
+        "question": "Which 1995 social phenomenon was driven by trading cards and anime for children worldwide?",
+        "options": [
+          "Pokémon",
+          "Digimon",
+          "Yu-Gi-Oh!"
+        ],
+        "answer": "Pokémon"
+      },
+      {
+        "question": "Which 1994 action film's soundtrack sold millions and featured multiple hip-hop collaborations?",
+        "options": [
+          "Pulp Fiction",
+          "Above the Rim",
+          "Menace II Society"
+        ],
+        "answer": "Above the Rim"
+      },
+      {
+        "question": "Which 1997 album by Radiohead is noted for shifting from rock to experimental electronic textures?",
+        "options": [
+          "OK Computer",
+          "The Bends",
+          "Kid A"
+        ],
+        "answer": "OK Computer"
+      },
+      {
+        "question": "Which iconic 1990s toy line originated from a Japanese collectible concept introduced overseas?",
+        "options": [
+          "Tamagotchi",
+          "Roboraptor",
+          "Furby"
+        ],
+        "answer": "Tamagotchi"
+      },
+      {
+        "question": "Which fashion label's slip dresses became a 1990s staple after celebrity red-carpet appearances?",
+        "options": [
+          "Calvin Klein",
+          "Versace",
+          "Prada"
+        ],
+        "answer": "Calvin Klein"
+      },
+      {
+        "question": "Which 1996 movie's soundtrack featured the single 'Gangsta's Paradise' by Coolio?",
+        "options": [
+          "Dangerous Minds",
+          "The Nutty Professor",
+          "Space Jam"
+        ],
+        "answer": "Dangerous Minds"
+      },
+      {
+        "question": "Which 1990s TV show set in Seattle mixed legal drama and supernatural elements in a cult episode?",
+        "options": [
+          "The X-Files",
+          "Twin Peaks",
+          "The Pretender"
+        ],
+        "answer": "The X-Files"
+      },
+      {
+        "question": "Which 1993 album by Snoop Dogg helped popularize West Coast G-funk nationally?",
+        "options": [
+          "Doggystyle",
+          "The Chronic",
+          "Dogg Food"
+        ],
+        "answer": "Doggystyle"
+      },
+      {
+        "question": "Which 1998 film's soundtrack introduced a popular female R&B anthem by Lauryn Hill?",
+        "options": [
+          "The Best Man",
+          "Soul Food",
+          "Love Jones"
+        ],
+        "answer": "The Best Man"
+      },
+      {
+        "question": "Which 1999 album by Eminem launched his mainstream career with alter ego Slim Shady?",
+        "options": [
+          "The Slim Shady LP",
+          "The Marshall Mathers LP",
+          "Infinite"
+        ],
+        "answer": "The Slim Shady LP"
+      },
+      {
+        "question": "Which experimental 1999 TV series blended sci-fi and anime aesthetics for adult audiences?",
+        "options": [
+          "Cowboy Bebop",
+          "The X-Files",
+          "Neon Genesis Evangelion"
+        ],
+        "answer": "Cowboy Bebop"
+      },
+      {
+        "question": "Which 1990s cultural event is credited with accelerating mainstream web adoption and ecommerce?",
+        "options": [
+          "The Dot-Com Boom",
+          "Y2K",
+          "The O.J. Simpson trial"
+        ],
+        "answer": "The Dot-Com Boom"
+      },
+      {
+        "question": "Which 1994 album by Jeff Buckley featured a renowned cover of Leonard Cohen's 'Hallelujah'?",
+        "options": [
+          "Grace",
+          "Sketches for My Sweetheart the Drunk",
+          "Mystery White Boy"
+        ],
+        "answer": "Grace"
+      },
+      {
+        "question": "Which 1998 R&B group released the multi-platinum album 'The Writing's on the Wall'?",
+        "options": [
+          "Destiny's Child",
+          "TLC",
+          "En Vogue"
+        ],
+        "answer": "TLC"
+      },
+      {
+        "question": "Which niche 1990s handheld used a dot-matrix watch-style interface for gaming 'Digimon' pets?",
+        "options": [
+          "Digivice",
+          "Tamagotchi",
+          "Neo Geo Pocket"
+        ],
+        "answer": "Digivice"
+      },
+      {
+        "question": "Which 1993 legal drama film about a major sports team featured Al Pacino in 1996 actually?",
+        "options": [
+          "This question contains a factual mismatch",
+          "The Firm",
+          "A Few Good Men"
+        ],
+        "answer": "This question contains a factual mismatch"
+      },
+      {
+        "question": "Which fashion icon's 1994 coat at a red carpet influenced 1990s outerwear trends?",
+        "options": [
+          "Winona Ryder",
+          "Demi Moore",
+          "Kate Moss"
+        ],
+        "answer": "Winona Ryder"
+      },
+      {
+        "question": "Which 1991 video by Michael Jackson received controversy and heavy rotation on music channels?",
+        "options": [
+          "Black or White",
+          "Remember the Time",
+          "In the Closet"
+        ],
+        "answer": "Black or White"
+      },
+      {
+        "question": "Which 1997 science fiction film directed by Paul Verhoeven caused controversy for its visual style?",
+        "options": [
+          "Starship Troopers",
+          "Event Horizon",
+          "The Fifth Element"
+        ],
+        "answer": "Starship Troopers"
+      },
+      {
+        "question": "Which 1990s American sitcom episode featured a supermodel cameo that boosted ratings dramatically?",
+        "options": [
+          "Seinfeld's 'The Contest'",
+          "Friends' 'The One With the Blackout'",
+          "Mad About You's cameo episode"
+        ],
+        "answer": "Mad About You's cameo episode"
+      },
+      {
+        "question": "Which 1995 indie film introduced a unique nonlinear story structure and influenced future cinema?",
+        "options": [
+          "Pulp Fiction",
+          "Clerks",
+          "Before Sunrise"
+        ],
+        "answer": "Pulp Fiction"
+      }
+    ]
+  }
+}

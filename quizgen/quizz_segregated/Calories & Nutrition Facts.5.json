@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a serving size on a Nutrition Facts label describe?",
+      "options": [
+        "Maximum recommended daily portion",
+        "Amount used to calculate the nutrition information",
+        "Amount required per meal"
+      ],
+      "answer": "Amount used to calculate the nutrition information"
+    },
+    {
+      "question_id": 2,
+      "question": "Which label change highlighted added sugars on updated Nutrition Facts labels?",
+      "options": [
+        "Added sugars now listed separately",
+        "Serving sizes standardized globally",
+        "Calories removed entirely"
+      ],
+      "answer": "Added sugars now listed separately"
+    },
+    {
+      "question_id": 3,
+      "question": "Which sweetener yields essentially zero calories because humans excrete it unmetabolized?",
+      "options": [
+        "Maltodextrin",
+        "Sucrose",
+        "Erythritol"
+      ],
+      "answer": "Erythritol"
+    },
+    {
+      "question_id": 4,
+      "question": "What information does the % Daily Value on nutrition labels indicate?",
+      "options": [
+        "How many calories to eat per meal",
+        "How many servings equal one cup",
+        "How much a nutrient in one serving contributes to a daily diet"
+      ],
+      "answer": "How much a nutrient in one serving contributes to a daily diet"
+    },
+    {
+      "question_id": 5,
+      "question": "What does “energy density” describe about a food?",
+      "options": [
+        "Vitamin content per serving",
+        "Shelf life in days",
+        "Calories per unit weight or volume"
+      ],
+      "answer": "Calories per unit weight or volume"
+    },
+    {
+      "question_id": 6,
+      "question": "Which scientific phrase describes energy partitioning toward fat storage after excess calorie intake?",
+      "options": [
+        "Glycogen sparing protocol",
+        "Positive energy balance and lipogenesis",
+        "Negative nitrogen balance"
+      ],
+      "answer": "Positive energy balance and lipogenesis"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common food component adds bulk but few digestible calories?",
+      "options": [
+        "Saturated fat",
+        "Added sugars",
+        "Dietary fiber"
+      ],
+      "answer": "Dietary fiber"
+    },
+    {
+      "question_id": 8,
+      "question": "Which laboratory device measures gross energy by burning food?",
+      "options": [
+        "Spectrophotometer",
+        "pH meter",
+        "Bomb calorimeter"
+      ],
+      "answer": "Bomb calorimeter"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the term 'net energy' often account for beyond metabolizable energy?",
+      "options": [
+        "Energy used for digestion and nutrient partitioning",
+        "Gross energy from combustion",
+        "Calories from alcohol only"
+      ],
+      "answer": "Energy used for digestion and nutrient partitioning"
+    },
+    {
+      "question_id": 10,
+      "question": "What does one food Calorie (capital C) equal in scientific energy units?",
+      "options": [
+        "One joule",
+        "One kilocalorie (1000 small calories)",
+        "One watt"
+      ],
+      "answer": "One kilocalorie (1000 small calories)"
+    },
+    {
+      "question_id": 11,
+      "question": "Which guidance helps customers compare calories between products fairly?",
+      "options": [
+        "Compare serving suggestions only",
+        "Compare calories per common portion or per 100 grams",
+        "Compare package colors"
+      ],
+      "answer": "Compare calories per common portion or per 100 grams"
+    },
+    {
+      "question_id": 12,
+      "question": "Which compound contributes to calorie counting errors by providing fermentable but non-digestible carbohydrates?",
+      "options": [
+        "Monosaccharides only",
+        "Sugar alcohols and resistant starches",
+        "Water-soluble vitamins"
+      ],
+      "answer": "Sugar alcohols and resistant starches"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient helps you feel full longest per typical portion?",
+      "options": [
+        "Refined carbohydrates",
+        "Sugary drinks",
+        "Protein"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "question_id": 14,
+      "question": "Which food type typically increases satiety relative to calorie content?",
+      "options": [
+        "Sugary beverages",
+        "High-protein and high-fiber foods",
+        "Refined white bread"
+      ],
+      "answer": "High-protein and high-fiber foods"
+    },
+    {
+      "question_id": 15,
+      "question": "Which physiological factor most strongly influences individual variation in BMR?",
+      "options": [
+        "Time of day of meals",
+        "Daily carbohydrate intake",
+        "Lean body mass"
+      ],
+      "answer": "Lean body mass"
+    }
+  ]
+}

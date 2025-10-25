@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the saying: 'Time heals all ___'",
+      "options": [
+        "answers",
+        "wounds",
+        "plans"
+      ],
+      "answer": "wounds"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Shakespeare play contains the proverb 'All that glisters is not gold'?",
+      "options": [
+        "The Merchant of Venice",
+        "Hamlet",
+        "Macbeth"
+      ],
+      "answer": "The Merchant of Venice"
+    },
+    {
+      "question_id": 3,
+      "question": "Which proverb about consequences appears as 'You reap what you sow' and has agricultural roots?",
+      "options": [
+        "You reap what you sow",
+        "Break the ice",
+        "An apple a day keeps the doctor away"
+      ],
+      "answer": "You reap what you sow"
+    },
+    {
+      "question_id": 4,
+      "question": "Which proverb suggests practice leads to mastery?",
+      "options": [
+        "Time waits for no one",
+        "Curiosity killed the cat",
+        "Practice makes perfect"
+      ],
+      "answer": "Practice makes perfect"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb implies impatience leads to mistakes and waste?",
+      "options": [
+        "Haste makes waste",
+        "Time and tide wait for no man",
+        "Every cloud has a silver lining"
+      ],
+      "answer": "Haste makes waste"
+    },
+    {
+      "question_id": 6,
+      "question": "Which technical term denotes a proverb that functions as a cultural guideline?",
+      "options": [
+        "Normative proverb",
+        "Speculative adage",
+        "Descriptive maxim"
+      ],
+      "answer": "Normative proverb"
+    },
+    {
+      "question_id": 7,
+      "question": "Complete: 'Experience is the best ___'",
+      "options": [
+        "enemy",
+        "teacher",
+        "friend"
+      ],
+      "answer": "teacher"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb warns that gossip harms reputations and relationships?",
+      "options": [
+        "Loose lips sink ships",
+        "Seeing is believing",
+        "A rumor without feet will die"
+      ],
+      "answer": "Loose lips sink ships"
+    },
+    {
+      "question_id": 9,
+      "question": "What term names the compilation or collection of proverbs?",
+      "options": [
+        "Anthology",
+        "Codicology",
+        "Paremiography"
+      ],
+      "answer": "Paremiography"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'When in Rome, do as the Romans do' advise?",
+      "options": [
+        "Never change your habits",
+        "Adapt to local customs",
+        "Only travel to Rome"
+      ],
+      "answer": "Adapt to local customs"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb encourages making the most of favorable conditions?",
+      "options": [
+        "Don't burn your bridges",
+        "Let sleeping dogs lie",
+        "Make hay while the sun shines"
+      ],
+      "answer": "Make hay while the sun shines"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technical field studies proverb variants, usage, and transformation in modern culture?",
+      "options": [
+        "Sociolinguistics only",
+        "Paremiology",
+        "Cartography"
+      ],
+      "answer": "Paremiology"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the proverb: 'Make hay while the ___ shines'",
+      "options": [
+        "sun shines",
+        "moon glows",
+        "rain falls"
+      ],
+      "answer": "sun shines"
+    },
+    {
+      "question_id": 14,
+      "question": "Which proverb originates from Robert Burns' poem about mice and plans?",
+      "options": [
+        "The best-laid plans of mice and men",
+        "A man's home is his castle",
+        "Pride comes before a fall"
+      ],
+      "answer": "The best-laid plans of mice and men"
+    },
+    {
+      "question_id": 15,
+      "question": "Which proverb about unintended consequences is captured by the phrase 'For want of a nail'?",
+      "options": [
+        "Always polish your shoes",
+        "Measure twice, cut once",
+        "Small causes can lead to big effects"
+      ],
+      "answer": "Small causes can lead to big effects"
+    }
+  ]
+}

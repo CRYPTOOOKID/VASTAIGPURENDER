@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded the Tata Group in India?"
+    },
+    {
+      "question_id": 2,
+      "question": "In which year did Tesla hold its initial public offering?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Intel co-founder is credited as a pioneer of the silicon integrated circuit?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who was an early co-founder and the first CEO of Twitter?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which WhatsApp co-founder later co-founded the Signal Foundation?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which co-founder of Twitter sold his remaining shares early and left the company in 2000s?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded Xiaomi, the Chinese electronics company?"
+    },
+    {
+      "question_id": 8,
+      "question": "What was Google's early project name before it became Google?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which co-founder of Apple designed the Apple I circuit board?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who currently serves as Tesla's CEO and public face?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who returned to Apple in 1997 and led its product and design revival?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which retailer founder created the first mail-order catalog in India under Tata origins?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who succeeded Steve Jobs as Apple CEO in 2011?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which entrepreneur co-founded Netscape and later a prominent VC firm?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which entrepreneur famously invested early in Tesla and SolarCity before merging energy efforts?"
+    }
+  ]
+}

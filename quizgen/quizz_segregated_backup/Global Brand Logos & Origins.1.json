@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which fast food brand features two golden arches forming an M?",
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 2,
+      "question": "Which designer created the Nike Swoosh in 1971?",
+      "options": [
+        "Carolyn Davidson",
+        "Phil Knight",
+        "Bill Bowerman"
+      ],
+      "answer": "Carolyn Davidson"
+    },
+    {
+      "question_id": 3,
+      "question": "Which logo reveal in 2010 removed the brand name and used only a simplified icon for recognition?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Intel"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 4,
+      "question": "Which furniture retailer uses blue and yellow colors and Swedish origin in branding?",
+      "options": [
+        "IKEA",
+        "Wayfair",
+        "H&M"
+      ],
+      "answer": "IKEA"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year did Audi adopt the four rings to represent a 1932 merger?",
+      "options": [
+        "1932",
+        "1945",
+        "1920"
+      ],
+      "answer": "1932"
+    },
+    {
+      "question_id": 6,
+      "question": "Which brand's logo originally featured a detailed coat of arms that simplified over decades?",
+      "options": [
+        "Puma",
+        "Peugeot",
+        "Lacoste"
+      ],
+      "answer": "Peugeot"
+    },
+    {
+      "question_id": 7,
+      "question": "Which beer brand features a red star within its logo?",
+      "options": [
+        "Heineken",
+        "Corona",
+        "Budweiser"
+      ],
+      "answer": "Heineken"
+    },
+    {
+      "question_id": 8,
+      "question": "Which logo features a pecten, a scallop shell shape?",
+      "options": [
+        "Shell",
+        "Total",
+        "BP"
+      ],
+      "answer": "Shell"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Italian manufacturer's emblem came to Ferrari via Countess Paolina Baracca's suggestion?",
+      "options": [
+        "Ferrari",
+        "Maserati",
+        "Lamborghini"
+      ],
+      "answer": "Ferrari"
+    },
+    {
+      "question_id": 10,
+      "question": "Which chocolate brand features a red wrapped triangle logo named Toblerone on packaging?",
+      "options": [
+        "Toblerone",
+        "KitKat",
+        "Nestlé"
+      ],
+      "answer": "Toblerone"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country did the brand Samsung originate from?",
+      "options": [
+        "South Korea",
+        "Japan",
+        "China"
+      ],
+      "answer": "South Korea"
+    },
+    {
+      "question_id": 12,
+      "question": "Which fast-food logo first emphasized architectural golden arches as signage in the 1950s?",
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 13,
+      "question": "Which tech company uses a four-colored window-like logo?",
+      "options": [
+        "Microsoft",
+        "Oracle",
+        "SAP"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company adopted a circular blue globe as a modern logo for a soda brand?",
+      "options": [
+        "Pepsi",
+        "Coca-Cola",
+        "Sprite"
+      ],
+      "answer": "Pepsi"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company adopted the three-oval Toyota logo to symbolize overlapping hearts and global expansion?",
+      "options": [
+        "Toyota",
+        "Nissan",
+        "Honda"
+      ],
+      "answer": "Toyota"
+    }
+  ]
+}

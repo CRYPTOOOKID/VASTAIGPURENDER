@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a stock split?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which index is price-weighted rather than capitalization-weighted?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which option pricing model originally assumed no dividends on the underlying stock?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is an index fund?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which trading venue introduced electronic quotation for securities in 1971?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes shares issued but restricted from sale due to contractual conditions?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'blue-chip' describe in stocks?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which index fund ETF launched in 1993 as one of the first widely traded ETFs?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which measure captures how many times a company's inventory converts into sales annually?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a share buyback or repurchase?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which investor is known for pioneering low-cost index funds at Vanguard?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which valuation anomaly refers to stocks with recent strong returns continuing to outperform short term?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is volatility in investing?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which U.S. agency enforces federal securities laws and regulates markets?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which pricing model extension incorporates stochastic volatility into option pricing?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which city is the capital of Antigua and Barbuda, famous for its English Harbour?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which capital is located on an island chain and uses a lagoon and reef system as natural defenses?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital was planned and constructed with foreign technical assistance as part of a post-colonial nation-building project?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city is the capital of the Kingdom of Tonga, located on Tongatapu island?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital city is recognized for Baroque and colonial-era architecture linked to a Portuguese colonial past?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital is uniquely sited on an elevated central plateau that shaped its urban layout and climate?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of the Solomon Islands, located on Guadalcanal island?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital hosts the headquarters of a regional organisation named the Eastern Caribbean Central Bank?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital city was moved inland because of vulnerability to hurricanes, following a devastating storm in 1961?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which African kingdom uses Mbabane as its administrative capital and Lobamba ceremonially?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Pacific capital is spread across a long coral atoll rather than a single compact island?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital's airport requires boat or sea transfer between the airport island and the central urban district?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Guinea-Bissau, an Atlantic port city with colonial influences?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital sits on an island but serves a continental African country, creating a unique geographic situation?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital features a national assembly and royal residence located in separate towns within the nation's dual-capital arrangement?"
+    }
+  ]
+}

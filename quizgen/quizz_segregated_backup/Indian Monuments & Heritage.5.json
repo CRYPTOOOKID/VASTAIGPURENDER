@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which British-era memorial on Kolkata's Victoria Memorial grounds honors Queen Victoria?",
+      "options": [
+        "Victoria Memorial itself",
+        "St. Paul's Cathedral",
+        "Fort William"
+      ],
+      "answer": "Victoria Memorial itself"
+    },
+    {
+      "question_id": 2,
+      "question": "Which British architect designed the overall plan for New Delhi including Rashtrapati Bhavan?",
+      "options": [
+        "Edwin Lutyens",
+        "George Wittet",
+        "William Emerson"
+      ],
+      "answer": "Edwin Lutyens"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Persian engineer supervised Humayun's Tomb construction under Haji Begum?",
+      "options": [
+        "Mirak Mirza Ghiyas",
+        "Ustad Ahmad Lahauri",
+        "Sayyid Muhammad"
+      ],
+      "answer": "Mirak Mirza Ghiyas"
+    },
+    {
+      "question_id": 4,
+      "question": "Which structure is a famous gateway built in Mumbai to commemorate a royal visit?",
+      "options": [
+        "Gateway of India",
+        "Victoria Terminus",
+        "Prince of Wales Gate"
+      ],
+      "answer": "Gateway of India"
+    },
+    {
+      "question_id": 5,
+      "question": "Which mosque in Delhi was commissioned by Shah Jahan and remains among India's largest?",
+      "options": [
+        "Jama Masjid",
+        "Fatehpuri Masjid",
+        "Jama Masjid of Agra"
+      ],
+      "answer": "Jama Masjid"
+    },
+    {
+      "question_id": 6,
+      "question": "Which temple at Hampi preserves the famous stone chariot and carved musical pillars?",
+      "options": [
+        "Vittala Temple",
+        "Virupaksha Temple",
+        "Hazara Rama Temple"
+      ],
+      "answer": "Vittala Temple"
+    },
+    {
+      "question_id": 7,
+      "question": "Which city contains the rock-cut Kailasa temple carved from a single rock?",
+      "options": [
+        "Ellora",
+        "Ajanta",
+        "Aurangabad"
+      ],
+      "answer": "Ellora"
+    },
+    {
+      "question_id": 8,
+      "question": "Which archaeological site hosts the largest surviving monolithic stone chariot in India?",
+      "options": [
+        "Hampi",
+        "Khajuraho",
+        "Konark"
+      ],
+      "answer": "Hampi"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ancient Indian capital's ruins include the famous Udayagiri and Khandagiri caves?",
+      "options": [
+        "Khumar",
+        "Pataliputra",
+        "Bhubaneswar"
+      ],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "question_id": 10,
+      "question": "Which stupas at Sanchi are associated with Emperor Ashoka?",
+      "options": [
+        "Sanchi Stupa",
+        "Buddha Stupa of Nalanda",
+        "Barabar Caves"
+      ],
+      "answer": "Sanchi Stupa"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coastal shrine at Konark aligns with the rising sun and chariot symbolism?",
+      "options": [
+        "Sun Temple",
+        "Jagannath Temple",
+        "Kapileswar Temple"
+      ],
+      "answer": "Sun Temple"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient stepwell at Patan features ornate sculptures and was UNESCO-inscribed in 2014?",
+      "options": [
+        "Rani ki Vav",
+        "Adalaj Stepwell",
+        "Dada Harir Stepwell"
+      ],
+      "answer": "Rani ki Vav"
+    },
+    {
+      "question_id": 13,
+      "question": "Which cave complex combines Buddhist, Hindu, and Jain monuments in Maharashtra?",
+      "options": [
+        "Ellora Caves",
+        "Ajanta Caves",
+        "Karle Caves"
+      ],
+      "answer": "Ellora Caves"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian monument's central dome was an inspiration for later Mughal architecture?",
+      "options": [
+        "Humayun's Tomb",
+        "Qutub Minar",
+        "Sanchi Stupa"
+      ],
+      "answer": "Humayun's Tomb"
+    },
+    {
+      "question_id": 15,
+      "question": "Which archaeological site in Tamil Nadu preserves rock-cut temples from Pallava and early Chola periods?",
+      "options": [
+        "Mahabalipuram",
+        "Thanjavur",
+        "Madurai"
+      ],
+      "answer": "Mahabalipuram"
+    }
+  ]
+}

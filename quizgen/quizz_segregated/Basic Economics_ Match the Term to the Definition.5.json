@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term refers to the money paid for using someone else's resources?",
+      "options": [
+        "Rent",
+        "Profit",
+        "Salary"
+      ],
+      "answer": "Rent"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term measures total output per unit of input across an economy?",
+      "options": [
+        "Gross margin",
+        "Labor force participation",
+        "Total factor productivity"
+      ],
+      "answer": "Total factor productivity"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the term for trade pattern where countries specialize based on comparative advantage?",
+      "options": [
+        "Absolute advantage",
+        "Infant industry",
+        "Ricardian specialization"
+      ],
+      "answer": "Ricardian specialization"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the term for goods used to produce other goods and services?",
+      "options": [
+        "Capital goods",
+        "Consumer goods",
+        "Public goods"
+      ],
+      "answer": "Capital goods"
+    },
+    {
+      "question_id": 5,
+      "question": "What term describes the graph showing combinations of two goods an economy can produce?",
+      "options": [
+        "Production possibility frontier",
+        "Demand curve",
+        "Supply curve"
+      ],
+      "answer": "Production possibility frontier"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes when a single firm supplies an entire market at lower cost than many?",
+      "options": [
+        "Natural monopoly",
+        "Oligopoly",
+        "Perfect competition"
+      ],
+      "answer": "Natural monopoly"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the economic term for a prolonged fall in economic activity?",
+      "options": [
+        "Stagnation",
+        "Recession",
+        "Boom"
+      ],
+      "answer": "Recession"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term denotes price discrimination based on customer willingness to pay?",
+      "options": [
+        "Perfect competition",
+        "Uniform pricing",
+        "First-degree price discrimination"
+      ],
+      "answer": "First-degree price discrimination"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term denotes welfare transfers where higher-income individuals benefit less proportionally?",
+      "options": [
+        "Proportional transfer",
+        "Progressive transfer",
+        "Regressive transfer"
+      ],
+      "answer": "Regressive transfer"
+    },
+    {
+      "question_id": 10,
+      "question": "What term refers to goods imported into a country?",
+      "options": [
+        "Tariffs",
+        "Imports",
+        "Exports"
+      ],
+      "answer": "Imports"
+    },
+    {
+      "question_id": 11,
+      "question": "What term defines a tax that takes a larger percentage from high-income earners?",
+      "options": [
+        "Regressive tax",
+        "Proportional tax",
+        "Progressive tax"
+      ],
+      "answer": "Progressive tax"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the term for a market structure with one buyer and many sellers?",
+      "options": [
+        "Monopoly",
+        "Oligopsony",
+        "Monopsony"
+      ],
+      "answer": "Monopsony"
+    },
+    {
+      "question_id": 13,
+      "question": "What term describes the responsiveness of demand to price changes?",
+      "options": [
+        "Income elasticity",
+        "Price elasticity of demand",
+        "Cross-price elasticity"
+      ],
+      "answer": "Price elasticity of demand"
+    },
+    {
+      "question_id": 14,
+      "question": "What term labels the benefit to society from an individual's investment, like education?",
+      "options": [
+        "Positive externality",
+        "Negative externality",
+        "Public good"
+      ],
+      "answer": "Positive externality"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes the time-inconsistent behavior where present bias affects decisions?",
+      "options": [
+        "Hyperbolic discounting",
+        "Rational expectations",
+        "Exponential discounting"
+      ],
+      "answer": "Hyperbolic discounting"
+    }
+  ]
+}

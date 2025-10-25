@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "The English word 'whale' traces back to Old English 'hwæl'; which animal is that?"
+    },
+    {
+      "question_id": 2,
+      "question": "The Old English word 'wyrd' evolved into modern 'weird'; what did 'wyrd' originally mean?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which English word derives from Latin 'liber' and names institutions for books?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who in Greek literature became the model for the English word 'mentor'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which modern verb is a back-formation from 'editor'?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the linguistic term for forming a word by removing an affix, like 'edit' from 'editor'?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the word 'honeymoon' originally describe in marriage traditions?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which English pair demonstrates Norman French influence on meat vocabulary versus animals?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Old Norse-derived suffix '-by' in English place names denotes what?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which plant name comes into English from Latin 'aloe' via Arabic mediation?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Romance language contributed most heavily to English legal vocabulary historically?"
+    },
+    {
+      "question_id": 12,
+      "question": "What term describes Latin-derived church vocabulary entering Old English after Christianization?"
+    },
+    {
+      "question_id": 13,
+      "question": "The English word 'salary' originally referred to payment linked to which commodity?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Old English lexical item narrowed in meaning to produce modern 'meat'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Proto-Indo-European root is reconstructed as the origin of Latin 'pater' and English 'father'?"
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who is the Hindu god of preservation in the Trimurti?",
+        "options": [
+          "Vishnu",
+          "Shiva",
+          "Brahma"
+        ],
+        "answer": "Vishnu"
+      },
+      {
+        "question": "Who is widely known as the remover of obstacles in Hindu tradition?",
+        "options": [
+          "Ganesha",
+          "Hanuman",
+          "Kartikeya"
+        ],
+        "answer": "Ganesha"
+      },
+      {
+        "question": "Which river is worshipped as the goddess who descended from Shiva's hair?",
+        "options": [
+          "Ganga",
+          "Yamuna",
+          "Saraswati"
+        ],
+        "answer": "Ganga"
+      },
+      {
+        "question": "Which goddess is associated with wealth, fortune, and prosperity?",
+        "options": [
+          "Lakshmi",
+          "Saraswati",
+          "Parvati"
+        ],
+        "answer": "Lakshmi"
+      },
+      {
+        "question": "Which epic tells the story of Rama, an avatar of Vishnu?",
+        "options": [
+          "Ramayana",
+          "Mahabharata",
+          "Puranas"
+        ],
+        "answer": "Ramayana"
+      },
+      {
+        "question": "Which god is commonly depicted with a trident and matted hair?",
+        "options": [
+          "Shiva",
+          "Indra",
+          "Agni"
+        ],
+        "answer": "Shiva"
+      },
+      {
+        "question": "Which goddess is associated with knowledge, music, and learning?",
+        "options": [
+          "Saraswati",
+          "Durga",
+          "Annapurna"
+        ],
+        "answer": "Saraswati"
+      },
+      {
+        "question": "Who served as Krishna's charioteer and delivered the Bhagavad Gita?",
+        "options": [
+          "Arjuna",
+          "Bhishma",
+          "Arjuna"
+        ],
+        "answer": "Arjuna"
+      },
+      {
+        "question": "Which festival celebrates Rama's return to Ayodhya after exile?",
+        "options": [
+          "Diwali",
+          "Holi",
+          "Navaratri"
+        ],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Which god is celebrated as the monkey devotee who helped Rama?",
+        "options": [
+          "Hanuman",
+          "Sugriva",
+          "Jambavan"
+        ],
+        "answer": "Hanuman"
+      },
+      {
+        "question": "Which weapon is commonly associated with Vishnu's iconography?",
+        "options": [
+          "Sudarshana Chakra",
+          "Trishula",
+          "Bow and Arrow"
+        ],
+        "answer": "Sudarshana Chakra"
+      },
+      {
+        "question": "Which goddess forms when Parvati takes a fierce warrior aspect to defeat demons?",
+        "options": [
+          "Durga",
+          "Sita",
+          "Radha"
+        ],
+        "answer": "Durga"
+      },
+      {
+        "question": "Which son of Shiva and Parvati is known as the god of war?",
+        "options": [
+          "Kartikeya",
+          "Ganesha",
+          "Ashoka"
+        ],
+        "answer": "Kartikeya"
+      },
+      {
+        "question": "Which text contains hymns dedicated to various Vedic gods?",
+        "options": [
+          "Rigveda",
+          "Bhagavad Gita",
+          "Ramayana"
+        ],
+        "answer": "Rigveda"
+      },
+      {
+        "question": "Which god rides a Garuda, a mythical bird?",
+        "options": [
+          "Vishnu",
+          "Shiva",
+          "Brahma"
+        ],
+        "answer": "Vishnu"
+      },
+      {
+        "question": "Who is Rama's devoted consort known for her virtue?",
+        "options": [
+          "Sita",
+          "Draupadi",
+          "Radha"
+        ],
+        "answer": "Sita"
+      },
+      {
+        "question": "Which deity is often worshipped before starting rituals or new ventures?",
+        "options": [
+          "Ganesha",
+          "Vishnu",
+          "Saraswati"
+        ],
+        "answer": "Ganesha"
+      },
+      {
+        "question": "Which avatar of Vishnu is the fish who saved sages during a great flood?",
+        "options": [
+          "Matsya",
+          "Kurma",
+          "Varaha"
+        ],
+        "answer": "Matsya"
+      },
+      {
+        "question": "Which goddess is frequently depicted riding a lion or tiger?",
+        "options": [
+          "Durga",
+          "Saraswati",
+          "Lakshmi"
+        ],
+        "answer": "Durga"
+      },
+      {
+        "question": "Which form of Shiva represents cosmic dance and rhythmic creation?",
+        "options": [
+          "Nataraja",
+          "Ardhanarishvara",
+          "Dakshinamurti"
+        ],
+        "answer": "Nataraja"
+      },
+      {
+        "question": "Which deity is traditionally associated with arts, speech, and learning patronage?",
+        "options": [
+          "Saraswati",
+          "Lakshmi",
+          "Parvati"
+        ],
+        "answer": "Saraswati"
+      },
+      {
+        "question": "Which avatar of Vishnu appears as a dwarf Brahmin king to restore cosmic order?",
+        "options": [
+          "Vamana",
+          "Narasimha",
+          "Rama"
+        ],
+        "answer": "Vamana"
+      },
+      {
+        "question": "Who is worshipped as the divine cowherd and playful lover in Krishna lore?",
+        "options": [
+          "Radha",
+          "Sita",
+          "Draupadi"
+        ],
+        "answer": "Radha"
+      },
+      {
+        "question": "Which god is associated with fire and is invoked in Vedic rituals?",
+        "options": [
+          "Agni",
+          "Indra",
+          "Varuna"
+        ],
+        "answer": "Agni"
+      },
+      {
+        "question": "Which text is a dialogue between Krishna and Arjuna on duty and righteousness?",
+        "options": [
+          "Bhagavad Gita",
+          "Yoga Sutras",
+          "Arthashastra"
+        ],
+        "answer": "Bhagavad Gita"
+      },
+      {
+        "question": "Which goddess took the form Kali during battle to defeat demons?",
+        "options": [
+          "Kali",
+          "Sita",
+          "Saraswati"
+        ],
+        "answer": "Kali"
+      },
+      {
+        "question": "Which weapon is commonly associated with Shiva in iconography?",
+        "options": [
+          "Trishula",
+          "Sudarshana Chakra",
+          "Gada"
+        ],
+        "answer": "Trishula"
+      },
+      {
+        "question": "Who is the creator god in the Hindu Trimurti?",
+        "options": [
+          "Brahma",
+          "Vishnu",
+          "Shiva"
+        ],
+        "answer": "Brahma"
+      },
+      {
+        "question": "Which mountain is considered Shiva's abode in Hindu tradition?",
+        "options": [
+          "Mount Kailash",
+          "Himalaya",
+          "Mount Meru"
+        ],
+        "answer": "Mount Kailash"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which avatar of Vishnu has a half-man, half-lion form who protected his devotee Prahlada?",
+        "options": [
+          "Narasimha",
+          "Varaha",
+          "Vamana"
+        ],
+        "answer": "Narasimha"
+      },
+      {
+        "question": "Which goddess is the consort of Shiva and embodies fertility and devotion?",
+        "options": [
+          "Parvati",
+          "Lakshmi",
+          "Saraswati"
+        ],
+        "answer": "Parvati"
+      },
+      {
+        "question": "Which son of Kunti and the central Pandava archer received Krishna's guidance in Mahabharata?",
+        "options": [
+          "Arjuna",
+          "Bhima",
+          "Yudhishthira"
+        ],
+        "answer": "Arjuna"
+      },
+      {
+        "question": "Which epic features the Kurukshetra war and extensive genealogies of gods and kings?",
+        "options": [
+          "Mahabharata",
+          "Ramayana",
+          "Skanda Purana"
+        ],
+        "answer": "Mahabharata"
+      },
+      {
+        "question": "Which avatar of Vishnu took a boar form to lift the earth from cosmic waters?",
+        "options": [
+          "Varaha",
+          "Kurma",
+          "Matsya"
+        ],
+        "answer": "Varaha"
+      },
+      {
+        "question": "Which goddess embodies the combined form of Shiva and Shakti as half-male, half-female?",
+        "options": [
+          "Ardhanarishvara",
+          "Annapurna",
+          "Gayatri"
+        ],
+        "answer": "Ardhanarishvara"
+      },
+      {
+        "question": "Who is the primary antagonist king in the Ramayana who abducted Sita?",
+        "options": [
+          "Ravana",
+          "Vibhishana",
+          "Surpanakha"
+        ],
+        "answer": "Ravana"
+      },
+      {
+        "question": "Which Vedic deity governs storms, thunder, and the warrior aspect?",
+        "options": [
+          "Indra",
+          "Agni",
+          "Varuna"
+        ],
+        "answer": "Indra"
+      },
+      {
+        "question": "Which goddess's nine-night festival celebrates her different manifestations across India?",
+        "options": [
+          "Durga (Navaratri)",
+          "Lakshmi (Diwali)",
+          "Saraswati (Vasant Panchami)"
+        ],
+        "answer": "Durga (Navaratri)"
+      },
+      {
+        "question": "Which divine weapon did Krishna advise Arjuna to use symbolically in battle ethics?",
+        "options": [
+          "Sudarshana Chakra",
+          "Brahmastra",
+          "No physical weapon"
+        ],
+        "answer": "No physical weapon"
+      },
+      {
+        "question": "Which temple city hosts the famous Jagannath triad worshiped as forms of Krishna?",
+        "options": [
+          "Puri",
+          "Vrindavan",
+          "Mathura"
+        ],
+        "answer": "Puri"
+      },
+      {
+        "question": "Which sage authored the Yoga Vasistha narrative teaching Rama spiritual wisdom?",
+        "options": [
+          "Vasistha",
+          "Vyasa",
+          "Valmiki"
+        ],
+        "answer": "Vasistha"
+      },
+      {
+        "question": "Which goddess is invoked in marriages for marital bliss and household prosperity?",
+        "options": [
+          "Lakshmi",
+          "Saraswati",
+          "Durga"
+        ],
+        "answer": "Lakshmi"
+      },
+      {
+        "question": "Which avatar of Vishnu appears as a tortoise to support Mount Mandara during churning?",
+        "options": [
+          "Kurma",
+          "Matsya",
+          "Narasimha"
+        ],
+        "answer": "Kurma"
+      },
+      {
+        "question": "Which god is addressed as 'Jagatpati' or lord of the universe and preserver of dharma?",
+        "options": [
+          "Vishnu",
+          "Brahma",
+          "Shiva"
+        ],
+        "answer": "Vishnu"
+      },
+      {
+        "question": "Which goddess' iconography includes a veena, signifying music and learning?",
+        "options": [
+          "Saraswati",
+          "Lakshmi",
+          "Parvati"
+        ],
+        "answer": "Saraswati"
+      },
+      {
+        "question": "Which demon king's death prompted Krishna to reveal his universal form to Arjuna?",
+        "options": [
+          "Kansa",
+          "Jarasandha",
+          "Shishupala"
+        ],
+        "answer": "Kansa"
+      },
+      {
+        "question": "Which Sanskrit epic poet composed the original Ramayana attributed to this sage?",
+        "options": [
+          "Valmiki",
+          "Vyasa",
+          "Kalidasa"
+        ],
+        "answer": "Valmiki"
+      },
+      {
+        "question": "Which festival honors the divine bond between Krishna and Radha, celebrated in Vrindavan?",
+        "options": [
+          "Holi",
+          "Raksha Bandhan",
+          "Pongal"
+        ],
+        "answer": "Holi"
+      },
+      {
+        "question": "Which sacred mountain is central in many Puranic myths as the axis of the world?",
+        "options": [
+          "Mount Meru",
+          "Mount Everest",
+          "Mount Kailash"
+        ],
+        "answer": "Mount Meru"
+      },
+      {
+        "question": "Which god presides over death and the cycle of rebirth in Hindu thought?",
+        "options": [
+          "Yama",
+          "Kubera",
+          "Vayu"
+        ],
+        "answer": "Yama"
+      },
+      {
+        "question": "Which goddess is called 'Mahadevi' when representing the supreme feminine cosmic power?",
+        "options": [
+          "Devi",
+          "Sita",
+          "Ganga"
+        ],
+        "answer": "Devi"
+      },
+      {
+        "question": "Which Purana predominantly narrates Vishnu's exploits and avatars?",
+        "options": [
+          "Vishnu Purana",
+          "Shiva Purana",
+          "Skanda Purana"
+        ],
+        "answer": "Vishnu Purana"
+      },
+      {
+        "question": "Which ritual chant is most commonly associated with Shiva worship?",
+        "options": [
+          "Om Namah Shivaya",
+          "Jai Shri Ram",
+          "Hare Krishna"
+        ],
+        "answer": "Om Namah Shivaya"
+      },
+      {
+        "question": "Which form of Vishnu is worshipped as the cosmic king at Jagannath Temple in Puri?",
+        "options": [
+          "Jagannath",
+          "Venkateswara",
+          "Ranganatha"
+        ],
+        "answer": "Jagannath"
+      },
+      {
+        "question": "Which divine couple represents wealth and auspiciousness and are worshipped together?",
+        "options": [
+          "Vishnu and Lakshmi",
+          "Shiva and Parvati",
+          "Indra and Shachi"
+        ],
+        "answer": "Vishnu and Lakshmi"
+      },
+      {
+        "question": "Which epic heroine asked for alms, was married to Rama, and proved her chastity?",
+        "options": [
+          "Sita",
+          "Draupadi",
+          "Tara"
+        ],
+        "answer": "Sita"
+      },
+      {
+        "question": "Which river goddess is associated with purity and is worshipped at Kumbh Mela gatherings?",
+        "options": [
+          "Ganga",
+          "Godavari",
+          "Kaveri"
+        ],
+        "answer": "Ganga"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Vedic meter names the goddess Gayatri associated with the Rigvedic hymn of 24 syllables?",
+        "options": [
+          "Gayatri",
+          "Anushtubh",
+          "Trishtubh"
+        ],
+        "answer": "Gayatri"
+      },
+      {
+        "question": "Which demon king's throat split open, producing the river Ganges in some Puranic accounts?",
+        "options": [
+          "Shishupal",
+          "Kumbhakarna",
+          "Vritra"
+        ],
+        "answer": "Vritra"
+      },
+      {
+        "question": "Which rare form of Shiva merges with Vishnu as Harihara in South Indian iconography?",
+        "options": [
+          "Harihara",
+          "Kalaratri",
+          "Bhairava"
+        ],
+        "answer": "Harihara"
+      },
+      {
+        "question": "Which Purana records the elaborate genealogy of the sun dynasty (Suryavansha)?",
+        "options": [
+          "Vishnu Purana",
+          "Markandeya Purana",
+          "Agni Purana"
+        ],
+        "answer": "Vishnu Purana"
+      },
+      {
+        "question": "Which avatar of Vishnu is described as a boar rescuing the earth from Hiranyaksha?",
+        "options": [
+          "Varaha",
+          "Narasimha",
+          "Vamana"
+        ],
+        "answer": "Varaha"
+      },
+      {
+        "question": "Which goddess is addressed as 'Sarvamangala' and appears in the Lalita Sahasranama hymns?",
+        "options": [
+          "Lalita Tripurasundari",
+          "Sita",
+          "Annapurna"
+        ],
+        "answer": "Lalita Tripurasundari"
+      },
+      {
+        "question": "Which weapon did Brahma grant to Rama in some regional retellings of Ramayana?",
+        "options": [
+          "Brahmastra",
+          "Pashupatastra",
+          "Sudarshana Chakra"
+        ],
+        "answer": "Brahmastra"
+      },
+      {
+        "question": "Which Upanishad contains the dialogue between Yajnavalkya and his wife Maitreyi on reality?",
+        "options": [
+          "Brihadaranyaka Upanishad",
+          "Katha Upanishad",
+          "Mundaka Upanishad"
+        ],
+        "answer": "Brihadaranyaka Upanishad"
+      },
+      {
+        "question": "Which deity is invoked by the Gayatri Mantra that begins 'Om Bhur Bhuvaḥ Svaḥ'?",
+        "options": [
+          "Savitr",
+          "Indra",
+          "Agni"
+        ],
+        "answer": "Savitr"
+      },
+      {
+        "question": "Which rare Krishna form is the eight-armed warrior 'Shamana Krishna' in some texts?",
+        "options": [
+          "Hayagriva",
+          "Vishvarupa",
+          "Shamana Krishna"
+        ],
+        "answer": "Shamana Krishna"
+      },
+      {
+        "question": "Which river goddess's subterranean course is said to flow beneath the earth in Vedic lore?",
+        "options": [
+          "Saraswati",
+          "Ganga",
+          "Yamuna"
+        ],
+        "answer": "Saraswati"
+      },
+      {
+        "question": "Which demon was slayed by Durga using the trident and the collective Shakti in Devi Mahatmya?",
+        "options": [
+          "Mahishasura",
+          "Bakasura",
+          "Tarakasura"
+        ],
+        "answer": "Mahishasura"
+      },
+      {
+        "question": "Which Shaivite tradition reveres the 63 Nayanar saints in Tamil devotional literature?",
+        "options": [
+          "Shaiva Siddhanta",
+          "Vaishnavism",
+          "Shakta"
+        ],
+        "answer": "Shaiva Siddhanta"
+      },
+      {
+        "question": "Which avatar list places Buddha as an incarnation of Vishnu in many Puranic accounts?",
+        "options": [
+          "Dashavatara",
+          "Chaturvyuha",
+          "Saptamatrika"
+        ],
+        "answer": "Dashavatara"
+      },
+      {
+        "question": "Which goddess presides over the Sri Vidya tradition and is worshipped through the Sri Chakra?",
+        "options": [
+          "Tripurasundari",
+          "Parvati",
+          "Saraswati"
+        ],
+        "answer": "Tripurasundari"
+      },
+      {
+        "question": "Which sage composed the Harivamsa supplement to the Mahabharata focusing on Krishna's life?",
+        "options": [
+          "Vyasa",
+          "Valmiki",
+          "Vishwamitra"
+        ],
+        "answer": "Vyasa"
+      },
+      {
+        "question": "Which epic battle features the mighty mace duel between Bhima and Duryodhana?",
+        "options": [
+          "Mahabharata",
+          "Ramayana",
+          "Harivamsa"
+        ],
+        "answer": "Mahabharata"
+      },
+      {
+        "question": "Which Puranic figure served as Vishnu's gatekeeper and appears as a dwarf in cosmic stories?",
+        "options": [
+          "Vamana",
+          "Nara",
+          "Shesha"
+        ],
+        "answer": "Vamana"
+      },
+      {
+        "question": "Which deity is associated with the peacock mount and the Tamil festival of Thaipusam?",
+        "options": [
+          "Kartikeya (Murugan)",
+          "Indra",
+          "Kubera"
+        ],
+        "answer": "Kartikeya (Murugan)"
+      },
+      {
+        "question": "Which form of Shiva is worshipped as the supreme teacher at Chidambaram in Tamil tradition?",
+        "options": [
+          "Nataraja",
+          "Rudra",
+          "Pashupati"
+        ],
+        "answer": "Nataraja"
+      },
+      {
+        "question": "Which river is personified as a goddess who cleanses sins when devotees bathe during Kumbh Mela?",
+        "options": [
+          "Ganga",
+          "Narmada",
+          "Godavari"
+        ],
+        "answer": "Ganga"
+      },
+      {
+        "question": "Which goddess's fierce form consumed Raktabija's blood drops to prevent his multiplication?",
+        "options": [
+          "Kali",
+          "Durga",
+          "Sati"
+        ],
+        "answer": "Kali"
+      },
+      {
+        "question": "Which cosmic serpent supports Vishnu and serves as his bed in Vaikuntha depictions?",
+        "options": [
+          "Shesha (Ananta)",
+          "Vasuki",
+          "Takshaka"
+        ],
+        "answer": "Shesha (Ananta)"
+      },
+      {
+        "question": "Which Puranic text focuses extensively on Shiva's legends and temple lore in South India?",
+        "options": [
+          "Shiva Purana",
+          "Vishnu Purana",
+          "Bhagavata Purana"
+        ],
+        "answer": "Shiva Purana"
+      },
+      {
+        "question": "Which Vedic god is traditionally linked to cosmic law, the ocean, and judicial order?",
+        "options": [
+          "Varuna",
+          "Agni",
+          "Indra"
+        ],
+        "answer": "Varuna"
+      },
+      {
+        "question": "Which medieval saint-poet compiled the 12 Alvars whose hymns praise Vishnu in Tamil tradition?",
+        "options": [
+          "Alvars",
+          "Nayanars",
+          "Sants"
+        ],
+        "answer": "Alvars"
+      },
+      {
+        "question": "Which form of Vishnu reclines on Shesha while holding a lotus from which Brahma emerges?",
+        "options": [
+          "Anantashayana",
+          "Vaikuntha Chaturmurti",
+          "Vishvarupa"
+        ],
+        "answer": "Anantashayana"
+      },
+      {
+        "question": "Which rare iconographic form shows Shiva as half woman and half man symbolizing unity of sexes?",
+        "options": [
+          "Ardhanarishvara",
+          "Bhairava",
+          "Lingodbhava"
+        ],
+        "answer": "Ardhanarishvara"
+      },
+      {
+        "question": "Which Vedic hymn collection contains the Nasadiya Sukta contemplating cosmic origin?",
+        "options": [
+          "Rigveda",
+          "Samaveda",
+          "Atharvaveda"
+        ],
+        "answer": "Rigveda"
+      }
+    ]
+  }
+}

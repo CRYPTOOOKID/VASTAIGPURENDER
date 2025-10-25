@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which isotope of uranium is most commonly enriched for use in commercial nuclear reactors?",
+      "options": [
+        "U-235",
+        "U-238",
+        "U-234"
+      ],
+      "answer": "U-235"
+    },
+    {
+      "question_id": 2,
+      "question": "Which metal forms intermetallic compounds with silicon used in semiconductor contacts, like nickel silicide?",
+      "options": [
+        "Nickel",
+        "Lead",
+        "Magnesium"
+      ],
+      "answer": "Nickel"
+    },
+    {
+      "question_id": 3,
+      "question": "Which compound's sodium salt is used to lower blood pH in aspirin overdose due to its buffering action (sodium bicarbonate)?",
+      "options": [
+        "Sodium bicarbonate",
+        "Sodium carbonate",
+        "Sodium sulfate"
+      ],
+      "answer": "Sodium bicarbonate"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element's allotrope, graphyne, is theorized as an alternative to graphene with different electronic properties?",
+      "options": [
+        "Carbon",
+        "Silicon",
+        "Boron"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 5,
+      "question": "Which compound is a Lewis acid widely used in organic synthesis for Friedel–Crafts acylation?",
+      "options": [
+        "Aluminum chloride (AlCl3)",
+        "Boron trifluoride (BF3)",
+        "Iron(III) chloride (FeCl3)"
+      ],
+      "answer": "Aluminum chloride (AlCl3)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which compound is an organometallic reagent used for forming carbon-carbon bonds in cross-coupling reactions (e.g., Suzuki coupling)?",
+      "options": [
+        "Boronate ester (boronic acid derivatives)",
+        "Grignard reagent",
+        "Sodium borohydride"
+      ],
+      "answer": "Boronate ester (boronic acid derivatives)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which compound is the industrial feedstock produced by steam methane reforming to yield hydrogen and carbon monoxide?",
+      "options": [
+        "Synthesis gas (syngas)",
+        "Methanol",
+        "Propylene"
+      ],
+      "answer": "Synthesis gas (syngas)"
+    },
+    {
+      "question_id": 8,
+      "question": "Which compound is the key intermediate in the Haber-Bosch process for ammonia synthesis: N2 + H2 → ?",
+      "options": [
+        "NH3 (ammonia)",
+        "N2H4 (hydrazine)",
+        "NH2 radical"
+      ],
+      "answer": "NH3 (ammonia)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which element's metal-organic frameworks (MOFs) often use zirconium clusters for exceptional chemical stability?",
+      "options": [
+        "Zirconium",
+        "Titanium",
+        "Aluminum"
+      ],
+      "answer": "Zirconium"
+    },
+    {
+      "question_id": 10,
+      "question": "Which element displays a stable +6 oxidation state in molybdenum trioxide and chromium trioxide respectively?",
+      "options": [
+        "Chromium",
+        "Iron",
+        "Copper"
+      ],
+      "answer": "Chromium"
+    },
+    {
+      "question_id": 11,
+      "question": "Which element's salts are commonly used as drying agents in organic synthesis due to high hygroscopicity, e.g., MgSO4 or CaCl2?",
+      "options": [
+        "Magnesium sulfate",
+        "Sodium chloride",
+        "Potassium nitrate"
+      ],
+      "answer": "Magnesium sulfate"
+    },
+    {
+      "question_id": 12,
+      "question": "Which isotope of plutonium played a central role in early nuclear weapons development due to its fissile properties?",
+      "options": [
+        "Pu-239",
+        "Pu-238",
+        "Pu-240"
+      ],
+      "answer": "Pu-239"
+    },
+    {
+      "question_id": 13,
+      "question": "Which compound is the primary refrigerant replacement in modern systems with lower ozone depletion potential: HFOs or CFCs?",
+      "options": [
+        "HFOs (hydrofluoroolefins)",
+        "CFCs (chlorofluorocarbons)",
+        "HCFCs (hydrochlorofluorocarbons)"
+      ],
+      "answer": "HFOs (hydrofluoroolefins)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which compound is a key intermediate in atmospheric chemistry formed from volatile organic compounds and NOx leading to ozone?",
+      "options": [
+        "Peroxyacetyl nitrate (PAN)",
+        "Sulfur dioxide",
+        "Carbon monoxide"
+      ],
+      "answer": "Peroxyacetyl nitrate (PAN)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which element's coordination number commonly reaches 6 in octahedral complexes like [Co(NH3)6]3+?",
+      "options": [
+        "Cobalt",
+        "Sodium",
+        "Boron"
+      ],
+      "answer": "Cobalt"
+    }
+  ]
+}

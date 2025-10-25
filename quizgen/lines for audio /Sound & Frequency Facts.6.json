@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which organ detects airborne sound in humans?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which device converts analog acoustic signals into digital samples?"
+    },
+    {
+      "question_id": 3,
+      "question": "What reference pressure defines 0 dB SPL in pascals?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which condition allows sound to travel through a space?"
+    },
+    {
+      "question_id": 5,
+      "question": "What acoustic metric measures time for a room to decay by 60 dB?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which marine animal produces very low-frequency calls used for long-range communication?"
+    },
+    {
+      "question_id": 7,
+      "question": "What term describes the persistence of sound in a hall after the source stops?"
+    },
+    {
+      "question_id": 8,
+      "question": "What principle underlies sonar distance measurement?"
+    },
+    {
+      "question_id": 9,
+      "question": "What term describes frequency-dependent phase velocity in a medium?"
+    },
+    {
+      "question_id": 10,
+      "question": "What property of a sound wave correlates most directly with musical pitch?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which tuning system uses exact integer frequency ratios for intervals?"
+    },
+    {
+      "question_id": 12,
+      "question": "What term describes permanent hearing degradation from excessive sound exposure?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which instrument displays waveforms and helps measure frequency visually?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which instrument displays a real-time frequency spectrum using FFT?"
+    },
+    {
+      "question_id": 15,
+      "question": "Acoustic intensity equals sound pressure squared divided by which property?"
+    }
+  ]
+}

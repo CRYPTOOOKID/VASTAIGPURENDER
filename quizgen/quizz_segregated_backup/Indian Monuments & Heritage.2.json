@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which city is home to the Charminar landmark?",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Pune"
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question_id": 2,
+      "question": "How many surviving major temples form the Khajuraho Group of Monuments today?",
+      "options": [
+        "About 25",
+        "About 50",
+        "About 10"
+      ],
+      "answer": "About 25"
+    },
+    {
+      "question_id": 3,
+      "question": "Which fort complex includes the Rang Mahal and Diwan-i-Khas built by Shah Jahan?",
+      "options": [
+        "Agra Fort",
+        "Red Fort Delhi",
+        "Fatehpur Sikri Fort"
+      ],
+      "answer": "Agra Fort"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Dravidian-style temple is known for its towering gopuram at Thanjavur?",
+      "options": [
+        "Brihadeeswarar Temple",
+        "Rameswaram Temple",
+        "Madurai Meenakshi Temple"
+      ],
+      "answer": "Brihadeeswarar Temple"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fort near Jaipur is famous for its Sheesh Mahal with mirror work?",
+      "options": [
+        "Amber Fort",
+        "Jaigarh Fort",
+        "Nahargarh Fort"
+      ],
+      "answer": "Amber Fort"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Southern dynasty built the Airavatesvara Temple included in Chola heritage?",
+      "options": [
+        "Chola",
+        "Pallava",
+        "Pandya"
+      ],
+      "answer": "Chola"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Mughal-era mausoleum is called the 'Baby Taj' in Agra?",
+      "options": [
+        "Itimad-ud-Daulah",
+        "Jama Masjid",
+        "Moti Masjid"
+      ],
+      "answer": "Itimad-ud-Daulah"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indo-Islamic style palace in Rajasthan exhibits painted ceilings and mirrors?",
+      "options": [
+        "City Palace, Udaipur",
+        "Jaisalmer Fort",
+        "Amber Fort"
+      ],
+      "answer": "City Palace, Udaipur"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Mughal monument in Delhi experienced major restoration controversies in the 20th century?",
+      "options": [
+        "Red Fort",
+        "Purana Qila",
+        "Jama Masjid"
+      ],
+      "answer": "Red Fort"
+    },
+    {
+      "question_id": 10,
+      "question": "Which monument in Delhi is the tomb of Emperor Humayun?",
+      "options": [
+        "Humayun's Tomb",
+        "Safdarjung's Tomb",
+        "Itimad-ud-Daulah"
+      ],
+      "answer": "Humayun's Tomb"
+    },
+    {
+      "question_id": 11,
+      "question": "Which temple at Mahabalipuram features rock-cut rathas (chariots) from Pallava times?",
+      "options": [
+        "Pancha Rathas",
+        "Shore Temple",
+        "Varaha Cave"
+      ],
+      "answer": "Pancha Rathas"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rock-cut Kailasa temple at Ellora replicates a complete temple from top down?",
+      "options": [
+        "Kailasa (Cave 16)",
+        "Indra Sabha (Cave 32)",
+        "Ravana Phadi (Cave 10)"
+      ],
+      "answer": "Kailasa (Cave 16)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which monument in Delhi was designed by Edwin Lutyens as a war memorial?",
+      "options": [
+        "India Gate",
+        "Rashtrapati Bhavan",
+        "Parliament House"
+      ],
+      "answer": "India Gate"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Mughal structure in Agra served as both fortress and royal residence?",
+      "options": [
+        "Agra Fort",
+        "Jama Masjid",
+        "Itmad Complex"
+      ],
+      "answer": "Agra Fort"
+    },
+    {
+      "question_id": 15,
+      "question": "Which emirate's architectural program includes the UNESCO-listed Elephanta Caves date?",
+      "options": [
+        "7th to 8th century mainly",
+        "10th to 11th century",
+        "15th to 16th century"
+      ],
+      "answer": "7th to 8th century mainly"
+    }
+  ]
+}

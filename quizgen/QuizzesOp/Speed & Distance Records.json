@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which car officially broke the sound barrier on land first?",
+        "options": [
+          "ThrustSSC",
+          "Thrust2",
+          "Bloodhound SSC"
+        ],
+        "answer": "ThrustSSC"
+      },
+      {
+        "question": "Who drove the ThrustSSC during the supersonic land speed record?",
+        "options": [
+          "Andy Green",
+          "Richard Noble",
+          "Craig Breedlove"
+        ],
+        "answer": "Andy Green"
+      },
+      {
+        "question": "Which vehicle holds the official world water speed record?",
+        "options": [
+          "Spirit of Australia",
+          "Bluebird K7",
+          "Miss Budweiser"
+        ],
+        "answer": "Spirit of Australia"
+      },
+      {
+        "question": "Who set the water speed record in Spirit of Australia?",
+        "options": [
+          "Ken Warby",
+          "Donald Campbell",
+          "Craig Breedlove"
+        ],
+        "answer": "Ken Warby"
+      },
+      {
+        "question": "Which aircraft holds the record for fastest air-breathing manned flight?",
+        "options": [
+          "SR-71 Blackbird",
+          "Concorde",
+          "North American X-15"
+        ],
+        "answer": "SR-71 Blackbird"
+      },
+      {
+        "question": "Which experimental unmanned aircraft exceeded Mach 9 in tests?",
+        "options": [
+          "NASA X-43A",
+          "Lockheed U-2",
+          "Boeing 747"
+        ],
+        "answer": "NASA X-43A"
+      },
+      {
+        "question": "Which passenger airliner routinely flew at supersonic speeds?",
+        "options": [
+          "Concorde",
+          "Boeing 747",
+          "Airbus A380"
+        ],
+        "answer": "Concorde"
+      },
+      {
+        "question": "Which cyclist set the paced bicycle speed record well over 100 mph?",
+        "options": [
+          "Denise Mueller-Korenek",
+          "Lance Armstrong",
+          "Eddy Merckx"
+        ],
+        "answer": "Denise Mueller-Korenek"
+      },
+      {
+        "question": "Who holds the men's 100m world record in athletics?",
+        "options": [
+          "Usain Bolt",
+          "Tyson Gay",
+          "Yohan Blake"
+        ],
+        "answer": "Usain Bolt"
+      },
+      {
+        "question": "What was Usain Bolt's official 100m record time?",
+        "options": [
+          "9.58 seconds",
+          "9.63 seconds",
+          "9.72 seconds"
+        ],
+        "answer": "9.58 seconds"
+      },
+      {
+        "question": "Which spacecraft currently holds the record for fastest human-made object near the Sun?",
+        "options": [
+          "Parker Solar Probe",
+          "Voyager 1",
+          "New Horizons"
+        ],
+        "answer": "Parker Solar Probe"
+      },
+      {
+        "question": "Which crewed mission produced the fastest speed ever reached by humans during reentry?",
+        "options": [
+          "Apollo 10",
+          "Apollo 11",
+          "Gemini 4"
+        ],
+        "answer": "Apollo 10"
+      },
+      {
+        "question": "Which train achieved a speed above 350 mph during a record run?",
+        "options": [
+          "French TGV",
+          "Japanese Shinkansen",
+          "British Intercity 125"
+        ],
+        "answer": "French TGV"
+      },
+      {
+        "question": "Which country developed the ThrustSSC team and project?",
+        "options": [
+          "United Kingdom",
+          "United States",
+          "Australia"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which production car first exceeded 300 mph in a high-profile run?",
+        "options": [
+          "Bugatti Chiron Super Sport 300+",
+          "Koenigsegg Agera RS",
+          "SSC Tuatara"
+        ],
+        "answer": "Bugatti Chiron Super Sport 300+"
+      },
+      {
+        "question": "Which jumper reached supersonic freefall in 2012?",
+        "options": [
+          "Felix Baumgartner",
+          "Alan Eustace",
+          "Joe Kittinger"
+        ],
+        "answer": "Felix Baumgartner"
+      },
+      {
+        "question": "What animal is recognized as the fastest land animal?",
+        "options": [
+          "Cheetah",
+          "Pronghorn",
+          "Lion"
+        ],
+        "answer": "Cheetah"
+      },
+      {
+        "question": "Which sailcraft set the speed sailing record with a radical design?",
+        "options": [
+          "Vestas Sailrocket 2",
+          "America's Cup yacht",
+          "Hydroptère"
+        ],
+        "answer": "Vestas Sailrocket 2"
+      },
+      {
+        "question": "In which century did motorized land speed records begin?",
+        "options": [
+          "19th century",
+          "20th century",
+          "18th century"
+        ],
+        "answer": "19th century"
+      },
+      {
+        "question": "Which international organization governs many motorsport world records?",
+        "options": [
+          "Fédération Internationale de l'Automobile (FIA)",
+          "NASA",
+          "International Olympic Committee"
+        ],
+        "answer": "Fédération Internationale de l'Automobile (FIA)"
+      },
+      {
+        "question": "What type of water body did Ken Warby use for his water speed record?",
+        "options": [
+          "Reservoir",
+          "Ocean",
+          "River"
+        ],
+        "answer": "Reservoir"
+      },
+      {
+        "question": "Which German test track is famous for controlled high-speed car runs?",
+        "options": [
+          "Ehra‑Lessien",
+          "Nürburgring",
+          "Hockenheimring"
+        ],
+        "answer": "Ehra‑Lessien"
+      },
+      {
+        "question": "Which rocket-powered research plane set extreme manned speed records in the 1960s?",
+        "options": [
+          "North American X-15",
+          "Bell X-1",
+          "Concorde"
+        ],
+        "answer": "North American X-15"
+      },
+      {
+        "question": "Which vehicle is associated with Richard Noble's land speed achievement?",
+        "options": [
+          "Thrust2",
+          "ThrustSSC",
+          "Spirit of Australia"
+        ],
+        "answer": "Thrust2"
+      },
+      {
+        "question": "Which surface do many land speed record teams use at Bonneville?",
+        "options": [
+          "Salt flats",
+          "Asphalt",
+          "Gravel"
+        ],
+        "answer": "Salt flats"
+      },
+      {
+        "question": "What type of engine powered ThrustSSC's record runs?",
+        "options": [
+          "Jet engine",
+          "Piston engine",
+          "Electric motor"
+        ],
+        "answer": "Jet engine"
+      },
+      {
+        "question": "Which unit is commonly used for speed in motorsports on land?",
+        "options": [
+          "Miles per hour",
+          "Knots",
+          "Meters per second"
+        ],
+        "answer": "Miles per hour"
+      },
+      {
+        "question": "Which unit is commonly used for maritime speed records?",
+        "options": [
+          "Knots",
+          "Miles per hour",
+          "Kilometers per hour"
+        ],
+        "answer": "Knots"
+      },
+      {
+        "question": "Where in the United States did ThrustSSC break the sound barrier?",
+        "options": [
+          "Black Rock Desert, Nevada",
+          "Bonneville Salt Flats, Utah",
+          "Ehra‑Lessien, Germany"
+        ],
+        "answer": "Black Rock Desert, Nevada"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What speed in mph did ThrustSSC record during its 1997 run?",
+        "options": [
+          "763.035 mph",
+          "633.468 mph",
+          "704.187 mph"
+        ],
+        "answer": "763.035 mph"
+      },
+      {
+        "question": "On which date did ThrustSSC officially break the sound barrier?",
+        "options": [
+          "October 15, 1997",
+          "October 4, 1983",
+          "September 16, 2018"
+        ],
+        "answer": "October 15, 1997"
+      },
+      {
+        "question": "What speed did Ken Warby's Spirit of Australia record in 1978?",
+        "options": [
+          "318.60 mph",
+          "289.12 mph",
+          "341.02 mph"
+        ],
+        "answer": "318.60 mph"
+      },
+      {
+        "question": "In which year did the SR-71 Blackbird set its official top speed record?",
+        "options": [
+          "1976",
+          "1965",
+          "1983"
+        ],
+        "answer": "1976"
+      },
+      {
+        "question": "What recorded speed in mph is attributed to the SR-71 Blackbird's official record?",
+        "options": [
+          "2,193.167 mph",
+          "357.2 mph",
+          "4,520 mph"
+        ],
+        "answer": "2,193.167 mph"
+      },
+      {
+        "question": "What top speed did the Bugatti Chiron Super Sport 300+ reach in 2019?",
+        "options": [
+          "304.773 mph",
+          "277.87 mph",
+          "331.15 mph"
+        ],
+        "answer": "304.773 mph"
+      },
+      {
+        "question": "Which driver piloted the Bugatti during its 304.773 mph run?",
+        "options": [
+          "Andy Wallace",
+          "Valentino Rossi",
+          "Lewis Hamilton"
+        ],
+        "answer": "Andy Wallace"
+      },
+      {
+        "question": "What paced bicycle top speed did Denise Mueller-Korenek reach at Bonneville in 2018?",
+        "options": [
+          "183.932 mph",
+          "167.04 mph",
+          "200.03 mph"
+        ],
+        "answer": "183.932 mph"
+      },
+      {
+        "question": "Which venue hosts the historic annual land speed events at high altitude?",
+        "options": [
+          "Bonneville Salt Flats",
+          "Nürburgring Nordschleife",
+          "Silverstone Circuit"
+        ],
+        "answer": "Bonneville Salt Flats"
+      },
+      {
+        "question": "What maximum speed did Japan's L0 superconducting maglev reach in tests?",
+        "options": [
+          "603 km/h",
+          "574.8 km/h",
+          "700 km/h"
+        ],
+        "answer": "603 km/h"
+      },
+      {
+        "question": "How fast did Vestas Sailrocket 2 sail to set its world record in knots?",
+        "options": [
+          "65.45 knots",
+          "54.32 knots",
+          "72.11 knots"
+        ],
+        "answer": "65.45 knots"
+      },
+      {
+        "question": "On which date did Apollo 10 reach its peak reentry speed for crewed flight?",
+        "options": [
+          "May 26, 1969",
+          "July 20, 1969",
+          "April 11, 1970"
+        ],
+        "answer": "May 26, 1969"
+      },
+      {
+        "question": "What speed in mph did Apollo 10 achieve during its reentry?",
+        "options": [
+          "24,791 mph",
+          "2,193 mph",
+          "318.60 mph"
+        ],
+        "answer": "24,791 mph"
+      },
+      {
+        "question": "What top speed in mph did the North American X-15 achieve in 1967?",
+        "options": [
+          "4,520 mph",
+          "2,193 mph",
+          "7,346 mph"
+        ],
+        "answer": "4,520 mph"
+      },
+      {
+        "question": "Which record did Felix Baumgartner set on October 14, 2012?",
+        "options": [
+          "Supersonic freefall and highest skydive",
+          "Fastest car speed",
+          "Highest powered flight"
+        ],
+        "answer": "Supersonic freefall and highest skydive"
+      },
+      {
+        "question": "What top speed did Felix Baumgartner reach during his 2012 descent?",
+        "options": [
+          "843.6 mph",
+          "600 mph",
+          "1,200 mph"
+        ],
+        "answer": "843.6 mph"
+      },
+      {
+        "question": "Which kilometer or mile distance is commonly used to validate top speed runs?",
+        "options": [
+          "Flying kilometer",
+          "Lap distance",
+          "Flying half-mile"
+        ],
+        "answer": "Flying kilometer"
+      },
+      {
+        "question": "Which organization certifies most international land speed records?",
+        "options": [
+          "Fédération Internationale de l'Automobile (FIA)",
+          "Guinness World Records",
+          "Fédération Aéronautique Internationale (FAI)"
+        ],
+        "answer": "Fédération Internationale de l'Automobile (FIA)"
+      },
+      {
+        "question": "Who drove Thrust2 to the 1983 land speed record?",
+        "options": [
+          "Richard Noble",
+          "Andy Green",
+          "Ken Warby"
+        ],
+        "answer": "Richard Noble"
+      },
+      {
+        "question": "Which unmanned vehicle reached Mach 9.6 during a 2004 test flight?",
+        "options": [
+          "NASA X-43A",
+          "Boeing X-51",
+          "SR-71 Blackbird"
+        ],
+        "answer": "NASA X-43A"
+      },
+      {
+        "question": "Which team built the Spirit of Australia water speed craft?",
+        "options": [
+          "Ken Warby and his team",
+          "Bluebird team",
+          "Miss Budweiser crew"
+        ],
+        "answer": "Ken Warby and his team"
+      },
+      {
+        "question": "Where did Bugatti conduct its 300+ mph test in Germany?",
+        "options": [
+          "Ehra‑Lessien",
+          "Hockenheimring",
+          "Nürburgring"
+        ],
+        "answer": "Ehra‑Lessien"
+      },
+      {
+        "question": "Which country operates the TGV that set 574.8 km/h in 2007?",
+        "options": [
+          "France",
+          "Japan",
+          "Germany"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which propulsion type characterizes the SR-71's engines used for record flights?",
+        "options": [
+          "Turbojet/ramjet combined cycle",
+          "Piston",
+          "Electric"
+        ],
+        "answer": "Turbojet/ramjet combined cycle"
+      },
+      {
+        "question": "Which modern probe holds the record for fastest human‑made object relative to the Sun?",
+        "options": [
+          "Parker Solar Probe",
+          "Voyager 1",
+          "Cassini"
+        ],
+        "answer": "Parker Solar Probe"
+      },
+      {
+        "question": "Which unit is standard for reporting maritime and sailing speeds?",
+        "options": [
+          "Knots",
+          "Miles per hour",
+          "Meters per second"
+        ],
+        "answer": "Knots"
+      },
+      {
+        "question": "Which desert site hosted ThrustSSC's supersonic runs?",
+        "options": [
+          "Black Rock Desert, Nevada",
+          "Sahara Desert, Algeria",
+          "Gobi Desert, Mongolia"
+        ],
+        "answer": "Black Rock Desert, Nevada"
+      },
+      {
+        "question": "Which vehicle holds the absolute official land speed record as of 2024?",
+        "options": [
+          "ThrustSSC",
+          "Thrust2",
+          "SSC Tuatara"
+        ],
+        "answer": "ThrustSSC"
+      },
+      {
+        "question": "Which organization records aviation speed records separate from automotive records?",
+        "options": [
+          "Fédération Aéronautique Internationale (FAI)",
+          "FIA",
+          "Guinness World Records"
+        ],
+        "answer": "Fédération Aéronautique Internationale (FAI)"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What was ThrustSSC's documented speed in kilometers per hour during the 1997 record?",
+        "options": [
+          "1,227.985 km/h",
+          "1,017.234 km/h",
+          "1,408.672 km/h"
+        ],
+        "answer": "1,227.985 km/h"
+      },
+      {
+        "question": "Which Royal Air Force pilot served as ThrustSSC's record driver?",
+        "options": [
+          "Andy Green",
+          "Eldon Joersz",
+          "Bill Lear"
+        ],
+        "answer": "Andy Green"
+      },
+      {
+        "question": "What exact mph did Thrust2 record under Richard Noble in 1983?",
+        "options": [
+          "633.468 mph",
+          "763.035 mph",
+          "511.120 mph"
+        ],
+        "answer": "633.468 mph"
+      },
+      {
+        "question": "Which dam at Blowering hosted Ken Warby's Spirit of Australia run?",
+        "options": [
+          "Blowering Dam",
+          "Hoover Dam",
+          "Three Gorges Dam"
+        ],
+        "answer": "Blowering Dam"
+      },
+      {
+        "question": "Which year did Denise Mueller-Korenek set the paced bicycle world record at Bonneville?",
+        "options": [
+          "2018",
+          "2014",
+          "2012"
+        ],
+        "answer": "2018"
+      },
+      {
+        "question": "Which pilot set the X-15's top recorded speed in 1967?",
+        "options": [
+          "William J. \"Pete\" Knight",
+          "Neil Armstrong",
+          "Chuck Yeager"
+        ],
+        "answer": "William J. \"Pete\" Knight"
+      },
+      {
+        "question": "What altitude did Felix Baumgartner jump from during his 2012 supersonic freefall?",
+        "options": [
+          "128,100 feet",
+          "100,000 feet",
+          "90,000 feet"
+        ],
+        "answer": "128,100 feet"
+      },
+      {
+        "question": "Which record category distinguishes air-breathing from rocket-powered aircraft speeds?",
+        "options": [
+          "Propulsion class",
+          "Wing span category",
+          "Weight class"
+        ],
+        "answer": "Propulsion class"
+      },
+      {
+        "question": "Which French train set the 574.8 km/h conventional rail record in 2007?",
+        "options": [
+          "TGV V150 test set",
+          "Shinkansen E5 series",
+          "ICE 3"
+        ],
+        "answer": "TGV V150 test set"
+      },
+      {
+        "question": "Which Japanese test reached 603 km/h for magnetic levitation in 2015?",
+        "options": [
+          "L0 Series Maglev",
+          "Shinkansen N700",
+          "ALFA-X"
+        ],
+        "answer": "L0 Series Maglev"
+      },
+      {
+        "question": "Which company built the Vestas Sailrocket 2 that set the speed sailing record?",
+        "options": [
+          "Sailrocket team with Vestas sponsorship",
+          "Team Oracle",
+          "America's Cup syndicate"
+        ],
+        "answer": "Sailrocket team with Vestas sponsorship"
+      },
+      {
+        "question": "Which metric does FIA commonly require for validating top speed records?",
+        "options": [
+          "Two runs in opposite directions averaged",
+          "Single one-way pass",
+          "Timed lap only"
+        ],
+        "answer": "Two runs in opposite directions averaged"
+      },
+      {
+        "question": "Which aircraft holds the absolute highest speed achieved by a manned rocket plane?",
+        "options": [
+          "North American X-15",
+          "Bell X-1",
+          "SR-71 Blackbird"
+        ],
+        "answer": "North American X-15"
+      },
+      {
+        "question": "Which mission holds the record for highest velocity achieved by humans during return to Earth?",
+        "options": [
+          "Apollo 10",
+          "Apollo 8",
+          "Soyuz 1"
+        ],
+        "answer": "Apollo 10"
+      },
+      {
+        "question": "Which modern probe surpassed Helios probes as fastest spacecraft near the Sun?",
+        "options": [
+          "Parker Solar Probe",
+          "Voyager 2",
+          "Messenger"
+        ],
+        "answer": "Parker Solar Probe"
+      },
+      {
+        "question": "What is the approximate speed of Mach 1 at sea level in mph?",
+        "options": [
+          "767 mph",
+          "600 mph",
+          "900 mph"
+        ],
+        "answer": "767 mph"
+      },
+      {
+        "question": "Which surface condition makes Bonneville Salt Flats ideal for high-speed runs?",
+        "options": [
+          "Hard, flat, extensive salt crust",
+          "Soft sand dunes",
+          "Rocky terrain"
+        ],
+        "answer": "Hard, flat, extensive salt crust"
+      },
+      {
+        "question": "Which driver set the controversial SSC Tuatara top speed claim in 2020?",
+        "options": [
+          "Oliver Webb",
+          "Andy Wallace",
+          "Jessie Knight"
+        ],
+        "answer": "Oliver Webb"
+      },
+      {
+        "question": "Which test facility in Germany is owned by Volkswagen Group for high‑speed runs?",
+        "options": [
+          "Ehra‑Lessien",
+          "Hockenheimring",
+          "Nardò Ring"
+        ],
+        "answer": "Ehra‑Lessien"
+      },
+      {
+        "question": "Which metric distinguishes a production car top speed from a prototype run?",
+        "options": [
+          "Series-produced configuration requirement",
+          "Top speed measurement technique",
+          "Driver nationality"
+        ],
+        "answer": "Series-produced configuration requirement"
+      },
+      {
+        "question": "Which organization adjudicates aviation speed records like SR-71 and X-15?",
+        "options": [
+          "Fédération Aéronautique Internationale (FAI)",
+          "FIA",
+          "Guinness World Records"
+        ],
+        "answer": "Fédération Aéronautique Internationale (FAI)"
+      },
+      {
+        "question": "Which pilot pair set the SR-71 speed record on July 28, 1976?",
+        "options": [
+          "Eldon W. Joersz and George T. Morgan Jr.",
+          "William J. Knight and Neil Armstrong",
+          "Chuck Yeager and Scott Crossfield"
+        ],
+        "answer": "Eldon W. Joersz and George T. Morgan Jr."
+      },
+      {
+        "question": "Which category does the Vestas Sailrocket 2 record belong to?",
+        "options": [
+          "Speed sailing (single-hull test craft)",
+          "Offshore powerboat speed",
+          "America's Cup match racing"
+        ],
+        "answer": "Speed sailing (single-hull test craft)"
+      },
+      {
+        "question": "Which speed record is commonly measured over a flying mile as certification?",
+        "options": [
+          "Top speed certification for vehicles",
+          "Quarter-mile drag racing",
+          "Endurance average speed"
+        ],
+        "answer": "Top speed certification for vehicles"
+      },
+      {
+        "question": "Which vehicle still holds the longest-standing absolute water speed record since 1978?",
+        "options": [
+          "Spirit of Australia",
+          "Bluebird K7",
+          "Ski Nautique"
+        ],
+        "answer": "Spirit of Australia"
+      },
+      {
+        "question": "Which factor most complicates verifying maritime speed records compared to land runs?",
+        "options": [
+          "Water current and wind variability",
+          "Tire traction limits",
+          "Air density changes"
+        ],
+        "answer": "Water current and wind variability"
+      },
+      {
+        "question": "Which rocket plane program produced some of the earliest high‑velocity manned data in the 1960s?",
+        "options": [
+          "X-15 program",
+          "X-1 program",
+          "Bell X-2 program"
+        ],
+        "answer": "X-15 program"
+      },
+      {
+        "question": "Which authority often certifies human-powered vehicle speed records at Bonneville?",
+        "options": [
+          "Human Powered Vehicle (HPV) Governing bodies and timing officials",
+          "FIA alone",
+          "FAI alone"
+        ],
+        "answer": "Human Powered Vehicle (HPV) Governing bodies and timing officials"
+      },
+      {
+        "question": "Which record distinguishes paced from unpaced bicycle speed attempts?",
+        "options": [
+          "Whether a vehicle creates a slipstream for the cyclist",
+          "Length of course",
+          "Rider weight"
+        ],
+        "answer": "Whether a vehicle creates a slipstream for the cyclist"
+      }
+    ]
+  }
+}

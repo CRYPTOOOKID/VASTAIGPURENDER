@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who directed the period sports drama Lagaan (2001)?",
+      "options": [
+        "Ashutosh Gowariker",
+        "Karan Johar",
+        "Rajkumar Hirani"
+      ],
+      "answer": "Ashutosh Gowariker"
+    },
+    {
+      "question_id": 2,
+      "question": "Who directed the coming-of-age film Dil Chahta Hai (2001)?",
+      "options": [
+        "Karan Johar",
+        "Rajkumar Hirani",
+        "Farhan Akhtar"
+      ],
+      "answer": "Farhan Akhtar"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Bollywood actor made a marked global crossover with a role in the Hollywood film xXx: Return of Xander Cage?",
+      "options": [
+        "Priyanka Chopra",
+        "Deepika Padukone",
+        "Aishwarya Rai"
+      ],
+      "answer": "Deepika Padukone"
+    },
+    {
+      "question_id": 4,
+      "question": "Which actor played Jai in the classic film Sholay (1975)?",
+      "options": [
+        "Dharmendra",
+        "Sanjeev Kumar",
+        "Amitabh Bachchan"
+      ],
+      "answer": "Amitabh Bachchan"
+    },
+    {
+      "question_id": 5,
+      "question": "Who won the National Film Award for Best Actress for Queen (2014)?",
+      "options": [
+        "Kangana Ranaut",
+        "Deepika Padukone",
+        "Vidya Balan"
+      ],
+      "answer": "Kangana Ranaut"
+    },
+    {
+      "question_id": 6,
+      "question": "Which playback singer became the trademark voice for many of Raj Kapoor's on-screen songs?",
+      "options": [
+        "Kishore Kumar",
+        "Mukesh",
+        "Mohammed Rafi"
+      ],
+      "answer": "Mukesh"
+    },
+    {
+      "question_id": 7,
+      "question": "Which 1987 film features the villain Mogambo and the famous line 'Mogambo khush hua'?",
+      "options": [
+        "Karan Arjun",
+        "Mr. India",
+        "Sholay"
+      ],
+      "answer": "Mr. India"
+    },
+    {
+      "question_id": 8,
+      "question": "Which actor played Rahul in Kuch Kuch Hota Hai (1998)?",
+      "options": [
+        "Shah Rukh Khan",
+        "Aamir Khan",
+        "Salman Khan"
+      ],
+      "answer": "Shah Rukh Khan"
+    },
+    {
+      "question_id": 9,
+      "question": "Which actress won the National Film Award for Best Actress for her role in The Dirty Picture (2011)?",
+      "options": [
+        "Kangana Ranaut",
+        "Vidya Balan",
+        "Priyanka Chopra"
+      ],
+      "answer": "Vidya Balan"
+    },
+    {
+      "question_id": 10,
+      "question": "Who was the female lead opposite Salman Khan in Hum Aapke Hain Koun..?",
+      "options": [
+        "Rekha",
+        "Madhuri Dixit",
+        "Sridevi"
+      ],
+      "answer": "Madhuri Dixit"
+    },
+    {
+      "question_id": 11,
+      "question": "Which 2001 Aamir Khan film received an Academy Award nomination for Best Foreign Language Film?",
+      "options": [
+        "Dil Chahta Hai",
+        "Rang De Basanti",
+        "Lagaan"
+      ],
+      "answer": "Lagaan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1973 film written by Salim-Javed launched Amitabh Bachchan's 'angry young man' persona?",
+      "options": [
+        "Abhimaan",
+        "Zanjeer",
+        "Anand"
+      ],
+      "answer": "Zanjeer"
+    },
+    {
+      "question_id": 13,
+      "question": "Which actress played Simran opposite Shah Rukh Khan in Dilwale Dulhania Le Jayenge?",
+      "options": [
+        "Kajol",
+        "Rani Mukerji",
+        "Karisma Kapoor"
+      ],
+      "answer": "Kajol"
+    },
+    {
+      "question_id": 14,
+      "question": "Which actor won widespread acclaim for his role in Paan Singh Tomar (2012)?",
+      "options": [
+        "Irrfan Khan",
+        "Nawazuddin Siddiqui",
+        "Rajkummar Rao"
+      ],
+      "answer": "Irrfan Khan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which film directed by Anurag Basu starred Ranbir Kapoor as a mute and deaf hero?",
+      "options": [
+        "Rockstar",
+        "Barfi!",
+        "Wake Up Sid"
+      ],
+      "answer": "Barfi!"
+    }
+  ]
+}

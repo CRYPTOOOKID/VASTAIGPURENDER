@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does '√' denote in mathematics?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which rule gives derivative of product f·g?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which transform converts convolution in time domain to multiplication in frequency domain?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is Euler's famous formula connecting e, i, and pi in its simplest form?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is Euler's totient function φ(n) counting?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which formula calculates eigenvalues of 2×2 matrix [[a,b],[c,d]]?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'c' represent in the quadratic formula denominator 2a?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which formula relates work W to force F and displacement s at angle θ?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which criterion identifies conditional convergence of alternating series?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'det' denote in matrix operations?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which formula gives the binomial expansion term general form?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which expression defines the Legendre transform of function f(x)?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the formula for the area of a circle?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the divergence theorem also known as Gauss's theorem relating?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formula gives Stirling's approximation for n! leading term?"
+    }
+  ]
+}

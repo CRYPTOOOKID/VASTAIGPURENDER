@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What was the main demand of the Swadeshi Movement beginning in 1905?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which year marks the signing of the Treaty of Seringapatam that ended the Third Anglo-Mysore War?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which leader founded the Servants of India Society in 1905 to promote social reform and education?"
+    },
+    {
+      "question_id": 4,
+      "question": "In which year was the Indian National Congress founded?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which battle in 1764 established British dominance after victory over the Nawab of Bengal?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which reformer campaigned for widow remarriage and female education in 19th century Bengal?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movement did Mahatma Gandhi call off after the Chauri Chaura violence in 1922?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian regiment famously rebelled in Kanpur during the 1857 uprising under Nana Sahib?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which commission's recommendations in 1902 led to the Morley-Minto reforms and inclusion of Indians in governance?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who founded the Indian National Congress along with Indian leaders in 1885?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian reformer founded the Brahmo Samaj in 1828 promoting monotheism and social reform?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movement combined the Khilafat agitation and non-cooperation under Gandhi's leadership around 1920?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which battle in 1526 marked the beginning of Mughal rule in India?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who chaired the committee that produced the Montagu-Chelmsford Reforms leading to the Government of India Act 1919?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which leader negotiated the Poona Pact with Ambedkar in 1932 regarding representation for depressed classes?"
+    }
+  ]
+}

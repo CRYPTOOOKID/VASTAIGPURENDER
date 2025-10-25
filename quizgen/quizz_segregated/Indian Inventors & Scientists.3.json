@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which engineer is celebrated as 'Sir' and known for major irrigation projects in India?",
+      "options": [
+        "Sam Pitroda",
+        "M. Visvesvaraya",
+        "E. Sreedharan"
+      ],
+      "answer": "M. Visvesvaraya"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian scientist introduced important methods in spectroscopy for molecular structure analysis?",
+      "options": [
+        "G. N. Ramachandran",
+        "C. V. Raman",
+        "Asima Chatterjee"
+      ],
+      "answer": "C. V. Raman"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian engineer’s design philosophy emphasized practicality and humane engineering in dams?",
+      "options": [
+        "M. Visvesvaraya",
+        "E. Sreedharan",
+        "R. A. Mashelkar"
+      ],
+      "answer": "M. Visvesvaraya"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian mathematician is famous for highly original 'mock theta' functions?",
+      "options": [
+        "Meghnad Saha",
+        "S. Chandrasekhar",
+        "Srinivasa Ramanujan"
+      ],
+      "answer": "Srinivasa Ramanujan"
+    },
+    {
+      "question_id": 5,
+      "question": "Which scientist’s work on genetic code earned a Nobel Prize and originated in pre-independence India?",
+      "options": [
+        "Har Gobind Khorana",
+        "Meghnad Saha",
+        "C. V. Raman"
+      ],
+      "answer": "Har Gobind Khorana"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian chemist first isolated vinca alkaloids leading to cancer drug research?",
+      "options": [
+        "Shanti Swaroop Bhatnagar",
+        "Asima Chatterjee",
+        "R. A. Mashelkar"
+      ],
+      "answer": "Asima Chatterjee"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist is called the father of India’s space program?",
+      "options": [
+        "Vikram Sarabhai",
+        "Satish Dhawan",
+        "A. P. J. Abdul Kalam"
+      ],
+      "answer": "Vikram Sarabhai"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian-born scientist won a Nobel Prize for work on the genetic code and synthetic polynucleotides?",
+      "options": [
+        "Har Gobind Khorana",
+        "Venkatraman Ramakrishnan",
+        "S. Chandrasekhar"
+      ],
+      "answer": "Har Gobind Khorana"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian scientist established the first organized space research committee in 1962?",
+      "options": [
+        "Satish Dhawan",
+        "Vikram Sarabhai",
+        "U. R. Rao"
+      ],
+      "answer": "Vikram Sarabhai"
+    },
+    {
+      "question_id": 10,
+      "question": "Who engineered the Konkan Railway and later led major metro projects in India?",
+      "options": [
+        "Satish Dhawan",
+        "E. Sreedharan",
+        "U. R. Rao"
+      ],
+      "answer": "E. Sreedharan"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Nobel laureate solved the structure of the ribosome and is Indian-born?",
+      "options": [
+        "Venkatraman Ramakrishnan",
+        "Har Gobind Khorana",
+        "C. V. Raman"
+      ],
+      "answer": "Venkatraman Ramakrishnan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian scientist’s research on plant electromotive responses challenged contemporary views on organismal sensitivity?",
+      "options": [
+        "G. N. Ramachandran",
+        "Jagadish Chandra Bose",
+        "S. Chandrasekhar"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    },
+    {
+      "question_id": 13,
+      "question": "Who developed the Saha ionization equation used in astrophysics?",
+      "options": [
+        "G. N. Ramachandran",
+        "Salim Ali",
+        "Meghnad Saha"
+      ],
+      "answer": "Meghnad Saha"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian chemist led CSIR and promoted modern industrial research across laboratories?",
+      "options": [
+        "R. A. Mashelkar",
+        "Shanti Swaroop Bhatnagar",
+        "C. N. R. Rao"
+      ],
+      "answer": "R. A. Mashelkar"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist later became President and authored works on aerospace and missile science?",
+      "options": [
+        "Homi Bhabha",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam"
+    }
+  ]
+}

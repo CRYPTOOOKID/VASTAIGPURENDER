@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '🏁🚗'?",
+      "options": [
+        "Fast & Furious",
+        "Cars",
+        "Days of Thunder"
+      ],
+      "answer": "Fast & Furious"
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '👨‍👩‍👧‍👦🎈🏠'?",
+      "options": [
+        "Up",
+        "The Incredibles",
+        "Home Alone"
+      ],
+      "answer": "Up"
+    },
+    {
+      "question_id": 3,
+      "question": "Which film fits '🏞️🦌🎯' focusing on hunting, wilderness, and pursuit?",
+      "options": [
+        "The Deer Hunter",
+        "Deliverance",
+        "The Hunger Games"
+      ],
+      "answer": "The Deer Hunter"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '🧊🚪'?",
+      "options": [
+        "The Chronicles of Narnia",
+        "The Lion King",
+        "Frozen"
+      ],
+      "answer": "The Chronicles of Narnia"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🧑‍🏫🎓📚'?",
+      "options": [
+        "Dead Poets Society",
+        "Freedom Writers",
+        "Good Will Hunting"
+      ],
+      "answer": "Dead Poets Society"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie fits the emoji clue '🕰️🌆🔁' that emphasizes repeating days concept?",
+      "options": [
+        "Groundhog Day",
+        "Edge of Tomorrow",
+        "Source Code"
+      ],
+      "answer": "Groundhog Day"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🤠👽'?",
+      "options": [
+        "Cowboys & Aliens",
+        "Toy Story",
+        "Westworld"
+      ],
+      "answer": "Cowboys & Aliens"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '👨‍🚀📡🪐'?",
+      "options": [
+        "The Martian",
+        "Gravity",
+        "Interstellar"
+      ],
+      "answer": "The Martian"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '🧱🕶️🚔' featuring a gritty urban cop and moral conflict?",
+      "options": [
+        "Se7en",
+        "Training Day",
+        "Heat"
+      ],
+      "answer": "Training Day"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '🏝️⚽️'?",
+      "options": [
+        "Cast Away",
+        "Life of Pi",
+        "Swiss Family Robinson"
+      ],
+      "answer": "Cast Away"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🧊🏞️🔪'?",
+      "options": [
+        "Fargo",
+        "The Hateful Eight",
+        "No Country for Old Men"
+      ],
+      "answer": "Fargo"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🎭📽️🕊️' blending silent performance and cinematic transition?",
+      "options": [
+        "The Artist",
+        "Singin' in the Rain",
+        "Chaplin"
+      ],
+      "answer": "The Artist"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '🚗⏰'?",
+      "options": [
+        "Back to the Future",
+        "The Time Machine",
+        "Bill & Ted's Excellent Adventure"
+      ],
+      "answer": "Back to the Future"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue '🧳✈️⛴️'?",
+      "options": [
+        "The Terminal",
+        "Catch Me If You Can",
+        "Up in the Air"
+      ],
+      "answer": "The Terminal"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie fits '🎻🔪🔍' centering on musical obsession and murder?",
+      "options": [
+        "Whiplash",
+        "The Red Violin",
+        "The Phantom of the Opera"
+      ],
+      "answer": "The Phantom of the Opera"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which English word was borrowed directly from French ballet terminology?",
+      "options": [
+        "Ballette",
+        "Ballad",
+        "Ballet"
+      ],
+      "answer": "Ballet"
+    },
+    {
+      "question_id": 2,
+      "question": "What process adapts borrowed words to fit a language's sound system?",
+      "options": [
+        "Nativization",
+        "Umlaut",
+        "Calquing"
+      ],
+      "answer": "Nativization"
+    },
+    {
+      "question_id": 3,
+      "question": "The numerals 'zero' and 'cipher' entered Europe via Arabic from which original concept?",
+      "options": [
+        "sunya (void)",
+        "shunya (cycle)",
+        "sifr (empty)"
+      ],
+      "answer": "sifr (empty)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Latin phrase directly translates as 'blank slate' in English?",
+      "options": [
+        "Alma mater",
+        "Tabula rasa",
+        "Carpe diem"
+      ],
+      "answer": "Tabula rasa"
+    },
+    {
+      "question_id": 5,
+      "question": "Which cooked-meat word shows Norman French influence, contrasting with the live animal 'sheep'?",
+      "options": [
+        "Lamb",
+        "Mutton",
+        "Goose"
+      ],
+      "answer": "Mutton"
+    },
+    {
+      "question_id": 6,
+      "question": "Which English term evolved from Old French 'esquier' to denote a youthful noble attendant?",
+      "options": [
+        "Squire",
+        "Squair",
+        "Esquire"
+      ],
+      "answer": "Squire"
+    },
+    {
+      "question_id": 7,
+      "question": "The English word 'coffee' ultimately comes from which language via Turkish?",
+      "options": [
+        "Swahili",
+        "Persian",
+        "Arabic"
+      ],
+      "answer": "Arabic"
+    },
+    {
+      "question_id": 8,
+      "question": "Which historical event in 1066 significantly increased French vocabulary in English?",
+      "options": [
+        "Norman Conquest",
+        "Great Schism",
+        "Viking Invasion"
+      ],
+      "answer": "Norman Conquest"
+    },
+    {
+      "question_id": 9,
+      "question": "The English place-name element '-chester' derives from Latin 'castra' meaning what?",
+      "options": [
+        "River crossing",
+        "Market town",
+        "Military camp"
+      ],
+      "answer": "Military camp"
+    },
+    {
+      "question_id": 10,
+      "question": "From which language did English borrow the word 'cottage' meaning small house?",
+      "options": [
+        "Old Norse",
+        "Latin",
+        "Old French"
+      ],
+      "answer": "Old French"
+    },
+    {
+      "question_id": 11,
+      "question": "What term describes two English words derived from the same source, like 'host' and 'hotel'?",
+      "options": [
+        "Doublets",
+        "False friends",
+        "Cognates"
+      ],
+      "answer": "Doublets"
+    },
+    {
+      "question_id": 12,
+      "question": "Which linguistic process describes loss of an initial sound in a word over time?",
+      "options": [
+        "Epenthesis",
+        "Apocope",
+        "Aphaeresis"
+      ],
+      "answer": "Aphaeresis"
+    },
+    {
+      "question_id": 13,
+      "question": "The word 'cereal' is derived from Latin and named after which Roman goddess?",
+      "options": [
+        "Diana",
+        "Vesta",
+        "Ceres"
+      ],
+      "answer": "Ceres"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Old Norse loanword entered English meaning an assembly or meeting?",
+      "options": [
+        "Thing",
+        "Council",
+        "Moot"
+      ],
+      "answer": "Thing"
+    },
+    {
+      "question_id": 15,
+      "question": "Which English phrase is a calque of Spanish 'aire acondicionado'?",
+      "options": [
+        "Climate control",
+        "Cooling system",
+        "Air conditioning"
+      ],
+      "answer": "Air conditioning"
+    }
+  ]
+}

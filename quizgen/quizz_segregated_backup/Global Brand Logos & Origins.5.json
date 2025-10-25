@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which sports brand uses a simple Swoosh logo?",
+      "options": [
+        "Nike",
+        "Reebok",
+        "New Balance"
+      ],
+      "answer": "Nike"
+    },
+    {
+      "question_id": 2,
+      "question": "Which logo designer created Google’s logo concept used in the 1990s?",
+      "options": [
+        "Ruth Kedar",
+        "Sergey Brin",
+        "Larry Page"
+      ],
+      "answer": "Ruth Kedar"
+    },
+    {
+      "question_id": 3,
+      "question": "Which luxury watchmaker used a five-point coronet crown as its primary logo since early 20th century?",
+      "options": [
+        "Rolex",
+        "Cartier",
+        "Patek Philippe"
+      ],
+      "answer": "Rolex"
+    },
+    {
+      "question_id": 4,
+      "question": "Which automotive brand combines V and W letters inside a circular logo?",
+      "options": [
+        "Volkswagen",
+        "Volvo",
+        "Vauxhall"
+      ],
+      "answer": "Volkswagen"
+    },
+    {
+      "question_id": 5,
+      "question": "Who designed the classic IBM striped logo used since the 1970s?",
+      "options": [
+        "Paul Rand",
+        "Saul Bass",
+        "Milton Glaser"
+      ],
+      "answer": "Paul Rand"
+    },
+    {
+      "question_id": 6,
+      "question": "Which designer simplified Twitter’s bird icon and removed text in a 2012 identity update?",
+      "options": [
+        "Simon Oxley",
+        "Unknown in-house team",
+        "Doug Bowman"
+      ],
+      "answer": "Unknown in-house team"
+    },
+    {
+      "question_id": 7,
+      "question": "Which automotive brand uses a prancing horse as its symbol?",
+      "options": [
+        "Ferrari",
+        "Lamborghini",
+        "Maserati"
+      ],
+      "answer": "Ferrari"
+    },
+    {
+      "question_id": 8,
+      "question": "Which fashion founder inspired a polo player logo used by his namesake brand?",
+      "options": [
+        "Ralph Lauren",
+        "Tommy Hilfiger",
+        "Calvin Klein"
+      ],
+      "answer": "Ralph Lauren"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company’s early logo featured a detailed woodcut mermaid with exposed tails until 1987?",
+      "options": [
+        "Starbucks",
+        "Caribou Coffee",
+        "Peet's Coffee"
+      ],
+      "answer": "Starbucks"
+    },
+    {
+      "question_id": 10,
+      "question": "Which beverage brand shows two red bulls charging toward a golden sun?",
+      "options": [
+        "Red Bull",
+        "Monster",
+        "Rockstar"
+      ],
+      "answer": "Red Bull"
+    },
+    {
+      "question_id": 11,
+      "question": "Which fashion brand’s crocodile logo comes from a tennis player's nickname?",
+      "options": [
+        "Lacoste",
+        "Fila",
+        "Kappa"
+      ],
+      "answer": "Lacoste"
+    },
+    {
+      "question_id": 12,
+      "question": "Which logo designer created IBM's iconic striped mark to suggest speed and dynamism?",
+      "options": [
+        "Paul Rand",
+        "Milton Glaser",
+        "Saul Bass"
+      ],
+      "answer": "Paul Rand"
+    },
+    {
+      "question_id": 13,
+      "question": "Which online retailer uses an arrow from A to Z forming a smile?",
+      "options": [
+        "Amazon",
+        "eBay",
+        "Etsy"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 14,
+      "question": "Which carmaker uses a circular logo with letters VW stacked vertically?",
+      "options": [
+        "Volkswagen",
+        "Volvo",
+        "Skoda"
+      ],
+      "answer": "Volkswagen"
+    },
+    {
+      "question_id": 15,
+      "question": "Which logo contains a hidden arrow to symbolize speed and precision discovered by many viewers?",
+      "options": [
+        "FedEx",
+        "UPS",
+        "DHL"
+      ],
+      "answer": "FedEx"
+    }
+  ]
+}

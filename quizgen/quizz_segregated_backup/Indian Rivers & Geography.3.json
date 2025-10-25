@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which plateau is the origin of the Narmada river?",
+      "options": [
+        "Amarkantak Plateau",
+        "Deccan Plateau",
+        "Chota Nagpur Plateau"
+      ],
+      "answer": "Amarkantak Plateau"
+    },
+    {
+      "question_id": 2,
+      "question": "The Tehri Dam is built on which Ganga headstream?",
+      "options": [
+        "Bhagirathi",
+        "Alaknanda",
+        "Yamuna"
+      ],
+      "answer": "Bhagirathi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river is the primary source for the Farakka Barrage project?",
+      "options": [
+        "Ganga",
+        "Yamuna",
+        "Tapi"
+      ],
+      "answer": "Ganga"
+    },
+    {
+      "question_id": 4,
+      "question": "Which small coastal river flows by the Konark Sun Temple and its town?",
+      "options": [
+        "Chandrabhaga",
+        "Gomti",
+        "Kali"
+      ],
+      "answer": "Chandrabhaga"
+    },
+    {
+      "question_id": 5,
+      "question": "Which river is joined by the Ghaghara before it meets the Ganges?",
+      "options": [
+        "Ghaghara joins the Ganges directly",
+        "Ghaghara joins the Yamuna",
+        "Ghaghara joins the Brahmaputra"
+      ],
+      "answer": "Ghaghara joins the Ganges directly"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river in northeastern India splits to form Majuli, the world's largest river island?",
+      "options": [
+        "Brahmaputra",
+        "Barak",
+        "Teesta"
+      ],
+      "answer": "Brahmaputra"
+    },
+    {
+      "question_id": 7,
+      "question": "Which basin covers the largest area within India?",
+      "options": [
+        "Ganges basin",
+        "Godavari basin",
+        "Narmada basin"
+      ],
+      "answer": "Ganges basin"
+    },
+    {
+      "question_id": 8,
+      "question": "Which city holds a major Kumbh Mela on the banks of the Godavari?",
+      "options": [
+        "Nashik",
+        "Haridwar",
+        "Prayagraj"
+      ],
+      "answer": "Nashik"
+    },
+    {
+      "question_id": 9,
+      "question": "Which river in India experiences a notable tidal bore near its estuary, historically challenging navigation?",
+      "options": [
+        "Hooghly",
+        "Kaveri",
+        "Tapi"
+      ],
+      "answer": "Hooghly"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major river is the principal water source for the state of Odisha?",
+      "options": [
+        "Mahanadi",
+        "Krishna",
+        "Tapti"
+      ],
+      "answer": "Mahanadi"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river supplies water to the city of Pune through the confluence of Mula and Mutha?",
+      "options": [
+        "Mula-Mutha",
+        "Bhima",
+        "Patalganga"
+      ],
+      "answer": "Mula-Mutha"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Himalayan river is the easternmost major tributary of the Indus system within India?",
+      "options": [
+        "Sutlej",
+        "Chenab",
+        "Jhelum"
+      ],
+      "answer": "Sutlej"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river forms the fertile delta around Thanjavur and Nagapattinam in Tamil Nadu?",
+      "options": [
+        "Kaveri",
+        "Mahanadi",
+        "Tapti"
+      ],
+      "answer": "Kaveri"
+    },
+    {
+      "question_id": 14,
+      "question": "Which distributary of the Kaveri flows around Srirangam island?",
+      "options": [
+        "Kollidam",
+        "Palar",
+        "Ponnaiyar"
+      ],
+      "answer": "Kollidam"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river flows through the Eastern Ghats and forms the delta containing the Pulicat Lake area?",
+      "options": [
+        "Penna",
+        "Swarnamukhi",
+        "Arani"
+      ],
+      "answer": "Penna"
+    }
+  ]
+}

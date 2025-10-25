@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the full form of EU?",
+      "options": [
+        "European Unit",
+        "European United",
+        "European Union"
+      ],
+      "answer": "European Union"
+    },
+    {
+      "question_id": 2,
+      "question": "What does JPEG stand for in image formats?",
+      "options": [
+        "Joint Photographic Experts Group",
+        "JPEG Photo Experts Group",
+        "Joint Picture Experts Group"
+      ],
+      "answer": "Joint Photographic Experts Group"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the full form of UEFI on modern PCs?",
+      "options": [
+        "Unified External Firmware Interface",
+        "Universal Extensible Firmware Interface",
+        "Unified Extensible Firmware Interface"
+      ],
+      "answer": "Unified Extensible Firmware Interface"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the full form of CEO?",
+      "options": [
+        "Chief Executive Officer",
+        "Corporate Executive Officer",
+        "Chief Enterprise Officer"
+      ],
+      "answer": "Chief Executive Officer"
+    },
+    {
+      "question_id": 5,
+      "question": "What does GIF stand for?",
+      "options": [
+        "Graphic Image Format",
+        "Graphics Interchange Format",
+        "Graphical Interchange File"
+      ],
+      "answer": "Graphics Interchange Format"
+    },
+    {
+      "question_id": 6,
+      "question": "What does SIP mean in VoIP protocols?",
+      "options": [
+        "Service Initiation Protocol",
+        "Session Initiation Protocol",
+        "Session Interaction Protocol"
+      ],
+      "answer": "Session Initiation Protocol"
+    },
+    {
+      "question_id": 7,
+      "question": "What does UN mean in international affairs?",
+      "options": [
+        "Universal Network",
+        "United Network",
+        "United Nations"
+      ],
+      "answer": "United Nations"
+    },
+    {
+      "question_id": 8,
+      "question": "What does RSA refer to in cryptography?",
+      "options": [
+        "Rivest Sharman Adleman",
+        "Rivest Shamir Adleman",
+        "Rivest Smith Adleman"
+      ],
+      "answer": "Rivest Shamir Adleman"
+    },
+    {
+      "question_id": 9,
+      "question": "What does XMPP stand for in messaging protocols?",
+      "options": [
+        "Extensible Message Presence Protocol",
+        "Exchange Messaging and Presence Protocol",
+        "Extensible Messaging and Presence Protocol"
+      ],
+      "answer": "Extensible Messaging and Presence Protocol"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the full form of CNN?",
+      "options": [
+        "Continuous News Network",
+        "Cable News Network",
+        "Central News Network"
+      ],
+      "answer": "Cable News Network"
+    },
+    {
+      "question_id": 11,
+      "question": "What does SCUBA expand to?",
+      "options": [
+        "Self-Contained Underwater Ballast Apparatus",
+        "Self-Contained Underwater Breathing Apparatus",
+        "Submersible Controlled Underwater Breathing Apparatus"
+      ],
+      "answer": "Self-Contained Underwater Breathing Apparatus"
+    },
+    {
+      "question_id": 12,
+      "question": "What does IANA represent?",
+      "options": [
+        "Internet Addressing Numbers Authority",
+        "International Assigned Numbers Agency",
+        "Internet Assigned Numbers Authority"
+      ],
+      "answer": "Internet Assigned Numbers Authority"
+    },
+    {
+      "question_id": 13,
+      "question": "What does NATO stand for?",
+      "options": [
+        "North American Treaty Organization",
+        "National Atlantic Treaty Organization",
+        "North Atlantic Treaty Organization"
+      ],
+      "answer": "North Atlantic Treaty Organization"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the full form of FTP?",
+      "options": [
+        "File Transport Protocol",
+        "File Transfer Protocol",
+        "Fast Transfer Protocol"
+      ],
+      "answer": "File Transfer Protocol"
+    },
+    {
+      "question_id": 15,
+      "question": "What is SLA an abbreviation for in service contracts?",
+      "options": [
+        "Service Limits Agreement",
+        "Service Level Agreement",
+        "Service Level Arrangement"
+      ],
+      "answer": "Service Level Agreement"
+    }
+  ]
+}

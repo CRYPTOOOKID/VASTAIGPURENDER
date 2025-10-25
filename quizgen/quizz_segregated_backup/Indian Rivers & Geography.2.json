@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which river flows through the city of Hyderabad?",
+      "options": [
+        "Musi",
+        "Godavari",
+        "Narmada"
+      ],
+      "answer": "Musi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which major river flows through Leh in Ladakh before entering Pakistan?",
+      "options": [
+        "Indus",
+        "Zanskar",
+        "Sutlej"
+      ],
+      "answer": "Indus"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river's estuary contains Sagar Island, an important pilgrimage site near Kolkata?",
+      "options": [
+        "Hooghly (Ganga distributary)",
+        "Mahanadi",
+        "Krishna"
+      ],
+      "answer": "Hooghly (Ganga distributary)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which ancient pilgrimage city lies on the banks of the Ganga?",
+      "options": [
+        "Varanasi",
+        "Mumbai",
+        "Bhopal"
+      ],
+      "answer": "Varanasi"
+    },
+    {
+      "question_id": 5,
+      "question": "Which dam creates the Nagarjuna Sagar reservoir on the Krishna River?",
+      "options": [
+        "Nagarjuna Sagar Dam",
+        "Bhakra Dam",
+        "Tehri Dam"
+      ],
+      "answer": "Nagarjuna Sagar Dam"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river system is designated as National Waterway 1 along the Haldia–Allahabad stretch?",
+      "options": [
+        "Ganga-Hooghly system",
+        "Godavari-Krishna system",
+        "Narmada-Tapi system"
+      ],
+      "answer": "Ganga-Hooghly system"
+    },
+    {
+      "question_id": 7,
+      "question": "Which river system forms the Sundarbans mangrove region?",
+      "options": [
+        "Ganges-Brahmaputra",
+        "Godavari-Krishna",
+        "Narmada-Tapi"
+      ],
+      "answer": "Ganges-Brahmaputra"
+    },
+    {
+      "question_id": 8,
+      "question": "Which river flows into the Arabian Sea at the port of Mangaluru?",
+      "options": [
+        "Netravati",
+        "Periyar",
+        "Tapti"
+      ],
+      "answer": "Netravati"
+    },
+    {
+      "question_id": 9,
+      "question": "Which headstream of the Brahmaputra carves one of the world's deepest gorges in Tibet?",
+      "options": [
+        "Yarlung Tsangpo",
+        "Indus",
+        "Sutlej"
+      ],
+      "answer": "Yarlung Tsangpo"
+    },
+    {
+      "question_id": 10,
+      "question": "Which is the longest river in peninsular India?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Narmada"
+      ],
+      "answer": "Godavari"
+    },
+    {
+      "question_id": 11,
+      "question": "Which tributary of the Brahmaputra has a name meaning 'red' in several local languages?",
+      "options": [
+        "Lohit",
+        "Dibang",
+        "Subansiri"
+      ],
+      "answer": "Lohit"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river's name means 'river of gold' in local languages and flows through eastern India?",
+      "options": [
+        "Subarnarekha",
+        "Damodar",
+        "Gomti"
+      ],
+      "answer": "Subarnarekha"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river is dammed by the Bhakra Dam?",
+      "options": [
+        "Sutlej",
+        "Yamuna",
+        "Kaveri"
+      ],
+      "answer": "Sutlej"
+    },
+    {
+      "question_id": 14,
+      "question": "Which river valley corporation pioneered multipurpose projects in eastern India?",
+      "options": [
+        "Damodar Valley Corporation",
+        "Narmada Valley Project",
+        "Kaveri Project"
+      ],
+      "answer": "Damodar Valley Corporation"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river was harnessed by the Sardar Sarovar Project on its Narmada basin for irrigation and power?",
+      "options": [
+        "Narmada",
+        "Tapti",
+        "Mahi"
+      ],
+      "answer": "Narmada"
+    }
+  ]
+}

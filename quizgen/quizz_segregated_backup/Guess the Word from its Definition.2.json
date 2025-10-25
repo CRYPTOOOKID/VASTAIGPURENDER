@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a concise dictionary definition aim to be?",
+      "options": [
+        "Clear and brief",
+        "Long and verbose",
+        "Obscure and poetic"
+      ],
+      "answer": "Clear and brief"
+    },
+    {
+      "question_id": 2,
+      "question": "What word means 'a belief accepted as authoritative without proof'?",
+      "options": [
+        "Dogma",
+        "Theory",
+        "Experiment"
+      ],
+      "answer": "Dogma"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term describes 'a word whose meaning is the opposite depending on context'?",
+      "options": [
+        "Contronym",
+        "Homograph",
+        "Syncretism"
+      ],
+      "answer": "Contronym"
+    },
+    {
+      "question_id": 4,
+      "question": "Which word matches the simple definition 'a large natural elevation of the earth's surface'?",
+      "options": [
+        "Mountain",
+        "Plain",
+        "Pond"
+      ],
+      "answer": "Mountain"
+    },
+    {
+      "question_id": 5,
+      "question": "What word matches 'a word formed from the initial letters of a phrase'?",
+      "options": [
+        "Acronym",
+        "Palindrome",
+        "Anagram"
+      ],
+      "answer": "Acronym"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term denotes 'a word that has multiple related meanings'?",
+      "options": [
+        "Polysemy",
+        "Monosemy",
+        "Antonymy"
+      ],
+      "answer": "Polysemy"
+    },
+    {
+      "question_id": 7,
+      "question": "In 'Guess the Word from its Definition' games, what is the player's main task?",
+      "options": [
+        "Identify the word matching the definition",
+        "Write a new definition",
+        "Translate the word to another language"
+      ],
+      "answer": "Identify the word matching the definition"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word means 'an invented word or expression recently introduced'?",
+      "options": [
+        "Neologism",
+        "Archaism",
+        "Eponym"
+      ],
+      "answer": "Neologism"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes 'a word borrowed from another language without translation'?",
+      "options": [
+        "Loanword",
+        "Calque",
+        "Hybrid word"
+      ],
+      "answer": "Loanword"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the term 'definition' primarily provide for a word?",
+      "options": [
+        "A description of its meaning",
+        "A list of rhyming words",
+        "An example sentence"
+      ],
+      "answer": "A description of its meaning"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word describes 'a concise saying expressing a general truth'?",
+      "options": [
+        "Aphorism",
+        "Novel",
+        "Epic"
+      ],
+      "answer": "Aphorism"
+    },
+    {
+      "question_id": 12,
+      "question": "Which obscure term refers to 'a mistaken belief about a word's origin'?",
+      "options": [
+        "Folk etymology",
+        "Prescriptive error",
+        "Orthographic myth"
+      ],
+      "answer": "Folk etymology"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'stellar' usually mean in straightforward definitions?",
+      "options": [
+        "Excellent or star-related",
+        "Underground",
+        "Wet"
+      ],
+      "answer": "Excellent or star-related"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term means 'a false belief resulting from incorrect reasoning'?",
+      "options": [
+        "Fallacy",
+        "Euphemism",
+        "Homonym"
+      ],
+      "answer": "Fallacy"
+    },
+    {
+      "question_id": 15,
+      "question": "Which concept refers to 'meaning change by association with another concept'?",
+      "options": [
+        "Metaphorical extension",
+        "Phonetic erosion",
+        "Orthographic drift"
+      ],
+      "answer": "Metaphorical extension"
+    }
+  ]
+}

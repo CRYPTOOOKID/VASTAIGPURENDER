@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which metric measurement unit is often used for newborn baby mass?",
+      "options": [
+        "kilogram",
+        "tonne",
+        "gram"
+      ],
+      "answer": "kilogram"
+    },
+    {
+      "question_id": 2,
+      "question": "What unit measures amount of electric charge in SI terms?",
+      "options": [
+        "coulomb",
+        "henry",
+        "farad"
+      ],
+      "answer": "coulomb"
+    },
+    {
+      "question_id": 3,
+      "question": "Which SI prefix was introduced to describe 10^-24 and 10^24 magnitudes respectively?",
+      "options": [
+        "zepto and zetta",
+        "atto and exa",
+        "yocto and yotta"
+      ],
+      "answer": "yocto and yotta"
+    },
+    {
+      "question_id": 4,
+      "question": "How many grams are in one kilogram?",
+      "options": [
+        "100",
+        "10",
+        "1000"
+      ],
+      "answer": "1000"
+    },
+    {
+      "question_id": 5,
+      "question": "Which SI base unit did the 2019 redefinition target by fixing the Planck constant?",
+      "options": [
+        "kilogram",
+        "mole",
+        "ampere"
+      ],
+      "answer": "kilogram"
+    },
+    {
+      "question_id": 6,
+      "question": "Which unit describes spectral radiance used in remote sensing often measured in W·sr^-1·m^-2·nm^-1?",
+      "options": [
+        "radiant intensity",
+        "spectral radiance",
+        "irradiance"
+      ],
+      "answer": "spectral radiance"
+    },
+    {
+      "question_id": 7,
+      "question": "Which unit measures luminous intensity in the SI system?",
+      "options": [
+        "candela",
+        "lumen",
+        "lux"
+      ],
+      "answer": "candela"
+    },
+    {
+      "question_id": 8,
+      "question": "Which prefix represents 10^9 in the SI system?",
+      "options": [
+        "giga",
+        "mega",
+        "tera"
+      ],
+      "answer": "giga"
+    },
+    {
+      "question_id": 9,
+      "question": "Which unit expresses area used in astrophysics equal to (10^2) square meters historically?",
+      "options": [
+        "barn",
+        "are",
+        "hectare"
+      ],
+      "answer": "hectare"
+    },
+    {
+      "question_id": 10,
+      "question": "Which prefix denotes one thousandth of a unit (10^-3)?",
+      "options": [
+        "nano",
+        "milli",
+        "mega"
+      ],
+      "answer": "milli"
+    },
+    {
+      "question_id": 11,
+      "question": "Which derived SI unit measures pressure?",
+      "options": [
+        "siemens",
+        "becquerel",
+        "pascal"
+      ],
+      "answer": "pascal"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient length unit varied regionally but frequently approximated one-sixth of a Roman foot?",
+      "options": [
+        "uncia",
+        "digitus",
+        "palmus"
+      ],
+      "answer": "uncia"
+    },
+    {
+      "question_id": 13,
+      "question": "Which everyday unit measures liquid volume in many recipes?",
+      "options": [
+        "liter",
+        "meter",
+        "kilogram"
+      ],
+      "answer": "liter"
+    },
+    {
+      "question_id": 14,
+      "question": "Which imperial unit measures cloth length traditionally equal to 36 inches?",
+      "options": [
+        "rod",
+        "ell",
+        "yard"
+      ],
+      "answer": "yard"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare unit measures nuclear cross-section equal to 10^-28 square meters?",
+      "options": [
+        "millibarn",
+        "barn",
+        "femtobarn"
+      ],
+      "answer": "barn"
+    }
+  ]
+}

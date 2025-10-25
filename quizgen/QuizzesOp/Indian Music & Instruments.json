@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the principal melodic framework in Indian classical music?",
+        "options": [
+          "Raga",
+          "Tala",
+          "Sargam"
+        ],
+        "answer": "Raga"
+      },
+      {
+        "question": "What term describes the cyclic rhythmic pattern in Indian music?",
+        "options": [
+          "Tala",
+          "Raga",
+          "Bandish"
+        ],
+        "answer": "Tala"
+      },
+      {
+        "question": "Which plucked instrument with sympathetic strings is iconic in Hindustani music?",
+        "options": [
+          "Sitar",
+          "Veena",
+          "Sarod"
+        ],
+        "answer": "Sitar"
+      },
+      {
+        "question": "Which two-drum percussion instrument commonly accompanies Hindustani performances?",
+        "options": [
+          "Tabla",
+          "Mridangam",
+          "Dholak"
+        ],
+        "answer": "Tabla"
+      },
+      {
+        "question": "Which bamboo wind instrument is central to Indian classical flute tradition?",
+        "options": [
+          "Bansuri",
+          "Shehnai",
+          "Clarinet"
+        ],
+        "answer": "Bansuri"
+      },
+      {
+        "question": "Which instrument typically supplies the continuous harmonic drone in classical concerts?",
+        "options": [
+          "Tanpura",
+          "Harmonium",
+          "Guitar"
+        ],
+        "answer": "Tanpura"
+      },
+      {
+        "question": "Which sitar maestro popularized Indian classical music internationally?",
+        "options": [
+          "Ravi Shankar",
+          "Zakir Hussain",
+          "Hariprasad Chaurasia"
+        ],
+        "answer": "Ravi Shankar"
+      },
+      {
+        "question": "Who is commonly called the 'Nightingale of India' for her vocal contributions?",
+        "options": [
+          "Lata Mangeshkar",
+          "Asha Bhosle",
+          "Kishori Amonkar"
+        ],
+        "answer": "Lata Mangeshkar"
+      },
+      {
+        "question": "Which hammered string instrument from Kashmir uses wooden mallets?",
+        "options": [
+          "Santoor",
+          "Sarod",
+          "Sitar"
+        ],
+        "answer": "Santoor"
+      },
+      {
+        "question": "Which musical genre in India is primarily devotional and sung in temples or homes?",
+        "options": [
+          "Bhajan",
+          "Ghazal",
+          "Qawwali"
+        ],
+        "answer": "Bhajan"
+      },
+      {
+        "question": "Which South Indian percussion instrument is double-headed and central to Carnatic music?",
+        "options": [
+          "Mridangam",
+          "Tabla",
+          "Dhol"
+        ],
+        "answer": "Mridangam"
+      },
+      {
+        "question": "Which Hindustani vocal form emphasizes improvisation within a raga and is modern?",
+        "options": [
+          "Khayal",
+          "Dhrupad",
+          "Thumri"
+        ],
+        "answer": "Khayal"
+      },
+      {
+        "question": "Which fretless plucked instrument produces a deep resonant tone in Hindustani music?",
+        "options": [
+          "Sarod",
+          "Sitar",
+          "Veena"
+        ],
+        "answer": "Sarod"
+      },
+      {
+        "question": "Which percussion instrument is central to Punjabi folk ceremonies and dances?",
+        "options": [
+          "Dhol",
+          "Tabla",
+          "Kanjira"
+        ],
+        "answer": "Dhol"
+      },
+      {
+        "question": "Which wind instrument is traditionally played at Indian weddings and auspicious events?",
+        "options": [
+          "Shehnai",
+          "Bansuri",
+          "Saxophone"
+        ],
+        "answer": "Shehnai"
+      },
+      {
+        "question": "What are the solfa syllables used in Indian classical music notation?",
+        "options": [
+          "Sa Re Ga Ma Pa Dha Ni",
+          "Do Re Mi Fa Sol La Ti",
+          "Alpha Beta Gamma Delta"
+        ],
+        "answer": "Sa Re Ga Ma Pa Dha Ni"
+      },
+      {
+        "question": "Which classical tradition originates principally from South India?",
+        "options": [
+          "Carnatic",
+          "Hindustani",
+          "Filmi"
+        ],
+        "answer": "Carnatic"
+      },
+      {
+        "question": "Which instrument, associated with goddess Saraswati, is a plucked South Indian lute?",
+        "options": [
+          "Veena",
+          "Sitar",
+          "Sarod"
+        ],
+        "answer": "Veena"
+      },
+      {
+        "question": "Who is the renowned tabla virtuoso known globally for solos and collaborations?",
+        "options": [
+          "Zakir Hussain",
+          "Anindo Chatterjee",
+          "Swapan Chaudhuri"
+        ],
+        "answer": "Zakir Hussain"
+      },
+      {
+        "question": "Which ancient vocal form, older than khayal, focuses on spiritual themes and weighty style?",
+        "options": [
+          "Dhrupad",
+          "Thumri",
+          "Ghazal"
+        ],
+        "answer": "Dhrupad"
+      },
+      {
+        "question": "Which small frame drum appears in South Indian concerts and accompanies mridangam sometimes?",
+        "options": [
+          "Kanjira",
+          "Tabla",
+          "Dholak"
+        ],
+        "answer": "Kanjira"
+      },
+      {
+        "question": "What is the term for a fixed melodic composition used as a reference in Hindustani singing?",
+        "options": [
+          "Bandish",
+          "Tarana",
+          "Alaap"
+        ],
+        "answer": "Bandish"
+      },
+      {
+        "question": "Which keyboard instrument with bellows is common in Indian light classical accompaniment?",
+        "options": [
+          "Harmonium",
+          "Accordion",
+          "Piano"
+        ],
+        "answer": "Harmonium"
+      },
+      {
+        "question": "Which Indian film composer won two Academy Awards for his film scores?",
+        "options": [
+          "A.R. Rahman",
+          "R.D. Burman",
+          "Ilaiyaraaja"
+        ],
+        "answer": "A.R. Rahman"
+      },
+      {
+        "question": "Which bowed folk instrument from Rajasthan uses a spike and is often decorative?",
+        "options": [
+          "Ravanhatta",
+          "Sitar",
+          "Sarod"
+        ],
+        "answer": "Ravanhatta"
+      },
+      {
+        "question": "Which lighter classical form emphasizes romantic or devotional themes and expressive lyrics?",
+        "options": [
+          "Thumri",
+          "Dhrupad",
+          "Khayal"
+        ],
+        "answer": "Thumri"
+      },
+      {
+        "question": "Which long-necked plucked instrument, central to dhrupad, is also called Been?",
+        "options": [
+          "Rudra veena",
+          "Sitar",
+          "Sarod"
+        ],
+        "answer": "Rudra veena"
+      },
+      {
+        "question": "Which Indian notation system uses syllables Sa Re Ga Ma to teach melodies?",
+        "options": [
+          "Sargam",
+          "Staff notation",
+          "Tablature"
+        ],
+        "answer": "Sargam"
+      },
+      {
+        "question": "Which annual Pune festival is famous for Hindustani classical music performances?",
+        "options": [
+          "Sawai Gandharva",
+          "Tansen Samaroh",
+          "Konark Festival"
+        ],
+        "answer": "Sawai Gandharva"
+      },
+      {
+        "question": "Which popular Indian music form blends Persian poetic forms with Indian melody?",
+        "options": [
+          "Ghazal",
+          "Carnatic kriti",
+          "Bhajan"
+        ],
+        "answer": "Ghazal"
+      }
+    ],
+    "medium": [
+      {
+        "question": "How many beats comprise the common Hindustani teental cycle?",
+        "options": [
+          "16",
+          "10",
+          "12"
+        ],
+        "answer": "16"
+      },
+      {
+        "question": "Which pair names the two main drums of the tabla set?",
+        "options": [
+          "Dayan and Bayan",
+          "Dhol and Damru",
+          "Pakhawaj and Khol"
+        ],
+        "answer": "Dayan and Bayan"
+      },
+      {
+        "question": "Which gharana is associated with the sitarist Vilayat Khan?",
+        "options": [
+          "Etawah (Imdadkhani)",
+          "Patiala",
+          "Gwalior"
+        ],
+        "answer": "Etawah (Imdadkhani)"
+      },
+      {
+        "question": "Which maestro popularized the bansuri in Hindustani classical concerts?",
+        "options": [
+          "Hariprasad Chaurasia",
+          "Shivkumar Sharma",
+          "Ravi Shankar"
+        ],
+        "answer": "Hariprasad Chaurasia"
+      },
+      {
+        "question": "Which musician adapted the Kashmiri santoor for Hindustani classical performance?",
+        "options": [
+          "Shivkumar Sharma",
+          "Pandit Ravi Shankar",
+          "Ustad Bismillah Khan"
+        ],
+        "answer": "Shivkumar Sharma"
+      },
+      {
+        "question": "Who founded the Maihar gharana and taught several 20th-century maestros?",
+        "options": [
+          "Allauddin Khan",
+          "Alladiya Khan",
+          "Ustad Bade Ghulam Ali Khan"
+        ],
+        "answer": "Allauddin Khan"
+      },
+      {
+        "question": "Which raga is traditionally performed at dusk and features a raised fourth (teevra Ma)?",
+        "options": [
+          "Yaman",
+          "Bhairav",
+          "Todi"
+        ],
+        "answer": "Yaman"
+      },
+      {
+        "question": "Which legendary shehnai maestro brought the instrument to concert stages?",
+        "options": [
+          "Bismillah Khan",
+          "Ghulam Ali",
+          "Ravi Shankar"
+        ],
+        "answer": "Bismillah Khan"
+      },
+      {
+        "question": "Which tal has six beats and commonly underpins light classical and folk pieces?",
+        "options": [
+          "Dadra",
+          "Teental",
+          "Ektaal"
+        ],
+        "answer": "Dadra"
+      },
+      {
+        "question": "Which film composer is known for fusing Indian classical elements with film music in the 1950s?",
+        "options": [
+          "S.D. Burman",
+          "A.R. Rahman",
+          "R.D. Burman"
+        ],
+        "answer": "S.D. Burman"
+      },
+      {
+        "question": "Which instrumental section follows alap and introduces pulse without tala in Hindustani performance?",
+        "options": [
+          "Jor",
+          "Jhala",
+          "Gat"
+        ],
+        "answer": "Jor"
+      },
+      {
+        "question": "Which melodic drone string on a sitar is struck during fast concluding passages called jhala?",
+        "options": [
+          "Chikari",
+          "Sympathetic",
+          "Bass"
+        ],
+        "answer": "Chikari"
+      },
+      {
+        "question": "Which vocalist famously brought Carnatic music to international concert halls in the 20th century?",
+        "options": [
+          "M.S. Subbulakshmi",
+          "Begum Akhtar",
+          "Girija Devi"
+        ],
+        "answer": "M.S. Subbulakshmi"
+      },
+      {
+        "question": "Which percussion instrument predates tabla and remains central to dhrupad accompaniment?",
+        "options": [
+          "Pakhawaj",
+          "Mridangam",
+          "Dhol"
+        ],
+        "answer": "Pakhawaj"
+      },
+      {
+        "question": "Which musical form did Amir Khusro historically influence in South Asian devotional music?",
+        "options": [
+          "Qawwali and tarana",
+          "Karnatak kriti",
+          "Rabindra sangeet"
+        ],
+        "answer": "Qawwali and tarana"
+      },
+      {
+        "question": "Which Indian composer wrote and composed the original tune of 'Jana Gana Mana'?",
+        "options": [
+          "Rabindranath Tagore",
+          "Bankim Chandra Chattopadhyay",
+          "Tansen"
+        ],
+        "answer": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which ornamentation describes a smooth glide between two notes in Indian classical music?",
+        "options": [
+          "Meend",
+          "Gamak",
+          "Kana"
+        ],
+        "answer": "Meend"
+      },
+      {
+        "question": "Which gharana is celebrated for its bold, ornamented vocal style including layakari and taans?",
+        "options": [
+          "Patiala",
+          "Dagar",
+          "Kirana"
+        ],
+        "answer": "Patiala"
+      },
+      {
+        "question": "Which bowed instrument resembling a small sarangi is used in Sikh kirtan and classical music?",
+        "options": [
+          "Dilruba",
+          "Esraj",
+          "Violin"
+        ],
+        "answer": "Dilruba"
+      },
+      {
+        "question": "Which technique names the spoken rhythmic syllables used by tabla players to teach patterns?",
+        "options": [
+          "Bols",
+          "Sargam",
+          "Thah"
+        ],
+        "answer": "Bols"
+      },
+      {
+        "question": "Which rhythmic cycle of seven beats appears often in Hindustani light and semi-classical forms?",
+        "options": [
+          "Rupak",
+          "Dadra",
+          "Teental"
+        ],
+        "answer": "Rupak"
+      },
+      {
+        "question": "Which master was a principal disciple of Allauddin Khan and excelled on the sarod?",
+        "options": [
+          "Ali Akbar Khan",
+          "Ravi Shankar",
+          "Zakir Hussain"
+        ],
+        "answer": "Ali Akbar Khan"
+      },
+      {
+        "question": "Which instrument uses a goat-skin or calf membrane and a hollow wooden body in South India?",
+        "options": [
+          "Mridangam",
+          "Tabla",
+          "Dhol"
+        ],
+        "answer": "Mridangam"
+      },
+      {
+        "question": "Which musicologist organized Hindustani ragas into ten thaats in the early 20th century?",
+        "options": [
+          "Vishnu Narayan Bhatkhande",
+          "Ravi Shankar",
+          "Pandit Omkarnath"
+        ],
+        "answer": "Vishnu Narayan Bhatkhande"
+      },
+      {
+        "question": "Which instrument did Pt. Shivkumar Sharma reinvent for classical concert stages?",
+        "options": [
+          "Santoor",
+          "Sarod",
+          "Veena"
+        ],
+        "answer": "Santoor"
+      },
+      {
+        "question": "Which style of singing emphasizes improvisation around a small poetic theme, often romantic?",
+        "options": [
+          "Thumri",
+          "Dhrupad",
+          "Khayal"
+        ],
+        "answer": "Thumri"
+      },
+      {
+        "question": "Which percussion instrument provides bass resonance in North Indian classical ensembles?",
+        "options": [
+          "Bayan (left tabla)",
+          "Dayan (right tabla)",
+          "Kanjira"
+        ],
+        "answer": "Bayan (left tabla)"
+      },
+      {
+        "question": "Which gharana is most associated with the meditative slow-tempo khayal and intricate alaaps?",
+        "options": [
+          "Kirana",
+          "Patiala",
+          "Jaipur-Atrauli"
+        ],
+        "answer": "Kirana"
+      },
+      {
+        "question": "Which modern Indian musician popularized the Mohan Veena, a modified slide guitar?",
+        "options": [
+          "Vishwa Mohan Bhatt",
+          "Pandit Shivkumar Sharma",
+          "R.D. Burman"
+        ],
+        "answer": "Vishwa Mohan Bhatt"
+      },
+      {
+        "question": "Which classical form uses a rhythmic mnemonic and improvisation tradition in Carnatic percussion?",
+        "options": [
+          "Konnakol",
+          "Bol",
+          "Tihai"
+        ],
+        "answer": "Konnakol"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which ancient Indian treatise by Bharata Muni is the foundational text on music and dance?",
+        "options": [
+          "Natya Shastra",
+          "Sangeet Ratnakara",
+          "Natyadarpaṇa"
+        ],
+        "answer": "Natya Shastra"
+      },
+      {
+        "question": "Which 13th-century musicological work by Sarngadeva documents medieval Indian music comprehensively?",
+        "options": [
+          "Sangeet Ratnakara",
+          "Natya Shastra",
+          "Brihaddeshi"
+        ],
+        "answer": "Sangeet Ratnakara"
+      },
+      {
+        "question": "What is the name of the black tuning paste applied to the tabla surface to shape pitch and timbre?",
+        "options": [
+          "Syahi",
+          "Ghar",
+          "Chapti"
+        ],
+        "answer": "Syahi"
+      },
+      {
+        "question": "Which gharana is especially renowned for preserving dhrupad vocal technique into modern times?",
+        "options": [
+          "Dagar",
+          "Patiala",
+          "Kirana"
+        ],
+        "answer": "Dagar"
+      },
+      {
+        "question": "Which large plucked veena with two big gourds is central to the dhrupad tradition?",
+        "options": [
+          "Rudra veena",
+          "Vichitra veena",
+          "Saraswati veena"
+        ],
+        "answer": "Rudra veena"
+      },
+      {
+        "question": "Which bowed peacock-shaped instrument is credited to Guru Hargobind and linked to Sikh kirtan?",
+        "options": [
+          "Taus",
+          "Esraj",
+          "Dilruba"
+        ],
+        "answer": "Taus"
+      },
+      {
+        "question": "Which 20th-century maestro created the Maihar school and united multiple instruments under one pedagogy?",
+        "options": [
+          "Allauddin Khan",
+          "Alladiya Khan",
+          "Pandit Vishnu Digambar Paluskar"
+        ],
+        "answer": "Allauddin Khan"
+      },
+      {
+        "question": "Which term denotes the fast, rhythmic, percussive finale section on sitar and sarod?",
+        "options": [
+          "Jhala",
+          "Jor",
+          "Gat"
+        ],
+        "answer": "Jhala"
+      },
+      {
+        "question": "Which Indian musician invented the Mohan Veena, merging slide guitar with Indian tuning and sympathetic strings?",
+        "options": [
+          "Vishwa Mohan Bhatt",
+          "Ravi Shankar",
+          "Hariprasad Chaurasia"
+        ],
+        "answer": "Vishwa Mohan Bhatt"
+      },
+      {
+        "question": "Which medieval musicologist first used the concept of 22 shrutis within Indian tonal theory?",
+        "options": [
+          "Matanga",
+          "Bharata Muni",
+          "Sarngadeva"
+        ],
+        "answer": "Matanga"
+      },
+      {
+        "question": "Which structural element names the fixed composition in a dhrupad performance before improvisation begins?",
+        "options": [
+          "Bandish (or Sthayi)",
+          "Tarana",
+          "Bhajan"
+        ],
+        "answer": "Bandish (or Sthayi)"
+      },
+      {
+        "question": "Which delicate bridge shaping on sitar creates the characteristic buzzing resonance called jawari?",
+        "options": [
+          "Bridge filing on tabli",
+          "Tuning pegs adjustment",
+          "Sympathetic string removal"
+        ],
+        "answer": "Bridge filing on tabli"
+      },
+      {
+        "question": "Who classified Hindustani ragas into ten thaats, shaping modern pedagogy?",
+        "options": [
+          "Vishnu Narayan Bhatkhande",
+          "V.N. Patwardhan",
+          "Pandit Omkarnath"
+        ],
+        "answer": "Vishnu Narayan Bhatkhande"
+      },
+      {
+        "question": "Which percussion form supplies the deep barrel-shaped bass in North Indian dhrupad ensembles?",
+        "options": [
+          "Pakhawaj",
+          "Mridangam",
+          "Khol"
+        ],
+        "answer": "Pakhawaj"
+      },
+      {
+        "question": "Which vocal ornamentation involves forceful, oscillatory shakes across a note cluster?",
+        "options": [
+          "Gamak",
+          "Meend",
+          "Khatka"
+        ],
+        "answer": "Gamak"
+      },
+      {
+        "question": "Which rare bowed instrument blends sarangi timbre with a simpler neck and is used in eastern India?",
+        "options": [
+          "Esraj",
+          "Violin",
+          "Sarinda"
+        ],
+        "answer": "Sarinda"
+      },
+      {
+        "question": "Which instrument uses a heavy carved bridge and a curved fingernail plectrum called mizrab on one hand?",
+        "options": [
+          "Sitar",
+          "Sarod",
+          "Veena"
+        ],
+        "answer": "Sitar"
+      },
+      {
+        "question": "Which 20th-century composer-singer popularized the santoor at classical concert level?",
+        "options": [
+          "Pandit Shivkumar Sharma",
+          "Ali Akbar Khan",
+          "Hariprasad Chaurasia"
+        ],
+        "answer": "Pandit Shivkumar Sharma"
+      },
+      {
+        "question": "Which percussion technique uses a threefold rhythmic cadence, often ending a tabla solo?",
+        "options": [
+          "Tihai",
+          "Rela",
+          "Kayda"
+        ],
+        "answer": "Tihai"
+      },
+      {
+        "question": "Which specific string category on the sitar vibrates sympathetically beneath the main strings?",
+        "options": [
+          "Tarbs (sympathetic) strings",
+          "Chikari strings",
+          "Main played strings"
+        ],
+        "answer": "Tarbs (sympathetic) strings"
+      },
+      {
+        "question": "Which classical vocalist from the 20th century established the Jaipur-Atrauli gharana lineage?",
+        "options": [
+          "Alladiya Khan",
+          "Bismillah Khan",
+          "Pandit Omkarnath"
+        ],
+        "answer": "Alladiya Khan"
+      },
+      {
+        "question": "Which Indian classical performance section introduces rhythm through fixed composition called gat?",
+        "options": [
+          "Gat",
+          "Alaap",
+          "Tanpura"
+        ],
+        "answer": "Gat"
+      },
+      {
+        "question": "Which Carnatic improvisational form unfolds without tala and precedes kriti presentations?",
+        "options": [
+          "Alapana",
+          "Neraval",
+          "Kalpana Svara"
+        ],
+        "answer": "Alapana"
+      },
+      {
+        "question": "Which rare bowed instrument closely resembles sarangi but has sympathetic strings and Punjabi origin?",
+        "options": [
+          "Saranda",
+          "Dilruba",
+          "Esraj"
+        ],
+        "answer": "Saranda"
+      },
+      {
+        "question": "Which Gurmat Sangeet text or tradition shaped classical forms used in Sikh kirtan historically?",
+        "options": [
+          "Pauranic shastric tradition",
+          "Gurmat Sangeet tradition",
+          "Carnatic kriti tradition"
+        ],
+        "answer": "Gurmat Sangeet tradition"
+      },
+      {
+        "question": "Which 16th-century Mughal court musician among Akbar's Navaratnas became legendary in Hindustani music?",
+        "options": [
+          "Tansen",
+          "Rai Pannalal",
+          "Ustad Fateh Ali Khan"
+        ],
+        "answer": "Tansen"
+      },
+      {
+        "question": "Which notation innovation did V.N. Bhatkhande introduce to standardize raga teaching in the 20th century?",
+        "options": [
+          "Thaat system and notation",
+          "Western staff notation",
+          "Gharana labels only"
+        ],
+        "answer": "Thaat system and notation"
+      },
+      {
+        "question": "Which stringed instrument uses a goat-skin overlay on a wooden soundboard and a metal fingerboard for slides?",
+        "options": [
+          "Sarod",
+          "Sitar",
+          "Veena"
+        ],
+        "answer": "Sarod"
+      },
+      {
+        "question": "Which classical form’s roots trace to royal courts and emphasize strict intonation and austere style?",
+        "options": [
+          "Dhrupad",
+          "Khayal",
+          "Thumri"
+        ],
+        "answer": "Dhrupad"
+      },
+      {
+        "question": "Which technique names the vocal percussion performance tradition in Carnatic music using syllables?",
+        "options": [
+          "Konnakol",
+          "Sargam",
+          "Bol"
+        ],
+        "answer": "Konnakol"
+      }
+    ]
+  }
+}

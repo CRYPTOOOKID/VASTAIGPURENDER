@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes the tone color that distinguishes instruments?"
+    },
+    {
+      "question_id": 2,
+      "question": "What method cancels unwanted sound by adding an inverted waveform?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which perceptual frequency scale better matches pitch sensation than linear Hertz?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which frequency band includes most human speech fundamentals?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sampling rate is standard for CD-quality audio?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phenomenon causes misleading frequency components when sampling is insufficient?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which environmental factor noticeably affects sound speed in air?"
+    },
+    {
+      "question_id": 8,
+      "question": "What phenomenon yields periodic amplitude variation from two close frequencies?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which laboratory device measures normal-incidence absorption and impedance of materials?"
+    },
+    {
+      "question_id": 10,
+      "question": "What happens when two sound waves add their peaks together?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which structure in the inner ear hosts frequency-specific hair cell responses?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which microphone type uses piezoelectric effect to convert pressure into voltage?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which inner-ear structure converts vibrations into nerve signals?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which musical interval represents a frequency doubling?"
+    },
+    {
+      "question_id": 15,
+      "question": "What parameter quantifies how directional a sound source radiates energy?"
+    }
+  ]
+}

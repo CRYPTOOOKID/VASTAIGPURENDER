@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is ‘brand awareness’ in simple terms?",
+      "options": [
+        "How quickly a website loads",
+        "How many people recognize or recall the brand",
+        "How many products are in stock"
+      ],
+      "answer": "How many people recognize or recall the brand"
+    },
+    {
+      "question_id": 2,
+      "question": "What does 'share of voice' measure in competitive marketing?",
+      "options": [
+        "Internal meeting participation rate",
+        "Shareholder communication frequency",
+        "Brand's advertising presence relative to competitors"
+      ],
+      "answer": "Brand's advertising presence relative to competitors"
+    },
+    {
+      "question_id": 3,
+      "question": "Which framework helps prioritize campaign experiments by expected impact and effort?",
+      "options": [
+        "Only run low-impact tests",
+        "ICE or PIE prioritization frameworks",
+        "Throw-everything-at-the-wall approach"
+      ],
+      "answer": "ICE or PIE prioritization frameworks"
+    },
+    {
+      "question_id": 4,
+      "question": "Which basic tool maps stages from awareness to purchase?",
+      "options": [
+        "Organizational chart",
+        "Marketing funnel",
+        "Financial forecast"
+      ],
+      "answer": "Marketing funnel"
+    },
+    {
+      "question_id": 5,
+      "question": "Which famous campaign launched Nike's 'Just Do It' slogan into mainstream awareness?",
+      "options": [
+        "2008 social media challenge",
+        "1998 athlete endorsement program",
+        "1988 national ad campaign"
+      ],
+      "answer": "1988 national ad campaign"
+    },
+    {
+      "question_id": 6,
+      "question": "Which optimization objective focuses on long-term revenue over immediate conversions?",
+      "options": [
+        "Maximizing click volume",
+        "Minimizing creative production",
+        "Lifetime value (LTV)-driven bidding"
+      ],
+      "answer": "Lifetime value (LTV)-driven bidding"
+    },
+    {
+      "question_id": 7,
+      "question": "Which channel is typically strongest for highly visual product campaigns?",
+      "options": [
+        "Social media platforms like Instagram",
+        "Plain text email",
+        "Telephone cold calls"
+      ],
+      "answer": "Social media platforms like Instagram"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric helps marketers evaluate email list engagement over time?",
+      "options": [
+        "Manufacturing defect rate",
+        "Open rate and click rate trends",
+        "Server uptime percentage"
+      ],
+      "answer": "Open rate and click rate trends"
+    },
+    {
+      "question_id": 9,
+      "question": "Which optimization balances reach against frequency to minimize waste?",
+      "options": [
+        "Maximize frequency for all users",
+        "Reach-frequency optimization with diminishing returns analysis",
+        "Ignore reach and focus only on impressions"
+      ],
+      "answer": "Reach-frequency optimization with diminishing returns analysis"
+    },
+    {
+      "question_id": 10,
+      "question": "Which concept describes tailoring messages to individual customer needs?",
+      "options": [
+        "Personalization",
+        "Batch processing",
+        "Outsourcing"
+      ],
+      "answer": "Personalization"
+    },
+    {
+      "question_id": 11,
+      "question": "Which famous ad introduced Apple during the 1984 Super Bowl?",
+      "options": [
+        "Apple 'Get a Mac' spot",
+        "Apple 'Think Different' ad",
+        "Apple '1984' commercial"
+      ],
+      "answer": "Apple '1984' commercial"
+    },
+    {
+      "question_id": 12,
+      "question": "Which privacy regulation requires explicit consent for personal data processing in many regions?",
+      "options": [
+        "General Data Protection Regulation (GDPR)",
+        "Fair Labor Standards Act",
+        "Sarbanes-Oxley Act"
+      ],
+      "answer": "General Data Protection Regulation (GDPR)"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'segmentation by demographics' commonly use?",
+      "options": [
+        "Employee job titles",
+        "Browser type and cache size",
+        "Age, gender, income and education"
+      ],
+      "answer": "Age, gender, income and education"
+    },
+    {
+      "question_id": 14,
+      "question": "Which measurement blends short-term digital signals with long-run brand effects?",
+      "options": [
+        "Single-channel reporting",
+        "Hybrid measurement combining MMM and experiments",
+        "Exclusive use of last-click reports"
+      ],
+      "answer": "Hybrid measurement combining MMM and experiments"
+    },
+    {
+      "question_id": 15,
+      "question": "Which optimization uses multi-armed bandits to allocate traffic dynamically?",
+      "options": [
+        "Bandit algorithms for adaptive experimentation",
+        "Static A/B testing with equal traffic",
+        "Manual weekly traffic swapping"
+      ],
+      "answer": "Bandit algorithms for adaptive experimentation"
+    }
+  ]
+}

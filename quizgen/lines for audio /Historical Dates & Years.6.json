@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When did the American Civil War begin?"
+    },
+    {
+      "question_id": 2,
+      "question": "What year did Martin Luther King Jr. deliver his 'I Have a Dream' speech?"
+    },
+    {
+      "question_id": 3,
+      "question": "In what year did the first self-propelled steam locomotive successfully operate, marking early railway history?"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Moon landing of Apollo 11 occur?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year did the Spanish conquest of the Aztec Empire culminate with Tenochtitlan's fall?"
+    },
+    {
+      "question_id": 6,
+      "question": "What year did Belgium gain independence from the Netherlands following the Belgian Revolution?"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did the Magna Carta get sealed at Runnymede?"
+    },
+    {
+      "question_id": 8,
+      "question": "When was the Treaty of Tordesillas, dividing new lands between Spain and Portugal, signed?"
+    },
+    {
+      "question_id": 9,
+      "question": "In what year did the Black Hawk War, signaling final Native American resistance in Illinois region, take place?"
+    },
+    {
+      "question_id": 10,
+      "question": "In what year did the Warsaw Pact formally dissolve?"
+    },
+    {
+      "question_id": 11,
+      "question": "What year was the Berlin Airlift initiated in response to the Soviet blockade?"
+    },
+    {
+      "question_id": 12,
+      "question": "In what year did the Paris Commune arise as a radical socialist government in the city?"
+    },
+    {
+      "question_id": 13,
+      "question": "In which year did the UK pass the Act of Union creating the United Kingdom of Great Britain?"
+    },
+    {
+      "question_id": 14,
+      "question": "What year did the Franco-Prussian War end, leading to German unification under the Second Reich?"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did the Battle of Tours halt Umayyad expansion into Western Europe?"
+    }
+  ]
+}

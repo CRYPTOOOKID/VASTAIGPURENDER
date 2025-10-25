@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which peninsular river flows westwards into the Arabian Sea through a rift valley?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which two rivers primarily form the Ganges-Brahmaputra delta?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian river's source region is the Zanskar Range and is a major tributary of the Indus?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which river is historically called the 'Sorrow of Bihar' due to floods?"
+    },
+    {
+      "question_id": 5,
+      "question": "At which town do the Bhagirathi and Alaknanda meet to form the Ganga?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river forms the boundary between the states of Assam and Arunachal Pradesh in places?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which valley project was India's first multipurpose river valley development?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which river is the primary distributary channel used by Kolkata for commercial shipping?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which gulf receives discharge from the Tapti River?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which distributary of the Ganges is the main channel for the Port of Kolkata?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river basin forms the extensive agricultural Indo-Gangetic Plain?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river is the largest east-flowing peninsular river by length after the Godavari?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river originates in the Chota Nagpur plateau near Ranchi?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the Tibetan name for the upper course of the Brahmaputra?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river's basin contains the largest portion of India's coalfields including Jharia?"
+    }
+  ]
+}

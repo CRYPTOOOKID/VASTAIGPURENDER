@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which modern Indian language developed a rich medieval court literature in Kannada?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which language of India uses the Takri script historically in Himachal and Jammu regions?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which classical language recognition came for Malayalam in 2013 based on antiquity and literature?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian language is known for the classical Sangam literature corpus?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which script did William Jones study while proposing Sanskrit's relation to European languages?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval grammarian authored 'Ashtadhyayi', foundational for Sanskrit grammar?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which modern script is used for Manipuri (Meitei) after revival efforts?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script historically transmitted Pali and Theravada texts into South and Southeast Asia?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script block range in Unicode contains the Tamil script characters?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major language group does Hindi belong to?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian state recognizes both Devanagari and Perso-Arabic scripts for Sindhi?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which tribal Munda language uses its own Warang Citi script invented in the 20th century?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which language family does Santali belong to?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Hindi dialect formed the basis for Modern Standard Hindi used officially?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian language uses the Tirhuta script historically for Maithili before Devanagari became common?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention enables people to measure time precisely using oscillating mechanisms?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention made practical electricity distribution possible with alternating current transformers?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention's first commercial model implemented the von Neumann stored-program idea in 1949?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention enabled sailors to determine direction using Earth's magnetic field?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention allowed surgeons to perform complex procedures with reduced pain using localized agents?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention used the Wiener filter concept early in signal processing for speech enhancement?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention lets users calculate arithmetic operations mechanically with wheels or keys?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention did James Watt significantly improve to power factories during the Industrial Revolution?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention achieved dramatic range increases using the superheterodyne principle in radios?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention uses radio waves to detect distant objects and measure range?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention improved food storage by creating household freezers with mechanical compressors?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention used Faraday's law to create practical electrical generators with rotating coils?"
+    },
+    {
+      "question_id": 13,
+      "question": "What invention allowed people to record moving images and sound for the first time?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention introduced the first practical electric light using carbonized bamboo filament?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention implemented vacuum tubes in the Harvard Mark I to perform automatic arithmetic?"
+    }
+  ]
+}

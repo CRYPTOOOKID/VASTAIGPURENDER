@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes expressing a part of a whole by units out of one hundred?",
+      "options": [
+        "Percentage",
+        "Ratio",
+        "Difference"
+      ],
+      "answer": "Percentage"
+    },
+    {
+      "question_id": 2,
+      "question": "Which computational technique estimates sampling variability by repeatedly resampling observed data with replacement?",
+      "options": [
+        "Bootstrap",
+        "Cross-validation",
+        "Bayesian updating"
+      ],
+      "answer": "Bootstrap"
+    },
+    {
+      "question_id": 3,
+      "question": "Which model selection criterion imposes a larger penalty for parameter count than AIC and often favors simpler models with large samples?",
+      "options": [
+        "BIC",
+        "AIC",
+        "p-value"
+      ],
+      "answer": "BIC"
+    },
+    {
+      "question_id": 4,
+      "question": "In printed documents and calculators, which character typically denotes percentage values?",
+      "options": [
+        "%",
+        "‰",
+        "pc"
+      ],
+      "answer": "%"
+    },
+    {
+      "question_id": 5,
+      "question": "Which conventional significance threshold did Ronald Fisher propose as a practical cutoff for many tests?",
+      "options": [
+        "0.05",
+        "0.01",
+        "0.10"
+      ],
+      "answer": "0.05"
+    },
+    {
+      "question_id": 6,
+      "question": "Which estimation principle finds parameter values that maximize the likelihood of the observed sample data under a model?",
+      "options": [
+        "Maximum likelihood estimator",
+        "Method of moments",
+        "Bayesian estimator"
+      ],
+      "answer": "Maximum likelihood estimator"
+    },
+    {
+      "question_id": 7,
+      "question": "Which central measure is computed by summing all observed values and dividing by the total count of observations?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode"
+      ],
+      "answer": "Mean"
+    },
+    {
+      "question_id": 8,
+      "question": "Which curve plots cumulative share of a variable such as income against cumulative population proportion for inequality analysis?",
+      "options": [
+        "Lorenz curve",
+        "ROC curve",
+        "Pareto curve"
+      ],
+      "answer": "Lorenz curve"
+    },
+    {
+      "question_id": 9,
+      "question": "Which method reduces dimensionality by projecting original variables onto orthogonal directions that maximize variance explained?",
+      "options": [
+        "Principal Component Analysis",
+        "Factor analysis",
+        "Cluster analysis"
+      ],
+      "answer": "Principal Component Analysis"
+    },
+    {
+      "question_id": 10,
+      "question": "Which chart type combines bars with a cumulative percentage line and helps prioritize quality issues in work?",
+      "options": [
+        "Pareto chart",
+        "Histogram",
+        "Box plot"
+      ],
+      "answer": "Pareto chart"
+    },
+    {
+      "question_id": 11,
+      "question": "Which measure represents the average squared deviation of observations from their arithmetic mean in a dataset?",
+      "options": [
+        "Variance",
+        "Standard deviation",
+        "Range"
+      ],
+      "answer": "Variance"
+    },
+    {
+      "question_id": 12,
+      "question": "Which discrete probability distribution commonly models counts of rare independent events occurring in a fixed interval?",
+      "options": [
+        "Poisson distribution",
+        "Normal distribution",
+        "Binomial distribution"
+      ],
+      "answer": "Poisson distribution"
+    },
+    {
+      "question_id": 13,
+      "question": "Which simple visual summarizes a five-number summary: minimum, first quartile, median, third quartile, maximum?",
+      "options": [
+        "Box plot",
+        "Pie chart",
+        "Scatter plot"
+      ],
+      "answer": "Box plot"
+    },
+    {
+      "question_id": 14,
+      "question": "Which common data transformation applies a logarithm to right-skewed positive data to stabilize variance?",
+      "options": [
+        "Log transformation",
+        "Square transformation",
+        "Reciprocal transformation"
+      ],
+      "answer": "Log transformation"
+    },
+    {
+      "question_id": 15,
+      "question": "Which diagnostic measure identifies observations that exert large influence on regression estimates if removed from the dataset?",
+      "options": [
+        "Cook's distance",
+        "Durbin–Watson statistic",
+        "Variance inflation factor"
+      ],
+      "answer": "Cook's distance"
+    }
+  ]
+}

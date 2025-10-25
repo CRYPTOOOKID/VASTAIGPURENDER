@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention enables people to measure time precisely using oscillating mechanisms?",
+      "options": [
+        "Sundial",
+        "Clock",
+        "Hourglass"
+      ],
+      "answer": "Clock"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention made practical electricity distribution possible with alternating current transformers?",
+      "options": [
+        "Direct current generator",
+        "AC transformer",
+        "Battery"
+      ],
+      "answer": "AC transformer"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention's first commercial model implemented the von Neumann stored-program idea in 1949?",
+      "options": [
+        "Manchester Baby",
+        "EDSAC",
+        "ENIAC"
+      ],
+      "answer": "EDSAC"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention enabled sailors to determine direction using Earth's magnetic field?",
+      "options": [
+        "Astrolabe",
+        "Compass",
+        "Sextant"
+      ],
+      "answer": "Compass"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention allowed surgeons to perform complex procedures with reduced pain using localized agents?",
+      "options": [
+        "Antiseptics",
+        "Anesthesia",
+        "Sterilization"
+      ],
+      "answer": "Anesthesia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention used the Wiener filter concept early in signal processing for speech enhancement?",
+      "options": [
+        "FM radio",
+        "Noise-cancelling headphones",
+        "AM radio"
+      ],
+      "answer": "Noise-cancelling headphones"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention lets users calculate arithmetic operations mechanically with wheels or keys?",
+      "options": [
+        "Abacus",
+        "Calculator",
+        "Slide rule"
+      ],
+      "answer": "Calculator"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention did James Watt significantly improve to power factories during the Industrial Revolution?",
+      "options": [
+        "Steam engine",
+        "Internal combustion engine",
+        "Electric generator"
+      ],
+      "answer": "Steam engine"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention achieved dramatic range increases using the superheterodyne principle in radios?",
+      "options": [
+        "Direct-conversion receiver",
+        "Superheterodyne receiver",
+        "Crystal set"
+      ],
+      "answer": "Superheterodyne receiver"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention uses radio waves to detect distant objects and measure range?",
+      "options": [
+        "Sonar",
+        "Radar",
+        "Lidar"
+      ],
+      "answer": "Radar"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention improved food storage by creating household freezers with mechanical compressors?",
+      "options": [
+        "Ice box",
+        "Mechanical refrigerator",
+        "Canning"
+      ],
+      "answer": "Mechanical refrigerator"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention used Faraday's law to create practical electrical generators with rotating coils?",
+      "options": [
+        "Dynamo",
+        "Battery",
+        "Transformer"
+      ],
+      "answer": "Dynamo"
+    },
+    {
+      "question_id": 13,
+      "question": "What invention allowed people to record moving images and sound for the first time?",
+      "options": [
+        "Photograph",
+        "Motion picture camera",
+        "Radio"
+      ],
+      "answer": "Motion picture camera"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention introduced the first practical electric light using carbonized bamboo filament?",
+      "options": [
+        "Arc lamp",
+        "Edison's light bulb",
+        "Fluorescent lamp"
+      ],
+      "answer": "Edison's light bulb"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention implemented vacuum tubes in the Harvard Mark I to perform automatic arithmetic?",
+      "options": [
+        "ENIAC",
+        "Harvard Mark I",
+        "UNIVAC"
+      ],
+      "answer": "Harvard Mark I"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country calling code is assigned to Japan?",
+      "options": [
+        "+61",
+        "+31",
+        "+81"
+      ],
+      "answer": "+81"
+    },
+    {
+      "question_id": 2,
+      "question": "What triggered widespread adoption of area code overlays in the 1990s and 2000s?",
+      "options": [
+        "Decline in landline usage",
+        "Rapid growth in mobile and data lines exhausting numbers",
+        "Government mandates to reduce call costs"
+      ],
+      "answer": "Rapid growth in mobile and data lines exhausting numbers"
+    },
+    {
+      "question_id": 3,
+      "question": "Which database element indicates the current service provider for a ported number?",
+      "options": [
+        "Country Calling Code (CCC)",
+        "Subscriber Identification Token (SIT)",
+        "Local Routing Number (LRN)"
+      ],
+      "answer": "Local Routing Number (LRN)"
+    },
+    {
+      "question_id": 4,
+      "question": "What does the abbreviation NANP stand for?",
+      "options": [
+        "North American Numbering Plan",
+        "Network Area Numbering Protocol",
+        "National Automatic Numbering Program"
+      ],
+      "answer": "North American Numbering Plan"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country uses the calling code +358?",
+      "options": [
+        "Fiji",
+        "France",
+        "Finland"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "question_id": 6,
+      "question": "Which area code is an overlay introduced to relieve exhaust in Manhattan alongside 212 and 646?",
+      "options": [
+        "332",
+        "310",
+        "718"
+      ],
+      "answer": "332"
+    },
+    {
+      "question_id": 7,
+      "question": "Which prefix often indicates a premium-rate telephone service in North America?",
+      "options": [
+        "900",
+        "600",
+        "700"
+      ],
+      "answer": "900"
+    },
+    {
+      "question_id": 8,
+      "question": "Which area code covers central Philadelphia, Pennsylvania?",
+      "options": [
+        "404",
+        "215",
+        "312"
+      ],
+      "answer": "215"
+    },
+    {
+      "question_id": 9,
+      "question": "Which mechanism allows customers to retain mobile numbers when switching wireless providers?",
+      "options": [
+        "Wireless local number portability (WLNP)",
+        "Area code swapping",
+        "Toll-free reassignment"
+      ],
+      "answer": "Wireless local number portability (WLNP)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country calling code is assigned to Australia?",
+      "options": [
+        "+60",
+        "+61",
+        "+65"
+      ],
+      "answer": "+61"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country code belongs to Brazil?",
+      "options": [
+        "+55",
+        "+95",
+        "+35"
+      ],
+      "answer": "+55"
+    },
+    {
+      "question_id": 12,
+      "question": "Which North American area code originally served nearly all of southern Florida?",
+      "options": [
+        "617",
+        "206",
+        "305"
+      ],
+      "answer": "305"
+    },
+    {
+      "question_id": 13,
+      "question": "Which symbol should you press to replace the international dialing prefix on a mobile phone?",
+      "options": [
+        "The plus sign (+)",
+        "The hash sign (#)",
+        "The zero (0)"
+      ],
+      "answer": "The plus sign (+)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country uses the international dialing code +351?",
+      "options": [
+        "Poland",
+        "Portugal",
+        "Peru"
+      ],
+      "answer": "Portugal"
+    },
+    {
+      "question_id": 15,
+      "question": "What technical measure reduced area code exhaustion by assigning numbers in smaller blocks?",
+      "options": [
+        "Number concatenation",
+        "Number pooling",
+        "Number cloaking"
+      ],
+      "answer": "Number pooling"
+    }
+  ]
+}

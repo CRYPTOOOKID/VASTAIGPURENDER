@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": [
+        "George Eliot",
+        "Charlotte Brontë",
+        "Jane Austen"
+      ],
+      "answer": "Jane Austen"
+    },
+    {
+      "question_id": 2,
+      "question": "Who authored 'The Divine Comedy'?",
+      "options": [
+        "Petrarch",
+        "Geoffrey Chaucer",
+        "Dante Alighieri"
+      ],
+      "answer": "Dante Alighieri"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is the author of 'The Tale of Genji', often called the first novel?",
+      "options": [
+        "Murasaki Shikibu",
+        "Sei Shōnagon",
+        "Lady Murasaki"
+      ],
+      "answer": "Murasaki Shikibu"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is the author of 'The Catcher in the Rye'?",
+      "options": [
+        "Jack Kerouac",
+        "John Steinbeck",
+        "J. D. Salinger"
+      ],
+      "answer": "J. D. Salinger"
+    },
+    {
+      "question_id": 5,
+      "question": "Who is the author of 'The Trial' (Der Prozess)?",
+      "options": [
+        "Thomas Mann",
+        "Franz Kafka",
+        "Hermann Hesse"
+      ],
+      "answer": "Franz Kafka"
+    },
+    {
+      "question_id": 6,
+      "question": "Who authored 'The Leopard' (Il Gattopardo) about Sicilian aristocracy?",
+      "options": [
+        "Alessandro Manzoni",
+        "Giuseppe Tomasi di Lampedusa",
+        "Italo Calvino"
+      ],
+      "answer": "Giuseppe Tomasi di Lampedusa"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'Great Expectations'?",
+      "options": [
+        "William Makepeace Thackeray",
+        "Anthony Trollope",
+        "Charles Dickens"
+      ],
+      "answer": "Charles Dickens"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote 'Heart of Darkness'?",
+      "options": [
+        "Rudyard Kipling",
+        "Joseph Conrad",
+        "H. G. Wells"
+      ],
+      "answer": "Joseph Conrad"
+    },
+    {
+      "question_id": 9,
+      "question": "Who authored 'The Life and Opinions of Tristram Shandy' notable narrator?",
+      "options": [
+        "Aphra Behn",
+        "Laurence Sterne",
+        "Henry Fielding"
+      ],
+      "answer": "Laurence Sterne"
+    },
+    {
+      "question_id": 10,
+      "question": "Who wrote 'The Odyssey' (English translation commonly attributed to)?",
+      "options": [
+        "Sophocles",
+        "Virgil",
+        "Homer (ancient epic attributed)"
+      ],
+      "answer": "Homer (ancient epic attributed)"
+    },
+    {
+      "question_id": 11,
+      "question": "Who wrote 'A Room with a View'?",
+      "options": [
+        "Somerset Maugham",
+        "Virginia Woolf",
+        "E. M. Forster"
+      ],
+      "answer": "E. M. Forster"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote the dystopian novel 'We' (1924) influencing later works?",
+      "options": [
+        "Vladimir Nabokov",
+        "Aldous Huxley",
+        "Yevgeny Zamyatin"
+      ],
+      "answer": "Yevgeny Zamyatin"
+    },
+    {
+      "question_id": 13,
+      "question": "Who authored 'The Iliad' (ancient epic attributed to)?",
+      "options": [
+        "Plato",
+        "Euripides",
+        "Homer (ancient epic attributed)"
+      ],
+      "answer": "Homer (ancient epic attributed)"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'Zorba the Greek'?",
+      "options": [
+        "Constantine P. Cavafy",
+        "Nikos Kazantzakis",
+        "Giorgos Seferis"
+      ],
+      "answer": "Nikos Kazantzakis"
+    },
+    {
+      "question_id": 15,
+      "question": "Who authored 'Pedro Páramo' pioneering magical realism in Mexican literature?",
+      "options": [
+        "Octavio Paz",
+        "Juan Rulfo",
+        "Carlos Fuentes"
+      ],
+      "answer": "Juan Rulfo"
+    }
+  ]
+}

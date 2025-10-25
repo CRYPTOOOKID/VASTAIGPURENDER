@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which script family originates from the ancient Brahmi script?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which modern Indian language acquired classical status in 2008 alongside Kannada?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which script was used for the earliest known Telugu inscriptions around 400 CE?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which script is primarily associated with Sanskrit texts today?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian language family primarily uses agglutinative morphology?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which orthographic principle explains intrinsic vowel suppression in many Indic consonants?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which language's script is called 'Grantha' historically for Sanskrit in the south?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script is unique for lacking conjunct consonant clusters in its orthography?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script historically encoded Malayalam using Grantha letters for Sanskrit loans?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which language is written in the Odia script?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which colonial-era romanization became the official transliteration by Government of India?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which scholar created the Ol Chiki script for Santali in 1925?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which language family includes Tamil, Telugu, Kannada, and Malayalam?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script underlies the modern Assamese and Bengali writing systems?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indic script notably lacks a distinct letter for the vowel /e/ historically and uses diacritics?"
+    }
+  ]
+}

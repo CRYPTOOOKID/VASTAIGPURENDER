@@ -1,0 +1,229 @@
+================================================================================
+HOW TO DOWNLOAD RENDERED VIDEOS FROM VAST.AI TO YOUR LOCAL MACHINE
+================================================================================
+
+PREREQUISITES
+================================================================================
+1. Rendering has started/completed on Vast.ai
+2. You have your Vast.ai instance SSH details:
+   - IP address (e.g., 147.75.195.123)
+   - SSH port (e.g., 12345)
+   - The default username is usually: root
+
+
+METHOD 1: ONE-TIME DOWNLOAD (All Videos at Once)
+================================================================================
+This downloads all rendered videos in one go after everything is complete.
+
+# Step 1: Open Terminal on YOUR LOCAL MACHINE (Mac/Linux)
+# or PowerShell (Windows)
+
+# Step 2: Create download directory
+mkdir -p ~/Desktop/rendered-videos
+
+# Step 3: Download all videos (Mac/Linux)
+rsync -avz --progress -e "ssh -p YOUR_VAST_PORT" \
+    root@YOUR_VAST_IP:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+    ~/Desktop/rendered-videos/
+
+# For Windows PowerShell, use scp instead:
+scp -P YOUR_VAST_PORT -r root@YOUR_VAST_IP:"/root/Projects /Quiz Channel 2.0/videogen/out/*" C:\Users\YourUsername\Desktop\rendered-videos\
+
+# Example (replace with your actual values):
+rsync -avz --progress -e "ssh -p 12345" \
+    root@147.75.195.123:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+    ~/Desktop/rendered-videos/
+
+# What this does:
+# -a = archive mode (preserves permissions, timestamps)
+# -v = verbose (shows progress)
+# -z = compress during transfer (faster)
+# --progress = shows transfer progress for each file
+
+
+METHOD 2: INCREMENTAL DOWNLOAD (While Rendering)
+================================================================================
+This downloads videos as they complete, reducing final download time.
+
+# Create a script on YOUR LOCAL MACHINE:
+
+# For Mac/Linux - create sync-videos.sh:
+nano sync-videos.sh
+
+# Paste this content (update with YOUR values):
+#!/bin/bash
+while true; do
+    rsync -avz --progress --update -e "ssh -p YOUR_VAST_PORT" \
+        root@YOUR_VAST_IP:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+        ~/Desktop/rendered-videos/
+    echo "✅ Sync complete at $(date). Waiting 30 minutes..."
+    sleep 1800  # Wait 30 minutes
+done
+
+# Save and exit (Ctrl+X, then Y, then Enter)
+
+# Make executable:
+chmod +x sync-videos.sh
+
+# Run it:
+./sync-videos.sh
+
+# This will:
+# - Download new videos every 30 minutes
+# - Only transfer NEW files (saves bandwidth)
+# - Run continuously until you stop it (Ctrl+C)
+# - Keep running even if rendering pauses
+
+
+METHOD 3: MANUAL DOWNLOAD VIA VAST.AI DASHBOARD
+================================================================================
+If rsync/scp doesn't work, use the Vast.ai web interface:
+
+1. Go to your Vast.ai dashboard
+2. Find your running instance
+3. Click "Connect" -> "Jupyter" or "Files"
+4. Navigate to: /root/Projects /Quiz Channel 2.0/videogen/out/
+5. Select videos and click "Download"
+
+Note: This is slower and may timeout for large files.
+
+
+METHOD 4: USING FILEZILLA (GUI Option - Windows/Mac)
+================================================================================
+1. Download FileZilla: https://filezilla-project.org/
+
+2. Open FileZilla and configure:
+   - Host: sftp://YOUR_VAST_IP
+   - Port: YOUR_VAST_PORT
+   - Username: root
+   - Password: (your Vast.ai SSH password, if set)
+
+3. Connect and navigate to:
+   /root/Projects /Quiz Channel 2.0/videogen/out/
+
+4. Drag and drop files to your local folder
+
+
+VERIFY YOUR SSH CONNECTION FIRST
+================================================================================
+Before trying to download, make sure you can SSH into your instance:
+
+ssh -p YOUR_VAST_PORT root@YOUR_VAST_IP
+
+# If this works, you can use rsync/scp
+# If not, check:
+# 1. Instance is still running (check Vast.ai dashboard)
+# 2. IP and port are correct
+# 3. Your firewall isn't blocking SSH
+
+
+FIND YOUR VAST.AI SSH DETAILS
+================================================================================
+1. Go to: https://cloud.vast.ai/instances/
+2. Find your running instance
+3. Click "Connect" button
+4. You'll see SSH command like:
+   ssh -p 12345 root@147.75.195.123
+   
+   From this example:
+   - Port: 12345
+   - IP: 147.75.195.123
+   - Username: root
+
+
+ESTIMATE DOWNLOAD TIME
+================================================================================
+Typical video sizes:
+- 1 video (30-60 sec): ~5-20 MB
+- 430 videos total: ~2-9 GB
+
+Download speeds:
+- Good connection (100 Mbps): ~3-15 minutes for all videos
+- Average connection (25 Mbps): ~12-60 minutes for all videos
+- Slow connection (10 Mbps): ~30-120 minutes for all videos
+
+Your Vast.ai instance has 7441 Mbps upload, so your local download
+speed will be the bottleneck.
+
+
+MONITOR DOWNLOAD PROGRESS
+================================================================================
+# Check how many videos have been downloaded:
+ls ~/Desktop/rendered-videos/*.mp4 | wc -l
+
+# Check total size downloaded:
+du -sh ~/Desktop/rendered-videos/
+
+# Compare with remote (while connected to Vast.ai):
+ssh -p YOUR_VAST_PORT root@YOUR_VAST_IP \
+    "ls '/root/Projects /Quiz Channel 2.0/videogen/out/'*.mp4 | wc -l"
+
+
+TROUBLESHOOTING
+================================================================================
+
+Problem: "Permission denied"
+Solution: Make sure you're using the correct SSH port and username
+
+Problem: "Connection refused"
+Solution: Instance might be stopped. Check Vast.ai dashboard
+
+Problem: "No such file or directory"
+Solution: Check that rendering has created the out/ directory:
+ssh -p YOUR_VAST_PORT root@YOUR_VAST_IP "ls -la '/root/Projects /Quiz Channel 2.0/videogen/out/'"
+
+Problem: Very slow download
+Solution: 
+- Use compression: add -z flag to rsync
+- Download during off-peak hours
+- Try downloading to a different location with better WiFi
+
+Problem: Download interrupted
+Solution: Just run rsync again! It will resume where it left off:
+rsync -avz --progress --partial -e "ssh -p YOUR_VAST_PORT" \
+    root@YOUR_VAST_IP:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+    ~/Desktop/rendered-videos/
+
+
+BEST PRACTICES
+================================================================================
+1. Start incremental download while rendering is in progress
+2. Keep your local machine awake during download
+3. Use wired connection if possible (more stable than WiFi)
+4. Don't destroy Vast.ai instance until all videos are downloaded
+5. Verify video count matches: local vs remote
+6. Test-play a few videos to ensure they're not corrupted
+
+
+QUICK REFERENCE COMMANDS
+================================================================================
+# Check remote video count:
+ssh -p PORT root@IP "ls '/root/Projects /Quiz Channel 2.0/videogen/out/'*.mp4 | wc -l"
+
+# Check local video count:
+ls ~/Desktop/rendered-videos/*.mp4 | wc -l
+
+# Download single video (for testing):
+scp -P PORT root@IP:"/root/Projects /Quiz Channel 2.0/videogen/out/video.mp4" ~/Desktop/
+
+# Resume interrupted download:
+rsync -avz --progress --partial -e "ssh -p PORT" \
+    root@IP:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+    ~/Desktop/rendered-videos/
+
+# Dry run (see what would be downloaded without actually downloading):
+rsync -avz --dry-run -e "ssh -p PORT" \
+    root@IP:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+    ~/Desktop/rendered-videos/
+
+
+AFTER DOWNLOAD COMPLETE
+================================================================================
+1. Verify video count matches
+2. Spot-check 5-10 videos to ensure quality
+3. Create backup copy
+4. ONLY THEN destroy Vast.ai instance
+5. Upload videos to your platform
+
+================================================================================
+

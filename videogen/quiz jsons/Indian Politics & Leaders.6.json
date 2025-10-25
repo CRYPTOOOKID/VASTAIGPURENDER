@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who was India’s Finance Minister credited with 1991 reforms?",
+      "options": [
+        "P. Chidambaram",
+        "Yashwant Sinha",
+        "Dr. Manmohan Singh"
+      ],
+      "answer": "Dr. Manmohan Singh"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Article of the Constitution guarantees freedom of speech and expression?",
+      "options": [
+        "Article 21",
+        "Article 14",
+        "Article 19"
+      ],
+      "answer": "Article 19"
+    },
+    {
+      "question_id": 3,
+      "question": "Which commission’s report guided India’s Centre-State relations and was established in 1983?",
+      "options": [
+        "States Reorganisation Commission",
+        "Sarkaria Commission",
+        "Punchhi Commission"
+      ],
+      "answer": "Sarkaria Commission"
+    },
+    {
+      "question_id": 4,
+      "question": "In which year was the Bharatiya Janata Party (BJP) formally founded?",
+      "options": [
+        "1980",
+        "1991",
+        "1977"
+      ],
+      "answer": "1980"
+    },
+    {
+      "question_id": 5,
+      "question": "Which leader headed the Constituent Assembly’s Union Powers Committee?",
+      "options": [
+        "B. R. Ambedkar",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Prime Minister signed the Indo-US nuclear deal precursor agreements in the 2000s?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "Manmohan Singh",
+        "Atal Bihari Vajpayee"
+      ],
+      "answer": "Manmohan Singh"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movement significantly increased India’s food grain output in the 1960s?",
+      "options": [
+        "Blue Revolution",
+        "White Revolution",
+        "Green Revolution"
+      ],
+      "answer": "Green Revolution"
+    },
+    {
+      "question_id": 8,
+      "question": "What legal instrument did princely states sign to join Dominion of India?",
+      "options": [
+        "Standstill Agreement",
+        "Treaty of Amritsar",
+        "Instrument of Accession"
+      ],
+      "answer": "Instrument of Accession"
+    },
+    {
+      "question_id": 9,
+      "question": "Who presided as temporary chairman at the Constituent Assembly’s first meeting in 1946?",
+      "options": [
+        "Dr. Sachchidananda Sinha",
+        "Dr. B. R. Ambedkar",
+        "Dr. Rajendra Prasad"
+      ],
+      "answer": "Dr. Sachchidananda Sinha"
+    },
+    {
+      "question_id": 10,
+      "question": "Who presided as the first permanent Chairman of the Constituent Assembly?",
+      "options": [
+        "B. R. Ambedkar",
+        "Dr. Rajendra Prasad",
+        "Dr. Sachchidananda Sinha"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Prime Minister promoted the 'Hindi-Chini Bhai-Bhai' friendship policy?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 12,
+      "question": "Which leader was the first woman Governor of an Indian province in 1947?",
+      "options": [
+        "Sarojini Naidu",
+        "Vijaya Lakshmi Pandit",
+        "Prabha Rau"
+      ],
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question_id": 13,
+      "question": "How many states did India have after the 2019 reorganization?",
+      "options": [
+        "28 states",
+        "29 states",
+        "27 states"
+      ],
+      "answer": "28 states"
+    },
+    {
+      "question_id": 14,
+      "question": "Which leader served as India’s External Affairs Minister and later Prime Minister?",
+      "options": [
+        "A. B. Vajpayee",
+        "Charan Singh",
+        "P. V. Narasimha Rao"
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 15,
+      "question": "Which leader’s government enacted the Right to Education as a fundamental right?",
+      "options": [
+        "NDA government via 101st Amendment",
+        "UPA government via 73rd Amendment",
+        "UPA government via 86th Amendment"
+      ],
+      "answer": "UPA government via 86th Amendment"
+    }
+  ]
+}

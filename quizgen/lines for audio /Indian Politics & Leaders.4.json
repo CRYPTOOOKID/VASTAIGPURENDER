@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which amendment lowered the Indian voting age from 21 to 18?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who was India’s first Finance Minister in the post-independence interim government?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Prime Minister led India when economic reforms drew IMF support in 1991?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which document is the supreme law of India?"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did the Right to Information Act become law in India?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Prime Minister’s government oversaw liberalization beginning in 1991?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who served the longest continuous term as India’s Prime Minister?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who chaired the Drafting Committee of the Constituent Assembly?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Prime Minister signed the 1972 Shimla Agreement with Pakistan?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which house of Parliament is called the upper house?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which national body recommends changes to state boundaries and administration?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which leader initiated the Green Revolution policy framework for India in the 1960s?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which house of Parliament is called the lower house?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who served as India’s first Chief Election Commissioner?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which landmark case limited Parliament’s power to amend the Constitution in 1973?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'price floor' imply?",
+      "options": [
+        "Maximum legal price below equilibrium",
+        "Unregulated market price",
+        "Minimum legal price above equilibrium"
+      ],
+      "answer": "Minimum legal price above equilibrium"
+    },
+    {
+      "question_id": 2,
+      "question": "What is fractional reserve banking?",
+      "options": [
+        "Banks do not accept deposits",
+        "Banks keep a fraction of deposits as reserves",
+        "Banks hold all deposits as reserves"
+      ],
+      "answer": "Banks keep a fraction of deposits as reserves"
+    },
+    {
+      "question_id": 3,
+      "question": "Which equation defines the money multiplier under fractional reserve banking?",
+      "options": [
+        "Money multiplier equals 1 divided by reserve ratio",
+        "Money multiplier equals reserve ratio times base money",
+        "Money multiplier equals M1 minus M2"
+      ],
+      "answer": "Money multiplier equals 1 divided by reserve ratio"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a trade deficit?",
+      "options": [
+        "Balanced trade",
+        "Imports exceed exports",
+        "Exports exceed imports"
+      ],
+      "answer": "Imports exceed exports"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metric shows labor participation?",
+      "options": [
+        "Unemployment benefit uptake",
+        "Labor force participation rate",
+        "Employment-to-population ratio"
+      ],
+      "answer": "Labor force participation rate"
+    },
+    {
+      "question_id": 6,
+      "question": "Which definition best describes the natural rate hypothesis in macroeconomics?",
+      "options": [
+        "Output returns to potential and unemployment to natural rate regardless of money growth",
+        "Fiscal deficits cause permanent growth increases",
+        "Inflation permanently reduces unemployment"
+      ],
+      "answer": "Output returns to potential and unemployment to natural rate regardless of money growth"
+    },
+    {
+      "question_id": 7,
+      "question": "What are public goods characterized by?",
+      "options": [
+        "High price elasticity",
+        "Private ownership and profit motive",
+        "Nonexcludability and nonrivalry"
+      ],
+      "answer": "Nonexcludability and nonrivalry"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes government borrowing reducing private investment?",
+      "options": [
+        "Ricardian equivalence",
+        "Double entry accounting",
+        "Crowding out"
+      ],
+      "answer": "Crowding out"
+    },
+    {
+      "question_id": 9,
+      "question": "How does a country achieve a real exchange rate depreciation without nominal change?",
+      "options": [
+        "Import tariffs are eliminated",
+        "Domestic prices fall relative to foreign prices",
+        "Central bank raises nominal interest rates"
+      ],
+      "answer": "Domestic prices fall relative to foreign prices"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the term 'demand' refer to in economics?",
+      "options": [
+        "Suppliers' willingness to sell",
+        "Consumers' willingness and ability to buy",
+        "Government spending preferences"
+      ],
+      "answer": "Consumers' willingness and ability to buy"
+    },
+    {
+      "question_id": 11,
+      "question": "What does Gini coefficient measure?",
+      "options": [
+        "Government debt sustainability",
+        "Inflation volatility",
+        "Income or wealth inequality"
+      ],
+      "answer": "Income or wealth inequality"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept describes diminishing returns to a single input holding others fixed?",
+      "options": [
+        "Increasing returns to scale",
+        "Constant returns to scale",
+        "Law of diminishing marginal returns"
+      ],
+      "answer": "Law of diminishing marginal returns"
+    },
+    {
+      "question_id": 13,
+      "question": "What is meant by 'money supply M1'?",
+      "options": [
+        "Broad credit aggregates",
+        "Currency and checking deposits",
+        "Savings accounts and time deposits"
+      ],
+      "answer": "Currency and checking deposits"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'quantitative easing' central banks do?",
+      "options": [
+        "Increase capital gains taxes",
+        "Purchase long-term securities to inject liquidity and lower yields",
+        "Raise reserve requirements sharply"
+      ],
+      "answer": "Purchase long-term securities to inject liquidity and lower yields"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the concept of 'time inconsistency' in policy?",
+      "options": [
+        "Policymakers change optimal plan later due to shifting incentives",
+        "Policy rules always remain consistent",
+        "Time preference never affects decisions"
+      ],
+      "answer": "Policymakers change optimal plan later due to shifting incentives"
+    }
+  ]
+}

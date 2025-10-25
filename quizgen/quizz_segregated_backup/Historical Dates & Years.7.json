@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In what year did Samuel de Champlain found Quebec City, a cornerstone of French North America?",
+      "options": [
+        "1608",
+        "1580",
+        "1620"
+      ],
+      "answer": "1608"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did theist philosopher and statesman Thomas More publish Utopia, influencing political thought?",
+      "options": [
+        "1516",
+        "1509",
+        "1523"
+      ],
+      "answer": "1516"
+    },
+    {
+      "question_id": 3,
+      "question": "When did the Great Fire of Rome take place during Nero's reign, a debated historical event?",
+      "options": [
+        "64",
+        "54",
+        "68"
+      ],
+      "answer": "64"
+    },
+    {
+      "question_id": 4,
+      "question": "When was the first recorded use of gunpowder weapons in European warfare at the Battle of Crécy?",
+      "options": [
+        "1346",
+        "1314",
+        "1360"
+      ],
+      "answer": "1346"
+    },
+    {
+      "question_id": 5,
+      "question": "What year did the Berlin Conference regulate European colonization of Africa, formalizing the Scramble for Africa?",
+      "options": [
+        "1884",
+        "1871",
+        "1899"
+      ],
+      "answer": "1884"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Great Schism split the Christian Church into Western and Eastern branches?",
+      "options": [
+        "1054",
+        "988",
+        "1204"
+      ],
+      "answer": "1054"
+    },
+    {
+      "question_id": 7,
+      "question": "Which year marks the completion of the Domesday Book, William the Conqueror's survey of England?",
+      "options": [
+        "1086",
+        "1066",
+        "1100"
+      ],
+      "answer": "1086"
+    },
+    {
+      "question_id": 8,
+      "question": "In what year was the Treaty of Westphalia signed, ending the Thirty Years' War?",
+      "options": [
+        "1648",
+        "1618",
+        "1654"
+      ],
+      "answer": "1648"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did the Treaty of Guadalupe Hidalgo end the Mexican-American War, ceding territory to the US?",
+      "options": [
+        "1848",
+        "1846",
+        "1853"
+      ],
+      "answer": "1848"
+    },
+    {
+      "question_id": 10,
+      "question": "Which year did the Great Irish Rebellion of 1641 begin, affecting British Isles politics and war?",
+      "options": [
+        "1641",
+        "1637",
+        "1650"
+      ],
+      "answer": "1641"
+    },
+    {
+      "question_id": 11,
+      "question": "What year did the Anglo-Powhatan Wars in early colonial Virginia begin, shaping English-Native relations?",
+      "options": [
+        "1610",
+        "1607",
+        "1622"
+      ],
+      "answer": "1610"
+    },
+    {
+      "question_id": 12,
+      "question": "Which year did Vasco da Gama reach India by sea, opening a direct Atlantic-Indian route?",
+      "options": [
+        "1498",
+        "1488",
+        "1502"
+      ],
+      "answer": "1498"
+    },
+    {
+      "question_id": 13,
+      "question": "In what year did the Irish Free State formally come into existence following the Anglo-Irish Treaty?",
+      "options": [
+        "1922",
+        "1919",
+        "1937"
+      ],
+      "answer": "1922"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Dreyfus Affair begin publicly in France, revealing deep institutional antisemitism and divisions?",
+      "options": [
+        "1894",
+        "1901",
+        "1885"
+      ],
+      "answer": "1894"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year was the Code of Justinian compiled, influencing civil law traditions?",
+      "options": [
+        "529",
+        "565",
+        "534"
+      ],
+      "answer": "534"
+    }
+  ]
+}

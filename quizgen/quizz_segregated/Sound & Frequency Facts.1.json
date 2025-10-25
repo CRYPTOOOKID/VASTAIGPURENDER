@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an echo in acoustic terms?",
+      "options": [
+        "Conversion to light",
+        "Reflection of sound waves",
+        "Magnetic interference"
+      ],
+      "answer": "Reflection of sound waves"
+    },
+    {
+      "question_id": 2,
+      "question": "What approximate decibel range describes the threshold of pain?",
+      "options": [
+        "120 to 130 dB",
+        "40 to 60 dB",
+        "0 to 10 dB"
+      ],
+      "answer": "120 to 130 dB"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the approximate speed of sound in seawater near 20°C?",
+      "options": [
+        "1482 m/s",
+        "5000 m/s",
+        "343 m/s"
+      ],
+      "answer": "1482 m/s"
+    },
+    {
+      "question_id": 4,
+      "question": "Which physical property of a sound wave is linked to amplitude?",
+      "options": [
+        "Timbre",
+        "Loudness",
+        "Pitch"
+      ],
+      "answer": "Loudness"
+    },
+    {
+      "question_id": 5,
+      "question": "What physical quantity describes sound power per unit area?",
+      "options": [
+        "Frequency (Hz)",
+        "Pressure (Pa)",
+        "Power per area (W/m^2)"
+      ],
+      "answer": "Power per area (W/m^2)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which deep-ocean channel traps sound for long-distance propagation?",
+      "options": [
+        "Halocline channel",
+        "Thermocline channel",
+        "SOFAR channel"
+      ],
+      "answer": "SOFAR channel"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common pet hears ultrasonic frequencies beyond human limits?",
+      "options": [
+        "Dog",
+        "Cow",
+        "Horse"
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 8,
+      "question": "What name describes integer-multiple frequencies above a fundamental tone?",
+      "options": [
+        "Harmonics",
+        "White noise",
+        "Subharmonics"
+      ],
+      "answer": "Harmonics"
+    },
+    {
+      "question_id": 9,
+      "question": "Where along the basilar membrane do high frequencies produce peak vibration?",
+      "options": [
+        "At the apex",
+        "Throughout evenly",
+        "At the base"
+      ],
+      "answer": "At the base"
+    },
+    {
+      "question_id": 10,
+      "question": "What phenomenon transmits sound through air and other materials?",
+      "options": [
+        "Light waves",
+        "Magnetic fields",
+        "Pressure waves"
+      ],
+      "answer": "Pressure waves"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the frequency ratio of one equal-tempered semitone?",
+      "options": [
+        "2^(1/12)",
+        "2^(12)",
+        "12^(1/2)"
+      ],
+      "answer": "2^(1/12)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which weighting curve approximates human hearing sensitivity for environmental noise?",
+      "options": [
+        "C-weighting",
+        "A-weighting",
+        "Z-weighting"
+      ],
+      "answer": "A-weighting"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the standard concert pitch frequency for the note A4?",
+      "options": [
+        "440 Hz",
+        "256 Hz",
+        "392 Hz"
+      ],
+      "answer": "440 Hz"
+    },
+    {
+      "question_id": 14,
+      "question": "What mathematical method decomposes complex sounds into sine waves?",
+      "options": [
+        "Euclidean algorithm",
+        "Fourier analysis",
+        "Bayesian inference"
+      ],
+      "answer": "Fourier analysis"
+    },
+    {
+      "question_id": 15,
+      "question": "Which tube type produces primarily odd harmonics and quarter-wave resonances?",
+      "options": [
+        "Closed-closed tube",
+        "Open-open tube",
+        "Closed-open tube"
+      ],
+      "answer": "Closed-open tube"
+    }
+  ]
+}

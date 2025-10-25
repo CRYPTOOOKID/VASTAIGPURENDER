@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is \"Series A\" funding commonly used for in startups?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which unicorn workplace platform faced a failed IPO attempt and governance scrutiny in 2019?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early-stage financing instrument gives investors no fixed equity but future conversion rights and became popular post-2013?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"valuation\" mean in startup funding?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which corporate structure do most early US startups use for venture funding?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which growth financing round often attracts crossover public market investors before a company lists publicly?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is \"churn\" for a startup with subscription customers?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which growth strategy involves giving away a product free to rapidly acquire users?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which investor coined the observation that venture returns follow a \"power law\" distribution?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which payment company became a notable fintech unicorn and partners with online platforms?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European startup ecosystem is home to companies like Spotify and Klarna?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company’s 2012 acquisition demonstrated mobile startups' strategic value to incumbents with a $1 billion price?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"liquidation preference\" protect for investors?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which startup practice involves experimental A/B tests to optimize onboarding funnels and retention?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which governance right limits founder control by allowing investors to veto specific actions?"
+    }
+  ]
+}

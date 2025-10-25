@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ride-hailing unicorn launched in 2009 and expanded globally rapidly?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which startup accelerator publishes a widely used startup directory and funded companies like Dropbox?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which evaluation method calculates firm value based on projected future cash flows discounted to present value?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which electric-vehicle company began as a startup and later became a major public firm?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes smaller ownership pieces that decrease each founder's stake after funding?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Asian unicorn disrupted payments and lending, later expanding into BNPL services globally?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which messaging app was acquired by Facebook in 2014 for a high price?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a \"down round\" in startup financing?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which business model metric captures total dollar value of transactions on a marketplace platform?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who co-founded Stripe, the online payments unicorn?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which accelerator-created financing form replaced convertible notes for many startups after 2013?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which startup community practice encourages sharing revenue and growth lessons in closed founder groups like YC?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an IPO in the context of startups?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term describes a private startup valued above $10 billion?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which investor type often buys shares from employees in secondary transactions before liquidity events?"
+    }
+  ]
+}

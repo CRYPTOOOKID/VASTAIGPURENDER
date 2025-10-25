@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which measure of central tendency remains more robust in the presence of extreme outliers?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which average multiplies values together and takes the nth root, useful for growth rates and ratios?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which widely cited multiple-testing procedure aims to control the expected proportion of false discoveries?"
+    },
+    {
+      "question_id": 4,
+      "question": "What name is given to the three points that divide ordered data into four equal parts called quartiles?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which plot assesses whether sample quantiles align with a theoretical distribution, often used for normality checks?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept defines a statistic that captures all the information in a sample relevant to estimating a parameter?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which basic data operation arranges numerical observations from the smallest to the largest value in order?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which index, computed from the Lorenz curve, quantifies inequality on a scale from zero to one typically?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nonparametric rank test compares two independent samples and is an alternative to the two-sample t-test under nonnormality?"
+    },
+    {
+      "question_id": 10,
+      "question": "For strongly skewed data, which central value typically represents the dataset better than the mean?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which reliability statistic assesses internal consistency of test or survey items based on average inter-item correlations?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ensemble technique builds successive models to predict residuals and typically achieves strong performance in supervised learning tasks?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statistical test is commonly used to check whether observed category counts match expected frequencies?"
+    },
+    {
+      "question_id": 14,
+      "question": "Under what pen name did William Sealy Gosset publish his influential small-sample t-test research for quality control?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which measure equals an estimator's variance plus the square of its bias, commonly used to assess estimator accuracy?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does the calories value on a food label represent?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which dietary component commonly lowers energy density and increases fullness?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which label concept quantifies nutrient per 100 grams to compare energy density across foods?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which snack choice is more likely to be nutrient dense?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which component of energy expenditure is most variable day to day?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which biochemical process explains calories lost as urea when protein is oxidized?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which food label term indicates the amount of a vitamin or mineral?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which practice most reliably reduces caloric intake without losing nutrients?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which organ’s activity accounts for a large portion of resting energy expenditure per mass?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which label entry gives the amount of energy a food provides?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is non-exercise activity thermogenesis (NEAT)?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which precise reason explains why two foods with equal calories produce different weight outcomes?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient contains about 4 kilocalories per gram?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nutrient label change emphasized realistic portion sizes in recent updates?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare situation leads to negative metabolizable energy when foods increase excreta energy markedly?"
+    }
+  ]
+}

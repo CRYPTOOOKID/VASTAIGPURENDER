@@ -1,0 +1,811 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "In which country is it illegal to walk an elephant down the street without permission in some municipalities?",
+        "options": [
+          "Thailand",
+          "United Kingdom",
+          "India"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which city famously bans wearing a mask in public during celebrations without police permission?",
+        "options": [
+          "Toronto, Canada",
+          "Paris, France",
+          "Tokyo, Japan"
+        ],
+        "answer": "Toronto, Canada"
+      },
+      {
+        "question": "In which country is chewing gum sales restricted to prevent litter and clean public transport?",
+        "options": [
+          "Singapore",
+          "Mexico",
+          "Spain"
+        ],
+        "answer": "Singapore"
+      },
+      {
+        "question": "Which country once made it illegal to step on money because it features the monarch's image?",
+        "options": [
+          "Thailand",
+          "Sweden",
+          "Brazil"
+        ],
+        "answer": "Thailand"
+      },
+      {
+        "question": "In which U.S. state was it historically illegal to wrestle a bear (still enforced in some areas)?",
+        "options": [
+          "Alaska",
+          "Pennsylvania",
+          "California"
+        ],
+        "answer": "Pennsylvania"
+      },
+      {
+        "question": "Which European country has strict laws about feeding wild animals like pigeons in certain cities?",
+        "options": [
+          "Italy",
+          "Netherlands",
+          "Greece"
+        ],
+        "answer": "Italy"
+      },
+      {
+        "question": "Where is it illegal to forget your wife's birthday under some local folklore myths turned ordinances?",
+        "options": [
+          "No mainstream country has a national law for this",
+          "Mexico",
+          "Ireland"
+        ],
+        "answer": "No mainstream country has a national law for this"
+      },
+      {
+        "question": "In which country is it illegal to import chewing gum for non-medical reasons?",
+        "options": [
+          "Singapore",
+          "Australia",
+          "Canada"
+        ],
+        "answer": "Singapore"
+      },
+      {
+        "question": "Which U.S. city once had an ordinance banning high heels at certain public sites for safety reasons?",
+        "options": [
+          "San Francisco",
+          "New York City",
+          "Boston"
+        ],
+        "answer": "San Francisco"
+      },
+      {
+        "question": "Which country prohibits citizens from owning more than one television without a license in some periods historically?",
+        "options": [
+          "United Kingdom",
+          "Argentina",
+          "South Africa"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "In which country is it illegal to carry fewer than three sheep in a car in certain rural laws (an example of odd local rules)?",
+        "options": [
+          "Australia",
+          "United States",
+          "Iceland"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which European country once banned wearing camouflage clothing to avoid military impersonation concerns?",
+        "options": [
+          "Portugal",
+          "France",
+          "Belgium"
+        ],
+        "answer": "Portugal"
+      },
+      {
+        "question": "Which country prohibits whistling in certain public places as a noise disturbance law?",
+        "options": [
+          "Cyprus",
+          "Japan",
+          "Norway"
+        ],
+        "answer": "Cyprus"
+      },
+      {
+        "question": "Where is it illegal to forget to flush a public toilet in some local ordinances (as a cleanliness rule example)?",
+        "options": [
+          "Japan",
+          "United Kingdom",
+          "No specific national law widely reported"
+        ],
+        "answer": "No specific national law widely reported"
+      },
+      {
+        "question": "Which country has regulations limiting how loudly you can close car doors at night in residential areas?",
+        "options": [
+          "Germany",
+          "Sweden",
+          "New Zealand"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "Where is it illegal to wear slippers in public buildings in certain local codes (an example of dress regulations)?",
+        "options": [
+          "South Korea",
+          "United States",
+          "Italy"
+        ],
+        "answer": "South Korea"
+      },
+      {
+        "question": "Which country has laws restricting public displays of affection in some regions for cultural reasons?",
+        "options": [
+          "United Arab Emirates",
+          "Norway",
+          "Brazil"
+        ],
+        "answer": "United Arab Emirates"
+      },
+      {
+        "question": "In which country is it illegal to flush the toilet after 10 p.m. in some apartment house rules to preserve water and quiet?",
+        "options": [
+          "Japan",
+          "Netherlands",
+          "Finland"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which country once made it illegal to walk a cow down the main street without a permit in some rural bylaws?",
+        "options": [
+          "Ireland",
+          "Canada",
+          "Australia"
+        ],
+        "answer": "Ireland"
+      },
+      {
+        "question": "Which U.S. city had a historic law banning people from carrying ice cream cones in their back pockets?",
+        "options": [
+          "Athens, Georgia",
+          "Detroit, Michigan",
+          "Seattle, Washington"
+        ],
+        "answer": "Athens, Georgia"
+      },
+      {
+        "question": "Which country restricts the sale of certain fireworks and sparklers by age in national law?",
+        "options": [
+          "United States",
+          "Iceland",
+          "Bhutan"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Where is it illegal to make excessive noise during siesta hours in specific communities as a local ordinance?",
+        "options": [
+          "Spain",
+          "Canada",
+          "Japan"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which country enforces fines for not picking up after your dog in many cities?",
+        "options": [
+          "United Kingdom",
+          "Germany",
+          "Both United Kingdom and Germany"
+        ],
+        "answer": "Both United Kingdom and Germany"
+      },
+      {
+        "question": "In which country is it illegal to ride a bicycle while under the influence of alcohol in many jurisdictions?",
+        "options": [
+          "Netherlands",
+          "United Kingdom",
+          "Poland"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country enforces a law forbidding selling televisions without a license in certain historical contexts?",
+        "options": [
+          "United Kingdom",
+          "Australia",
+          "New Zealand"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Where is it illegal to sing loudly on public transport during quiet hours by local rules in some cities?",
+        "options": [
+          "Japan",
+          "France",
+          "United States"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which country prohibits the use of loudspeakers for political advertising late at night in many areas?",
+        "options": [
+          "India",
+          "Switzerland",
+          "Mexico"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which country has laws that criminalize insulting the monarchy or head of state in some form?",
+        "options": [
+          "Thailand",
+          "Canada",
+          "Germany"
+        ],
+        "answer": "Thailand"
+      },
+      {
+        "question": "In which country is it illegal to release balloons en masse in some jurisdictions to prevent environmental harm?",
+        "options": [
+          "Australia",
+          "Netherlands",
+          "Japan"
+        ],
+        "answer": "Australia"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which U.S. state once required a license to mime in public due to perceived disturbance laws?",
+        "options": [
+          "Alabama",
+          "New York",
+          "California"
+        ],
+        "answer": "Alabama"
+      },
+      {
+        "question": "In which country is it illegal to own just one guinea pig because they are considered social animals in some local laws?",
+        "options": [
+          "Switzerland",
+          "Norway",
+          "Belgium"
+        ],
+        "answer": "Switzerland"
+      },
+      {
+        "question": "Which European capital banned smoking in certain public outdoor spaces during specific events by municipal law?",
+        "options": [
+          "Paris",
+          "Rome",
+          "Madrid"
+        ],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which country prohibits slot machines and gambling devices in many public places under strict regulations?",
+        "options": [
+          "Japan",
+          "United Kingdom",
+          "Czech Republic"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which U.S. city had an ordinance forbidding wearing masks at protests during certain historical periods?",
+        "options": [
+          "New York City",
+          "Los Angeles",
+          "Chicago"
+        ],
+        "answer": "New York City"
+      },
+      {
+        "question": "Which country's strange law forbids feeding pigeons in certain historic piazzas to preserve monuments?",
+        "options": [
+          "Italy",
+          "Portugal",
+          "Greece"
+        ],
+        "answer": "Italy"
+      },
+      {
+        "question": "In which country is it illegal for taxi drivers to pick up passengers via street hail without a license in many cities?",
+        "options": [
+          "Thailand",
+          "United Kingdom",
+          "United States"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country forbids the public display of other countries' flags in some tense diplomatic contexts historically?",
+        "options": [
+          "China",
+          "Germany",
+          "Argentina"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which U.S. state has a law prohibiting the sale of 'obscene' items via mail historically enforced in certain cases?",
+        "options": [
+          "Massachusetts",
+          "Texas",
+          "Oregon"
+        ],
+        "answer": "Massachusetts"
+      },
+      {
+        "question": "Which country banned the sale of certain high-caffeine energy drinks to minors in some national regulations?",
+        "options": [
+          "Lithuania",
+          "France",
+          "Australia"
+        ],
+        "answer": "Lithuania"
+      },
+      {
+        "question": "Where is it illegal to ride a motorcycle without a shirt under some traffic safety rules?",
+        "options": [
+          "Australia",
+          "United Kingdom",
+          "United States"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which country enforces a law requiring homeowners to maintain hedges below a specified height to prevent disputes?",
+        "options": [
+          "United Kingdom",
+          "France",
+          "Sweden"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country had a law banning children from riding scooters on sidewalks in some cities for safety?",
+        "options": [
+          "Singapore",
+          "Canada",
+          "Spain"
+        ],
+        "answer": "Singapore"
+      },
+      {
+        "question": "Which European country forbids wearing high-visibility vests while protesting in some local ordinances to prevent intimidation?",
+        "options": [
+          "Belgium",
+          "Germany",
+          "Italy"
+        ],
+        "answer": "Belgium"
+      },
+      {
+        "question": "In which country is it illegal to operate a drone without registration and insurance in many cases?",
+        "options": [
+          "United Kingdom",
+          "United States",
+          "Both United Kingdom and United States"
+        ],
+        "answer": "Both United Kingdom and United States"
+      },
+      {
+        "question": "Which country passed laws restricting the length of lawn hedges and fences between neighbors historically?",
+        "options": [
+          "Netherlands",
+          "Ireland",
+          "France"
+        ],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "Which nation's local law once required barbers to pay a licensing fee and prohibited certain haircuts in historic codes?",
+        "options": [
+          "Turkey",
+          "United Kingdom",
+          "Egypt"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country prohibits selling alcohol in some regions on certain religious or cultural holidays?",
+        "options": [
+          "India",
+          "United States",
+          "Russia"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which Asian city has strict littering fines, including on-the-spot penalties for tossing small items in public?",
+        "options": [
+          "Singapore",
+          "Hong Kong",
+          "Seoul"
+        ],
+        "answer": "Singapore"
+      },
+      {
+        "question": "Which country bans using washing machines outside specified hours in some apartment rules for noise control?",
+        "options": [
+          "Japan",
+          "Germany",
+          "United Kingdom"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which country once prohibited the sale of VHS tapes at certain times for censorship reasons historically?",
+        "options": [
+          "United Kingdom",
+          "Argentina",
+          "China"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which country has municipal laws that forbid building sandcastles on some public beaches to protect turtles?",
+        "options": [
+          "Costa Rica",
+          "Australia",
+          "Mexico"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which country forbids import of certain chewing gum types to protect public cleanliness historically?",
+        "options": [
+          "Singapore",
+          "South Korea",
+          "Thailand"
+        ],
+        "answer": "Singapore"
+      },
+      {
+        "question": "Which nation's odd law penalizes people for dressing as a penguin to disrupt wildlife viewing areas in specific reserves?",
+        "options": [
+          "New Zealand",
+          "Chile",
+          "South Africa"
+        ],
+        "answer": "New Zealand"
+      },
+      {
+        "question": "Which European country restricts the sale of raw milk directly to consumers in some national food safety laws?",
+        "options": [
+          "France",
+          "Belgium",
+          "United Kingdom"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country made it illegal to show certain political films during elections historically to prevent influence?",
+        "options": [
+          "India",
+          "United States",
+          "Brazil"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which country bans feeding wild dolphins or whales to avoid altering animal behavior in marine parks?",
+        "options": [
+          "Australia",
+          "Norway",
+          "Japan"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which country has laws prohibiting wearing clothing that conceals the face in public in some regions?",
+        "options": [
+          "France",
+          "Italy",
+          "Greece"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which country enacted regulations that make it illegal to sell fireworks to underage buyers without ID in many areas?",
+        "options": [
+          "United Kingdom",
+          "United States",
+          "Spain"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country has local laws against standing in the left lane on highways to keep traffic flowing smoothly?",
+        "options": [
+          "United Kingdom",
+          "Germany",
+          "United States"
+        ],
+        "answer": "United Kingdom"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Swiss canton has a law requiring social pets like guinea pigs to be kept in pairs due to animal welfare codes?",
+        "options": [
+          "Ticino",
+          "Zurich",
+          "Bern"
+        ],
+        "answer": "Zurich"
+      },
+      {
+        "question": "Which U.S. city enforced a law forbidding the use of public mime performances due to a 19th-century vagrancy statute?",
+        "options": [
+          "Mobile, Alabama",
+          "Chicago, Illinois",
+          "Savannah, Georgia"
+        ],
+        "answer": "Mobile, Alabama"
+      },
+      {
+        "question": "Which country's penal code prohibits insulting the national anthem with potential imprisonment in some cases?",
+        "options": [
+          "South Korea",
+          "France",
+          "Brazil"
+        ],
+        "answer": "South Korea"
+      },
+      {
+        "question": "In which Scandinavian country did municipalities create laws forbidding shoe removal in certain public businesses to prevent hygiene issues?",
+        "options": [
+          "Norway",
+          "Finland",
+          "Sweden"
+        ],
+        "answer": "Sweden"
+      },
+      {
+        "question": "Which island nation restricts the number of domestic cats per household in some local ordinances to protect native wildlife?",
+        "options": [
+          "New Zealand",
+          "Iceland",
+          "Sri Lanka"
+        ],
+        "answer": "New Zealand"
+      },
+      {
+        "question": "Which country enforces fines for homeowners whose hedges obscure neighbors' sunlight under specific neighbor law statutes?",
+        "options": [
+          "United Kingdom",
+          "Germany",
+          "Portugal"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which nation's traffic code historically forbade women from driving automotives until modern reforms (now repealed)?",
+        "options": [
+          "Saudi Arabia",
+          "Iran",
+          "Afghanistan"
+        ],
+        "answer": "Saudi Arabia"
+      },
+      {
+        "question": "Which European country's penal code criminalizes leaving a child unattended in a car under extreme temperature laws?",
+        "options": [
+          "France",
+          "Spain",
+          "Italy"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which Asian country banned live animal sales at wet markets in certain districts to prevent zoonotic risk after outbreaks?",
+        "options": [
+          "China",
+          "Vietnam",
+          "Thailand"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which country has a law that requires citizens to clear snow from the sidewalk in front of their property within certain hours?",
+        "options": [
+          "Canada",
+          "Finland",
+          "Poland"
+        ],
+        "answer": "Finland"
+      },
+      {
+        "question": "Which British law once made it illegal to import potatoes on a Sunday during certain historical periods for market regulation?",
+        "options": [
+          "Scotland Food Act",
+          "Sunday Trading Act",
+          "Agricultural Supplies Act"
+        ],
+        "answer": "Sunday Trading Act"
+      },
+      {
+        "question": "Which European capital restricts the use of selfie sticks inside public museums due to safety and preservation rules?",
+        "options": [
+          "Rome",
+          "Vienna",
+          "Amsterdam"
+        ],
+        "answer": "Rome"
+      },
+      {
+        "question": "Which Asian city implemented a law banning famers from burning crop residues near urban limits to reduce air pollution?",
+        "options": [
+          "New Delhi, India",
+          "Bangkok, Thailand",
+          "Manila, Philippines"
+        ],
+        "answer": "New Delhi, India"
+      },
+      {
+        "question": "Which country prohibits using real currency as jewelry or clothing decoration to protect national insignia under desecration laws?",
+        "options": [
+          "Thailand",
+          "United Kingdom",
+          "Japan"
+        ],
+        "answer": "Thailand"
+      },
+      {
+        "question": "Which U.S. state had a law forbidding the misnaming of livestock for sale that led to odd court cases historically?",
+        "options": [
+          "Texas",
+          "Montana",
+          "Wyoming"
+        ],
+        "answer": "Montana"
+      },
+      {
+        "question": "Which European nation bans unaccompanied minors from accessing certain online gambling services under age-protection laws?",
+        "options": [
+          "United Kingdom",
+          "Germany",
+          "Greece"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country enacted a law banning displaying brand logos on government-owned vehicles to avoid commercial influence?",
+        "options": [
+          "Sweden",
+          "Norway",
+          "Denmark"
+        ],
+        "answer": "Sweden"
+      },
+      {
+        "question": "Which African country forbids the wearing of camouflage-patterned clothing by civilians due to military impersonation laws?",
+        "options": [
+          "Nigeria",
+          "Kenya",
+          "South Africa"
+        ],
+        "answer": "Nigeria"
+      },
+      {
+        "question": "Which nation has municipal rules that ban feeding stray cats in certain historic centers to protect monuments and public health?",
+        "options": [
+          "Italy",
+          "Greece",
+          "Portugal"
+        ],
+        "answer": "Italy"
+      },
+      {
+        "question": "Which country has a law making it illegal to publish unflattering images of public officials without chance for correction in defamation statutes?",
+        "options": [
+          "United Kingdom",
+          "Japan",
+          "France"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which U.S. city had a 19th-century ordinance banning rum-running by tying liquor to horses, an example of creative enforcement?",
+        "options": [
+          "New Orleans, Louisiana",
+          "Boston, Massachusetts",
+          "Key West, Florida"
+        ],
+        "answer": "Key West, Florida"
+      },
+      {
+        "question": "Which country bans the sale of live baby eels (glass eels) during certain months to protect declining stocks under fisheries law?",
+        "options": [
+          "United Kingdom",
+          "Spain",
+          "France"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country has a law requiring pubs to serve non-alcoholic options prominently to reduce drink-driving risks?",
+        "options": [
+          "Ireland",
+          "United Kingdom",
+          "Australia"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which European country outlaws using drones to record private property without consent under strict privacy legislation?",
+        "options": [
+          "Germany",
+          "France",
+          "Belgium"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "Which country criminalized 'offending religious feelings' historically in its penal code, used in controversial cases?",
+        "options": [
+          "Poland",
+          "Spain",
+          "Portugal"
+        ],
+        "answer": "Poland"
+      },
+      {
+        "question": "Which nation prohibits moving house without notifying local authorities in some registry systems to maintain population records?",
+        "options": [
+          "Japan",
+          "Czech Republic",
+          "Switzerland"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which country has strict laws against unsolicited telemarketing calls including predefined fines and opt-in requirements?",
+        "options": [
+          "France",
+          "United States",
+          "Australia"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which country forbids the use of loud speakers for political campaigning within a set distance from polling stations under election law?",
+        "options": [
+          "India",
+          "Kenya",
+          "Canada"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which European country requires building owners to ensure roof gutters are cleared to prevent municipal flood damage under local statutes?",
+        "options": [
+          "Netherlands",
+          "Belgium",
+          "Austria"
+        ],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "Which nation enforces bans on performing certain noisy agricultural tasks on Sundays to respect rest laws in some regions?",
+        "options": [
+          "Germany",
+          "Spain",
+          "Italy"
+        ],
+        "answer": "Germany"
+      }
+    ]
+  }
+}

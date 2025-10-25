@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Approximately how many people live on Earth as of the early 2020s?",
+        "options": [
+          "About 8 billion",
+          "About 5 billion",
+          "About 10 billion"
+        ],
+        "answer": "About 8 billion"
+      },
+      {
+        "question": "Which continent has the largest population?",
+        "options": [
+          "Asia",
+          "Africa",
+          "Europe"
+        ],
+        "answer": "Asia"
+      },
+      {
+        "question": "Which country has the largest national population today?",
+        "options": [
+          "China",
+          "India",
+          "United States"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which country has the second-largest population?",
+        "options": [
+          "India",
+          "United States",
+          "Indonesia"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What term describes the number of births per 1,000 people per year?",
+        "options": [
+          "Crude birth rate",
+          "Fertility rate",
+          "Mortality rate"
+        ],
+        "answer": "Crude birth rate"
+      },
+      {
+        "question": "What does 'median age' of a population represent?",
+        "options": [
+          "Age with half older and half younger",
+          "Average of all ages",
+          "Mode of age distribution"
+        ],
+        "answer": "Age with half older and half younger"
+      },
+      {
+        "question": "Which region has the highest population growth rate in recent decades?",
+        "options": [
+          "Sub-Saharan Africa",
+          "Europe",
+          "North America"
+        ],
+        "answer": "Sub-Saharan Africa"
+      },
+      {
+        "question": "What does 'population density' measure?",
+        "options": [
+          "People per unit area",
+          "Births per year",
+          "Urban population percentage"
+        ],
+        "answer": "People per unit area"
+      },
+      {
+        "question": "Which country is known for having a high population density city like Tokyo?",
+        "options": [
+          "Japan",
+          "Canada",
+          "Australia"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is the demographic term for the number of deaths per 1,000 people per year?",
+        "options": [
+          "Crude death rate",
+          "Infant mortality rate",
+          "Life expectancy"
+        ],
+        "answer": "Crude death rate"
+      },
+      {
+        "question": "Which statistic gauges average lifespan at birth in a population?",
+        "options": [
+          "Life expectancy",
+          "Median age",
+          "Crude death rate"
+        ],
+        "answer": "Life expectancy"
+      },
+      {
+        "question": "What does 'urbanization' refer to in population studies?",
+        "options": [
+          "Movement to cities",
+          "Increase in birth rate",
+          "Decline in population"
+        ],
+        "answer": "Movement to cities"
+      },
+      {
+        "question": "Which country has one of the largest youth populations globally?",
+        "options": [
+          "Nigeria",
+          "Germany",
+          "Japan"
+        ],
+        "answer": "Nigeria"
+      },
+      {
+        "question": "What is the 'total fertility rate' (TFR)?",
+        "options": [
+          "Average children per woman",
+          "Births per 1,000 population",
+          "Percentage of women who give birth"
+        ],
+        "answer": "Average children per woman"
+      },
+      {
+        "question": "A TFR of roughly 2.1 is considered what for a population?",
+        "options": [
+          "Replacement-level fertility",
+          "High fertility",
+          "Below replacement fertility"
+        ],
+        "answer": "Replacement-level fertility"
+      },
+      {
+        "question": "Which demographic metric indicates number of people aged 65 and over?",
+        "options": [
+          "Elderly population share",
+          "Child dependency ratio",
+          "Population pyramid"
+        ],
+        "answer": "Elderly population share"
+      },
+      {
+        "question": "Which country saw rapid population growth in the 20th century due to industrialization and health improvements?",
+        "options": [
+          "China",
+          "France",
+          "Iceland"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "What is a population pyramid used to show?",
+        "options": [
+          "Age and sex structure",
+          "GDP growth",
+          "Life expectancy trends"
+        ],
+        "answer": "Age and sex structure"
+      },
+      {
+        "question": "Which country has one of the highest life expectancies globally?",
+        "options": [
+          "Japan",
+          "Mali",
+          "Afghanistan"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "What does 'population projection' estimate?",
+        "options": [
+          "Future population based on trends",
+          "Current census count",
+          "Historical population only"
+        ],
+        "answer": "Future population based on trends"
+      },
+      {
+        "question": "Which global organization regularly publishes population estimates and projections?",
+        "options": [
+          "United Nations",
+          "World Trade Organization",
+          "International Monetary Fund"
+        ],
+        "answer": "United Nations"
+      },
+      {
+        "question": "What is the primary purpose of a national census?",
+        "options": [
+          "Count the population and collect demographic data",
+          "Collect taxes",
+          "Regulate immigration"
+        ],
+        "answer": "Count the population and collect demographic data"
+      },
+      {
+        "question": "Which demographic term measures the ratio of dependents to working-age population?",
+        "options": [
+          "Dependency ratio",
+          "Fertility rate",
+          "Population density"
+        ],
+        "answer": "Dependency ratio"
+      },
+      {
+        "question": "Which country experienced rapid urban population growth after World War II?",
+        "options": [
+          "United States",
+          "Bhutan",
+          "Greenland"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Which continent has the youngest average population age?",
+        "options": [
+          "Africa",
+          "Europe",
+          "North America"
+        ],
+        "answer": "Africa"
+      },
+      {
+        "question": "Which demographic indicator commonly declines as countries develop economically?",
+        "options": [
+          "Fertility rate",
+          "Life expectancy",
+          "Urbanization rate"
+        ],
+        "answer": "Fertility rate"
+      },
+      {
+        "question": "What is 'net migration' in population statistics?",
+        "options": [
+          "Immigrants minus emigrants",
+          "Total births minus deaths",
+          "Population density change"
+        ],
+        "answer": "Immigrants minus emigrants"
+      },
+      {
+        "question": "Which global milestone was reached around October 31, 2011?",
+        "options": [
+          "World population reached 7 billion",
+          "First global census completed",
+          "Global life expectancy hit 80"
+        ],
+        "answer": "World population reached 7 billion"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Around what year did the world population reach 1 billion?",
+        "options": [
+          "Circa 1804",
+          "Circa 1600",
+          "Circa 1900"
+        ],
+        "answer": "Circa 1804"
+      },
+      {
+        "question": "Which country became the most populous nation in the 21st century by overtaking China in projections?",
+        "options": [
+          "India",
+          "United States",
+          "Brazil"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which statistic measures the average number of years a newborn is expected to live under current mortality rates?",
+        "options": [
+          "Life expectancy at birth",
+          "Median age",
+          "Total fertility rate"
+        ],
+        "answer": "Life expectancy at birth"
+      },
+      {
+        "question": "What demographic transition stage features falling death rates and high birth rates leading to rapid growth?",
+        "options": [
+          "Stage 2",
+          "Stage 4",
+          "Stage 1"
+        ],
+        "answer": "Stage 2"
+      },
+      {
+        "question": "Which country has the world's largest diaspora population originating from it?",
+        "options": [
+          "India",
+          "Mexico",
+          "Russia"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What is the term for the population share aged 15-24, often used to study youth bulges?",
+        "options": [
+          "Youth population",
+          "Elderly cohort",
+          "Infant cohort"
+        ],
+        "answer": "Youth population"
+      },
+      {
+        "question": "Which region experienced a decline in population in recent decades due to low fertility and emigration?",
+        "options": [
+          "Eastern Europe",
+          "Southeast Asia",
+          "Sub-Saharan Africa"
+        ],
+        "answer": "Eastern Europe"
+      },
+      {
+        "question": "Which Asian country implemented a one-child policy from 1979 to 2015?",
+        "options": [
+          "China",
+          "Japan",
+          "South Korea"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "What demographic metric indicates children under age 5 dying per 1,000 live births?",
+        "options": [
+          "Under-five mortality rate",
+          "Infant mortality rate",
+          "Crude death rate"
+        ],
+        "answer": "Under-five mortality rate"
+      },
+      {
+        "question": "Which country had the highest urban population share by the early 21st century?",
+        "options": [
+          "Monaco",
+          "India",
+          "Nigeria"
+        ],
+        "answer": "Monaco"
+      },
+      {
+        "question": "What does the 'sex ratio' in population statistics express?",
+        "options": [
+          "Male to female ratio",
+          "Birth rate trend",
+          "Average household size"
+        ],
+        "answer": "Male to female ratio"
+      },
+      {
+        "question": "Which factor most directly reduces population growth in demographic theory?",
+        "options": [
+          "Declining fertility rate",
+          "Increasing population density",
+          "Higher infant mortality"
+        ],
+        "answer": "Declining fertility rate"
+      },
+      {
+        "question": "Which country experienced a demographic dividend due to falling fertility and growing workforce?",
+        "options": [
+          "South Korea",
+          "Haiti",
+          "Papua New Guinea"
+        ],
+        "answer": "South Korea"
+      },
+      {
+        "question": "Which global decade saw the largest absolute increase in world population?",
+        "options": [
+          "1950-1960",
+          "1870-1880",
+          "1990-2000"
+        ],
+        "answer": "1950-1960"
+      },
+      {
+        "question": "Which statistic measures expected remaining years of life at a specific age rather than at birth?",
+        "options": [
+          "Life expectancy at age X",
+          "Total fertility rate",
+          "Crude birth rate"
+        ],
+        "answer": "Life expectancy at age X"
+      },
+      {
+        "question": "Which African country is projected to add the largest number to global population by 2100?",
+        "options": [
+          "Nigeria",
+          "Ethiopia",
+          "Egypt"
+        ],
+        "answer": "Nigeria"
+      },
+      {
+        "question": "Which measurement adjusts crude rates to a standard age distribution for comparisons?",
+        "options": [
+          "Age-standardized rate",
+          "Median age",
+          "Crude rate"
+        ],
+        "answer": "Age-standardized rate"
+      },
+      {
+        "question": "What is the replacement-level TFR typically adjusted for in developed nations?",
+        "options": [
+          "Around 2.1 children per woman",
+          "Around 3.5 children per woman",
+          "Around 1.5 children per woman"
+        ],
+        "answer": "Around 2.1 children per woman"
+      },
+      {
+        "question": "Which country conducted the first modern national census in 1801?",
+        "options": [
+          "United Kingdom",
+          "United States",
+          "France"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which demographic term describes a temporary rise in births after a baby boom's end?",
+        "options": [
+          "Echo effect",
+          "Migration surge",
+          "Fertility cliff"
+        ],
+        "answer": "Echo effect"
+      },
+      {
+        "question": "Which data source provides detailed global population estimates apart from the UN?",
+        "options": [
+          "World Bank",
+          "International Monetary Fund",
+          "NATO"
+        ],
+        "answer": "World Bank"
+      },
+      {
+        "question": "Which country experienced a rapid aging population due to low fertility and high longevity?",
+        "options": [
+          "Japan",
+          "Uganda",
+          "Jordan"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is 'crude migration rate' measured as?",
+        "options": [
+          "Net migrants per 1,000 population",
+          "Births per 1,000 population",
+          "Deaths per 1,000 population"
+        ],
+        "answer": "Net migrants per 1,000 population"
+      },
+      {
+        "question": "Which global event caused a temporary but sharp decline in population growth rates in the 14th century?",
+        "options": [
+          "Black Death",
+          "Industrial Revolution",
+          "World War I"
+        ],
+        "answer": "Black Death"
+      },
+      {
+        "question": "Which region has seen the fastest urban population growth in recent decades?",
+        "options": [
+          "Asia",
+          "Oceania",
+          "Antarctica"
+        ],
+        "answer": "Asia"
+      },
+      {
+        "question": "What does 'population momentum' refer to?",
+        "options": [
+          "Continued growth after fertility fall due to age structure",
+          "Immediate population collapse",
+          "Instantaneous doubling of population"
+        ],
+        "answer": "Continued growth after fertility fall due to age structure"
+      },
+      {
+        "question": "Which country had one of the highest total fertility rates in the early 21st century?",
+        "options": [
+          "Niger",
+          "Sweden",
+          "Canada"
+        ],
+        "answer": "Niger"
+      },
+      {
+        "question": "Which measure is commonly used to compare mortality across countries independent of age structure?",
+        "options": [
+          "Age-standardized mortality rate",
+          "Crude death rate",
+          "Life expectancy"
+        ],
+        "answer": "Age-standardized mortality rate"
+      },
+      {
+        "question": "Which demographic statistic can signal potential future labor shortages?",
+        "options": [
+          "High old-age dependency ratio",
+          "High birth rate",
+          "Low median age"
+        ],
+        "answer": "High old-age dependency ratio"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which year did the UN first publish its World Population Prospects reports regularly?",
+        "options": [
+          "1951",
+          "1948",
+          "1964"
+        ],
+        "answer": "1951"
+      },
+      {
+        "question": "What was the approximate world population at the beginning of the Common Era (year 1)?",
+        "options": [
+          "About 300 million",
+          "About 1 billion",
+          "About 5 million"
+        ],
+        "answer": "About 300 million"
+      },
+      {
+        "question": "Which demographic concept quantifies births required to maintain a stable population given current mortality and sex ratios?",
+        "options": [
+          "Net reproduction rate",
+          "Crude birth rate",
+          "Gross reproduction rate"
+        ],
+        "answer": "Net reproduction rate"
+      },
+      {
+        "question": "Which country was the first to record a below-replacement TFR sustained for several decades in the modern era?",
+        "options": [
+          "Sweden",
+          "Italy",
+          "France"
+        ],
+        "answer": "Sweden"
+      },
+      {
+        "question": "By mid-21st century projections, which country is expected to have the largest population decline in absolute numbers?",
+        "options": [
+          "China",
+          "India",
+          "United States"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which statistical method is most commonly used to estimate age-specific fertility rates from survey data?",
+        "options": [
+          "Brass method",
+          "Kaplan-Meier estimator",
+          "Ordinary least squares"
+        ],
+        "answer": "Brass method"
+      },
+      {
+        "question": "Which demographic event is described by a sudden drop in births following major societal disruption?",
+        "options": [
+          "Birth trough",
+          "Baby boom",
+          "Replacement spike"
+        ],
+        "answer": "Birth trough"
+      },
+      {
+        "question": "Which country had the highest recorded population growth rate during the mid-20th century due to postwar baby boom?",
+        "options": [
+          "United States",
+          "Germany",
+          "Australia"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Which index measures the concentration of population in urban areas relative to rural areas globally?",
+        "options": [
+          "Urbanization rate",
+          "Gini coefficient",
+          "Human Development Index"
+        ],
+        "answer": "Urbanization rate"
+      },
+      {
+        "question": "Which demographic technique reconstructs historical populations from parish records and genealogies?",
+        "options": [
+          "Family reconstitution",
+          "Cohort-component method",
+          "Population projection"
+        ],
+        "answer": "Family reconstitution"
+      },
+      {
+        "question": "Which country’s 1950s population policy is a classic case study of coercive family planning measures?",
+        "options": [
+          "China",
+          "India",
+          "Sweden"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which projection scenario assumes constant fertility, mortality, and migration rates from a base year?",
+        "options": [
+          "Constant scenario",
+          "High-variant scenario",
+          "Low-variant scenario"
+        ],
+        "answer": "Constant scenario"
+      },
+      {
+        "question": "Which demographic indicator is sensitive to short-term shocks and often used to assess child health conditions?",
+        "options": [
+          "Under-five mortality rate",
+          "Total fertility rate",
+          "Life expectancy at 65"
+        ],
+        "answer": "Under-five mortality rate"
+      },
+      {
+        "question": "Which population concept counts people who usually reside in a country regardless of citizenship?",
+        "options": [
+          "Resident population",
+          "De jure population",
+          "Temporary visitors"
+        ],
+        "answer": "Resident population"
+      },
+      {
+        "question": "Which large country experienced a pronounced gender imbalance at birth in the late 20th century due to sex-selective practices?",
+        "options": [
+          "China",
+          "Brazil",
+          "Canada"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which statistical adjustment addresses underreporting of infant deaths in national vital registration systems?",
+        "options": [
+          "Indirect estimation methods",
+          "Direct sampling only",
+          "No adjustment recommended"
+        ],
+        "answer": "Indirect estimation methods"
+      },
+      {
+        "question": "Which African demographic transition pattern is characterized by sustained high fertility and falling mortality?",
+        "options": [
+          "Delayed transition",
+          "Immediate transition",
+          "Completed transition"
+        ],
+        "answer": "Delayed transition"
+      },
+      {
+        "question": "Which country’s census famously undercounted a significant portion of its population in 2011, prompting methodological reforms?",
+        "options": [
+          "Nigeria",
+          "Vatican City",
+          "Iceland"
+        ],
+        "answer": "Nigeria"
+      },
+      {
+        "question": "Which concept quantifies number of births prevented by contraceptive use compared to no contraception?",
+        "options": [
+          "Unmet need for family planning",
+          "Contraceptive prevalence effect",
+          "Averted births estimate"
+        ],
+        "answer": "Averted births estimate"
+      },
+      {
+        "question": "Which population measurement uses sample surveys like DHS to estimate demographic rates where registration is weak?",
+        "options": [
+          "Survey-based estimation",
+          "Vital registration only",
+          "Administrative counts"
+        ],
+        "answer": "Survey-based estimation"
+      },
+      {
+        "question": "Which country showed a historic fertility decline associated with dramatic educational expansion for women in recent decades?",
+        "options": [
+          "Bangladesh",
+          "Saudi Arabia",
+          "Haiti"
+        ],
+        "answer": "Bangladesh"
+      },
+      {
+        "question": "Which demographic model links mortality decline to subsequent fertility decline across societies?",
+        "options": [
+          "Demographic transition model",
+          "Malthusian trap model",
+          "Kuznets curve"
+        ],
+        "answer": "Demographic transition model"
+      },
+      {
+        "question": "Which measurement combines fertility, mortality, and migration to project population structures over time?",
+        "options": [
+          "Cohort-component projection",
+          "Logistic regression",
+          "Cross-sectional analysis"
+        ],
+        "answer": "Cohort-component projection"
+      },
+      {
+        "question": "Which statistical artifact can make international population comparisons misleading without age-standardization?",
+        "options": [
+          "Different age structures",
+          "Different currencies",
+          "Different time zones"
+        ],
+        "answer": "Different age structures"
+      },
+      {
+        "question": "Which country’s postwar baby boom created a large cohort that influenced labor markets for decades?",
+        "options": [
+          "United States",
+          "Nepal",
+          "Mongolia"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Which demographic phenomenon describes faster growth in some urban areas while nearby rural areas shrink?",
+        "options": [
+          "Urban primacy and rural depopulation",
+          "Population stasis",
+          "Suburban decline"
+        ],
+        "answer": "Urban primacy and rural depopulation"
+      },
+      {
+        "question": "Which modeling approach estimates future population under different fertility and mortality assumptions using probabilistic intervals?",
+        "options": [
+          "Probabilistic population projections",
+          "Deterministic trend extrapolation",
+          "Simple linear regression"
+        ],
+        "answer": "Probabilistic population projections"
+      },
+      {
+        "question": "Which country historically used household registration (hukou) affecting internal migration statistics?",
+        "options": [
+          "China",
+          "Mexico",
+          "Norway"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which region’s population is projected to double by 2100 under medium UN projections?",
+        "options": [
+          "Sub-Saharan Africa",
+          "North America",
+          "Europe"
+        ],
+        "answer": "Sub-Saharan Africa"
+      },
+      {
+        "question": "Which demographic term describes the additional population growth that occurs when a previously young population reaches reproductive age?",
+        "options": [
+          "Population momentum",
+          "Demographic suppression",
+          "Fertility compression"
+        ],
+        "answer": "Population momentum"
+      }
+    ]
+  }
+}

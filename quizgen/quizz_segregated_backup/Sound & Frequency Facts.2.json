@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which animal commonly uses echolocation for navigation and hunting?",
+      "options": [
+        "Bat",
+        "Cow",
+        "Sheep"
+      ],
+      "answer": "Bat"
+    },
+    {
+      "question_id": 2,
+      "question": "What term names a graph showing amplitude versus frequency for a sound?",
+      "options": [
+        "Frequency spectrum",
+        "Waveform plot",
+        "Phase portrait"
+      ],
+      "answer": "Frequency spectrum"
+    },
+    {
+      "question_id": 3,
+      "question": "Which lossy audio codec exploits psychoacoustic masking to reduce file size?",
+      "options": [
+        "MP3",
+        "WAV",
+        "FLAC"
+      ],
+      "answer": "MP3"
+    },
+    {
+      "question_id": 4,
+      "question": "What term describes perceived loudness of a sound?",
+      "options": [
+        "Loudness",
+        "Pitch",
+        "Timbre"
+      ],
+      "answer": "Loudness"
+    },
+    {
+      "question_id": 5,
+      "question": "What psychoacoustic effect reduces perception of some sounds in presence of others?",
+      "options": [
+        "Masking",
+        "Hysteresis",
+        "Alias"
+      ],
+      "answer": "Masking"
+    },
+    {
+      "question_id": 6,
+      "question": "Which atmospheric effect bends sound rays due to temperature gradients?",
+      "options": [
+        "Atmospheric refraction",
+        "Thermal conduction",
+        "Magnetic refraction"
+      ],
+      "answer": "Atmospheric refraction"
+    },
+    {
+      "question_id": 7,
+      "question": "What unit measures sound frequency?",
+      "options": [
+        "Hertz (Hz)",
+        "Newton (N)",
+        "Pascal (Pa)"
+      ],
+      "answer": "Hertz (Hz)"
+    },
+    {
+      "question_id": 8,
+      "question": "Which material transmits sound fastest among air, water, and steel?",
+      "options": [
+        "Steel",
+        "Water",
+        "Air"
+      ],
+      "answer": "Steel"
+    },
+    {
+      "question_id": 9,
+      "question": "Which mathematical transform underlies spectral analysis in acoustics?",
+      "options": [
+        "Fourier transform",
+        "Laplace transform",
+        "Z-transform"
+      ],
+      "answer": "Fourier transform"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instrument produces sound by striking a stretched membrane?",
+      "options": [
+        "Drum",
+        "Viola",
+        "Oboe"
+      ],
+      "answer": "Drum"
+    },
+    {
+      "question_id": 11,
+      "question": "What physical process causes cleaning in ultrasonic baths?",
+      "options": [
+        "Cavitation",
+        "Ionization",
+        "Magnetization"
+      ],
+      "answer": "Cavitation"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term describes resonance that forms when wavelength matches boundary constraints?",
+      "options": [
+        "Standing-wave resonance",
+        "Rayleigh scattering",
+        "Fresnel diffraction"
+      ],
+      "answer": "Standing-wave resonance"
+    },
+    {
+      "question_id": 13,
+      "question": "Which instrument produces sound by vibrating an enclosed column of air?",
+      "options": [
+        "Flute",
+        "Piano",
+        "Violin"
+      ],
+      "answer": "Flute"
+    },
+    {
+      "question_id": 14,
+      "question": "What name describes ear sensitivity variations across frequency at given loudness?",
+      "options": [
+        "Equal-loudness contours",
+        "Harmonic spectra",
+        "Phase response"
+      ],
+      "answer": "Equal-loudness contours"
+    },
+    {
+      "question_id": 15,
+      "question": "Which facility measures total sound absorption using reverberation time changes?",
+      "options": [
+        "Reverberation chamber",
+        "Anechoic chamber",
+        "Clean room"
+      ],
+      "answer": "Reverberation chamber"
+    }
+  ]
+}

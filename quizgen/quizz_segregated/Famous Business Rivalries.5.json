@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which two companies were central in the personal digital music player battle with portable devices?",
+      "options": [
+        "Sony and Creative",
+        "Apple and Microsoft",
+        "SanDisk and Samsung"
+      ],
+      "answer": "Apple and Microsoft"
+    },
+    {
+      "question_id": 2,
+      "question": "Which corporation bought Instagram's rival, affecting competition in social media?",
+      "options": [
+        "Facebook (Meta)",
+        "Google",
+        "Twitter"
+      ],
+      "answer": "Facebook (Meta)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which social media acquisition by Facebook (Meta) in 2012 affected rivalry with which photo-sharing app?",
+      "options": [
+        "Instagram affected competition with Twitter",
+        "Instagram affected competition with Snapchat",
+        "Instagram affected competition with Myspace"
+      ],
+      "answer": "Instagram affected competition with Snapchat"
+    },
+    {
+      "question_id": 4,
+      "question": "Which two companies are central to the iconic \"Cola Wars\" rivalry?",
+      "options": [
+        "Coca-Cola and Pepsi",
+        "Coca-Cola and Dr Pepper",
+        "Pepsi and 7UP"
+      ],
+      "answer": "Coca-Cola and Pepsi"
+    },
+    {
+      "question_id": 5,
+      "question": "Which retail giant challenged Amazon with aggressive online expansion and store integration?",
+      "options": [
+        "Target",
+        "Costco",
+        "Walmart"
+      ],
+      "answer": "Walmart"
+    },
+    {
+      "question_id": 6,
+      "question": "Which major 2000s lawsuit involved which pair contesting search advertising and browser integration?",
+      "options": [
+        "AOL and Google over ad placements",
+        "Yahoo and Google over portals",
+        "Google and Microsoft over search and browser practices"
+      ],
+      "answer": "Google and Microsoft over search and browser practices"
+    },
+    {
+      "question_id": 7,
+      "question": "Which beverage companies' rivalry included taste tests called the \"Pepsi Challenge\"?",
+      "options": [
+        "Pepsi and Coca-Cola",
+        "Pepsi and RC Cola",
+        "Dr Pepper and 7UP"
+      ],
+      "answer": "Pepsi and Coca-Cola"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company released the original iPhone in 2007, altering its rivalry with other phone makers?",
+      "options": [
+        "Apple",
+        "Nokia",
+        "BlackBerry"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 9,
+      "question": "Which beverage marketing war produced the 1985 case where a taste test led to which product\u000027s return?",
+      "options": [
+        "RC Classic returned after reformulation",
+        "Pepsi Classic returned after New Pepsi",
+        "Coca-Cola Classic returned after New Coke"
+      ],
+      "answer": "Coca-Cola Classic returned after New Coke"
+    },
+    {
+      "question_id": 10,
+      "question": "Which pair dominated the console market with PlayStation competing against other systems?",
+      "options": [
+        "Sony and Microsoft",
+        "Atari and Coleco",
+        "Nintendo and Sega"
+      ],
+      "answer": "Sony and Microsoft"
+    },
+    {
+      "question_id": 11,
+      "question": "Which automotive company invested early in electric vehicles, challenging traditional automakers?",
+      "options": [
+        "Ford",
+        "Toyota",
+        "Tesla"
+      ],
+      "answer": "Tesla"
+    },
+    {
+      "question_id": 12,
+      "question": "Which high-profile acquisition in 2005 involved Oracle and which enterprise software company contested before takeover?",
+      "options": [
+        "SAP",
+        "Siebel",
+        "PeopleSoft"
+      ],
+      "answer": "PeopleSoft"
+    },
+    {
+      "question_id": 13,
+      "question": "Which two companies competed in the video streaming production race with original series?",
+      "options": [
+        "Hulu and Disney+",
+        "HBO and Showtime",
+        "Netflix and Amazon Prime Video"
+      ],
+      "answer": "Netflix and Amazon Prime Video"
+    },
+    {
+      "question_id": 14,
+      "question": "Which scooter and delivery platform rivalry expanded globally between Didi and which competitor?",
+      "options": [
+        "Uber",
+        "Lyft",
+        "Grab"
+      ],
+      "answer": "Uber"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific Ford model development directly targeted Ferrari after failed acquisition talks in which year?",
+      "options": [
+        "GT40 in 1963",
+        "Shelby Cobra in 1961",
+        "Mustang in 1964"
+      ],
+      "answer": "GT40 in 1963"
+    }
+  ]
+}

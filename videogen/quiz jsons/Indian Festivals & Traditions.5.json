@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian festival is popularly called the Festival of Lights?",
+      "options": [
+        "Holi",
+        "Raksha Bandhan",
+        "Diwali"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival marks the Sikh festival of Vaisakhi and also commemorates the formation of the Khalsa?",
+      "options": [
+        "Guru Nanak Jayanti",
+        "Vaisakhi",
+        "Bandi Chhor Divas"
+      ],
+      "answer": "Vaisakhi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival custom in Bengal involves married women exchanging sindoor and sweets called 'Sindoor Khela'?",
+      "options": [
+        "Diwali eve",
+        "Durga Puja immersion day",
+        "Holi morning"
+      ],
+      "answer": "Durga Puja immersion day"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival features street processions and immersed idols in Mumbai as a major civic event?",
+      "options": [
+        "Lohri",
+        "Ganesh Chaturthi",
+        "Durga Puja"
+      ],
+      "answer": "Ganesh Chaturthi"
+    },
+    {
+      "question_id": 5,
+      "question": "Which festival involves daughters visiting their parental home after marriage to celebrate with family in some regions?",
+      "options": [
+        "Makar Sankranti",
+        "Bhai Dooj",
+        "Holi"
+      ],
+      "answer": "Bhai Dooj"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival marks the Sikh remembrance of Guru Gobind Singh creating the Khalsa in 1699 at Anandpur Sahib?",
+      "options": [
+        "Guru Nanak Jayanti",
+        "Vaisakhi",
+        "Bandi Chhor Divas"
+      ],
+      "answer": "Vaisakhi"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Hindu festival involves married women fasting for their husbands' long life?",
+      "options": [
+        "Navratri",
+        "Raksha Bandhan",
+        "Karva Chauth"
+      ],
+      "answer": "Karva Chauth"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival involves the immersion of Ganesha idols into the sea after several days?",
+      "options": [
+        "Ganesh Visarjan",
+        "Rath Yatra",
+        "Holi"
+      ],
+      "answer": "Ganesh Visarjan"
+    },
+    {
+      "question_id": 9,
+      "question": "Which festival's traditional instrument ensemble in Kerala includes chenda, kombu, and ilathalam?",
+      "options": [
+        "Dhol tasha",
+        "Pooram melam",
+        "Bhangra dhol"
+      ],
+      "answer": "Pooram melam"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival in Kerala is renowned for its caparisoned elephants and percussion ensembles?",
+      "options": [
+        "Pongal",
+        "Thrissur Pooram",
+        "Onam"
+      ],
+      "answer": "Thrissur Pooram"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival in Gujarat is celebrated with nine nights of dancing called Garba and Dandiya Raas?",
+      "options": [
+        "Holi",
+        "Navratri",
+        "Pongal"
+      ],
+      "answer": "Navratri"
+    },
+    {
+      "question_id": 12,
+      "question": "Which festival's traditional Bengal sweet is 'sandesh', often exchanged during Durga Puja celebrations?",
+      "options": [
+        "Sandesh during Durga Puja",
+        "Petha at Diwali",
+        "Jalebi at Holi"
+      ],
+      "answer": "Sandesh during Durga Puja"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival honors ancestors with shraddha rituals and offerings in many Hindu households?",
+      "options": [
+        "Diwali",
+        "Navratri",
+        "Pitru Paksha"
+      ],
+      "answer": "Pitru Paksha"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival marks the onset of spring celebrations and also includes kite flying in parts of India?",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Navratri"
+      ],
+      "answer": "Holi"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival marks the arrival of spring and features 'Lathmar Holi' in certain towns of Uttar Pradesh?",
+      "options": [
+        "Pongal cattle day",
+        "Navratri Garba",
+        "Holi with Lathmar variant"
+      ],
+      "answer": "Holi with Lathmar variant"
+    }
+  ]
+}

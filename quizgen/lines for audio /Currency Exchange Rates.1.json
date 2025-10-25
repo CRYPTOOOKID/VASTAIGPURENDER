@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a common reason businesses use FX hedging?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which market metric shows daily liquidity and tightness in FX trading?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced phenomenon describes appreciation pressure following large capital inflows?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a 'currency intervention'?"
+    },
+    {
+      "question_id": 5,
+      "question": "What role does the balance of payments play for exchange rates?"
+    },
+    {
+      "question_id": 6,
+      "question": "What was the main mechanism of contagion during the 1997 Asian crisis affecting exchange rates?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a currency pair's base currency?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistic indicates expected real returns adjusted for inflation in FX terms?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does 'sterilized intervention' fail to change in theory if UIP holds perfectly?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a 'peg' in currency policy?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which economist is associated with the interest rate parity concept?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced modeling approach captures time-varying risk premia in FX returns?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'nominal exchange rate' refer to?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's exit from a monetary arrangement is called 'devaluation' when rate is lowered?"
+    },
+    {
+      "question_id": 15,
+      "question": "How do transaction costs influence covered interest parity deviations?"
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What phenomenon transmits sound through air and other materials?",
+        "options": [
+          "Pressure waves",
+          "Light waves",
+          "Magnetic fields"
+        ],
+        "answer": "Pressure waves"
+      },
+      {
+        "question": "What unit measures sound frequency?",
+        "options": [
+          "Hertz (Hz)",
+          "Newton (N)",
+          "Pascal (Pa)"
+        ],
+        "answer": "Hertz (Hz)"
+      },
+      {
+        "question": "What is the commonly cited human hearing range?",
+        "options": [
+          "20 Hz to 20 kHz",
+          "0.1 Hz to 1 Hz",
+          "100 kHz to 1 MHz"
+        ],
+        "answer": "20 Hz to 20 kHz"
+      },
+      {
+        "question": "Which unit expresses perceived sound level?",
+        "options": [
+          "Decibel (dB)",
+          "Watt (W)",
+          "Hertz (Hz)"
+        ],
+        "answer": "Decibel (dB)"
+      },
+      {
+        "question": "Which physical property primarily determines pitch?",
+        "options": [
+          "Frequency",
+          "Amplitude",
+          "Duration"
+        ],
+        "answer": "Frequency"
+      },
+      {
+        "question": "What name describes sound below 20 Hz?",
+        "options": [
+          "Infrasound",
+          "Ultrasound",
+          "Audible sound"
+        ],
+        "answer": "Infrasound"
+      },
+      {
+        "question": "What name describes sound above 20 kHz?",
+        "options": [
+          "Ultrasound",
+          "Infrasound",
+          "Subsonic sound"
+        ],
+        "answer": "Ultrasound"
+      },
+      {
+        "question": "Which instrument displays waveforms and helps measure frequency visually?",
+        "options": [
+          "Oscilloscope",
+          "Thermometer",
+          "Barometer"
+        ],
+        "answer": "Oscilloscope"
+      },
+      {
+        "question": "What term describes perceived loudness of a sound?",
+        "options": [
+          "Loudness",
+          "Pitch",
+          "Timbre"
+        ],
+        "answer": "Loudness"
+      },
+      {
+        "question": "Which condition allows sound to travel through a space?",
+        "options": [
+          "Presence of matter",
+          "Perfect vacuum",
+          "Absolute darkness"
+        ],
+        "answer": "Presence of matter"
+      },
+      {
+        "question": "What is an echo in acoustic terms?",
+        "options": [
+          "Reflection of sound waves",
+          "Conversion to light",
+          "Magnetic interference"
+        ],
+        "answer": "Reflection of sound waves"
+      },
+      {
+        "question": "Which organ detects airborne sound in humans?",
+        "options": [
+          "Ear",
+          "Eye",
+          "Nose"
+        ],
+        "answer": "Ear"
+      },
+      {
+        "question": "Which inner-ear structure converts vibrations into nerve signals?",
+        "options": [
+          "Cochlea",
+          "Eardrum",
+          "Hammer"
+        ],
+        "answer": "Cochlea"
+      },
+      {
+        "question": "What term describes the tone color that distinguishes instruments?",
+        "options": [
+          "Timbre",
+          "Tempo",
+          "Dynamics"
+        ],
+        "answer": "Timbre"
+      },
+      {
+        "question": "Which instrument produces sound primarily by vibrating strings?",
+        "options": [
+          "Violin",
+          "Flute",
+          "Trumpet"
+        ],
+        "answer": "Violin"
+      },
+      {
+        "question": "Which instrument produces sound by striking a stretched membrane?",
+        "options": [
+          "Drum",
+          "Viola",
+          "Oboe"
+        ],
+        "answer": "Drum"
+      },
+      {
+        "question": "What technology uses reflected sound to locate underwater objects?",
+        "options": [
+          "Sonar",
+          "Radar",
+          "Lidar"
+        ],
+        "answer": "Sonar"
+      },
+      {
+        "question": "What effect causes an apparent pitch change from a moving sound source?",
+        "options": [
+          "Doppler effect",
+          "Photoelectric effect",
+          "Coriolis effect"
+        ],
+        "answer": "Doppler effect"
+      },
+      {
+        "question": "What property of a sound wave correlates most directly with musical pitch?",
+        "options": [
+          "Frequency",
+          "Wavelength",
+          "Phase"
+        ],
+        "answer": "Frequency"
+      },
+      {
+        "question": "Which frequency band includes most human speech fundamentals?",
+        "options": [
+          "85 Hz to 255 Hz",
+          "5 kHz to 20 kHz",
+          "0.1 Hz to 1 Hz"
+        ],
+        "answer": "85 Hz to 255 Hz"
+      },
+      {
+        "question": "What handheld device measures sound intensity levels in decibels?",
+        "options": [
+          "Sound level meter",
+          "Seismograph",
+          "Hygrometer"
+        ],
+        "answer": "Sound level meter"
+      },
+      {
+        "question": "What term describes the persistence of sound in a hall after the source stops?",
+        "options": [
+          "Reverberation",
+          "Diffraction",
+          "Refraction"
+        ],
+        "answer": "Reverberation"
+      },
+      {
+        "question": "Which animal commonly uses echolocation for navigation and hunting?",
+        "options": [
+          "Bat",
+          "Cow",
+          "Sheep"
+        ],
+        "answer": "Bat"
+      },
+      {
+        "question": "What is the standard concert pitch frequency for the note A4?",
+        "options": [
+          "440 Hz",
+          "256 Hz",
+          "392 Hz"
+        ],
+        "answer": "440 Hz"
+      },
+      {
+        "question": "Which physical property of a sound wave is linked to amplitude?",
+        "options": [
+          "Loudness",
+          "Pitch",
+          "Timbre"
+        ],
+        "answer": "Loudness"
+      },
+      {
+        "question": "Sound waves in air are which wave type?",
+        "options": [
+          "Longitudinal waves",
+          "Transverse waves",
+          "Circular waves"
+        ],
+        "answer": "Longitudinal waves"
+      },
+      {
+        "question": "What happens when two sound waves add their peaks together?",
+        "options": [
+          "Constructive interference",
+          "Refraction",
+          "Absorption"
+        ],
+        "answer": "Constructive interference"
+      },
+      {
+        "question": "Which common pet hears ultrasonic frequencies beyond human limits?",
+        "options": [
+          "Dog",
+          "Cow",
+          "Horse"
+        ],
+        "answer": "Dog"
+      },
+      {
+        "question": "Which instrument produces sound by vibrating an enclosed column of air?",
+        "options": [
+          "Flute",
+          "Piano",
+          "Violin"
+        ],
+        "answer": "Flute"
+      },
+      {
+        "question": "Which environmental factor noticeably affects sound speed in air?",
+        "options": [
+          "Temperature",
+          "Color",
+          "Humidity only"
+        ],
+        "answer": "Temperature"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which scientist built resonators to analyze sound spectra in the 19th century?",
+        "options": [
+          "Helmholtz",
+          "Faraday",
+          "Maxwell"
+        ],
+        "answer": "Helmholtz"
+      },
+      {
+        "question": "What mathematical method decomposes complex sounds into sine waves?",
+        "options": [
+          "Fourier analysis",
+          "Euclidean algorithm",
+          "Bayesian inference"
+        ],
+        "answer": "Fourier analysis"
+      },
+      {
+        "question": "What name describes integer-multiple frequencies above a fundamental tone?",
+        "options": [
+          "Harmonics",
+          "White noise",
+          "Subharmonics"
+        ],
+        "answer": "Harmonics"
+      },
+      {
+        "question": "What phenomenon yields periodic amplitude variation from two close frequencies?",
+        "options": [
+          "Beats",
+          "Echo",
+          "Refraction"
+        ],
+        "answer": "Beats"
+      },
+      {
+        "question": "What is the frequency ratio of one equal-tempered semitone?",
+        "options": [
+          "2^(1/12)",
+          "12^(1/2)",
+          "2^(12)"
+        ],
+        "answer": "2^(1/12)"
+      },
+      {
+        "question": "What physical quantity describes sound power per unit area?",
+        "options": [
+          "Power per area (W/m^2)",
+          "Pressure (Pa)",
+          "Frequency (Hz)"
+        ],
+        "answer": "Power per area (W/m^2)"
+      },
+      {
+        "question": "What approximate decibel range describes the threshold of pain?",
+        "options": [
+          "120 to 130 dB",
+          "0 to 10 dB",
+          "40 to 60 dB"
+        ],
+        "answer": "120 to 130 dB"
+      },
+      {
+        "question": "Which device converts analog acoustic signals into digital samples?",
+        "options": [
+          "ADC (analog-to-digital converter)",
+          "DAC (digital-to-analog converter)",
+          "Equalizer"
+        ],
+        "answer": "ADC (analog-to-digital converter)"
+      },
+      {
+        "question": "Which sampling rate is standard for CD-quality audio?",
+        "options": [
+          "44.1 kHz",
+          "8 kHz",
+          "192 kHz"
+        ],
+        "answer": "44.1 kHz"
+      },
+      {
+        "question": "What name describes ear sensitivity variations across frequency at given loudness?",
+        "options": [
+          "Equal-loudness contours",
+          "Harmonic spectra",
+          "Phase response"
+        ],
+        "answer": "Equal-loudness contours"
+      },
+      {
+        "question": "Which structure in the inner ear hosts frequency-specific hair cell responses?",
+        "options": [
+          "Basilar membrane",
+          "Tympanic membrane",
+          "Auditory nerve"
+        ],
+        "answer": "Basilar membrane"
+      },
+      {
+        "question": "Which musical interval represents a frequency doubling?",
+        "options": [
+          "Octave",
+          "Fifth",
+          "Minor third"
+        ],
+        "answer": "Octave"
+      },
+      {
+        "question": "What term describes amplification when driving frequency matches natural frequency?",
+        "options": [
+          "Resonance",
+          "Diffraction",
+          "Doppler shift"
+        ],
+        "answer": "Resonance"
+      },
+      {
+        "question": "What term names a graph showing amplitude versus frequency for a sound?",
+        "options": [
+          "Frequency spectrum",
+          "Waveform plot",
+          "Phase portrait"
+        ],
+        "answer": "Frequency spectrum"
+      },
+      {
+        "question": "What process reduces transmitted energy when sound passes through material?",
+        "options": [
+          "Absorption",
+          "Reflection",
+          "Diffraction"
+        ],
+        "answer": "Absorption"
+      },
+      {
+        "question": "Which scale describes perceived loudness roughly doubling per 10 dB increase?",
+        "options": [
+          "Decibel scale",
+          "Linear pressure scale",
+          "Logarithmic diameter scale"
+        ],
+        "answer": "Decibel scale"
+      },
+      {
+        "question": "Which frequency band plays the greatest role in speech intelligibility?",
+        "options": [
+          "1 kHz to 4 kHz",
+          "50 Hz to 200 Hz",
+          "10 kHz to 20 kHz"
+        ],
+        "answer": "1 kHz to 4 kHz"
+      },
+      {
+        "question": "Typical bat echolocation frequencies often fall in which range?",
+        "options": [
+          "20 kHz to 200 kHz",
+          "1 Hz to 10 Hz",
+          "1 kHz to 4 kHz"
+        ],
+        "answer": "20 kHz to 200 kHz"
+      },
+      {
+        "question": "Which filter type preserves low frequencies while attenuating high frequencies?",
+        "options": [
+          "Low-pass filter",
+          "High-pass filter",
+          "Band-stop filter"
+        ],
+        "answer": "Low-pass filter"
+      },
+      {
+        "question": "What reference sound pressure corresponds to 0 dB SPL?",
+        "options": [
+          "20 micropascals",
+          "1 pascal",
+          "100 pascals"
+        ],
+        "answer": "20 micropascals"
+      },
+      {
+        "question": "What acoustic metric measures time for a room to decay by 60 dB?",
+        "options": [
+          "RT60",
+          "SPL60",
+          "Q-factor"
+        ],
+        "answer": "RT60"
+      },
+      {
+        "question": "Which term describes frequency peaks caused by a room's dimensions?",
+        "options": [
+          "Room modes",
+          "Transient peaks",
+          "White noise"
+        ],
+        "answer": "Room modes"
+      },
+      {
+        "question": "Which instrument displays a real-time frequency spectrum using FFT?",
+        "options": [
+          "Spectrum analyzer",
+          "Tuning fork",
+          "Metronome"
+        ],
+        "answer": "Spectrum analyzer"
+      },
+      {
+        "question": "What principle underlies sonar distance measurement?",
+        "options": [
+          "Echo ranging",
+          "Magnetic induction",
+          "Optical triangulation"
+        ],
+        "answer": "Echo ranging"
+      },
+      {
+        "question": "Which tuning system uses exact integer frequency ratios for intervals?",
+        "options": [
+          "Just intonation",
+          "Equal temperament",
+          "12-tone serialism"
+        ],
+        "answer": "Just intonation"
+      },
+      {
+        "question": "Which material transmits sound fastest among air, water, and steel?",
+        "options": [
+          "Steel",
+          "Water",
+          "Air"
+        ],
+        "answer": "Steel"
+      },
+      {
+        "question": "What psychoacoustic effect reduces perception of some sounds in presence of others?",
+        "options": [
+          "Masking",
+          "Hysteresis",
+          "Alias"
+        ],
+        "answer": "Masking"
+      },
+      {
+        "question": "What physical process causes cleaning in ultrasonic baths?",
+        "options": [
+          "Cavitation",
+          "Ionization",
+          "Magnetization"
+        ],
+        "answer": "Cavitation"
+      },
+      {
+        "question": "Which vocal technique emphasizes harmonic overtones by shaping resonances?",
+        "options": [
+          "Overtone singing",
+          "Bel canto",
+          "Whistling"
+        ],
+        "answer": "Overtone singing"
+      },
+      {
+        "question": "What method cancels unwanted sound by adding an inverted waveform?",
+        "options": [
+          "Destructive interference",
+          "Constructive interference",
+          "Reverberation"
+        ],
+        "answer": "Destructive interference"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What reference pressure defines 0 dB SPL in pascals?",
+        "options": [
+          "20 micropascals (20 µPa)",
+          "1 pascal (1 Pa)",
+          "100 micropascals (100 µPa)"
+        ],
+        "answer": "20 micropascals (20 µPa)"
+      },
+      {
+        "question": "Which term names the curves that map equal perceived loudness across frequency?",
+        "options": [
+          "Equal-loudness contours (Fletcher-Munson)",
+          "Harmonic envelopes",
+          "Spectral centroids"
+        ],
+        "answer": "Equal-loudness contours (Fletcher-Munson)"
+      },
+      {
+        "question": "Where along the basilar membrane do high frequencies produce peak vibration?",
+        "options": [
+          "At the base",
+          "At the apex",
+          "Throughout evenly"
+        ],
+        "answer": "At the base"
+      },
+      {
+        "question": "Which phenomenon causes misleading frequency components when sampling is insufficient?",
+        "options": [
+          "Aliasing",
+          "Quantization",
+          "Clipping"
+        ],
+        "answer": "Aliasing"
+      },
+      {
+        "question": "What quantity equals the product of medium density and sound speed?",
+        "options": [
+          "Acoustic characteristic impedance",
+          "Young's modulus",
+          "Specific heat"
+        ],
+        "answer": "Acoustic characteristic impedance"
+      },
+      {
+        "question": "What effect causes high-frequency sound to attenuate more over long atmospheric paths?",
+        "options": [
+          "Atmospheric absorption",
+          "Doppler shifting",
+          "Specular reflection"
+        ],
+        "answer": "Atmospheric absorption"
+      },
+      {
+        "question": "What determines spacing of harmonic partials for an ideal vibrating string?",
+        "options": [
+          "The fundamental frequency",
+          "The string color",
+          "Ambient humidity"
+        ],
+        "answer": "The fundamental frequency"
+      },
+      {
+        "question": "Which marine animal produces very low-frequency calls used for long-range communication?",
+        "options": [
+          "Blue whale",
+          "Dolphin",
+          "Clownfish"
+        ],
+        "answer": "Blue whale"
+      },
+      {
+        "question": "What is the approximate speed of sound in seawater near 20°C?",
+        "options": [
+          "1482 m/s",
+          "343 m/s",
+          "5000 m/s"
+        ],
+        "answer": "1482 m/s"
+      },
+      {
+        "question": "Which laboratory device measures normal-incidence absorption and impedance of materials?",
+        "options": [
+          "Impedance tube",
+          "Geiger counter",
+          "Spectrophotometer"
+        ],
+        "answer": "Impedance tube"
+      },
+      {
+        "question": "Which term describes resonance that forms when wavelength matches boundary constraints?",
+        "options": [
+          "Standing-wave resonance",
+          "Rayleigh scattering",
+          "Fresnel diffraction"
+        ],
+        "answer": "Standing-wave resonance"
+      },
+      {
+        "question": "Which mathematical transform underlies spectral analysis in acoustics?",
+        "options": [
+          "Fourier transform",
+          "Laplace transform",
+          "Z-transform"
+        ],
+        "answer": "Fourier transform"
+      },
+      {
+        "question": "Which lossy audio codec exploits psychoacoustic masking to reduce file size?",
+        "options": [
+          "MP3",
+          "WAV",
+          "FLAC"
+        ],
+        "answer": "MP3"
+      },
+      {
+        "question": "Which decibel formula uses 20 times the base-10 log of a pressure ratio?",
+        "options": [
+          "Sound pressure level: 20 log10(p/p0)",
+          "Power level: 10 log10(P/P0)",
+          "Phase level: 5 log10(φ/φ0)"
+        ],
+        "answer": "Sound pressure level: 20 log10(p/p0)"
+      },
+      {
+        "question": "What term describes frequency-dependent phase velocity in a medium?",
+        "options": [
+          "Dispersion",
+          "Diffraction",
+          "Interference"
+        ],
+        "answer": "Dispersion"
+      },
+      {
+        "question": "Which formula estimates reverberation time using room volume and absorption?",
+        "options": [
+          "Sabine's formula",
+          "Bernoulli's equation",
+          "Hooke's law"
+        ],
+        "answer": "Sabine's formula"
+      },
+      {
+        "question": "What acoustic phenomenon yields beats equal to the frequency difference of two tones?",
+        "options": [
+          "Beat frequency",
+          "Harmonic distortion",
+          "Phase locking"
+        ],
+        "answer": "Beat frequency"
+      },
+      {
+        "question": "Which tube type produces primarily odd harmonics and quarter-wave resonances?",
+        "options": [
+          "Closed-open tube",
+          "Open-open tube",
+          "Closed-closed tube"
+        ],
+        "answer": "Closed-open tube"
+      },
+      {
+        "question": "Which microphone type uses piezoelectric effect to convert pressure into voltage?",
+        "options": [
+          "Piezoelectric microphone",
+          "Condenser microphone",
+          "Ribbon microphone"
+        ],
+        "answer": "Piezoelectric microphone"
+      },
+      {
+        "question": "Which weighting curve approximates human hearing sensitivity for environmental noise?",
+        "options": [
+          "A-weighting",
+          "Z-weighting",
+          "C-weighting"
+        ],
+        "answer": "A-weighting"
+      },
+      {
+        "question": "What parameter quantifies how directional a sound source radiates energy?",
+        "options": [
+          "Directivity index",
+          "Impedance",
+          "Wavelength"
+        ],
+        "answer": "Directivity index"
+      },
+      {
+        "question": "Which atmospheric effect bends sound rays due to temperature gradients?",
+        "options": [
+          "Atmospheric refraction",
+          "Thermal conduction",
+          "Magnetic refraction"
+        ],
+        "answer": "Atmospheric refraction"
+      },
+      {
+        "question": "Which laser-based technique measures surface vibration via Doppler frequency shift?",
+        "options": [
+          "Laser Doppler vibrometer",
+          "Optical coherence tomography",
+          "Raman spectroscopy"
+        ],
+        "answer": "Laser Doppler vibrometer"
+      },
+      {
+        "question": "Which deep-ocean channel traps sound for long-distance propagation?",
+        "options": [
+          "SOFAR channel",
+          "Thermocline channel",
+          "Halocline channel"
+        ],
+        "answer": "SOFAR channel"
+      },
+      {
+        "question": "What term describes permanent hearing degradation from excessive sound exposure?",
+        "options": [
+          "Noise-induced hearing loss",
+          "Presbycusis",
+          "Otitis media"
+        ],
+        "answer": "Noise-induced hearing loss"
+      },
+      {
+        "question": "Which fundamental equation models pressure variations for acoustic waves in fluids?",
+        "options": [
+          "Acoustic wave equation",
+          "Navier-Stokes momentum equation",
+          "Maxwell's equations"
+        ],
+        "answer": "Acoustic wave equation"
+      },
+      {
+        "question": "Which perceptual frequency scale better matches pitch sensation than linear Hertz?",
+        "options": [
+          "Mel scale",
+          "Decibel scale",
+          "Logarithmic frequency"
+        ],
+        "answer": "Mel scale"
+      },
+      {
+        "question": "What acoustic feature forms vowel identity by resonant peaks in the vocal tract?",
+        "options": [
+          "Formants",
+          "Harmonics",
+          "Noise floor"
+        ],
+        "answer": "Formants"
+      },
+      {
+        "question": "Which facility measures total sound absorption using reverberation time changes?",
+        "options": [
+          "Reverberation chamber",
+          "Anechoic chamber",
+          "Clean room"
+        ],
+        "answer": "Reverberation chamber"
+      },
+      {
+        "question": "Acoustic intensity equals sound pressure squared divided by which property?",
+        "options": [
+          "Characteristic impedance (ρc)",
+          "Frequency (Hz)",
+          "Wavelength (m)"
+        ],
+        "answer": "Characteristic impedance (ρc)"
+      }
+    ]
+  }
+}

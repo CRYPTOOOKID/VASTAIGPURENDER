@@ -1,0 +1,991 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does a \"follower\" mean on social media platforms?",
+        "options": [
+          "Someone who subscribes to a profile",
+          "A paid advertiser for a profile",
+          "A platform moderator account"
+        ],
+        "answer": "Someone who subscribes to a profile"
+      },
+      {
+        "question": "What is a \"hashtag\" primarily used for?",
+        "options": [
+          "Grouping posts by topic",
+          "Blocking unwanted users",
+          "Scheduling posts automatically"
+        ],
+        "answer": "Grouping posts by topic"
+      },
+      {
+        "question": "Which platform introduced the Stories format popularized across apps?",
+        "options": [
+          "Snapchat",
+          "Instagram",
+          "Twitter"
+        ],
+        "answer": "Snapchat"
+      },
+      {
+        "question": "What is influencer marketing?",
+        "options": [
+          "Brands partnering with creators to reach audiences",
+          "A platform charging creators subscription fees",
+          "A type of platform moderation policy"
+        ],
+        "answer": "Brands partnering with creators to reach audiences"
+      },
+      {
+        "question": "Which action indicates immediate audience approval on many platforms?",
+        "options": [
+          "Liking a post",
+          "Reporting a post",
+          "Saving a draft"
+        ],
+        "answer": "Liking a post"
+      },
+      {
+        "question": "What is a direct message (DM) used for?",
+        "options": [
+          "Private communication between users",
+          "Public broadcasting to followers",
+          "Automatic comment filtering"
+        ],
+        "answer": "Private communication between users"
+      },
+      {
+        "question": "Who founded Facebook in 2004?",
+        "options": [
+          "Mark Zuckerberg",
+          "Evan Spiegel",
+          "Jack Dorsey"
+        ],
+        "answer": "Mark Zuckerberg"
+      },
+      {
+        "question": "Which platform is best known for short vertical video clips?",
+        "options": [
+          "TikTok",
+          "LinkedIn",
+          "Pinterest"
+        ],
+        "answer": "TikTok"
+      },
+      {
+        "question": "What does \"engagement\" measure on social media?",
+        "options": [
+          "Interactions like likes, comments, and shares",
+          "The number of account logins per day",
+          "The age of the account"
+        ],
+        "answer": "Interactions like likes, comments, and shares"
+      },
+      {
+        "question": "What is a \"sponsored post\"?",
+        "options": [
+          "Content paid for or promoted by a brand",
+          "A post pinned by platform moderators",
+          "A post visible only to new followers"
+        ],
+        "answer": "Content paid for or promoted by a brand"
+      },
+      {
+        "question": "Which platform started as a microblogging service with 280-character posts?",
+        "options": [
+          "Twitter",
+          "YouTube",
+          "Instagram"
+        ],
+        "answer": "Twitter"
+      },
+      {
+        "question": "What is a \"call to action\" (CTA) in influencer posts?",
+        "options": [
+          "Requesting audience to act, like visit or buy",
+          "An automated reply from the platform",
+          "A privacy setting for followers"
+        ],
+        "answer": "Requesting audience to act, like visit or buy"
+      },
+      {
+        "question": "What does \"reach\" refer to in social analytics?",
+        "options": [
+          "Number of unique users who saw content",
+          "Total time spent editing a post",
+          "Number of images in a post"
+        ],
+        "answer": "Number of unique users who saw content"
+      },
+      {
+        "question": "Which social network is primarily career-focused and professional?",
+        "options": [
+          "LinkedIn",
+          "Snapchat",
+          "Reddit"
+        ],
+        "answer": "LinkedIn"
+      },
+      {
+        "question": "What is a \"micro-influencer\" typically defined by?",
+        "options": [
+          "Smaller following with high niche engagement",
+          "A celebrity with millions of followers",
+          "A platform employee who promotes brands"
+        ],
+        "answer": "Smaller following with high niche engagement"
+      },
+      {
+        "question": "What feature lets users save short video drafts before posting?",
+        "options": [
+          "Drafts",
+          "Watch Later",
+          "Pinned Collections"
+        ],
+        "answer": "Drafts"
+      },
+      {
+        "question": "Which platform is best known for long-form video content?",
+        "options": [
+          "YouTube",
+          "X (formerly Twitter)",
+          "Instagram Stories"
+        ],
+        "answer": "YouTube"
+      },
+      {
+        "question": "What is \"UGC\" in social marketing?",
+        "options": [
+          "User-generated content created by audiences",
+          "Unverified global channels on platforms",
+          "Universal goal conversion metric"
+        ],
+        "answer": "User-generated content created by audiences"
+      },
+      {
+        "question": "What role do hashtags play for influencers?",
+        "options": [
+          "Help new audiences discover content",
+          "Guarantee paid partnerships with brands",
+          "Increase follower verification speed"
+        ],
+        "answer": "Help new audiences discover content"
+      },
+      {
+        "question": "Which platform popularized the vertical \"Reels\" format copying short videos?",
+        "options": [
+          "Instagram",
+          "Pinterest",
+          "LinkedIn"
+        ],
+        "answer": "Instagram"
+      },
+      {
+        "question": "What does \"verified\" status usually indicate on social platforms?",
+        "options": [
+          "Authentic identity of a notable account",
+          "An account with paid ads active",
+          "An account that uses two-factor authentication"
+        ],
+        "answer": "Authentic identity of a notable account"
+      },
+      {
+        "question": "Which common metric indicates followers interacting per post average?",
+        "options": [
+          "Engagement rate",
+          "Bounce rate",
+          "Churn rate"
+        ],
+        "answer": "Engagement rate"
+      },
+      {
+        "question": "What is an \"influencer\" primarily recognized for?",
+        "options": [
+          "Shaping audience opinions through content",
+          "Managing platform algorithms directly",
+          "Providing customer support for brands"
+        ],
+        "answer": "Shaping audience opinions through content"
+      },
+      {
+        "question": "Which platform focused originally on image sharing and filters?",
+        "options": [
+          "Instagram",
+          "Twitter",
+          "Reddit"
+        ],
+        "answer": "Instagram"
+      },
+      {
+        "question": "What does \"organic reach\" mean for posts?",
+        "options": [
+          "Audience reached without paid promotion",
+          "Reach achieved only through ads",
+          "Reach limited to verified users"
+        ],
+        "answer": "Audience reached without paid promotion"
+      },
+      {
+        "question": "Which metric helps compare creator performance across accounts?",
+        "options": [
+          "Engagement rate per follower",
+          "Number of drafts saved",
+          "Time of day posted"
+        ],
+        "answer": "Engagement rate per follower"
+      },
+      {
+        "question": "What is a \"brand ambassador\" in influencer marketing?",
+        "options": [
+          "Long-term creator representing a brand",
+          "A temporary moderator hired by a platform",
+          "A user who only comments on posts"
+        ],
+        "answer": "Long-term creator representing a brand"
+      },
+      {
+        "question": "Which platform launched in 2004 and changed social networking?",
+        "options": [
+          "Facebook",
+          "TikTok",
+          "Pinterest"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "What is \"social listening\" used for by brands?",
+        "options": [
+          "Monitoring online mentions and sentiment",
+          "Automatically buying ad space",
+          "Scheduling celebrity appearances"
+        ],
+        "answer": "Monitoring online mentions and sentiment"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which agency issues disclosure guidelines for influencer endorsements in the United States?",
+        "options": [
+          "Federal Trade Commission",
+          "Federal Communications Commission",
+          "Securities and Exchange Commission"
+        ],
+        "answer": "Federal Trade Commission"
+      },
+      {
+        "question": "What follower range commonly defines a micro-influencer in industry practice?",
+        "options": [
+          "10,000 to 100,000 followers",
+          "1,000,000 to 5,000,000 followers",
+          "100 to 1,000 followers"
+        ],
+        "answer": "10,000 to 100,000 followers"
+      },
+      {
+        "question": "Which platform launched a Creator Fund focused on creator payouts in 2020?",
+        "options": [
+          "TikTok",
+          "Instagram",
+          "Twitter"
+        ],
+        "answer": "TikTok"
+      },
+      {
+        "question": "What is the typical purpose of a brand's brief for an influencer campaign?",
+        "options": [
+          "Outline goals, deliverables, and messaging",
+          "Provide login credentials to brand accounts",
+          "List platform moderation rules only"
+        ],
+        "answer": "Outline goals, deliverables, and messaging"
+      },
+      {
+        "question": "Which campaign famously used influencers and went viral, spotlighting ALS research?",
+        "options": [
+          "Ice Bucket Challenge",
+          "Share a Coke",
+          "Dove Real Beauty"
+        ],
+        "answer": "Ice Bucket Challenge"
+      },
+      {
+        "question": "What does \"CPE\" commonly stand for in influencer ad metrics?",
+        "options": [
+          "Cost per engagement",
+          "Clicks per event",
+          "Content performance estimate"
+        ],
+        "answer": "Cost per engagement"
+      },
+      {
+        "question": "Which social analytics metric best tracks how many users clicked a link from a post?",
+        "options": [
+          "Click-through rate",
+          "View count",
+          "Follower growth"
+        ],
+        "answer": "Click-through rate"
+      },
+      {
+        "question": "Which platform introduced native shopping tags for influencers to tag products?",
+        "options": [
+          "Instagram",
+          "Snapchat",
+          "Reddit"
+        ],
+        "answer": "Instagram"
+      },
+      {
+        "question": "What is \"affiliate marketing\" for influencers?",
+        "options": [
+          "Earning commission from tracked sales via links",
+          "A flat fee paid per sponsored post",
+          "Exclusive long-term brand ambassadorship"
+        ],
+        "answer": "Earning commission from tracked sales via links"
+      },
+      {
+        "question": "Which influencer category focuses on ultra-niche audiences with 1,000-10,000 followers?",
+        "options": [
+          "Nano-influencer",
+          "Mega-influencer",
+          "Celebrity influencer"
+        ],
+        "answer": "Nano-influencer"
+      },
+      {
+        "question": "What is \"UGC campaign\" shorthand for in marketing terms?",
+        "options": [
+          "User-generated content campaign",
+          "Unlimited global content program",
+          "Unified growth and conversion plan"
+        ],
+        "answer": "User-generated content campaign"
+      },
+      {
+        "question": "Which platform's algorithm was originally known as EdgeRank?",
+        "options": [
+          "Facebook",
+          "Instagram",
+          "YouTube"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Which tool type helps identify trending topics and influencers in real time?",
+        "options": [
+          "Social listening platforms",
+          "Photo editing apps",
+          "Ad-blocking extensions"
+        ],
+        "answer": "Social listening platforms"
+      },
+      {
+        "question": "What does \"reach frequency\" measure in a campaign?",
+        "options": [
+          "How often the same users see content",
+          "Total number of creatives produced",
+          "Number of influencer contracts signed"
+        ],
+        "answer": "How often the same users see content"
+      },
+      {
+        "question": "Which platform acquired influencer marketplace FameBit in 2016?",
+        "options": [
+          "YouTube",
+          "Instagram",
+          "Pinterest"
+        ],
+        "answer": "YouTube"
+      },
+      {
+        "question": "What is a common KPI for awareness-focused influencer campaigns?",
+        "options": [
+          "Impressions and reach",
+          "Average order value",
+          "Customer lifetime value"
+        ],
+        "answer": "Impressions and reach"
+      },
+      {
+        "question": "Which content format tends to generate highest organic engagement for influencers?",
+        "options": [
+          "Short-form video",
+          "Long text captions",
+          "Static PDFs"
+        ],
+        "answer": "Short-form video"
+      },
+      {
+        "question": "Which platform first popularized \"influencer live shopping\" at scale?",
+        "options": [
+          "Taobao (China)",
+          "Twitter",
+          "Flickr"
+        ],
+        "answer": "Taobao (China)"
+      },
+      {
+        "question": "What does a \"brand safety\" check aim to prevent in influencer content?",
+        "options": [
+          "Association with harmful or inappropriate content",
+          "Using too many hashtags",
+          "Posting at non-peak hours"
+        ],
+        "answer": "Association with harmful or inappropriate content"
+      },
+      {
+        "question": "Which metric helps compare sponsored post performance across creators of different sizes?",
+        "options": [
+          "Engagement rate",
+          "Total follower count",
+          "Account age"
+        ],
+        "answer": "Engagement rate"
+      },
+      {
+        "question": "Which platform uses \"Pins\" as its primary content unit?",
+        "options": [
+          "Pinterest",
+          "Instagram",
+          "Snapchat"
+        ],
+        "answer": "Pinterest"
+      },
+      {
+        "question": "What legal issue rose from influencer promotion of the 2017 Fyre Festival?",
+        "options": [
+          "Failure to disclose paid promotions and misrepresentation",
+          "Trademark infringement claims only",
+          "Copyright disputes over music licensing"
+        ],
+        "answer": "Failure to disclose paid promotions and misrepresentation"
+      },
+      {
+        "question": "Which short-video feature did Instagram add explicitly to compete with TikTok?",
+        "options": [
+          "Reels",
+          "Fleets",
+          "Spaces"
+        ],
+        "answer": "Reels"
+      },
+      {
+        "question": "Which analytics metric indicates how often a post inspires direct responses like comments?",
+        "options": [
+          "Engagement actions per post",
+          "Average video length",
+          "Number of scheduled posts"
+        ],
+        "answer": "Engagement actions per post"
+      },
+      {
+        "question": "What is an \"earned media\" outcome from influencer activity?",
+        "options": [
+          "Unpaid organic coverage generated by influencers",
+          "Paid sponsorship placements",
+          "Internal newsletter mentions only"
+        ],
+        "answer": "Unpaid organic coverage generated by influencers"
+      },
+      {
+        "question": "Which format do many platforms prioritize algorithmically for higher distribution?",
+        "options": [
+          "Video content",
+          "Plain text posts",
+          "Spreadsheet uploads"
+        ],
+        "answer": "Video content"
+      },
+      {
+        "question": "Which metric helps brands estimate cost efficiency of influencer ads?",
+        "options": [
+          "Cost per mille (CPM)",
+          "Number of profile pictures",
+          "Number of account admins"
+        ],
+        "answer": "Cost per mille (CPM)"
+      },
+      {
+        "question": "Which social network introduced \"Pins\" and visual discovery in 2010?",
+        "options": [
+          "Pinterest",
+          "Tumblr",
+          "Flickr"
+        ],
+        "answer": "Pinterest"
+      },
+      {
+        "question": "What is a common contract deliverable for influencers?",
+        "options": [
+          "Number and type of posts with posting dates",
+          "Exclusive ownership of brand trademarks",
+          "Platform algorithm source code"
+        ],
+        "answer": "Number and type of posts with posting dates"
+      },
+      {
+        "question": "Which metric helps measure influencer-driven sales from unique URLs?",
+        "options": [
+          "Conversion tracking via UTM parameters",
+          "Total follower count",
+          "Post caption length"
+        ],
+        "answer": "Conversion tracking via UTM parameters"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which year did YouTube acquire influencer marketplace FameBit?",
+        "options": [
+          "2016",
+          "2014",
+          "2018"
+        ],
+        "answer": "2016"
+      },
+      {
+        "question": "Which algorithm concept did Facebook originally use to rank posts?",
+        "options": [
+          "EdgeRank",
+          "RankBoost",
+          "SignalSort"
+        ],
+        "answer": "EdgeRank"
+      },
+      {
+        "question": "Which influencer scandal highlighted nondisclosure issues in 2017 festival promotions?",
+        "options": [
+          "Fyre Festival promotions",
+          "Cambridge Analytica influencer tie-in",
+          "Samsung Galaxy leak"
+        ],
+        "answer": "Fyre Festival promotions"
+      },
+      {
+        "question": "Which Asian platform popularized livestream commerce before western adoption?",
+        "options": [
+          "Taobao Live",
+          "Weibo Live",
+          "Line Live"
+        ],
+        "answer": "Taobao Live"
+      },
+      {
+        "question": "Which tool type uses lookalike modeling to find new audiences for influencer creators?",
+        "options": [
+          "Audience expansion platforms",
+          "Image editing suites",
+          "Content calendars"
+        ],
+        "answer": "Audience expansion platforms"
+      },
+      {
+        "question": "Which year did Instagram introduce algorithmic feed ranking replacing chronological order?",
+        "options": [
+          "2016",
+          "2012",
+          "2019"
+        ],
+        "answer": "2016"
+      },
+      {
+        "question": "Which analytics approach attributes conversions across multiple influencer touchpoints?",
+        "options": [
+          "Multi-touch attribution",
+          "Single-source attribution",
+          "Creative-only attribution"
+        ],
+        "answer": "Multi-touch attribution"
+      },
+      {
+        "question": "Which metric is most useful to compare virality independent of audience size?",
+        "options": [
+          "Share rate (shares per view)",
+          "Total impressions",
+          "Account creation date"
+        ],
+        "answer": "Share rate (shares per view)"
+      },
+      {
+        "question": "Which company acquired influencer marketing platform Influential in 2018?",
+        "options": [
+          "NegociosOnline (Acquired by M&C Saatchi?)",
+          "Acquisition details varied publicly",
+          "Facebook"
+        ],
+        "answer": "Acquisition details varied publicly"
+      },
+      {
+        "question": "Which global regulation most directly affects cross-border data use in influencer platforms?",
+        "options": [
+          "GDPR",
+          "DMCA",
+          "CAN-SPAM Act"
+        ],
+        "answer": "GDPR"
+      },
+      {
+        "question": "What practice did the FTC emphasize in its 2017-2020 influencer guidance updates?",
+        "options": [
+          "Clear and conspicuous disclosure of paid relationships",
+          "Increasing post frequency for visibility",
+          "Using shortened links to hide sponsorships"
+        ],
+        "answer": "Clear and conspicuous disclosure of paid relationships"
+      },
+      {
+        "question": "Which company introduced the first native social-platform shopping checkout experience?",
+        "options": [
+          "Instagram Checkout",
+          "Twitter Buy Button",
+          "YouTube Merchandise Shelf"
+        ],
+        "answer": "Instagram Checkout"
+      },
+      {
+        "question": "Which metric combination best estimates long-term influencer audience quality?",
+        "options": [
+          "Engagement consistency and retention rates",
+          "Number of sponsored posts and post length",
+          "Account bio length and profile picture quality"
+        ],
+        "answer": "Engagement consistency and retention rates"
+      },
+      {
+        "question": "Which platform's verification initially depended heavily on celebrity status and press coverage?",
+        "options": [
+          "Twitter",
+          "Pinterest",
+          "YouTube"
+        ],
+        "answer": "Twitter"
+      },
+      {
+        "question": "Which 2014 viral movement showcased grassroots social sharing and influencer amplification?",
+        "options": [
+          "Ice Bucket Challenge",
+          "Planking",
+          "Harlem Shake"
+        ],
+        "answer": "Ice Bucket Challenge"
+      },
+      {
+        "question": "Which advertising format did Snapchat pioneer for vertical mobile-first viewing?",
+        "options": [
+          "Vertical video ads",
+          "Interstitial desktop banners",
+          "Text-only promoted tweets"
+        ],
+        "answer": "Vertical video ads"
+      },
+      {
+        "question": "Which metric do platforms often use to detect inauthentic influencer behavior?",
+        "options": [
+          "Sudden spikes in follower acquisition patterns",
+          "High-resolution profile photo usage",
+          "Long biography text"
+        ],
+        "answer": "Sudden spikes in follower acquisition patterns"
+      },
+      {
+        "question": "Which influencer platform was an early marketplace connecting brands to YouTube creators?",
+        "options": [
+          "FameBit",
+          "Shopify Collabs",
+          "Vine"
+        ],
+        "answer": "FameBit"
+      },
+      {
+        "question": "Which year did TikTok merge global markets after ByteDance acquired Musical.ly?",
+        "options": [
+          "2018",
+          "2015",
+          "2020"
+        ],
+        "answer": "2018"
+      },
+      {
+        "question": "Which practice helps brands limit influencer fraud risk during selection?",
+        "options": [
+          "Third-party audience audits",
+          "Offering higher flat fees immediately",
+          "Contracting without background checks"
+        ],
+        "answer": "Third-party audience audits"
+      },
+      {
+        "question": "Which platform introduced the Partner Program paying creators ad revenue share in 2007?",
+        "options": [
+          "YouTube",
+          "Instagram",
+          "Twitter"
+        ],
+        "answer": "YouTube"
+      },
+      {
+        "question": "Which concept describes influencer value beyond immediate sales, like trust and awareness?",
+        "options": [
+          "Brand equity",
+          "Click fraud",
+          "Ad fatigue"
+        ],
+        "answer": "Brand equity"
+      },
+      {
+        "question": "Which analytics signal indicates an influencer's audience is highly niche and engaged?",
+        "options": [
+          "High comment-to-follower ratio",
+          "Low post frequency",
+          "Short bio length"
+        ],
+        "answer": "High comment-to-follower ratio"
+      },
+      {
+        "question": "Which U.S. legal concept has been applied when influencers misrepresent product experiences?",
+        "options": [
+          "False advertising liability",
+          "Bankruptcy protection",
+          "Trademark dilution"
+        ],
+        "answer": "False advertising liability"
+      },
+      {
+        "question": "Which platform feature allows creators to earn recurring subscriber revenue natively?",
+        "options": [
+          "Memberships or subscriptions",
+          "Saved drafts",
+          "Pin-to-top"
+        ],
+        "answer": "Memberships or subscriptions"
+      },
+      {
+        "question": "Which social network introduced the blue verification badge concept widely copied elsewhere?",
+        "options": [
+          "Twitter",
+          "Snapchat",
+          "Pinterest"
+        ],
+        "answer": "Twitter"
+      },
+      {
+        "question": "Which measurement helps determine influencer ROI when tracking affiliate links?",
+        "options": [
+          "Attributable revenue per unique link",
+          "Profile picture resolution",
+          "Hashtag count per post"
+        ],
+        "answer": "Attributable revenue per unique link"
+      },
+      {
+        "question": "Which influencer-focused scandal led to increased platform enforcement around 2018-2020?",
+        "options": [
+          "Undisclosed paid partnerships and fake followers",
+          "High editorial budgets at small publishers",
+          "Excessive use of hashtags"
+        ],
+        "answer": "Undisclosed paid partnerships and fake followers"
+      },
+      {
+        "question": "Which platform launched a $200 million creator fund for YouTube Shorts in 2021?",
+        "options": [
+          "YouTube",
+          "Instagram",
+          "Twitter"
+        ],
+        "answer": "YouTube"
+      },
+      {
+        "question": "Which practice increases authenticity when influencers disclose sponsorships effectively?",
+        "options": [
+          "Using clear disclosure language near content",
+          "Hiding disclosure in a long bio",
+          "Embedding disclosure in an external link only"
+        ],
+        "answer": "Using clear disclosure language near content"
+      },
+      {
+        "question": "Which metric is most useful to evaluate long-term influencer audience growth quality?",
+        "options": [
+          "Follower retention and steady engagement trends",
+          "Total number of hashtags used historically",
+          "Frequency of changing profile pictures"
+        ],
+        "answer": "Follower retention and steady engagement trends"
+      },
+      {
+        "question": "Which platform feature lets creators sell digital goods or courses directly to followers?",
+        "options": [
+          "Creator storefronts or in-app digital sales",
+          "Pinned comments",
+          "Platform friend lists"
+        ],
+        "answer": "Creator storefronts or in-app digital sales"
+      },
+      {
+        "question": "Which country had early large-scale influencer commerce practices shaping global trends?",
+        "options": [
+          "China",
+          "Canada",
+          "Iceland"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which AI-driven technique helps brands match micro-influencers to campaign audiences?",
+        "options": [
+          "Natural language processing audience profiling",
+          "Manual spreadsheet matching",
+          "Random selection by follower count"
+        ],
+        "answer": "Natural language processing audience profiling"
+      },
+      {
+        "question": "Which ad product helps brands target users similar to a creator's followers?",
+        "options": [
+          "Lookalike audiences",
+          "Contextual keyword ads",
+          "Organic reach boosters"
+        ],
+        "answer": "Lookalike audiences"
+      },
+      {
+        "question": "Which milestone did TikTok achieve by 2019 in global downloads?",
+        "options": [
+          "Became among the most downloaded apps globally",
+          "Launched desktop-only features",
+          "Stopped all advertising globally"
+        ],
+        "answer": "Became among the most downloaded apps globally"
+      },
+      {
+        "question": "Which measurement helps spot purchased engagement versus real interactions?",
+        "options": [
+          "Low comment variety and repetitive usernames",
+          "High caption word count",
+          "Frequent use of platform templates"
+        ],
+        "answer": "Low comment variety and repetitive usernames"
+      },
+      {
+        "question": "Which influencer monetization model shares ad revenue directly with creators?",
+        "options": [
+          "Platform partner programs",
+          "One-off gifted products only",
+          "Manual barter agreements"
+        ],
+        "answer": "Platform partner programs"
+      },
+      {
+        "question": "Which creative element tends to improve short-video completion rates?",
+        "options": [
+          "Strong hook in the first seconds",
+          "Long unedited intros",
+          "Blank frames at the start"
+        ],
+        "answer": "Strong hook in the first seconds"
+      },
+      {
+        "question": "Which verification action do brands use to ensure creator analytics authenticity?",
+        "options": [
+          "Requesting platform-native analytics screenshots",
+          "Checking number of profile pictures",
+          "Reading only public captions"
+        ],
+        "answer": "Requesting platform-native analytics screenshots"
+      },
+      {
+        "question": "Which global event accelerated influencer livestream shopping adoption in multiple markets?",
+        "options": [
+          "The COVID-19 pandemic",
+          "The 2016 Olympic Games",
+          "The 2010 World Cup"
+        ],
+        "answer": "The COVID-19 pandemic"
+      },
+      {
+        "question": "Which content moderation risk do brands assess when partnering with creators?",
+        "options": [
+          "Creator history of policy violations or controversial statements",
+          "Number of fonts used in posts",
+          "Average post file size"
+        ],
+        "answer": "Creator history of policy violations or controversial statements"
+      },
+      {
+        "question": "Which platform native analytics insight helps measure story-level performance?",
+        "options": [
+          "Story completion and tap-forward rates",
+          "Total number of uploaded profile videos",
+          "Number of saved drafts"
+        ],
+        "answer": "Story completion and tap-forward rates"
+      },
+      {
+        "question": "Which influencer marketing tactic focuses on recurring, long-term collaboration?",
+        "options": [
+          "Brand ambassadorships",
+          "One-off sponsored posts",
+          "Random content seeding"
+        ],
+        "answer": "Brand ambassadorships"
+      },
+      {
+        "question": "Which strategy helps scale influencer programs while maintaining authenticity?",
+        "options": [
+          "Leveraging micro-influencers with shared brand values",
+          "Replacing influencers with only paid ads",
+          "Using identical captions across creators"
+        ],
+        "answer": "Leveraging micro-influencers with shared brand values"
+      },
+      {
+        "question": "Which approach reduces attribution leakage when tracking influencer-driven sales?",
+        "options": [
+          "Using unique coupon codes and tracked links",
+          "Posting identical links across all creators",
+          "Relying on manual reconciliation of screenshots"
+        ],
+        "answer": "Using unique coupon codes and tracked links"
+      },
+      {
+        "question": "Which advanced fraud indicator flags when followers concentrate in suspicious geographies?",
+        "options": [
+          "Unusual follower geographic clustering",
+          "High-resolution profile pictures",
+          "Long comment threads"
+        ],
+        "answer": "Unusual follower geographic clustering"
+      },
+      {
+        "question": "Which executive decision often shifts a platform's creator monetization strategy?",
+        "options": [
+          "Launching a dedicated creator fund or revenue share program",
+          "Changing the platform logo color only",
+          "Removing the search bar permanently"
+        ],
+        "answer": "Launching a dedicated creator fund or revenue share program"
+      },
+      {
+        "question": "Which measurement represents the long-term benefit of influencer partnerships beyond immediate conversions?",
+        "options": [
+          "Brand lift and sentiment improvement",
+          "Number of drafts saved by creators",
+          "Total hashtags used in a month"
+        ],
+        "answer": "Brand lift and sentiment improvement"
+      },
+      {
+        "question": "Which verification practice supports compliance with disclosure regulations?",
+        "options": [
+          "Including clear sponsorship labels in post copy",
+          "Hiding sponsorship details in comments only",
+          "Using only emoji to indicate partnership"
+        ],
+        "answer": "Including clear sponsorship labels in post copy"
+      }
+    ]
+  }
+}

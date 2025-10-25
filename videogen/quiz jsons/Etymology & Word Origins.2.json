@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "The casual farewell 'goodbye' is a contraction of which original phrase?",
+      "options": [
+        "Go with God",
+        "Good be with you",
+        "God be with ye"
+      ],
+      "answer": "God be with ye"
+    },
+    {
+      "question_id": 2,
+      "question": "Which English word comes from French 'restaurer', originally meaning to restore?",
+      "options": [
+        "Restraint",
+        "Restoration",
+        "Restaurant"
+      ],
+      "answer": "Restaurant"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Greek root meaning 'write' is found in words like 'graph' and 'telegram'?",
+      "options": [
+        "Script-",
+        "Lex-",
+        "Graph-"
+      ],
+      "answer": "Graph-"
+    },
+    {
+      "question_id": 4,
+      "question": "Which everyday English noun comes from Latin 'animal' meaning a living being?",
+      "options": [
+        "Animate",
+        "Animus",
+        "Animal"
+      ],
+      "answer": "Animal"
+    },
+    {
+      "question_id": 5,
+      "question": "Which month name in English derives from the Roman god Janus?",
+      "options": [
+        "March",
+        "June",
+        "January"
+      ],
+      "answer": "January"
+    },
+    {
+      "question_id": 6,
+      "question": "During which centuries did scholars place the main period of the Great Vowel Shift?",
+      "options": [
+        "15th to 18th centuries",
+        "19th to 20th centuries",
+        "10th to 12th centuries"
+      ],
+      "answer": "15th to 18th centuries"
+    },
+    {
+      "question_id": 7,
+      "question": "Which French loanword meaning 'again' is used in performance contexts?",
+      "options": [
+        "Encorely",
+        "Encore",
+        "Encourage"
+      ],
+      "answer": "Encore"
+    },
+    {
+      "question_id": 8,
+      "question": "Which English pejorative derives from Latin 'villa' and evolved socially to 'villain'?",
+      "options": [
+        "Village",
+        "Villa",
+        "Villain"
+      ],
+      "answer": "Villain"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 18th-century jurist's observation first sparked comparative Indo-European studies?",
+      "options": [
+        "Jacob Grimm",
+        "Sir William Jones",
+        "Rasmus Rask"
+      ],
+      "answer": "Sir William Jones"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two Greek letters form the word 'alphabet'?",
+      "options": [
+        "Beta and Gamma",
+        "Alpha and Beta",
+        "Alpha and Gamma"
+      ],
+      "answer": "Alpha and Beta"
+    },
+    {
+      "question_id": 11,
+      "question": "Which language explains why everyday 'egg' and scientific 'ovum' coexist in English?",
+      "options": [
+        "Old French and Greek",
+        "Old Norse and Latin",
+        "Old English and Sanskrit"
+      ],
+      "answer": "Old Norse and Latin"
+    },
+    {
+      "question_id": 12,
+      "question": "Which bilingual artifact enabled decipherment of Egyptian hieroglyphs and aided linguistic comparisons?",
+      "options": [
+        "Dead Sea Scrolls",
+        "Rosetta Stone",
+        "Behistun Inscription"
+      ],
+      "answer": "Rosetta Stone"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Latin word gave rise to English 'candidate', referring to a bright white toga?",
+      "options": [
+        "cantare",
+        "candidatus",
+        "candela"
+      ],
+      "answer": "candidatus"
+    },
+    {
+      "question_id": 14,
+      "question": "Which historical sound change is known for transforming PIE stops into Germanic fricatives?",
+      "options": [
+        "Grimm's law",
+        "Umlaut",
+        "Palatalization"
+      ],
+      "answer": "Grimm's law"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Latin noun meaning 'finger' produced English 'digit' and related terms?",
+      "options": [
+        "dextrum",
+        "digitum",
+        "digitus"
+      ],
+      "answer": "digitus"
+    }
+  ]
+}

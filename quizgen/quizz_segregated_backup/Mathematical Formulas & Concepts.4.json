@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does '√' denote in mathematics?",
+      "options": [
+        "square root",
+        "summation",
+        "integral"
+      ],
+      "answer": "square root"
+    },
+    {
+      "question_id": 2,
+      "question": "Which rule gives derivative of product f·g?",
+      "options": [
+        "f' g + f g'",
+        "f' g' ",
+        "(fg)' = f g"
+      ],
+      "answer": "f' g + f g'"
+    },
+    {
+      "question_id": 3,
+      "question": "Which transform converts convolution in time domain to multiplication in frequency domain?",
+      "options": [
+        "Fourier transform",
+        "Laplace transform",
+        "Mellin transform"
+      ],
+      "answer": "Fourier transform"
+    },
+    {
+      "question_id": 4,
+      "question": "What is Euler's famous formula connecting e, i, and pi in its simplest form?",
+      "options": [
+        "e^{iπ} + 1 = 0",
+        "e^π = π^e",
+        "e^{i} = π"
+      ],
+      "answer": "e^{iπ} + 1 = 0"
+    },
+    {
+      "question_id": 5,
+      "question": "What is Euler's totient function φ(n) counting?",
+      "options": [
+        "integers ≤ n coprime with n",
+        "prime factors of n",
+        "divisors of n"
+      ],
+      "answer": "integers ≤ n coprime with n"
+    },
+    {
+      "question_id": 6,
+      "question": "Which formula calculates eigenvalues of 2×2 matrix [[a,b],[c,d]]?",
+      "options": [
+        "(a+d ± √((a-d)^2+4bc))/2",
+        "(a ± d)/2",
+        "ad-bc"
+      ],
+      "answer": "(a+d ± √((a-d)^2+4bc))/2"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'c' represent in the quadratic formula denominator 2a?",
+      "options": [
+        "constant term in ax^2+bx+c",
+        "coefficient of x",
+        "vertex x-coordinate"
+      ],
+      "answer": "constant term in ax^2+bx+c"
+    },
+    {
+      "question_id": 8,
+      "question": "Which formula relates work W to force F and displacement s at angle θ?",
+      "options": [
+        "W = F s cosθ",
+        "W = F + s",
+        "W = Fs sinθ"
+      ],
+      "answer": "W = F s cosθ"
+    },
+    {
+      "question_id": 9,
+      "question": "Which criterion identifies conditional convergence of alternating series?",
+      "options": [
+        "Leibniz criterion",
+        "Ratio test",
+        "Integral test"
+      ],
+      "answer": "Leibniz criterion"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'det' denote in matrix operations?",
+      "options": [
+        "determinant",
+        "distance",
+        "derivative"
+      ],
+      "answer": "determinant"
+    },
+    {
+      "question_id": 11,
+      "question": "Which formula gives the binomial expansion term general form?",
+      "options": [
+        "C(n,k) a^{n-k} b^k",
+        "n!/(n-k)! a^k b^{n-k}",
+        "a^n + b^n"
+      ],
+      "answer": "C(n,k) a^{n-k} b^k"
+    },
+    {
+      "question_id": 12,
+      "question": "Which expression defines the Legendre transform of function f(x)?",
+      "options": [
+        "f^*(p) = sup_x (px - f(x))",
+        "f^*(p) = ∫ f(x) dx",
+        "f^*(p) = f''(x)"
+      ],
+      "answer": "f^*(p) = sup_x (px - f(x))"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the formula for the area of a circle?",
+      "options": [
+        "πr^2",
+        "2πr",
+        "πd"
+      ],
+      "answer": "πr^2"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the divergence theorem also known as Gauss's theorem relating?",
+      "options": [
+        "flux through surface to volume divergence",
+        "curl to line integral",
+        "area to perimeter"
+      ],
+      "answer": "flux through surface to volume divergence"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formula gives Stirling's approximation for n! leading term?",
+      "options": [
+        "√(2πn)(n/e)^n",
+        "n^n e^{-n}",
+        "n! ≈ n^2"
+      ],
+      "answer": "√(2πn)(n/e)^n"
+    }
+  ]
+}

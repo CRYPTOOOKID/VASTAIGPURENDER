@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the main purpose of product reviews on a store page?",
+      "options": [
+        "Provide social proof and inform purchase decisions",
+        "Encrypt customer payment details",
+        "Manage supplier invoices"
+      ],
+      "answer": "Provide social proof and inform purchase decisions"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'fulfillment by Amazon (FBA)' primarily?",
+      "options": [
+        "A marketing agency for Amazon listings",
+        "A payment service for Amazon sellers",
+        "Amazon stores, packs, and ships sellers' products"
+      ],
+      "answer": "Amazon stores, packs, and ships sellers' products"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the 'take rate' in marketplace economics?",
+      "options": [
+        "The average time sellers take to ship an item",
+        "The proportion of inventory that returns to stock",
+        "The percentage of transaction value retained by the marketplace"
+      ],
+      "answer": "The percentage of transaction value retained by the marketplace"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes selling digital goods like e-books or software?",
+      "options": [
+        "Wholesale commerce",
+        "Brick-and-mortar commerce",
+        "Digital commerce"
+      ],
+      "answer": "Digital commerce"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'multitenant SaaS' mean for e-commerce platforms?",
+      "options": [
+        "Each merchant runs their own on-premise server",
+        "Merchants sell only one product type",
+        "Multiple merchants share the same hosted software instance"
+      ],
+      "answer": "Multiple merchants share the same hosted software instance"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'schema-driven commerce' benefit for rapid product launches?",
+      "options": [
+        "Standardized data models speed up integration across channels",
+        "Automatically reduces shipping times",
+        "Eliminates need for payment gateways"
+      ],
+      "answer": "Standardized data models speed up integration across channels"
+    },
+    {
+      "question_id": 7,
+      "question": "Which platform is a popular open-source e-commerce solution?",
+      "options": [
+        "QuickBooks",
+        "YouTube",
+        "Magento"
+      ],
+      "answer": "Magento"
+    },
+    {
+      "question_id": 8,
+      "question": "Which platform began as open-source e-commerce software acquired into Adobe Commerce?",
+      "options": [
+        "Squarespace",
+        "BigCommerce",
+        "Magento"
+      ],
+      "answer": "Magento"
+    },
+    {
+      "question_id": 9,
+      "question": "Which modeling approach estimates customer lifetime value best for cohort-based retention?",
+      "options": [
+        "Simple average of last three purchases",
+        "Counting total newsletter signups",
+        "Probabilistic models like BG/NBD combined with Gamma-Gamma"
+      ],
+      "answer": "Probabilistic models like BG/NBD combined with Gamma-Gamma"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'return policy' define for online retailers?",
+      "options": [
+        "Warehouse stocking procedures",
+        "Conditions and timeline for product returns",
+        "Affiliate commission rules"
+      ],
+      "answer": "Conditions and timeline for product returns"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the primary purpose of A/B testing on product pages?",
+      "options": [
+        "Measure warehouse picking times",
+        "Automate tax calculations",
+        "Compare two variants to improve conversion metrics"
+      ],
+      "answer": "Compare two variants to improve conversion metrics"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'incrementality testing' in marketing measurement?",
+      "options": [
+        "Recording server latency for ad delivery",
+        "Tracking impressions across ad networks",
+        "Measuring causal lift by comparing exposed and holdout groups"
+      ],
+      "answer": "Measuring causal lift by comparing exposed and holdout groups"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'SSL' commonly used for on e-commerce sites?",
+      "options": [
+        "Managing product returns",
+        "Calculating shipping rates",
+        "Encrypting data between browser and server"
+      ],
+      "answer": "Encrypting data between browser and server"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the primary benefit of using a CDN for product images?",
+      "options": [
+        "Lowering product prices automatically",
+        "Faster image load times for global users",
+        "Increasing warehouse capacity"
+      ],
+      "answer": "Faster image load times for global users"
+    },
+    {
+      "question_id": 15,
+      "question": "What is 'negative churn' and why is it valuable for subscription business?",
+      "options": [
+        "When all customers cancel simultaneously",
+        "When churn is measured incorrectly",
+        "Net expansion revenue from existing customers exceeding losses"
+      ],
+      "answer": "Net expansion revenue from existing customers exceeding losses"
+    }
+  ]
+}

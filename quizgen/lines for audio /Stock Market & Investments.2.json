@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a stock in simple financial terms?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a market order's primary risk during volatile markets?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical property underlies the Black-Scholes assumption about return distributions?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a stock exchange?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'beta' commonly used to measure in investing?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which legal measure replaced the original uptick rule with an alternative in 2010?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does IPO stand for in investing?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company introduced the first widely known mutual fund in the modern era in 1924?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does implied volatility derive from in option markets?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a market index like the S&P 500?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which index did Standard & Poor's officially introduce in 1957?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which order type triggers a market order once a specified price is reached?"
+    },
+    {
+      "question_id": 13,
+      "question": "What characterizes a bull market?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metric expresses return relative to volatility as a risk-adjusted measure?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which entity is typically the buyer or seller of last resort during market stress for listed securities?"
+    }
+  ]
+}

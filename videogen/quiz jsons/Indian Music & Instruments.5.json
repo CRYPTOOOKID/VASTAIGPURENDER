@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which South Indian percussion instrument is double-headed and central to Carnatic music?",
+      "options": [
+        "Mridangam",
+        "Tabla",
+        "Dhol"
+      ],
+      "answer": "Mridangam"
+    },
+    {
+      "question_id": 2,
+      "question": "Which bowed instrument resembling a small sarangi is used in Sikh kirtan and classical music?",
+      "options": [
+        "Esraj",
+        "Dilruba",
+        "Violin"
+      ],
+      "answer": "Dilruba"
+    },
+    {
+      "question_id": 3,
+      "question": "Which ancient Indian treatise by Bharata Muni is the foundational text on music and dance?",
+      "options": [
+        "Sangeet Ratnakara",
+        "Natyadarpaṇa",
+        "Natya Shastra"
+      ],
+      "answer": "Natya Shastra"
+    },
+    {
+      "question_id": 4,
+      "question": "What are the solfa syllables used in Indian classical music notation?",
+      "options": [
+        "Sa Re Ga Ma Pa Dha Ni",
+        "Do Re Mi Fa Sol La Ti",
+        "Alpha Beta Gamma Delta"
+      ],
+      "answer": "Sa Re Ga Ma Pa Dha Ni"
+    },
+    {
+      "question_id": 5,
+      "question": "Which classical form uses a rhythmic mnemonic and improvisation tradition in Carnatic percussion?",
+      "options": [
+        "Bol",
+        "Konnakol",
+        "Tihai"
+      ],
+      "answer": "Konnakol"
+    },
+    {
+      "question_id": 6,
+      "question": "Which specific string category on the sitar vibrates sympathetically beneath the main strings?",
+      "options": [
+        "Chikari strings",
+        "Main played strings",
+        "Tarbs (sympathetic) strings"
+      ],
+      "answer": "Tarbs (sympathetic) strings"
+    },
+    {
+      "question_id": 7,
+      "question": "Which bowed folk instrument from Rajasthan uses a spike and is often decorative?",
+      "options": [
+        "Ravanhatta",
+        "Sitar",
+        "Sarod"
+      ],
+      "answer": "Ravanhatta"
+    },
+    {
+      "question_id": 8,
+      "question": "Which gharana is celebrated for its bold, ornamented vocal style including layakari and taans?",
+      "options": [
+        "Patiala",
+        "Dagar",
+        "Kirana"
+      ],
+      "answer": "Patiala"
+    },
+    {
+      "question_id": 9,
+      "question": "Which structural element names the fixed composition in a dhrupad performance before improvisation begins?",
+      "options": [
+        "Tarana",
+        "Bandish (or Sthayi)",
+        "Bhajan"
+      ],
+      "answer": "Bandish (or Sthayi)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which musical genre in India is primarily devotional and sung in temples or homes?",
+      "options": [
+        "Ghazal",
+        "Bhajan",
+        "Qawwali"
+      ],
+      "answer": "Bhajan"
+    },
+    {
+      "question_id": 11,
+      "question": "Which melodic drone string on a sitar is struck during fast concluding passages called jhala?",
+      "options": [
+        "Chikari",
+        "Bass",
+        "Sympathetic"
+      ],
+      "answer": "Chikari"
+    },
+    {
+      "question_id": 12,
+      "question": "Which stringed instrument uses a goat-skin overlay on a wooden soundboard and a metal fingerboard for slides?",
+      "options": [
+        "Sarod",
+        "Sitar",
+        "Veena"
+      ],
+      "answer": "Sarod"
+    },
+    {
+      "question_id": 13,
+      "question": "Which small frame drum appears in South Indian concerts and accompanies mridangam sometimes?",
+      "options": [
+        "Kanjira",
+        "Dholak",
+        "Tabla"
+      ],
+      "answer": "Kanjira"
+    },
+    {
+      "question_id": 14,
+      "question": "Which instrument uses a goat-skin or calf membrane and a hollow wooden body in South India?",
+      "options": [
+        "Tabla",
+        "Mridangam",
+        "Dhol"
+      ],
+      "answer": "Mridangam"
+    },
+    {
+      "question_id": 15,
+      "question": "Which instrument uses a heavy carved bridge and a curved fingernail plectrum called mizrab on one hand?",
+      "options": [
+        "Sarod",
+        "Sitar",
+        "Veena"
+      ],
+      "answer": "Sitar"
+    }
+  ]
+}

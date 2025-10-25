@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia describes fear of clowns?",
+      "options": [
+        "Hydrophobia",
+        "Agoraphobia",
+        "Coulrophobia"
+      ],
+      "answer": "Coulrophobia"
+    },
+    {
+      "question_id": 2,
+      "question": "Which type of exposure uses mental imagery to confront phobic stimuli?",
+      "options": [
+        "In vivo exposure",
+        "Imaginal exposure",
+        "Medication-assisted exposure"
+      ],
+      "answer": "Imaginal exposure"
+    },
+    {
+      "question_id": 3,
+      "question": "Which experimental model used conditioned stimuli to study fear acquisition relevant to phobias?",
+      "options": [
+        "Kinesthetic induction",
+        "Operant reinforcement only",
+        "Pavlovian classical conditioning"
+      ],
+      "answer": "Pavlovian classical conditioning"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia is fear of flying?",
+      "options": [
+        "Aerophobia",
+        "Hydrophobia",
+        "Thanatophobia"
+      ],
+      "answer": "Aerophobia"
+    },
+    {
+      "question_id": 5,
+      "question": "Which therapy uses gradual exposure to reduce phobic responses?",
+      "options": [
+        "Electroconvulsive therapy",
+        "Systematic desensitization",
+        "Psychoanalytic dream interpretation"
+      ],
+      "answer": "Systematic desensitization"
+    },
+    {
+      "question_id": 6,
+      "question": "Which assessment method records physiological reactivity during exposure to phobic stimuli?",
+      "options": [
+        "Psychophysiological measures (heart rate, skin conductance)",
+        "Projective inkblots only",
+        "Urine toxicology"
+      ],
+      "answer": "Psychophysiological measures (heart rate, skin conductance)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia describes fear of dentists or dental treatment?",
+      "options": [
+        "Sociofobia",
+        "Thanatophobia",
+        "Dentophobia"
+      ],
+      "answer": "Dentophobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which intervention uses simulated environments to help treat phobias?",
+      "options": [
+        "Acupuncture",
+        "Transcranial magnetic stimulation",
+        "Virtual reality exposure therapy"
+      ],
+      "answer": "Virtual reality exposure therapy"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia term originated as a humorous coinage referencing long words?",
+      "options": [
+        "Amaxophobia",
+        "Hippopotomonstrosesquipedaliophobia",
+        "Ombrophobia"
+      ],
+      "answer": "Hippopotomonstrosesquipedaliophobia"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'arachnophobia' mean?",
+      "options": [
+        "Fear of heights",
+        "Fear of enclosed spaces",
+        "Fear of spiders"
+      ],
+      "answer": "Fear of spiders"
+    },
+    {
+      "question_id": 11,
+      "question": "Which assessment often measures phobia severity in clinical settings?",
+      "options": [
+        "Fear assessment scales and diagnostic interviews",
+        "Bone density scan",
+        "Cholesterol blood test"
+      ],
+      "answer": "Fear assessment scales and diagnostic interviews"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare phobia names fear of beards specifically?",
+      "options": [
+        "Ablutophobia",
+        "Pogonophobia",
+        "Somnophobia"
+      ],
+      "answer": "Pogonophobia"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia describes fear of heights?",
+      "options": [
+        "Claustrophobia",
+        "Acrophobia",
+        "Nyctophobia"
+      ],
+      "answer": "Acrophobia"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia refers to fear of the color yellow?",
+      "options": [
+        "Cyanophobia",
+        "Xanthophobia",
+        "Melanophobia"
+      ],
+      "answer": "Xanthophobia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which research finding links genetic influence with individual differences in phobia vulnerability?",
+      "options": [
+        "Genetic influence only for phobias of food",
+        "No genetic influence at all",
+        "Moderate heritability estimates in twin studies"
+      ],
+      "answer": "Moderate heritability estimates in twin studies"
+    }
+  ]
+}

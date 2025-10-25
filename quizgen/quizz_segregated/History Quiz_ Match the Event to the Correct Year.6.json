@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Berlin Wall constructed, dividing East and West Berlin?",
+      "options": [
+        "1961",
+        "1975",
+        "1953"
+      ],
+      "answer": "1961"
+    },
+    {
+      "question_id": 2,
+      "question": "When did South Africa hold its first multiracial democratic election electing Mandela?",
+      "options": [
+        "1990",
+        "1989",
+        "1994"
+      ],
+      "answer": "1994"
+    },
+    {
+      "question_id": 3,
+      "question": "When did the Edict of Milan grant religious tolerance to Christians in the Roman Empire?",
+      "options": [
+        "313",
+        "301",
+        "325"
+      ],
+      "answer": "313"
+    },
+    {
+      "question_id": 4,
+      "question": "When did Japan attack Pearl Harbor, bringing the U.S. into World War II?",
+      "options": [
+        "1944",
+        "1941",
+        "1939"
+      ],
+      "answer": "1941"
+    },
+    {
+      "question_id": 5,
+      "question": "When was the Declaration of the Rights of Man and of the Citizen adopted in France?",
+      "options": [
+        "1776",
+        "1793",
+        "1789"
+      ],
+      "answer": "1789"
+    },
+    {
+      "question_id": 6,
+      "question": "When was the Treaty of Westphalia signed, marking end of Thirty Years' War?",
+      "options": [
+        "1653",
+        "1630",
+        "1648"
+      ],
+      "answer": "1648"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did India gain independence from Britain?",
+      "options": [
+        "1947",
+        "1935",
+        "1957"
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 8,
+      "question": "When did the Russian civil war effectively end with Bolshevik consolidation?",
+      "options": [
+        "1919",
+        "1925",
+        "1922"
+      ],
+      "answer": "1922"
+    },
+    {
+      "question_id": 9,
+      "question": "When did Vasco Núñez de Balboa first sight the Pacific Ocean from the New World?",
+      "options": [
+        "1513",
+        "1526",
+        "1509"
+      ],
+      "answer": "1513"
+    },
+    {
+      "question_id": 10,
+      "question": "When did the Soviet Union dissolve?",
+      "options": [
+        "1989",
+        "1991",
+        "1999"
+      ],
+      "answer": "1991"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Battle of Stalingrad begin, marking a turning point in WWII?",
+      "options": [
+        "1944",
+        "1942",
+        "1940"
+      ],
+      "answer": "1942"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Code of Hammurabi get compiled in ancient Mesopotamia (approx.)?",
+      "options": [
+        "1600 BCE",
+        "1900 BCE",
+        "1754 BCE"
+      ],
+      "answer": "1754 BCE"
+    },
+    {
+      "question_id": 13,
+      "question": "When was Nelson Mandela released from prison?",
+      "options": [
+        "1985",
+        "1990",
+        "1994"
+      ],
+      "answer": "1990"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Ottoman siege of Constantinople end, marking the city's fall?",
+      "options": [
+        "1453",
+        "1402",
+        "1478"
+      ],
+      "answer": "1453"
+    },
+    {
+      "question_id": 15,
+      "question": "When did the Reconquista in Spain conclude with the fall of Granada?",
+      "options": [
+        "1492",
+        "1504",
+        "1480"
+      ],
+      "answer": "1492"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia is characterized by fear of holes or patterns with small cavities?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia refers to fear of being watched by surveillance cameras?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare phobia concerns fear of choking that can overlap with panic disorder symptoms?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does phobophobia describe?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia refers to fear of certain textures or tactile sensations?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which obscure phobia is fear of trees documented in rare cultural folklore studies?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does the term 'specific phobia' generally mean?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia relates to fear of being buried alive and influenced historical safety coffins?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes a pathological fear of long words and is itself a long word?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is pogonophobia the fear of?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia combines Greek roots meaning 'hole' and 'fear'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which long-word phobia was constructed by compounding playful Latin and Greek morphemes?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which common treatment is used for specific phobias?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia name refers to fear of red objects or the color red?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia describes fear of teeth-related sensations and often complicates dental care?"
+    }
+  ]
+}

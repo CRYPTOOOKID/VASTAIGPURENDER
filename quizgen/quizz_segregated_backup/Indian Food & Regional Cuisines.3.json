@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which fresh cheese made by curdling milk with an acid is commonly used in North Indian cooking?",
+      "options": [
+        "Paneer",
+        "Ricotta",
+        "Tofu"
+      ],
+      "answer": "Paneer"
+    },
+    {
+      "question_id": 2,
+      "question": "Which spice derived from dried unripe mango is widely used as a tangy souring powder in Indian cooking?",
+      "options": [
+        "Amchur",
+        "Asafoetida",
+        "Kalonji"
+      ],
+      "answer": "Amchur"
+    },
+    {
+      "question_id": 3,
+      "question": "Which food preservation technique involving fermentation of raw mango, fish, or vegetables is widely practiced across northeastern India?",
+      "options": [
+        "Pickling and fermentation",
+        "Dehydration",
+        "Smoking"
+      ],
+      "answer": "Pickling and fermentation"
+    },
+    {
+      "question_id": 4,
+      "question": "Aloo paratha is a stuffed flatbread primarily filled with which ingredient mashed and spiced?",
+      "options": [
+        "Potatoes",
+        "Cauliflower",
+        "Paneer"
+      ],
+      "answer": "Potatoes"
+    },
+    {
+      "question_id": 5,
+      "question": "Which spice paste, made by grinding roasted spices, is a foundation of many Hyderabadi gravies?",
+      "options": [
+        "Masala paste",
+        "Tandoori paste",
+        "Vindaloo paste"
+      ],
+      "answer": "Masala paste"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Goan fish preparation traditionally uses kokum and coconut with a tangy-sour profile unique to Konkan cuisine?",
+      "options": [
+        "Xacuti",
+        "Balchao",
+        "Fish curry"
+      ],
+      "answer": "Fish curry"
+    },
+    {
+      "question_id": 7,
+      "question": "Which South Indian thin, tangy soup flavored with tamarind, tomato, and spices is called rasam?",
+      "options": [
+        "Rasam",
+        "Sambhar",
+        "Kadhi"
+      ],
+      "answer": "Rasam"
+    },
+    {
+      "question_id": 8,
+      "question": "Which paneer-based curry from North India features a rich tomato-cream gravy and is popular internationally?",
+      "options": [
+        "Paneer butter masala",
+        "Saag paneer",
+        "Mattar paneer"
+      ],
+      "answer": "Paneer butter masala"
+    },
+    {
+      "question_id": 9,
+      "question": "Which technique describes shallow frying and then slow braising of spices and onions to create a concentrated base called bhuna?",
+      "options": [
+        "Bhuna",
+        "Dum",
+        "Tadka"
+      ],
+      "answer": "Bhuna"
+    },
+    {
+      "question_id": 10,
+      "question": "Which regional cuisine term refers to the refined slow-cooking style developed in Lucknow's royal kitchens?",
+      "options": [
+        "Awadhi",
+        "Punjabi",
+        "Gujarati"
+      ],
+      "answer": "Awadhi"
+    },
+    {
+      "question_id": 11,
+      "question": "Which spice mix commonly used in street chaat includes amchur, roasted cumin, and black salt for tangy flavor?",
+      "options": [
+        "Chaat masala",
+        "Garam masala",
+        "Pav bhaji masala"
+      ],
+      "answer": "Chaat masala"
+    },
+    {
+      "question_id": 12,
+      "question": "Which royal multi-course Kashmiri feast traditionally consists of around thirty-six meat-based dishes served together?",
+      "options": [
+        "Wazwan",
+        "Thali",
+        "Langar"
+      ],
+      "answer": "Wazwan"
+    },
+    {
+      "question_id": 13,
+      "question": "Ragi, a millet used for nutritious dosas and porridge, is commonly known by which English name?",
+      "options": [
+        "Finger millet",
+        "Pearl millet",
+        "Barnyard millet"
+      ],
+      "answer": "Finger millet"
+    },
+    {
+      "question_id": 14,
+      "question": "Which leafy green and mustard-based Punjabi dish is traditionally eaten with makki di roti in winter months?",
+      "options": [
+        "Sarson ka saag",
+        "Palak paneer",
+        "Kadhi"
+      ],
+      "answer": "Sarson ka saag"
+    },
+    {
+      "question_id": 15,
+      "question": "Which lesser-known Bengali confection uses roasted chhena and sugar cooked to a fudge-like consistency called 'sandesh'?",
+      "options": [
+        "Sandesh",
+        "Pithe",
+        "Modak"
+      ],
+      "answer": "Sandesh"
+    }
+  ]
+}

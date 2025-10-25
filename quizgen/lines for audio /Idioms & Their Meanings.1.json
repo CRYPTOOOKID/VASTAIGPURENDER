@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"bark up the wrong tree\" suggest?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom best fits: \"She finally accepted the tough move\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom exemplifies euphemism used to soften mention of death?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"a penny for your thoughts\" invite someone to do?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom best substitutes for \"temporary success without securing the future\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom is an example of a mixed metaphor combining nautical and hunting imagery?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"hit the nail on the head\" mean?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom suggests \"making a delicate situation worse by careless talk\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom is often used as a performative speech act to wish luck?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"a blessing in disguise\" describe?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom matches \"experience that teaches a tough lesson\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom is considered a dead metaphor because original imagery is no longer visual?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"go the extra mile\" encourage someone to do?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom expresses \"someone who avoids commitment or responsibility\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom best qualifies as an idiomatic collocation where words combine unpredictably?"
+    }
+  ]
+}

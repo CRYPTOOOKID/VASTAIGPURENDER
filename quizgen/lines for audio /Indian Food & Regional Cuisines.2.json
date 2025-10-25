@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What steamed South Indian breakfast cake is prepared from fermented rice and black gram batter?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the key difference between pulao and biryani in common culinary practice?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which variety of chili is prized in Indian cuisine for bright red color and mild heat used in tandoori and Kashmiri dishes?"
+    },
+    {
+      "question_id": 4,
+      "question": "What Hindi name refers to a warming spice blend often added to many Indian dishes at the end of cooking?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which spice was introduced to Indian kitchens by Portuguese traders in the 16th century and transformed curries?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which dish from Lucknow is famed for soft texture of meat achieved by grinding meat with fried onions and raw papaya enzymes?"
+    },
+    {
+      "question_id": 7,
+      "question": "What coarse cornmeal flatbread called 'makki di roti' is traditionally paired with sarson ka saag in which region?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state’s cuisine features the use of mustard oil and raw mustard paste widely in fish and vegetable preparations?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare North Indian spice resin, used in small quantities for aroma, is known as 'hing' and commonly used in dals?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which coastal Indian state uses coconut extensively in curries, stews, and desserts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which cooking technique, literally meaning 'to seal in steam', involves slow-cooking in a sealed pot in Indian cuisine?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which cooking fat, clarified butter, is central to many Indian sweets and northern gravies for flavor and finishing?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which popular Indian street snack features hollow fried spheres filled with tangy tamarind water and potatoes?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian state is the origin of the fermented, steamed sourdough pancake called 'pitha' in several variants?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Gujarati lentil-based layered cake called handvo often includes bottle gourd and is baked or steamed for texture?"
+    }
+  ]
+}

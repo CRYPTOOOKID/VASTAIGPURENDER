@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who discovered the Raman effect in light scattering?",
+        "options": [
+          "C. V. Raman",
+          "Satyendra Nath Bose",
+          "Homi Bhabha"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Which scientist is called the father of India’s space program?",
+        "options": [
+          "Vikram Sarabhai",
+          "A. P. J. Abdul Kalam",
+          "Satish Dhawan"
+        ],
+        "answer": "Vikram Sarabhai"
+      },
+      {
+        "question": "Who formulated the Bose–Einstein statistics?",
+        "options": [
+          "Satyendra Nath Bose",
+          "Meghnad Saha",
+          "Srinivasa Ramanujan"
+        ],
+        "answer": "Satyendra Nath Bose"
+      },
+      {
+        "question": "Which Indian mathematician is famous for deep results in number theory and partitions?",
+        "options": [
+          "Srinivasa Ramanujan",
+          "C. V. Raman",
+          "M. Visvesvaraya"
+        ],
+        "answer": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Who is known as the father of the Indian nuclear program?",
+        "options": [
+          "Homi J. Bhabha",
+          "A. P. J. Abdul Kalam",
+          "Vikram Sarabhai"
+        ],
+        "answer": "Homi J. Bhabha"
+      },
+      {
+        "question": "Which Indian scientist won the Nobel Prize in Physics in 1930?",
+        "options": [
+          "C. V. Raman",
+          "S. Chandrasekhar",
+          "Har Gobind Khorana"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Who developed the Saha ionization equation used in astrophysics?",
+        "options": [
+          "Meghnad Saha",
+          "G. N. Ramachandran",
+          "Salim Ali"
+        ],
+        "answer": "Meghnad Saha"
+      },
+      {
+        "question": "Which scientist invented the crescograph to measure plant growth?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "Satyendra Nath Bose",
+          "M. Visvesvaraya"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Who led India’s missile program and later became President of India?",
+        "options": [
+          "A. P. J. Abdul Kalam",
+          "Satish Dhawan",
+          "U. R. Rao"
+        ],
+        "answer": "A. P. J. Abdul Kalam"
+      },
+      {
+        "question": "Who pioneered India’s Green Revolution in agriculture?",
+        "options": [
+          "M. S. Swaminathan",
+          "Ananda Mohan Chakrabarty",
+          "R. A. Mashelkar"
+        ],
+        "answer": "M. S. Swaminathan"
+      },
+      {
+        "question": "Which Indian ornithologist is popularly called the 'Birdman of India'?",
+        "options": [
+          "Salim Ali",
+          "S. Chandrasekhar",
+          "Asima Chatterjee"
+        ],
+        "answer": "Salim Ali"
+      },
+      {
+        "question": "Who founded the Council of Scientific and Industrial Research (CSIR) laboratories tradition in India?",
+        "options": [
+          "Shanti Swaroop Bhatnagar",
+          "C. V. Raman",
+          "Vikram Sarabhai"
+        ],
+        "answer": "Shanti Swaroop Bhatnagar"
+      },
+      {
+        "question": "Which engineer is celebrated as 'Sir' and known for major irrigation projects in India?",
+        "options": [
+          "M. Visvesvaraya",
+          "E. Sreedharan",
+          "Sam Pitroda"
+        ],
+        "answer": "M. Visvesvaraya"
+      },
+      {
+        "question": "Which Indian physicist proposed the Chandrasekhar limit for stellar masses?",
+        "options": [
+          "S. Chandrasekhar",
+          "Meghnad Saha",
+          "Homi Bhabha"
+        ],
+        "answer": "S. Chandrasekhar"
+      },
+      {
+        "question": "Which scientist created the Ramachandran plot in protein structure analysis?",
+        "options": [
+          "G. N. Ramachandran",
+          "C. V. Raman",
+          "Satyendra Nath Bose"
+        ],
+        "answer": "G. N. Ramachandran"
+      },
+      {
+        "question": "Which Indian scientist was instrumental in establishing ISRO's early satellite program?",
+        "options": [
+          "Vikram Sarabhai",
+          "R. A. Mashelkar",
+          "Ananda Mohan Chakrabarty"
+        ],
+        "answer": "Vikram Sarabhai"
+      },
+      {
+        "question": "Who engineered the Konkan Railway and later led major metro projects in India?",
+        "options": [
+          "E. Sreedharan",
+          "Satish Dhawan",
+          "U. R. Rao"
+        ],
+        "answer": "E. Sreedharan"
+      },
+      {
+        "question": "Which Indian-born scientist shared the 1968 Nobel Prize in Physiology or Medicine?",
+        "options": [
+          "Har Gobind Khorana",
+          "C. V. Raman",
+          "S. Chandrasekhar"
+        ],
+        "answer": "Har Gobind Khorana"
+      },
+      {
+        "question": "Who is the prominent Indian solid-state chemist known for contributions to materials science?",
+        "options": [
+          "C. N. R. Rao",
+          "G. N. Ramachandran",
+          "M. S. Swaminathan"
+        ],
+        "answer": "C. N. R. Rao"
+      },
+      {
+        "question": "Which Indian mathematician is famous for highly original 'mock theta' functions?",
+        "options": [
+          "Srinivasa Ramanujan",
+          "S. Chandrasekhar",
+          "Meghnad Saha"
+        ],
+        "answer": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Who served as long-time chairman of ISRO and guided many satellite missions?",
+        "options": [
+          "Satish Dhawan",
+          "Homi Bhabha",
+          "Sam Pitroda"
+        ],
+        "answer": "Satish Dhawan"
+      },
+      {
+        "question": "Which scientist established the Tata Institute of Fundamental Research (TIFR)?",
+        "options": [
+          "Homi J. Bhabha",
+          "Vikram Sarabhai",
+          "Shanti Swaroop Bhatnagar"
+        ],
+        "answer": "Homi J. Bhabha"
+      },
+      {
+        "question": "Who is known for pioneering radio and microwave research in India before 1920?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "C. V. Raman",
+          "Satyendra Nath Bose"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Which Indian medical chemist developed important anti-epileptic and anti-malarial compounds?",
+        "options": [
+          "Asima Chatterjee",
+          "Shanti Swaroop Bhatnagar",
+          "Har Gobind Khorana"
+        ],
+        "answer": "Asima Chatterjee"
+      },
+      {
+        "question": "Who led India’s first successful indigenous satellite launch (SLV-3) project?",
+        "options": [
+          "A. P. J. Abdul Kalam",
+          "Vikram Sarabhai",
+          "Satish Dhawan"
+        ],
+        "answer": "A. P. J. Abdul Kalam"
+      },
+      {
+        "question": "Which Indian scientist’s name is associated with Bose–Einstein condensates in quantum physics?",
+        "options": [
+          "Satyendra Nath Bose",
+          "Jagadish Chandra Bose",
+          "C. V. Raman"
+        ],
+        "answer": "Satyendra Nath Bose"
+      },
+      {
+        "question": "Who played a key role in India’s telecommunications revolution in the 1980s?",
+        "options": [
+          "Sam Pitroda",
+          "E. Sreedharan",
+          "M. Visvesvaraya"
+        ],
+        "answer": "Sam Pitroda"
+      },
+      {
+        "question": "Which Indian scientist’s work launched modern protein structure analysis in India?",
+        "options": [
+          "G. N. Ramachandran",
+          "C. N. R. Rao",
+          "G. S. S. Raghavan"
+        ],
+        "answer": "G. N. Ramachandran"
+      },
+      {
+        "question": "Who is celebrated as a pioneer of modern Indian engineering and received the title 'Sir'?",
+        "options": [
+          "M. Visvesvaraya",
+          "Satish Dhawan",
+          "E. Sreedharan"
+        ],
+        "answer": "M. Visvesvaraya"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did India’s first satellite Aryabhata launch into orbit?",
+        "options": [
+          "1975",
+          "1969",
+          "1980"
+        ],
+        "answer": "1975"
+      },
+      {
+        "question": "Which Indian scientist proposed the ionization formula key to stellar atmospheres?",
+        "options": [
+          "Meghnad Saha",
+          "Satyendra Nath Bose",
+          "Homi Bhabha"
+        ],
+        "answer": "Meghnad Saha"
+      },
+      {
+        "question": "Which Nobel laureate solved the structure of the ribosome and is Indian-born?",
+        "options": [
+          "Venkatraman Ramakrishnan",
+          "C. V. Raman",
+          "Har Gobind Khorana"
+        ],
+        "answer": "Venkatraman Ramakrishnan"
+      },
+      {
+        "question": "Which Indian scientist discovered the Raman effect while studying light scattering in which material?",
+        "options": [
+          "Liquids and gases",
+          "Metals",
+          "Crystalline solids only"
+        ],
+        "answer": "Liquids and gases"
+      },
+      {
+        "question": "Which institute did Homi Bhabha found in 1945 to foster physics research in India?",
+        "options": [
+          "Tata Institute of Fundamental Research",
+          "Indian Institute of Science",
+          "CSIR"
+        ],
+        "answer": "Tata Institute of Fundamental Research"
+      },
+      {
+        "question": "Which Indian engineer designed the Rohri Barrage and promoted flood control engineering extensively?",
+        "options": [
+          "M. Visvesvaraya",
+          "E. Sreedharan",
+          "Satish Dhawan"
+        ],
+        "answer": "M. Visvesvaraya"
+      },
+      {
+        "question": "Which Indian chemist led CSIR and promoted modern industrial research across laboratories?",
+        "options": [
+          "R. A. Mashelkar",
+          "C. N. R. Rao",
+          "Shanti Swaroop Bhatnagar"
+        ],
+        "answer": "R. A. Mashelkar"
+      },
+      {
+        "question": "Which satellite was the first successful payload launched by SLV-3 in 1980?",
+        "options": [
+          "Rohini",
+          "Aryabhata",
+          "INSAT"
+        ],
+        "answer": "Rohini"
+      },
+      {
+        "question": "Which Indian physicist’s work inspired Einstein’s papers on quantum statistics?",
+        "options": [
+          "Satyendra Nath Bose",
+          "C. V. Raman",
+          "S. Chandrasekhar"
+        ],
+        "answer": "Satyendra Nath Bose"
+      },
+      {
+        "question": "Which Indian scientist’s notebooks contained many unproved theorems later validated by mathematics?",
+        "options": [
+          "Srinivasa Ramanujan",
+          "G. N. Ramachandran",
+          "C. N. R. Rao"
+        ],
+        "answer": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Who developed the Ramachandran plot to visualize dihedral angles in proteins?",
+        "options": [
+          "G. N. Ramachandran",
+          "Asima Chatterjee",
+          "G. S. S. Raghavan"
+        ],
+        "answer": "G. N. Ramachandran"
+      },
+      {
+        "question": "Which Indian scientist’s research established plant response studies using electric signaling?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "Meghnad Saha",
+          "C. V. Raman"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Who directed India’s SLV-3 project that successfully made India a launch-capable nation?",
+        "options": [
+          "A. P. J. Abdul Kalam",
+          "Satish Dhawan",
+          "U. R. Rao"
+        ],
+        "answer": "A. P. J. Abdul Kalam"
+      },
+      {
+        "question": "Which Indian scientist won a Nobel Prize for work on population and structure of white dwarf stars?",
+        "options": [
+          "S. Chandrasekhar",
+          "Homi Bhabha",
+          "Satyendra Nath Bose"
+        ],
+        "answer": "S. Chandrasekhar"
+      },
+      {
+        "question": "Which Indian agricultural scientist spearheaded high-yield wheat varieties in India?",
+        "options": [
+          "M. S. Swaminathan",
+          "Shanti Swaroop Bhatnagar",
+          "Asima Chatterjee"
+        ],
+        "answer": "M. S. Swaminathan"
+      },
+      {
+        "question": "Which Indian institute launched the Aryabhata satellite project and collaborated with USSR?",
+        "options": [
+          "ISRO",
+          "TIFR",
+          "IISc"
+        ],
+        "answer": "ISRO"
+      },
+      {
+        "question": "Which scientist’s work on genetic code earned a Nobel Prize and originated in pre-independence India?",
+        "options": [
+          "Har Gobind Khorana",
+          "C. V. Raman",
+          "Meghnad Saha"
+        ],
+        "answer": "Har Gobind Khorana"
+      },
+      {
+        "question": "Which Indian scientist was central to establishing the Indian Institute of Science (IISc) reputation?",
+        "options": [
+          "C. V. Raman",
+          "M. Visvesvaraya",
+          "Homi Bhabha"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Which Indian engineer is credited with building the Delhi Metro efficiently and on time?",
+        "options": [
+          "E. Sreedharan",
+          "Sam Pitroda",
+          "R. A. Mashelkar"
+        ],
+        "answer": "E. Sreedharan"
+      },
+      {
+        "question": "Which scientist founded modern ornithology studies in India through systematic bird surveys?",
+        "options": [
+          "Salim Ali",
+          "G. N. Ramachandran",
+          "Vikram Sarabhai"
+        ],
+        "answer": "Salim Ali"
+      },
+      {
+        "question": "Which Indian scientist’s theory underpins the concept of bosons in particle physics?",
+        "options": [
+          "Satyendra Nath Bose",
+          "S. Chandrasekhar",
+          "C. V. Raman"
+        ],
+        "answer": "Satyendra Nath Bose"
+      },
+      {
+        "question": "Which Indian research leader guided CSIR transformation into modern research organization?",
+        "options": [
+          "R. A. Mashelkar",
+          "Shanti Swaroop Bhatnagar",
+          "C. N. R. Rao"
+        ],
+        "answer": "R. A. Mashelkar"
+      },
+      {
+        "question": "Which Indian scientist introduced important methods in spectroscopy for molecular structure analysis?",
+        "options": [
+          "C. V. Raman",
+          "G. N. Ramachandran",
+          "Asima Chatterjee"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Which Indian scientist helped popularize public telephones and expand rural connectivity?",
+        "options": [
+          "Sam Pitroda",
+          "E. Sreedharan",
+          "M. S. Swaminathan"
+        ],
+        "answer": "Sam Pitroda"
+      },
+      {
+        "question": "Which Indian space official oversaw India’s Mars Orbiter Mission success in 2013?",
+        "options": [
+          "K. Radhakrishnan",
+          "Satish Dhawan",
+          "Vikram Sarabhai"
+        ],
+        "answer": "K. Radhakrishnan"
+      },
+      {
+        "question": "Which Indian-born scientist won a Nobel Prize for work on the genetic code and synthetic polynucleotides?",
+        "options": [
+          "Har Gobind Khorana",
+          "Venkatraman Ramakrishnan",
+          "S. Chandrasekhar"
+        ],
+        "answer": "Har Gobind Khorana"
+      },
+      {
+        "question": "Which scientist formulated theories essential to stellar atmospheres and spectral interpretation?",
+        "options": [
+          "Meghnad Saha",
+          "Satyendra Nath Bose",
+          "G. N. Ramachandran"
+        ],
+        "answer": "Meghnad Saha"
+      },
+      {
+        "question": "Which Indian researcher made foundational contributions to solid-state chemistry and materials discovery?",
+        "options": [
+          "C. N. R. Rao",
+          "R. A. Mashelkar",
+          "G. N. Ramachandran"
+        ],
+        "answer": "C. N. R. Rao"
+      },
+      {
+        "question": "Which pioneer established the Indian National Committee for Space Research before ISRO formed?",
+        "options": [
+          "Vikram Sarabhai",
+          "Homi Bhabha",
+          "Satish Dhawan"
+        ],
+        "answer": "Vikram Sarabhai"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Indian scientist first measured plant electrical responses with instruments in the early 1900s?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "Satyendra Nath Bose",
+          "Meghnad Saha"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Which Indian physicist proposed a formula for photon scattering that today bears his name?",
+        "options": [
+          "C. V. Raman",
+          "S. Chandrasekhar",
+          "Satyendra Nath Bose"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Which Indian mathematician’s 1913 letter to G. H. Hardy launched a major collaboration?",
+        "options": [
+          "Srinivasa Ramanujan",
+          "S. Chandrasekhar",
+          "Meghnad Saha"
+        ],
+        "answer": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Which scientist founded the Physical Research Laboratory (PRL) in Ahmedabad?",
+        "options": [
+          "Vikram Sarabhai",
+          "Homi Bhabha",
+          "C. V. Raman"
+        ],
+        "answer": "Vikram Sarabhai"
+      },
+      {
+        "question": "Which Indian chemist first isolated vinca alkaloids leading to cancer drug research?",
+        "options": [
+          "Asima Chatterjee",
+          "Shanti Swaroop Bhatnagar",
+          "R. A. Mashelkar"
+        ],
+        "answer": "Asima Chatterjee"
+      },
+      {
+        "question": "Which Indian scientist’s equation explains ionization equilibrium in stellar atmospheres?",
+        "options": [
+          "Meghnad Saha",
+          "Satyendra Nath Bose",
+          "G. N. Ramachandran"
+        ],
+        "answer": "Meghnad Saha"
+      },
+      {
+        "question": "Which Indian engineer’s design philosophy emphasized practicality and humane engineering in dams?",
+        "options": [
+          "M. Visvesvaraya",
+          "E. Sreedharan",
+          "R. A. Mashelkar"
+        ],
+        "answer": "M. Visvesvaraya"
+      },
+      {
+        "question": "Which Indian physicist’s experimental work with light earned international acclaim and a Nobel Prize?",
+        "options": [
+          "C. V. Raman",
+          "Homi Bhabha",
+          "S. Chandrasekhar"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Which Indian scientist’s bacterial patent case reached the US Supreme Court in 1980s?",
+        "options": [
+          "Ananda Mohan Chakrabarty",
+          "Har Gobind Khorana",
+          "C. N. R. Rao"
+        ],
+        "answer": "Ananda Mohan Chakrabarty"
+      },
+      {
+        "question": "Which Indian researcher introduced concepts central to protein conformation mapping in 1963?",
+        "options": [
+          "G. N. Ramachandran",
+          "Asima Chatterjee",
+          "S. Chandrasekhar"
+        ],
+        "answer": "G. N. Ramachandran"
+      },
+      {
+        "question": "Which Indian-born Nobel laureate worked on the structure and function of ribosomes?",
+        "options": [
+          "Venkatraman Ramakrishnan",
+          "Har Gobind Khorana",
+          "C. V. Raman"
+        ],
+        "answer": "Venkatraman Ramakrishnan"
+      },
+      {
+        "question": "Which Indian scientist was director of the Indian Institute of Science during crucial post-independence years?",
+        "options": [
+          "C. V. Raman",
+          "M. Visvesvaraya",
+          "Homi Bhabha"
+        ],
+        "answer": "C. V. Raman"
+      },
+      {
+        "question": "Which Indian scientist's limit determines the maximum mass of a stable white dwarf star?",
+        "options": [
+          "S. Chandrasekhar",
+          "Satyendra Nath Bose",
+          "Meghnad Saha"
+        ],
+        "answer": "S. Chandrasekhar"
+      },
+      {
+        "question": "Which Indian engineer transformed India’s public transport networks through metro system management?",
+        "options": [
+          "E. Sreedharan",
+          "Sam Pitroda",
+          "R. A. Mashelkar"
+        ],
+        "answer": "E. Sreedharan"
+      },
+      {
+        "question": "Which Indian scientist’s early wireless experiments contributed to radio science before Marconi’s fame?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "C. V. Raman",
+          "Homi Bhabha"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Which Indian geneticist synthesized the first fully artificial gene in the 1970s and won a Nobel Prize?",
+        "options": [
+          "Har Gobind Khorana",
+          "Ananda Mohan Chakrabarty",
+          "Venkatraman Ramakrishnan"
+        ],
+        "answer": "Har Gobind Khorana"
+      },
+      {
+        "question": "Which Indian chemist chaired CSIR and led its scientific renaissance in the 1990s?",
+        "options": [
+          "R. A. Mashelkar",
+          "C. N. R. Rao",
+          "Shanti Swaroop Bhatnagar"
+        ],
+        "answer": "R. A. Mashelkar"
+      },
+      {
+        "question": "Which Indian scientist developed theory linking stellar structure with quantum statistics in early 20th century?",
+        "options": [
+          "S. Chandrasekhar",
+          "Meghnad Saha",
+          "Satyendra Nath Bose"
+        ],
+        "answer": "S. Chandrasekhar"
+      },
+      {
+        "question": "Which Indian scientist devised methods to measure extremely small plant movements and growth?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "G. N. Ramachandran",
+          "C. V. Raman"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Which Indian scientist established the first organized space research committee in 1962?",
+        "options": [
+          "Vikram Sarabhai",
+          "Satish Dhawan",
+          "U. R. Rao"
+        ],
+        "answer": "Vikram Sarabhai"
+      },
+      {
+        "question": "Which Indian scientist collaborated with Einstein leading to terminology 'boson' named after him?",
+        "options": [
+          "Satyendra Nath Bose",
+          "C. V. Raman",
+          "Meghnad Saha"
+        ],
+        "answer": "Satyendra Nath Bose"
+      },
+      {
+        "question": "Which Indian scientist’s work enabled India’s first satellite communication experiments and early ISRO missions?",
+        "options": [
+          "U. R. Rao",
+          "Satish Dhawan",
+          "Vikram Sarabhai"
+        ],
+        "answer": "U. R. Rao"
+      },
+      {
+        "question": "Which Indian scientist authored fundamental papers on modular forms and partition congruences?",
+        "options": [
+          "Srinivasa Ramanujan",
+          "S. Chandrasekhar",
+          "G. N. Ramachandran"
+        ],
+        "answer": "Srinivasa Ramanujan"
+      },
+      {
+        "question": "Which Indian institute did Homi Bhabha champion to support atomic energy research after independence?",
+        "options": [
+          "Tata Institute of Fundamental Research",
+          "Indian Institute of Technology",
+          "ISRO"
+        ],
+        "answer": "Tata Institute of Fundamental Research"
+      },
+      {
+        "question": "Which Indian scientist’s contributions underpin modern materials chemistry and perovskite research worldwide?",
+        "options": [
+          "C. N. R. Rao",
+          "R. A. Mashelkar",
+          "Asima Chatterjee"
+        ],
+        "answer": "C. N. R. Rao"
+      },
+      {
+        "question": "Which Indian inventor established low-cost telecom solutions for rural India in the 1980s?",
+        "options": [
+          "Sam Pitroda",
+          "Ananda Mohan Chakrabarty",
+          "E. Sreedharan"
+        ],
+        "answer": "Sam Pitroda"
+      },
+      {
+        "question": "Which Indian scientist proposed theoretical foundations influencing quantum condensates and superfluidity?",
+        "options": [
+          "Satyendra Nath Bose",
+          "C. V. Raman",
+          "Meghnad Saha"
+        ],
+        "answer": "Satyendra Nath Bose"
+      },
+      {
+        "question": "Which Indian scientist’s research on plant electromotive responses challenged contemporary views on organismal sensitivity?",
+        "options": [
+          "Jagadish Chandra Bose",
+          "G. N. Ramachandran",
+          "S. Chandrasekhar"
+        ],
+        "answer": "Jagadish Chandra Bose"
+      },
+      {
+        "question": "Which Indian scientist later became President and authored works on aerospace and missile science?",
+        "options": [
+          "A. P. J. Abdul Kalam",
+          "Vikram Sarabhai",
+          "Homi Bhabha"
+        ],
+        "answer": "A. P. J. Abdul Kalam"
+      }
+    ]
+  }
+}

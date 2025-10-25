@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a shopping cart on an online store?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which metric shows marketing efficiency by relating acquisition cost to customer value?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a 'holdout test' in marketing experiments?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'PPC' advertising mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which practice reduces fraud by verifying buyer identity at checkout?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is a common anti-fraud signal derived from order velocity?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a marketplace like eBay or Etsy?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'COGS' represent in e-commerce finance?"
+    },
+    {
+      "question_id": 9,
+      "question": "How does 'client-side rendering' impact perceived performance on slow networks?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'AOV' stand for in e-commerce metrics?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which search strategy targets specific low-competition queries to drive traffic?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'latency-sensitive caching' role in e-commerce at peak traffic?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'SKU' stand for in inventory management?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which marketing tactic uses urgency and scarcity signals to boost conversions?"
+    },
+    {
+      "question_id": 15,
+      "question": "How does 'server-side rendering' (SSR) improve SEO and performance for stores?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the full form of AIDS?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does API stand for in software development?"
+    },
+    {
+      "question_id": 3,
+      "question": "What does SNA represent in legacy IBM networking?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does PIN stand for on bank cards?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is MPEG short for?"
+    },
+    {
+      "question_id": 6,
+      "question": "What official full form does ISO use?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the full form of FYI?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the full form of UNESCO?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does MBR stand for on storage drives?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does URL mean?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the full form of HDMI?"
+    },
+    {
+      "question_id": 12,
+      "question": "What full form does GPT represent in partitioning?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the full form of PDF?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the full form of DNS?"
+    },
+    {
+      "question_id": 15,
+      "question": "What does BLOB stand for in databases?"
+    }
+  ]
+}

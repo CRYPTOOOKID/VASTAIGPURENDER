@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which common superstition advises against opening an umbrella indoors?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which medieval mark carved in buildings aimed to ward off witches and evil spirits?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Greek word meaning 'to ward off' underlies the term 'apotropaic' used in superstition studies?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which practice involves leaving offerings or small gifts to please household spirits in many traditions?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phrase names the belief that certain words can bring luck when spoken aloud?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nineteenth-century banker's novel by Thomas W. Lawson linked a maritime superstition to Friday the 13th?"
+    },
+    {
+      "question_id": 7,
+      "question": "Breaking a mirror traditionally brings how many years of bad luck in popular belief?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which object do many people kiss for luck when making a wish at famous sites?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ancient Greek practice used specially trained priests, haruspices, to read livers and entrails?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which color is widely associated with good luck and prosperity in Chinese culture?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which household plant is often considered protective against negative energy in folklore?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which scholarly term denotes practices that intentionally reverse misfortune or misdeeds onto another?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which charm is commonly carried to ward off the evil eye in Mediterranean cultures?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which culture commonly uses the hamsa hand as a protective symbol against the evil eye?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Greek island practice used painted eyes on boats to avert the evil eye at sea?"
+    }
+  ]
+}

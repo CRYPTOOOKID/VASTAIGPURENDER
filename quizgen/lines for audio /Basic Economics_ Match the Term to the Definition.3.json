@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term means total output produced per worker or per hour?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term describes a systemic fall in general price level?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term describes when trade liberalization leads to short-term job losses in sectors?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term denotes the first buyer preference for a new good or trend?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term measures responsiveness of supply to price changes?"
+    },
+    {
+      "question_id": 6,
+      "question": "What term refers to monopolies that emerge due to high fixed costs and low marginal costs?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes government financial aid to producers?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term refers to central bank actions to control money supply?"
+    },
+    {
+      "question_id": 9,
+      "question": "What term refers to policy where government borrowing reduces available private investment?"
+    },
+    {
+      "question_id": 10,
+      "question": "What term describes government transfers to individuals without goods received?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term defines payment to capital owners for use of capital?"
+    },
+    {
+      "question_id": 12,
+      "question": "What term labels a tax whose burden falls more heavily on lower-income households?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term is used for sellers coordinating prices or output illegally?"
+    },
+    {
+      "question_id": 14,
+      "question": "What term means a market with few firms dominating output?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes when a firm charges different prices to different consumer groups?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which script is an abugida where consonant letters carry an inherent vowel?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which inventory of letters forms the International Morse alphabet for telegraphy?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which scholar is credited with early systematic description of binary correlating to 0 and 1 symbolism?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which medieval mathematician introduced Hindu-Arabic numerals to Europe in Liber Abaci?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which numeric notation did Europeans largely adopt after Fibonacci's book Liber Abaci?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval numeral system used letters of the alphabet as numbers in Greek practice?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which numeral system did ancient Mesopotamians use that influences modern time measurement?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the canonical name for the Unicode block containing basic Latin letters?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script family includes Devanagari and uses inherent vowel signs on consonants?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which numeric prefix indicates a base of twelve in numeral systems?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script classifies vowels as diacritics attached to consonant symbols?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Unicode plane contains the Basic Multilingual Plane covering U+0000 to U+FFFF?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which numeral system uses digits 0–9 and letters A–F to represent values?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which early numeric artifact shows a positional sexagesimal system on clay tablets?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which notation uses marks over numerals to indicate multiplication by powers of one thousand in Roman practice?"
+    }
+  ]
+}

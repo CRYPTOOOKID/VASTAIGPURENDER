@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '🦖🌴'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '👩‍👧‍👦🛣️🚐'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which movie fits '🧭🌊💡' about navigating by a single guiding light?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '🌪️👠'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🧊👑👧'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie fits '🎪🎩🤡' about a historical circus?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🤖🕶️'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '🕰️🛰️👨'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '👩‍🚀🧊🛰️' involving frozen space discovery?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '🦸‍♂️🕶️'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🏜️🔫🤠'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🎒🔫👦' depicting boyhood adventure with weapon motif?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '🦁👑'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue sequence '🧠💤🔁'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie fits '☠️🏴‍☠️💰' about a cursed pirate treasure?"
+    }
+  ]
+}

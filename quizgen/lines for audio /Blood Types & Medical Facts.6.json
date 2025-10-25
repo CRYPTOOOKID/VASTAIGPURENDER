@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which antigen is the major determinant of Rh positivity?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which test differentiates between ABO hemolytic disease and Rh hemolytic disease in newborns?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which blood bank reagent neutralizes IgM during warm autoadsorption procedures?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes the liquid portion of blood after clotting?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which blood bank practice prevents transfusion-associated graft versus host disease?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which molecular technique identifies specific ABO alleles by analyzing DNA sequence?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which blood type is often called the universal red blood cell donor?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which test confirms immune hemolysis by detecting antibodies on red cell surfaces?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which antigen-negative donor selection prevents alloimmunization in chronically transfused patients?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes when a patient donates blood for their own later use?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which antigen absence identifies the rare Rh-null phenotype often called golden blood?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technique detects weak or partial D variants that standard typing may miss?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blood bank practice reduces risk of febrile transfusion reactions?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which maternal antierythrocyte antibody can cause severe fetal anemia despite low maternal titer?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which transfusion reaction involves donor white cells attacking recipient tissues post-transfusion?"
+    }
+  ]
+}

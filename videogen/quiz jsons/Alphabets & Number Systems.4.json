@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which set of numerals is commonly called 'Hindu-Arabic numerals'?",
+      "options": [
+        "०, १, २, ३",
+        "I, V, X, L, C, D, M",
+        "0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
+      ],
+      "answer": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "question_id": 2,
+      "question": "Which historic practice used acrophonic naming where letters came from words and objects?",
+      "options": [
+        "Semitic alphabet naming",
+        "Chinese logograms",
+        "Egyptian hieroglyphic rebus"
+      ],
+      "answer": "Semitic alphabet naming"
+    },
+    {
+      "question_id": 3,
+      "question": "Which ancient Semitic script predecessor is often called Proto-Sinaitic and predates Phoenician?",
+      "options": [
+        "Ugaritic",
+        "Linear B",
+        "Proto-Sinaitic"
+      ],
+      "answer": "Proto-Sinaitic"
+    },
+    {
+      "question_id": 4,
+      "question": "Which numeral system uses digits 0 through 9?",
+      "options": [
+        "Hexadecimal",
+        "Binary",
+        "Decimal"
+      ],
+      "answer": "Decimal"
+    },
+    {
+      "question_id": 5,
+      "question": "Which script is known for its distinctive syllabic signs on inscriptions at Ugarit?",
+      "options": [
+        "Proto-Sinaitic script",
+        "Ugaritic alphabet",
+        "Linear A"
+      ],
+      "answer": "Ugaritic alphabet"
+    },
+    {
+      "question_id": 6,
+      "question": "Which digital text encoding form is a variable-length encoding of Unicode using one to four bytes?",
+      "options": [
+        "UTF-32",
+        "UTF-16",
+        "UTF-8"
+      ],
+      "answer": "UTF-8"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script was developed by Sequoyah for the Cherokee language?",
+      "options": [
+        "Cherokee syllabary",
+        "Cyrillic extension",
+        "Latin alphabet adaptation"
+      ],
+      "answer": "Cherokee syllabary"
+    },
+    {
+      "question_id": 8,
+      "question": "Which numeral system is commonly used in digital displays grouped by three bits called octets?",
+      "options": [
+        "Binary grouped into bytes",
+        "Decimal grouped into digits",
+        "Hexadecimal grouped into nibbles"
+      ],
+      "answer": "Binary grouped into bytes"
+    },
+    {
+      "question_id": 9,
+      "question": "Which medieval manuscript tradition created the Carolingian minuscule influencing modern lowercase?",
+      "options": [
+        "Gothic textura style",
+        "Insular script development",
+        "Carolingian script reform"
+      ],
+      "answer": "Carolingian script reform"
+    },
+    {
+      "question_id": 10,
+      "question": "Which ancient numeral system famously lacks a symbol for zero?",
+      "options": [
+        "Roman numerals",
+        "Babylonian numerals",
+        "Mayan numerals"
+      ],
+      "answer": "Roman numerals"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script uses diacritics called harakat to represent short vowels in Arabic?",
+      "options": [
+        "Arabic script",
+        "Hebrew script",
+        "Greek script"
+      ],
+      "answer": "Arabic script"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient script intermediate between pictogram and alphabet introduced simplified signs for consonants?",
+      "options": [
+        "Cuneiform syllabary",
+        "Proto-Canaanite",
+        "Egyptian hieratic"
+      ],
+      "answer": "Proto-Canaanite"
+    },
+    {
+      "question_id": 13,
+      "question": "How many bits does the original ASCII code use to represent characters?",
+      "options": [
+        "6 bits",
+        "7 bits",
+        "8 bits"
+      ],
+      "answer": "7 bits"
+    },
+    {
+      "question_id": 14,
+      "question": "Which system uses base-16 and is common in computing for color codes and memory addresses?",
+      "options": [
+        "Hexadecimal",
+        "Duodecimal",
+        "Octal"
+      ],
+      "answer": "Hexadecimal"
+    },
+    {
+      "question_id": 15,
+      "question": "Which notation did Brahmagupta formalize with rules for zero in the 7th century CE?",
+      "options": [
+        "Indian numeral operations",
+        "Roman bookkeeping notation",
+        "Greek abacus rules"
+      ],
+      "answer": "Indian numeral operations"
+    }
+  ]
+}

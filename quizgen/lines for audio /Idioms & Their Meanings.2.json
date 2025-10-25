@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"beat around the bush\" mean in conversation?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom fits \"someone who reveals information unintentionally\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom historically connects to military drilling and discipline?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"kick the bucket\" euphemistically mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom means \"someone avoids responsibility by blaming others\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom is an example of metonymy using a related concept to represent something else?"
+    },
+    {
+      "question_id": 7,
+      "question": "What meaning does \"cost an arm and a leg\" convey?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom best fits \"maintain composure under stress\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom is a direct calque from Latin that entered English unchanged?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"keep your chin up\" encourage someone to do?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom fits \"explain something in very simple terms\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom is an example of a zoonymic metaphor using animal imagery for behavior?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"hit the sack\" usually mean?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom means \"someone consistently succeeds under pressure\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom best illustrates a pragmatic conversational implicature rather than literal intent?"
+    }
+  ]
+}

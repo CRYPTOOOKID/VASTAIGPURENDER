@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which actress of the 1950s is often remembered as one of Bollywood's earliest screen icons, known for her beauty?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which 1990s family drama's soundtrack became one of Bollywood's best-selling albums?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which legendary actor played the father in the classic Pakeezah and died shortly after its release?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city is the center of the Bollywood film industry?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which 1988 film gave Madhuri Dixit her mainstream breakthrough?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which actor made his mainstream Hindi film debut with Deewana (1992)?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded the production company Yash Raj Films?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which actor directed and starred in Taare Zameen Par (2007)?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which composer duo were behind the music of Dil Se and many 1990s hits?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which director is known for big-family romantic melodramas like Kuch Kuch Hota Hai?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which 2003 film marked one of Priyanka Chopra's early Bollywood appearances?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 2016 film starring Aamir Khan became one of the highest-grossing Indian films worldwide?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival is commonly chosen for major Bollywood film releases?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which 2013 Shah Rukh Khan film paired him with Deepika Padukone in a south-tinged comic adventure?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who was the cinematographer for the Oscar-nominated film Lagaan (2001)?"
+    }
+  ]
+}

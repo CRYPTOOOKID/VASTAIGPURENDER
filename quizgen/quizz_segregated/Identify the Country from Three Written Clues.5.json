@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Pyramids, Nile River, Cairo — Which country?",
+      "options": [
+        "Sudan",
+        "Morocco",
+        "Egypt"
+      ],
+      "answer": "Egypt"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Falkland Islands dispute, Patagonia coast, Buenos Aires ties — Which country?",
+      "options": [
+        "Argentina",
+        "Uruguay",
+        "Chile"
+      ],
+      "answer": "Argentina"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Saipan, Chamorro culture, Northern Mariana Islands association — Which country?",
+      "options": [
+        "Guam (USA)",
+        "Philippines",
+        "Northern Mariana Islands (USA)"
+      ],
+      "answer": "Northern Mariana Islands (USA)"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Maple syrup, hockey, French-English bilingualism — Which country?",
+      "options": [
+        "Ireland",
+        "Canada",
+        "United States"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Polynesian culture, French overseas region, capital Papeete — Which country?",
+      "options": [
+        "Fiji",
+        "French Polynesia",
+        "New Caledonia"
+      ],
+      "answer": "French Polynesia"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: West African francophone hub, Dakar music scene, Goree Island history — Which country?",
+      "options": [
+        "Ivory Coast",
+        "Senegal",
+        "Mali"
+      ],
+      "answer": "Senegal"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Maasai, Mount Kenya, capital Nairobi — Which country?",
+      "options": [
+        "Uganda",
+        "Ethiopia",
+        "Kenya"
+      ],
+      "answer": "Kenya"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Patagonia glaciers, Valparaíso port, Spanish colonial architecture — Which country?",
+      "options": [
+        "Chile",
+        "Argentina",
+        "Peru"
+      ],
+      "answer": "Chile"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Svalbard archipelago governance, Arctic Treaty, Longyearbyen settlement — Which country?",
+      "options": [
+        "Finland",
+        "Norway",
+        "Iceland"
+      ],
+      "answer": "Norway"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Samba, Christ the Redeemer, Carnival — Which country?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Portugal"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Whisky regions Islay, Highlands, Glasgow shipbuilding — Which country?",
+      "options": [
+        "Scotland",
+        "Ireland",
+        "Wales"
+      ],
+      "answer": "Scotland"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Basotho people, Maloti Mountains, landlocked country between South Africa and Lesotho — Which country?",
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Botswana"
+      ],
+      "answer": "Lesotho"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Fjords, stave churches, Nobel Peace Prize — Which country?",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway"
+      ],
+      "answer": "Norway"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Easter Island, Santiago, Atacama Desert — Which country?",
+      "options": [
+        "Bolivia",
+        "Peru",
+        "Chile"
+      ],
+      "answer": "Chile"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Former Austro-Hungarian territories, Sarajevo 1914 assassination site, Balkan crossroads — Which country?",
+      "options": [
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia"
+      ],
+      "answer": "Bosnia and Herzegovina"
+    }
+  ]
+}

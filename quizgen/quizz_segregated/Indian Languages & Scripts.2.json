@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian language did Rabindranath Tagore primarily write in?",
+      "options": [
+        "Hindi",
+        "Bengali",
+        "Marathi"
+      ],
+      "answer": "Bengali"
+    },
+    {
+      "question_id": 2,
+      "question": "Which early modern poet significantly shaped Hindi-Urdu Ghazal tradition in North India?",
+      "options": [
+        "Kambar",
+        "Mir Taqi Mir",
+        "Kabir"
+      ],
+      "answer": "Mir Taqi Mir"
+    },
+    {
+      "question_id": 3,
+      "question": "Which script did the Pallava dynasty promote that influenced Southeast Asian scripts?",
+      "options": [
+        "Devanagari",
+        "Pallava Grantha",
+        "Kharosthi"
+      ],
+      "answer": "Pallava Grantha"
+    },
+    {
+      "question_id": 4,
+      "question": "Which language is the most widely spoken native language in India?",
+      "options": [
+        "Tamil",
+        "Hindi",
+        "Bengali"
+      ],
+      "answer": "Hindi"
+    },
+    {
+      "question_id": 5,
+      "question": "Which script served as the direct ancestor for Devanagari and many northern scripts?",
+      "options": [
+        "Gupta script",
+        "Kharosthi script",
+        "Brahmi script"
+      ],
+      "answer": "Gupta script"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 13th-century Telugu poet produced the earliest known prabandha literature?",
+      "options": [
+        "Potana",
+        "Nannaya Bhattaraka",
+        "Tikkana Somayaji"
+      ],
+      "answer": "Nannaya Bhattaraka"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script does Marathi use officially?",
+      "options": [
+        "Perso-Arabic",
+        "Latin",
+        "Devanagari"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 8,
+      "question": "Which writing system type describes most Indian scripts (vowel signs attach to consonants)?",
+      "options": [
+        "Syllabary",
+        "Abugida",
+        "Alphabet"
+      ],
+      "answer": "Abugida"
+    },
+    {
+      "question_id": 9,
+      "question": "Which language's phonology preserves retroflex lateral approximant rarely found globally?",
+      "options": [
+        "Gujarati",
+        "Hindi",
+        "Tamil"
+      ],
+      "answer": "Tamil"
+    },
+    {
+      "question_id": 10,
+      "question": "Which language uses Ol Chiki script created for its written form?",
+      "options": [
+        "Bodo",
+        "Konkani",
+        "Santali"
+      ],
+      "answer": "Santali"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script reform led to the distinct rounded letters of Malayalam?",
+      "options": [
+        "Influence of palm-leaf manuscripts",
+        "Romanization",
+        "Devanagari adoption"
+      ],
+      "answer": "Influence of palm-leaf manuscripts"
+    },
+    {
+      "question_id": 12,
+      "question": "Which script reform in early 20th century simplified Bengali type by reducing ligatures?",
+      "options": [
+        "Romanization movement",
+        "Devanagari simplification",
+        "Bangla typewriter reforms"
+      ],
+      "answer": "Bangla typewriter reforms"
+    },
+    {
+      "question_id": 13,
+      "question": "Which North Indian script was used historically in inscriptions along Gandhara?",
+      "options": [
+        "Devanagari",
+        "Kharosthi",
+        "Bengali"
+      ],
+      "answer": "Kharosthi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Odia achievement earned the language classical status in 2014?",
+      "options": [
+        "Ancient literary heritage",
+        "Latin script adoption",
+        "Isolation from other languages"
+      ],
+      "answer": "Ancient literary heritage"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient Indian palaeographic source reveals South Indian use of Brahmi for Tamil-Brahmi inscriptions?",
+      "options": [
+        "Mughal farmans",
+        "Ashokan and Sangam inscriptions",
+        "Portuguese travelogues"
+      ],
+      "answer": "Ashokan and Sangam inscriptions"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which basic statistical measure gives the arithmetic average value of a dataset?",
+      "options": [
+        "Mode",
+        "Mean",
+        "Median"
+      ],
+      "answer": "Mean"
+    },
+    {
+      "question_id": 2,
+      "question": "What phrase describes an estimated interval that likely contains the true population parameter at a stated confidence level?",
+      "options": [
+        "Tolerance interval",
+        "Confidence interval",
+        "Prediction interval"
+      ],
+      "answer": "Confidence interval"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical paradox demonstrates that aggregated data can display trends opposite to those in disaggregated subgroups?",
+      "options": [
+        "Birthday paradox",
+        "Monty Hall paradox",
+        "Simpson's paradox"
+      ],
+      "answer": "Simpson's paradox"
+    },
+    {
+      "question_id": 4,
+      "question": "Which basic statistic identifies the value that occurs most frequently in a dataset?",
+      "options": [
+        "Mode",
+        "Median",
+        "Mean"
+      ],
+      "answer": "Mode"
+    },
+    {
+      "question_id": 5,
+      "question": "What model evaluation technique repeatedly splits data into training and validation sets to estimate predictive performance?",
+      "options": [
+        "Bootstrapping",
+        "Cross-validation",
+        "ANOVA"
+      ],
+      "answer": "Cross-validation"
+    },
+    {
+      "question_id": 6,
+      "question": "Which regularization method uses an L1 penalty to encourage sparse coefficient estimates in high-dimensional regression problems?",
+      "options": [
+        "Ordinary least squares",
+        "Ridge regression",
+        "LASSO"
+      ],
+      "answer": "LASSO"
+    },
+    {
+      "question_id": 7,
+      "question": "Which symbol denotes per thousand, used occasionally in demographic and financial statistics?",
+      "options": [
+        "%",
+        "‰",
+        "ppt"
+      ],
+      "answer": "‰"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistician formalized the Pearson correlation coefficient for measuring linear association between variables?",
+      "options": [
+        "Ronald Fisher",
+        "Karl Pearson",
+        "William Gosset"
+      ],
+      "answer": "Karl Pearson"
+    },
+    {
+      "question_id": 9,
+      "question": "Which class of algorithms generates samples from complex posterior distributions via random chains and transition kernels?",
+      "options": [
+        "Bootstrap",
+        "Cross-validation",
+        "Markov Chain Monte Carlo"
+      ],
+      "answer": "Markov Chain Monte Carlo"
+    },
+    {
+      "question_id": 10,
+      "question": "What term describes the complete set of individuals or items under study in a statistical investigation?",
+      "options": [
+        "Population",
+        "Sample",
+        "Outlier"
+      ],
+      "answer": "Population"
+    },
+    {
+      "question_id": 11,
+      "question": "Which regression technique models the probability of a binary outcome using the logit link and estimated coefficients?",
+      "options": [
+        "Logistic regression",
+        "Poisson regression",
+        "Linear regression"
+      ],
+      "answer": "Logistic regression"
+    },
+    {
+      "question_id": 12,
+      "question": "Which normality test computes a statistic from ordered sample values and compares correlation with expected normal scores?",
+      "options": [
+        "Shapiro–Wilk test",
+        "Kolmogorov–Smirnov test",
+        "Anderson–Darling test"
+      ],
+      "answer": "Shapiro–Wilk test"
+    },
+    {
+      "question_id": 13,
+      "question": "When ordering data, which measure identifies the middle value splitting the dataset into halves?",
+      "options": [
+        "Median",
+        "Mean",
+        "Range"
+      ],
+      "answer": "Median"
+    },
+    {
+      "question_id": 14,
+      "question": "Which average weights individual values by specified importance before summing and dividing by the total weights?",
+      "options": [
+        "Weighted mean",
+        "Median",
+        "Geometric mean"
+      ],
+      "answer": "Weighted mean"
+    },
+    {
+      "question_id": 15,
+      "question": "Which regression framework models clustered or hierarchical data by including both fixed and random effects terms?",
+      "options": [
+        "Mixed effects model",
+        "Linear regression",
+        "K-means clustering"
+      ],
+      "answer": "Mixed effects model"
+    }
+  ]
+}

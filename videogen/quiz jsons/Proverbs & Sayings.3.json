@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'Actions speak louder than words' mean?",
+      "options": [
+        "Speak more and act less",
+        "Behavior reveals true intentions",
+        "Words are always meaningless"
+      ],
+      "answer": "Behavior reveals true intentions"
+    },
+    {
+      "question_id": 2,
+      "question": "Which classical poet coined the Latin phrase 'Carpe diem'?",
+      "options": [
+        "Horace",
+        "Ovid",
+        "Virgil"
+      ],
+      "answer": "Horace"
+    },
+    {
+      "question_id": 3,
+      "question": "Which English proverb collection was published by John Heywood in 1546?",
+      "options": [
+        "A dialogue containing the number in effect of all the Prouerbes in the Englishe tongue",
+        "A Treasury of English Proverbs",
+        "The Proverbs of London"
+      ],
+      "answer": "A dialogue containing the number in effect of all the Prouerbes in the Englishe tongue"
+    },
+    {
+      "question_id": 4,
+      "question": "Complete: 'A penny saved is a penny ___'",
+      "options": [
+        "lost",
+        "spent",
+        "earned"
+      ],
+      "answer": "earned"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb expresses skepticism about appearances using rhyme?",
+      "options": [
+        "Beauty is only skin deep",
+        "Don't judge a book by its cover",
+        "All that glitters is not gold"
+      ],
+      "answer": "All that glitters is not gold"
+    },
+    {
+      "question_id": 6,
+      "question": "Which famous line did Alexander Pope write that is often quoted as a proverb about error and forgiveness?",
+      "options": [
+        "Brevity is the soul of wit",
+        "All the world's a stage",
+        "To err is human; to forgive, divine"
+      ],
+      "answer": "To err is human; to forgive, divine"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'Don't count your chickens before they hatch' advise?",
+      "options": [
+        "Avoid assuming outcomes prematurely",
+        "Raise chickens carefully",
+        "Sell eggs quickly"
+      ],
+      "answer": "Avoid assuming outcomes prematurely"
+    },
+    {
+      "question_id": 8,
+      "question": "Which author collected many English proverbs in the 17th century?",
+      "options": [
+        "John Dryden",
+        "John Ray",
+        "Samuel Pepys"
+      ],
+      "answer": "John Ray"
+    },
+    {
+      "question_id": 9,
+      "question": "Which method do paremiologists use to trace a proverb's origin across languages?",
+      "options": [
+        "Anecdotal recall",
+        "Random sampling",
+        "Comparative philology"
+      ],
+      "answer": "Comparative philology"
+    },
+    {
+      "question_id": 10,
+      "question": "Complete: 'Don't bite off more than you can ___'",
+      "options": [
+        "swallow",
+        "carry",
+        "chew"
+      ],
+      "answer": "chew"
+    },
+    {
+      "question_id": 11,
+      "question": "Which fable explains the lesson 'Slow and steady wins the race'?",
+      "options": [
+        "The Boy Who Cried Wolf",
+        "The Tortoise and the Hare",
+        "The Fox and the Grapes"
+      ],
+      "answer": "The Tortoise and the Hare"
+    },
+    {
+      "question_id": 12,
+      "question": "Which proverb phrase did Shakespeare use meaning true appearances can be deceptive, originally spelled 'glisters'?",
+      "options": [
+        "Too many cooks spoil the broth",
+        "A rolling stone gathers no moss",
+        "All that glisters is not gold"
+      ],
+      "answer": "All that glisters is not gold"
+    },
+    {
+      "question_id": 13,
+      "question": "What advice does 'A stitch in time saves nine' give?",
+      "options": [
+        "Work faster than others",
+        "Fix small problems early",
+        "Sew nine stitches at once"
+      ],
+      "answer": "Fix small problems early"
+    },
+    {
+      "question_id": 14,
+      "question": "Which proverb tells you to avoid unnecessary risk by preparing backup plans?",
+      "options": [
+        "Idle hands are the devil's workshop",
+        "Every dog has its day",
+        "Don't put all your eggs in one basket"
+      ],
+      "answer": "Don't put all your eggs in one basket"
+    },
+    {
+      "question_id": 15,
+      "question": "Which novelist borrowed a line from Robert Burns for his title 'Of Mice and Men'?",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "John Steinbeck"
+      ],
+      "answer": "John Steinbeck"
+    }
+  ]
+}

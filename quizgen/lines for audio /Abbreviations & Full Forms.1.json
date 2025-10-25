@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does BBC stand for?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does WTO mean?"
+    },
+    {
+      "question_id": 3,
+      "question": "What does AES refer to in encryption?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does ECG refer to in medicine?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the full form of SQL in databases?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does SFTP expand to compared to FTP?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the full form of MRI?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the full form of LASER?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the meaning of the acronym TLA?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the full form of HTTP?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does BIOS mean on startup screens?"
+    },
+    {
+      "question_id": 12,
+      "question": "What do the letters KLM originally abbreviate in Dutch?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the full form of LED?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does LIFO stand for in accounting?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the full form of LDAP?"
+    }
+  ]
+}

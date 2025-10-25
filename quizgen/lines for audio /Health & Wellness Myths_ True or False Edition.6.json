@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which statement about natural supplements equaling safety is true?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which myth about cold viruses and humidity reflects studies?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historical example shows a high-profile health myth spread by celebrity endorsement?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which claim about barefoot running preventing injuries is most accurate?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which finding about probiotic supplements and digestive health is accurate?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which risk is associated with excessive vitamin D supplementation documented in literature?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which statement about sitting and exercise is true?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which finding about energy drinks and endurance aligns with studies?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which epidemiological result links processed meat to cancer risk classifications?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which belief about microwave ovens is correct?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statement about bone broth and joint healing reflects evidence?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which clinical observation challenges claims that raw milk is safer than pasteurized milk?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which historical fact explains the placebo-controlled trial surge in the 20th century?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which experimental result undermines claims that alkaline water significantly changes blood pH?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which regulatory action addressed ear candling safety in the United States around 2007?"
+    }
+  ]
+}

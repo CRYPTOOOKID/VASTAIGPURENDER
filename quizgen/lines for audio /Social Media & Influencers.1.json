@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded Facebook in 2004?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which metric helps measure influencer-driven sales from unique URLs?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which approach reduces attribution leakage when tracking influencer-driven sales?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which platform is best known for short vertical video clips?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which platform launched a Creator Fund focused on creator payouts in 2020?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which U.S. legal concept has been applied when influencers misrepresent product experiences?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is influencer marketing?"
+    },
+    {
+      "question_id": 8,
+      "question": "What legal issue rose from influencer promotion of the 2017 Fyre Festival?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which platform launched a $200 million creator fund for YouTube Shorts in 2021?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which platform is best known for long-form video content?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is \"affiliate marketing\" for influencers?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which analytics approach attributes conversions across multiple influencer touchpoints?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a \"hashtag\" primarily used for?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which platform's algorithm was originally known as EdgeRank?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which analytics signal indicates an influencer's audience is highly niche and engaged?"
+    }
+  ]
+}

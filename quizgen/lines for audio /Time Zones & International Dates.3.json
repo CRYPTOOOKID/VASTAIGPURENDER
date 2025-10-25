@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a common reason countries adjust their time zones historically?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country uses two standard time zones despite its small land area due to political reasons?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which global navigation satellite system provides precise time synchronization crucial for UTC realization?"
+    },
+    {
+      "question_id": 4,
+      "question": "If it is 6 PM in Los Angeles (UTC-8 standard), what time is it in New York (UTC-5 standard)?"
+    },
+    {
+      "question_id": 5,
+      "question": "What rare adjustment adds a second to UTC to align atomic clocks with Earth's rotation?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which airline/time-industry standard uses the letter 'Z' to denote UTC?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the typical length of one time zone in degrees of longitude?"
+    },
+    {
+      "question_id": 8,
+      "question": "What major change did Russia implement in 2011 related to clocks?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which municipality uniquely observes a different time zone than its surrounding region for commerce reasons in the U.S.?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes adjusting clocks backward one hour at the end of DST?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country uses UTC+4:30 as its official time?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which legal instrument in the UK originally defined Greenwich Mean Time as the legal time of Great Britain?"
+    },
+    {
+      "question_id": 13,
+      "question": "How many hours ahead is Tokyo (UTC+9) from London (UTC+0)?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which region observes the world's easternmost time zone at UTC+14?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which historical convention set the day starting at midnight worldwide for civil purposes?"
+    }
+  ]
+}

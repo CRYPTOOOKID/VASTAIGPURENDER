@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is inflation commonly defined as?",
+      "options": [
+        "A sustained rise in the general price level",
+        "A one-time increase in a single product's price",
+        "A rise in the stock market index"
+      ],
+      "answer": "A sustained rise in the general price level"
+    },
+    {
+      "question_id": 2,
+      "question": "Which account records exports and imports of goods and services?",
+      "options": [
+        "Current account",
+        "Capital account",
+        "Financial account"
+      ],
+      "answer": "Current account"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the economic meaning of a liquidity trap?",
+      "options": [
+        "Interest rates near zero making monetary policy ineffective",
+        "Excessive inflation despite high interest rates",
+        "Unlimited fiscal borrowing crowding out investment"
+      ],
+      "answer": "Interest rates near zero making monetary policy ineffective"
+    },
+    {
+      "question_id": 4,
+      "question": "What is monetary policy?",
+      "options": [
+        "Central bank actions to control money supply and interest rates",
+        "Government budgeting process",
+        "International trade agreements"
+      ],
+      "answer": "Central bank actions to control money supply and interest rates"
+    },
+    {
+      "question_id": 5,
+      "question": "What is meant by 'moral hazard' in finance?",
+      "options": [
+        "Insured parties taking greater risks",
+        "Borrowers repaying loans early",
+        "Savers choosing low-risk assets"
+      ],
+      "answer": "Insured parties taking greater risks"
+    },
+    {
+      "question_id": 6,
+      "question": "What does the Heckscher-Ohlin theorem predict about trade patterns?",
+      "options": [
+        "Countries export goods intensive in their abundant factors",
+        "Countries always export identical goods",
+        "Trade depends only on technology differences"
+      ],
+      "answer": "Countries export goods intensive in their abundant factors"
+    },
+    {
+      "question_id": 7,
+      "question": "What is opportunity cost?",
+      "options": [
+        "Value of the best foregone alternative",
+        "Sum of all expenses",
+        "Money spent on an investment"
+      ],
+      "answer": "Value of the best foregone alternative"
+    },
+    {
+      "question_id": 8,
+      "question": "What does GDP deflator measure versus CPI?",
+      "options": [
+        "Prices of all domestically produced goods and services",
+        "Prices of imported consumer goods only",
+        "Producer input prices only"
+      ],
+      "answer": "Prices of all domestically produced goods and services"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the Stolper-Samuelson theorem connect in trade theory?",
+      "options": [
+        "Trade liberalization raises return to abundant factor and lowers return to scarce factor",
+        "Tariffs always raise wages countrywide",
+        "Exports reduce domestic capital returns uniformly"
+      ],
+      "answer": "Trade liberalization raises return to abundant factor and lowers return to scarce factor"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'price ceiling' imply?",
+      "options": [
+        "Maximum legal price set below equilibrium",
+        "Minimum legal price above equilibrium",
+        "Free-market price"
+      ],
+      "answer": "Maximum legal price set below equilibrium"
+    },
+    {
+      "question_id": 11,
+      "question": "Which concept describes benefits from larger production scale?",
+      "options": [
+        "Economies of scale",
+        "Diminishing returns",
+        "Comparative advantage"
+      ],
+      "answer": "Economies of scale"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept captures the short-run trade-off between inflation and unemployment?",
+      "options": [
+        "Short-run Phillips Curve",
+        "Laffer Curve",
+        "Okun's Law"
+      ],
+      "answer": "Short-run Phillips Curve"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'liquidity' describe?",
+      "options": [
+        "Ease of converting an asset to cash",
+        "Long-term profitability",
+        "Amount of debt outstanding"
+      ],
+      "answer": "Ease of converting an asset to cash"
+    },
+    {
+      "question_id": 14,
+      "question": "Which component belongs to GDP using expenditure approach?",
+      "options": [
+        "Investment spending by firms",
+        "Household savings",
+        "Stock market transactions"
+      ],
+      "answer": "Investment spending by firms"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metric captures total factor productivity in growth accounting?",
+      "options": [
+        "Residual not explained by measured labor and capital inputs",
+        "Sum of labor and capital inputs",
+        "Government spending share"
+      ],
+      "answer": "Residual not explained by measured labor and capital inputs"
+    }
+  ]
+}

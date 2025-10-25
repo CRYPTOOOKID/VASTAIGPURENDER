@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does trypophobia describe?",
+      "options": [
+        "Fear of clustered holes",
+        "Fear of tight spaces",
+        "Fear of loud noises"
+      ],
+      "answer": "Fear of clustered holes"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia's name derives from Greek roots meaning 'long words' used ironically?",
+      "options": [
+        "Sesquipedalophobia",
+        "Dromophobia",
+        "Kakorrhaphiophobia"
+      ],
+      "answer": "Sesquipedalophobia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia term refers to fear specifically triggered by celebrity clowns in media?",
+      "options": [
+        "Coulrophobia",
+        "Sociophobia",
+        "Hemophobia"
+      ],
+      "answer": "Coulrophobia"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia term refers to fear of dolls and is common in horror motifs?",
+      "options": [
+        "Pediophobia",
+        "Xenophobia",
+        "Hydrophobia"
+      ],
+      "answer": "Pediophobia"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia specifically concerns fear of belly buttons and associated sensations?",
+      "options": [
+        "Omphalophobia",
+        "Alektorophobia",
+        "Astrophobia"
+      ],
+      "answer": "Omphalophobia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which famous cartoonist indirectly inspired a fictional phobia about being watched by a duck?",
+      "options": [
+        "Gary Larson",
+        "Charles Schulz",
+        "Bill Watterson"
+      ],
+      "answer": "Gary Larson"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia describes fear of being stared at or observed?",
+      "options": [
+        "Scopophobia",
+        "Phonophobia",
+        "Cynophobia"
+      ],
+      "answer": "Scopophobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia is fear of being alone and sometimes overlaps with separation anxiety?",
+      "options": [
+        "Autophobia",
+        "Hemophobia",
+        "Cibophobia"
+      ],
+      "answer": "Autophobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia name originates from Greek terms for 'navel' and 'fear' used in case studies?",
+      "options": [
+        "Omphalophobia",
+        "Sociophobia",
+        "Panophobia"
+      ],
+      "answer": "Omphalophobia"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia describes fear of being overweight or of gaining weight?",
+      "options": [
+        "Pervasive eating phobia",
+        "Obesophobia",
+        "Aichmophobia"
+      ],
+      "answer": "Obesophobia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia specifically describes fear of crossing bridges or overpasses?",
+      "options": [
+        "Gephyrophobia",
+        "Bathmophobia",
+        "Eisoptrophobia"
+      ],
+      "answer": "Gephyrophobia"
+    },
+    {
+      "question_id": 12,
+      "question": "Which unusual phobia has roots in a medieval fear of being buried alive?",
+      "options": [
+        "Taphophobia",
+        "Thanatophobia",
+        "Nyctophobia"
+      ],
+      "answer": "Taphophobia"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia name indicates fear of being stared at by others in social settings?",
+      "options": [
+        "Scopophobia",
+        "Chronophobia",
+        "Hydrophobia"
+      ],
+      "answer": "Scopophobia"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia term historically referenced fear of walking on stairs in performance anxiety cases?",
+      "options": [
+        "Bathmophobia",
+        "Aerophobia",
+        "Ophidiophobia"
+      ],
+      "answer": "Bathmophobia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia refers to fear of holes in skin or patterns, debated by researchers?",
+      "options": [
+        "Trypophobia",
+        "Agoraphobia",
+        "Hemophobia"
+      ],
+      "answer": "Trypophobia"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which burger chain used the tagline \"Have It Your Way\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand used \"The Ultimate Driving Machine\" to emphasize performance?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which slogan launched in 1993 as a question to boost milk consumption?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which insurer uses \"Like a good neighbor, State Farm is there\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote the famous line \"A diamond is forever\" for De Beers?"
+    },
+    {
+      "question_id": 6,
+      "question": "Whose last words inspired Dan Wieden to coin \"Just Do It\" for Nike?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which beauty brand uses \"Because You're Worth It\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which beverage brand once used the classic line \"The Pause That Refreshes\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which famous tagline was created by an agency to capitalize on being second in market share?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which fast-food chain uses \"Finger Lickin' Good\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which home product used a superlative slogan claiming quick cleanup superiority?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which slogan's origin story involves a copywriter reacting to a client brief about desire and worth?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which automaker uses the German slogan \"Vorsprung durch Technik\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company introduced the global tagline \"Open Happiness\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which brand's slogan translates roughly as \"Progress through Technology\"?"
+    }
+  ]
+}

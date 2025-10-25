@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded eBay and listed the first auction there?",
+      "options": [
+        "Pierre Omidyar",
+        "Jeff Bezos",
+        "Jack Ma"
+      ],
+      "answer": "Pierre Omidyar"
+    },
+    {
+      "question_id": 2,
+      "question": "Who founded Zoom Video Communications and served as its CEO?",
+      "options": [
+        "Drew Houston",
+        "Stewart Butterfield",
+        "Eric Yuan"
+      ],
+      "answer": "Eric Yuan"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare stock event occurred when Google's IPO used a Dutch auction in 2004?",
+      "options": [
+        "Dutch auction pricing method",
+        "Traditional underwriters only",
+        "Direct listing without underwriting"
+      ],
+      "answer": "Dutch auction pricing method"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded the LEGO Group?",
+      "options": [
+        "Godtfred Kirk Christiansen",
+        "Ole Kirk Christiansen",
+        "Kjeld Kirk Kristiansen"
+      ],
+      "answer": "Ole Kirk Christiansen"
+    },
+    {
+      "question_id": 5,
+      "question": "Which female entrepreneur founded the Estée Lauder cosmetics company?",
+      "options": [
+        "Helena Rubinstein",
+        "Mary Kay Ash",
+        "Estée Lauder"
+      ],
+      "answer": "Estée Lauder"
+    },
+    {
+      "question_id": 6,
+      "question": "What mathematical term inspired the name 'Google'?",
+      "options": [
+        "Googol",
+        "Gaussian",
+        "Godel"
+      ],
+      "answer": "Googol"
+    },
+    {
+      "question_id": 7,
+      "question": "Who co-founded Microsoft with Paul Allen?",
+      "options": [
+        "Steve Jobs",
+        "Bill Gates",
+        "Mark Zuckerberg"
+      ],
+      "answer": "Bill Gates"
+    },
+    {
+      "question_id": 8,
+      "question": "Who replaced Steve Ballmer as Microsoft CEO in 2014?",
+      "options": [
+        "Satya Nadella",
+        "Tim Cook",
+        "Sundar Pichai"
+      ],
+      "answer": "Satya Nadella"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Microsoft executive led Cloud & Enterprise before becoming CEO in 2014?",
+      "options": [
+        "Kevin Turner",
+        "Satya Nadella",
+        "Steve Ballmer"
+      ],
+      "answer": "Satya Nadella"
+    },
+    {
+      "question_id": 10,
+      "question": "Which pair co-founded Google?",
+      "options": [
+        "Steve Jobs and Steve Wozniak",
+        "Bill Gates and Paul Allen",
+        "Larry Page and Sergey Brin"
+      ],
+      "answer": "Larry Page and Sergey Brin"
+    },
+    {
+      "question_id": 11,
+      "question": "Which WhatsApp co-founder previously worked at Yahoo?",
+      "options": [
+        "Evan Spiegel",
+        "Jan Koum",
+        "Brian Acton"
+      ],
+      "answer": "Jan Koum"
+    },
+    {
+      "question_id": 12,
+      "question": "Which co-founder of WhatsApp emigrated from Ukraine and later sold the app to Facebook?",
+      "options": [
+        "Jan Koum",
+        "Brian Acton",
+        "Vlad Tenev"
+      ],
+      "answer": "Jan Koum"
+    },
+    {
+      "question_id": 13,
+      "question": "Who founded Dell Technologies?",
+      "options": [
+        "Gordon Moore",
+        "Steve Jobs",
+        "Michael Dell"
+      ],
+      "answer": "Michael Dell"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Apple first go public?",
+      "options": [
+        "1976",
+        "1984",
+        "1980"
+      ],
+      "answer": "1980"
+    },
+    {
+      "question_id": 15,
+      "question": "Which entrepreneur founded Dell from a dorm room selling upgraded PCs?",
+      "options": [
+        "Steve Jobs",
+        "Bill Gates",
+        "Michael Dell"
+      ],
+      "answer": "Michael Dell"
+    }
+  ]
+}

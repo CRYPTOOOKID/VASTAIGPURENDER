@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ride-hailing unicorn launched in 2009 and expanded globally rapidly?",
+      "options": [
+        "Didi",
+        "Uber",
+        "Lyft"
+      ],
+      "answer": "Uber"
+    },
+    {
+      "question_id": 2,
+      "question": "Which startup accelerator publishes a widely used startup directory and funded companies like Dropbox?",
+      "options": [
+        "Y Combinator",
+        "Plug and Play",
+        "Seedcamp"
+      ],
+      "answer": "Y Combinator"
+    },
+    {
+      "question_id": 3,
+      "question": "Which evaluation method calculates firm value based on projected future cash flows discounted to present value?",
+      "options": [
+        "Asset liquidation value",
+        "Discounted Cash Flow (DCF)",
+        "Comparables analysis"
+      ],
+      "answer": "Discounted Cash Flow (DCF)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which electric-vehicle company began as a startup and later became a major public firm?",
+      "options": [
+        "Ford",
+        "General Motors",
+        "Tesla"
+      ],
+      "answer": "Tesla"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes smaller ownership pieces that decrease each founder's stake after funding?",
+      "options": [
+        "Amortization",
+        "Leverage",
+        "Dilution"
+      ],
+      "answer": "Dilution"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Asian unicorn disrupted payments and lending, later expanding into BNPL services globally?",
+      "options": [
+        "Ant Group in China",
+        "Paytm in India",
+        "Klarna originated in Sweden but expanded globally"
+      ],
+      "answer": "Ant Group in China"
+    },
+    {
+      "question_id": 7,
+      "question": "Which messaging app was acquired by Facebook in 2014 for a high price?",
+      "options": [
+        "WhatsApp",
+        "Telegram",
+        "Viber"
+      ],
+      "answer": "WhatsApp"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a \"down round\" in startup financing?",
+      "options": [
+        "Founder buyout transaction",
+        "Funding above last valuation",
+        "New funding at a lower valuation than the previous round"
+      ],
+      "answer": "New funding at a lower valuation than the previous round"
+    },
+    {
+      "question_id": 9,
+      "question": "Which business model metric captures total dollar value of transactions on a marketplace platform?",
+      "options": [
+        "Customer Lifetime Value",
+        "Net Revenue",
+        "Gross Merchandise Value (GMV)"
+      ],
+      "answer": "Gross Merchandise Value (GMV)"
+    },
+    {
+      "question_id": 10,
+      "question": "Who co-founded Stripe, the online payments unicorn?",
+      "options": [
+        "Brian and Mark Armstrong",
+        "Patrick and John Collison",
+        "Evan and Bobby Spiegel"
+      ],
+      "answer": "Patrick and John Collison"
+    },
+    {
+      "question_id": 11,
+      "question": "Which accelerator-created financing form replaced convertible notes for many startups after 2013?",
+      "options": [
+        "Warrants",
+        "SAFE (Simple Agreement for Future Equity)",
+        "Preferred shares"
+      ],
+      "answer": "SAFE (Simple Agreement for Future Equity)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which startup community practice encourages sharing revenue and growth lessons in closed founder groups like YC?",
+      "options": [
+        "Peer founder mentorship and demo days",
+        "Formal university coursework",
+        "Public quarterly reports"
+      ],
+      "answer": "Peer founder mentorship and demo days"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an IPO in the context of startups?",
+      "options": [
+        "A late-stage private funding round",
+        "A company's first sale of stock to the public",
+        "An acquisition by another company"
+      ],
+      "answer": "A company's first sale of stock to the public"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term describes a private startup valued above $10 billion?",
+      "options": [
+        "Hectocorn",
+        "Decacorn",
+        "Micro-unicorn"
+      ],
+      "answer": "Decacorn"
+    },
+    {
+      "question_id": 15,
+      "question": "Which investor type often buys shares from employees in secondary transactions before liquidity events?",
+      "options": [
+        "Secondary market funds and crossover investors",
+        "Retail investors",
+        "Government pension funds exclusively"
+      ],
+      "answer": "Secondary market funds and crossover investors"
+    }
+  ]
+}

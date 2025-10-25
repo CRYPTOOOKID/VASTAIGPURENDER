@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What common instrument measures temperature in everyday weather reports?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which unit measures magnetic flux density in the SI system?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which unit describes optical luminous exposure with lux-seconds often used in photography?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which unit measures electric current in the SI system?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which SI base unit was redefined in 2019 by fixing the Boltzmann constant?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which unit in radio astronomy measures spectral flux density equal to 10^-26 watts per square meter per hertz?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which everyday unit measures short distances in the imperial system?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which unit measures electrical conductance in SI units?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which unit describes visible light intensity per unit area weighted by human vision response?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which unit is used for measuring angles in many contexts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which historical figure helped measure the meridian to establish the original meter?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which measurement unit originally defined paper sizes in ISO 216 relates area halves by folding?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which unit is commonly used to measure mass in the SI system?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which unit measures optical irradiance, commonly expressed in watts per square meter?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specialized unit measures luminous efficacy in lumens per watt for light sources?"
+    }
+  ]
+}

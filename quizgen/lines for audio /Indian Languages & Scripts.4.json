@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which script is traditionally used for Kashmiri in much of Kashmir?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which language family does Khasi belong to within India?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which medieval inscription language appears in Ashokan edicts in northwest India?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which script is used for writing Bengali and Assamese scripts share close similarity?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Mughal-era Persianized script influenced writing Urdu in India?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which scholar compiled the first comparative Dravidian language family evidence in the 19th century?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script was historically used for Telugu and Kannada before divergence?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script variant shows the distinctive rounded shapes used in Telugu and Kannada?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 19th-century figure promoted the Hunterian transliteration standard for Indian place names?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which script is primarily used to write Hindi today?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which language became the first to receive 'Classical' status in India in 2004?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare Brahmi variant influenced the development of Kannada-Telugu scripts in the Deccan?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian language family includes Assamese and Bengali?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script did the Bhattiprolu inscriptions use, important for south Indian paleography?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 19th-century printing press produced the first major Bengali printed books in Calcutta?"
+    }
+  ]
+}

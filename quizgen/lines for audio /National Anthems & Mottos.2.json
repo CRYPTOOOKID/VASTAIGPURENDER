@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which European country's national anthem is officially instrumental with no lyrics?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's anthem contains stanzas originally written to inspire revolution in 1792?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national motto is inscribed on the Canadian $1 coin and literally means 'From sea to sea'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country sings 'La Bayamesa' as its national anthem?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who composed the music for 'O Canada' in 1880?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country's motto 'Satyameva Jayate' is taken from the ancient Sanskrit Mundaka Upanishad?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country's national anthem is titled 'Himno Nacional Mexicano'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which national anthem is officially bilingual in English and French?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem's present lyrics were penned by the same author who wrote the Soviet anthem lyrics later adapted for modern use?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country's national motto is 'Liberté, égalité, fraternité'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who wrote both the words and music of 'La Marseillaise' in 1792?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country's motto on its national emblem reads 'E Pluribus Unum' though a different phrase is currently the official motto?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country combines multiple languages including Xhosa, Zulu, Afrikaans, and English in its national anthem?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nation's national motto uses a phrase from the Upanishads?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national motto became official only in 1956 despite earlier popular use?"
+    }
+  ]
+}

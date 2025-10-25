@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who famously declared \"I have a dream\" during a 1963 civil rights speech?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote \"Blood, toil, tears and sweat\" in his first wartime speech as leader?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 18th-century monarch said \"I will not let anyone walk through my mind with their dirty feet\"?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who wrote \"Veni, vidi, vici\" after a swift Roman victory?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which leader said \"Peace without victory\" speaking after World War I started in 1917?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval ruler declared \"I am the shepherd of my people\" in papal coronation disputes?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which leader declared \"A house divided against itself cannot stand\" in 1858?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which monarch declared \"I will maintain\" as part of a coronation oath in the Tudor era?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which czar declared \"One and indivisible\" to consolidate state authority after rebellion?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which leader shouted \"Give me liberty or give me death\" in 1775?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who said \"The medium is the message\" about communication's societal effects in the 20th century?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Greek leader wrote \"The price of freedom is eternal vigilance\" in a political aphorism?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who stated \"The world will little note, nor long remember\" in the Gettysburg Address?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Roman orator wrote \"A nation can survive its fools\" expressing civic sentiment?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which South African leader wrote \"It always seems impossible until it is done\" during liberation struggles?"
+    }
+  ]
+}

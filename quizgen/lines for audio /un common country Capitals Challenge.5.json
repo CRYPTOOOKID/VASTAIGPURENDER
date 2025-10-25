@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Burkina Faso, a cultural and music hub in West Africa?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which island nation's capital moved between islands historically, now located on a different larger island?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital was the target of a major relocation plan under President Teodoro Obiang, aiming for growth inland?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city is the capital of Fiji, located on the island of Viti Levu?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital is known for being a major banana export hub yet remains a small, often overlooked national capital?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital replaced a colonial-era port city after independence to provide a safer inland administrative center?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which district functions as the de facto capital of Nauru where government offices are located?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital became the seat of government for a country after independence in 1975 and is on the north coast?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital replaced Koror after construction of a purpose-built capital complex inland in 2006?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city is the national capital of Niger, located on the Niger River's edge?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital is famed for a colonial-era fortress called 'Fort Charlotte' overlooking a harbor?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital is located within the traditional kingdom seat of Lobamba, hosting royal ceremonies for a monarchy?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of the Independent State of Samoa, on the island of Upolu?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which small African capital sits on a narrow peninsula and was a colonial trading post for centuries?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital is the seat of government for a country whose largest city remains the commercial center rather than the official capital?"
+    }
+  ]
+}

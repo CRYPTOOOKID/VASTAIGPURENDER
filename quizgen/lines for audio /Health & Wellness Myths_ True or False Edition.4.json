@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which claim about gluten-free diets is accurate?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which explanation about intermittent fasting and weight loss is accurate?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which documented public-health outcome followed anti-vaccine misinformation outbreaks?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which claim about eating fat is supported by modern nutrition science?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which statement about charcoal detox pills reflects regulatory guidance?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which documented policy reduced false health claims in advertising historically?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which statement reflects the truth about vaccines and autism?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which claim about consuming carrots and beta-carotene is accurate?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which biochemical fact explains why cholesterol in eggs has limited impact for most people?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which idea about sleep needs is supported by research?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which claim about HPV vaccine and sexual behavior aligns with research?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which study type best challenges detox diet claims about toxin removal?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which claim about stretching before exercise is most accurate?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which explanation fits the placebo effect in alternative therapies?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which mechanistic insight explains why antioxidant supplements sometimes harm instead of help?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which jumper reached supersonic freefall in 2012?",
+      "options": [
+        "Alan Eustace",
+        "Joe Kittinger",
+        "Felix Baumgartner"
+      ],
+      "answer": "Felix Baumgartner"
+    },
+    {
+      "question_id": 2,
+      "question": "What speed did Ken Warby's Spirit of Australia record in 1978?",
+      "options": [
+        "341.02 mph",
+        "318.60 mph",
+        "289.12 mph"
+      ],
+      "answer": "318.60 mph"
+    },
+    {
+      "question_id": 3,
+      "question": "Which authority often certifies human-powered vehicle speed records at Bonneville?",
+      "options": [
+        "FAI alone",
+        "FIA alone",
+        "Human Powered Vehicle (HPV) Governing bodies and timing officials"
+      ],
+      "answer": "Human Powered Vehicle (HPV) Governing bodies and timing officials"
+    },
+    {
+      "question_id": 4,
+      "question": "Which German test track is famous for controlled high-speed car runs?",
+      "options": [
+        "Ehra‑Lessien",
+        "Nürburgring",
+        "Hockenheimring"
+      ],
+      "answer": "Ehra‑Lessien"
+    },
+    {
+      "question_id": 5,
+      "question": "How fast did Vestas Sailrocket 2 sail to set its world record in knots?",
+      "options": [
+        "72.11 knots",
+        "65.45 knots",
+        "54.32 knots"
+      ],
+      "answer": "65.45 knots"
+    },
+    {
+      "question_id": 6,
+      "question": "Which French train set the 574.8 km/h conventional rail record in 2007?",
+      "options": [
+        "ICE 3",
+        "Shinkansen E5 series",
+        "TGV V150 test set"
+      ],
+      "answer": "TGV V150 test set"
+    },
+    {
+      "question_id": 7,
+      "question": "Which rocket-powered research plane set extreme manned speed records in the 1960s?",
+      "options": [
+        "Bell X-1",
+        "Concorde",
+        "North American X-15"
+      ],
+      "answer": "North American X-15"
+    },
+    {
+      "question_id": 8,
+      "question": "What top speed did the Bugatti Chiron Super Sport 300+ reach in 2019?",
+      "options": [
+        "304.773 mph",
+        "277.87 mph",
+        "331.15 mph"
+      ],
+      "answer": "304.773 mph"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rocket plane program produced some of the earliest high‑velocity manned data in the 1960s?",
+      "options": [
+        "X-15 program",
+        "X-1 program",
+        "Bell X-2 program"
+      ],
+      "answer": "X-15 program"
+    },
+    {
+      "question_id": 10,
+      "question": "Which car officially broke the sound barrier on land first?",
+      "options": [
+        "ThrustSSC",
+        "Bloodhound SSC",
+        "Thrust2"
+      ],
+      "answer": "ThrustSSC"
+    },
+    {
+      "question_id": 11,
+      "question": "Where did Bugatti conduct its 300+ mph test in Germany?",
+      "options": [
+        "Nürburgring",
+        "Hockenheimring",
+        "Ehra‑Lessien"
+      ],
+      "answer": "Ehra‑Lessien"
+    },
+    {
+      "question_id": 12,
+      "question": "Which organization adjudicates aviation speed records like SR-71 and X-15?",
+      "options": [
+        "Fédération Aéronautique Internationale (FAI)",
+        "Guinness World Records",
+        "FIA"
+      ],
+      "answer": "Fédération Aéronautique Internationale (FAI)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which experimental unmanned aircraft exceeded Mach 9 in tests?",
+      "options": [
+        "Lockheed U-2",
+        "NASA X-43A",
+        "Boeing 747"
+      ],
+      "answer": "NASA X-43A"
+    },
+    {
+      "question_id": 14,
+      "question": "What speed in mph did ThrustSSC record during its 1997 run?",
+      "options": [
+        "704.187 mph",
+        "633.468 mph",
+        "763.035 mph"
+      ],
+      "answer": "763.035 mph"
+    },
+    {
+      "question_id": 15,
+      "question": "Which category does the Vestas Sailrocket 2 record belong to?",
+      "options": [
+        "Offshore powerboat speed",
+        "Speed sailing (single-hull test craft)",
+        "America's Cup match racing"
+      ],
+      "answer": "Speed sailing (single-hull test craft)"
+    }
+  ]
+}

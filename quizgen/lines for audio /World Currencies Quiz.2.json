@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency is used in Malaysia?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency uses the ISO code NOK?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country’s currency includes a plurality of languages on its banknotes reflecting multiple official languages?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which currency is used in Indonesia?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Asian currency switched from the 'old' to a new series featuring modern security in 2006 with polymer notes later?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which European country retained its currency unit named 'dinar' across multiple political regimes in the Balkans?"
+    },
+    {
+      "question_id": 7,
+      "question": "What currency do Egypt and several North African countries use historically under the same name?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency is subdivided into 100 lere and used in Albania?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency is subdivided into 100 centimes and was used in a North African country under French administration?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the currency of Canada?"
+    },
+    {
+      "question_id": 11,
+      "question": "What currency did the Euro replace in Germany in 2002?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which East Asian currency is known for using vertical script on some older banknote designs?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which currency is used in Argentina?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which currency replaced the Soviet ruble in many former Soviet states as they gained independence?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country’s currency includes a banknote series commemorating a famous composer on its highest denomination?"
+    }
+  ]
+}

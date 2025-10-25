@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which test is commonly used to monitor long-term blood glucose control?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which drug class is first-line for acute asthma relief by bronchodilation?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which dermatologic condition features autoimmune blistering caused by antibodies against desmoglein proteins?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which condition characterizes type 1 diabetes at a basic level?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pathogen commonly causes urinary tract infections in adult women?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which neurologic sign indicates upper motor neuron lesion with increased tone and brisk reflexes?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'benign' indicate about a tumor's behavior?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which bacterium is the principal cause of peptic ulcer disease and some gastric cancers?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which renal pathology features proteinuria, hypoalbuminemia, hyperlipidemia, and edema as a syndrome?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organ does 'gastric' specifically refer to in medical terms?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which imaging technique uses high-frequency sound waves to evaluate soft tissues and blood flow?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which diagnostic criterion specifies hemoglobin A1c threshold to diagnose diabetes mellitus currently?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which autoimmune encephalitis is associated with antibodies against NMDA receptors and psychiatric symptoms?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which chemotherapeutic agent crosslinks DNA and is associated with hemorrhagic cystitis risk?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which immunotherapy targets PD-1 or PD-L1 pathways to release T-cell inhibition in cancer treatment?"
+    }
+  ]
+}

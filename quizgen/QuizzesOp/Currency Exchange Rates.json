@@ -1,0 +1,955 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does an exchange rate represent?",
+        "options": [
+          "The price of one currency in terms of another",
+          "The interest rate set by a central bank",
+          "The inflation rate of a country"
+        ],
+        "answer": "The price of one currency in terms of another"
+      },
+      {
+        "question": "Which currency pair is commonly quoted as EUR/USD?",
+        "options": [
+          "Euro versus US dollar",
+          "British pound versus US dollar",
+          "US dollar versus Japanese yen"
+        ],
+        "answer": "Euro versus US dollar"
+      },
+      {
+        "question": "What does a stronger domestic currency mean for imports?",
+        "options": [
+          "Imported goods become cheaper",
+          "Imported goods become more expensive",
+          "No change to import prices"
+        ],
+        "answer": "Imported goods become cheaper"
+      },
+      {
+        "question": "Which institution typically intervenes to influence a national exchange rate?",
+        "options": [
+          "Central bank",
+          "Commercial bank",
+          "Stock exchange"
+        ],
+        "answer": "Central bank"
+      },
+      {
+        "question": "What is a fixed exchange rate system?",
+        "options": [
+          "A government pegs its currency to another currency",
+          "Exchange rates float freely with market forces",
+          "Exchange rates change daily by public referendum"
+        ],
+        "answer": "A government pegs its currency to another currency"
+      },
+      {
+        "question": "What is a floating exchange rate?",
+        "options": [
+          "Rate determined by market supply and demand",
+          "Rate set by a government decree",
+          "Rate fixed to the price of gold"
+        ],
+        "answer": "Rate determined by market supply and demand"
+      },
+      {
+        "question": "What is a currency pair's base currency?",
+        "options": [
+          "The first currency listed in the pair",
+          "The second currency listed in the pair",
+          "The currency with higher value"
+        ],
+        "answer": "The first currency listed in the pair"
+      },
+      {
+        "question": "Which market provides continuous trading of currencies worldwide?",
+        "options": [
+          "Foreign exchange (Forex)",
+          "Commodity market",
+          "Bond market"
+        ],
+        "answer": "Foreign exchange (Forex)"
+      },
+      {
+        "question": "What does 'bid price' mean in FX quotes?",
+        "options": [
+          "Price at which a dealer will buy a currency",
+          "Price at which a dealer will sell a currency",
+          "Price at which government sets the currency"
+        ],
+        "answer": "Price at which a dealer will buy a currency"
+      },
+      {
+        "question": "What does 'ask price' mean in FX quotes?",
+        "options": [
+          "Price at which a dealer will sell a currency",
+          "Price at which a dealer will buy a currency",
+          "Average market price"
+        ],
+        "answer": "Price at which a dealer will sell a currency"
+      },
+      {
+        "question": "What is the 'spread' in currency trading?",
+        "options": [
+          "Difference between bid and ask price",
+          "Difference between two central bank rates",
+          "Difference between export and import values"
+        ],
+        "answer": "Difference between bid and ask price"
+      },
+      {
+        "question": "Which currency is commonly considered the global reserve currency?",
+        "options": [
+          "US dollar",
+          "Euro",
+          "Japanese yen"
+        ],
+        "answer": "US dollar"
+      },
+      {
+        "question": "What does 'FX volatility' refer to?",
+        "options": [
+          "Degree of variation in exchange rates",
+          "Speed of international payments",
+          "Number of currencies traded"
+        ],
+        "answer": "Degree of variation in exchange rates"
+      },
+      {
+        "question": "Which economic indicator most directly influences exchange rates?",
+        "options": [
+          "Interest rates",
+          "Population size",
+          "Average rainfall"
+        ],
+        "answer": "Interest rates"
+      },
+      {
+        "question": "What is currency depreciation?",
+        "options": [
+          "A currency losing value relative to another",
+          "A currency gaining value relative to another",
+          "A currency becoming illegal"
+        ],
+        "answer": "A currency losing value relative to another"
+      },
+      {
+        "question": "What is currency appreciation?",
+        "options": [
+          "A currency gaining value relative to another",
+          "A currency losing value relative to another",
+          "A currency being replaced"
+        ],
+        "answer": "A currency gaining value relative to another"
+      },
+      {
+        "question": "Which of these is a major determinant of long-term exchange rates?",
+        "options": [
+          "Purchasing power parity",
+          "Daily stock market returns",
+          "Weekly weather patterns"
+        ],
+        "answer": "Purchasing power parity"
+      },
+      {
+        "question": "What does 'cross rate' mean?",
+        "options": [
+          "Exchange rate between two currencies using a third currency as reference",
+          "Rate for cross-border wire transfers only",
+          "Exchange rate fixed by customs officials"
+        ],
+        "answer": "Exchange rate between two currencies using a third currency as reference"
+      },
+      {
+        "question": "Which term describes controls on the buying and selling of foreign currency?",
+        "options": [
+          "Capital controls",
+          "Trade tariffs",
+          "Price ceilings"
+        ],
+        "answer": "Capital controls"
+      },
+      {
+        "question": "What effect does higher domestic inflation usually have on a currency?",
+        "options": [
+          "It tends to weaken the currency",
+          "It tends to strengthen the currency",
+          "It has no effect"
+        ],
+        "answer": "It tends to weaken the currency"
+      },
+      {
+        "question": "Which of these is a commonly traded currency acronym: GBP stands for?",
+        "options": [
+          "British pound",
+          "Canadian dollar",
+          "Swiss franc"
+        ],
+        "answer": "British pound"
+      },
+      {
+        "question": "Which financial instrument can be used to lock in future exchange rates?",
+        "options": [
+          "Forward contract",
+          "Equity swap",
+          "Commodity future"
+        ],
+        "answer": "Forward contract"
+      },
+      {
+        "question": "What is 'spot rate' in FX?",
+        "options": [
+          "Exchange rate for immediate settlement",
+          "Rate for a transaction in one year",
+          "Rate set by the IMF"
+        ],
+        "answer": "Exchange rate for immediate settlement"
+      },
+      {
+        "question": "What is a 'peg' in currency policy?",
+        "options": [
+          "Linking a currency's value to another currency or asset",
+          "Allowing free market float",
+          "Banning foreign exchange trading"
+        ],
+        "answer": "Linking a currency's value to another currency or asset"
+      },
+      {
+        "question": "Which organization compiles global exchange rate statistics and provides guidance?",
+        "options": [
+          "International Monetary Fund (IMF)",
+          "World Trade Organization (WTO)",
+          "International Labour Organization (ILO)"
+        ],
+        "answer": "International Monetary Fund (IMF)"
+      },
+      {
+        "question": "What is a 'currency intervention'?",
+        "options": [
+          "Central bank actions to influence exchange rates",
+          "A bank's marketing campaign for forex services",
+          "A financial audit of currency reserves"
+        ],
+        "answer": "Central bank actions to influence exchange rates"
+      },
+      {
+        "question": "What does 'convertibility' of a currency mean?",
+        "options": [
+          "Ability to exchange it freely for other currencies",
+          "Legal tender status within a country",
+          "Its physical durability"
+        ],
+        "answer": "Ability to exchange it freely for other currencies"
+      },
+      {
+        "question": "Which of these is a common reason businesses use FX hedging?",
+        "options": [
+          "To reduce risk from exchange rate fluctuations",
+          "To increase exposure to currency swings",
+          "To avoid paying taxes"
+        ],
+        "answer": "To reduce risk from exchange rate fluctuations"
+      },
+      {
+        "question": "What does 'nominal exchange rate' refer to?",
+        "options": [
+          "Observed market exchange rate without inflation adjustment",
+          "Exchange rate adjusted for price differences",
+          "Theoretical rate in economic models only"
+        ],
+        "answer": "Observed market exchange rate without inflation adjustment"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What does purchasing power parity (PPP) predict about exchange rates over time?",
+        "options": [
+          "Currencies will adjust so identical goods cost the same",
+          "Interest rates will equalize across countries",
+          "Capital controls will be removed"
+        ],
+        "answer": "Currencies will adjust so identical goods cost the same"
+      },
+      {
+        "question": "Which event in 1971 significantly changed modern exchange rate systems?",
+        "options": [
+          "US suspended dollar convertibility to gold (Nixon shock)",
+          "The euro was introduced",
+          "Bretton Woods Conference established fixed rates"
+        ],
+        "answer": "US suspended dollar convertibility to gold (Nixon shock)"
+      },
+      {
+        "question": "Which measure compares a currency's value against a basket of other currencies?",
+        "options": [
+          "Trade-weighted exchange rate index",
+          "Consumer price index",
+          "Nominal GDP"
+        ],
+        "answer": "Trade-weighted exchange rate index"
+      },
+      {
+        "question": "What is 'currency mismatch' risk for firms?",
+        "options": [
+          "Assets and liabilities are in different currencies",
+          "Holding too much cash domestically",
+          "Mismatched fiscal and monetary policies"
+        ],
+        "answer": "Assets and liabilities are in different currencies"
+      },
+      {
+        "question": "Which of these policies can defend a currency peg?",
+        "options": [
+          "Using foreign exchange reserves for intervention",
+          "Reducing trade barriers immediately",
+          "Lowering taxes to zero"
+        ],
+        "answer": "Using foreign exchange reserves for intervention"
+      },
+      {
+        "question": "What is 'real exchange rate'?",
+        "options": [
+          "Nominal rate adjusted for price level differences",
+          "Nominal rate adjusted for interest rates",
+          "Nominal rate fixed by central bank"
+        ],
+        "answer": "Nominal rate adjusted for price level differences"
+      },
+      {
+        "question": "Which economist is associated with the interest rate parity concept?",
+        "options": [
+          "No single founder; it's a core financial arbitrage principle",
+          "John Maynard Keynes",
+          "Milton Friedman"
+        ],
+        "answer": "No single founder; it's a core financial arbitrage principle"
+      },
+      {
+        "question": "What does uncovered interest rate parity (UIP) imply?",
+        "options": [
+          "Expected currency depreciation equals interest differential",
+          "All currencies have same interest rates",
+          "Central banks fix future rates"
+        ],
+        "answer": "Expected currency depreciation equals interest differential"
+      },
+      {
+        "question": "Which country famously devalued its currency in 1992 leading to exit from the ERM?",
+        "options": [
+          "United Kingdom",
+          "Germany",
+          "France"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "What is the main purpose of currency forward contracts?",
+        "options": [
+          "Lock future exchange rate for a specific date",
+          "Gain speculative leverage with margin",
+          "Set global exchange rate standards"
+        ],
+        "answer": "Lock future exchange rate for a specific date"
+      },
+      {
+        "question": "What does 'countercyclical FX policy' aim to do?",
+        "options": [
+          "Stabilize exchange rates across economic cycles",
+          "Amplify currency movements to boost exports",
+          "Remove all market interventions"
+        ],
+        "answer": "Stabilize exchange rates across economic cycles"
+      },
+      {
+        "question": "Which instrument shows implied future volatility of currency?",
+        "options": [
+          "Currency options market prices",
+          "Treasury yield curve",
+          "Trade deficit figures"
+        ],
+        "answer": "Currency options market prices"
+      },
+      {
+        "question": "What role does the balance of payments play for exchange rates?",
+        "options": [
+          "Records transactions that affect currency supply and demand",
+          "Measures unemployment impact on money supply",
+          "Tracks consumer sentiment only"
+        ],
+        "answer": "Records transactions that affect currency supply and demand"
+      },
+      {
+        "question": "Which of the following best describes currency sterilization?",
+        "options": [
+          "Central bank offsets FX intervention's domestic money impact",
+          "Government bans foreign currency use",
+          "Banks increase lending in foreign currency"
+        ],
+        "answer": "Central bank offsets FX intervention's domestic money impact"
+      },
+      {
+        "question": "What is a currency corridor policy?",
+        "options": [
+          "Allowing limited fluctuations within set bands",
+          "Fixing rate permanently to another currency",
+          "Randomizing exchange rate daily"
+        ],
+        "answer": "Allowing limited fluctuations within set bands"
+      },
+      {
+        "question": "Why might a central bank target a weaker currency?",
+        "options": [
+          "To boost export competitiveness",
+          "To increase import purchasing power",
+          "To reduce inflation immediately"
+        ],
+        "answer": "To boost export competitiveness"
+      },
+      {
+        "question": "What does 'carry trade' involve regarding currencies?",
+        "options": [
+          "Borrowing in low-rate currency to invest in higher-rate currency",
+          "Transporting cash across borders manually",
+          "Holding equal amounts of two currencies"
+        ],
+        "answer": "Borrowing in low-rate currency to invest in higher-rate currency"
+      },
+      {
+        "question": "Which statistic indicates expected real returns adjusted for inflation in FX terms?",
+        "options": [
+          "Real interest rate differential",
+          "Gross domestic product",
+          "Money supply growth rate"
+        ],
+        "answer": "Real interest rate differential"
+      },
+      {
+        "question": "What is a 'dirty float' exchange rate regime?",
+        "options": [
+          "A mostly floating rate with occasional central bank intervention",
+          "A fully fixed exchange rate",
+          "A currency used only in black markets"
+        ],
+        "answer": "A mostly floating rate with occasional central bank intervention"
+      },
+      {
+        "question": "How can fiscal policy affect exchange rates indirectly?",
+        "options": [
+          "By influencing growth and interest expectations that affect capital flows",
+          "By directly setting spot market rates",
+          "By issuing foreign currency coins"
+        ],
+        "answer": "By influencing growth and interest expectations that affect capital flows"
+      },
+      {
+        "question": "Which market metric shows daily liquidity and tightness in FX trading?",
+        "options": [
+          "Bid-ask spread",
+          "GDP per capita",
+          "Unemployment rate"
+        ],
+        "answer": "Bid-ask spread"
+      },
+      {
+        "question": "Which country's exit from a monetary arrangement is called 'devaluation' when rate is lowered?",
+        "options": [
+          "Any country that reduces its currency's peg value",
+          "Only developing countries",
+          "Only European Union members"
+        ],
+        "answer": "Any country that reduces its currency's peg value"
+      },
+      {
+        "question": "What is the primary use of currency swaps between central banks?",
+        "options": [
+          "Provide liquidity in foreign currency to domestic banks",
+          "To establish permanent exchange rates",
+          "To control global trade tariffs"
+        ],
+        "answer": "Provide liquidity in foreign currency to domestic banks"
+      },
+      {
+        "question": "Which data release typically triggers short-term FX movements?",
+        "options": [
+          "Interest rate decisions and nonfarm payrolls",
+          "Census data from ten years ago",
+          "Historical trade route maps"
+        ],
+        "answer": "Interest rate decisions and nonfarm payrolls"
+      },
+      {
+        "question": "What does 'exchange rate overshooting' describe in monetary theory?",
+        "options": [
+          "Exchange rate swings more than long-run value after a shock",
+          "Currency never moves after policy change",
+          "Gradual convergence without volatility"
+        ],
+        "answer": "Exchange rate swings more than long-run value after a shock"
+      },
+      {
+        "question": "Which Asian financial crisis sharply affected many exchange rates in 1997-1998?",
+        "options": [
+          "Asian Financial Crisis",
+          "Eurozone Crisis",
+          "Dot-com Bubble"
+        ],
+        "answer": "Asian Financial Crisis"
+      },
+      {
+        "question": "What is 'currency redenomination'?",
+        "options": [
+          "Changing face value units of a currency without altering real value",
+          "Banning foreign exchange",
+          "Printing new coins identical to old ones"
+        ],
+        "answer": "Changing face value units of a currency without altering real value"
+      },
+      {
+        "question": "Why do multinational firms prefer invoice currency stability?",
+        "options": [
+          "To reduce profit volatility from exchange movements",
+          "To increase transaction processing times",
+          "To avoid paying taxes"
+        ],
+        "answer": "To reduce profit volatility from exchange movements"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What did the 'Impossible Trinity' or trilemma state about monetary policy?",
+        "options": [
+          "A country cannot simultaneously have fixed exchange rate, free capital flows, and independent monetary policy",
+          "A country cannot have low inflation, high growth, and open borders simultaneously",
+          "A central bank cannot control interest rates, money supply, and fiscal policy at once"
+        ],
+        "answer": "A country cannot simultaneously have fixed exchange rate, free capital flows, and independent monetary policy"
+      },
+      {
+        "question": "Which empirical puzzle highlights failure of uncovered interest parity in short-term FX data?",
+        "options": [
+          "Forward premium puzzle",
+          "Fisher effect paradox",
+          "Exchange rate smoothing anomaly"
+        ],
+        "answer": "Forward premium puzzle"
+      },
+      {
+        "question": "Which economist developed a widely cited model of exchange rates including goods and asset markets (Mundell-Fleming relates but name?)",
+        "options": [
+          "Rudiger Dornbusch developed the overshooting model",
+          "John Hicks developed the overshooting model",
+          "Adam Smith developed the overshooting model"
+        ],
+        "answer": "Rudiger Dornbusch developed the overshooting model"
+      },
+      {
+        "question": "What is the 'J-curve' effect in currency adjustment?",
+        "options": [
+          "Trade balance initially worsens then improves after depreciation",
+          "Exports immediately triple after devaluation",
+          "Imports stop completely after currency fall"
+        ],
+        "answer": "Trade balance initially worsens then improves after depreciation"
+      },
+      {
+        "question": "Which reserve currency share declined notably after 2000, according to IMF data, yet remained dominant?",
+        "options": [
+          "US dollar share declined slightly but remained dominant",
+          "Euro replaced the dollar entirely",
+          "Japanese yen became the reserve leader"
+        ],
+        "answer": "US dollar share declined slightly but remained dominant"
+      },
+      {
+        "question": "What is peso problem in exchange rate expectations?",
+        "options": [
+          "Rare large devaluations make average forecasts biased, even if small changes happen often",
+          "Physical pesos causing circulation issues",
+          "A tax on currency conversions"
+        ],
+        "answer": "Rare large devaluations make average forecasts biased, even if small changes happen often"
+      },
+      {
+        "question": "Which mechanism explains how tariffs can lead to currency appreciation?",
+        "options": [
+          "Reduced imports decrease demand for foreign currency, strengthening domestic currency",
+          "Tariffs force central banks to print more domestic money",
+          "Tariffs directly control exchange rates through customs"
+        ],
+        "answer": "Reduced imports decrease demand for foreign currency, strengthening domestic currency"
+      },
+      {
+        "question": "Which indicator measures real effective exchange rate (REER)?",
+        "options": [
+          "Trade-weighted nominal exchange rate adjusted for relative prices",
+          "Spot exchange rate against the dollar only",
+          "Central bank policy rate averaging"
+        ],
+        "answer": "Trade-weighted nominal exchange rate adjusted for relative prices"
+      },
+      {
+        "question": "What was the main mechanism of contagion during the 1997 Asian crisis affecting exchange rates?",
+        "options": [
+          "Sudden stop of capital flows and forced currency sales across markets",
+          "Coordinated appreciation by central banks",
+          "Global trade embargoes"
+        ],
+        "answer": "Sudden stop of capital flows and forced currency sales across markets"
+      },
+      {
+        "question": "How does a negative real interest rate differential typically affect currency value?",
+        "options": [
+          "It tends to weaken the currency over time",
+          "It tends to strengthen the currency immediately",
+          "It eliminates FX volatility"
+        ],
+        "answer": "It tends to weaken the currency over time"
+      },
+      {
+        "question": "What is the theoretical implication of sticky prices for exchange rate dynamics in the Dornbusch model?",
+        "options": [
+          "Prices adjust slowly, causing exchange rate overshooting after monetary shocks",
+          "Prices adjust instantly, preventing volatility",
+          "Sticky prices cause permanent fixed exchange rates"
+        ],
+        "answer": "Prices adjust slowly, causing exchange rate overshooting after monetary shocks"
+      },
+      {
+        "question": "Which capital flow type is most likely to amplify short-term FX volatility?",
+        "options": [
+          "Portfolio and hot (short-term) capital flows",
+          "Long-term foreign direct investment",
+          "Official development aid"
+        ],
+        "answer": "Portfolio and hot (short-term) capital flows"
+      },
+      {
+        "question": "What is a 'risk premium' in currency valuation models?",
+        "options": [
+          "Additional expected return to compensate for currency risk",
+          "A tax applied to currency exchanges",
+          "A guaranteed profit margin on FX trades"
+        ],
+        "answer": "Additional expected return to compensate for currency risk"
+      },
+      {
+        "question": "Which empirical regularity shows that real exchange rates are highly persistent?",
+        "options": [
+          "Real exchange rate mean reversion is slow and half-lives are long",
+          "Real exchange rates revert instantly to PPP",
+          "Real exchange rates never change"
+        ],
+        "answer": "Real exchange rate mean reversion is slow and half-lives are long"
+      },
+      {
+        "question": "In modern FX markets, which venues handle the majority of interbank spot liquidity?",
+        "options": [
+          "Electronic platforms and dealer networks",
+          "Physical currency exchanges in city squares",
+          "Retail bank branches only"
+        ],
+        "answer": "Electronic platforms and dealer networks"
+      },
+      {
+        "question": "What is the Mundell-Fleming result for a small open economy with perfect capital mobility and fixed exchange rate?",
+        "options": [
+          "Monetary policy is ineffective while fiscal policy is effective",
+          "Monetary policy is highly effective, fiscal ineffective",
+          "Both policies are ineffective"
+        ],
+        "answer": "Monetary policy is ineffective while fiscal policy is effective"
+      },
+      {
+        "question": "Which advanced tool can central banks use to shape longer-term FX expectations indirectly?",
+        "options": [
+          "Forward guidance and macroprudential measures",
+          "Coin minting only",
+          "Setting consumer prices directly"
+        ],
+        "answer": "Forward guidance and macroprudential measures"
+      },
+      {
+        "question": "What does 'two-way intervention' in FX markets imply?",
+        "options": [
+          "Central bank buys or sells currency to limit volatility in both directions",
+          "Central bank only buys foreign currency",
+          "Central bank only sells domestic currency"
+        ],
+        "answer": "Central bank buys or sells currency to limit volatility in both directions"
+      },
+      {
+        "question": "Which statistical test is commonly used to assess unit roots in exchange rate series?",
+        "options": [
+          "Augmented Dickey-Fuller (ADF) test",
+          "T-test for means",
+          "Chi-squared test for independence"
+        ],
+        "answer": "Augmented Dickey-Fuller (ADF) test"
+      },
+      {
+        "question": "What is the primary channel through which sovereign debt crises affect exchange rates?",
+        "options": [
+          "Capital flight and loss of investor confidence leading to currency depreciation",
+          "Immediate increase in export volumes",
+          "Automatic strengthening from bailout funds"
+        ],
+        "answer": "Capital flight and loss of investor confidence leading to currency depreciation"
+      },
+      {
+        "question": "How do transaction costs influence covered interest parity deviations?",
+        "options": [
+          "They explain small consistent deviations because arbitrage is costly",
+          "They eliminate all deviations entirely",
+          "They reverse the direction of parity"
+        ],
+        "answer": "They explain small consistent deviations because arbitrage is costly"
+      },
+      {
+        "question": "Which policy mix tends to produce 'currency wars' accusations?",
+        "options": [
+          "Aggressive monetary easing combined with intervention to weaken the currency",
+          "Tight fiscal policy with fixed exchange rates",
+          "Neutral policies with balanced budgets"
+        ],
+        "answer": "Aggressive monetary easing combined with intervention to weaken the currency"
+      },
+      {
+        "question": "What role do central bank swap lines played during the 2008 crisis in FX markets?",
+        "options": [
+          "Provided dollar liquidity to other central banks and eased FX stress",
+          "Fixed exchange rates permanently",
+          "Shut down FX trading overnight"
+        ],
+        "answer": "Provided dollar liquidity to other central banks and eased FX stress"
+      },
+      {
+        "question": "Which concept describes a situation where exchange rate expectations are self-fulfilling?",
+        "options": [
+          "Speculative attack",
+          "Structural unemployment",
+          "Balanced trade"
+        ],
+        "answer": "Speculative attack"
+      },
+      {
+        "question": "What does 'original sin' refer to in the context of emerging markets and currencies?",
+        "options": [
+          "Inability to borrow abroad in domestic currency",
+          "High inflation from early industrialization",
+          "Mandatory fixed exchange rates"
+        ],
+        "answer": "Inability to borrow abroad in domestic currency"
+      },
+      {
+        "question": "Which advanced modeling approach captures time-varying risk premia in FX returns?",
+        "options": [
+          "State-space models with stochastic volatility",
+          "Static linear regression without dynamics",
+          "Simple moving averages only"
+        ],
+        "answer": "State-space models with stochastic volatility"
+      },
+      {
+        "question": "What is the major implication of Reinhart and Rogoff's findings for exchange rate crises?",
+        "options": [
+          "High public debt often coincides with financial stress and currency problems",
+          "Low debt guarantees stable exchange rates",
+          "Exchange rate crises never follow banking crises"
+        ],
+        "answer": "High public debt often coincides with financial stress and currency problems"
+      },
+      {
+        "question": "Which currency regime did Argentina abandon in 2002 after a long-standing peg?",
+        "options": [
+          "Convertibility peg to the US dollar",
+          "Gold standard peg",
+          "Peg to the euro"
+        ],
+        "answer": "Convertibility peg to the US dollar"
+      },
+      {
+        "question": "How do 'FX reserves adequacy' metrics typically assess vulnerability?",
+        "options": [
+          "Compare reserves to short-term external debt and import coverage",
+          "Compare reserves to domestic money supply only",
+          "Compare reserves to population size"
+        ],
+        "answer": "Compare reserves to short-term external debt and import coverage"
+      },
+      {
+        "question": "Which advanced topic links microstructure to FX price moves at high frequency?",
+        "options": [
+          "Order flow and liquidity provision models",
+          "Long-run PPP models",
+          "Global trade pattern analysis"
+        ],
+        "answer": "Order flow and liquidity provision models"
+      },
+      {
+        "question": "What unusual exchange-rate behavior characterizes 'fear of floating' countries?",
+        "options": [
+          "Officially floating but frequent interventions to stabilize the currency",
+          "Fully fixed rates with zero intervention",
+          "Complete absence of foreign currency transactions"
+        ],
+        "answer": "Officially floating but frequent interventions to stabilize the currency"
+      },
+      {
+        "question": "Which metric captures market-implied FX crash risk from option prices?",
+        "options": [
+          "Risk reversal and steepness in option skews",
+          "GDP growth projections",
+          "Trade balance seasonality"
+        ],
+        "answer": "Risk reversal and steepness in option skews"
+      },
+      {
+        "question": "What is the long-run prediction of the Balassa-Samuelson effect for real exchange rates?",
+        "options": [
+          "Countries with higher productivity in tradables tend to have appreciated real exchange rates",
+          "High productivity lowers real exchange rates permanently",
+          "No relation between productivity and exchange rates"
+        ],
+        "answer": "Countries with higher productivity in tradables tend to have appreciated real exchange rates"
+      },
+      {
+        "question": "Which phenomenon describes persistent deviations from PPP due to consumption habits and nontraded goods?",
+        "options": [
+          "Nontradables bias in real exchange rates",
+          "Interest rate parity deviation",
+          "Immediate PPP adjustment"
+        ],
+        "answer": "Nontradables bias in real exchange rates"
+      },
+      {
+        "question": "Why might a sovereign choose a currency board arrangement?",
+        "options": [
+          "To provide strong nominal anchor credibility by strict peg rules",
+          "To maximize exchange rate volatility",
+          "To prevent any foreign investment"
+        ],
+        "answer": "To provide strong nominal anchor credibility by strict peg rules"
+      },
+      {
+        "question": "Which empirical method isolates causal impact of monetary shocks on exchange rates?",
+        "options": [
+          "Structural vector autoregression (SVAR)",
+          "Ordinary least squares with no controls",
+          "Simple correlation analysis"
+        ],
+        "answer": "Structural vector autoregression (SVAR)"
+      },
+      {
+        "question": "What is 'local-currency debt' advantage for emerging markets?",
+        "options": [
+          "Reduces currency mismatch and exchange rate sensitivity of sovereign balance sheets",
+          "Always lowers borrowing costs below global rates",
+          "Eliminates default risk entirely"
+        ],
+        "answer": "Reduces currency mismatch and exchange rate sensitivity of sovereign balance sheets"
+      },
+      {
+        "question": "Which famous event in 1994 caused sharp depreciation of the Mexican peso and global FX contagion?",
+        "options": [
+          "The Tequila Crisis",
+          "The Asian Flu",
+          "Black Monday"
+        ],
+        "answer": "The Tequila Crisis"
+      },
+      {
+        "question": "What advanced metric do researchers use to separate expected from unexpected FX returns?",
+        "options": [
+          "Decomposition using predictive regressions and risk premium models",
+          "Simple year-on-year percentage changes",
+          "Averaging spot and forward rates only"
+        ],
+        "answer": "Decomposition using predictive regressions and risk premium models"
+      },
+      {
+        "question": "How can macroprudential measures affect currency cycles?",
+        "options": [
+          "They can temper credit-fueled currency appreciation and sudden stops",
+          "They immediately fix exchange rates",
+          "They replace central bank monetary policy exclusively"
+        ],
+        "answer": "They can temper credit-fueled currency appreciation and sudden stops"
+      },
+      {
+        "question": "Which dataset provides high-frequency global FX transaction data widely used in research?",
+        "options": [
+          "Bank for International Settlements (BIS) triennial survey and aggregated reporting",
+          "UN trade database",
+          "World Bank population dataset"
+        ],
+        "answer": "Bank for International Settlements (BIS) triennial survey and aggregated reporting"
+      },
+      {
+        "question": "What is the main critique of simple PPP for exchange rate forecasting?",
+        "options": [
+          "It ignores transport costs, nontraded goods, and slow price adjustment",
+          "It requires second currency to be gold",
+          "It works perfectly at daily frequency"
+        ],
+        "answer": "It ignores transport costs, nontraded goods, and slow price adjustment"
+      },
+      {
+        "question": "Which advanced policy tool can a central bank use to directly influence long-term exchange rates via the yield curve?",
+        "options": [
+          "Quantitative easing that purchases long-term bonds",
+          "Daily spot market interventions only",
+          "Issuing commemorative coins"
+        ],
+        "answer": "Quantitative easing that purchases long-term bonds"
+      },
+      {
+        "question": "What feature distinguishes a crawling peg from a fixed peg?",
+        "options": [
+          "Crawling peg allows gradual, preannounced adjustments over time",
+          "Crawling peg fixes rate forever with no changes",
+          "Crawling peg is determined by a coin flip"
+        ],
+        "answer": "Crawling peg allows gradual, preannounced adjustments over time"
+      },
+      {
+        "question": "Which term describes the practice of invoicing trade in a dominant foreign currency?",
+        "options": [
+          "Invoicing currency dominance (e.g., invoicing in USD)",
+          "Domestic currency billing mandate",
+          "Barter trade standardization"
+        ],
+        "answer": "Invoicing currency dominance (e.g., invoicing in USD)"
+      },
+      {
+        "question": "Which research finding links order flow to exchange rate moves at intraday horizons?",
+        "options": [
+          "Net order flow predicts short-term price changes beyond public information",
+          "Order flow has no relationship with price movements",
+          "Order flow always reverses price trends instantly"
+        ],
+        "answer": "Net order flow predicts short-term price changes beyond public information"
+      },
+      {
+        "question": "What does 'sterilized intervention' fail to change in theory if UIP holds perfectly?",
+        "options": [
+          "The long-run exchange rate since monetary base is unchanged",
+          "The spot exchange rate permanently",
+          "Fiscal balances immediately"
+        ],
+        "answer": "The long-run exchange rate since monetary base is unchanged"
+      },
+      {
+        "question": "Which advanced phenomenon describes appreciation pressure following large capital inflows?",
+        "options": [
+          "Dutch disease style real appreciation",
+          "Immediate increase in exports only",
+          "Permanent elimination of inflation"
+        ],
+        "answer": "Dutch disease style real appreciation"
+      }
+    ]
+  }
+}

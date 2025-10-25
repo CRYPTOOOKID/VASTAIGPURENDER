@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'fragile' mean as a definition clue?",
+      "options": [
+        "Highly detailed",
+        "Easily broken",
+        "Very tasty"
+      ],
+      "answer": "Easily broken"
+    },
+    {
+      "question_id": 2,
+      "question": "Which word fits 'the quality of being brief and to the point in writing'?",
+      "options": [
+        "Brevity",
+        "Redundancy",
+        "Explication"
+      ],
+      "answer": "Brevity"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term means 'a word formed by blending parts of two words'?",
+      "options": [
+        "Tautology",
+        "Back-formation",
+        "Portmanteau"
+      ],
+      "answer": "Portmanteau"
+    },
+    {
+      "question_id": 4,
+      "question": "In plain definitions, what does 'portable' mean?",
+      "options": [
+        "Permanently fixed",
+        "Easy to carry",
+        "Extremely heavy"
+      ],
+      "answer": "Easy to carry"
+    },
+    {
+      "question_id": 5,
+      "question": "Which word matches 'an expression used to praise someone lavishly'?",
+      "options": [
+        "Panegyric",
+        "Obituary",
+        "Liturgy"
+      ],
+      "answer": "Panegyric"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term denotes 'a word created by removing an affix from an existing word'?",
+      "options": [
+        "Back-formation",
+        "Derivation",
+        "Infixation"
+      ],
+      "answer": "Back-formation"
+    },
+    {
+      "question_id": 7,
+      "question": "A definition that mentions 'a sudden, loud noise' likely refers to which word?",
+      "options": [
+        "Murmur",
+        "Bang",
+        "Whisper"
+      ],
+      "answer": "Bang"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word matches 'an authoritative list of words with definitions'?",
+      "options": [
+        "Registry",
+        "Archive",
+        "Lexicon"
+      ],
+      "answer": "Lexicon"
+    },
+    {
+      "question_id": 9,
+      "question": "Which linguistic term means 'the creation of a word from the sound it represents'?",
+      "options": [
+        "Calque",
+        "Onomatopoeia",
+        "Derivation"
+      ],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "question_id": 10,
+      "question": "If a definition says 'able to be seen', which word matches it?",
+      "options": [
+        "Visible",
+        "Silent",
+        "Invisible"
+      ],
+      "answer": "Visible"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word means 'a shortened form of a longer word or phrase'?",
+      "options": [
+        "Infixing",
+        "Elision",
+        "Clipping"
+      ],
+      "answer": "Clipping"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare term means 'a word used only once in a text'?",
+      "options": [
+        "Solecism",
+        "Hapax legomenon",
+        "Palindrome"
+      ],
+      "answer": "Hapax legomenon"
+    },
+    {
+      "question_id": 13,
+      "question": "Which feature helps narrow down a guessed word: length, part of speech, or color?",
+      "options": [
+        "Color",
+        "Part of speech",
+        "Length"
+      ],
+      "answer": "Part of speech"
+    },
+    {
+      "question_id": 14,
+      "question": "Which word fits 'a false friend: a word that looks familiar but has different meaning'?",
+      "options": [
+        "False cognate",
+        "Homograph",
+        "Neologism"
+      ],
+      "answer": "False cognate"
+    },
+    {
+      "question_id": 15,
+      "question": "Which linguistic term denotes 'the creation of a word by combining full words rather than parts'?",
+      "options": [
+        "Blend",
+        "Clipping",
+        "Compound word"
+      ],
+      "answer": "Compound word"
+    }
+  ]
+}

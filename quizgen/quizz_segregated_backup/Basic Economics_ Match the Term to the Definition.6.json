@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which term is used for goods that are rival and excludable?",
+      "options": [
+        "Private goods",
+        "Public goods",
+        "Common goods"
+      ],
+      "answer": "Private goods"
+    },
+    {
+      "question_id": 2,
+      "question": "What term describes government spending programs to influence economy?",
+      "options": [
+        "Fiscal policy",
+        "Monetary policy",
+        "Trade policy"
+      ],
+      "answer": "Fiscal policy"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term labels a tax system with the same percentage tax for all incomes?",
+      "options": [
+        "Proportional tax",
+        "Progressive tax",
+        "Regressive tax"
+      ],
+      "answer": "Proportional tax"
+    },
+    {
+      "question_id": 4,
+      "question": "What term labels a sustained rise in general price levels?",
+      "options": [
+        "Inflation",
+        "Recession",
+        "Deflation"
+      ],
+      "answer": "Inflation"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the term for a market failure where one party has more information than another?",
+      "options": [
+        "Information asymmetry",
+        "Moral hazard",
+        "Adverse selection"
+      ],
+      "answer": "Information asymmetry"
+    },
+    {
+      "question_id": 6,
+      "question": "What term denotes a policy that increases money supply via central bank asset purchases?",
+      "options": [
+        "Quantitative easing",
+        "Open market sale",
+        "Tightening"
+      ],
+      "answer": "Quantitative easing"
+    },
+    {
+      "question_id": 7,
+      "question": "What term describes when supply equals demand at a price?",
+      "options": [
+        "Market equilibrium",
+        "Excess supply",
+        "Price ceiling"
+      ],
+      "answer": "Market equilibrium"
+    },
+    {
+      "question_id": 8,
+      "question": "What term describes a market where firms set prices and face downward-sloping demand?",
+      "options": [
+        "Monopolistic competition",
+        "Perfect competition",
+        "Oligopoly"
+      ],
+      "answer": "Monopolistic competition"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes the phenomenon where increased inflation expectations raise actual inflation?",
+      "options": [
+        "Adaptive expectations",
+        "Rational expectations",
+        "Sticky expectations"
+      ],
+      "answer": "Adaptive expectations"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the term for items consumed together, like coffee and sugar?",
+      "options": [
+        "Complementary goods",
+        "Substitute goods",
+        "Inferior goods"
+      ],
+      "answer": "Complementary goods"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term refers to buyers' and sellers' willingness to trade at different prices?",
+      "options": [
+        "Market demand and supply",
+        "Consumer surplus",
+        "Producer surplus"
+      ],
+      "answer": "Market demand and supply"
+    },
+    {
+      "question_id": 12,
+      "question": "What term denotes a schedule of prices for different quantities sold to different groups?",
+      "options": [
+        "Nonlinear pricing",
+        "Uniform pricing",
+        "Bundling"
+      ],
+      "answer": "Nonlinear pricing"
+    },
+    {
+      "question_id": 13,
+      "question": "What name describes the benefit forgone when choosing one option over another?",
+      "options": [
+        "Opportunity cost",
+        "Sunk cost",
+        "Fixed cost"
+      ],
+      "answer": "Opportunity cost"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the term for firm behavior where companies follow a price leader?",
+      "options": [
+        "Price leadership",
+        "Price discrimination",
+        "Predatory pricing"
+      ],
+      "answer": "Price leadership"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term refers to a decline in productivity growth due to misallocation of resources?",
+      "options": [
+        "Secular stagnation",
+        "Creative destruction",
+        "Crowding out"
+      ],
+      "answer": "Secular stagnation"
+    }
+  ]
+}

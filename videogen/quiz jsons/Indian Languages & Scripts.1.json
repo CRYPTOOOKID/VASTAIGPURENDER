@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which modern Indian language developed a rich medieval court literature in Kannada?",
+      "options": [
+        "Marathi",
+        "Punjabi",
+        "Kannada"
+      ],
+      "answer": "Kannada"
+    },
+    {
+      "question_id": 2,
+      "question": "Which language of India uses the Takri script historically in Himachal and Jammu regions?",
+      "options": [
+        "Bengali",
+        "Dogri",
+        "Tamil"
+      ],
+      "answer": "Dogri"
+    },
+    {
+      "question_id": 3,
+      "question": "Which classical language recognition came for Malayalam in 2013 based on antiquity and literature?",
+      "options": [
+        "Oriya",
+        "Konkani",
+        "Malayalam"
+      ],
+      "answer": "Malayalam"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian language is known for the classical Sangam literature corpus?",
+      "options": [
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "answer": "Tamil"
+    },
+    {
+      "question_id": 5,
+      "question": "Which script did William Jones study while proposing Sanskrit's relation to European languages?",
+      "options": [
+        "Gurmukhi",
+        "Devanagari",
+        "Brahmi"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval grammarian authored 'Ashtadhyayi', foundational for Sanskrit grammar?",
+      "options": [
+        "Kālidāsa",
+        "Bharavi",
+        "Pāṇini"
+      ],
+      "answer": "Pāṇini"
+    },
+    {
+      "question_id": 7,
+      "question": "Which modern script is used for Manipuri (Meitei) after revival efforts?",
+      "options": [
+        "Bengali",
+        "Meitei Mayek",
+        "Devanagari"
+      ],
+      "answer": "Meitei Mayek"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script historically transmitted Pali and Theravada texts into South and Southeast Asia?",
+      "options": [
+        "Cyrillic script",
+        "Brahmi-derived scripts",
+        "Latin script"
+      ],
+      "answer": "Brahmi-derived scripts"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script block range in Unicode contains the Tamil script characters?",
+      "options": [
+        "U+0B80–U+0BFF",
+        "U+0C00–U+0C7F",
+        "U+0900–U+097F"
+      ],
+      "answer": "U+0B80–U+0BFF"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major language group does Hindi belong to?",
+      "options": [
+        "Dravidian",
+        "Indo-Aryan",
+        "Tibeto-Burman"
+      ],
+      "answer": "Indo-Aryan"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian state recognizes both Devanagari and Perso-Arabic scripts for Sindhi?",
+      "options": [
+        "Sindh in Pakistan",
+        "Goa recognizes Devanagari for Konkani",
+        "India recognizes both in policy"
+      ],
+      "answer": "India recognizes both in policy"
+    },
+    {
+      "question_id": 12,
+      "question": "Which tribal Munda language uses its own Warang Citi script invented in the 20th century?",
+      "options": [
+        "Santali uses Warang Citi",
+        "Ho uses Warang Citi",
+        "Munda uses Devanagari"
+      ],
+      "answer": "Ho uses Warang Citi"
+    },
+    {
+      "question_id": 13,
+      "question": "Which language family does Santali belong to?",
+      "options": [
+        "Indo-Aryan",
+        "Dravidian",
+        "Austroasiatic"
+      ],
+      "answer": "Austroasiatic"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Hindi dialect formed the basis for Modern Standard Hindi used officially?",
+      "options": [
+        "Haryanvi",
+        "Khari Boli",
+        "Braj Bhasha"
+      ],
+      "answer": "Khari Boli"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian language uses the Tirhuta script historically for Maithili before Devanagari became common?",
+      "options": [
+        "Maithili",
+        "Punjabi",
+        "Marathi"
+      ],
+      "answer": "Maithili"
+    }
+  ]
+}

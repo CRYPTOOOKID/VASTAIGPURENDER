@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the name for a rotating tropical storm in the Atlantic basin?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which instrument quantifies incoming solar radiation at Earth's surface?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which remote sensing instrument uses laser pulses to measure wind profiles and aerosol structure?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which device measures humidity using wet-bulb and dry-bulb temperatures?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which process forms clouds when rising air expands and cools without heat exchange?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does baroclinic instability in the mid-latitude atmosphere typically generate?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which frozen precipitation forms as ice crystals in clouds?"
+    },
+    {
+      "question_id": 8,
+      "question": "What term describes warming of descending air by compression without adding heat externally?"
+    },
+    {
+      "question_id": 9,
+      "question": "What technical term names the actual change in temperature with altitude averaged in the troposphere?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instrument measures the amount of rainfall at a location?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which urban phenomenon reduces nighttime cooling and raises city temperatures relative to rural areas?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which seasonal wind reversal brings heavy summer rainfall to the Indian subcontinent?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the approximate standard atmospheric pressure at sea level?"
+    },
+    {
+      "question_id": 14,
+      "question": "What two variables does the heat index combine to estimate perceived temperature?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the definition of potential temperature in atmospheric thermodynamics?"
+    }
+  ]
+}

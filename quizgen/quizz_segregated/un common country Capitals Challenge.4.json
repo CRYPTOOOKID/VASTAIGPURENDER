@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital city of Chad, situated near the Chari River?",
+      "options": [
+        "Khartoum",
+        "Niamey",
+        "N'Djamena"
+      ],
+      "answer": "N'Djamena"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country is unique for having no official capital named in its constitution?",
+      "options": [
+        "San Marino",
+        "Nauru",
+        "Vatican City"
+      ],
+      "answer": "Nauru"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital is notable for having no official capital status codified, despite a district acting as the seat of government?",
+      "options": [
+        "Monaco (Monte Carlo)",
+        "Liechtenstein (Vaduz)",
+        "Nauru (Yaren)"
+      ],
+      "answer": "Nauru (Yaren)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city serves as the national capital of Tuvalu, located on the Funafuti atoll?",
+      "options": [
+        "Majuro",
+        "Tarawa",
+        "Funafuti"
+      ],
+      "answer": "Funafuti"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Beninese city functions as the government's primary seat despite Porto-Novo being official capital?",
+      "options": [
+        "Parakou",
+        "Cotonou",
+        "Abomey"
+      ],
+      "answer": "Cotonou"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital's relocation ceremony was officially recognized by presidential decree and named Ciudad de la Paz in 2017?",
+      "options": [
+        "Malabo",
+        "Bata",
+        "Oyala (Ciudad de la Paz)"
+      ],
+      "answer": "Oyala (Ciudad de la Paz)"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of the island nation Kiribati, situated on the atoll of Tarawa?",
+      "options": [
+        "Majuro",
+        "South Tarawa",
+        "Suva"
+      ],
+      "answer": "South Tarawa"
+    },
+    {
+      "question_id": 8,
+      "question": "Which small capital occupies a single densely populated coral island and faces severe space limits?",
+      "options": [
+        "Funafuti",
+        "Malé",
+        "Victoria"
+      ],
+      "answer": "Malé"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital began as a colonial administrative center named 'Belmonte' before being rebuilt inland as Belmopan in 1970?",
+      "options": [
+        "Port-of-Spain",
+        "Bridgetown",
+        "Belmopan"
+      ],
+      "answer": "Belmopan"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city is the capital of Saint Kitts and Nevis, on the island of St Kitts?",
+      "options": [
+        "Basseterre",
+        "Bridgetown",
+        "Roseau"
+      ],
+      "answer": "Basseterre"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Caribbean capital stands on a bay and hosts an annual carnival with strong African influences?",
+      "options": [
+        "Castries",
+        "Roseau",
+        "Kingstown"
+      ],
+      "answer": "Castries"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital's name was changed officially to reflect a vision of national unity and future development in 2017?",
+      "options": [
+        "St. John's to Saint John",
+        "Oyala to Ciudad de la Paz",
+        "Porto-Novo to Porto Novo"
+      ],
+      "answer": "Oyala to Ciudad de la Paz"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Timor-Leste, located on the northern coast of the country?",
+      "options": [
+        "Suva",
+        "Honiara",
+        "Dili"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city is the administrative center of a country that spans both a mainland and several islands?",
+      "options": [
+        "Port Moresby",
+        "Port Vila",
+        "Suva"
+      ],
+      "answer": "Port Vila"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital's urban core developed around a natural harbor with a fortress repeatedly rebuilt across centuries?",
+      "options": [
+        "Kingstown",
+        "Castries",
+        "St. John's"
+      ],
+      "answer": "Kingstown"
+    }
+  ]
+}

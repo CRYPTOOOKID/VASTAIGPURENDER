@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which stone is popularly believed to bring protection and clarity when worn as jewelry?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which European superstition claims stepping on a crack affects your mother's wellbeing?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which mathematical superstition influenced building design by omitting the thirteenth floor?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which symbol featuring an eye is commonly used as an amulet against envy and ill intent?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which amulet shaped like a leaf symbolizes luck in many Western traditions?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which British folklore figure collects bad luck by sweeping chimneys and became a wedding charm historically?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which plant is popularly associated with finding good luck and has five leaves when unusual?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the name of the protective blue glass bead used in Turkey against the evil eye?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which classical Roman ritual used a scapegoat to symbolically carry community sins away?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which day of the week is considered unlucky by some people who fear Friday the 13th?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ancient practice interpreted the behavior of birds to predict events?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term names fear specifically of the number four in East Asian contexts?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which animal is commonly considered bad luck in Western superstition if it crosses your path?"
+    },
+    {
+      "question_id": 14,
+      "question": "What object did sailors historically wear or carry to protect against bad luck at sea?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which medieval English practice left protective iron objects in walls to deter witches and spirits?"
+    }
+  ]
+}

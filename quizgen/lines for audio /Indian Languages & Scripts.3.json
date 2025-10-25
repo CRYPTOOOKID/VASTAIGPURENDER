@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian language is associated with the epic Ramcharitmanas by Tulsidas?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which language's script was reintroduced officially in Manipur in the 20th century?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which medieval Sanskrit dramatist's works influenced regional performance languages across India?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which script is native to the Malayalam language?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which modern Indian script was standardized by Guru Angad for Sikh scripture?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which early modern literary language used the Perso-Arabic script called Shahmukhi in parts of Punjab?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script is used by the Bodo language officially in Assam?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which language uses the Meitei Mayek script historically before Bengali script adoption?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script evolved into the modern Gujarati script by dropping which element present in Devanagari?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which script did early Ashokan inscriptions use?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script reformer is credited with modern Malayalam script standardization in the 20th century?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which standardized orthography term describes modern Marathi's pronunciation-based spelling?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian language family includes Tibeto-Burman languages in the northeast?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script reform in the 19th century affected Marathi orthography removing the schwa ambiguity?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which endangered script recorded several northeastern Tibeto-Burman languages historically?"
+    }
+  ]
+}

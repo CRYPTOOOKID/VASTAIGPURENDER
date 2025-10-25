@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which fashion accessories like chokers and slip dresses were staples in the 1990s?",
+      "options": [
+        "90s fashion",
+        "Victorian fashion",
+        "Baroque fashion"
+      ],
+      "answer": "90s fashion"
+    },
+    {
+      "question_id": 2,
+      "question": "Which 1995 film became the first full-length feature made entirely with CGI?",
+      "options": [
+        "Toy Story",
+        "A Bug's Life",
+        "Antz"
+      ],
+      "answer": "Toy Story"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 1992 album second single 'Come As You Are' helped Nirvana reach mainstream audiences?",
+      "options": [
+        "Nevermind",
+        "In Utero",
+        "Bleach"
+      ],
+      "answer": "Nevermind"
+    },
+    {
+      "question_id": 4,
+      "question": "Which television network primarily played music videos in the early 1990s?",
+      "options": [
+        "MTV",
+        "CNN",
+        "ESPN"
+      ],
+      "answer": "MTV"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fashion brand popularized the 'Rachel' haircut after a 1995 TV appearance?",
+      "options": [
+        "Jennifer Aniston's stylist",
+        "Versace",
+        "Calvin Klein"
+      ],
+      "answer": "Jennifer Aniston's stylist"
+    },
+    {
+      "question_id": 6,
+      "question": "Which film's 1995 soundtrack popularized Celine Dion's association with a blockbuster romance?",
+      "options": [
+        "Titanic",
+        "Braveheart",
+        "Romeo + Juliet"
+      ],
+      "answer": "Titanic"
+    },
+    {
+      "question_id": 7,
+      "question": "Which band released the 1991 album 'Nevermind' that changed rock music?",
+      "options": [
+        "Nirvana",
+        "Pearl Jam",
+        "Red Hot Chili Peppers"
+      ],
+      "answer": "Nirvana"
+    },
+    {
+      "question_id": 8,
+      "question": "Which video game released in 1996 popularized 3D platforming on the N64?",
+      "options": [
+        "Super Mario 64",
+        "Crash Bandicoot",
+        "Banjo-Kazooie"
+      ],
+      "answer": "Super Mario 64"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1998 film's soundtrack introduced a popular female R&B anthem by Lauryn Hill?",
+      "options": [
+        "The Best Man",
+        "Soul Food",
+        "Love Jones"
+      ],
+      "answer": "The Best Man"
+    },
+    {
+      "question_id": 10,
+      "question": "Which 1992 courtroom drama contains the line 'You can't handle the truth'?",
+      "options": [
+        "A Few Good Men",
+        "The Firm",
+        "Scent of a Woman"
+      ],
+      "answer": "A Few Good Men"
+    },
+    {
+      "question_id": 11,
+      "question": "Which actress played Mia Wallace in Quentin Tarantino's 1994 film Pulp Fiction?",
+      "options": [
+        "Uma Thurman",
+        "Rosanna Arquette",
+        "Juliette Lewis"
+      ],
+      "answer": "Uma Thurman"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1998 R&B group released the multi-platinum album 'The Writing's on the Wall'?",
+      "options": [
+        "Destiny's Child",
+        "TLC",
+        "En Vogue"
+      ],
+      "answer": "TLC"
+    },
+    {
+      "question_id": 13,
+      "question": "Which sitcom about six friends in New York debuted in 1994?",
+      "options": [
+        "Friends",
+        "Seinfeld",
+        "Frasier"
+      ],
+      "answer": "Friends"
+    },
+    {
+      "question_id": 14,
+      "question": "Which 1999 film explored virtual reality and featured Keanu Reeves as Neo?",
+      "options": [
+        "The Matrix",
+        "The Thirteenth Floor",
+        "Dark City"
+      ],
+      "answer": "The Matrix"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1993 album by Snoop Dogg helped popularize West Coast G-funk nationally?",
+      "options": [
+        "Doggystyle",
+        "The Chronic",
+        "Dogg Food"
+      ],
+      "answer": "Doggystyle"
+    }
+  ]
+}

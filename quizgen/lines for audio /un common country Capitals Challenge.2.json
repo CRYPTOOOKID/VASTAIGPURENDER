@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which city is the capital of São Tomé and Príncipe, located on São Tomé island?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which African capital functions as two cities for different roles: administrative and ceremonial within one kingdom?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national capital lies within a UNESCO-listed historic quarter famous for preserving colonial wooden buildings?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of the Maldives, situated on a small coral island in the Indian Ocean?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital is the administrative seat for a country where the largest city remains economically dominant abroad?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital is recognized for having established government buildings constructed on reclaimed land atop a lagoon?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Caribbean island's capital is Roseau, known for lush rainforests?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital was built on reclaimed land between two islands to serve as the national seat of government?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital is known for maintaining ceremonial royal residences separate from the administrative ministries in another city?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city serves as Benin's official capital, though another city hosts many government offices?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital city is located closest to the equator among these Pacific capitals?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital hosted a historic regional summit, boosting its international profile despite its small population?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital city of the Union of the Comoros, found on Grande Comore island?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city became Palau's capital in 2006, replacing the long-serving administrative center Koror?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital was designated to reduce exposure to coastal storms and to centralize ministries after a major disaster?"
+    }
+  ]
+}

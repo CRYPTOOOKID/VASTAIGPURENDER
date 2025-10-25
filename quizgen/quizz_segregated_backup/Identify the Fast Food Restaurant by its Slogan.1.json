@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which pizza chain popularized the call \"Pizza! Pizza!\"?",
+      "options": [
+        "Little Caesars",
+        "Papa Murphy's",
+        "Sbarro"
+      ],
+      "answer": "Little Caesars"
+    },
+    {
+      "question_id": 2,
+      "question": "Which drive-thru chain is associated with the phrase \"America's Drive-In\" historically?",
+      "options": [
+        "Sonic Drive-In",
+        "In-N-Out Burger",
+        "Jack in the Box"
+      ],
+      "answer": "Sonic Drive-In"
+    },
+    {
+      "question_id": 3,
+      "question": "Which chain used the tagline \"Home of the Whopper\" to anchor its identity?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 4,
+      "question": "Which chain promotes \"Love That Chicken\" in its advertising?",
+      "options": [
+        "Popeyes",
+        "KFC",
+        "Church's Chicken"
+      ],
+      "answer": "Popeyes"
+    },
+    {
+      "question_id": 5,
+      "question": "Which donut chain invites customers with the sign \"Hot Now\" when fresh items arrive?",
+      "options": [
+        "Krispy Kreme",
+        "Dunkin'",
+        "Tim Hortons"
+      ],
+      "answer": "Krispy Kreme"
+    },
+    {
+      "question_id": 6,
+      "question": "Which burger chain uses the slogan \"Quality You Can Taste\" on its West Coast roots?",
+      "options": [
+        "In-N-Out Burger",
+        "Five Guys",
+        "Shake Shack"
+      ],
+      "answer": "In-N-Out Burger"
+    },
+    {
+      "question_id": 7,
+      "question": "Which donut chain uses the slogan \"Hot Now\" to advertise fresh doughnuts?",
+      "options": [
+        "Krispy Kreme",
+        "Dunkin'",
+        "Shipley Do-Nuts"
+      ],
+      "answer": "Krispy Kreme"
+    },
+    {
+      "question_id": 8,
+      "question": "Which sandwich chain used \"A Sandwich for Everyone\" messaging in campaigns?",
+      "options": [
+        "Jimmy John's",
+        "Jersey Mike's",
+        "Subway"
+      ],
+      "answer": "Jersey Mike's"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national chain uses the rallying slogan \"Stand For Something Good\" in PR?",
+      "options": [
+        "Shake Shack",
+        "Whataburger",
+        "Red Robin"
+      ],
+      "answer": "Shake Shack"
+    },
+    {
+      "question_id": 10,
+      "question": "Which newer burger chain uses \"Stand For Something Good\"?",
+      "options": [
+        "Shake Shack",
+        "Smashburger",
+        "Five Guys"
+      ],
+      "answer": "Shake Shack"
+    },
+    {
+      "question_id": 11,
+      "question": "Which pizza company used the slogan \"You Got 30 Minutes\" in earlier delivery guarantees?",
+      "options": [
+        "Domino's Pizza",
+        "Papa John's",
+        "Little Caesars"
+      ],
+      "answer": "Domino's Pizza"
+    },
+    {
+      "question_id": 12,
+      "question": "Which fast-food coffee brand uses a mission-style slogan rather than a short tagline?",
+      "options": [
+        "Starbucks",
+        "Dunkin'",
+        "Peet's Coffee"
+      ],
+      "answer": "Starbucks"
+    },
+    {
+      "question_id": 13,
+      "question": "Which burger brand uses the slogan \"Eat Like You Mean It\"?",
+      "options": [
+        "Carl's Jr.",
+        "Hardee's",
+        "Jack in the Box"
+      ],
+      "answer": "Carl's Jr."
+    },
+    {
+      "question_id": 14,
+      "question": "Which chain used the slogan \"Eat Like You Mean It\" to promote bolder flavors?",
+      "options": [
+        "Carl's Jr.",
+        "Hardee's",
+        "Jack in the Box"
+      ],
+      "answer": "Carl's Jr."
+    },
+    {
+      "question_id": 15,
+      "question": "Which pizza company popularized the short exclamation \"Pizza! Pizza!\" as a jingle?",
+      "options": [
+        "Little Caesars",
+        "Papa John's",
+        "Sbarro"
+      ],
+      "answer": "Little Caesars"
+    }
+  ]
+}

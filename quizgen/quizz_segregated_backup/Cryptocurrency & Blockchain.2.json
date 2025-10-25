@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which measure indicates the size of a cryptocurrency ecosystem?",
+      "options": [
+        "Market capitalization",
+        "Hash rate per wallet",
+        "Block time variance"
+      ],
+      "answer": "Market capitalization"
+    },
+    {
+      "question_id": 2,
+      "question": "Which mechanism reduces Bitcoin block reward periodically?",
+      "options": [
+        "Halving every 210,000 blocks",
+        "Staking rewards cut annually",
+        "Minting schedule change by DAO"
+      ],
+      "answer": "Halving every 210,000 blocks"
+    },
+    {
+      "question_id": 3,
+      "question": "Which standard allows token approvals to be revoked in a single on-chain call (ERC feature)?",
+      "options": [
+        "ERC-20 allowance pattern with decreaseAllowance",
+        "ERC-721 batch minting",
+        "ERC-1155 metadata"
+      ],
+      "answer": "ERC-20 allowance pattern with decreaseAllowance"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a blockchain 'explorer' used for?",
+      "options": [
+        "Viewing transactions and blocks",
+        "Generating private keys",
+        "Running consensus algorithms"
+      ],
+      "answer": "Viewing transactions and blocks"
+    },
+    {
+      "question_id": 5,
+      "question": "Which consensus algorithm did Ethereum adopt in The Merge?",
+      "options": [
+        "Proof-of-stake",
+        "Proof-of-work",
+        "Proof-of-authority"
+      ],
+      "answer": "Proof-of-stake"
+    },
+    {
+      "question_id": 6,
+      "question": "Which cryptographic scheme improves privacy by aggregating signatures in Bitcoin's Taproot era?",
+      "options": [
+        "Schnorr signatures",
+        "ECDSA multi-signature",
+        "RSA signatures"
+      ],
+      "answer": "Schnorr signatures"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'mining' do in Bitcoin's network?",
+      "options": [
+        "Validates transactions and creates new coins",
+        "Issues fiat currency",
+        "Controls price volatility"
+      ],
+      "answer": "Validates transactions and creates new coins"
+    },
+    {
+      "question_id": 8,
+      "question": "What does TPS commonly measure for blockchains?",
+      "options": [
+        "Transactions per second",
+        "Tokens per smart contract",
+        "Treasury protocol security"
+      ],
+      "answer": "Transactions per second"
+    },
+    {
+      "question_id": 9,
+      "question": "Which vulnerability was central to the 2016 DAO exploit on Ethereum?",
+      "options": [
+        "Reentrancy bug",
+        "Integer overflow",
+        "Signature forgery"
+      ],
+      "answer": "Reentrancy bug"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes tokens representing unique digital items?",
+      "options": [
+        "NFTs",
+        "Stablecoins",
+        "Futures"
+      ],
+      "answer": "NFTs"
+    },
+    {
+      "question_id": 11,
+      "question": "Which upgrade introduced fee burning and base fee in Ethereum?",
+      "options": [
+        "EIP-1559",
+        "EIP-20",
+        "EIP-721"
+      ],
+      "answer": "EIP-1559"
+    },
+    {
+      "question_id": 12,
+      "question": "Which upgrade activated Taproot on Bitcoin in 2021?",
+      "options": [
+        "BIP341",
+        "BIP141",
+        "BIP65"
+      ],
+      "answer": "BIP341"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an exchange in cryptocurrency terms?",
+      "options": [
+        "A platform to buy and sell tokens",
+        "A ledger of blocks",
+        "A mining pool"
+      ],
+      "answer": "A platform to buy and sell tokens"
+    },
+    {
+      "question_id": 14,
+      "question": "What model does Bitcoin use for tracking funds?",
+      "options": [
+        "UTXO model",
+        "Account model",
+        "Balance sheet model"
+      ],
+      "answer": "UTXO model"
+    },
+    {
+      "question_id": 15,
+      "question": "Which elliptic curve does Bitcoin use for ECDSA signatures?",
+      "options": [
+        "secp256k1",
+        "secp384r1",
+        "ed25519"
+      ],
+      "answer": "secp256k1"
+    }
+  ]
+}

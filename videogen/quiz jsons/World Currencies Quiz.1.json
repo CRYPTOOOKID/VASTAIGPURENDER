@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency uses the symbol ₩?",
+      "options": [
+        "South Korean Won",
+        "Turkish Lira",
+        "Japanese Yen"
+      ],
+      "answer": "South Korean Won"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency is the legal tender of the Cayman Islands?",
+      "options": [
+        "US Dollar",
+        "Cayman Islands Dollar",
+        "Bahamian Dollar"
+      ],
+      "answer": "Cayman Islands Dollar"
+    },
+    {
+      "question_id": 3,
+      "question": "Which currency uses the denomination 'pa'anga' and is the official currency of a Pacific island nation?",
+      "options": [
+        "Fijian Dollar",
+        "Samoan Tala",
+        "Tongan Paʻanga"
+      ],
+      "answer": "Tongan Paʻanga"
+    },
+    {
+      "question_id": 4,
+      "question": "What currency is used in Chile?",
+      "options": [
+        "Colombian Peso",
+        "Argentine Peso",
+        "Chilean Peso"
+      ],
+      "answer": "Chilean Peso"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country adopted the euro but retains its own coins for collector issues?",
+      "options": [
+        "Switzerland",
+        "Vatican City",
+        "United Kingdom"
+      ],
+      "answer": "Vatican City"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country uses a currency called the 'lek' and experienced major monetary reform after World War II?",
+      "options": [
+        "Romania",
+        "Albania",
+        "Greece"
+      ],
+      "answer": "Albania"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency uses the abbreviation JPY?",
+      "options": [
+        "Jordanian Dinar",
+        "Japanese Yen",
+        "Jamaican Dollar"
+      ],
+      "answer": "Japanese Yen"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency is used in Switzerland and Liechtenstein and sometimes abbreviated as 'Fr.'?",
+      "options": [
+        "Swiss Franc",
+        "British Pound",
+        "Euro"
+      ],
+      "answer": "Swiss Franc"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency featured the portrait of Mustafa Kemal Atatürk after a major redesign post-1923 republican reforms?",
+      "options": [
+        "Turkish Lira",
+        "Greek Drachma",
+        "Bulgarian Lev"
+      ],
+      "answer": "Turkish Lira"
+    },
+    {
+      "question_id": 10,
+      "question": "What currency does Mexico use?",
+      "options": [
+        "Dollar",
+        "Real",
+        "Peso"
+      ],
+      "answer": "Peso"
+    },
+    {
+      "question_id": 11,
+      "question": "Which currency is unique for being made primarily of polymer rather than paper in many series?",
+      "options": [
+        "Euro",
+        "Australian Dollar",
+        "US Dollar"
+      ],
+      "answer": "Australian Dollar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country introduced a 'bimonetary' system using both a local currency and the US dollar after 2009 crisis?",
+      "options": [
+        "Cuba",
+        "Honduras",
+        "Haiti"
+      ],
+      "answer": "Cuba"
+    },
+    {
+      "question_id": 13,
+      "question": "What currency is used in Brazil?",
+      "options": [
+        "Real",
+        "Dollar",
+        "Peso"
+      ],
+      "answer": "Real"
+    },
+    {
+      "question_id": 14,
+      "question": "Which South American country uses the guarani as its currency?",
+      "options": [
+        "Paraguay",
+        "Bolivia",
+        "Uruguay"
+      ],
+      "answer": "Paraguay"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country uses the 'sol' as its currency and reintroduced it in 1991 to stabilize the economy?",
+      "options": [
+        "Peru",
+        "Chile",
+        "Ecuador"
+      ],
+      "answer": "Peru"
+    }
+  ]
+}

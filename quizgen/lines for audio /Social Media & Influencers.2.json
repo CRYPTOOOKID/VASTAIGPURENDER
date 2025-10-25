@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a \"follower\" mean on social media platforms?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which analytics metric indicates how often a post inspires direct responses like comments?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company acquired influencer marketing platform Influential in 2018?"
+    },
+    {
+      "question_id": 4,
+      "question": "What feature lets users save short video drafts before posting?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the typical purpose of a brand's brief for an influencer campaign?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country had early large-scale influencer commerce practices shaping global trends?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"brand ambassador\" in influencer marketing?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which social network introduced \"Pins\" and visual discovery in 2010?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which influencer monetization model shares ad revenue directly with creators?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is an \"influencer\" primarily recognized for?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does a \"brand safety\" check aim to prevent in influencer content?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which influencer marketing tactic focuses on recurring, long-term collaboration?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which platform focused originally on image sharing and filters?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which platform uses \"Pins\" as its primary content unit?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which algorithm concept did Facebook originally use to rank posts?"
+    }
+  ]
+}

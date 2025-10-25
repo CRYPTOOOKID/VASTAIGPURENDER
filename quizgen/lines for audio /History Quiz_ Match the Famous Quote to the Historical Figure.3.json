@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which British leader declared \"We shall fight on the beaches\" in 1940?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which conqueror said \"There is nothing new under the sun\" in a philosophical work?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Ottoman-era reformer declared \"A people without knowledge of their past history\" in educational reform arguments?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who said \"The only thing we have to fear is fear itself\" in 1933?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who said \"History is written by the victors\" in discussions of historiography?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Spanish conquistador claimed \"It is better to go with the poor\" during indigenous encounters?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Roman philosopher said \"The unexamined life is not worth living\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who declared \"Workers of the world, unite!\" in a widely read 19th-century pamphlet?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote \"The empires of the future are empires of the mind\" forecasting postindustrial power sources?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who said \"Workers of the world, unite!\" in a revolutionary pamphlet?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which leader declared \"I shall return\" promising to come back to a Pacific colony?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Ottoman statesman wrote \"Europe is a powder keg\" warning about Balkan tensions?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who wrote \"I came, I saw, I conquered\" shortly after victory at Zela?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who said \"Power corrupts; absolute power corrupts absolutely\" discussing political authority?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who said \"I am dying beyond my means\" in correspondence reflecting eighteenth-century financial strain?"
+    }
+  ]
+}

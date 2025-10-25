@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"verified\" status usually indicate on social platforms?",
+      "options": [
+        "Authentic identity of a notable account",
+        "An account with paid ads active",
+        "An account that uses two-factor authentication"
+      ],
+      "answer": "Authentic identity of a notable account"
+    },
+    {
+      "question_id": 2,
+      "question": "Which content format tends to generate highest organic engagement for influencers?",
+      "options": [
+        "Short-form video",
+        "Long text captions",
+        "Static PDFs"
+      ],
+      "answer": "Short-form video"
+    },
+    {
+      "question_id": 3,
+      "question": "Which concept describes influencer value beyond immediate sales, like trust and awareness?",
+      "options": [
+        "Brand equity",
+        "Click fraud",
+        "Ad fatigue"
+      ],
+      "answer": "Brand equity"
+    },
+    {
+      "question_id": 4,
+      "question": "Which action indicates immediate audience approval on many platforms?",
+      "options": [
+        "Liking a post",
+        "Reporting a post",
+        "Saving a draft"
+      ],
+      "answer": "Liking a post"
+    },
+    {
+      "question_id": 5,
+      "question": "What follower range commonly defines a micro-influencer in industry practice?",
+      "options": [
+        "10,000 to 100,000 followers",
+        "1,000,000 to 5,000,000 followers",
+        "100 to 1,000 followers"
+      ],
+      "answer": "10,000 to 100,000 followers"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Asian platform popularized livestream commerce before western adoption?",
+      "options": [
+        "Taobao Live",
+        "Weibo Live",
+        "Line Live"
+      ],
+      "answer": "Taobao Live"
+    },
+    {
+      "question_id": 7,
+      "question": "Which metric helps compare creator performance across accounts?",
+      "options": [
+        "Engagement rate per follower",
+        "Number of drafts saved",
+        "Time of day posted"
+      ],
+      "answer": "Engagement rate per follower"
+    },
+    {
+      "question_id": 8,
+      "question": "Which campaign famously used influencers and went viral, spotlighting ALS research?",
+      "options": [
+        "Ice Bucket Challenge",
+        "Share a Coke",
+        "Dove Real Beauty"
+      ],
+      "answer": "Ice Bucket Challenge"
+    },
+    {
+      "question_id": 9,
+      "question": "Which practice increases authenticity when influencers disclose sponsorships effectively?",
+      "options": [
+        "Using clear disclosure language near content",
+        "Hiding disclosure in a long bio",
+        "Embedding disclosure in an external link only"
+      ],
+      "answer": "Using clear disclosure language near content"
+    },
+    {
+      "question_id": 10,
+      "question": "Which social network is primarily career-focused and professional?",
+      "options": [
+        "LinkedIn",
+        "Snapchat",
+        "Reddit"
+      ],
+      "answer": "LinkedIn"
+    },
+    {
+      "question_id": 11,
+      "question": "Which short-video feature did Instagram add explicitly to compete with TikTok?",
+      "options": [
+        "Reels",
+        "Fleets",
+        "Spaces"
+      ],
+      "answer": "Reels"
+    },
+    {
+      "question_id": 12,
+      "question": "What practice did the FTC emphasize in its 2017-2020 influencer guidance updates?",
+      "options": [
+        "Clear and conspicuous disclosure of paid relationships",
+        "Increasing post frequency for visibility",
+        "Using shortened links to hide sponsorships"
+      ],
+      "answer": "Clear and conspicuous disclosure of paid relationships"
+    },
+    {
+      "question_id": 13,
+      "question": "Which platform introduced the Stories format popularized across apps?",
+      "options": [
+        "Snapchat",
+        "Instagram",
+        "Twitter"
+      ],
+      "answer": "Snapchat"
+    },
+    {
+      "question_id": 14,
+      "question": "What does \"reach frequency\" measure in a campaign?",
+      "options": [
+        "How often the same users see content",
+        "Total number of creatives produced",
+        "Number of influencer contracts signed"
+      ],
+      "answer": "How often the same users see content"
+    },
+    {
+      "question_id": 15,
+      "question": "Which platform's verification initially depended heavily on celebrity status and press coverage?",
+      "options": [
+        "Twitter",
+        "Pinterest",
+        "YouTube"
+      ],
+      "answer": "Twitter"
+    }
+  ]
+}

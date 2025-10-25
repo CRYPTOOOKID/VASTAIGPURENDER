@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company operates the Prime membership program?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company bought YouTube in 2006 for approximately $1.65 billion?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company led the early commercialization of cloud-based office apps with its Office 365 subscription?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company pioneered subscription streaming with series like House of Cards?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company acquired WhatsApp for about $19 billion in 2014?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company purchased YouTube in 2006, integrating video into its advertising ecosystem?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which social network started at Harvard University in 2004?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company spun off PayPal as an independent public company in 2015?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company announced a $68.7 billion acquisition of Activision Blizzard before regulatory delays?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which company created Microsoft Excel spreadsheet software?"
+    },
+    {
+      "question_id": 11,
+      "question": "In which year did Amazon purchase Whole Foods Market?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company introduced the first successful mass-market graphical personal computer, shaping consumer computing?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which company created the Bing search engine?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which big tech restructured under the parent name Alphabet in 2015?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company completed the largest software acquisition by buying Red Hat in 2019 for $34 billion?"
+    }
+  ]
+}

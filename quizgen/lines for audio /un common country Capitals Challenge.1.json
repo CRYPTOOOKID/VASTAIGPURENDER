@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital city of Saint Lucia, overlooking a natural harbor?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country announced plans to relocate its capital from Malabo to the inland Ciudad de la Paz (Oyala)?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital's historic district was inscribed as a UNESCO site in 2002 for its wooden colonial architecture?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital city of the Pacific island nation Palau, known for its Rock Islands?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital was created and inaugurated in 1970 following the devastation of the former capital by a hurricane?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital sits on an atoll lagoon and has a strip-like form with settlements along a narrow reef rim?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital city of the Federated States of Micronesia, located on Pohnpei island?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital's name translates to 'big town' or 'big village' in a local West African language?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital is the administrative center of a nation where the government functions across multiple islands and a continental mainland?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the national capital of the Marshall Islands situated on Majuro atoll?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which national capital's airport sits on a different island than the main administrative center, requiring boat transfers?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital's international airport is built on a reclaimed island separated from the government district by narrow channels?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which city is the capital of Equatorial Guinea, located on Bioko Island?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city was re-established after colonial rule and now hosts both modern ministries and historic districts?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital city served as a temporary national capital during independence transition before the seat returned to an older city?"
+    }
+  ]
+}

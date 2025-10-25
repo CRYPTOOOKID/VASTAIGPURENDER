@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the minimum age required to be elected to Lok Sabha?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which amendment added the words 'socialist' and 'secular' to the Preamble?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which constitutional bench decision upheld the basic structure doctrine?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the tenure of a Rajya Sabha member?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who became the first woman Chief Minister in independent India?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Lok Sabha election gave Congress its largest seat tally historically (404 seats)?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the minimum age to hold the office of President of India?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Finance Minister led the 1991 macroeconomic stabilization reforms?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which leader chaired the Committee on Centre–State relations after 2007?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is India’s head of state under the Constitution?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which leader founded the Swatantra Party as a classical-liberal alternative?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Article allows the President to proclaim a national emergency?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who was the first Prime Minister of independent India?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Prime Minister popularized the slogan 'Garibi Hatao'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who served as Prime Minister for 13 days following the 1996 general election?"
+    }
+  ]
+}

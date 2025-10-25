@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which clothing item became a grunge fashion hallmark during the 1990s?",
+      "options": [
+        "Flannel shirts",
+        "Blazers",
+        "Leather jackets"
+      ],
+      "answer": "Flannel shirts"
+    },
+    {
+      "question_id": 2,
+      "question": "Which 1990s platform popularized teen-centric magazines like YM and Seventeen?",
+      "options": [
+        "Print magazines",
+        "Streaming services",
+        "Podcasts"
+      ],
+      "answer": "Print magazines"
+    },
+    {
+      "question_id": 3,
+      "question": "Which British band's 1995 album featured the singles 'Wonderwall' and 'Don't Look Back in Anger'?",
+      "options": [
+        "Oasis",
+        "Blur",
+        "Radiohead"
+      ],
+      "answer": "Oasis"
+    },
+    {
+      "question_id": 4,
+      "question": "What technology popularized email and web browsing in the 1990s?",
+      "options": [
+        "The Internet",
+        "The Fax Machine",
+        "The Pager"
+      ],
+      "answer": "The Internet"
+    },
+    {
+      "question_id": 5,
+      "question": "Which TV drama premiered in 1993 about the lives of six high school students?",
+      "options": [
+        "My So-Called Life",
+        "Beverly Hills, 90210",
+        "Party of Five"
+      ],
+      "answer": "My So-Called Life"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1990s animated series was created by Arlene Klasky, Gábor Csupó, and Paul Germain?",
+      "options": [
+        "Rugrats",
+        "Doug",
+        "Hey Arnold!"
+      ],
+      "answer": "Rugrats"
+    },
+    {
+      "question_id": 7,
+      "question": "Which athletic brand was a 1990s staple with Air Max and basketball sneakers?",
+      "options": [
+        "Nike",
+        "Reebok",
+        "Adidas"
+      ],
+      "answer": "Nike"
+    },
+    {
+      "question_id": 8,
+      "question": "Which 1997 television series introduced the character Fox Mulder and Dana Scully?",
+      "options": [
+        "The X-Files",
+        "Millennium",
+        "Twin Peaks"
+      ],
+      "answer": "The X-Files"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1995 social phenomenon was driven by trading cards and anime for children worldwide?",
+      "options": [
+        "Pokémon",
+        "Digimon",
+        "Yu-Gi-Oh!"
+      ],
+      "answer": "Pokémon"
+    },
+    {
+      "question_id": 10,
+      "question": "Which handheld gaming device dominated the early 1990s market for portability?",
+      "options": [
+        "Game Boy",
+        "Game Gear",
+        "Neo Geo Pocket"
+      ],
+      "answer": "Game Boy"
+    },
+    {
+      "question_id": 11,
+      "question": "Which British band released the album (What's the Story) Morning Glory? in 1995?",
+      "options": [
+        "Oasis",
+        "Blur",
+        "Pulp"
+      ],
+      "answer": "Oasis"
+    },
+    {
+      "question_id": 12,
+      "question": "Which iconic 1990s toy line originated from a Japanese collectible concept introduced overseas?",
+      "options": [
+        "Tamagotchi",
+        "Roboraptor",
+        "Furby"
+      ],
+      "answer": "Tamagotchi"
+    },
+    {
+      "question_id": 13,
+      "question": "Which search engine launched in 1998 and transformed how people find information?",
+      "options": [
+        "Google",
+        "Yahoo",
+        "AltaVista"
+      ],
+      "answer": "Google"
+    },
+    {
+      "question_id": 14,
+      "question": "Which pop star released the 1999 album '…Baby One More Time' as her debut?",
+      "options": [
+        "Britney Spears",
+        "Christina Aguilera",
+        "Jessica Simpson"
+      ],
+      "answer": "Britney Spears"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1996 rap single by The Fugees showcased a Lauryn Hill lead vocal and global success?",
+      "options": [
+        "Killing Me Softly",
+        "Ready or Not",
+        "Fu-Gee-La"
+      ],
+      "answer": "Killing Me Softly"
+    }
+  ]
+}

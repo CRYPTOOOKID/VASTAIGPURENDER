@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'jurisprudence'?",
+      "options": [
+        "Criminal investigation technique",
+        "Official court transcript",
+        "Study and theory of law"
+      ],
+      "answer": "Study and theory of law"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'strict liability' in product law?",
+      "options": [
+        "Liability only for intentional harm",
+        "Liability limited to contract breach",
+        "Liability without proving fault"
+      ],
+      "answer": "Liability without proving fault"
+    },
+    {
+      "question_id": 3,
+      "question": "Which doctrine allows ministerial acts to be compelled by writ?",
+      "options": [
+        "Certiorari",
+        "Prohibition",
+        "Mandamus"
+      ],
+      "answer": "Mandamus"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'common law'?",
+      "options": [
+        "Law developed by judicial decisions",
+        "A list of statutory regulations",
+        "International treaty obligations"
+      ],
+      "answer": "Law developed by judicial decisions"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'stare decisis' in common law systems?",
+      "options": [
+        "Rejecting precedent for new rulings",
+        "Respecting previous judicial decisions",
+        "Immediate legislative overrides"
+      ],
+      "answer": "Respecting previous judicial decisions"
+    },
+    {
+      "question_id": 6,
+      "question": "Which constitutional provision addresses taking private property for public use?",
+      "options": [
+        "Takings clause requiring just compensation",
+        "Commerce clause regulating trade",
+        "Privileges or immunities clause"
+      ],
+      "answer": "Takings clause requiring just compensation"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'guilty' mean in criminal law?",
+      "options": [
+        "Found responsible for a crime",
+        "Released without conditions",
+        "Charged but not tried"
+      ],
+      "answer": "Found responsible for a crime"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rule controls admissibility of expert testimony in federal courts?",
+      "options": [
+        "Brady doctrine",
+        "Crawford rule",
+        "Daubert standard"
+      ],
+      "answer": "Daubert standard"
+    },
+    {
+      "question_id": 9,
+      "question": "Which test evaluates discriminatory intent in constitutional claims?",
+      "options": [
+        "Mere rational basis review",
+        "Strict scrutiny with suspect classification",
+        "Good faith reliance test"
+      ],
+      "answer": "Strict scrutiny with suspect classification"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'plea bargain' accomplish?",
+      "options": [
+        "Judge dismisses charges without trial",
+        "Prosecutor withdraws all cases",
+        "Defendant pleads guilty for reduced charge"
+      ],
+      "answer": "Defendant pleads guilty for reduced charge"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the primary aim of antitrust laws?",
+      "options": [
+        "Promote competition and prevent monopolies",
+        "Protect minors from harmful content",
+        "Standardize international trade tariffs"
+      ],
+      "answer": "Promote competition and prevent monopolies"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the 'incorporation doctrine' in constitutional law?",
+      "options": [
+        "Applying federal rights to states through the Fourteenth Amendment",
+        "Merging of corporate entities under law",
+        "Combining civil and criminal trials"
+      ],
+      "answer": "Applying federal rights to states through the Fourteenth Amendment"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'objection' do at trial?",
+      "options": [
+        "Challenges a question or evidence",
+        "Starts jury deliberations",
+        "Ends the trial immediately"
+      ],
+      "answer": "Challenges a question or evidence"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'anticipatory breach' of contract?",
+      "options": [
+        "Parties mutually terminate an agreement",
+        "A court forces immediate performance",
+        "One party indicates refusal to perform early"
+      ],
+      "answer": "One party indicates refusal to perform early"
+    },
+    {
+      "question_id": 15,
+      "question": "Which doctrine limits damages for pure economic loss in many tort systems?",
+      "options": [
+        "Parol evidence rule",
+        "Relational proximity and policy barriers",
+        "Contributory negligence doctrine"
+      ],
+      "answer": "Relational proximity and policy barriers"
+    }
+  ]
+}

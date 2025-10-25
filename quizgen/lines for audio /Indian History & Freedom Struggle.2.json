@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which leader led the Champaran Satyagraha in 1917, Gandhi's first active struggle in India?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian ruler established the Mughal dynasty's greatest territorial expansion under his reign?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 1907 split in the Congress divided it into Moderates and Extremists at which city session?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who led the Salt March to Dandi in 1930 as part of the civil disobedience movement?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movement beginning in 1905 protested the partition of Bengal and promoted indigenous industry?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which leader authored the pamphlet 'Why I am an Atheist' and influenced revolutionary youth in early 20th century India?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which leader famously declared 'Do or Die' during the Quit India Movement?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which congress leader led the Bardoli Satyagraha in 1928 and later became Prime Minister of Bombay Presidency?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which peasant leader led the Bardoli Satyagraha's local committee demanding tax rollback in 1928?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city was the center of the Revolt of 1857 where the rebellion began in May?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Mughal emperor faced the Maratha resurgence led by Shivaji in the 17th century?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which treaty ended the Third Anglo-Maratha War and marked the effective end of Maratha sovereignty in 1818?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Mughal emperor commissioned the Taj Mahal in memory of his wife Mumtaz Mahal?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which treaty in 1765 granted the East India Company the Diwani rights of Bengal, Bihar and Orissa?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which British official introduced the Permanent Settlement in 1793 altering land revenue relations in Bengal?"
+    }
+  ]
+}

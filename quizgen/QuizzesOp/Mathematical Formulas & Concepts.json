@@ -1,0 +1,856 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the value of pi commonly approximated as?",
+        "options": [
+          "3.14",
+          "2.72",
+          "1.62"
+        ],
+        "answer": "3.14"
+      },
+      {
+        "question": "Which formula gives the area of a rectangle?",
+        "options": [
+          "length × width",
+          "2 × (length + width)",
+          "base × height ÷ 2"
+        ],
+        "answer": "length × width"
+      },
+      {
+        "question": "What is the Pythagorean theorem for right triangles?",
+        "options": [
+          "a^2 + b^2 = c^2",
+          "a + b = c",
+          "a^2 - b^2 = c^2"
+        ],
+        "answer": "a^2 + b^2 = c^2"
+      },
+      {
+        "question": "What is the formula for the area of a circle?",
+        "options": [
+          "πr^2",
+          "2πr",
+          "πd"
+        ],
+        "answer": "πr^2"
+      },
+      {
+        "question": "Which symbol represents an angle in geometry?",
+        "options": [
+          "∠",
+          "√",
+          "∑"
+        ],
+        "answer": "∠"
+      },
+      {
+        "question": "What does '√' denote in mathematics?",
+        "options": [
+          "square root",
+          "summation",
+          "integral"
+        ],
+        "answer": "square root"
+      },
+      {
+        "question": "What is the slope formula for a line through (x1,y1) and (x2,y2)?",
+        "options": [
+          "(y2 - y1)/(x2 - x1)",
+          "(x2 - x1)/(y2 - y1)",
+          "y = mx + b"
+        ],
+        "answer": "(y2 - y1)/(x2 - x1)"
+      },
+      {
+        "question": "Which formula calculates the perimeter of a square?",
+        "options": [
+          "4 × side",
+          "side^2",
+          "2 × side"
+        ],
+        "answer": "4 × side"
+      },
+      {
+        "question": "What is the formula for the circumference of a circle?",
+        "options": [
+          "2πr",
+          "πr^2",
+          "r^2 + π"
+        ],
+        "answer": "2πr"
+      },
+      {
+        "question": "What operation does '∑' represent?",
+        "options": [
+          "summation",
+          "product",
+          "derivative"
+        ],
+        "answer": "summation"
+      },
+      {
+        "question": "Which formula gives the area of a triangle?",
+        "options": [
+          "(base × height)/2",
+          "base + height",
+          "base × height"
+        ],
+        "answer": "(base × height)/2"
+      },
+      {
+        "question": "What does 'm' usually represent in y = mx + b?",
+        "options": [
+          "slope of the line",
+          "y-intercept",
+          "x-coordinate"
+        ],
+        "answer": "slope of the line"
+      },
+      {
+        "question": "What is Euler's famous formula connecting e, i, and pi in its simplest form?",
+        "options": [
+          "e^{iπ} + 1 = 0",
+          "e^π = π^e",
+          "e^{i} = π"
+        ],
+        "answer": "e^{iπ} + 1 = 0"
+      },
+      {
+        "question": "Which formula gives the volume of a rectangular prism?",
+        "options": [
+          "length × width × height",
+          "2(length + width + height)",
+          "length × width"
+        ],
+        "answer": "length × width × height"
+      },
+      {
+        "question": "What does 'b' usually represent in quadratic ax^2 + bx + c?",
+        "options": [
+          "linear coefficient",
+          "constant term",
+          "quadratic coefficient"
+        ],
+        "answer": "linear coefficient"
+      },
+      {
+        "question": "What is the factorial of 4 (4!)?",
+        "options": [
+          "24",
+          "16",
+          "12"
+        ],
+        "answer": "24"
+      },
+      {
+        "question": "Which identity is true for cos^2θ + sin^2θ?",
+        "options": [
+          "1",
+          "0",
+          "2"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "What does 'c' represent in the quadratic formula denominator 2a?",
+        "options": [
+          "constant term in ax^2+bx+c",
+          "coefficient of x",
+          "vertex x-coordinate"
+        ],
+        "answer": "constant term in ax^2+bx+c"
+      },
+      {
+        "question": "What is the mid-point formula for points (x1,y1) and (x2,y2)?",
+        "options": [
+          "((x1+x2)/2, (y1+y2)/2)",
+          "(x1+x2, y1+y2)",
+          "(x2-x1, y2-y1)"
+        ],
+        "answer": "((x1+x2)/2, (y1+y2)/2)"
+      },
+      {
+        "question": "Which expression defines arithmetic sequence nth term?",
+        "options": [
+          "a_n = a_1 + (n-1)d",
+          "a_n = a_1 × r^{n-1}",
+          "a_n = a_1 - n"
+        ],
+        "answer": "a_n = a_1 + (n-1)d"
+      },
+      {
+        "question": "Which expression defines geometric sequence nth term?",
+        "options": [
+          "a_n = a_1 × r^{n-1}",
+          "a_n = a_1 + (n-1)d",
+          "a_n = a_1 / n"
+        ],
+        "answer": "a_n = a_1 × r^{n-1}"
+      },
+      {
+        "question": "What is 0! equal to by definition?",
+        "options": [
+          "1",
+          "0",
+          "undefined"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "Which function is the inverse of f(x) = e^x?",
+        "options": [
+          "ln(x)",
+          "log_{10}(x)",
+          "x^2"
+        ],
+        "answer": "ln(x)"
+      },
+      {
+        "question": "What does 'det' denote in matrix operations?",
+        "options": [
+          "determinant",
+          "distance",
+          "derivative"
+        ],
+        "answer": "determinant"
+      },
+      {
+        "question": "Which inequality describes all real numbers x with absolute value less than 5?",
+        "options": [
+          "|x| < 5",
+          "x < 5",
+          "x > -5"
+        ],
+        "answer": "|x| < 5"
+      },
+      {
+        "question": "What is the standard form of a circle centered at (h,k)?",
+        "options": [
+          "(x-h)^2 + (y-k)^2 = r^2",
+          "y = mx + b",
+          "x^2 + y^2 = 1"
+        ],
+        "answer": "(x-h)^2 + (y-k)^2 = r^2"
+      },
+      {
+        "question": "Which formula gives the surface area of a cube with side s?",
+        "options": [
+          "6s^2",
+          "s^3",
+          "4s^2"
+        ],
+        "answer": "6s^2"
+      },
+      {
+        "question": "What is the slope of a horizontal line?",
+        "options": [
+          "0",
+          "1",
+          "undefined"
+        ],
+        "answer": "0"
+      },
+      {
+        "question": "What is the common ratio in a geometric sequence 2, 6, 18...?",
+        "options": [
+          "3",
+          "4",
+          "2"
+        ],
+        "answer": "3"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which formula finds the roots of ax^2 + bx + c = 0?",
+        "options": [
+          "(-b ± √(b^2-4ac))/(2a)",
+          "(b ± √(b^2+4ac))/(2a)",
+          "(-b)/(2a)"
+        ],
+        "answer": "(-b ± √(b^2-4ac))/(2a)"
+      },
+      {
+        "question": "What is the derivative of sin(x) with respect to x?",
+        "options": [
+          "cos(x)",
+          "-sin(x)",
+          "tan(x)"
+        ],
+        "answer": "cos(x)"
+      },
+      {
+        "question": "Which formula gives compound interest annually for principal P?",
+        "options": [
+          "P(1 + r)^t",
+          "Prt",
+          "P + rt"
+        ],
+        "answer": "P(1 + r)^t"
+      },
+      {
+        "question": "What does the binomial coefficient C(n,k) count?",
+        "options": [
+          "number of k-element combinations from n",
+          "number of permutations of n",
+          "number of partitions of n"
+        ],
+        "answer": "number of k-element combinations from n"
+      },
+      {
+        "question": "Which identity relates e^x as a series?",
+        "options": [
+          "e^x = Σ_{n=0}^∞ x^n/n!",
+          "e^x = Σ_{n=1}^∞ x^n",
+          "e^x = 1/(1-x)"
+        ],
+        "answer": "e^x = Σ_{n=0}^∞ x^n/n!"
+      },
+      {
+        "question": "What is the formula for the distance between two points (x1,y1) and (x2,y2)?",
+        "options": [
+          "√((x2-x1)^2+(y2-y1)^2)",
+          "(x2-x1)+(y2-y1)",
+          "|x2-x1|+|y2-y1|"
+        ],
+        "answer": "√((x2-x1)^2+(y2-y1)^2)"
+      },
+      {
+        "question": "Which transform converts a time-domain function to frequency-domain?",
+        "options": [
+          "Fourier transform",
+          "Laplace transform",
+          "Z-transform"
+        ],
+        "answer": "Fourier transform"
+      },
+      {
+        "question": "What is the area under one period of sin(x) from 0 to 2π?",
+        "options": [
+          "0",
+          "2",
+          "4"
+        ],
+        "answer": "0"
+      },
+      {
+        "question": "Which rule gives derivative of product f·g?",
+        "options": [
+          "f' g + f g'",
+          "f' g' ",
+          "(fg)' = f g"
+        ],
+        "answer": "f' g + f g'"
+      },
+      {
+        "question": "What is the formula for combinations without repetition?",
+        "options": [
+          "n!/(k!(n-k)!)",
+          "n^k",
+          "n!/(n-k)!"
+        ],
+        "answer": "n!/(k!(n-k)!)"
+      },
+      {
+        "question": "Which identity expresses cosine of a double angle?",
+        "options": [
+          "cos(2θ) = cos^2θ - sin^2θ",
+          "cos(2θ) = 2cosθ",
+          "cos(2θ) = cosθ + sinθ"
+        ],
+        "answer": "cos(2θ) = cos^2θ - sin^2θ"
+      },
+      {
+        "question": "Which formula expresses arithmetic series sum for n terms?",
+        "options": [
+          "n(a_1 + a_n)/2",
+          "a_1 × r^{n-1}",
+          "n × a_n"
+        ],
+        "answer": "n(a_1 + a_n)/2"
+      },
+      {
+        "question": "What is the Laplace transform of 1 (unit step) as a function of s?",
+        "options": [
+          "1/s",
+          "s",
+          "e^{-s}"
+        ],
+        "answer": "1/s"
+      },
+      {
+        "question": "Which expression gives the equation of an ellipse centered at origin?",
+        "options": [
+          "x^2/a^2 + y^2/b^2 = 1",
+          "x^2 + y^2 = r^2",
+          "x^2/a + y^2/b = 1"
+        ],
+        "answer": "x^2/a^2 + y^2/b^2 = 1"
+      },
+      {
+        "question": "What is Heron's formula for a triangle area given sides a,b,c?",
+        "options": [
+          "√(s(s-a)(s-b)(s-c))",
+          "(abc)/4R",
+          "(a+b+c)/2"
+        ],
+        "answer": "√(s(s-a)(s-b)(s-c))"
+      },
+      {
+        "question": "Which condition ensures a function is bijective?",
+        "options": [
+          "both injective and surjective",
+          "only injective",
+          "only surjective"
+        ],
+        "answer": "both injective and surjective"
+      },
+      {
+        "question": "Which test determines series convergence by comparing to a known series?",
+        "options": [
+          "Comparison test",
+          "Ratio test",
+          "Integral test"
+        ],
+        "answer": "Comparison test"
+      },
+      {
+        "question": "What is the formula for centripetal force for mass m rotating speed v radius r?",
+        "options": [
+          "mv^2/r",
+          "mvr",
+          "mr^2"
+        ],
+        "answer": "mv^2/r"
+      },
+      {
+        "question": "Which formula relates work W to force F and displacement s at angle θ?",
+        "options": [
+          "W = F s cosθ",
+          "W = F + s",
+          "W = Fs sinθ"
+        ],
+        "answer": "W = F s cosθ"
+      },
+      {
+        "question": "What is the standard deviation formula for population data (σ)?",
+        "options": [
+          "√(Σ(x-μ)^2/N)",
+          "Σ(x-μ)/N",
+          "Σ|x-μ|/N"
+        ],
+        "answer": "√(Σ(x-μ)^2/N)"
+      },
+      {
+        "question": "Which identity converts degrees to radians?",
+        "options": [
+          "radians = degrees × π/180",
+          "degrees = radians × 180/π",
+          "degrees = radians × π"
+        ],
+        "answer": "radians = degrees × π/180"
+      },
+      {
+        "question": "What is Euler's totient function φ(n) counting?",
+        "options": [
+          "integers ≤ n coprime with n",
+          "prime factors of n",
+          "divisors of n"
+        ],
+        "answer": "integers ≤ n coprime with n"
+      },
+      {
+        "question": "Which formula gives the binomial expansion term general form?",
+        "options": [
+          "C(n,k) a^{n-k} b^k",
+          "n!/(n-k)! a^k b^{n-k}",
+          "a^n + b^n"
+        ],
+        "answer": "C(n,k) a^{n-k} b^k"
+      },
+      {
+        "question": "Which matrix operation uses row reduction to find solution of linear systems?",
+        "options": [
+          "Gaussian elimination",
+          "LU decomposition",
+          "Eigen decomposition"
+        ],
+        "answer": "Gaussian elimination"
+      },
+      {
+        "question": "What does the mean value theorem guarantee for differentiable functions?",
+        "options": [
+          "a point where derivative equals average slope",
+          "global maximum exists",
+          "function is linear"
+        ],
+        "answer": "a point where derivative equals average slope"
+      },
+      {
+        "question": "Which inequality bounds arithmetic and geometric means?",
+        "options": [
+          "AM ≥ GM",
+          "AM ≤ GM",
+          "AM = GM always"
+        ],
+        "answer": "AM ≥ GM"
+      },
+      {
+        "question": "Which test uses limsup |a_{n+1}/a_n| to assess series convergence?",
+        "options": [
+          "Ratio test",
+          "Root test",
+          "Alternating series test"
+        ],
+        "answer": "Ratio test"
+      },
+      {
+        "question": "What is the divergence theorem also known as Gauss's theorem relating?",
+        "options": [
+          "flux through surface to volume divergence",
+          "curl to line integral",
+          "area to perimeter"
+        ],
+        "answer": "flux through surface to volume divergence"
+      },
+      {
+        "question": "Which formula gives probability of independent events A and B both occurring?",
+        "options": [
+          "P(A)P(B)",
+          "P(A)+P(B)",
+          "P(A|B)"
+        ],
+        "answer": "P(A)P(B)"
+      },
+      {
+        "question": "Which substitution simplifies integrals of form ∫f'(x)/f(x) dx?",
+        "options": [
+          "u = f(x)",
+          "u = x^2",
+          "u = sin x"
+        ],
+        "answer": "u = f(x)"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What does the Riemann zeta function ζ(s) equal at s = -1 through analytic continuation?",
+        "options": [
+          "-1/12",
+          "0",
+          "1/2"
+        ],
+        "answer": "-1/12"
+      },
+      {
+        "question": "Which formula gives area of a spherical triangle using spherical excess E?",
+        "options": [
+          "Area = R^2 E",
+          "Area = 1/2 ab sin C",
+          "Area = πr^2"
+        ],
+        "answer": "Area = R^2 E"
+      },
+      {
+        "question": "Which criterion identifies conditional convergence of alternating series?",
+        "options": [
+          "Leibniz criterion",
+          "Ratio test",
+          "Integral test"
+        ],
+        "answer": "Leibniz criterion"
+      },
+      {
+        "question": "What is Cayley-Hamilton theorem statement for square matrix A?",
+        "options": [
+          "A satisfies its own characteristic polynomial",
+          "det(A)=trace(A)",
+          "A is diagonalizable"
+        ],
+        "answer": "A satisfies its own characteristic polynomial"
+      },
+      {
+        "question": "Which identity expresses the derivative of determinant det(A(t))?",
+        "options": [
+          "d/dt det A = det A · trace(A^{-1} A')",
+          "d/dt det A = trace(A')",
+          "d/dt det A = 0"
+        ],
+        "answer": "d/dt det A = det A · trace(A^{-1} A')"
+      },
+      {
+        "question": "What is Green's function used for in differential equations?",
+        "options": [
+          "solving inhomogeneous linear equations",
+          "finding eigenvalues",
+          "optimizing functions"
+        ],
+        "answer": "solving inhomogeneous linear equations"
+      },
+      {
+        "question": "Which formula gives Stirling's approximation for n! leading term?",
+        "options": [
+          "√(2πn)(n/e)^n",
+          "n^n e^{-n}",
+          "n! ≈ n^2"
+        ],
+        "answer": "√(2πn)(n/e)^n"
+      },
+      {
+        "question": "Which condition defines uniform convergence of function sequence f_n to f?",
+        "options": [
+          "sup_x |f_n(x)-f(x)| → 0",
+          "pointwise equality for each x",
+          "integral difference → 0"
+        ],
+        "answer": "sup_x |f_n(x)-f(x)| → 0"
+      },
+      {
+        "question": "What is the closed form for sum of first n cubes Σ_{k=1}^n k^3?",
+        "options": [
+          "(n(n+1)/2)^2",
+          "n^2(n+1)^2/4 - 1",
+          "n(n+1)(2n+1)/6"
+        ],
+        "answer": "(n(n+1)/2)^2"
+      },
+      {
+        "question": "Which transform converts convolution in time domain to multiplication in frequency domain?",
+        "options": [
+          "Fourier transform",
+          "Laplace transform",
+          "Mellin transform"
+        ],
+        "answer": "Fourier transform"
+      },
+      {
+        "question": "What is the Rank-Nullity theorem relation for linear map T: V→W?",
+        "options": [
+          "dim V = rank(T) + nullity(T)",
+          "dim V = rank(T) × nullity(T)",
+          "rank(T) = nullity(T)"
+        ],
+        "answer": "dim V = rank(T) + nullity(T)"
+      },
+      {
+        "question": "Which formula gives the Christoffel symbols in terms of metric g_{ij}?",
+        "options": [
+          "Γ^k_{ij} = (1/2) g^{kl}(∂_i g_{lj}+∂_j g_{li}-∂_l g_{ij})",
+          "Γ^k_{ij} = δ^k_i δ^k_j",
+          "Γ^k_{ij} = g_{ij}"
+        ],
+        "answer": "Γ^k_{ij} = (1/2) g^{kl}(∂_i g_{lj}+∂_j g_{li}-∂_l g_{ij})"
+      },
+      {
+        "question": "Which test uses limsup_{n→∞} √[n]{|a_n|} to assess series?",
+        "options": [
+          "Root test",
+          "Ratio test",
+          "Comparison test"
+        ],
+        "answer": "Root test"
+      },
+      {
+        "question": "What is the form of Cauchy-Schwarz inequality for vectors u,v?",
+        "options": [
+          "|u·v| ≤ ||u|| ||v||",
+          "|u·v| = ||u||+||v||",
+          "u·v ≥ ||u|| ||v||"
+        ],
+        "answer": "|u·v| ≤ ||u|| ||v||"
+      },
+      {
+        "question": "Which formula calculates eigenvalues of 2×2 matrix [[a,b],[c,d]]?",
+        "options": [
+          "(a+d ± √((a-d)^2+4bc))/2",
+          "(a ± d)/2",
+          "ad-bc"
+        ],
+        "answer": "(a+d ± √((a-d)^2+4bc))/2"
+      },
+      {
+        "question": "Which expression defines the Legendre transform of function f(x)?",
+        "options": [
+          "f^*(p) = sup_x (px - f(x))",
+          "f^*(p) = ∫ f(x) dx",
+          "f^*(p) = f''(x)"
+        ],
+        "answer": "f^*(p) = sup_x (px - f(x))"
+      },
+      {
+        "question": "Which result links line integrals and double integrals (in plane)?",
+        "options": [
+          "Green's theorem",
+          "Stokes' theorem",
+          "Divergence theorem"
+        ],
+        "answer": "Green's theorem"
+      },
+      {
+        "question": "What is the asymptotic density of primes described by the prime number theorem?",
+        "options": [
+          "π(x) ~ x / ln x",
+          "π(x) ~ ln x",
+          "π(x) = x^2"
+        ],
+        "answer": "π(x) ~ x / ln x"
+      },
+      {
+        "question": "Which condition ensures a series Σa_n is absolutely convergent?",
+        "options": [
+          "Σ|a_n| converges",
+          "Σa_n converges conditionally",
+          "a_n → 1"
+        ],
+        "answer": "Σ|a_n| converges"
+      },
+      {
+        "question": "Which formula gives change of variables in multiple integrals with Jacobian J?",
+        "options": [
+          "dx dy = |det J| du dv",
+          "dx dy = du dv",
+          "dx dy = J du dv without abs"
+        ],
+        "answer": "dx dy = |det J| du dv"
+      },
+      {
+        "question": "Which operator measures infinitesimal rotation of a vector field?",
+        "options": [
+          "curl",
+          "divergence",
+          "gradient"
+        ],
+        "answer": "curl"
+      },
+      {
+        "question": "What concept does Noether's theorem connect to conserved quantities?",
+        "options": [
+          "symmetries of the action",
+          "boundary conditions",
+          "randomness"
+        ],
+        "answer": "symmetries of the action"
+      },
+      {
+        "question": "Which identity expresses change of basis for bilinear forms using matrix P?",
+        "options": [
+          "A' = P^T A P",
+          "A' = P A P^{-1}",
+          "A' = A + P"
+        ],
+        "answer": "A' = P^T A P"
+      },
+      {
+        "question": "What is the principal value integral used for handling?",
+        "options": [
+          "singular integrals with symmetric limit",
+          "absolutely convergent integrals",
+          "finite sums"
+        ],
+        "answer": "singular integrals with symmetric limit"
+      },
+      {
+        "question": "Which function space contains square-integrable functions L^2 defined by?",
+        "options": [
+          "∫|f|^2 < ∞",
+          "∫|f| < ∞",
+          "f continuous"
+        ],
+        "answer": "∫|f|^2 < ∞"
+      },
+      {
+        "question": "What is the main statement of spectral theorem for normal operators on finite-dimensional inner product spaces?",
+        "options": [
+          "diagonalizable by unitary matrix",
+          "has only real entries",
+          "is invertible"
+        ],
+        "answer": "diagonalizable by unitary matrix"
+      },
+      {
+        "question": "Which special function solves y'' + ky = 0 with varying k leading to Bessel's equation when in polar coordinates?",
+        "options": [
+          "Bessel functions",
+          "Legendre polynomials",
+          "Hermite functions"
+        ],
+        "answer": "Bessel functions"
+      },
+      {
+        "question": "Which method constructs analytic continuation of complex functions using contour integrals?",
+        "options": [
+          "Cauchy integral formula",
+          "Taylor series only",
+          "Laplace expansion"
+        ],
+        "answer": "Cauchy integral formula"
+      },
+      {
+        "question": "Which invariant measures curvature of a 2D surface embedded in 3D at a point?",
+        "options": [
+          "Gaussian curvature",
+          "mean curvature",
+          "scalar curvature"
+        ],
+        "answer": "Gaussian curvature"
+      },
+      {
+        "question": "Which result describes distribution of eigenvalues for random matrices in large limit (Wigner)?",
+        "options": [
+          "semicircle law",
+          "normal distribution",
+          "uniform law"
+        ],
+        "answer": "semicircle law"
+      },
+      {
+        "question": "Which decomposition writes positive-definite matrix A as product of lower triangular and its transpose?",
+        "options": [
+          "Cholesky decomposition",
+          "QR decomposition",
+          "SVD"
+        ],
+        "answer": "Cholesky decomposition"
+      },
+      {
+        "question": "Which condition characterizes analyticity of complex function at a point via partial derivatives?",
+        "options": [
+          "Cauchy-Riemann equations",
+          "Laplace's equation",
+          "Euler-Lagrange equations"
+        ],
+        "answer": "Cauchy-Riemann equations"
+      },
+      {
+        "question": "Which concept measures topological equivalence classes of maps from sphere to sphere?",
+        "options": [
+          "degree of a map",
+          "winding number in plane only",
+          "metric dimension"
+        ],
+        "answer": "degree of a map"
+      },
+      {
+        "question": "Which transform pairs products of functions with convolutions of transforms in Mellin analysis used for scale invariance?",
+        "options": [
+          "Mellin transform",
+          "Hilbert transform",
+          "Z-transform"
+        ],
+        "answer": "Mellin transform"
+      },
+      {
+        "question": "Which asymptotic notation gives tight bound both upper and lower (up to constant)?",
+        "options": [
+          "Θ(n)",
+          "O(n)",
+          "Ω(n^2)"
+        ],
+        "answer": "Θ(n)"
+      }
+    ]
+  }
+}

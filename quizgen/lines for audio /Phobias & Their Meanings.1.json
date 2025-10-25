@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'claustrophobia' refer to?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which early behaviorist published influential research on conditioned fear reduction?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which evidence-based technique uses hierarchical steps of feared stimuli during exposure?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'hemophobia' refer to?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia concerns fear of development or loss associated with aging?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phobia involves fear of clowns and has notable cultural representation in media?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'zoophobia' refer to?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia involves fear of being judged or embarrassed socially?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which historical therapy used gradual pairing of feared animal with positive experiences to reduce fear?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'elaiphobia' mean?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia often appears in childhood and can persist into adulthood?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare phobia describes fear of crossing or walking under bridges specifically?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia refers to fear of dogs?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia commonly appears as a fear of needles during medical procedures?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare phobia describes fear of the number thirteen specifically?"
+    }
+  ]
+}

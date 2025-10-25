@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which definition clue suggests an object belongs to a group, like 'feline'?",
+      "options": [
+        "Belonging to cats",
+        "Related to plants",
+        "Made of metal"
+      ],
+      "answer": "Belonging to cats"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term denotes 'a short phrase repeated at intervals in a poem or song'?",
+      "options": [
+        "Refrain",
+        "Greeting",
+        "Footnote"
+      ],
+      "answer": "Refrain"
+    },
+    {
+      "question_id": 3,
+      "question": "Which concept describes 'a word's change in meaning due to social shifts'?",
+      "options": [
+        "Semantic shift",
+        "Morphological fusion",
+        "Phonemic split"
+      ],
+      "answer": "Semantic shift"
+    },
+    {
+      "question_id": 4,
+      "question": "What type of clue gives an example of how the word is used in a sentence?",
+      "options": [
+        "Usage example",
+        "Etymology",
+        "Pronunciation guide"
+      ],
+      "answer": "Usage example"
+    },
+    {
+      "question_id": 5,
+      "question": "Which word means 'a word or phrase that replaces another related term'?",
+      "options": [
+        "Metonymy",
+        "Oxymoron",
+        "Palindrome"
+      ],
+      "answer": "Metonymy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which word describes 'the process of combining parts of words to create abbreviations'?",
+      "options": [
+        "Acronymy",
+        "Affixation",
+        "Compounding"
+      ],
+      "answer": "Acronymy"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'antonym' mean in relation to a word definition?",
+      "options": [
+        "A word with opposite meaning",
+        "A shortened form of a word",
+        "A word spelled the same"
+      ],
+      "answer": "A word with opposite meaning"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term fits 'a word used to name something after a person'?",
+      "options": [
+        "Eponym",
+        "Homonym",
+        "Prologue"
+      ],
+      "answer": "Eponym"
+    },
+    {
+      "question_id": 9,
+      "question": "Which specialized term names 'a word borrowed but adapted to the donor language's sounds'?",
+      "options": [
+        "Nativized loanword",
+        "Calque",
+        "Exonym"
+      ],
+      "answer": "Nativized loanword"
+    },
+    {
+      "question_id": 10,
+      "question": "When a definition describes something 'edible', what does that mean?",
+      "options": [
+        "Safe to eat",
+        "Very expensive",
+        "Difficult to see"
+      ],
+      "answer": "Safe to eat"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term fits 'a mild or indirect word substituted for a harsher one'?",
+      "options": [
+        "Euphemism",
+        "Hyperbole",
+        "Proverb"
+      ],
+      "answer": "Euphemism"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term names 'an older word revived and used again'?",
+      "options": [
+        "Archaism",
+        "Neologism",
+        "Euphemism"
+      ],
+      "answer": "Archaism"
+    },
+    {
+      "question_id": 13,
+      "question": "What word means 'the study of word origins and history'?",
+      "options": [
+        "Etymology",
+        "Phonology",
+        "Syntax"
+      ],
+      "answer": "Etymology"
+    },
+    {
+      "question_id": 14,
+      "question": "Which technical term means 'the study of meaning in language and words'?",
+      "options": [
+        "Semantics",
+        "Orthography",
+        "Prosody"
+      ],
+      "answer": "Semantics"
+    },
+    {
+      "question_id": 15,
+      "question": "Which technical term means 'creation of a word by clipping and then adding an affix'?",
+      "options": [
+        "Clipping plus affixation",
+        "Reduplication",
+        "Transposition"
+      ],
+      "answer": "Clipping plus affixation"
+    }
+  ]
+}

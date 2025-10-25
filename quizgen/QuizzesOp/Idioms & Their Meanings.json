@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does \"break the ice\" mean in social contexts?",
+        "options": [
+          "Start a conversation or ease tension",
+          "Shatter a piece of ice physically",
+          "End a formal agreement"
+        ],
+        "answer": "Start a conversation or ease tension"
+      },
+      {
+        "question": "What does \"spill the beans\" commonly mean?",
+        "options": [
+          "Reveal a secret unintentionally",
+          "Create a culinary disaster",
+          "Scatter seeds on soil"
+        ],
+        "answer": "Reveal a secret unintentionally"
+      },
+      {
+        "question": "What does \"bite the bullet\" mean when used conversationally?",
+        "options": [
+          "Accept an unpleasant task bravely",
+          "Chew a metal object for courage",
+          "Refuse medical treatment"
+        ],
+        "answer": "Accept an unpleasant task bravely"
+      },
+      {
+        "question": "What meaning does \"cost an arm and a leg\" convey?",
+        "options": [
+          "Be very expensive",
+          "Require physical effort",
+          "Cause bodily harm"
+        ],
+        "answer": "Be very expensive"
+      },
+      {
+        "question": "What does \"hit the sack\" usually mean?",
+        "options": [
+          "Go to sleep",
+          "Punch a bag for exercise",
+          "Start a boxing match"
+        ],
+        "answer": "Go to sleep"
+      },
+      {
+        "question": "What does \"piece of cake\" describe?",
+        "options": [
+          "Something very easy",
+          "A tasty dessert",
+          "A small portion"
+        ],
+        "answer": "Something very easy"
+      },
+      {
+        "question": "What does \"kick the bucket\" euphemistically mean?",
+        "options": [
+          "Die",
+          "Retire early",
+          "Give up a hobby"
+        ],
+        "answer": "Die"
+      },
+      {
+        "question": "What does \"under the weather\" mean about someone?",
+        "options": [
+          "Feeling unwell",
+          "Working outdoors",
+          "Traveling by sea"
+        ],
+        "answer": "Feeling unwell"
+      },
+      {
+        "question": "What is the meaning of \"let the cat out of the bag\"?",
+        "options": [
+          "Reveal a secret accidentally",
+          "Release a pet from a bag",
+          "Make a sudden mistake"
+        ],
+        "answer": "Reveal a secret accidentally"
+      },
+      {
+        "question": "What does \"break a leg\" mean when said to performers?",
+        "options": [
+          "Wish someone good luck",
+          "Instruct someone to be clumsy",
+          "Tell someone to be dramatic"
+        ],
+        "answer": "Wish someone good luck"
+      },
+      {
+        "question": "What does \"on the same page\" mean in a group?",
+        "options": [
+          "Agree or share understanding",
+          "Sit physically together",
+          "Read the exact same book"
+        ],
+        "answer": "Agree or share understanding"
+      },
+      {
+        "question": "What does \"call it a day\" mean?",
+        "options": [
+          "Stop working for the day",
+          "Announce daytime hours",
+          "Decide on a daily plan"
+        ],
+        "answer": "Stop working for the day"
+      },
+      {
+        "question": "What does \"back to the drawing board\" indicate?",
+        "options": [
+          "Start over after failure",
+          "Return to an artist's workspace",
+          "Cancel a design completely"
+        ],
+        "answer": "Start over after failure"
+      },
+      {
+        "question": "What does \"beat around the bush\" mean in conversation?",
+        "options": [
+          "Avoid the main topic",
+          "Clear vegetation slowly",
+          "Criticize someone's garden"
+        ],
+        "answer": "Avoid the main topic"
+      },
+      {
+        "question": "What does \"keep your chin up\" encourage someone to do?",
+        "options": [
+          "Stay positive during hardship",
+          "Maintain a good posture",
+          "Look upward physically"
+        ],
+        "answer": "Stay positive during hardship"
+      },
+      {
+        "question": "What does \"a blessing in disguise\" describe?",
+        "options": [
+          "A hidden benefit from misfortune",
+          "A secretly religious event",
+          "A disguised gift"
+        ],
+        "answer": "A hidden benefit from misfortune"
+      },
+      {
+        "question": "What does \"hit the nail on the head\" mean?",
+        "options": [
+          "Describe something accurately",
+          "Strike a nail correctly",
+          "Make a loud noise"
+        ],
+        "answer": "Describe something accurately"
+      },
+      {
+        "question": "What does \"cut to the chase\" instruct someone to do?",
+        "options": [
+          "Get to the main point quickly",
+          "Stop filming a chase scene",
+          "Avoid speaking directly"
+        ],
+        "answer": "Get to the main point quickly"
+      },
+      {
+        "question": "What does \"burn the midnight oil\" mean?",
+        "options": [
+          "Work late into the night",
+          "Start a bonfire at midnight",
+          "Study only during the day"
+        ],
+        "answer": "Work late into the night"
+      },
+      {
+        "question": "What does \"a penny for your thoughts\" invite someone to do?",
+        "options": [
+          "Share what they are thinking",
+          "Ask for money politely",
+          "Offer cheap advice"
+        ],
+        "answer": "Share what they are thinking"
+      },
+      {
+        "question": "What does \"jump on the bandwagon\" mean socially?",
+        "options": [
+          "Join a popular activity or trend",
+          "Start a musical parade",
+          "Criticize group behavior"
+        ],
+        "answer": "Join a popular activity or trend"
+      },
+      {
+        "question": "What does \"bark up the wrong tree\" suggest?",
+        "options": [
+          "Accuse or pursue the wrong person",
+          "Call loudly into a forest",
+          "Search for animals in error"
+        ],
+        "answer": "Accuse or pursue the wrong person"
+      },
+      {
+        "question": "What does \"the ball is in your court\" mean?",
+        "options": [
+          "It is your turn to act",
+          "You own a sports facility",
+          "The game has ended"
+        ],
+        "answer": "It is your turn to act"
+      },
+      {
+        "question": "What does \"saved by the bell\" commonly mean?",
+        "options": [
+          "Rescued at the last moment",
+          "Woken by an alarm",
+          "Avoided a boxing match"
+        ],
+        "answer": "Rescued at the last moment"
+      },
+      {
+        "question": "What does \"bite off more than you can chew\" warn against?",
+        "options": [
+          "Taking on too much responsibility",
+          "Eating too quickly",
+          "Complaining about food quality"
+        ],
+        "answer": "Taking on too much responsibility"
+      },
+      {
+        "question": "What does \"go the extra mile\" encourage someone to do?",
+        "options": [
+          "Put in additional effort",
+          "Travel a long distance",
+          "Compete in a race"
+        ],
+        "answer": "Put in additional effort"
+      },
+      {
+        "question": "What does \"face the music\" mean figuratively?",
+        "options": [
+          "Accept unpleasant consequences",
+          "Listen to a performance",
+          "Lead an orchestra"
+        ],
+        "answer": "Accept unpleasant consequences"
+      },
+      {
+        "question": "What does \"pull someone’s leg\" mean playfully?",
+        "options": [
+          "Tease or joke with someone",
+          "Physically yank a person",
+          "Help someone walk"
+        ],
+        "answer": "Tease or joke with someone"
+      },
+      {
+        "question": "What does \"silver lining\" refer to in adversity?",
+        "options": [
+          "A positive aspect in bad situations",
+          "A literal lining made of silver",
+          "A minor decoration on clothing"
+        ],
+        "answer": "A positive aspect in bad situations"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which idiom best fits: \"She finally accepted the tough move\"?",
+        "options": [
+          "Bit the bullet",
+          "Jumped the gun",
+          "Beat around the bush"
+        ],
+        "answer": "Bit the bullet"
+      },
+      {
+        "question": "Which idiom means \"examine details too closely and miss the bigger picture\"?",
+        "options": [
+          "Can't see the forest for the trees",
+          "Cry over spilled milk",
+          "Burn your bridges"
+        ],
+        "answer": "Can't see the forest for the trees"
+      },
+      {
+        "question": "Which idiom conveys \"a sudden, unexpected benefit\"?",
+        "options": [
+          "A windfall",
+          "Hit the sack",
+          "Throw in the towel"
+        ],
+        "answer": "A windfall"
+      },
+      {
+        "question": "Which idiom suggests \"be cautious with words to avoid offense\"?",
+        "options": [
+          "Watch your tongue",
+          "Break the bank",
+          "Break a leg"
+        ],
+        "answer": "Watch your tongue"
+      },
+      {
+        "question": "Which idiom expresses \"someone who avoids commitment or responsibility\"?",
+        "options": [
+          "Pass the buck",
+          "Call the shots",
+          "Hold the fort"
+        ],
+        "answer": "Pass the buck"
+      },
+      {
+        "question": "Which idiom best fits negotiating when both sides compromise?",
+        "options": [
+          "Meet halfway",
+          "Cut the mustard",
+          "Pull someone's leg"
+        ],
+        "answer": "Meet halfway"
+      },
+      {
+        "question": "Which idiom means \"to begin an event or project\"?",
+        "options": [
+          "Kick things off",
+          "Drop the ball",
+          "Run out of steam"
+        ],
+        "answer": "Kick things off"
+      },
+      {
+        "question": "Which idiom most closely matches \"sudden and complete collapse\"?",
+        "options": [
+          "Came crashing down",
+          "Saved by the bell",
+          "Hold your horses"
+        ],
+        "answer": "Came crashing down"
+      },
+      {
+        "question": "Which idiom signals \"someone showing false friendliness for gain\"?",
+        "options": [
+          "Fawn over",
+          "Break even",
+          "Go ballistic"
+        ],
+        "answer": "Fawn over"
+      },
+      {
+        "question": "Which idiom means \"to give up a position or status voluntarily\"?",
+        "options": [
+          "Step down",
+          "Hang in there",
+          "Keep your nose clean"
+        ],
+        "answer": "Step down"
+      },
+      {
+        "question": "Which idiom best fits \"maintain composure under stress\"?",
+        "options": [
+          "Keep a cool head",
+          "Go out on a limb",
+          "Come clean"
+        ],
+        "answer": "Keep a cool head"
+      },
+      {
+        "question": "Which idiom describes \"unlikely but possible occurrence\"?",
+        "options": [
+          "Long shot",
+          "Piece of cake",
+          "On the rocks"
+        ],
+        "answer": "Long shot"
+      },
+      {
+        "question": "Which idiom fits \"someone who reveals information unintentionally\"?",
+        "options": [
+          "Let the cat out of the bag",
+          "Keep a tight lid on it",
+          "Bite the dust"
+        ],
+        "answer": "Let the cat out of the bag"
+      },
+      {
+        "question": "Which idiom best substitutes for \"temporary success without securing the future\"?",
+        "options": [
+          "A flash in the pan",
+          "Touch base",
+          "Lose your touch"
+        ],
+        "answer": "A flash in the pan"
+      },
+      {
+        "question": "Which idiom describes \"someone who refuses new ideas stubbornly\"?",
+        "options": [
+          "Set in their ways",
+          "Throw your weight around",
+          "Bite the hand"
+        ],
+        "answer": "Set in their ways"
+      },
+      {
+        "question": "Which idiom means \"describe facts directly without embellishment\"?",
+        "options": [
+          "Tell it like it is",
+          "Beat a dead horse",
+          "Pull the plug"
+        ],
+        "answer": "Tell it like it is"
+      },
+      {
+        "question": "Which idiom matches \"experience that teaches a tough lesson\"?",
+        "options": [
+          "Baptism by fire",
+          "Feather in your cap",
+          "Keep your cards close"
+        ],
+        "answer": "Baptism by fire"
+      },
+      {
+        "question": "Which idiom means \"maintain secrecy about plans or feelings\"?",
+        "options": [
+          "Keep it under your hat",
+          "Spill the beans",
+          "Play it by ear"
+        ],
+        "answer": "Keep it under your hat"
+      },
+      {
+        "question": "Which idiom fits \"someone who is unpredictable or unstable\"?",
+        "options": [
+          "A loose cannon",
+          "A safe bet",
+          "Born with a silver spoon"
+        ],
+        "answer": "A loose cannon"
+      },
+      {
+        "question": "Which idiom best replaces \"to fully trust someone's intentions\"?",
+        "options": [
+          "Take at face value",
+          "Make a long story short",
+          "Burn the midnight oil"
+        ],
+        "answer": "Take at face value"
+      },
+      {
+        "question": "Which idiom suits \"invest time now to avoid trouble later\"?",
+        "options": [
+          "An ounce of prevention is worth a pound of cure",
+          "Cut your losses",
+          "Pass the baton"
+        ],
+        "answer": "An ounce of prevention is worth a pound of cure"
+      },
+      {
+        "question": "Which idiom means \"someone consistently succeeds under pressure\"?",
+        "options": [
+          "Performs when the chips are down",
+          "Drops the ball",
+          "Runs out of gas"
+        ],
+        "answer": "Performs when the chips are down"
+      },
+      {
+        "question": "Which idiom refers to \"the main, most important part of something\"?",
+        "options": [
+          "The heart of the matter",
+          "Left in the lurch",
+          "Under someone's thumb"
+        ],
+        "answer": "The heart of the matter"
+      },
+      {
+        "question": "Which idiom fits \"explain something in very simple terms\"?",
+        "options": [
+          "Dumb it down",
+          "Go out on a limb",
+          "Hit below the belt"
+        ],
+        "answer": "Dumb it down"
+      },
+      {
+        "question": "Which idiom means \"someone avoids responsibility by blaming others\"?",
+        "options": [
+          "Shift the blame",
+          "Straight from the horse's mouth",
+          "On thin ice"
+        ],
+        "answer": "Shift the blame"
+      },
+      {
+        "question": "Which idiom best matches \"act before thinking leads to mistakes\"?",
+        "options": [
+          "Act in haste, repent at leisure",
+          "Put your money where your mouth is",
+          "Play it safe"
+        ],
+        "answer": "Act in haste, repent at leisure"
+      },
+      {
+        "question": "Which idiom suggests \"making a delicate situation worse by careless talk\"?",
+        "options": [
+          "Pour salt in the wound",
+          "Turn a blind eye",
+          "Break the ice"
+        ],
+        "answer": "Pour salt in the wound"
+      },
+      {
+        "question": "Which idiom describes \"relying on hope instead of a plan\"?",
+        "options": [
+          "Count your chickens before they hatch",
+          "Cross that bridge when you come to it",
+          "Learn the ropes"
+        ],
+        "answer": "Count your chickens before they hatch"
+      },
+      {
+        "question": "Which idiom denotes \"stop arguing and accept a result\"?",
+        "options": [
+          "Bite the bullet",
+          "Let sleeping dogs lie",
+          "Cry wolf"
+        ],
+        "answer": "Let sleeping dogs lie"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which idiom is an example of a mixed metaphor combining nautical and hunting imagery?",
+        "options": [
+          "Bite the bullet",
+          "Three sheets to the wind",
+          "Beat around the bush"
+        ],
+        "answer": "Three sheets to the wind"
+      },
+      {
+        "question": "Which idiom is a classic example of semantic bleaching (loss of original vivid imagery)?",
+        "options": [
+          "Kick the bucket",
+          "Break the ice",
+          "Ring a bell"
+        ],
+        "answer": "Ring a bell"
+      },
+      {
+        "question": "Which idiom primarily originates from nautical vocabulary about ship rigging?",
+        "options": [
+          "Learning the ropes",
+          "On thin ice",
+          "Face the music"
+        ],
+        "answer": "Learning the ropes"
+      },
+      {
+        "question": "Which idiom exemplifies synecdoche, using part to represent a whole?",
+        "options": [
+          "Give a hand",
+          "Break the bank",
+          "Go the extra mile"
+        ],
+        "answer": "Give a hand"
+      },
+      {
+        "question": "Which idiom is a direct calque from Latin that entered English unchanged?",
+        "options": [
+          "In vino veritas",
+          "Under the weather",
+          "Beat a dead horse"
+        ],
+        "answer": "In vino veritas"
+      },
+      {
+        "question": "Which idiom is considered a dead metaphor because original imagery is no longer visual?",
+        "options": [
+          "Foot the bill",
+          "Spill the beans",
+          "Break a leg"
+        ],
+        "answer": "Foot the bill"
+      },
+      {
+        "question": "Which idiom shows ironic understatement (litotes) in everyday speech?",
+        "options": [
+          "Not bad",
+          "Pull the plug",
+          "Hit the nail on the head"
+        ],
+        "answer": "Not bad"
+      },
+      {
+        "question": "Which idiom most clearly functions as a hyperbole to emphasize difficulty?",
+        "options": [
+          "Climb Mount Everest",
+          "Cost an arm and a leg",
+          "Play it by ear"
+        ],
+        "answer": "Cost an arm and a leg"
+      },
+      {
+        "question": "Which idiom is an example of metonymy using a related concept to represent something else?",
+        "options": [
+          "The White House announced",
+          "Go the distance",
+          "Bend over backwards"
+        ],
+        "answer": "The White House announced"
+      },
+      {
+        "question": "Which idiom demonstrates anthropomorphism by attributing human traits to nonhumans?",
+        "options": [
+          "The computer froze",
+          "Break the ice",
+          "Throw in the towel"
+        ],
+        "answer": "The computer froze"
+      },
+      {
+        "question": "Which idiom best illustrates a calque from French into English historically?",
+        "options": [
+          "Fait accompli",
+          "Green thumb",
+          "Hit the sack"
+        ],
+        "answer": "Fait accompli"
+      },
+      {
+        "question": "Which idiom shows avoidance by indirect speech, a politeness strategy?",
+        "options": [
+          "Beat around the bush",
+          "Take the bull by the horns",
+          "Call the shots"
+        ],
+        "answer": "Beat around the bush"
+      },
+      {
+        "question": "Which idiom originally referred to agricultural practice rather than emotional state?",
+        "options": [
+          "Reap what you sow",
+          "Break a leg",
+          "Under the weather"
+        ],
+        "answer": "Reap what you sow"
+      },
+      {
+        "question": "Which idiom exemplifies euphemism used to soften mention of death?",
+        "options": [
+          "Kick the bucket",
+          "Pay the piper",
+          "Cut to the chase"
+        ],
+        "answer": "Kick the bucket"
+      },
+      {
+        "question": "Which idiom best illustrates ironical reversal where outcome opposes intent?",
+        "options": [
+          "Backfire",
+          "Pull your leg",
+          "Bite the dust"
+        ],
+        "answer": "Backfire"
+      },
+      {
+        "question": "Which idiom historically connects to military drilling and discipline?",
+        "options": [
+          "Toe the line",
+          "Spill the beans",
+          "Jump on the bandwagon"
+        ],
+        "answer": "Toe the line"
+      },
+      {
+        "question": "Which idiom is an example of a zoonymic metaphor using animal imagery for behavior?",
+        "options": [
+          "Let sleeping dogs lie",
+          "Burn the midnight oil",
+          "Turn over a new leaf"
+        ],
+        "answer": "Let sleeping dogs lie"
+      },
+      {
+        "question": "Which idiom is often used as a performative speech act to wish luck?",
+        "options": [
+          "Break a leg",
+          "Pull out all the stops",
+          "Draw a blank"
+        ],
+        "answer": "Break a leg"
+      },
+      {
+        "question": "Which idiom best qualifies as an idiomatic collocation where words combine unpredictably?",
+        "options": [
+          "Kick the bucket",
+          "Walk quickly",
+          "Make a sandwich"
+        ],
+        "answer": "Kick the bucket"
+      },
+      {
+        "question": "Which idiom illustrates synesthesia by mixing sensory domains metaphorically?",
+        "options": [
+          "Loud colors",
+          "Cold feet",
+          "Break the ice"
+        ],
+        "answer": "Loud colors"
+      },
+      {
+        "question": "Which idiom originally described courtroom or legal procedure language historically?",
+        "options": [
+          "Lay down the law",
+          "Go out on a limb",
+          "Skate on thin ice"
+        ],
+        "answer": "Lay down the law"
+      },
+      {
+        "question": "Which idiom demonstrates prolepsis by mentioning outcome before process completion?",
+        "options": [
+          "Count your chickens before they hatch",
+          "Hit the ground running",
+          "On cloud nine"
+        ],
+        "answer": "Count your chickens before they hatch"
+      },
+      {
+        "question": "Which idiom serves as a cultural metaphor for sudden fame and rapid decline?",
+        "options": [
+          "Flash in the pan",
+          "Keep your eye on the ball",
+          "Bury the hatchet"
+        ],
+        "answer": "Flash in the pan"
+      },
+      {
+        "question": "Which idiom exemplifies antonomasia when a proper name replaces a general concept?",
+        "options": [
+          "A Judas",
+          "Rock the boat",
+          "Knife-edge"
+        ],
+        "answer": "A Judas"
+      },
+      {
+        "question": "Which idiom displays polysemy with multiple related senses in modern English?",
+        "options": [
+          "Break the bank",
+          "Raise the roof",
+          "Go Dutch"
+        ],
+        "answer": "Break the bank"
+      },
+      {
+        "question": "Which idiom originally emerged from printing press or publishing contexts?",
+        "options": [
+          "Hot off the press",
+          "Lose your head",
+          "Take with a grain of salt"
+        ],
+        "answer": "Hot off the press"
+      },
+      {
+        "question": "Which idiom frequently appears in headlines as a compact metaphor for recovery?",
+        "options": [
+          "Back on its feet",
+          "Drop the ball",
+          "Have a field day"
+        ],
+        "answer": "Back on its feet"
+      },
+      {
+        "question": "Which idiom best illustrates a pragmatic conversational implicature rather than literal intent?",
+        "options": [
+          "Can you pass the salt?",
+          "Break a leg",
+          "Get your ducks in a row"
+        ],
+        "answer": "Can you pass the salt?"
+      },
+      {
+        "question": "Which idiom exemplifies a proverb-like structure delivering moral advice?",
+        "options": [
+          "Look before you leap",
+          "Knock on wood",
+          "Ring a bell"
+        ],
+        "answer": "Look before you leap"
+      }
+    ]
+  }
+}

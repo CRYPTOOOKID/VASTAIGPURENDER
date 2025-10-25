@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which electronics brand originated in Japan and uses the Sony name?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand started as an oil trading company and later used the pecten logo?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did Adidas introduce the trefoil logo as an official emblem?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which computer chip maker uses an 'Intel Inside' circular wordmark historically?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which symbol do Mercedes-Benz three points represent?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which heritage brand's logo traces to an 1890s badge later modernized into a stylized trident or crest?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fast casual sandwich chain uses green and yellow in its logo?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which logo originally used a twin-tailed siren inspired by a 16th-century woodcut?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which brand’s logo uses the trefoil to represent performance heritage and diversity since the 1970s?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which telecommunications company uses a red speech-mark logo and originates from the UK?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which social platform’s bird logo is commonly named after a basketball star?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand’s logo evolution included a 1999 redesign by Ruth Kedar for its wordmark?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which clothing brand uses three parallel stripes as a core visual element?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city did IKEA originate in?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which coach or architect is credited with designing McDonald's golden arches in the 1950s?"
+    }
+  ]
+}

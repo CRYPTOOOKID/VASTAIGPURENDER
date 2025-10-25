@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Pyramids, Nile River, Cairo — Which country?"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Falkland Islands dispute, Patagonia coast, Buenos Aires ties — Which country?"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Saipan, Chamorro culture, Northern Mariana Islands association — Which country?"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Maple syrup, hockey, French-English bilingualism — Which country?"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Polynesian culture, French overseas region, capital Papeete — Which country?"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: West African francophone hub, Dakar music scene, Goree Island history — Which country?"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Maasai, Mount Kenya, capital Nairobi — Which country?"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Patagonia glaciers, Valparaíso port, Spanish colonial architecture — Which country?"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Svalbard archipelago governance, Arctic Treaty, Longyearbyen settlement — Which country?"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Samba, Christ the Redeemer, Carnival — Which country?"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Whisky regions Islay, Highlands, Glasgow shipbuilding — Which country?"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Basotho people, Maloti Mountains, landlocked country between South Africa and Lesotho — Which country?"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Fjords, stave churches, Nobel Peace Prize — Which country?"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Easter Island, Santiago, Atacama Desert — Which country?"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Former Austro-Hungarian territories, Sarajevo 1914 assassination site, Balkan crossroads — Which country?"
+    }
+  ]
+}

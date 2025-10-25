@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency is used in Malaysia?",
+      "options": [
+        "Ringgit",
+        "Rupiah",
+        "Baht"
+      ],
+      "answer": "Ringgit"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency uses the ISO code NOK?",
+      "options": [
+        "Norwegian Krone",
+        "Danish Krone",
+        "Swedish Krona"
+      ],
+      "answer": "Norwegian Krone"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country’s currency includes a plurality of languages on its banknotes reflecting multiple official languages?",
+      "options": [
+        "South Africa",
+        "Canada",
+        "India"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 4,
+      "question": "Which currency is used in Indonesia?",
+      "options": [
+        "Rupiah",
+        "Ringgit",
+        "Baht"
+      ],
+      "answer": "Rupiah"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Asian currency switched from the 'old' to a new series featuring modern security in 2006 with polymer notes later?",
+      "options": [
+        "Australian Dollar",
+        "Malaysian Ringgit",
+        "New Zealand Dollar"
+      ],
+      "answer": "Australian Dollar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which European country retained its currency unit named 'dinar' across multiple political regimes in the Balkans?",
+      "options": [
+        "Serbia",
+        "Slovenia",
+        "Croatia"
+      ],
+      "answer": "Serbia"
+    },
+    {
+      "question_id": 7,
+      "question": "What currency do Egypt and several North African countries use historically under the same name?",
+      "options": [
+        "Pound",
+        "Dirham",
+        "Dinar"
+      ],
+      "answer": "Pound"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency is subdivided into 100 lere and used in Albania?",
+      "options": [
+        "Lek",
+        "Dinar",
+        "Krona"
+      ],
+      "answer": "Lek"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency is subdivided into 100 centimes and was used in a North African country under French administration?",
+      "options": [
+        "Algerian Dinar pre-independence French Franc linkage",
+        "Egyptian Pound",
+        "Moroccan Dirham"
+      ],
+      "answer": "Algerian Dinar pre-independence French Franc linkage"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the currency of Canada?",
+      "options": [
+        "Canadian Dollar",
+        "Australian Dollar",
+        "New Zealand Dollar"
+      ],
+      "answer": "Canadian Dollar"
+    },
+    {
+      "question_id": 11,
+      "question": "What currency did the Euro replace in Germany in 2002?",
+      "options": [
+        "Deutsche Mark",
+        "East German Mark",
+        "Rentenmark"
+      ],
+      "answer": "Deutsche Mark"
+    },
+    {
+      "question_id": 12,
+      "question": "Which East Asian currency is known for using vertical script on some older banknote designs?",
+      "options": [
+        "Japanese Yen",
+        "Chinese Renminbi",
+        "Korean Won"
+      ],
+      "answer": "Japanese Yen"
+    },
+    {
+      "question_id": 13,
+      "question": "Which currency is used in Argentina?",
+      "options": [
+        "Argentine Peso",
+        "Chilean Peso",
+        "Boliviano"
+      ],
+      "answer": "Argentine Peso"
+    },
+    {
+      "question_id": 14,
+      "question": "Which currency replaced the Soviet ruble in many former Soviet states as they gained independence?",
+      "options": [
+        "New national currencies (various)",
+        "Euro",
+        "US Dollar"
+      ],
+      "answer": "New national currencies (various)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country’s currency includes a banknote series commemorating a famous composer on its highest denomination?",
+      "options": [
+        "Austria",
+        "Hungary",
+        "Czech Republic"
+      ],
+      "answer": "Austria"
+    }
+  ]
+}

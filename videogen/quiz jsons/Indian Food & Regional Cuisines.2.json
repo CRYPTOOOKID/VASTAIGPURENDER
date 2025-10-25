@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What steamed South Indian breakfast cake is prepared from fermented rice and black gram batter?",
+      "options": [
+        "Uttapam",
+        "Pesarattu",
+        "Idli"
+      ],
+      "answer": "Idli"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the key difference between pulao and biryani in common culinary practice?",
+      "options": [
+        "Layered cooking for biryani, single-pot for pulao",
+        "Pulao always uses meat, biryani is vegetarian",
+        "Biryani uses shorter cooking time than pulao"
+      ],
+      "answer": "Layered cooking for biryani, single-pot for pulao"
+    },
+    {
+      "question_id": 3,
+      "question": "Which variety of chili is prized in Indian cuisine for bright red color and mild heat used in tandoori and Kashmiri dishes?",
+      "options": [
+        "Kashmiri red chili",
+        "Byadgi chili",
+        "Bird's eye chili"
+      ],
+      "answer": "Kashmiri red chili"
+    },
+    {
+      "question_id": 4,
+      "question": "What Hindi name refers to a warming spice blend often added to many Indian dishes at the end of cooking?",
+      "options": [
+        "Tandoori masala",
+        "Curry powder",
+        "Garam masala"
+      ],
+      "answer": "Garam masala"
+    },
+    {
+      "question_id": 5,
+      "question": "Which spice was introduced to Indian kitchens by Portuguese traders in the 16th century and transformed curries?",
+      "options": [
+        "Chili pepper",
+        "Cardamom",
+        "Black pepper"
+      ],
+      "answer": "Chili pepper"
+    },
+    {
+      "question_id": 6,
+      "question": "Which dish from Lucknow is famed for soft texture of meat achieved by grinding meat with fried onions and raw papaya enzymes?",
+      "options": [
+        "Tandoori chicken",
+        "Butter chicken",
+        "Galouti kebab"
+      ],
+      "answer": "Galouti kebab"
+    },
+    {
+      "question_id": 7,
+      "question": "What coarse cornmeal flatbread called 'makki di roti' is traditionally paired with sarson ka saag in which region?",
+      "options": [
+        "Punjab",
+        "Assam",
+        "Goa"
+      ],
+      "answer": "Punjab"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state’s cuisine features the use of mustard oil and raw mustard paste widely in fish and vegetable preparations?",
+      "options": [
+        "Gujarat",
+        "West Bengal",
+        "Karnataka"
+      ],
+      "answer": "West Bengal"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare North Indian spice resin, used in small quantities for aroma, is known as 'hing' and commonly used in dals?",
+      "options": [
+        "Mastic",
+        "Gum arabic",
+        "Asafoetida"
+      ],
+      "answer": "Asafoetida"
+    },
+    {
+      "question_id": 10,
+      "question": "Which coastal Indian state uses coconut extensively in curries, stews, and desserts?",
+      "options": [
+        "Kerala",
+        "Rajasthan",
+        "Punjab"
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "question_id": 11,
+      "question": "Which cooking technique, literally meaning 'to seal in steam', involves slow-cooking in a sealed pot in Indian cuisine?",
+      "options": [
+        "Tadka",
+        "Bhuna",
+        "Dum pukht"
+      ],
+      "answer": "Dum pukht"
+    },
+    {
+      "question_id": 12,
+      "question": "Which cooking fat, clarified butter, is central to many Indian sweets and northern gravies for flavor and finishing?",
+      "options": [
+        "Ghee",
+        "Mustard oil",
+        "Coconut oil"
+      ],
+      "answer": "Ghee"
+    },
+    {
+      "question_id": 13,
+      "question": "Which popular Indian street snack features hollow fried spheres filled with tangy tamarind water and potatoes?",
+      "options": [
+        "Samosa chaat",
+        "Sev puri",
+        "Pani puri"
+      ],
+      "answer": "Pani puri"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian state is the origin of the fermented, steamed sourdough pancake called 'pitha' in several variants?",
+      "options": [
+        "Assam",
+        "Rajasthan",
+        "Kerala"
+      ],
+      "answer": "Assam"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Gujarati lentil-based layered cake called handvo often includes bottle gourd and is baked or steamed for texture?",
+      "options": [
+        "Thepla",
+        "Handvo",
+        "Khandvi"
+      ],
+      "answer": "Handvo"
+    }
+  ]
+}

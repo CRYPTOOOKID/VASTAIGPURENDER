@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which voice is most commonly used in \"What am I?\" riddles?",
+      "options": [
+        "First-person perspective speaking as the subject",
+        "Third-person biography of a person",
+        "Second-person directions to do something"
+      ],
+      "answer": "First-person perspective speaking as the subject"
+    },
+    {
+      "question_id": 2,
+      "question": "Which editing step improves clarity of a \"What am I?\" riddle?",
+      "options": [
+        "Remove redundant phrases that dilute clues",
+        "Add several unrelated sentences",
+        "Make clues intentionally contradictory"
+      ],
+      "answer": "Remove redundant phrases that dilute clues"
+    },
+    {
+      "question_id": 3,
+      "question": "Which linguistic feature do many expert-level riddles exploit?",
+      "options": [
+        "Homophones and homographs to create multiple readings",
+        "Scientific nomenclature exclusively",
+        "Strictly numerical patterns"
+      ],
+      "answer": "Homophones and homographs to create multiple readings"
+    },
+    {
+      "question_id": 4,
+      "question": "What skill improves with practicing \"What am I?\" riddles?",
+      "options": [
+        "Lateral thinking and pattern recognition",
+        "Surgical technique",
+        "Advanced calculus"
+      ],
+      "answer": "Lateral thinking and pattern recognition"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes a riddle relying on double meanings of a single word?",
+      "options": [
+        "Polysemy-based riddle",
+        "Algorithmic riddle",
+        "Photographic riddle"
+      ],
+      "answer": "Polysemy-based riddle"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced cognitive load concern should riddle designers manage?",
+      "options": [
+        "Avoid excessive working-memory demands that block pattern discovery",
+        "Make riddles require long memorization",
+        "Force multi-step hidden arithmetic"
+      ],
+      "answer": "Avoid excessive working-memory demands that block pattern discovery"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the typical format of a \"What am I?\" riddle?",
+      "options": [
+        "A descriptive clue leading to an object or concept",
+        "A multiple-choice trivia question about history",
+        "A math problem requiring equations"
+      ],
+      "answer": "A descriptive clue leading to an object or concept"
+    },
+    {
+      "question_id": 8,
+      "question": "When a riddle describes \"I go up and down but never move,\" what is the answer?",
+      "options": [
+        "A staircase's steps in perspective (or a road's gradient)",
+        "An elevator that travels floors",
+        "A bird flying"
+      ],
+      "answer": "A staircase's steps in perspective (or a road's gradient)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which cognitive phenomenon explains why groups often solve riddles faster than individuals?",
+      "options": [
+        "Collective brainstorming reduces functional fixedness and pools associations",
+        "Groupthink eliminates alternatives",
+        "Groups produce identical single solutions immediately"
+      ],
+      "answer": "Collective brainstorming reduces functional fixedness and pools associations"
+    },
+    {
+      "question_id": 10,
+      "question": "Which environment often features \"What am I?\" riddles for adults?",
+      "options": [
+        "Social gatherings, games, and puzzle nights",
+        "Scientific conferences exclusively",
+        "Medical surgeries"
+      ],
+      "answer": "Social gatherings, games, and puzzle nights"
+    },
+    {
+      "question_id": 11,
+      "question": "Which cognitive skill is most exercised by complex \"What am I?\" riddles?",
+      "options": [
+        "Analogical reasoning linking disparate clues",
+        "Long division",
+        "Memorizing phone numbers"
+      ],
+      "answer": "Analogical reasoning linking disparate clues"
+    },
+    {
+      "question_id": 12,
+      "question": "Which stylistic choice enriches layered adult riddles?",
+      "options": [
+        "Introduce an emotionally resonant motif that hints at the answer",
+        "Remove all emotional content",
+        "Use random capitalization"
+      ],
+      "answer": "Introduce an emotionally resonant motif that hints at the answer"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a safe content guideline for adult \"What am I?\" riddles?",
+      "options": [
+        "Avoid offensive or discriminatory themes",
+        "Use obscure slurs to be edgy",
+        "Rely on regionally offensive stereotypes"
+      ],
+      "answer": "Avoid offensive or discriminatory themes"
+    },
+    {
+      "question_id": 14,
+      "question": "What answer fits: \"I am lighter than what I am made of, yet I can sink ships\"?",
+      "options": [
+        "Ice (iceberg)",
+        "A sponge",
+        "A feather"
+      ],
+      "answer": "Ice (iceberg)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I have a neck but no head, two arms but no hands\"?",
+      "options": [
+        "A shirt",
+        "A violin",
+        "A tree"
+      ],
+      "answer": "A shirt"
+    }
+  ]
+}

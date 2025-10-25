@@ -1,0 +1,829 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": [
+          "Jane Austen",
+          "Charlotte Brontë",
+          "George Eliot"
+        ],
+        "answer": "Jane Austen"
+      },
+      {
+        "question": "Who is the author of '1984'?",
+        "options": [
+          "George Orwell",
+          "Aldous Huxley",
+          "Ray Bradbury"
+        ],
+        "answer": "George Orwell"
+      },
+      {
+        "question": "Who wrote 'Moby-Dick'?",
+        "options": [
+          "Herman Melville",
+          "Mark Twain",
+          "Nathaniel Hawthorne"
+        ],
+        "answer": "Herman Melville"
+      },
+      {
+        "question": "Who authored 'To Kill a Mockingbird'?",
+        "options": [
+          "Harper Lee",
+          "Truman Capote",
+          "Zora Neale Hurston"
+        ],
+        "answer": "Harper Lee"
+      },
+      {
+        "question": "Who wrote 'The Great Gatsby'?",
+        "options": [
+          "F. Scott Fitzgerald",
+          "Ernest Hemingway",
+          "T. S. Eliot"
+        ],
+        "answer": "F. Scott Fitzgerald"
+      },
+      {
+        "question": "Who authored 'Jane Eyre'?",
+        "options": [
+          "Charlotte Brontë",
+          "Emily Brontë",
+          "Elizabeth Gaskell"
+        ],
+        "answer": "Charlotte Brontë"
+      },
+      {
+        "question": "Who is the author of 'Wuthering Heights'?",
+        "options": [
+          "Emily Brontë",
+          "Anne Brontë",
+          "George Eliot"
+        ],
+        "answer": "Emily Brontë"
+      },
+      {
+        "question": "Who wrote 'Frankenstein'?",
+        "options": [
+          "Mary Shelley",
+          "Edgar Allan Poe",
+          "Ann Radcliffe"
+        ],
+        "answer": "Mary Shelley"
+      },
+      {
+        "question": "Who wrote 'The Odyssey' (English translation commonly attributed to)?",
+        "options": [
+          "Homer (ancient epic attributed)",
+          "Virgil",
+          "Sophocles"
+        ],
+        "answer": "Homer (ancient epic attributed)"
+      },
+      {
+        "question": "Who is the author of 'The Catcher in the Rye'?",
+        "options": [
+          "J. D. Salinger",
+          "Jack Kerouac",
+          "John Steinbeck"
+        ],
+        "answer": "J. D. Salinger"
+      },
+      {
+        "question": "Who wrote 'Animal Farm'?",
+        "options": [
+          "George Orwell",
+          "Aldous Huxley",
+          "Kurt Vonnegut"
+        ],
+        "answer": "George Orwell"
+      },
+      {
+        "question": "Who authored 'The Adventures of Huckleberry Finn'?",
+        "options": [
+          "Mark Twain",
+          "Charles Dickens",
+          "Robert Louis Stevenson"
+        ],
+        "answer": "Mark Twain"
+      },
+      {
+        "question": "Who wrote 'Great Expectations'?",
+        "options": [
+          "Charles Dickens",
+          "William Makepeace Thackeray",
+          "Anthony Trollope"
+        ],
+        "answer": "Charles Dickens"
+      },
+      {
+        "question": "Who wrote 'Brave New World'?",
+        "options": [
+          "Aldous Huxley",
+          "George Orwell",
+          "Arthur C. Clarke"
+        ],
+        "answer": "Aldous Huxley"
+      },
+      {
+        "question": "Who authored 'The Picture of Dorian Gray'?",
+        "options": [
+          "Oscar Wilde",
+          "Matthew Arnold",
+          "G. K. Chesterton"
+        ],
+        "answer": "Oscar Wilde"
+      },
+      {
+        "question": "Who is the author of 'Crime and Punishment'?",
+        "options": [
+          "Fyodor Dostoevsky",
+          "Leo Tolstoy",
+          "Ivan Turgenev"
+        ],
+        "answer": "Fyodor Dostoevsky"
+      },
+      {
+        "question": "Who wrote 'Anna Karenina'?",
+        "options": [
+          "Leo Tolstoy",
+          "Fyodor Dostoevsky",
+          "Nikolai Gogol"
+        ],
+        "answer": "Leo Tolstoy"
+      },
+      {
+        "question": "Who authored 'The Iliad' (ancient epic attributed to)?",
+        "options": [
+          "Homer (ancient epic attributed)",
+          "Plato",
+          "Euripides"
+        ],
+        "answer": "Homer (ancient epic attributed)"
+      },
+      {
+        "question": "Who wrote 'The Hobbit'?",
+        "options": [
+          "J. R. R. Tolkien",
+          "C. S. Lewis",
+          "J. K. Rowling"
+        ],
+        "answer": "J. R. R. Tolkien"
+      },
+      {
+        "question": "Who is the author of 'Lord of the Flies'?",
+        "options": [
+          "William Golding",
+          "Aldous Huxley",
+          "Arthur C. Clarke"
+        ],
+        "answer": "William Golding"
+      },
+      {
+        "question": "Who wrote 'Sense and Sensibility'?",
+        "options": [
+          "Jane Austen",
+          "Maria Edgeworth",
+          "Frances Burney"
+        ],
+        "answer": "Jane Austen"
+      },
+      {
+        "question": "Who authored 'Dracula'?",
+        "options": [
+          "Bram Stoker",
+          "Mary Shelley",
+          "Robert Louis Stevenson"
+        ],
+        "answer": "Bram Stoker"
+      },
+      {
+        "question": "Who wrote 'The Count of Monte Cristo'?",
+        "options": [
+          "Alexandre Dumas",
+          "Victor Hugo",
+          "Honoré de Balzac"
+        ],
+        "answer": "Alexandre Dumas"
+      },
+      {
+        "question": "Who is the author of 'Les Misérables'?",
+        "options": [
+          "Victor Hugo",
+          "Alexandre Dumas",
+          "Gustave Flaubert"
+        ],
+        "answer": "Victor Hugo"
+      },
+      {
+        "question": "Who wrote 'The Grapes of Wrath'?",
+        "options": [
+          "John Steinbeck",
+          "William Faulkner",
+          "Ernest Hemingway"
+        ],
+        "answer": "John Steinbeck"
+      },
+      {
+        "question": "Who authored 'The Old Man and the Sea'?",
+        "options": [
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Steinbeck"
+        ],
+        "answer": "Ernest Hemingway"
+      },
+      {
+        "question": "Who wrote 'A Tale of Two Cities'?",
+        "options": [
+          "Charles Dickens",
+          "Victor Hugo",
+          "Thomas Hardy"
+        ],
+        "answer": "Charles Dickens"
+      },
+      {
+        "question": "Who is the author of 'Middlemarch'?",
+        "options": [
+          "George Eliot",
+          "Elizabeth Gaskell",
+          "Anthony Trollope"
+        ],
+        "answer": "George Eliot"
+      },
+      {
+        "question": "Who wrote 'The Secret Garden'?",
+        "options": [
+          "Frances Hodgson Burnett",
+          "Beatrix Potter",
+          "Louisa May Alcott"
+        ],
+        "answer": "Frances Hodgson Burnett"
+      },
+      {
+        "question": "Who authored 'Little Women'?",
+        "options": [
+          "Louisa May Alcott",
+          "Elizabeth Gaskell",
+          "Charlotte Brontë"
+        ],
+        "answer": "Louisa May Alcott"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who wrote 'One Hundred Years of Solitude'?",
+        "options": [
+          "Gabriel García Márquez",
+          "Pablo Neruda",
+          "Jorge Luis Borges"
+        ],
+        "answer": "Gabriel García Márquez"
+      },
+      {
+        "question": "Who is the author of 'Beloved'?",
+        "options": [
+          "Toni Morrison",
+          "Alice Walker",
+          "Maya Angelou"
+        ],
+        "answer": "Toni Morrison"
+      },
+      {
+        "question": "Who wrote 'Invisible Man' (1952 novel)?",
+        "options": [
+          "Ralph Ellison",
+          "James Baldwin",
+          "Richard Wright"
+        ],
+        "answer": "Ralph Ellison"
+      },
+      {
+        "question": "Who authored 'The Stranger' (L'étranger)?",
+        "options": [
+          "Albert Camus",
+          "Jean-Paul Sartre",
+          "Simone de Beauvoir"
+        ],
+        "answer": "Albert Camus"
+      },
+      {
+        "question": "Who wrote 'The Sound and the Fury'?",
+        "options": [
+          "William Faulkner",
+          "T. S. Eliot",
+          "Ernest Hemingway"
+        ],
+        "answer": "William Faulkner"
+      },
+      {
+        "question": "Who wrote 'Heart of Darkness'?",
+        "options": [
+          "Joseph Conrad",
+          "H. G. Wells",
+          "Rudyard Kipling"
+        ],
+        "answer": "Joseph Conrad"
+      },
+      {
+        "question": "Who is the author of 'The Trial' (Der Prozess)?",
+        "options": [
+          "Franz Kafka",
+          "Thomas Mann",
+          "Hermann Hesse"
+        ],
+        "answer": "Franz Kafka"
+      },
+      {
+        "question": "Who wrote 'Rebecca'?",
+        "options": [
+          "Daphne du Maurier",
+          "Agatha Christie",
+          "Vera Brittain"
+        ],
+        "answer": "Daphne du Maurier"
+      },
+      {
+        "question": "Who authored 'The Sun Also Rises'?",
+        "options": [
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Dos Passos"
+        ],
+        "answer": "Ernest Hemingway"
+      },
+      {
+        "question": "Who wrote 'The Bell Jar'?",
+        "options": [
+          "Sylvia Plath",
+          "Anne Sexton",
+          "Doris Lessing"
+        ],
+        "answer": "Sylvia Plath"
+      },
+      {
+        "question": "Who is the author of 'Their Eyes Were Watching God'?",
+        "options": [
+          "Zora Neale Hurston",
+          "Nella Larsen",
+          "Toni Morrison"
+        ],
+        "answer": "Zora Neale Hurston"
+      },
+      {
+        "question": "Who wrote 'On the Road'?",
+        "options": [
+          "Jack Kerouac",
+          "Allen Ginsberg",
+          "William S. Burroughs"
+        ],
+        "answer": "Jack Kerouac"
+      },
+      {
+        "question": "Who authored 'The Canterbury Tales'?",
+        "options": [
+          "Geoffrey Chaucer",
+          "John Gower",
+          "William Langland"
+        ],
+        "answer": "Geoffrey Chaucer"
+      },
+      {
+        "question": "Who wrote 'Madame Bovary'?",
+        "options": [
+          "Gustave Flaubert",
+          "Emile Zola",
+          "Honoré de Balzac"
+        ],
+        "answer": "Gustave Flaubert"
+      },
+      {
+        "question": "Who is the author of 'The Metamorphosis'?",
+        "options": [
+          "Franz Kafka",
+          "Albert Camus",
+          "Frédéric Nietzsche"
+        ],
+        "answer": "Franz Kafka"
+      },
+      {
+        "question": "Who wrote 'A Farewell to Arms'?",
+        "options": [
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "E. M. Forster"
+        ],
+        "answer": "Ernest Hemingway"
+      },
+      {
+        "question": "Who authored 'The Divine Comedy'?",
+        "options": [
+          "Dante Alighieri",
+          "Geoffrey Chaucer",
+          "Petrarch"
+        ],
+        "answer": "Dante Alighieri"
+      },
+      {
+        "question": "Who wrote 'Siddhartha' (novel)?",
+        "options": [
+          "Hermann Hesse",
+          "Thomas Mann",
+          "Rainer Maria Rilke"
+        ],
+        "answer": "Hermann Hesse"
+      },
+      {
+        "question": "Who is the author of 'The Age of Innocence'?",
+        "options": [
+          "Edith Wharton",
+          "Henry James",
+          "Willa Cather"
+        ],
+        "answer": "Edith Wharton"
+      },
+      {
+        "question": "Who wrote 'The Count of Monte Cristo' originally in which language author wrote?",
+        "options": [
+          "Alexandre Dumas (French)",
+          "Victor Hugo (French)",
+          "James Fenimore Cooper (English)"
+        ],
+        "answer": "Alexandre Dumas (French)"
+      },
+      {
+        "question": "Who authored 'Things Fall Apart'?",
+        "options": [
+          "Chinua Achebe",
+          "Wole Soyinka",
+          "Ngũgĩ wa Thiong'o"
+        ],
+        "answer": "Chinua Achebe"
+      },
+      {
+        "question": "Who wrote 'The Portrait of a Lady'?",
+        "options": [
+          "Henry James",
+          "Thomas Hardy",
+          "George Eliot"
+        ],
+        "answer": "Henry James"
+      },
+      {
+        "question": "Who is the author of 'The Stranger's' famous opening line in original language commonly attributed to?",
+        "options": [
+          "Albert Camus",
+          "Jean-Paul Sartre",
+          "André Gide"
+        ],
+        "answer": "Albert Camus"
+      },
+      {
+        "question": "Who wrote 'The Sound and the Fury' major modernist novel?",
+        "options": [
+          "William Faulkner",
+          "James Joyce",
+          "D. H. Lawrence"
+        ],
+        "answer": "William Faulkner"
+      },
+      {
+        "question": "Who authored 'The Woman in White'?",
+        "options": [
+          "Wilkie Collins",
+          "Charles Dickens",
+          "Mary Elizabeth Braddon"
+        ],
+        "answer": "Wilkie Collins"
+      },
+      {
+        "question": "Who wrote 'A Room with a View'?",
+        "options": [
+          "E. M. Forster",
+          "Virginia Woolf",
+          "Somerset Maugham"
+        ],
+        "answer": "E. M. Forster"
+      },
+      {
+        "question": "Who is the author of 'The Hobbit' illustrator-author?",
+        "options": [
+          "J. R. R. Tolkien",
+          "C. S. Lewis",
+          "Beatrix Potter"
+        ],
+        "answer": "J. R. R. Tolkien"
+      },
+      {
+        "question": "Who wrote 'The Jungle' exposing meatpacking industry?",
+        "options": [
+          "Upton Sinclair",
+          "Ida Tarbell",
+          "Lincoln Steffens"
+        ],
+        "answer": "Upton Sinclair"
+      },
+      {
+        "question": "Who authored 'The Call of the Wild'?",
+        "options": [
+          "Jack London",
+          "John Steinbeck",
+          "Bret Harte"
+        ],
+        "answer": "Jack London"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who wrote the first full-length English novel often credited as the first English novel, 'Robinson Crusoe'?",
+        "options": [
+          "Daniel Defoe",
+          "Samuel Richardson",
+          "Aphra Behn"
+        ],
+        "answer": "Daniel Defoe"
+      },
+      {
+        "question": "Who is the author of the early modern best-known travelogue 'Gulliver's Travels'?",
+        "options": [
+          "Jonathan Swift",
+          "Daniel Defoe",
+          "James Boswell"
+        ],
+        "answer": "Jonathan Swift"
+      },
+      {
+        "question": "Who wrote the Gothic novel 'The Mysteries of Udolpho'?",
+        "options": [
+          "Ann Radcliffe",
+          "Horace Walpole",
+          "Matthew Lewis"
+        ],
+        "answer": "Ann Radcliffe"
+      },
+      {
+        "question": "Who authored 'Pamela', an influential epistolary novel, in 1740?",
+        "options": [
+          "Samuel Richardson",
+          "Henry Fielding",
+          "Tobias Smollett"
+        ],
+        "answer": "Samuel Richardson"
+      },
+      {
+        "question": "Who wrote 'The History of Tom Jones, a Foundling'?",
+        "options": [
+          "Henry Fielding",
+          "Laurence Sterne",
+          "Samuel Richardson"
+        ],
+        "answer": "Henry Fielding"
+      },
+      {
+        "question": "Who is the author of 'Tristram Shandy' known for experimental narrative?",
+        "options": [
+          "Laurence Sterne",
+          "Henry Fielding",
+          "Tobias Smollett"
+        ],
+        "answer": "Laurence Sterne"
+      },
+      {
+        "question": "Who wrote 'The Vicar of Wakefield' often referenced by later novelists?",
+        "options": [
+          "Oliver Goldsmith",
+          "Richard Brinsley Sheridan",
+          "Henry Brooke"
+        ],
+        "answer": "Oliver Goldsmith"
+      },
+      {
+        "question": "Who authored 'The Way We Live Now', a satire of Victorian capitalism?",
+        "options": [
+          "Anthony Trollope",
+          "George Eliot",
+          "William Makepeace Thackeray"
+        ],
+        "answer": "Anthony Trollope"
+      },
+      {
+        "question": "Who wrote the dystopian novel 'We' (1924) influencing later works?",
+        "options": [
+          "Yevgeny Zamyatin",
+          "Aldous Huxley",
+          "Vladimir Nabokov"
+        ],
+        "answer": "Yevgeny Zamyatin"
+      },
+      {
+        "question": "Who is the author of 'The Red and the Black' (Le Rouge et le Noir)?",
+        "options": [
+          "Stendhal",
+          "Honoré de Balzac",
+          "Gustave Flaubert"
+        ],
+        "answer": "Stendhal"
+      },
+      {
+        "question": "Who wrote 'Nineteen Eighty-Four' pen name origin: author born Eric Arthur Blair?",
+        "options": [
+          "George Orwell",
+          "Aldous Huxley",
+          "Anthony Burgess"
+        ],
+        "answer": "George Orwell"
+      },
+      {
+        "question": "Who authored 'The Brothers Karamazov'?",
+        "options": [
+          "Fyodor Dostoevsky",
+          "Leo Tolstoy",
+          "Ivan Turgenev"
+        ],
+        "answer": "Fyodor Dostoevsky"
+      },
+      {
+        "question": "Who wrote 'Doctor Zhivago' famously published abroad in 1957?",
+        "options": [
+          "Boris Pasternak",
+          "Mikhail Bulgakov",
+          "Alexander Solzhenitsyn"
+        ],
+        "answer": "Boris Pasternak"
+      },
+      {
+        "question": "Who is the author of 'The Master and Margarita' blending satire and fantasy?",
+        "options": [
+          "Mikhail Bulgakov",
+          "Nikolai Gogol",
+          "Ivan Turgenev"
+        ],
+        "answer": "Mikhail Bulgakov"
+      },
+      {
+        "question": "Who wrote 'Zorba the Greek'?",
+        "options": [
+          "Nikos Kazantzakis",
+          "Giorgos Seferis",
+          "Constantine P. Cavafy"
+        ],
+        "answer": "Nikos Kazantzakis"
+      },
+      {
+        "question": "Who authored 'Pedro Páramo' pioneering magical realism in Mexican literature?",
+        "options": [
+          "Juan Rulfo",
+          "Carlos Fuentes",
+          "Octavio Paz"
+        ],
+        "answer": "Juan Rulfo"
+      },
+      {
+        "question": "Who wrote 'The Magic Mountain'?",
+        "options": [
+          "Thomas Mann",
+          "Hermann Hesse",
+          "Franz Kafka"
+        ],
+        "answer": "Thomas Mann"
+      },
+      {
+        "question": "Who is the author of 'The Death of Ivan Ilyich'?",
+        "options": [
+          "Leo Tolstoy",
+          "Anton Chekhov",
+          "Ivan Turgenev"
+        ],
+        "answer": "Leo Tolstoy"
+      },
+      {
+        "question": "Who wrote 'Journey to the Center of the Earth'?",
+        "options": [
+          "Jules Verne",
+          "H. G. Wells",
+          "Arthur Conan Doyle"
+        ],
+        "answer": "Jules Verne"
+      },
+      {
+        "question": "Who authored 'The Three Musketeers'?",
+        "options": [
+          "Alexandre Dumas",
+          "Victor Hugo",
+          "Gustave Flaubert"
+        ],
+        "answer": "Alexandre Dumas"
+      },
+      {
+        "question": "Who wrote the modernist novel 'Mrs Dalloway'?",
+        "options": [
+          "Virginia Woolf",
+          "E. M. Forster",
+          "James Joyce"
+        ],
+        "answer": "Virginia Woolf"
+      },
+      {
+        "question": "Who is the author of the stream-of-consciousness 'Ulysses'?",
+        "options": [
+          "James Joyce",
+          "Virginia Woolf",
+          "Marcel Proust"
+        ],
+        "answer": "James Joyce"
+      },
+      {
+        "question": "Who wrote 'In Search of Lost Time' (À la recherche du temps perdu)?",
+        "options": [
+          "Marcel Proust",
+          "Émile Zola",
+          "André Gide"
+        ],
+        "answer": "Marcel Proust"
+      },
+      {
+        "question": "Who authored 'The Life and Opinions of Tristram Shandy' notable narrator?",
+        "options": [
+          "Laurence Sterne",
+          "Henry Fielding",
+          "Aphra Behn"
+        ],
+        "answer": "Laurence Sterne"
+      },
+      {
+        "question": "Who wrote the Bildungsroman 'Wilhelm Meister's Apprenticeship'?",
+        "options": [
+          "Johann Wolfgang von Goethe",
+          "Friedrich Schiller",
+          "Thomas Mann"
+        ],
+        "answer": "Johann Wolfgang von Goethe"
+      },
+      {
+        "question": "Who is the author of 'The Tale of Genji', often called the first novel?",
+        "options": [
+          "Murasaki Shikibu",
+          "Sei Shōnagon",
+          "Lady Murasaki"
+        ],
+        "answer": "Murasaki Shikibu"
+      },
+      {
+        "question": "Who wrote 'The Pillow Book' contemporary of The Tale of Genji?",
+        "options": [
+          "Sei Shōnagon",
+          "Murasaki Shikibu",
+          "Fujiwara no Teika"
+        ],
+        "answer": "Sei Shōnagon"
+      },
+      {
+        "question": "Who authored 'The Fixer' which won a Pulitzer in 1967?",
+        "options": [
+          "Bernard Malamud",
+          "Saul Bellow",
+          "Philip Roth"
+        ],
+        "answer": "Bernard Malamud"
+      },
+      {
+        "question": "Who wrote 'The Secret Agent' about anarchism in London?",
+        "options": [
+          "Joseph Conrad",
+          "G. K. Chesterton",
+          "H. G. Wells"
+        ],
+        "answer": "Joseph Conrad"
+      },
+      {
+        "question": "Who is the author of 'The House of the Spirits' blending family saga and magical realism?",
+        "options": [
+          "Isabel Allende",
+          "Laura Esquivel",
+          "Gabriel García Márquez"
+        ],
+        "answer": "Isabel Allende"
+      },
+      {
+        "question": "Who wrote 'The Man Who Was Thursday' metaphysical thriller?",
+        "options": [
+          "G. K. Chesterton",
+          "H. G. Wells",
+          "Arthur Conan Doyle"
+        ],
+        "answer": "G. K. Chesterton"
+      },
+      {
+        "question": "Who authored 'The Leopard' (Il Gattopardo) about Sicilian aristocracy?",
+        "options": [
+          "Giuseppe Tomasi di Lampedusa",
+          "Alessandro Manzoni",
+          "Italo Calvino"
+        ],
+        "answer": "Giuseppe Tomasi di Lampedusa"
+      }
+    ]
+  }
+}

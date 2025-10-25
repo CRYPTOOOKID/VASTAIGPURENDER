@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the main purpose of product reviews on a store page?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'fulfillment by Amazon (FBA)' primarily?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the 'take rate' in marketplace economics?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes selling digital goods like e-books or software?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'multitenant SaaS' mean for e-commerce platforms?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'schema-driven commerce' benefit for rapid product launches?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which platform is a popular open-source e-commerce solution?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which platform began as open-source e-commerce software acquired into Adobe Commerce?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which modeling approach estimates customer lifetime value best for cohort-based retention?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'return policy' define for online retailers?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the primary purpose of A/B testing on product pages?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'incrementality testing' in marketing measurement?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'SSL' commonly used for on e-commerce sites?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the primary benefit of using a CDN for product images?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is 'negative churn' and why is it valuable for subscription business?"
+    }
+  ]
+}

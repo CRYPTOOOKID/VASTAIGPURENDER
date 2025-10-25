@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which body commonly reviews large M&A deals globally?",
+      "options": [
+        "Competition authority",
+        "Local chamber of commerce",
+        "Employee union"
+      ],
+      "answer": "Competition authority"
+    },
+    {
+      "question_id": 2,
+      "question": "What are representations and warranties in a purchase agreement?",
+      "options": [
+        "Seller statements about the business condition",
+        "Employee contracts",
+        "Regulatory approval documents"
+      ],
+      "answer": "Seller statements about the business condition"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a go-shop's typical strategic benefit to target shareholders?",
+      "options": [
+        "Maximizes sale price by encouraging competing bids",
+        "Prevents any competing bids",
+        "Automatically increases breakup fee"
+      ],
+      "answer": "Maximizes sale price by encouraging competing bids"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a merger?",
+      "options": [
+        "Combining two companies into one",
+        "Purchase of assets only",
+        "Short-term loan"
+      ],
+      "answer": "Combining two companies into one"
+    },
+    {
+      "question_id": 5,
+      "question": "What does an integration roadmap primarily outline?",
+      "options": [
+        "Steps to combine operations and systems",
+        "Method to increase dividends",
+        "Plan to spin off assets immediately"
+      ],
+      "answer": "Steps to combine operations and systems"
+    },
+    {
+      "question_id": 6,
+      "question": "Which instrument often protects acquirers from target pre-closing losses?",
+      "options": [
+        "Reps and warranties insurance or indemnity provisions",
+        "Golden parachute",
+        "No-shop clause"
+      ],
+      "answer": "Reps and warranties insurance or indemnity provisions"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a fairness opinion?",
+      "options": [
+        "Independent advisors' view on deal price fairness",
+        "Government approval certificate",
+        "Employee performance review"
+      ],
+      "answer": "Independent advisors' view on deal price fairness"
+    },
+    {
+      "question_id": 8,
+      "question": "Which major tech purchase did Google complete in 2006 for about $1.65 billion?",
+      "options": [
+        "YouTube",
+        "Instagram",
+        "Snapchat"
+      ],
+      "answer": "YouTube"
+    },
+    {
+      "question_id": 9,
+      "question": "What is contingent consideration classification in acquisition accounting?",
+      "options": [
+        "Liability or equity depending on settlement terms",
+        "Guaranteed cash paid at signing",
+        "Non-binding advisory fee"
+      ],
+      "answer": "Liability or equity depending on settlement terms"
+    },
+    {
+      "question_id": 10,
+      "question": "What does acquirer mean?",
+      "options": [
+        "Company that buys another company",
+        "Company that is sold",
+        "Regulatory body overseeing the deal"
+      ],
+      "answer": "Company that buys another company"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company acquired WhatsApp in 2014?",
+      "options": [
+        "Facebook",
+        "Google",
+        "Microsoft"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question_id": 12,
+      "question": "Which instrument often preserves target management continuity post-deal?",
+      "options": [
+        "Earn-out tied to performance",
+        "No-shop provision",
+        "Breakup fee"
+      ],
+      "answer": "Earn-out tied to performance"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a friendly merger?",
+      "options": [
+        "Target board supports the merger",
+        "Hostile bid by an outsider",
+        "Merger without shareholder approval"
+      ],
+      "answer": "Target board supports the merger"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a share swap ratio used for?",
+      "options": [
+        "Determine shares exchanged in stock-for-stock deals",
+        "Calculate tax due",
+        "Set interest on debt financing"
+      ],
+      "answer": "Determine shares exchanged in stock-for-stock deals"
+    },
+    {
+      "question_id": 15,
+      "question": "Which remedy requires permanent sale of business units to address competition concerns?",
+      "options": [
+        "Structural remedy (divestiture)",
+        "Behavioral remedy",
+        "Temporary injunction"
+      ],
+      "answer": "Structural remedy (divestiture)"
+    }
+  ]
+}

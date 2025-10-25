@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which brand uses the slogan \"Save Money. Live Better.\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand used the slogan emphasizing personal choice: \"Have It Your Way\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which agency created Avis's strategic \"We Try Harder\" repositioning?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which soft drink uses the tagline \"Taste the Feeling\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pop star performed McDonald's \"I'm Lovin' It\" jingle?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which slogan is considered one of the longest-running brand taglines in luxury advertising?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which mascara brand uses \"Maybe she's born with it\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which advertising agency created Apple’s \"Think Different\" campaign?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which agency developed Apple's iconic \"Think Different\" creative direction?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which men's grooming brand ran \"The Man Your Man Could Smell Like\" campaign?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which auto slogan means \"advancement through technology\" in English?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which copywriter at N. W. Ayer created \"A diamond is forever\"?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which delivery company used the line \"When it absolutely, positively has to be there overnight\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company used a celebrity-spun jingle to globalize a single-line tagline in 2003?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1959 campaign is credited with revolutionizing modern print advertising for Volkswagen?"
+    }
+  ]
+}

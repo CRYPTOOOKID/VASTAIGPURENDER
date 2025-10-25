@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Battle of Waterloo, ending Napoleon's rule?"
+    },
+    {
+      "question_id": 2,
+      "question": "When was the Gutenberg Bible completed, marking a milestone in printing history?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did the Reform Act of 1867 in Britain significantly extend voting rights to urban working men?"
+    },
+    {
+      "question_id": 4,
+      "question": "What year did Australia become a federated nation (Commonwealth of Australia)?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year was the Magna Carta reissued with broader royal concessions after initial sealing?"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Tet Offensive occur, a pivotal series of conflicts in the Vietnam War?"
+    },
+    {
+      "question_id": 7,
+      "question": "When did India gain independence from British rule?"
+    },
+    {
+      "question_id": 8,
+      "question": "What year did the first Crusade capture Jerusalem, establishing several Crusader states?"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the Haitian Revolution begin, leading to the world's first Black republic?"
+    },
+    {
+      "question_id": 10,
+      "question": "What year did the Titanic sink on its maiden voyage?"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Ottoman Empire officially dissolve after World War I?"
+    },
+    {
+      "question_id": 12,
+      "question": "What year did the Periclean building program, including the Parthenon, begin in Athens?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which year did the Great Fire of London occur?"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did the British Parliament pass the Reform Act extending the franchise in 19th century Britain?"
+    },
+    {
+      "question_id": 15,
+      "question": "When did Tokugawa Ieyasu consolidate power at the Battle of Sekigahara, initiating Tokugawa shogunate rule?"
+    }
+  ]
+}

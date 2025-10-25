@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which physical property primarily determines pitch?",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Duration"
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scale describes perceived loudness roughly doubling per 10 dB increase?",
+      "options": [
+        "Decibel scale",
+        "Linear pressure scale",
+        "Logarithmic diameter scale"
+      ],
+      "answer": "Decibel scale"
+    },
+    {
+      "question_id": 3,
+      "question": "What acoustic feature forms vowel identity by resonant peaks in the vocal tract?",
+      "options": [
+        "Formants",
+        "Harmonics",
+        "Noise floor"
+      ],
+      "answer": "Formants"
+    },
+    {
+      "question_id": 4,
+      "question": "What name describes sound below 20 Hz?",
+      "options": [
+        "Infrasound",
+        "Ultrasound",
+        "Audible sound"
+      ],
+      "answer": "Infrasound"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes frequency peaks caused by a room's dimensions?",
+      "options": [
+        "Room modes",
+        "Transient peaks",
+        "White noise"
+      ],
+      "answer": "Room modes"
+    },
+    {
+      "question_id": 6,
+      "question": "What acoustic phenomenon yields beats equal to the frequency difference of two tones?",
+      "options": [
+        "Beat frequency",
+        "Harmonic distortion",
+        "Phase locking"
+      ],
+      "answer": "Beat frequency"
+    },
+    {
+      "question_id": 7,
+      "question": "What effect causes an apparent pitch change from a moving sound source?",
+      "options": [
+        "Doppler effect",
+        "Photoelectric effect",
+        "Coriolis effect"
+      ],
+      "answer": "Doppler effect"
+    },
+    {
+      "question_id": 8,
+      "question": "Which filter type preserves low frequencies while attenuating high frequencies?",
+      "options": [
+        "Low-pass filter",
+        "High-pass filter",
+        "Band-stop filter"
+      ],
+      "answer": "Low-pass filter"
+    },
+    {
+      "question_id": 9,
+      "question": "Which laser-based technique measures surface vibration via Doppler frequency shift?",
+      "options": [
+        "Laser Doppler vibrometer",
+        "Optical coherence tomography",
+        "Raman spectroscopy"
+      ],
+      "answer": "Laser Doppler vibrometer"
+    },
+    {
+      "question_id": 10,
+      "question": "What handheld device measures sound intensity levels in decibels?",
+      "options": [
+        "Sound level meter",
+        "Seismograph",
+        "Hygrometer"
+      ],
+      "answer": "Sound level meter"
+    },
+    {
+      "question_id": 11,
+      "question": "What term describes amplification when driving frequency matches natural frequency?",
+      "options": [
+        "Resonance",
+        "Diffraction",
+        "Doppler shift"
+      ],
+      "answer": "Resonance"
+    },
+    {
+      "question_id": 12,
+      "question": "Which decibel formula uses 20 times the base-10 log of a pressure ratio?",
+      "options": [
+        "Sound pressure level: 20 log10(p/p0)",
+        "Power level: 10 log10(P/P0)",
+        "Phase level: 5 log10(φ/φ0)"
+      ],
+      "answer": "Sound pressure level: 20 log10(p/p0)"
+    },
+    {
+      "question_id": 13,
+      "question": "What technology uses reflected sound to locate underwater objects?",
+      "options": [
+        "Sonar",
+        "Radar",
+        "Lidar"
+      ],
+      "answer": "Sonar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which vocal technique emphasizes harmonic overtones by shaping resonances?",
+      "options": [
+        "Overtone singing",
+        "Bel canto",
+        "Whistling"
+      ],
+      "answer": "Overtone singing"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formula estimates reverberation time using room volume and absorption?",
+      "options": [
+        "Sabine's formula",
+        "Bernoulli's equation",
+        "Hooke's law"
+      ],
+      "answer": "Sabine's formula"
+    }
+  ]
+}

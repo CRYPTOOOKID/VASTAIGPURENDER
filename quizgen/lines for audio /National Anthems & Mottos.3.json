@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the national anthem of Japan?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's anthem was composed by Joseph Haydn for a Habsburg emperor before being repurposed?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country's anthem had a female poet credited for writing its lyrics in the 20th century, a rarity among national anthems?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country uses 'Plus Ultra' as a historical national motto meaning 'Further beyond'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country officially adopted 'O Canada' as its national anthem in 1980?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which national anthem's music was composed by a conductor of the Red Army Choir and later adapted for state use?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country has 'In God We Trust' as its official national motto?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country's national anthem lyrics were written by a poet who became that country's first president?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem's original poet was imprisoned during the regime that later censored his work, delaying public recognition?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses 'Advance Australia Fair' as its national anthem?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country adopted 'March of the Volunteers' as its national anthem upon founding in 1949?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which national anthem's melody was once used as the tune for the British patriotic song 'God Save the King' in another language's adaptation?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country sings 'O Canada' as its national anthem?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's national anthem was selected by plebiscite in the 1980s replacing a previous song?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national anthem was composed by a musician who also created a tune later repurposed as an imperial hymn?"
+    }
+  ]
+}

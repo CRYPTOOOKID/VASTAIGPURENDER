@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a serving size on a Nutrition Facts label describe?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which label change highlighted added sugars on updated Nutrition Facts labels?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which sweetener yields essentially zero calories because humans excrete it unmetabolized?"
+    },
+    {
+      "question_id": 4,
+      "question": "What information does the % Daily Value on nutrition labels indicate?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does “energy density” describe about a food?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which scientific phrase describes energy partitioning toward fat storage after excess calorie intake?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common food component adds bulk but few digestible calories?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which laboratory device measures gross energy by burning food?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does the term 'net energy' often account for beyond metabolizable energy?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does one food Calorie (capital C) equal in scientific energy units?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which guidance helps customers compare calories between products fairly?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which compound contributes to calorie counting errors by providing fermentable but non-digestible carbohydrates?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient helps you feel full longest per typical portion?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which food type typically increases satiety relative to calorie content?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which physiological factor most strongly influences individual variation in BMR?"
+    }
+  ]
+}

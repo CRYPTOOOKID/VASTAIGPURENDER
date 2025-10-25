@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which answer fits: \"I can be cracked, made, told, and played\"?",
+      "options": [
+        "A joke",
+        "An egg",
+        "A code"
+      ],
+      "answer": "A joke"
+    },
+    {
+      "question_id": 2,
+      "question": "Which discipline studies how riddles influence cognition and culture?",
+      "options": [
+        "Thermodynamics",
+        "Pure algebra",
+        "Folkloristics and cognitive science intersection"
+      ],
+      "answer": "Folkloristics and cognitive science intersection"
+    },
+    {
+      "question_id": 3,
+      "question": "Which measurement of riddle quality matters most for experienced adult puzzlers?",
+      "options": [
+        "How many rhymes it has",
+        "Number of words used",
+        "Elegance of clue economy versus misleading difficulty"
+      ],
+      "answer": "Elegance of clue economy versus misleading difficulty"
+    },
+    {
+      "question_id": 4,
+      "question": "Which modern medium has most expanded the distribution of adult riddles?",
+      "options": [
+        "Academic journals exclusively",
+        "Print-only pamphlets",
+        "Social media and mobile apps for puzzle sharing"
+      ],
+      "answer": "Social media and mobile apps for puzzle sharing"
+    },
+    {
+      "question_id": 5,
+      "question": "Which answer best fits: \"I have cities but no houses, forests but no trees\"?",
+      "options": [
+        "A novel",
+        "A map",
+        "A painting"
+      ],
+      "answer": "A map"
+    },
+    {
+      "question_id": 6,
+      "question": "Which of these is a sophisticated 'What am I?' answer often used metaphorically?",
+      "options": [
+        "A simple fruit with no metaphorical weight",
+        "A brand name trademark",
+        "A mirror representing self-reflection"
+      ],
+      "answer": "A mirror representing self-reflection"
+    },
+    {
+      "question_id": 7,
+      "question": "Which advanced editor's rule improves high-level riddle collections?",
+      "options": [
+        "Allow multiple equally valid answers per riddle",
+        "Ensure each riddle has one clear answer and distinct misdirects",
+        "Repeat the same trope throughout"
+      ],
+      "answer": "Ensure each riddle has one clear answer and distinct misdirects"
+    },
+    {
+      "question_id": 8,
+      "question": "Which answer best fits: \"I move without legs, have a bed but never sleep\"?",
+      "options": [
+        "A train",
+        "A river",
+        "A centipede"
+      ],
+      "answer": "A river"
+    },
+    {
+      "question_id": 9,
+      "question": "Which strategy distinguishes a master riddle-writer for adults?",
+      "options": [
+        "Including irrelevant trivia",
+        "Balancing solvability with elegant misdirection",
+        "Making clues completely opaque"
+      ],
+      "answer": "Balancing solvability with elegant misdirection"
+    },
+    {
+      "question_id": 10,
+      "question": "What cognitive bias often causes solvers to miss the correct \"What am I?\" answer?",
+      "options": [
+        "Availability heuristic improving recall",
+        "Functional fixedness preventing alternative uses",
+        "Optimism bias increasing confidence"
+      ],
+      "answer": "Functional fixedness preventing alternative uses"
+    },
+    {
+      "question_id": 11,
+      "question": "Which answer fits: \"I cling to your skin in summer, bite without teeth, vanish in winter\"?",
+      "options": [
+        "A mosquito",
+        "A moth",
+        "A spider"
+      ],
+      "answer": "A mosquito"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technique helps internationalize an advanced 'What am I?' riddle?",
+      "options": [
+        "Avoid culturally specific puns and use universal phenomena",
+        "Include region-only slang",
+        "Reference untranslatable idioms"
+      ],
+      "answer": "Avoid culturally specific puns and use universal phenomena"
+    },
+    {
+      "question_id": 13,
+      "question": "Which advanced writing tactic yields a satisfying riddle reveal?",
+      "options": [
+        "Use contradictory clues without resolution",
+        "Reveal the answer in the first sentence",
+        "Layer clues that retroactively make sense after the answer"
+      ],
+      "answer": "Layer clues that retroactively make sense after the answer"
+    },
+    {
+      "question_id": 14,
+      "question": "Which answer fits: \"I start with an end, contain what I consume, and vanish when used\"?",
+      "options": [
+        "A calendar",
+        "A mirror",
+        "An envelope"
+      ],
+      "answer": "An envelope"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I am taken by the living, left by the dead\"?",
+      "options": [
+        "A will",
+        "A photograph",
+        "Breath"
+      ],
+      "answer": "A photograph"
+    }
+  ]
+}

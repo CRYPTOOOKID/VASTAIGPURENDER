@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian scientist was instrumental in establishing ISRO's early satellite program?",
+      "options": [
+        "Ananda Mohan Chakrabarty",
+        "Vikram Sarabhai",
+        "R. A. Mashelkar"
+      ],
+      "answer": "Vikram Sarabhai"
+    },
+    {
+      "question_id": 2,
+      "question": "In which year did India’s first satellite Aryabhata launch into orbit?",
+      "options": [
+        "1969",
+        "1980",
+        "1975"
+      ],
+      "answer": "1975"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian engineer transformed India’s public transport networks through metro system management?",
+      "options": [
+        "R. A. Mashelkar",
+        "E. Sreedharan",
+        "Sam Pitroda"
+      ],
+      "answer": "E. Sreedharan"
+    },
+    {
+      "question_id": 4,
+      "question": "Which scientist created the Ramachandran plot in protein structure analysis?",
+      "options": [
+        "C. V. Raman",
+        "Satyendra Nath Bose",
+        "G. N. Ramachandran"
+      ],
+      "answer": "G. N. Ramachandran"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian space official oversaw India’s Mars Orbiter Mission success in 2013?",
+      "options": [
+        "K. Radhakrishnan",
+        "Satish Dhawan",
+        "Vikram Sarabhai"
+      ],
+      "answer": "K. Radhakrishnan"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian-born Nobel laureate worked on the structure and function of ribosomes?",
+      "options": [
+        "C. V. Raman",
+        "Har Gobind Khorana",
+        "Venkatraman Ramakrishnan"
+      ],
+      "answer": "Venkatraman Ramakrishnan"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian scientist’s work launched modern protein structure analysis in India?",
+      "options": [
+        "G. S. S. Raghavan",
+        "C. N. R. Rao",
+        "G. N. Ramachandran"
+      ],
+      "answer": "G. N. Ramachandran"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian scientist was central to establishing the Indian Institute of Science (IISc) reputation?",
+      "options": [
+        "C. V. Raman",
+        "Homi Bhabha",
+        "M. Visvesvaraya"
+      ],
+      "answer": "C. V. Raman"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian mathematician’s 1913 letter to G. H. Hardy launched a major collaboration?",
+      "options": [
+        "S. Chandrasekhar",
+        "Srinivasa Ramanujan",
+        "Meghnad Saha"
+      ],
+      "answer": "Srinivasa Ramanujan"
+    },
+    {
+      "question_id": 10,
+      "question": "Who led India’s first successful indigenous satellite launch (SLV-3) project?",
+      "options": [
+        "Satish Dhawan",
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai"
+      ],
+      "answer": "A. P. J. Abdul Kalam"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian agricultural scientist spearheaded high-yield wheat varieties in India?",
+      "options": [
+        "Asima Chatterjee",
+        "M. S. Swaminathan",
+        "Shanti Swaroop Bhatnagar"
+      ],
+      "answer": "M. S. Swaminathan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian scientist authored fundamental papers on modular forms and partition congruences?",
+      "options": [
+        "Srinivasa Ramanujan",
+        "S. Chandrasekhar",
+        "G. N. Ramachandran"
+      ],
+      "answer": "Srinivasa Ramanujan"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian ornithologist is popularly called the 'Birdman of India'?",
+      "options": [
+        "Salim Ali",
+        "S. Chandrasekhar",
+        "Asima Chatterjee"
+      ],
+      "answer": "Salim Ali"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian scientist helped popularize public telephones and expand rural connectivity?",
+      "options": [
+        "M. S. Swaminathan",
+        "E. Sreedharan",
+        "Sam Pitroda"
+      ],
+      "answer": "Sam Pitroda"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist collaborated with Einstein leading to terminology 'boson' named after him?",
+      "options": [
+        "C. V. Raman",
+        "Meghnad Saha",
+        "Satyendra Nath Bose"
+      ],
+      "answer": "Satyendra Nath Bose"
+    }
+  ]
+}

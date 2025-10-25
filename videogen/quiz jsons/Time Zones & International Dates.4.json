@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ocean commonly determines reference when crossing the International Date Line?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean"
+      ],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question_id": 2,
+      "question": "Which U.S. law standardized time zones in the country in 1918?",
+      "options": [
+        "Standard Time Act",
+        "Uniform Time Act",
+        "Time Unification Act"
+      ],
+      "answer": "Standard Time Act"
+    },
+    {
+      "question_id": 3,
+      "question": "Which scientific observation links irregularities in Earth's rotation to leap second decisions?",
+      "options": [
+        "Variations in length of day measured by VLBI",
+        "Sunspot counts",
+        "Tidal height records"
+      ],
+      "answer": "Variations in length of day measured by VLBI"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'UTC+0' indicate about a place's time offset?",
+      "options": [
+        "It is one hour behind UTC",
+        "It is one hour ahead of UTC",
+        "It matches Coordinated Universal Time"
+      ],
+      "answer": "It matches Coordinated Universal Time"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Pacific nation jumped the International Date Line in 2011 to align with Australia and New Zealand?",
+      "options": [
+        "Tonga",
+        "Fiji",
+        "Samoa"
+      ],
+      "answer": "Samoa"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Caribbean territory uses UTC-4 but does not observe DST and thus differs seasonally from nearby US regions?",
+      "options": [
+        "Cayman Islands",
+        "Puerto Rico",
+        "Barbados"
+      ],
+      "answer": "Puerto Rico"
+    },
+    {
+      "question_id": 7,
+      "question": "Which island nation is known for being the first to experience each new day?",
+      "options": [
+        "Iceland",
+        "Kiribati",
+        "Madagascar"
+      ],
+      "answer": "Kiribati"
+    },
+    {
+      "question_id": 8,
+      "question": "Which famous meridian passing through Paris was replaced in international use by Greenwich?",
+      "options": [
+        "Berlin Meridian",
+        "Paris Meridian",
+        "Madrid Meridian"
+      ],
+      "answer": "Paris Meridian"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country maintained two simultaneous time zones (legal vs. de facto) for decades for political reasons?",
+      "options": [
+        "China",
+        "Nepal",
+        "Spain"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 10,
+      "question": "What happens to the calendar when you cross the International Date Line traveling westward?",
+      "options": [
+        "No change",
+        "You subtract a day",
+        "You add a day"
+      ],
+      "answer": "You add a day"
+    },
+    {
+      "question_id": 11,
+      "question": "Which U.S. territories permanently use Atlantic Time year-round? ",
+      "options": [
+        "Guam and American Samoa",
+        "Puerto Rico and US Virgin Islands",
+        "Northern Mariana Islands and Guam"
+      ],
+      "answer": "Puerto Rico and US Virgin Islands"
+    },
+    {
+      "question_id": 12,
+      "question": "Which treaty or conference first proposed an International Date Line concept in formal terms?",
+      "options": [
+        "Treaty of Versailles (1919)",
+        "Monroe Doctrine meeting",
+        "International Meridian Conference (1884)"
+      ],
+      "answer": "International Meridian Conference (1884)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which line is the basis for the date change when crossing oceans?",
+      "options": [
+        "Prime Meridian",
+        "International Date Line",
+        "Equator"
+      ],
+      "answer": "International Date Line"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country adopted a single time zone (UTC+8) in 1949 to unify administration?",
+      "options": [
+        "Russia",
+        "Australia",
+        "China"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major railway company's timetabling problems in the 19th century led directly to time zone adoption?",
+      "options": [
+        "Trans-Siberian Railway",
+        "Great Western Railway in Britain",
+        "Union Pacific in the U.S."
+      ],
+      "answer": "Great Western Railway in Britain"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an ethical consideration when writing adult riddles?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which real-world connection strengthens a riddle's appeal?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which literary movement influenced complex adult riddle phrasing in modern puzzles?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which reaction indicates a well-crafted adult riddle?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which demographic details should riddle writers avoid to remain inclusive?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I hide in plain sight, reflect truth but distort images\"?"
+    },
+    {
+      "question_id": 7,
+      "question": "What element often makes a \"What am I?\" riddle satisfying?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rhetorical device helps disguise the subject in a \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ethical concern arises in competitive adult riddle communities?"
+    },
+    {
+      "question_id": 10,
+      "question": "What role do subtle clues play in \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 11,
+      "question": "If a riddle says \"I make music but have no voice,\" which fits best?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced wordplay device can subtly hide an answer within a riddle?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which long-term trend affects the evolution of 'What am I?' adult riddles?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which feature often marks a riddle as 'overfitted' to a niche audience?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I fly without wings, cry without eyes, wherever I go darkness follows\"?"
+    }
+  ]
+}

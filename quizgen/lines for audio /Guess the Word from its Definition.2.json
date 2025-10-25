@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a concise dictionary definition aim to be?"
+    },
+    {
+      "question_id": 2,
+      "question": "What word means 'a belief accepted as authoritative without proof'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term describes 'a word whose meaning is the opposite depending on context'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which word matches the simple definition 'a large natural elevation of the earth's surface'?"
+    },
+    {
+      "question_id": 5,
+      "question": "What word matches 'a word formed from the initial letters of a phrase'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term denotes 'a word that has multiple related meanings'?"
+    },
+    {
+      "question_id": 7,
+      "question": "In 'Guess the Word from its Definition' games, what is the player's main task?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word means 'an invented word or expression recently introduced'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes 'a word borrowed from another language without translation'?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the term 'definition' primarily provide for a word?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word describes 'a concise saying expressing a general truth'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which obscure term refers to 'a mistaken belief about a word's origin'?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'stellar' usually mean in straightforward definitions?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term means 'a false belief resulting from incorrect reasoning'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which concept refers to 'meaning change by association with another concept'?"
+    }
+  ]
+}

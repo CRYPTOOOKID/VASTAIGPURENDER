@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Manipur?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which state capital is located at the foot of the Western Ghats and is a major spice trade center?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which state capital district contains a UNESCO World Heritage Sun Temple at nearby Konark?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the official capital of Andhra Pradesh?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian state uses Nagpur as a second capital for legislative sessions?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital was the administrative seat of the ancient Kalinga kingdom region?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Telangana?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state was created on 15 November 2000 with Ranchi as its capital?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which state capital was built near an ancient temple city and now serves as its modern administrative center?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Tamil Nadu?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which state capital lies on the banks of the Ganges River?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital was part of the ancient Kakatiya kingdom and later became a major medieval city in its region?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Odisha?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city lies near the ancient Buddhist site of Sarnath in its state?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital hosts the headquarters of the Indian Navy's Eastern Command nearby?"
+    }
+  ]
+}

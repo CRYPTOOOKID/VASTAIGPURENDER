@@ -1,0 +1,883 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the term for goods used to produce other goods and services?",
+        "options": [
+          "Capital goods",
+          "Consumer goods",
+          "Public goods"
+        ],
+        "answer": "Capital goods"
+      },
+      {
+        "question": "What term describes limited resources versus unlimited wants?",
+        "options": [
+          "Scarcity",
+          "Surplus",
+          "Equilibrium"
+        ],
+        "answer": "Scarcity"
+      },
+      {
+        "question": "Which term means the extra satisfaction from consuming one more unit?",
+        "options": [
+          "Marginal utility",
+          "Total utility",
+          "Diminishing returns"
+        ],
+        "answer": "Marginal utility"
+      },
+      {
+        "question": "What is the marketplace where buyers and sellers exchange goods called?",
+        "options": [
+          "Market",
+          "Factory",
+          "Warehouse"
+        ],
+        "answer": "Market"
+      },
+      {
+        "question": "What term refers to the money paid for using someone else's resources?",
+        "options": [
+          "Rent",
+          "Salary",
+          "Profit"
+        ],
+        "answer": "Rent"
+      },
+      {
+        "question": "Which term defines payments to labor for work?",
+        "options": [
+          "Wages",
+          "Interest",
+          "Dividend"
+        ],
+        "answer": "Wages"
+      },
+      {
+        "question": "What term labels a sustained rise in general price levels?",
+        "options": [
+          "Inflation",
+          "Recession",
+          "Deflation"
+        ],
+        "answer": "Inflation"
+      },
+      {
+        "question": "What is the economic term for a prolonged fall in economic activity?",
+        "options": [
+          "Recession",
+          "Boom",
+          "Stagnation"
+        ],
+        "answer": "Recession"
+      },
+      {
+        "question": "What name describes the benefit forgone when choosing one option over another?",
+        "options": [
+          "Opportunity cost",
+          "Sunk cost",
+          "Fixed cost"
+        ],
+        "answer": "Opportunity cost"
+      },
+      {
+        "question": "What term means total output produced per worker or per hour?",
+        "options": [
+          "Productivity",
+          "Liquidity",
+          "Turnover"
+        ],
+        "answer": "Productivity"
+      },
+      {
+        "question": "Which term is used for goods that are rival and excludable?",
+        "options": [
+          "Private goods",
+          "Public goods",
+          "Common goods"
+        ],
+        "answer": "Private goods"
+      },
+      {
+        "question": "What term describes government transfers to individuals without goods received?",
+        "options": [
+          "Welfare",
+          "Investment",
+          "Export"
+        ],
+        "answer": "Welfare"
+      },
+      {
+        "question": "What is the term for revenue minus explicit costs?",
+        "options": [
+          "Accounting profit",
+          "Economic profit",
+          "Gross revenue"
+        ],
+        "answer": "Accounting profit"
+      },
+      {
+        "question": "What term describes the responsiveness of demand to price changes?",
+        "options": [
+          "Price elasticity of demand",
+          "Income elasticity",
+          "Cross-price elasticity"
+        ],
+        "answer": "Price elasticity of demand"
+      },
+      {
+        "question": "What term refers to the ability to buy goods and services?",
+        "options": [
+          "Purchasing power",
+          "Market power",
+          "Bargaining power"
+        ],
+        "answer": "Purchasing power"
+      },
+      {
+        "question": "Which term denotes the first buyer preference for a new good or trend?",
+        "options": [
+          "Early adopter",
+          "Late majority",
+          "Laggard"
+        ],
+        "answer": "Early adopter"
+      },
+      {
+        "question": "What is the term for items consumed together, like coffee and sugar?",
+        "options": [
+          "Complementary goods",
+          "Substitute goods",
+          "Inferior goods"
+        ],
+        "answer": "Complementary goods"
+      },
+      {
+        "question": "What term labels goods people buy more of as income rises?",
+        "options": [
+          "Normal goods",
+          "Inferior goods",
+          "Luxury goods"
+        ],
+        "answer": "Normal goods"
+      },
+      {
+        "question": "Which term means goods people buy less of as income rises?",
+        "options": [
+          "Inferior goods",
+          "Normal goods",
+          "Substitute goods"
+        ],
+        "answer": "Inferior goods"
+      },
+      {
+        "question": "What term describes a market controlled by a single seller?",
+        "options": [
+          "Monopoly",
+          "Oligopoly",
+          "Monopsony"
+        ],
+        "answer": "Monopoly"
+      },
+      {
+        "question": "What term refers to many sellers offering similar but not identical products?",
+        "options": [
+          "Monopolistic competition",
+          "Perfect competition",
+          "Oligopoly"
+        ],
+        "answer": "Monopolistic competition"
+      },
+      {
+        "question": "Which term is used for sellers coordinating prices or output illegally?",
+        "options": [
+          "Collusion",
+          "Competition",
+          "Innovation"
+        ],
+        "answer": "Collusion"
+      },
+      {
+        "question": "What is the term for costs that do not change with output?",
+        "options": [
+          "Fixed costs",
+          "Variable costs",
+          "Marginal costs"
+        ],
+        "answer": "Fixed costs"
+      },
+      {
+        "question": "What term denotes costs that change with production level?",
+        "options": [
+          "Variable costs",
+          "Fixed costs",
+          "Sunk costs"
+        ],
+        "answer": "Variable costs"
+      },
+      {
+        "question": "Which term describes the additional cost of producing one more unit?",
+        "options": [
+          "Marginal cost",
+          "Average cost",
+          "Total cost"
+        ],
+        "answer": "Marginal cost"
+      },
+      {
+        "question": "What term refers to goods imported into a country?",
+        "options": [
+          "Imports",
+          "Exports",
+          "Tariffs"
+        ],
+        "answer": "Imports"
+      },
+      {
+        "question": "Which term identifies goods sold to other countries?",
+        "options": [
+          "Exports",
+          "Imports",
+          "Subsidies"
+        ],
+        "answer": "Exports"
+      },
+      {
+        "question": "What is the term for a government tax on imported goods?",
+        "options": [
+          "Tariff",
+          "Quota",
+          "Subsidy"
+        ],
+        "answer": "Tariff"
+      },
+      {
+        "question": "Which term describes government financial aid to producers?",
+        "options": [
+          "Subsidy",
+          "Tariff",
+          "Embargo"
+        ],
+        "answer": "Subsidy"
+      },
+      {
+        "question": "What term describes when supply equals demand at a price?",
+        "options": [
+          "Market equilibrium",
+          "Excess supply",
+          "Price ceiling"
+        ],
+        "answer": "Market equilibrium"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What term describes the graph showing combinations of two goods an economy can produce?",
+        "options": [
+          "Production possibility frontier",
+          "Demand curve",
+          "Supply curve"
+        ],
+        "answer": "Production possibility frontier"
+      },
+      {
+        "question": "Which term refers to resources not paid for by market prices, like clean air?",
+        "options": [
+          "Externality",
+          "Public good",
+          "Private good"
+        ],
+        "answer": "Externality"
+      },
+      {
+        "question": "What is the term for a market failure where one party has more information than another?",
+        "options": [
+          "Information asymmetry",
+          "Moral hazard",
+          "Adverse selection"
+        ],
+        "answer": "Information asymmetry"
+      },
+      {
+        "question": "Which term defines payment to capital owners for use of capital?",
+        "options": [
+          "Interest",
+          "Dividend",
+          "Rent"
+        ],
+        "answer": "Interest"
+      },
+      {
+        "question": "What term describes demand that increases as income rises more than proportionally?",
+        "options": [
+          "Luxury good",
+          "Inferior good",
+          "Normal good"
+        ],
+        "answer": "Luxury good"
+      },
+      {
+        "question": "Which term measures responsiveness of supply to price changes?",
+        "options": [
+          "Price elasticity of supply",
+          "Income elasticity of demand",
+          "Cross-price elasticity"
+        ],
+        "answer": "Price elasticity of supply"
+      },
+      {
+        "question": "What is the term for long-run average cost decreasing as output rises?",
+        "options": [
+          "Economies of scale",
+          "Diminishing returns",
+          "Diseconomies of scale"
+        ],
+        "answer": "Economies of scale"
+      },
+      {
+        "question": "Which term describes a good with no close substitutes and strong brand loyalty?",
+        "options": [
+          "Inelastic good",
+          "Perfect substitute",
+          "Complementary good"
+        ],
+        "answer": "Inelastic good"
+      },
+      {
+        "question": "What term is used for the additional output from adding one more worker holding capital fixed?",
+        "options": [
+          "Marginal product of labor",
+          "Average product",
+          "Total product"
+        ],
+        "answer": "Marginal product of labor"
+      },
+      {
+        "question": "Which term describes a government's reduction in spending or increase in taxes?",
+        "options": [
+          "Contractionary fiscal policy",
+          "Expansionary monetary policy",
+          "Quantitative easing"
+        ],
+        "answer": "Contractionary fiscal policy"
+      },
+      {
+        "question": "What term names a legal restriction on quantity of imports?",
+        "options": [
+          "Quota",
+          "Tariff",
+          "Subsidy"
+        ],
+        "answer": "Quota"
+      },
+      {
+        "question": "Which term describes a systemic fall in general price level?",
+        "options": [
+          "Deflation",
+          "Disinflation",
+          "Stagflation"
+        ],
+        "answer": "Deflation"
+      },
+      {
+        "question": "What term labels the benefit to society from an individual's investment, like education?",
+        "options": [
+          "Positive externality",
+          "Negative externality",
+          "Public good"
+        ],
+        "answer": "Positive externality"
+      },
+      {
+        "question": "Which term refers to buyers' and sellers' willingness to trade at different prices?",
+        "options": [
+          "Market demand and supply",
+          "Consumer surplus",
+          "Producer surplus"
+        ],
+        "answer": "Market demand and supply"
+      },
+      {
+        "question": "What term describes a market where firms set prices and face downward-sloping demand?",
+        "options": [
+          "Monopolistic competition",
+          "Perfect competition",
+          "Oligopoly"
+        ],
+        "answer": "Monopolistic competition"
+      },
+      {
+        "question": "Which term describes when inflation and unemployment rise together?",
+        "options": [
+          "Stagflation",
+          "Hyperinflation",
+          "Deflation"
+        ],
+        "answer": "Stagflation"
+      },
+      {
+        "question": "What term defines a tax that takes a larger percentage from high-income earners?",
+        "options": [
+          "Progressive tax",
+          "Regressive tax",
+          "Proportional tax"
+        ],
+        "answer": "Progressive tax"
+      },
+      {
+        "question": "Which term measures total output per unit of input across an economy?",
+        "options": [
+          "Total factor productivity",
+          "Labor force participation",
+          "Gross margin"
+        ],
+        "answer": "Total factor productivity"
+      },
+      {
+        "question": "What is the term for firm behavior where companies follow a price leader?",
+        "options": [
+          "Price leadership",
+          "Price discrimination",
+          "Predatory pricing"
+        ],
+        "answer": "Price leadership"
+      },
+      {
+        "question": "Which term denotes price discrimination based on customer willingness to pay?",
+        "options": [
+          "First-degree price discrimination",
+          "Uniform pricing",
+          "Perfect competition"
+        ],
+        "answer": "First-degree price discrimination"
+      },
+      {
+        "question": "What term describes government spending programs to influence economy?",
+        "options": [
+          "Fiscal policy",
+          "Monetary policy",
+          "Trade policy"
+        ],
+        "answer": "Fiscal policy"
+      },
+      {
+        "question": "Which term refers to central bank actions to control money supply?",
+        "options": [
+          "Monetary policy",
+          "Fiscal policy",
+          "Regulatory policy"
+        ],
+        "answer": "Monetary policy"
+      },
+      {
+        "question": "What term means a market with few firms dominating output?",
+        "options": [
+          "Oligopoly",
+          "Monopoly",
+          "Perfect competition"
+        ],
+        "answer": "Oligopoly"
+      },
+      {
+        "question": "Which term describes costs that must be paid even if production stops?",
+        "options": [
+          "Sunk costs",
+          "Variable costs",
+          "Marginal costs"
+        ],
+        "answer": "Sunk costs"
+      },
+      {
+        "question": "What term labels the extra output from increasing all inputs proportionally?",
+        "options": [
+          "Returns to scale",
+          "Marginal returns",
+          "Average returns"
+        ],
+        "answer": "Returns to scale"
+      },
+      {
+        "question": "Which term refers to currency value relative to others?",
+        "options": [
+          "Exchange rate",
+          "Inflation rate",
+          "Interest rate"
+        ],
+        "answer": "Exchange rate"
+      },
+      {
+        "question": "What is the term for trade barriers that aim to protect domestic industries?",
+        "options": [
+          "Protectionism",
+          "Free trade",
+          "Globalization"
+        ],
+        "answer": "Protectionism"
+      },
+      {
+        "question": "Which term describes the lost welfare when tariffs reduce trade volume?",
+        "options": [
+          "Deadweight loss",
+          "Producer surplus",
+          "Consumer surplus"
+        ],
+        "answer": "Deadweight loss"
+      },
+      {
+        "question": "What term identifies goods that can replace each other in consumption?",
+        "options": [
+          "Substitute goods",
+          "Complementary goods",
+          "Inferior goods"
+        ],
+        "answer": "Substitute goods"
+      },
+      {
+        "question": "Which term refers to government limits on lending conditions to manage risk?",
+        "options": [
+          "Macroprudential regulation",
+          "Monetary easing",
+          "Fiscal consolidation"
+        ],
+        "answer": "Macroprudential regulation"
+      },
+      {
+        "question": "What term describes income adjusted for inflation?",
+        "options": [
+          "Real income",
+          "Nominal income",
+          "Disposable income"
+        ],
+        "answer": "Real income"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the term for a market structure with one buyer and many sellers?",
+        "options": [
+          "Monopsony",
+          "Oligopsony",
+          "Monopoly"
+        ],
+        "answer": "Monopsony"
+      },
+      {
+        "question": "Which term describes when marginal cost equals marginal revenue in profit maximization?",
+        "options": [
+          "Optimal output condition",
+          "Break-even point",
+          "Shutdown condition"
+        ],
+        "answer": "Optimal output condition"
+      },
+      {
+        "question": "What term denotes a tax designed to correct negative externalities?",
+        "options": [
+          "Pigovian tax",
+          "Lump-sum tax",
+          "Progressive tax"
+        ],
+        "answer": "Pigovian tax"
+      },
+      {
+        "question": "Which term describes when a firm charges different prices to different consumer groups?",
+        "options": [
+          "Third-degree price discrimination",
+          "First-degree price discrimination",
+          "Second-degree price discrimination"
+        ],
+        "answer": "Third-degree price discrimination"
+      },
+      {
+        "question": "What term refers to the reduction in costs per unit from technological change separate from scale?",
+        "options": [
+          "Technical progress",
+          "Economies of scale",
+          "Learning by doing"
+        ],
+        "answer": "Technical progress"
+      },
+      {
+        "question": "Which term names the curve showing total welfare loss from monopoly pricing?",
+        "options": [
+          "Harberger triangle",
+          "Lorenz curve",
+          "Laffer curve"
+        ],
+        "answer": "Harberger triangle"
+      },
+      {
+        "question": "What is the term for trade pattern where countries specialize based on comparative advantage?",
+        "options": [
+          "Ricardian specialization",
+          "Absolute advantage",
+          "Infant industry"
+        ],
+        "answer": "Ricardian specialization"
+      },
+      {
+        "question": "Which term denotes welfare transfers where higher-income individuals benefit less proportionally?",
+        "options": [
+          "Regressive transfer",
+          "Progressive transfer",
+          "Proportional transfer"
+        ],
+        "answer": "Regressive transfer"
+      },
+      {
+        "question": "What term describes equilibrium in game theory where no player benefits from changing strategy?",
+        "options": [
+          "Nash equilibrium",
+          "Pareto optimum",
+          "Dominant strategy"
+        ],
+        "answer": "Nash equilibrium"
+      },
+      {
+        "question": "Which term describes diminishing additional output when a variable input increases with fixed inputs?",
+        "options": [
+          "Law of diminishing marginal returns",
+          "Constant returns to scale",
+          "Increasing returns to scale"
+        ],
+        "answer": "Law of diminishing marginal returns"
+      },
+      {
+        "question": "What term refers to a situation where private markets undersupply goods with positive externalities?",
+        "options": [
+          "Market failure",
+          "Supply shock",
+          "Price floor"
+        ],
+        "answer": "Market failure"
+      },
+      {
+        "question": "Which term describes the value of the next-best forgone alternative in resource allocation?",
+        "options": [
+          "Opportunity cost",
+          "Accounting cost",
+          "Marginal cost"
+        ],
+        "answer": "Opportunity cost"
+      },
+      {
+        "question": "What term denotes a schedule of prices for different quantities sold to different groups?",
+        "options": [
+          "Nonlinear pricing",
+          "Uniform pricing",
+          "Bundling"
+        ],
+        "answer": "Nonlinear pricing"
+      },
+      {
+        "question": "Which term labels a tax system with the same percentage tax for all incomes?",
+        "options": [
+          "Proportional tax",
+          "Progressive tax",
+          "Regressive tax"
+        ],
+        "answer": "Proportional tax"
+      },
+      {
+        "question": "What is the term for income after taxes and transfers?",
+        "options": [
+          "Disposable income",
+          "Gross income",
+          "Real income"
+        ],
+        "answer": "Disposable income"
+      },
+      {
+        "question": "Which term describes the time-inconsistent behavior where present bias affects decisions?",
+        "options": [
+          "Hyperbolic discounting",
+          "Exponential discounting",
+          "Rational expectations"
+        ],
+        "answer": "Hyperbolic discounting"
+      },
+      {
+        "question": "What term refers to the difference between actual and potential GDP?",
+        "options": [
+          "Output gap",
+          "Trade gap",
+          "Budget gap"
+        ],
+        "answer": "Output gap"
+      },
+      {
+        "question": "Which term defines prices set above market equilibrium by government law?",
+        "options": [
+          "Price floor",
+          "Price ceiling",
+          "Voucher pricing"
+        ],
+        "answer": "Price floor"
+      },
+      {
+        "question": "What term denotes a policy that increases money supply via central bank asset purchases?",
+        "options": [
+          "Quantitative easing",
+          "Open market sale",
+          "Tightening"
+        ],
+        "answer": "Quantitative easing"
+      },
+      {
+        "question": "Which term describes a firm's pricing strategy to maximize profit by equating marginal revenue and marginal cost?",
+        "options": [
+          "Profit maximization rule",
+          "Break-even pricing",
+          "Cost-plus pricing"
+        ],
+        "answer": "Profit maximization rule"
+      },
+      {
+        "question": "What term identifies goods with network effects, where value rises with users?",
+        "options": [
+          "Network goods",
+          "Giffen goods",
+          "Inferior goods"
+        ],
+        "answer": "Network goods"
+      },
+      {
+        "question": "Which term refers to a decline in productivity growth due to misallocation of resources?",
+        "options": [
+          "Secular stagnation",
+          "Creative destruction",
+          "Crowding out"
+        ],
+        "answer": "Secular stagnation"
+      },
+      {
+        "question": "What term labels a tax whose burden falls more heavily on lower-income households?",
+        "options": [
+          "Regressive tax",
+          "Progressive tax",
+          "Flat tax"
+        ],
+        "answer": "Regressive tax"
+      },
+      {
+        "question": "Which term describes when trade liberalization leads to short-term job losses in sectors?",
+        "options": [
+          "Structural adjustment",
+          "Quantitative easing",
+          "Monetization"
+        ],
+        "answer": "Structural adjustment"
+      },
+      {
+        "question": "What term refers to monopolies that emerge due to high fixed costs and low marginal costs?",
+        "options": [
+          "Natural monopoly",
+          "State monopoly",
+          "Cartel"
+        ],
+        "answer": "Natural monopoly"
+      },
+      {
+        "question": "Which term describes the phenomenon where increased inflation expectations raise actual inflation?",
+        "options": [
+          "Adaptive expectations",
+          "Rational expectations",
+          "Sticky expectations"
+        ],
+        "answer": "Adaptive expectations"
+      },
+      {
+        "question": "What term denotes the elasticity of tax revenue to changes in tax rate, often shown on Laffer curve?",
+        "options": [
+          "Revenue elasticity",
+          "Income elasticity",
+          "Price elasticity"
+        ],
+        "answer": "Revenue elasticity"
+      },
+      {
+        "question": "Which term identifies a market where asymmetric information leads sellers to withdraw high-quality goods?",
+        "options": [
+          "Adverse selection",
+          "Moral hazard",
+          "Signaling"
+        ],
+        "answer": "Adverse selection"
+      },
+      {
+        "question": "What term refers to policy where government borrowing reduces available private investment?",
+        "options": [
+          "Crowding out",
+          "Crowding in",
+          "Ricardian equivalence"
+        ],
+        "answer": "Crowding out"
+      },
+      {
+        "question": "Which term describes when a single firm supplies an entire market at lower cost than many?",
+        "options": [
+          "Natural monopoly",
+          "Perfect competition",
+          "Oligopoly"
+        ],
+        "answer": "Natural monopoly"
+      },
+      {
+        "question": "What is the term for a tax on transactions to reduce speculative trading?",
+        "options": [
+          "Tobin tax",
+          "Carbon tax",
+          "Pigovian tax"
+        ],
+        "answer": "Tobin tax"
+      },
+      {
+        "question": "Which term denotes measurement of income inequality within a population?",
+        "options": [
+          "Gini coefficient",
+          "Herfindahl index",
+          "CPI"
+        ],
+        "answer": "Gini coefficient"
+      },
+      {
+        "question": "What term describes companies using price cuts to drive competitors out, then raising prices?",
+        "options": [
+          "Predatory pricing",
+          "Price discrimination",
+          "Monopolistic competition"
+        ],
+        "answer": "Predatory pricing"
+      },
+      {
+        "question": "Which term refers to when short-term nominal wages do not adjust quickly to changes in prices?",
+        "options": [
+          "Wage stickiness",
+          "Price flexibility",
+          "Labor mobility"
+        ],
+        "answer": "Wage stickiness"
+      },
+      {
+        "question": "What term identifies goods whose demand rises as their price rises, violating law of demand?",
+        "options": [
+          "Giffen goods",
+          "Veblen goods",
+          "Normal goods"
+        ],
+        "answer": "Giffen goods"
+      },
+      {
+        "question": "Which term describes an equilibrium where no reallocation can make someone better off without making another worse off?",
+        "options": [
+          "Pareto efficiency",
+          "Nash equilibrium",
+          "Kaldor-Hicks efficiency"
+        ],
+        "answer": "Pareto efficiency"
+      }
+    ]
+  }
+}

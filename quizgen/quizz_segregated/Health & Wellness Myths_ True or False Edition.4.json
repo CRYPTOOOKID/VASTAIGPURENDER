@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which claim about gluten-free diets is accurate?",
+      "options": [
+        "Gluten-free diets cure all digestive issues",
+        "Everyone benefits from a gluten-free diet",
+        "Only people with celiac disease or sensitivity need gluten-free diets"
+      ],
+      "answer": "Only people with celiac disease or sensitivity need gluten-free diets"
+    },
+    {
+      "question_id": 2,
+      "question": "Which explanation about intermittent fasting and weight loss is accurate?",
+      "options": [
+        "Intermittent fasting always outperforms calorie control for everyone",
+        "Intermittent fasting can aid weight loss but works primarily through calorie reduction",
+        "Fasting guarantees muscle gain without training"
+      ],
+      "answer": "Intermittent fasting can aid weight loss but works primarily through calorie reduction"
+    },
+    {
+      "question_id": 3,
+      "question": "Which documented public-health outcome followed anti-vaccine misinformation outbreaks?",
+      "options": [
+        "Measles and pertussis outbreaks increased in areas with declining vaccination rates",
+        "Vaccine refusal eliminated infectious disease risk",
+        "Anti-vaccine messages had no impact on disease incidence"
+      ],
+      "answer": "Measles and pertussis outbreaks increased in areas with declining vaccination rates"
+    },
+    {
+      "question_id": 4,
+      "question": "Which claim about eating fat is supported by modern nutrition science?",
+      "options": [
+        "Healthy fats are essential and can support weight management",
+        "Fat-free foods are always healthiest",
+        "All dietary fat directly causes obesity"
+      ],
+      "answer": "Healthy fats are essential and can support weight management"
+    },
+    {
+      "question_id": 5,
+      "question": "Which statement about charcoal detox pills reflects regulatory guidance?",
+      "options": [
+        "Activated charcoal can interfere with medications and lacks broad detox evidence",
+        "Charcoal adds essential nutrients to the body",
+        "Activated charcoal supplements safely remove all internal toxins daily"
+      ],
+      "answer": "Activated charcoal can interfere with medications and lacks broad detox evidence"
+    },
+    {
+      "question_id": 6,
+      "question": "Which documented policy reduced false health claims in advertising historically?",
+      "options": [
+        "Stricter advertising regulations and enforcement reduced misleading supplement claims in several jurisdictions",
+        "Regulators encouraged false health claims for economic growth",
+        "No regulation ever affected advertising practices"
+      ],
+      "answer": "Stricter advertising regulations and enforcement reduced misleading supplement claims in several jurisdictions"
+    },
+    {
+      "question_id": 7,
+      "question": "Which statement reflects the truth about vaccines and autism?",
+      "options": [
+        "Only certain vaccines cause autism",
+        "Vaccines cause autism",
+        "Extensive research shows no causal link between vaccines and autism"
+      ],
+      "answer": "Extensive research shows no causal link between vaccines and autism"
+    },
+    {
+      "question_id": 8,
+      "question": "Which claim about consuming carrots and beta-carotene is accurate?",
+      "options": [
+        "Beta-carotene poisoning causes immediate blindness",
+        "Excessive beta-carotene causes orange skin but not the same effects as vitamin A toxicity",
+        "Carrots contain dangerous levels of animal vitamin A"
+      ],
+      "answer": "Excessive beta-carotene causes orange skin but not the same effects as vitamin A toxicity"
+    },
+    {
+      "question_id": 9,
+      "question": "Which biochemical fact explains why cholesterol in eggs has limited impact for most people?",
+      "options": [
+        "Dietary cholesterol is the sole determinant of blood cholesterol",
+        "Dietary cholesterol has a smaller effect on blood cholesterol than saturated fat in many individuals",
+        "Cholesterol from eggs evaporates during cooking"
+      ],
+      "answer": "Dietary cholesterol has a smaller effect on blood cholesterol than saturated fat in many individuals"
+    },
+    {
+      "question_id": 10,
+      "question": "Which idea about sleep needs is supported by research?",
+      "options": [
+        "Individual sleep needs vary between about 6 and 9 hours for adults",
+        "Less than five hours is healthy for most adults",
+        "Everyone needs exactly eight hours of sleep nightly"
+      ],
+      "answer": "Individual sleep needs vary between about 6 and 9 hours for adults"
+    },
+    {
+      "question_id": 11,
+      "question": "Which claim about HPV vaccine and sexual behavior aligns with research?",
+      "options": [
+        "HPV vaccination increases risky sexual behavior significantly",
+        "HPV vaccine eliminates the need for screening forever",
+        "Evidence does not show increased risky sexual behavior after HPV vaccination"
+      ],
+      "answer": "Evidence does not show increased risky sexual behavior after HPV vaccination"
+    },
+    {
+      "question_id": 12,
+      "question": "Which study type best challenges detox diet claims about toxin removal?",
+      "options": [
+        "Detox claims are proven by randomized long-term mortality reductions",
+        "Anecdotal testimonials validate rapid toxin clearance",
+        "Controlled biochemical studies show no sustained increase in toxin elimination from short detox diets"
+      ],
+      "answer": "Controlled biochemical studies show no sustained increase in toxin elimination from short detox diets"
+    },
+    {
+      "question_id": 13,
+      "question": "Which claim about stretching before exercise is most accurate?",
+      "options": [
+        "Static stretching always prevents injury before every workout",
+        "Stretching eliminates muscle soreness for days",
+        "Dynamic warm-ups better prepare muscles; static stretching has specific uses"
+      ],
+      "answer": "Dynamic warm-ups better prepare muscles; static stretching has specific uses"
+    },
+    {
+      "question_id": 14,
+      "question": "Which explanation fits the placebo effect in alternative therapies?",
+      "options": [
+        "Placebo effects produce no real symptom changes",
+        "Placebo works by altering DNA permanently",
+        "Placebo responses can cause real perceived and measurable symptom improvements"
+      ],
+      "answer": "Placebo responses can cause real perceived and measurable symptom improvements"
+    },
+    {
+      "question_id": 15,
+      "question": "Which mechanistic insight explains why antioxidant supplements sometimes harm instead of help?",
+      "options": [
+        "Antioxidants always improve cellular resilience without exception",
+        "Antioxidants convert into vitamins in the body",
+        "High-dose antioxidants can disrupt redox signaling and blunt adaptive responses to stress"
+      ],
+      "answer": "High-dose antioxidants can disrupt redox signaling and blunt adaptive responses to stress"
+    }
+  ]
+}

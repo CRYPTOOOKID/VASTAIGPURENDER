@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a target market in marketing terms?",
+      "options": [
+        "Specific group of customers a company aims to serve",
+        "Maximum sales goal for the year",
+        "Total number of competitors in a sector"
+      ],
+      "answer": "Specific group of customers a company aims to serve"
+    },
+    {
+      "question_id": 2,
+      "question": "What does working capital equal in basic accounting terms?",
+      "options": [
+        "Current assets minus current liabilities",
+        "Total assets minus shareholders' equity",
+        "Net income minus dividends"
+      ],
+      "answer": "Current assets minus current liabilities"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the primary risk hedged using currency forwards?",
+      "options": [
+        "Interest rate changes on domestic loans",
+        "Credit risk of a supplier",
+        "Future exchange rate fluctuations"
+      ],
+      "answer": "Future exchange rate fluctuations"
+    },
+    {
+      "question_id": 4,
+      "question": "What does IPO stand for in finance and business?",
+      "options": [
+        "Internal Profit Optimization",
+        "Initial Public Offering",
+        "Inventory Purchase Order"
+      ],
+      "answer": "Initial Public Offering"
+    },
+    {
+      "question_id": 5,
+      "question": "Which economist developed the concept of comparative advantage?",
+      "options": [
+        "David Ricardo",
+        "John Maynard Keynes",
+        "Adam Smith"
+      ],
+      "answer": "David Ricardo"
+    },
+    {
+      "question_id": 6,
+      "question": "What does GAAP stand for in accounting standards?",
+      "options": [
+        "Global Accounting Authority Protocol",
+        "General Audit and Accounting Policy",
+        "Generally Accepted Accounting Principles"
+      ],
+      "answer": "Generally Accepted Accounting Principles"
+    },
+    {
+      "question_id": 7,
+      "question": "What is inventory turnover a measure of?",
+      "options": [
+        "How quickly inventory is sold and replaced",
+        "Percentage of defective products returned",
+        "Number of suppliers a company uses"
+      ],
+      "answer": "How quickly inventory is sold and replaced"
+    },
+    {
+      "question_id": 8,
+      "question": "What is operating leverage in financial analysis?",
+      "options": [
+        "Speed of inventory replenishment",
+        "Degree to which fixed costs magnify profit changes",
+        "Extent of company outsourcing decisions"
+      ],
+      "answer": "Degree to which fixed costs magnify profit changes"
+    },
+    {
+      "question_id": 9,
+      "question": "What is a conglomerate discount observed in capital markets?",
+      "options": [
+        "Premium applied when conglomerates divest assets for cash",
+        "Tax benefit available only to conglomerate structures",
+        "Market values diversified conglomerates below sum-of-parts due to complexity"
+      ],
+      "answer": "Market values diversified conglomerates below sum-of-parts due to complexity"
+    },
+    {
+      "question_id": 10,
+      "question": "What is cash flow from operations?",
+      "options": [
+        "Cash spent on purchasing equipment",
+        "Cash generated from core business activities",
+        "Cash received from selling company assets"
+      ],
+      "answer": "Cash generated from core business activities"
+    },
+    {
+      "question_id": 11,
+      "question": "What does customer lifetime value (LTV) represent?",
+      "options": [
+        "Average customer wait time for support",
+        "Projected profit from a customer over the entire relationship",
+        "Immediate revenue from the first purchase"
+      ],
+      "answer": "Projected profit from a customer over the entire relationship"
+    },
+    {
+      "question_id": 12,
+      "question": "What does accretive acquisition mean for earnings per share?",
+      "options": [
+        "Transaction eliminates all existing debt",
+        "Transaction causes immediate goodwill impairment",
+        "Transaction increases the buyer's EPS"
+      ],
+      "answer": "Transaction increases the buyer's EPS"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a franchise in business terms?",
+      "options": [
+        "Merging two companies into one legal entity",
+        "Buying raw materials in bulk",
+        "Licensing a business model and brand to independent operators"
+      ],
+      "answer": "Licensing a business model and brand to independent operators"
+    },
+    {
+      "question_id": 14,
+      "question": "What defines economies of scale in operations?",
+      "options": [
+        "Price increases as demand decreases",
+        "Unit cost decreases as production volume increases",
+        "Inventory spoilage rates rising with production"
+      ],
+      "answer": "Unit cost decreases as production volume increases"
+    },
+    {
+      "question_id": 15,
+      "question": "What does the term 'skin in the game' imply for executives?",
+      "options": [
+        "Executives receive only symbolic awards without financial risk",
+        "Executives hold meaningful personal financial exposure tied to outcomes",
+        "Executives avoid ownership to reduce tax obligations"
+      ],
+      "answer": "Executives hold meaningful personal financial exposure tied to outcomes"
+    }
+  ]
+}

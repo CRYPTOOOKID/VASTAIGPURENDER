@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an area code in telephone numbering?",
+      "options": [
+        "A three-digit code designating a geographic calling region",
+        "A two-digit country identifier for international calls",
+        "A sequence that routes calls to voicemail systems"
+      ],
+      "answer": "A three-digit code designating a geographic calling region"
+    },
+    {
+      "question_id": 2,
+      "question": "Which prefix sequence often indicates an international direct dial from mobile phones worldwide?",
+      "options": [
+        "The plus sign (+)",
+        "Double zero (00)",
+        "One-one-one (111)"
+      ],
+      "answer": "The plus sign (+)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Caribbean country uses country code +1 242 under the NANP?",
+      "options": [
+        "The Bahamas",
+        "Barbados",
+        "Belize"
+      ],
+      "answer": "The Bahamas"
+    },
+    {
+      "question_id": 4,
+      "question": "Which area code is strongly associated with downtown Chicago, Illinois?",
+      "options": [
+        "312",
+        "213",
+        "415"
+      ],
+      "answer": "312"
+    },
+    {
+      "question_id": 5,
+      "question": "Which organization assigns international country calling codes?",
+      "options": [
+        "International Telecommunication Union (ITU)",
+        "Internet Assigned Numbers Authority (IANA)",
+        "European Telecommunications Standards Institute (ETSI)"
+      ],
+      "answer": "International Telecommunication Union (ITU)"
+    },
+    {
+      "question_id": 6,
+      "question": "In the original 1947 NANP design, what did a middle digit of 0 indicate for an area code?",
+      "options": [
+        "The area code covered an entire state or province",
+        "The area code was reserved for mobile services",
+        "The area code was for toll-free numbers"
+      ],
+      "answer": "The area code covered an entire state or province"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country uses the calling code +380?",
+      "options": [
+        "Ukraine",
+        "United Kingdom",
+        "Uruguay"
+      ],
+      "answer": "Ukraine"
+    },
+    {
+      "question_id": 8,
+      "question": "What is an overlay plan for area codes?",
+      "options": [
+        "Introducing a new area code that covers the same geographic area",
+        "Splitting a region into two separate area codes",
+        "Merging adjacent area codes into one"
+      ],
+      "answer": "Introducing a new area code that covers the same geographic area"
+    },
+    {
+      "question_id": 9,
+      "question": "Which North American area code covers southern Nevada, including Las Vegas?",
+      "options": [
+        "702",
+        "313",
+        "408"
+      ],
+      "answer": "702"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses country code +91?",
+      "options": [
+        "India",
+        "Italy",
+        "Indonesia"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 11,
+      "question": "Which North American area code was originally assigned to nearly all of California's Bay Area?",
+      "options": [
+        "415",
+        "310",
+        "702"
+      ],
+      "answer": "415"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country uses the dialing code +351 and requires a trunk prefix 0 for domestic long-distance?",
+      "options": [
+        "Portugal",
+        "Poland",
+        "Panama"
+      ],
+      "answer": "Portugal"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country uses the calling code +49?",
+      "options": [
+        "Germany",
+        "Greece",
+        "Guatemala"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 14,
+      "question": "What is number pooling in telephone number management?",
+      "options": [
+        "Allocating blocks of numbers in smaller increments to carriers",
+        "Merging carriers’ number ranges into one pool",
+        "Sharing a single area code among multiple countries"
+      ],
+      "answer": "Allocating blocks of numbers in smaller increments to carriers"
+    },
+    {
+      "question_id": 15,
+      "question": "Which change often requires public education campaigns when new area codes are implemented?",
+      "options": [
+        "Mandatory ten-digit dialing and updated printed materials",
+        "Reduction of international prefixes",
+        "Conversion of mobile numbers to landline format"
+      ],
+      "answer": "Mandatory ten-digit dialing and updated printed materials"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What element is the primary component of organic compounds?",
+      "options": [
+        "Carbon",
+        "Helium",
+        "Neon"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 2,
+      "question": "Which compound is a greenhouse gas with a global warming potential higher than CO2 and contains fluorine?",
+      "options": [
+        "Sulfur hexafluoride",
+        "Methane",
+        "Nitrous oxide"
+      ],
+      "answer": "Sulfur hexafluoride"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare earth element is critical in permanent magnets for electric motors (e.g., NdFeB magnets)?",
+      "options": [
+        "Neodymium",
+        "Lanthanum",
+        "Europium"
+      ],
+      "answer": "Neodymium"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element is the main component of coal and hydrocarbons?",
+      "options": [
+        "Carbon",
+        "Calcium",
+        "Chlorine"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 5,
+      "question": "Which compound has the IUPAC name sodium chloride?",
+      "options": [
+        "Table salt",
+        "Baking soda",
+        "Epsom salt"
+      ],
+      "answer": "Table salt"
+    },
+    {
+      "question_id": 6,
+      "question": "Which compound's crystalline form, rutile, is a major ore of titanium dioxide used in pigments?",
+      "options": [
+        "TiO2",
+        "Fe2O3",
+        "Al2O3"
+      ],
+      "answer": "TiO2"
+    },
+    {
+      "question_id": 7,
+      "question": "What element gives table salt its sodium component?",
+      "options": [
+        "Potassium",
+        "Sodium",
+        "Sulfur"
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 8,
+      "question": "Which element's allotropes include white, red, and black varieties and is used in matches?",
+      "options": [
+        "Phosphorus",
+        "Carbon",
+        "Sulfur"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "question_id": 9,
+      "question": "Which element exhibits multiple oxidation states commonly -2, +2, +4 and forms the basis of organic functional groups?",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Sulfur"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the chemical formula for carbon dioxide?",
+      "options": [
+        "CO2",
+        "CO",
+        "C2O"
+      ],
+      "answer": "CO2"
+    },
+    {
+      "question_id": 11,
+      "question": "Which element was discovered in 1898 and later named francium, the second rarest naturally occurring element?",
+      "options": [
+        "Francium",
+        "Radon",
+        "Polonium"
+      ],
+      "answer": "Francium"
+    },
+    {
+      "question_id": 12,
+      "question": "Which compound is the primary active ingredient in ozone-depleting substances historically called halons?",
+      "options": [
+        "Bromotrifluoromethane",
+        "Chloroform",
+        "Methane"
+      ],
+      "answer": "Bromotrifluoromethane"
+    },
+    {
+      "question_id": 13,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Iron",
+        "Silver"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the primary industrial use of sulfuric acid?",
+      "options": [
+        "Fertilizer production",
+        "Food seasoning",
+        "Textile dyeing"
+      ],
+      "answer": "Fertilizer production"
+    },
+    {
+      "question_id": 15,
+      "question": "Which compound displays hydrogen bonding and has a boiling point anomalously high for its molar mass: ammonia or water?",
+      "options": [
+        "Water",
+        "Ammonia",
+        "Methane"
+      ],
+      "answer": "Water"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'habeas corpus' traditionally protect?"
+    },
+    {
+      "question_id": 2,
+      "question": "What legal doctrine lets courts ignore corporate separation for fairness?"
+    },
+    {
+      "question_id": 3,
+      "question": "What doctrine addresses liability when multiple defendants contribute to harm but identity unknown?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'due diligence' in legal practice?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'contributory negligence' effect in some jurisdictions?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which doctrine allows courts to enforce foreign judgments domestically?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is an 'injunction'?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'mens rea' describe in criminal law?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which doctrine bars evidence derived from illegal searches?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'equity' mean in law?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'res ipsa loquitur' used to infer?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'forum non conveniens' doctrine about?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'voir dire' refer to?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which standard requires proof beyond a reasonable doubt?"
+    },
+    {
+      "question_id": 15,
+      "question": "What distinguishes 'constructive dismissal' in employment law?"
+    }
+  ]
+}

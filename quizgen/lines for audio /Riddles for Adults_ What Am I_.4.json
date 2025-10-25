@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a simple example of a \"What am I?\" riddle answer?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of these is a famous historical riddle style used by adults?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced constraint increases a riddle's craft value?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which of these makes a riddle unfair?"
+    },
+    {
+      "question_id": 5,
+      "question": "If a riddle says \"I have teeth but cannot bite,\" which fits best?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I turn once, what is out will not get in; I turn again, what is in will not get out\"?"
+    },
+    {
+      "question_id": 7,
+      "question": "How should answers be revealed in a casual riddle game?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which of these is an example of a riddle using paradox to mislead?"
+    },
+    {
+      "question_id": 9,
+      "question": "What answer fits: \"I shrink as you feed me but grow when ignored\"?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which topic is appropriate for adult \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which form of misdirection is subtler in adult riddles?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which meta-quality makes a riddle collection lasting for enthusiasts?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a classic analogy used in many \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phrase best describes a riddle that deliberately misdirects readers?"
+    },
+    {
+      "question_id": 15,
+      "question": "What historical use of riddles elevated social status in some cultures?"
+    }
+  ]
+}

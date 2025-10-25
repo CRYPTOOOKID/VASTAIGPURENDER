@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Great Wall, Beijing, pandas — Which country?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Lake Baikal, Trans-Siberian Railway, Siberia — Which country?",
+      "options": [
+        "Russia",
+        "Mongolia",
+        "Kazakhstan"
+      ],
+      "answer": "Russia"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Baltic amber deposits, Hill of Crosses pilgrimage, Vilnius Old Town — Which country?",
+      "options": [
+        "Estonia",
+        "Latvia",
+        "Lithuania"
+      ],
+      "answer": "Lithuania"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: K-pop, kimchi, Seoul — Which country?",
+      "options": [
+        "South Korea",
+        "North Korea",
+        "Japan"
+      ],
+      "answer": "South Korea"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Sahara, Atlas Mountains, Casablanca — Which country?",
+      "options": [
+        "Morocco",
+        "Algeria",
+        "Tunisia"
+      ],
+      "answer": "Morocco"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Balkan coastlines, Bay of Kotor, Montenegrin independence 2006 — Which country?",
+      "options": [
+        "Croatia",
+        "Albania",
+        "Montenegro"
+      ],
+      "answer": "Montenegro"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Fjords, Oslo, Viking history — Which country?",
+      "options": [
+        "Norway",
+        "Sweden",
+        "Finland"
+      ],
+      "answer": "Norway"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Mount Kilimanjaro rains, Serengeti migration, Zanzibar spice islands — Which country?",
+      "options": [
+        "Kenya",
+        "Mozambique",
+        "Tanzania"
+      ],
+      "answer": "Tanzania"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Himalaya's Bhutanese Gross National Happiness policy, Thimphu capital — Which country?",
+      "options": [
+        "Bhutan Kingdom of Happiness",
+        "Nepal",
+        "Bhutan"
+      ],
+      "answer": "Bhutan"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Kilimanjaro, Swahili, Serengeti — Which country?",
+      "options": [
+        "Tanzania",
+        "Rwanda",
+        "Kenya"
+      ],
+      "answer": "Tanzania"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Zambezi River, Victoria Falls, Lusaka capital proximity — Which country?",
+      "options": [
+        "Zambia",
+        "Mozambique",
+        "Zimbabwe"
+      ],
+      "answer": "Zambia"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Maghreb country with Amazigh heritage, capital Rabat, Atlantic and Mediterranean coasts — Which country?",
+      "options": [
+        "Algeria",
+        "Tunisia",
+        "Morocco"
+      ],
+      "answer": "Morocco"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Oktoberfest, Berlin, bratwurst — Which country?",
+      "options": [
+        "Belgium",
+        "Germany",
+        "Austria"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Breton crepes, Mont Saint-Michel, Normandy — Which country?",
+      "options": [
+        "Belgium",
+        "Spain",
+        "France"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Carpathian Mountains, painted monasteries of Bukovina, Dracula literary connections — Which country?",
+      "options": [
+        "Bulgaria",
+        "Romania",
+        "Hungary"
+      ],
+      "answer": "Romania"
+    }
+  ]
+}

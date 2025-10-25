@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which financial instrument can be used to lock in future exchange rates?",
+      "options": [
+        "Forward contract",
+        "Commodity future",
+        "Equity swap"
+      ],
+      "answer": "Forward contract"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the primary use of currency swaps between central banks?",
+      "options": [
+        "To establish permanent exchange rates",
+        "Provide liquidity in foreign currency to domestic banks",
+        "To control global trade tariffs"
+      ],
+      "answer": "Provide liquidity in foreign currency to domestic banks"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the 'J-curve' effect in currency adjustment?",
+      "options": [
+        "Exports immediately triple after devaluation",
+        "Imports stop completely after currency fall",
+        "Trade balance initially worsens then improves after depreciation"
+      ],
+      "answer": "Trade balance initially worsens then improves after depreciation"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'FX volatility' refer to?",
+      "options": [
+        "Degree of variation in exchange rates",
+        "Speed of international payments",
+        "Number of currencies traded"
+      ],
+      "answer": "Degree of variation in exchange rates"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'carry trade' involve regarding currencies?",
+      "options": [
+        "Transporting cash across borders manually",
+        "Borrowing in low-rate currency to invest in higher-rate currency",
+        "Holding equal amounts of two currencies"
+      ],
+      "answer": "Borrowing in low-rate currency to invest in higher-rate currency"
+    },
+    {
+      "question_id": 6,
+      "question": "Which statistical test is commonly used to assess unit roots in exchange rate series?",
+      "options": [
+        "T-test for means",
+        "Augmented Dickey-Fuller (ADF) test",
+        "Chi-squared test for independence"
+      ],
+      "answer": "Augmented Dickey-Fuller (ADF) test"
+    },
+    {
+      "question_id": 7,
+      "question": "What effect does higher domestic inflation usually have on a currency?",
+      "options": [
+        "It tends to weaken the currency",
+        "It has no effect",
+        "It tends to strengthen the currency"
+      ],
+      "answer": "It tends to weaken the currency"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Asian financial crisis sharply affected many exchange rates in 1997-1998?",
+      "options": [
+        "Dot-com Bubble",
+        "Asian Financial Crisis",
+        "Eurozone Crisis"
+      ],
+      "answer": "Asian Financial Crisis"
+    },
+    {
+      "question_id": 9,
+      "question": "What feature distinguishes a crawling peg from a fixed peg?",
+      "options": [
+        "Crawling peg is determined by a coin flip",
+        "Crawling peg allows gradual, preannounced adjustments over time",
+        "Crawling peg fixes rate forever with no changes"
+      ],
+      "answer": "Crawling peg allows gradual, preannounced adjustments over time"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organization compiles global exchange rate statistics and provides guidance?",
+      "options": [
+        "World Trade Organization (WTO)",
+        "International Monetary Fund (IMF)",
+        "International Labour Organization (ILO)"
+      ],
+      "answer": "International Monetary Fund (IMF)"
+    },
+    {
+      "question_id": 11,
+      "question": "Which of these policies can defend a currency peg?",
+      "options": [
+        "Reducing trade barriers immediately",
+        "Lowering taxes to zero",
+        "Using foreign exchange reserves for intervention"
+      ],
+      "answer": "Using foreign exchange reserves for intervention"
+    },
+    {
+      "question_id": 12,
+      "question": "What unusual exchange-rate behavior characterizes 'fear of floating' countries?",
+      "options": [
+        "Officially floating but frequent interventions to stabilize the currency",
+        "Fully fixed rates with zero intervention",
+        "Complete absence of foreign currency transactions"
+      ],
+      "answer": "Officially floating but frequent interventions to stabilize the currency"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a fixed exchange rate system?",
+      "options": [
+        "A government pegs its currency to another currency",
+        "Exchange rates float freely with market forces",
+        "Exchange rates change daily by public referendum"
+      ],
+      "answer": "A government pegs its currency to another currency"
+    },
+    {
+      "question_id": 14,
+      "question": "Why might a central bank target a weaker currency?",
+      "options": [
+        "To boost export competitiveness",
+        "To increase import purchasing power",
+        "To reduce inflation immediately"
+      ],
+      "answer": "To boost export competitiveness"
+    },
+    {
+      "question_id": 15,
+      "question": "Which empirical method isolates causal impact of monetary shocks on exchange rates?",
+      "options": [
+        "Ordinary least squares with no controls",
+        "Structural vector autoregression (SVAR)",
+        "Simple correlation analysis"
+      ],
+      "answer": "Structural vector autoregression (SVAR)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Jharkhand?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which northeastern state capital is closest to the India-Bangladesh international border?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital city contains a major ancient university site associated with classical Indian learning traditions?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Chhattisgarh?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pair of states share Chandigarh as their common capital?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital saw a major planned relocation from a colonial-era capital in the mid-20th century?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Haryana?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state capital is located on an island in the Arabian Sea and serves a union territory as well?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital's name literally translates as 'City of Lord Ananta' in the local language?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of West Bengal?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which current state capital served as British India's capital until 1911?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which state capital became a focal point of India's textile industry and colonial trade in the 19th century?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Mizoram?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which state capital hosts a major annual kite festival on its seafront?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital was briefly the British Raj's administrative center before it moved in 1911?"
+    }
+  ]
+}

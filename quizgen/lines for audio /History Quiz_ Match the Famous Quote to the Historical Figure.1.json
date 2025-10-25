@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who said \"I think, therefore I am\" in philosophical writings?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which suffragist said \"Men, their rights and nothing more; women, their rights and nothing less\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote \"If I had more time, I would have written a shorter letter\" about editing prose?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which explorer wrote about \"a new world\" after 1492 voyages to the Americas?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote \"The die is cast\" after a decisive political military crossing in 49 BCE?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval saint wrote \"Action expresses priorities\" in ascetic and ethical guidance?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist said \"Imagination is more important than knowledge\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which French general said \"I shall return\" about the Philippines during WWII?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote \"I prefer dangerous freedom over peaceful slavery\" during independence debates?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who wrote \"Give me liberty, or give me death!\" in a speech to Virginia delegates?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which American abolitionist declared \"I would unite with anybody to do right and with nobody to do wrong\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote \"If you want peace, prepare for war\" in an ancient military maxim?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scientist said \"Nothing in life is to be feared, it is only to be understood\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which suffragist declared \"Failure is impossible\" to rally supporters for votes for women?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"When the facts change, I change my mind\" as a pragmatic economist and historian?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which theory describes electromagnetic waves and light as unified phenomena?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which law relates the square of orbital period to the cube of the semi-major axis for planets?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which theorem formally links continuous symmetries to conserved quantities in Lagrangian mechanics?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which law describes the expansion of the universe by relating galaxy recessional velocity to distance?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law states that action and reaction forces are equal and opposite?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mathematical result ensures that continuous, differentiable dynamical systems preserve phase-space volume?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist developed the theory of special relativity?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which principle links symmetry operations to conserved quantities in physics?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which principle quantifies limits on simultaneously known conjugate variables like position and momentum?"
+    },
+    {
+      "question_id": 10,
+      "question": "What law states that light speed in vacuum is constant for all observers?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which law gives the relationship between pressure and temperature at constant volume for an ideal gas?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which approach explains critical phenomena universality using scale invariance near phase transitions?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which law links the force on a charged particle to electric and magnetic fields?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which principle underlies the operation of lasers via stimulated emission?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formulation of mechanics uses action and stationary principles instead of forces?"
+    }
+  ]
+}

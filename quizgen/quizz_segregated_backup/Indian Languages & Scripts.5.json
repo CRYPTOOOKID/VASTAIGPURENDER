@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which script family originates from the ancient Brahmi script?",
+      "options": [
+        "Indic abugidas",
+        "Latin alphabets",
+        "Cyrillic scripts"
+      ],
+      "answer": "Indic abugidas"
+    },
+    {
+      "question_id": 2,
+      "question": "Which modern Indian language acquired classical status in 2008 alongside Kannada?",
+      "options": [
+        "Telugu",
+        "Sanskrit",
+        "Hindi"
+      ],
+      "answer": "Telugu"
+    },
+    {
+      "question_id": 3,
+      "question": "Which script was used for the earliest known Telugu inscriptions around 400 CE?",
+      "options": [
+        "Proto-Kannada-Telugu (Early Telugu-Kannada)",
+        "Devanagari",
+        "Grantha"
+      ],
+      "answer": "Proto-Kannada-Telugu (Early Telugu-Kannada)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which script is primarily associated with Sanskrit texts today?",
+      "options": [
+        "Devanagari",
+        "Tamil-Brahmi",
+        "Ol Chiki"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian language family primarily uses agglutinative morphology?",
+      "options": [
+        "Dravidian",
+        "Indo-Aryan",
+        "Indo-European"
+      ],
+      "answer": "Dravidian"
+    },
+    {
+      "question_id": 6,
+      "question": "Which orthographic principle explains intrinsic vowel suppression in many Indic consonants?",
+      "options": [
+        "Schwa deletion principle",
+        "Vowel harmony",
+        "Tone marking"
+      ],
+      "answer": "Schwa deletion principle"
+    },
+    {
+      "question_id": 7,
+      "question": "Which language's script is called 'Grantha' historically for Sanskrit in the south?",
+      "options": [
+        "Tamil region manuscripts",
+        "Bengali region manuscripts",
+        "Gujarati region manuscripts"
+      ],
+      "answer": "Tamil region manuscripts"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script is unique for lacking conjunct consonant clusters in its orthography?",
+      "options": [
+        "Tamil",
+        "Devanagari",
+        "Bengali"
+      ],
+      "answer": "Tamil"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script historically encoded Malayalam using Grantha letters for Sanskrit loans?",
+      "options": [
+        "Malayalam script with Grantha subset",
+        "Devanagari",
+        "Gurmukhi"
+      ],
+      "answer": "Malayalam script with Grantha subset"
+    },
+    {
+      "question_id": 10,
+      "question": "Which language is written in the Odia script?",
+      "options": [
+        "Odia",
+        "Kannada",
+        "Malayalam"
+      ],
+      "answer": "Odia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which colonial-era romanization became the official transliteration by Government of India?",
+      "options": [
+        "Hunterian system",
+        "ISO 9001",
+        "ALA-LC"
+      ],
+      "answer": "Hunterian system"
+    },
+    {
+      "question_id": 12,
+      "question": "Which scholar created the Ol Chiki script for Santali in 1925?",
+      "options": [
+        "Raghunath Murmu",
+        "Pandit Raghunath Sharma",
+        "William Jones"
+      ],
+      "answer": "Raghunath Murmu"
+    },
+    {
+      "question_id": 13,
+      "question": "Which language family includes Tamil, Telugu, Kannada, and Malayalam?",
+      "options": [
+        "Dravidian",
+        "Indo-Aryan",
+        "Austroasiatic"
+      ],
+      "answer": "Dravidian"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script underlies the modern Assamese and Bengali writing systems?",
+      "options": [
+        "Eastern Nagari",
+        "Devanagari",
+        "Gujarati"
+      ],
+      "answer": "Eastern Nagari"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indic script notably lacks a distinct letter for the vowel /e/ historically and uses diacritics?",
+      "options": [
+        "Brahmi-derived abugidas",
+        "Latin alphabet",
+        "Hebrew script"
+      ],
+      "answer": "Brahmi-derived abugidas"
+    }
+  ]
+}

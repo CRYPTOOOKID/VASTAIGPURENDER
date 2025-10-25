@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which U.S. city once had an ordinance banning high heels at certain public sites for safety reasons?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which U.S. state has a law prohibiting the sale of 'obscene' items via mail historically enforced in certain cases?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which U.S. state had a law forbidding the misnaming of livestock for sale that led to odd court cases historically?"
+    },
+    {
+      "question_id": 4,
+      "question": "Where is it illegal to make excessive noise during siesta hours in specific communities as a local ordinance?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which European country restricts the sale of raw milk directly to consumers in some national food safety laws?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nation enforces bans on performing certain noisy agricultural tasks on Sundays to respect rest laws in some regions?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which U.S. city had a historic law banning people from carrying ice cream cones in their back pockets?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country once prohibited the sale of VHS tapes at certain times for censorship reasons historically?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country enforces fines for homeowners whose hedges obscure neighbors' sunlight under specific neighbor law statutes?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city famously bans wearing a mask in public during celebrations without police permission?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country enforces a law requiring homeowners to maintain hedges below a specified height to prevent disputes?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which British law once made it illegal to import potatoes on a Sunday during certain historical periods for market regulation?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country prohibits whistling in certain public places as a noise disturbance law?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nation's odd law penalizes people for dressing as a penguin to disrupt wildlife viewing areas in specific reserves?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country criminalized 'offending religious feelings' historically in its penal code, used in controversial cases?"
+    }
+  ]
+}

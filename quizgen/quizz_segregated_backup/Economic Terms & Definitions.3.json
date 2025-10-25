@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is inflation measured by the CPI?",
+      "options": [
+        "Consumer Price Index tracks a basket's price changes",
+        "Corporate Profit Index tracks firm profits",
+        "Currency Purchasing Index tracks exchange rates"
+      ],
+      "answer": "Consumer Price Index tracks a basket's price changes"
+    },
+    {
+      "question_id": 2,
+      "question": "What is price elasticity greater than one called?",
+      "options": [
+        "Elastic demand",
+        "Inelastic demand",
+        "Unit elastic demand"
+      ],
+      "answer": "Elastic demand"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the practical implication of the Mundell-Fleming model under fixed exchange rates?",
+      "options": [
+        "Fiscal policy more effective; monetary policy ineffective at influencing output",
+        "Monetary policy dominates fiscal policy",
+        "Trade balance cannot adjust"
+      ],
+      "answer": "Fiscal policy more effective; monetary policy ineffective at influencing output"
+    },
+    {
+      "question_id": 4,
+      "question": "What does GDP measure in an economy?",
+      "options": [
+        "Total value of final goods and services produced",
+        "Total value of all financial transactions",
+        "Total household savings"
+      ],
+      "answer": "Total value of final goods and services produced"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the natural rate of unemployment?",
+      "options": [
+        "Unemployment when labor market is at long-run equilibrium",
+        "Zero unemployment during growth periods",
+        "Maximum unemployment during recession"
+      ],
+      "answer": "Unemployment when labor market is at long-run equilibrium"
+    },
+    {
+      "question_id": 6,
+      "question": "Which indicator signals potential recession when inverted?",
+      "options": [
+        "Yield curve inversion between long and short-term rates",
+        "High consumer confidence index",
+        "Rising commodity prices"
+      ],
+      "answer": "Yield curve inversion between long and short-term rates"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'marginal cost'?",
+      "options": [
+        "Cost of producing one additional unit",
+        "Average cost per unit",
+        "Total fixed cost"
+      ],
+      "answer": "Cost of producing one additional unit"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the primary role of a central bank?",
+      "options": [
+        "Manage monetary policy and financial stability",
+        "Set government fiscal budgets",
+        "Run private investment funds"
+      ],
+      "answer": "Manage monetary policy and financial stability"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phenomenon explains why poorer countries sometimes grow faster catching up technologically?",
+      "options": [
+        "Conditional convergence under similar policies",
+        "Permanent divergence due to institutions",
+        "Absolute stagnation regardless of investment"
+      ],
+      "answer": "Conditional convergence under similar policies"
+    },
+    {
+      "question_id": 10,
+      "question": "What is meant by 'comparative advantage'?",
+      "options": [
+        "Lower opportunity cost of producing a good than others",
+        "Higher absolute production of a good",
+        "Ability to monopolize an industry"
+      ],
+      "answer": "Lower opportunity cost of producing a good than others"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'exchange rate depreciation'?",
+      "options": [
+        "Domestic currency loses value relative to foreign currency",
+        "Domestic currency gains value relative to foreign currency",
+        "Fixed exchange rate restored by government"
+      ],
+      "answer": "Domestic currency loses value relative to foreign currency"
+    },
+    {
+      "question_id": 12,
+      "question": "In open economy, what does the Marshall-Lerner condition describe?",
+      "options": [
+        "Currency depreciation improves trade balance if sum of elasticities exceeds one",
+        "Tariffs always worsen trade balance",
+        "Floating exchange rates eliminate deficits"
+      ],
+      "answer": "Currency depreciation improves trade balance if sum of elasticities exceeds one"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an externality?",
+      "options": [
+        "A cost or benefit affecting third parties",
+        "A hidden monetary fee",
+        "A government grant"
+      ],
+      "answer": "A cost or benefit affecting third parties"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the Laffer Curve concept about?",
+      "options": [
+        "Tax rate and revenue non-linear relationship",
+        "Trade barriers and revenue correlation",
+        "Inflation and unemployment equilibrium"
+      ],
+      "answer": "Tax rate and revenue non-linear relationship"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the role of contingent convertible bonds (CoCos) in bank regulation?",
+      "options": [
+        "Convert to equity under stress to absorb losses",
+        "Guarantee deposits fully without conditions",
+        "Always increase bank leverage"
+      ],
+      "answer": "Convert to equity under stress to absorb losses"
+    }
+  ]
+}

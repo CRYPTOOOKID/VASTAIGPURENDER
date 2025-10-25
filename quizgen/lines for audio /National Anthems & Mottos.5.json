@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country's national motto is 'A Mari Usque Ad Mare' meaning 'From sea to sea'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote the lyrics of China's national anthem 'March of the Volunteers'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national anthem's modern form fuses a colonial-era hymn with a liberation song, including five languages?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country's anthem is commonly known by the opening words 'Bilady, Bilady, Bilady'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country's anthem melody was written by Francisco Manuel da Silva in the early 19th century?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which national anthem's text was suppressed and its author imprisoned during a regime, only to be restored post-regime?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country uses 'March of the Volunteers' as its national anthem?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which national anthem's English title is 'The Soldier's Song'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nation's anthem was famously performed at the Olympics despite being unofficial domestically for decades?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country's national anthem is 'Jana Gana Mana'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which stanza of the 'Deutschlandlied' is used as Germany's national anthem today?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which national anthem's official performance practice often omits multiple original verses to keep duration under a minute?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country's national anthem is 'Hatikvah'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's anthem includes lines in multiple indigenous languages after a 1997 revision?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which national motto was originally a slogan of a political movement and later enshrined as a formal national phrase?"
+    }
+  ]
+}

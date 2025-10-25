@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the term for revenue minus explicit costs?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term refers to currency value relative to others?"
+    },
+    {
+      "question_id": 3,
+      "question": "What term denotes the elasticity of tax revenue to changes in tax rate, often shown on Laffer curve?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term defines payments to labor for work?"
+    },
+    {
+      "question_id": 5,
+      "question": "What term describes demand that increases as income rises more than proportionally?"
+    },
+    {
+      "question_id": 6,
+      "question": "What term refers to the reduction in costs per unit from technological change separate from scale?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the term for costs that do not change with output?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes a government's reduction in spending or increase in taxes?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes the value of the next-best forgone alternative in resource allocation?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the term for a government tax on imported goods?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term describes when inflation and unemployment rise together?"
+    },
+    {
+      "question_id": 12,
+      "question": "What term describes companies using price cuts to drive competitors out, then raising prices?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term means the extra satisfaction from consuming one more unit?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term describes the lost welfare when tariffs reduce trade volume?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term refers to when short-term nominal wages do not adjust quickly to changes in prices?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which term is used for goods that are rival and excludable?"
+    },
+    {
+      "question_id": 2,
+      "question": "What term describes government spending programs to influence economy?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term labels a tax system with the same percentage tax for all incomes?"
+    },
+    {
+      "question_id": 4,
+      "question": "What term labels a sustained rise in general price levels?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the term for a market failure where one party has more information than another?"
+    },
+    {
+      "question_id": 6,
+      "question": "What term denotes a policy that increases money supply via central bank asset purchases?"
+    },
+    {
+      "question_id": 7,
+      "question": "What term describes when supply equals demand at a price?"
+    },
+    {
+      "question_id": 8,
+      "question": "What term describes a market where firms set prices and face downward-sloping demand?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes the phenomenon where increased inflation expectations raise actual inflation?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the term for items consumed together, like coffee and sugar?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term refers to buyers' and sellers' willingness to trade at different prices?"
+    },
+    {
+      "question_id": 12,
+      "question": "What term denotes a schedule of prices for different quantities sold to different groups?"
+    },
+    {
+      "question_id": 13,
+      "question": "What name describes the benefit forgone when choosing one option over another?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the term for firm behavior where companies follow a price leader?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term refers to a decline in productivity growth due to misallocation of resources?"
+    }
+  ]
+}

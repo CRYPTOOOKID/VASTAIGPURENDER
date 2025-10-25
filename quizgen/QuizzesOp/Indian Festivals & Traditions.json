@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which Indian festival is popularly called the Festival of Lights?",
+        "options": [
+          "Holi",
+          "Diwali",
+          "Raksha Bandhan"
+        ],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Which festival features people throwing colored powders and water?",
+        "options": [
+          "Holi",
+          "Navratri",
+          "Pongal"
+        ],
+        "answer": "Holi"
+      },
+      {
+        "question": "Which Punjab harvest festival is celebrated with bhangra and bonfires in April?",
+        "options": [
+          "Baisakhi",
+          "Onam",
+          "Lohri"
+        ],
+        "answer": "Baisakhi"
+      },
+      {
+        "question": "Which nine-night festival honors the goddess Durga with dance and prayer?",
+        "options": [
+          "Navratri",
+          "Diwali",
+          "Guru Purnima"
+        ],
+        "answer": "Navratri"
+      },
+      {
+        "question": "Which festival celebrates the birth of Lord Krishna?",
+        "options": [
+          "Janmashtami",
+          "Ganesh Chaturthi",
+          "Raksha Bandhan"
+        ],
+        "answer": "Janmashtami"
+      },
+      {
+        "question": "Which festival marks the birth of Sikhism's first guru, Guru Nanak?",
+        "options": [
+          "Gurpurab",
+          "Guru Purnima",
+          "Vaisakhi"
+        ],
+        "answer": "Gurpurab"
+      },
+      {
+        "question": "Which festival celebrates Rama's victory with effigies of Ravana burned across India?",
+        "options": [
+          "Dussehra",
+          "Onam",
+          "Eid-ul-Fitr"
+        ],
+        "answer": "Dussehra"
+      },
+      {
+        "question": "Which Kerala festival honors King Mahabali and includes boat races and floral carpets?",
+        "options": [
+          "Onam",
+          "Pongal",
+          "Holi"
+        ],
+        "answer": "Onam"
+      },
+      {
+        "question": "Which South Indian harvest festival centers on cooking rice in new pots called 'pongal'?",
+        "options": [
+          "Pongal",
+          "Baisakhi",
+          "Diwali"
+        ],
+        "answer": "Pongal"
+      },
+      {
+        "question": "Which January festival is famous for kite flying across many Indian states?",
+        "options": [
+          "Makar Sankranti",
+          "Lohri",
+          "Navratri"
+        ],
+        "answer": "Makar Sankranti"
+      },
+      {
+        "question": "Which Muslim festival marks the end of Ramadan with communal prayers and feasting?",
+        "options": [
+          "Eid-ul-Fitr",
+          "Eid-ul-Adha",
+          "Muharram"
+        ],
+        "answer": "Eid-ul-Fitr"
+      },
+      {
+        "question": "Which festival celebrates Christmas in Indian Christian communities on December 25?",
+        "options": [
+          "Christmas",
+          "Easter",
+          "Good Friday"
+        ],
+        "answer": "Christmas"
+      },
+      {
+        "question": "Which Tamil festival involves women preparing kolams and offering thanks for the harvest?",
+        "options": [
+          "Pongal",
+          "Vijayadashami",
+          "Guru Purnima"
+        ],
+        "answer": "Pongal"
+      },
+      {
+        "question": "Which Punjabi winter festival features bonfires, singing, and the tandoori treat 'rewri'?",
+        "options": [
+          "Lohri",
+          "Holi",
+          "Diwali"
+        ],
+        "answer": "Lohri"
+      },
+      {
+        "question": "Which West Bengal festival honors goddess Durga with elaborate pandals and idols?",
+        "options": [
+          "Durga Puja",
+          "Navratri",
+          "Diwali"
+        ],
+        "answer": "Durga Puja"
+      },
+      {
+        "question": "Which festival involves installing and immersing clay idols of Lord Ganesha?",
+        "options": [
+          "Ganesh Chaturthi",
+          "Raksha Bandhan",
+          "Baisakhi"
+        ],
+        "answer": "Ganesh Chaturthi"
+      },
+      {
+        "question": "Which festival celebrates sibling bonds with sisters tying a protective thread called rakhi?",
+        "options": [
+          "Raksha Bandhan",
+          "Karva Chauth",
+          "Holi"
+        ],
+        "answer": "Raksha Bandhan"
+      },
+      {
+        "question": "Which Hindu festival involves married women fasting for their husbands' long life?",
+        "options": [
+          "Karva Chauth",
+          "Raksha Bandhan",
+          "Navratri"
+        ],
+        "answer": "Karva Chauth"
+      },
+      {
+        "question": "Which major pilgrimage festival involves millions bathing at river confluences?",
+        "options": [
+          "Kumbh Mela",
+          "Pongal",
+          "Diwali"
+        ],
+        "answer": "Kumbh Mela"
+      },
+      {
+        "question": "Which festival in Kerala is renowned for its caparisoned elephants and percussion ensembles?",
+        "options": [
+          "Thrissur Pooram",
+          "Onam",
+          "Pongal"
+        ],
+        "answer": "Thrissur Pooram"
+      },
+      {
+        "question": "Which festival marks the beginning of the Hindu lunar new year in many regions?",
+        "options": [
+          "Diwali",
+          "Akshaya Tritiya",
+          "Holi"
+        ],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Which festival celebrates the goddess Saraswati, patron of learning and the arts?",
+        "options": [
+          "Vasant Panchami",
+          "Raksha Bandhan",
+          "Baisakhi"
+        ],
+        "answer": "Vasant Panchami"
+      },
+      {
+        "question": "Which festival is associated with decorating doorways with colorful rangoli patterns?",
+        "options": [
+          "Diwali",
+          "Eid-ul-Fitr",
+          "Karva Chauth"
+        ],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Which festival features street processions and immersed idols in Mumbai as a major civic event?",
+        "options": [
+          "Ganesh Chaturthi",
+          "Durga Puja",
+          "Lohri"
+        ],
+        "answer": "Ganesh Chaturthi"
+      },
+      {
+        "question": "Which festival marks the harvest in Assam with traditional dances like Bihu?",
+        "options": [
+          "Bihu",
+          "Pongal",
+          "Onam"
+        ],
+        "answer": "Bihu"
+      },
+      {
+        "question": "Which festival celebrates the bond between communities with sharing of sweets and new clothes?",
+        "options": [
+          "Diwali",
+          "Eid-ul-Adha",
+          "Makar Sankranti"
+        ],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Which festival is famous for the tiger dance 'Pulikali' performed in Kerala streets?",
+        "options": [
+          "Onam",
+          "Holi",
+          "Navratri"
+        ],
+        "answer": "Onam"
+      },
+      {
+        "question": "Which harvest festival in South India spans four days and includes Mattu Pongal for cattle?",
+        "options": [
+          "Pongal",
+          "Baisakhi",
+          "Lohri"
+        ],
+        "answer": "Pongal"
+      },
+      {
+        "question": "Which festival honors ancestors with shraddha rituals and offerings in many Hindu households?",
+        "options": [
+          "Pitru Paksha",
+          "Navratri",
+          "Diwali"
+        ],
+        "answer": "Pitru Paksha"
+      },
+      {
+        "question": "Which festival in Odisha highlights Jagannath Rath Yatra with chariot processions?",
+        "options": [
+          "Rath Yatra",
+          "Ganesh Chaturthi",
+          "Durga Puja"
+        ],
+        "answer": "Rath Yatra"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which lunar month generally hosts the festival of Diwali in North India?",
+        "options": [
+          "Kartika",
+          "Ashadha",
+          "Shravana"
+        ],
+        "answer": "Kartika"
+      },
+      {
+        "question": "Which city is famous for the grand Durga Puja celebrations with artistic pandals?",
+        "options": [
+          "Kolkata",
+          "Mumbai",
+          "Chennai"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which festival features the ritual of the 'Aarti' and worship of river Ganga at Haridwar?",
+        "options": [
+          "Ganga Aarti during Kumbh",
+          "Pongal",
+          "Holi"
+        ],
+        "answer": "Ganga Aarti during Kumbh"
+      },
+      {
+        "question": "Which festival's main culinary item in Bengal is the steamed sweet 'rosogolla' often offered?",
+        "options": [
+          "Durga Puja",
+          "Baisakhi",
+          "Karva Chauth"
+        ],
+        "answer": "Durga Puja"
+      },
+      {
+        "question": "Which festival involves the immersion of Ganesha idols into the sea after several days?",
+        "options": [
+          "Ganesh Visarjan",
+          "Rath Yatra",
+          "Holi"
+        ],
+        "answer": "Ganesh Visarjan"
+      },
+      {
+        "question": "Which festival includes the tradition of breaking the sister's fast with a sibling's meal in some regions?",
+        "options": [
+          "Raksha Bandhan",
+          "Karva Chauth",
+          "Vasant Panchami"
+        ],
+        "answer": "Raksha Bandhan"
+      },
+      {
+        "question": "Which Assamese festival marks the agricultural cycle with three major days: Rongali Bihu, Kongali Bihu, Bhogali Bihu?",
+        "options": [
+          "Bihu",
+          "Onam",
+          "Pongal"
+        ],
+        "answer": "Bihu"
+      },
+      {
+        "question": "Which festival celebrates the divine feminine and culminates in Vijayadashami processions in many states?",
+        "options": [
+          "Navratri",
+          "Eid-ul-Fitr",
+          "Lohri"
+        ],
+        "answer": "Navratri"
+      },
+      {
+        "question": "Which festival's name literally means 'boat journey' and features deities pulled on chariots?",
+        "options": [
+          "Rath Yatra",
+          "Vijayadashami",
+          "Diwali"
+        ],
+        "answer": "Rath Yatra"
+      },
+      {
+        "question": "Which harvest festival includes the ritual of kites symbolizing the sun's northward journey?",
+        "options": [
+          "Makar Sankranti",
+          "Holi",
+          "Onam"
+        ],
+        "answer": "Makar Sankranti"
+      },
+      {
+        "question": "Which festival involves offering 'prasad' and special sweet called 'laddu' to Lord Ganesha?",
+        "options": [
+          "Ganesh Chaturthi",
+          "Diwali",
+          "Baisakhi"
+        ],
+        "answer": "Ganesh Chaturthi"
+      },
+      {
+        "question": "Which festival in South India emphasizes classical dances and music recitals for the goddess Saraswati?",
+        "options": [
+          "Vasant Panchami",
+          "Pongal",
+          "Dussehra"
+        ],
+        "answer": "Vasant Panchami"
+      },
+      {
+        "question": "Which festival's climax includes the burning of Ravana, Kumbhakarna, and Meghnad effigies?",
+        "options": [
+          "Dussehra",
+          "Holi",
+          "Onam"
+        ],
+        "answer": "Dussehra"
+      },
+      {
+        "question": "Which festival marks the Sikh festival of Vaisakhi and also commemorates the formation of the Khalsa?",
+        "options": [
+          "Vaisakhi",
+          "Guru Nanak Jayanti",
+          "Bandi Chhor Divas"
+        ],
+        "answer": "Vaisakhi"
+      },
+      {
+        "question": "Which festival's regional form in West Bengal involves competitive immersion tableaux called 'pandal hopping'?",
+        "options": [
+          "Durga Puja",
+          "Ganesh Chaturthi",
+          "Navratri"
+        ],
+        "answer": "Durga Puja"
+      },
+      {
+        "question": "Which festival celebrates Krishna's childhood pranks and includes midnight temple celebrations?",
+        "options": [
+          "Janmashtami",
+          "Holi",
+          "Diwali"
+        ],
+        "answer": "Janmashtami"
+      },
+      {
+        "question": "Which festival features the ritual of drawing intricate rice-paste floor designs called 'kolam' in Tamil Nadu?",
+        "options": [
+          "Pongal",
+          "Dussehra",
+          "Holi"
+        ],
+        "answer": "Pongal"
+      },
+      {
+        "question": "Which festival involves daughters visiting their parental home after marriage to celebrate with family in some regions?",
+        "options": [
+          "Bhai Dooj",
+          "Holi",
+          "Makar Sankranti"
+        ],
+        "answer": "Bhai Dooj"
+      },
+      {
+        "question": "Which Indian festival is associated with charity and meat distribution during Eid-al-Adha variant celebrated by some communities?",
+        "options": [
+          "Bakrid",
+          "Diwali",
+          "Raksha Bandhan"
+        ],
+        "answer": "Bakrid"
+      },
+      {
+        "question": "Which festival's key activity is boat racing called 'Vallam Kali' in Kerala during the season?",
+        "options": [
+          "Onam",
+          "Baisakhi",
+          "Lohri"
+        ],
+        "answer": "Onam"
+      },
+      {
+        "question": "Which festival is also known as the Sikh festival of lights, coinciding with Diwali in some years?",
+        "options": [
+          "Bandi Chhor Divas",
+          "Vaisakhi",
+          "Guru Purnima"
+        ],
+        "answer": "Bandi Chhor Divas"
+      },
+      {
+        "question": "Which festival involves worship of tools, vehicles, and instruments as part of Durga or Annapurna worship in streets?",
+        "options": [
+          "Ayudha Puja",
+          "Holi",
+          "Guru Purnima"
+        ],
+        "answer": "Ayudha Puja"
+      },
+      {
+        "question": "Which festival marks the onset of spring celebrations and also includes kite flying in parts of India?",
+        "options": [
+          "Holi",
+          "Diwali",
+          "Navratri"
+        ],
+        "answer": "Holi"
+      },
+      {
+        "question": "Which festival uses the tradition of painting clay bulls and decorating cattle in rural Maharashtra and Karnataka?",
+        "options": [
+          "Pola",
+          "Lohri",
+          "Pongal"
+        ],
+        "answer": "Pola"
+      },
+      {
+        "question": "Which festival's traditional sweet offering in Maharashtra is 'puran poli' served during regional harvest celebrations?",
+        "options": [
+          "Makar Sankranti",
+          "Holi",
+          "Ganesh Chaturthi"
+        ],
+        "answer": "Makar Sankranti"
+      },
+      {
+        "question": "Which festival in Gujarat is celebrated with nine nights of dancing called Garba and Dandiya Raas?",
+        "options": [
+          "Navratri",
+          "Holi",
+          "Pongal"
+        ],
+        "answer": "Navratri"
+      },
+      {
+        "question": "Which festival includes the urs and qawwali gatherings at Sufi shrines across India?",
+        "options": [
+          "Urs (Sufi festival)",
+          "Diwali",
+          "Bhogali Bihu"
+        ],
+        "answer": "Urs (Sufi festival)"
+      },
+      {
+        "question": "Which festival celebrates the victory of good over evil and includes the reading of Ramayana in many households?",
+        "options": [
+          "Dussehra",
+          "Holi",
+          "Makar Sankranti"
+        ],
+        "answer": "Dussehra"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which four river-bank sites rotate as locations for the traditional Kumbh Mela cycle?",
+        "options": [
+          "Prayagraj, Haridwar, Nashik, Ujjain",
+          "Varanasi, Mumbai, Pune, Chennai",
+          "Kolkata, Hyderabad, Lucknow, Amritsar"
+        ],
+        "answer": "Prayagraj, Haridwar, Nashik, Ujjain"
+      },
+      {
+        "question": "Which festival ritual in Kerala involves the creation of large floral carpets called 'Pookalam'?",
+        "options": [
+          "Onam Pookalam",
+          "Thrissur Thrikkakara",
+          "Vishu Kolam"
+        ],
+        "answer": "Onam Pookalam"
+      },
+      {
+        "question": "Which festival is linked historically to the legend of King Mahabali and Vamana avatar of Vishnu?",
+        "options": [
+          "Onam",
+          "Pongal",
+          "Baisakhi"
+        ],
+        "answer": "Onam"
+      },
+      {
+        "question": "Which classical dance form traditionally performs during Navratri in Gujarat as a devotional expression?",
+        "options": [
+          "Garba",
+          "Bharatanatyam",
+          "Kathakali"
+        ],
+        "answer": "Garba"
+      },
+      {
+        "question": "Which harvest festival marks the solar transition when the sun enters Capricorn (Makara) on the Indian calendar?",
+        "options": [
+          "Makar Sankranti",
+          "Rath Yatra",
+          "Guru Purnima"
+        ],
+        "answer": "Makar Sankranti"
+      },
+      {
+        "question": "Which festival custom in Bengal involves married women exchanging sindoor and sweets called 'Sindoor Khela'?",
+        "options": [
+          "Durga Puja immersion day",
+          "Holi morning",
+          "Diwali eve"
+        ],
+        "answer": "Durga Puja immersion day"
+      },
+      {
+        "question": "Which festival historically popularized public pandals and community idol-making in 19th-century Calcutta?",
+        "options": [
+          "Durga Puja",
+          "Ganesh Chaturthi",
+          "Dussehra"
+        ],
+        "answer": "Durga Puja"
+      },
+      {
+        "question": "Which Maharashtra festival was large-scale revived by Lokamanya Tilak to foster public participation in the early 20th century?",
+        "options": [
+          "Ganesh Chaturthi",
+          "Diwali",
+          "Holi"
+        ],
+        "answer": "Ganesh Chaturthi"
+      },
+      {
+        "question": "Which ritual during Janmashtami reenacts Krishna's childhood stealing of butter through human pyramids in Maharashtra?",
+        "options": [
+          "Dahi Handi",
+          "Lathmar Holi",
+          "Matki Phod"
+        ],
+        "answer": "Dahi Handi"
+      },
+      {
+        "question": "Which festival marks the Sikh remembrance of Guru Gobind Singh creating the Khalsa in 1699 at Anandpur Sahib?",
+        "options": [
+          "Vaisakhi",
+          "Guru Nanak Jayanti",
+          "Bandi Chhor Divas"
+        ],
+        "answer": "Vaisakhi"
+      },
+      {
+        "question": "Which ritual during Rath Yatra in Puri requires massive chariots pulled by hundreds of devotees?",
+        "options": [
+          "Snana Yatra chariot procession",
+          "Rath Yatra itself",
+          "Mahakal Aarti"
+        ],
+        "answer": "Rath Yatra itself"
+      },
+      {
+        "question": "Which festival's traditional instrument ensemble in Kerala includes chenda, kombu, and ilathalam?",
+        "options": [
+          "Pooram melam",
+          "Bhangra dhol",
+          "Dhol tasha"
+        ],
+        "answer": "Pooram melam"
+      },
+      {
+        "question": "Which festival celebrated in Tamil Nadu marks the Tamil New Year with auspicious rites called 'Puthandu'?",
+        "options": [
+          "Puthandu (Tamil New Year)",
+          "Vishu",
+          "Ugadi"
+        ],
+        "answer": "Puthandu (Tamil New Year)"
+      },
+      {
+        "question": "Which festival's central legend involves the demon king Hiranyakashipu and Prahlada's devotion to Vishnu?",
+        "options": [
+          "Holi (Holika story)",
+          "Diwali",
+          "Ganesh Chaturthi"
+        ],
+        "answer": "Holi (Holika story)"
+      },
+      {
+        "question": "Which festival features a public horse or chariot procession called 'Kavad' in some North Indian regions?",
+        "options": [
+          "Dussehra processions",
+          "Karva Chauth",
+          "Pongal"
+        ],
+        "answer": "Dussehra processions"
+      },
+      {
+        "question": "Which ritual during Diwali primarily venerates Lakshmi, goddess of wealth, through Lakshmi Puja at night?",
+        "options": [
+          "Lakshmi Puja",
+          "Saraswati Puja",
+          "Ganga Snan"
+        ],
+        "answer": "Lakshmi Puja"
+      },
+      {
+        "question": "Which festival commemorates the legend of the Pandavas and Draupadi in the south as 'Yuddha festivals' in some villages?",
+        "options": [
+          "Dussehra folk plays (Ramlila variants)",
+          "Holi street plays",
+          "Ganesh immersion"
+        ],
+        "answer": "Dussehra folk plays (Ramlila variants)"
+      },
+      {
+        "question": "Which harvest festival staple in Tamil Nadu is the sweet 'sakkarai pongal' prepared during Pongal?",
+        "options": [
+          "Sakkarai Pongal",
+          "Puran Poli",
+          "Gajar Ka Halwa"
+        ],
+        "answer": "Sakkarai Pongal"
+      },
+      {
+        "question": "Which festival tradition in Gujarat involves nine-day nightly gatherings invoking different forms of the goddess?",
+        "options": [
+          "Garba nights of Navratri",
+          "Diwali lamp processions",
+          "Baisakhi melas"
+        ],
+        "answer": "Garba nights of Navratri"
+      },
+      {
+        "question": "Which festival in Kerala is linked to the temple at Thrikkakara and myth of Vamana and Mahabali?",
+        "options": [
+          "Onam at Thrikkakara Temple",
+          "Vishu at Tiruvalla",
+          "Pooram at Guruvayur"
+        ],
+        "answer": "Onam at Thrikkakara Temple"
+      },
+      {
+        "question": "Which festival practice involves painting bulls and parading them to thank cattle for ploughing in Maharashtra?",
+        "options": [
+          "Pola",
+          "Holi",
+          "Bihu"
+        ],
+        "answer": "Pola"
+      },
+      {
+        "question": "Which festival's traditional Bengal sweet is 'sandesh', often exchanged during Durga Puja celebrations?",
+        "options": [
+          "Sandesh during Durga Puja",
+          "Petha at Diwali",
+          "Jalebi at Holi"
+        ],
+        "answer": "Sandesh during Durga Puja"
+      },
+      {
+        "question": "Which festival ritual observes a ceremonial bath at Pushkar associated with Kartik month bathing rituals?",
+        "options": [
+          "Kartik Snan at Pushkar",
+          "Pongal holy dip",
+          "Lohri cleansing"
+        ],
+        "answer": "Kartik Snan at Pushkar"
+      },
+      {
+        "question": "Which festival includes the 'Pulikali' performance where artists paint themselves as tigers in Thrissur?",
+        "options": [
+          "Pulikali during Onam",
+          "Dandiya during Navratri",
+          "Dahi Handi at Janmashtami"
+        ],
+        "answer": "Pulikali during Onam"
+      },
+      {
+        "question": "Which festival's public procession in Mumbai historically integrated nationalist sentiment under Lokmanya Tilak?",
+        "options": [
+          "Ganesh Chaturthi",
+          "Diwali",
+          "Holi"
+        ],
+        "answer": "Ganesh Chaturthi"
+      },
+      {
+        "question": "Which festival tradition involves making and distributing 'tilgul' sesame sweets during Makar Sankranti in Maharashtra?",
+        "options": [
+          "Tilgul exchange",
+          "Pongal offering",
+          "Holi gujiya"
+        ],
+        "answer": "Tilgul exchange"
+      },
+      {
+        "question": "Which festival's Vedic antecedent includes rituals described in the ancient text 'Yajurveda' for seasonal rites?",
+        "options": [
+          "Makar Sankranti/solar rites",
+          "Diwali night rites",
+          "Navratri fasting"
+        ],
+        "answer": "Makar Sankranti/solar rites"
+      },
+      {
+        "question": "Which festival marks the arrival of spring and features 'Lathmar Holi' in certain towns of Uttar Pradesh?",
+        "options": [
+          "Holi with Lathmar variant",
+          "Navratri Garba",
+          "Pongal cattle day"
+        ],
+        "answer": "Holi with Lathmar variant"
+      },
+      {
+        "question": "Which festival's ritual includes offering food to ancestors known as 'pinda daan' during Pitru Paksha?",
+        "options": [
+          "Pitru Paksha offerings",
+          "Navratri blessings",
+          "Baisakhi langar"
+        ],
+        "answer": "Pitru Paksha offerings"
+      },
+      {
+        "question": "Which festival celebrated by Kashmiri Pandits involves lighting earthen lamps and performing Shravan customs in autumn?",
+        "options": [
+          "Herath (Shivratri variant)",
+          "Baisakhi",
+          "Diwali"
+        ],
+        "answer": "Herath (Shivratri variant)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which designer founded the fashion house Chanel?",
+        "options": [
+          "Coco Chanel",
+          "Christian Dior",
+          "Elsa Schiaparelli"
+        ],
+        "answer": "Coco Chanel"
+      },
+      {
+        "question": "Which city is Louis Vuitton originally associated with?",
+        "options": [
+          "Paris",
+          "Milan",
+          "London"
+        ],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which luxury house produces the Birkin handbag?",
+        "options": [
+          "Hermès",
+          "Prada",
+          "Gucci"
+        ],
+        "answer": "Hermès"
+      },
+      {
+        "question": "Which brand is famous for shoes with a red-lacquered sole?",
+        "options": [
+          "Christian Louboutin",
+          "Jimmy Choo",
+          "Manolo Blahnik"
+        ],
+        "answer": "Christian Louboutin"
+      },
+      {
+        "question": "Which pattern is most associated with Burberry?",
+        "options": [
+          "Tartan check",
+          "Polka dot",
+          "Chevron stripe"
+        ],
+        "answer": "Tartan check"
+      },
+      {
+        "question": "Which brand uses the interlocked double-G logo?",
+        "options": [
+          "Gucci",
+          "Givenchy",
+          "Versace"
+        ],
+        "answer": "Gucci"
+      },
+      {
+        "question": "Which house introduced the influential 'New Look' silhouette in 1947?",
+        "options": [
+          "Dior",
+          "Chanel",
+          "Balenciaga"
+        ],
+        "answer": "Dior"
+      },
+      {
+        "question": "Which designer founded the Versace fashion house?",
+        "options": [
+          "Gianni Versace",
+          "Giorgio Armani",
+          "Salvatore Ferragamo"
+        ],
+        "answer": "Gianni Versace"
+      },
+      {
+        "question": "Which jeweler is famous for its robin's-egg blue boxes?",
+        "options": [
+          "Tiffany & Co.",
+          "Cartier",
+          "Bulgari"
+        ],
+        "answer": "Tiffany & Co."
+      },
+      {
+        "question": "Which brand is historically linked with the classic trench coat?",
+        "options": [
+          "Burberry",
+          "Hermès",
+          "Prada"
+        ],
+        "answer": "Burberry"
+      },
+      {
+        "question": "Which house uses a Medusa head as its emblem?",
+        "options": [
+          "Versace",
+          "Fendi",
+          "Valentino"
+        ],
+        "answer": "Versace"
+      },
+      {
+        "question": "Which luxury brand is renowned for Swiss-made watches?",
+        "options": [
+          "Rolex",
+          "Zara",
+          "H&M"
+        ],
+        "answer": "Rolex"
+      },
+      {
+        "question": "Which designer made the wrap dress a global fashion staple?",
+        "options": [
+          "Diane von Furstenberg",
+          "Coco Chanel",
+          "Donna Karan"
+        ],
+        "answer": "Diane von Furstenberg"
+      },
+      {
+        "question": "Which house created the quilted 2.55 handbag?",
+        "options": [
+          "Chanel",
+          "Louis Vuitton",
+          "Dior"
+        ],
+        "answer": "Chanel"
+      },
+      {
+        "question": "Which brand is best known for the polo player logo on shirts?",
+        "options": [
+          "Ralph Lauren",
+          "Calvin Klein",
+          "Hugo Boss"
+        ],
+        "answer": "Ralph Lauren"
+      },
+      {
+        "question": "Which fashion house uses the double F logo created by Karl Lagerfeld?",
+        "options": [
+          "Fendi",
+          "Givenchy",
+          "Balenciaga"
+        ],
+        "answer": "Fendi"
+      },
+      {
+        "question": "Which label popularized durable nylon backpacks in luxury fashion?",
+        "options": [
+          "Prada",
+          "Bottega Veneta",
+          "Chloé"
+        ],
+        "answer": "Prada"
+      },
+      {
+        "question": "Which designer is credited with popularizing the Little Black Dress?",
+        "options": [
+          "Coco Chanel",
+          "Valentino",
+          "Hubert de Givenchy"
+        ],
+        "answer": "Coco Chanel"
+      },
+      {
+        "question": "Which brand was founded by Salvatore Ferragamo and is famous for shoes?",
+        "options": [
+          "Ferragamo",
+          "Fendi",
+          "Tom Ford"
+        ],
+        "answer": "Ferragamo"
+      },
+      {
+        "question": "Which jeweler is known for the iconic panther motif?",
+        "options": [
+          "Cartier",
+          "Tiffany & Co.",
+          "Bulgari"
+        ],
+        "answer": "Cartier"
+      },
+      {
+        "question": "Who founded the house of Givenchy?",
+        "options": [
+          "Hubert de Givenchy",
+          "Yves Saint Laurent",
+          "Pierre Balmain"
+        ],
+        "answer": "Hubert de Givenchy"
+      },
+      {
+        "question": "Which designer introduced the women's tuxedo called 'Le Smoking'?",
+        "options": [
+          "Yves Saint Laurent",
+          "Christian Dior",
+          "Coco Chanel"
+        ],
+        "answer": "Yves Saint Laurent"
+      },
+      {
+        "question": "Which designer is associated with the signature shade 'Valentino red'?",
+        "options": [
+          "Valentino Garavani",
+          "Giorgio Armani",
+          "Gianni Versace"
+        ],
+        "answer": "Valentino Garavani"
+      },
+      {
+        "question": "Which brand was founded by Cristóbal Balenciaga?",
+        "options": [
+          "Balenciaga",
+          "Loewe",
+          "Céline"
+        ],
+        "answer": "Balenciaga"
+      },
+      {
+        "question": "Which designer became famous for elegant red-carpet gowns and eveningwear?",
+        "options": [
+          "Oscar de la Renta",
+          "Tom Ford",
+          "Phoebe Philo"
+        ],
+        "answer": "Oscar de la Renta"
+      },
+      {
+        "question": "Which fashion house launched the younger line Miu Miu?",
+        "options": [
+          "Miu Miu",
+          "Moschino",
+          "Max Mara"
+        ],
+        "answer": "Miu Miu"
+      },
+      {
+        "question": "Which brand is known for the woven intrecciato leather technique?",
+        "options": [
+          "Bottega Veneta",
+          "Givenchy",
+          "Gucci"
+        ],
+        "answer": "Bottega Veneta"
+      },
+      {
+        "question": "Which house uses the interlocked YSL monogram as its signature mark?",
+        "options": [
+          "Yves Saint Laurent",
+          "Prada",
+          "Fendi"
+        ],
+        "answer": "Yves Saint Laurent"
+      },
+      {
+        "question": "Which luxury house popularized the silk carré scarf as a signature accessory?",
+        "options": [
+          "Hermès",
+          "Chanel",
+          "Dior"
+        ],
+        "answer": "Hermès"
+      },
+      {
+        "question": "Which Italian duo are famous for Sicilian-inspired prints and styling?",
+        "options": [
+          "Dolce & Gabbana",
+          "Armani",
+          "Prada"
+        ],
+        "answer": "Dolce & Gabbana"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did Louis Vuitton open its first store in Paris?",
+        "options": [
+          "1854",
+          "1870",
+          "1901"
+        ],
+        "answer": "1854"
+      },
+      {
+        "question": "Which designer created the Louis Vuitton monogram pattern in 1896?",
+        "options": [
+          "Georges Vuitton",
+          "Louis Vuitton",
+          "Paul Poiret"
+        ],
+        "answer": "Georges Vuitton"
+      },
+      {
+        "question": "Which year did Christian Dior officially found the House of Dior?",
+        "options": [
+          "1946",
+          "1939",
+          "1952"
+        ],
+        "answer": "1946"
+      },
+      {
+        "question": "When was Chanel No.5 first launched to the public?",
+        "options": [
+          "1921",
+          "1910",
+          "1935"
+        ],
+        "answer": "1921"
+      },
+      {
+        "question": "Who is widely regarded as the father of modern haute couture?",
+        "options": [
+          "Charles Frederick Worth",
+          "Paul Poiret",
+          "Madame Vionnet"
+        ],
+        "answer": "Charles Frederick Worth"
+      },
+      {
+        "question": "Which luxury conglomerate owns brands including Louis Vuitton and Dior?",
+        "options": [
+          "LVMH",
+          "Kering",
+          "Richemont"
+        ],
+        "answer": "LVMH"
+      },
+      {
+        "question": "Which luxury group owns Gucci and Bottega Veneta?",
+        "options": [
+          "Kering",
+          "LVMH",
+          "Tapestry"
+        ],
+        "answer": "Kering"
+      },
+      {
+        "question": "Which Italian maison popularized the Gommino driving shoe?",
+        "options": [
+          "Tod's",
+          "Salvatore Ferragamo",
+          "Prada"
+        ],
+        "answer": "Tod's"
+      },
+      {
+        "question": "Which designer led Chanel and revitalized Fendi as creative director for decades?",
+        "options": [
+          "Karl Lagerfeld",
+          "Yves Saint Laurent",
+          "John Galliano"
+        ],
+        "answer": "Karl Lagerfeld"
+      },
+      {
+        "question": "In what year did Miuccia Prada launch the Miu Miu label?",
+        "options": [
+          "1993",
+          "1985",
+          "2001"
+        ],
+        "answer": "1993"
+      },
+      {
+        "question": "In which year did Yves Saint Laurent introduce the women's tuxedo 'Le Smoking'?",
+        "options": [
+          "1966",
+          "1958",
+          "1972"
+        ],
+        "answer": "1966"
+      },
+      {
+        "question": "Which creative director introduced flamboyant maximalism at Gucci beginning 2015?",
+        "options": [
+          "Alessandro Michele",
+          "Tom Ford",
+          "Frida Giannini"
+        ],
+        "answer": "Alessandro Michele"
+      },
+      {
+        "question": "Which brand is credited with inventing the monogram canvas as a signature luggage material?",
+        "options": [
+          "Louis Vuitton",
+          "Goyard",
+          "Hermès"
+        ],
+        "answer": "Louis Vuitton"
+      },
+      {
+        "question": "Which Italian house was founded by Mario Prada in 1913 in Milan?",
+        "options": [
+          "Prada",
+          "Gucci",
+          "Fendi"
+        ],
+        "answer": "Prada"
+      },
+      {
+        "question": "Which designer assumed creative control at Dior after Christian Dior's death in 1957?",
+        "options": [
+          "Yves Saint Laurent",
+          "Hubert de Givenchy",
+          "Pierre Balmain"
+        ],
+        "answer": "Yves Saint Laurent"
+      },
+      {
+        "question": "Which house revived the Dior Saddle Bag originally created around 2000?",
+        "options": [
+          "Dior",
+          "Chanel",
+          "Saint Laurent"
+        ],
+        "answer": "Dior"
+      },
+      {
+        "question": "Which couture technique describes garments made to a client’s precise measurements?",
+        "options": [
+          "Haute couture",
+          "Prêt-à-porter",
+          "Bespoke"
+        ],
+        "answer": "Haute couture"
+      },
+      {
+        "question": "Which luxury label established a famous leather weaving called intrecciato?",
+        "options": [
+          "Bottega Veneta",
+          "Tod's",
+          "Valentino"
+        ],
+        "answer": "Bottega Veneta"
+      },
+      {
+        "question": "Which house launched the iconic Lady Dior handbag named for Princess Diana?",
+        "options": [
+          "Dior",
+          "Chanel",
+          "Hermès"
+        ],
+        "answer": "Dior"
+      },
+      {
+        "question": "Which fashion house created the iconic 2.55 bag in February 1955?",
+        "options": [
+          "Chanel",
+          "Hermès",
+          "Gucci"
+        ],
+        "answer": "Chanel"
+      },
+      {
+        "question": "Which brand introduced a signature nylon accessory line that influenced 1990s luxury?",
+        "options": [
+          "Prada",
+          "Fendi",
+          "Miu Miu"
+        ],
+        "answer": "Prada"
+      },
+      {
+        "question": "Which designer famously staged a theatrical runway show under the title 'Savage Beauty'?",
+        "options": [
+          "Alexander McQueen",
+          "John Galliano",
+          "Thierry Mugler"
+        ],
+        "answer": "Alexander McQueen"
+      },
+      {
+        "question": "Which fashion house is credited with popularizing the trench coat for civilian wear?",
+        "options": [
+          "Burberry",
+          "Ralph Lauren",
+          "Hugo Boss"
+        ],
+        "answer": "Burberry"
+      },
+      {
+        "question": "Which brand created the classic Vara bow pump and is known for Italian craftsmanship?",
+        "options": [
+          "Salvatore Ferragamo",
+          "Jimmy Choo",
+          "Christian Louboutin"
+        ],
+        "answer": "Salvatore Ferragamo"
+      },
+      {
+        "question": "Which designer established Saint Laurent Rive Gauche ready-to-wear boutiques in 1966?",
+        "options": [
+          "Yves Saint Laurent",
+          "Pierre Cardin",
+          "Hubert de Givenchy"
+        ],
+        "answer": "Yves Saint Laurent"
+      },
+      {
+        "question": "Which house is known for a signature 'double T' emblem designed by a founder?",
+        "options": [
+          "Tory Burch",
+          "Tod's",
+          "Trussardi"
+        ],
+        "answer": "Tory Burch"
+      },
+      {
+        "question": "Which brand created a famous patterned 'Oblique' canvas that became a house signature?",
+        "options": [
+          "Dior",
+          "Louis Vuitton",
+          "Fendi"
+        ],
+        "answer": "Dior"
+      },
+      {
+        "question": "Which fashion house produced the iconic 'Prada nylon' backpack worn by celebrities in the 1990s?",
+        "options": [
+          "Prada",
+          "Miu Miu",
+          "Chanel"
+        ],
+        "answer": "Prada"
+      },
+      {
+        "question": "Which Italian label launched the 'Sicilian' themed collections and use of religious iconography?",
+        "options": [
+          "Dolce & Gabbana",
+          "Versace",
+          "Fendi"
+        ],
+        "answer": "Dolce & Gabbana"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which French institution legally defines and registers the official list of haute couture houses?",
+        "options": [
+          "Chambre Syndicale de la Haute Couture",
+          "Institut Français de la Mode",
+          "Paris Chamber of Commerce"
+        ],
+        "answer": "Chambre Syndicale de la Haute Couture"
+      },
+      {
+        "question": "Which Hermès executive famously collaborated on designing the original Birkin bag in 1984?",
+        "options": [
+          "Jean-Louis Dumas",
+          "Thierry Hermès",
+          "Robert Dumas"
+        ],
+        "answer": "Jean-Louis Dumas"
+      },
+      {
+        "question": "Which fashion house staged the Metropolitan Museum exhibition 'Savage Beauty' in 2011?",
+        "options": [
+          "Alexander McQueen",
+          "Givenchy",
+          "Chanel"
+        ],
+        "answer": "Alexander McQueen"
+      },
+      {
+        "question": "Which designer took over as creative director at Gucci in 2015 and shifted the brand aesthetic?",
+        "options": [
+          "Alessandro Michele",
+          "Frida Giannini",
+          "Tom Ford"
+        ],
+        "answer": "Alessandro Michele"
+      },
+      {
+        "question": "Which couture house's archive famously inspired Karl Lagerfeld's modern Chanel revivals?",
+        "options": [
+          "House of Worth",
+          "Maison Goyard",
+          "House of Poiret"
+        ],
+        "answer": "House of Worth"
+      },
+      {
+        "question": "Which brand introduced the monogram canvas combining initials and floral motifs back in 1896?",
+        "options": [
+          "Louis Vuitton",
+          "Goyard",
+          "Hermès"
+        ],
+        "answer": "Louis Vuitton"
+      },
+      {
+        "question": "Which designer famously became creative director of Saint Laurent and rebranded it 'Saint Laurent Paris'?",
+        "options": [
+          "Hedi Slimane",
+          "Anthony Vaccarello",
+          "Alber Elbaz"
+        ],
+        "answer": "Hedi Slimane"
+      },
+      {
+        "question": "Which luxury house's crocodile Birkin variation is commonly referred to by collectors as 'Himalaya'?",
+        "options": [
+          "Hermès",
+          "Fendi",
+          "Chanel"
+        ],
+        "answer": "Hermès"
+      },
+      {
+        "question": "Which brand commissioned the first large-scale fashion show at the Palais de Tokyo in the 1970s?",
+        "options": [
+          "Yves Saint Laurent",
+          "Dior",
+          "Chanel"
+        ],
+        "answer": "Yves Saint Laurent"
+      },
+      {
+        "question": "Which Italian leather atelier founded in 1892 became famous for its house technique and monogram G?",
+        "options": [
+          "Gucci",
+          "Prada",
+          "Salvatore Ferragamo"
+        ],
+        "answer": "Gucci"
+      },
+      {
+        "question": "Which creative director revived Bottega Veneta with a minimalist logo-free aesthetic during the 2010s?",
+        "options": [
+          "Daniel Lee",
+          "Tomas Maier",
+          "Nicolas Ghesquière"
+        ],
+        "answer": "Daniel Lee"
+      },
+      {
+        "question": "Which French perfumer created Chanel No.5 for Coco Chanel in 1921?",
+        "options": [
+          "Ernest Beaux",
+          "François Demachy",
+          "Jacques Polge"
+        ],
+        "answer": "Ernest Beaux"
+      },
+      {
+        "question": "Which brand historically used a house code of 'Made in Italy' versus 'Made in France' to signal origin?",
+        "options": [
+          "Prada",
+          "Chanel",
+          "Cartier"
+        ],
+        "answer": "Prada"
+      },
+      {
+        "question": "Which Italian firm owns the footwear label Tod's and revived its Gommino driving shoe legacy?",
+        "options": [
+          "Tod's Group",
+          "Prada Group",
+          "Moncler Group"
+        ],
+        "answer": "Tod's Group"
+      },
+      {
+        "question": "Which couture house first established multiple ateliers across Paris and Geneva during the 19th century?",
+        "options": [
+          "House of Worth",
+          "Dior",
+          "Chanel"
+        ],
+        "answer": "House of Worth"
+      },
+      {
+        "question": "Which designer served as Christian Dior's immediate successor at the House of Dior in 1957?",
+        "options": [
+          "Yves Saint Laurent",
+          "Marc Bohan",
+          "Hubert de Givenchy"
+        ],
+        "answer": "Yves Saint Laurent"
+      },
+      {
+        "question": "Which luxury conglomerate acquired Fendi in a close partnership with the founding family in 2001?",
+        "options": [
+          "LVMH",
+          "Kering",
+          "Richemont"
+        ],
+        "answer": "LVMH"
+      },
+      {
+        "question": "Which designer introduced the concept of 'total look' tailoring and architectural silhouettes in couture?",
+        "options": [
+          "Cristóbal Balenciaga",
+          "Jean Patou",
+          "Paul Poiret"
+        ],
+        "answer": "Cristóbal Balenciaga"
+      },
+      {
+        "question": "Which fashion house established a signature interwoven leather technique called 'intrecciato' in the 1960s?",
+        "options": [
+          "Bottega Veneta",
+          "Valentino",
+          "Chloé"
+        ],
+        "answer": "Bottega Veneta"
+      },
+      {
+        "question": "Which brand's archival pieces include the iconic Dior Bar suit that defined postwar silhouette innovation?",
+        "options": [
+          "Dior",
+          "Givenchy",
+          "Balmain"
+        ],
+        "answer": "Dior"
+      },
+      {
+        "question": "Which couturier used math and geometry to sculpt garments and influenced modern architectural dressmaking?",
+        "options": [
+          "Paul Poiret",
+          "Madeleine Vionnet",
+          "Cristóbal Balenciaga"
+        ],
+        "answer": "Cristóbal Balenciaga"
+      },
+      {
+        "question": "Which Italian house's archive contains the original 'Rockstud' pyramid-studded accessories introduced in 2010s?",
+        "options": [
+          "Valentino",
+          "Versace",
+          "Moschino"
+        ],
+        "answer": "Valentino"
+      },
+      {
+        "question": "Which renowned fashion photographer shot many iconic Vogue covers and campaigns for Dior and Chanel?",
+        "options": [
+          "Richard Avedon",
+          "Annie Leibovitz",
+          "Mario Testino"
+        ],
+        "answer": "Richard Avedon"
+      },
+      {
+        "question": "Which couture firm requires members to present at least twenty-five original pieces during collection season?",
+        "options": [
+          "Haute couture houses under Chambre Syndicale",
+          "Ready-to-wear houses",
+          "Accessory maisons"
+        ],
+        "answer": "Haute couture houses under Chambre Syndicale"
+      },
+      {
+        "question": "Which designer famously staged the Dior fashion show in 1947 that revived Parisian couture after WWII?",
+        "options": [
+          "Christian Dior",
+          "Coco Chanel",
+          "Elsa Schiaparelli"
+        ],
+        "answer": "Christian Dior"
+      },
+      {
+        "question": "Which luxury house's logo features a double-T inspired by the founder's name and equestrian heritage?",
+        "options": [
+          "Tory Burch",
+          "Tod's",
+          "Trussardi"
+        ],
+        "answer": "Tory Burch"
+      },
+      {
+        "question": "Which fashion house created the iconic Bar jacket silhouette that became a defining New Look piece?",
+        "options": [
+          "Dior",
+          "Chanel",
+          "Balenciaga"
+        ],
+        "answer": "Dior"
+      },
+      {
+        "question": "Which designer's archive inspired recurring theatrical runway narratives and dramatic tailoring at Alexander McQueen?",
+        "options": [
+          "Savile Row tailoring traditions",
+          "Italian artisanal leatherwork",
+          "Japanese streetwear"
+        ],
+        "answer": "Savile Row tailoring traditions"
+      },
+      {
+        "question": "Which house historically limited production with artisanal workshops to maintain rarity in leather goods?",
+        "options": [
+          "Hermès",
+          "Louis Vuitton",
+          "Gucci"
+        ],
+        "answer": "Hermès"
+      }
+    ]
+  }
+}

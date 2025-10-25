@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is \"Series A\" funding commonly used for in startups?",
+      "options": [
+        "Scaling product-market fit and hiring teams",
+        "Paying dividends to founders",
+        "Buying other public companies"
+      ],
+      "answer": "Scaling product-market fit and hiring teams"
+    },
+    {
+      "question_id": 2,
+      "question": "Which unicorn workplace platform faced a failed IPO attempt and governance scrutiny in 2019?",
+      "options": [
+        "WeWork",
+        "Slack",
+        "Zoom"
+      ],
+      "answer": "WeWork"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early-stage financing instrument gives investors no fixed equity but future conversion rights and became popular post-2013?",
+      "options": [
+        "SAFE",
+        "Participating preferred",
+        "Convertible preferred stock"
+      ],
+      "answer": "SAFE"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"valuation\" mean in startup funding?",
+      "options": [
+        "Estimated company worth agreed in a funding round",
+        "Company's annual revenue",
+        "Number of employees times salary"
+      ],
+      "answer": "Estimated company worth agreed in a funding round"
+    },
+    {
+      "question_id": 5,
+      "question": "Which corporate structure do most early US startups use for venture funding?",
+      "options": [
+        "C corporation (C corp)",
+        "S corporation",
+        "LLC"
+      ],
+      "answer": "C corporation (C corp)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which growth financing round often attracts crossover public market investors before a company lists publicly?",
+      "options": [
+        "Late-stage crossover rounds",
+        "Seed rounds",
+        "Pre-seed grants"
+      ],
+      "answer": "Late-stage crossover rounds"
+    },
+    {
+      "question_id": 7,
+      "question": "What is \"churn\" for a startup with subscription customers?",
+      "options": [
+        "Rate customers stop using the service over time",
+        "Speed of product development",
+        "Marketing click-through rate"
+      ],
+      "answer": "Rate customers stop using the service over time"
+    },
+    {
+      "question_id": 8,
+      "question": "Which growth strategy involves giving away a product free to rapidly acquire users?",
+      "options": [
+        "Freemium model",
+        "All-pay model",
+        "Paywall strategy"
+      ],
+      "answer": "Freemium model"
+    },
+    {
+      "question_id": 9,
+      "question": "Which investor coined the observation that venture returns follow a \"power law\" distribution?",
+      "options": [
+        "Peter Thiel popularized the concept in VC discussions",
+        "John Doerr coined the term in the 1970s",
+        "Warren Buffett introduced the idea for startups"
+      ],
+      "answer": "Peter Thiel popularized the concept in VC discussions"
+    },
+    {
+      "question_id": 10,
+      "question": "Which payment company became a notable fintech unicorn and partners with online platforms?",
+      "options": [
+        "Stripe",
+        "Klarna",
+        "Square"
+      ],
+      "answer": "Stripe"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European startup ecosystem is home to companies like Spotify and Klarna?",
+      "options": [
+        "Stockholm",
+        "Paris",
+        "Berlin"
+      ],
+      "answer": "Stockholm"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company’s 2012 acquisition demonstrated mobile startups' strategic value to incumbents with a $1 billion price?",
+      "options": [
+        "Instagram acquired by Facebook",
+        "Foursquare acquired by Twitter",
+        "Path acquired by Google"
+      ],
+      "answer": "Instagram acquired by Facebook"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"liquidation preference\" protect for investors?",
+      "options": [
+        "Priority payout over common shareholders on exit",
+        "Control of hiring decisions",
+        "Maximum valuation cap"
+      ],
+      "answer": "Priority payout over common shareholders on exit"
+    },
+    {
+      "question_id": 14,
+      "question": "Which startup practice involves experimental A/B tests to optimize onboarding funnels and retention?",
+      "options": [
+        "Growth hacking with systematic A/B testing",
+        "Manual cold-calling",
+        "One-time product launches"
+      ],
+      "answer": "Growth hacking with systematic A/B testing"
+    },
+    {
+      "question_id": 15,
+      "question": "Which governance right limits founder control by allowing investors to veto specific actions?",
+      "options": [
+        "Protective provisions",
+        "Drag-along rights",
+        "Vesting schedule"
+      ],
+      "answer": "Protective provisions"
+    }
+  ]
+}

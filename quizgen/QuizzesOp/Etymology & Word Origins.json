@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What language does the word 'robot' originate from?",
+        "options": [
+          "Czech",
+          "Russian",
+          "German"
+        ],
+        "answer": "Czech"
+      },
+      {
+        "question": "Which two Greek letters form the word 'alphabet'?",
+        "options": [
+          "Alpha and Beta",
+          "Alpha and Gamma",
+          "Beta and Gamma"
+        ],
+        "answer": "Alpha and Beta"
+      },
+      {
+        "question": "The English word 'salary' originally referred to payment linked to which commodity?",
+        "options": [
+          "Salt",
+          "Grain",
+          "Land"
+        ],
+        "answer": "Salt"
+      },
+      {
+        "question": "Which mythological figure inspired the English word 'panic'?",
+        "options": [
+          "Pan",
+          "Zeus",
+          "Athena"
+        ],
+        "answer": "Pan"
+      },
+      {
+        "question": "Which language gave us 'quarantine' from 'quarantena' meaning forty days?",
+        "options": [
+          "Italian",
+          "Spanish",
+          "French"
+        ],
+        "answer": "Italian"
+      },
+      {
+        "question": "Who in Greek literature became the model for the English word 'mentor'?",
+        "options": [
+          "Mentor from Homer's Odyssey",
+          "Achilles",
+          "Hermes"
+        ],
+        "answer": "Mentor from Homer's Odyssey"
+      },
+      {
+        "question": "The word 'cereal' is derived from Latin and named after which Roman goddess?",
+        "options": [
+          "Ceres",
+          "Diana",
+          "Vesta"
+        ],
+        "answer": "Ceres"
+      },
+      {
+        "question": "Which Latin word gave rise to English 'candidate', referring to a bright white toga?",
+        "options": [
+          "candidatus",
+          "cantare",
+          "candela"
+        ],
+        "answer": "candidatus"
+      },
+      {
+        "question": "The casual farewell 'goodbye' is a contraction of which original phrase?",
+        "options": [
+          "God be with ye",
+          "Good be with you",
+          "Go with God"
+        ],
+        "answer": "God be with ye"
+      },
+      {
+        "question": "English honorific 'sir' ultimately derives from which earlier form?",
+        "options": [
+          "Sire",
+          "Signor",
+          "Saint"
+        ],
+        "answer": "Sire"
+      },
+      {
+        "question": "Which Roman god's name is the source of the English day name 'Saturday'?",
+        "options": [
+          "Saturn",
+          "Sol",
+          "Mars"
+        ],
+        "answer": "Saturn"
+      },
+      {
+        "question": "What does the Old English root in 'breakfast' literally mean?",
+        "options": [
+          "To break a fast",
+          "To bake bread",
+          "To make fast"
+        ],
+        "answer": "To break a fast"
+      },
+      {
+        "question": "Which language contributed the word 'bazaar' to English?",
+        "options": [
+          "Persian",
+          "Arabic",
+          "Turkish"
+        ],
+        "answer": "Persian"
+      },
+      {
+        "question": "The English word 'coffee' ultimately comes from which language via Turkish?",
+        "options": [
+          "Arabic",
+          "Persian",
+          "Swahili"
+        ],
+        "answer": "Arabic"
+      },
+      {
+        "question": "The term 'algorithm' is derived from the name of which medieval scholar?",
+        "options": [
+          "al-Khwarizmi",
+          "Alcuin",
+          "Alhazen"
+        ],
+        "answer": "al-Khwarizmi"
+      },
+      {
+        "question": "The chess term 'checkmate' comes from Persian 'shah mat' meaning what?",
+        "options": [
+          "The king is helpless",
+          "The king is dead",
+          "The king is crowned"
+        ],
+        "answer": "The king is helpless"
+      },
+      {
+        "question": "Which language is the immediate source of the English word 'kiosk'?",
+        "options": [
+          "Turkish",
+          "Greek",
+          "Persian"
+        ],
+        "answer": "Turkish"
+      },
+      {
+        "question": "Which Latin phrase directly translates as 'blank slate' in English?",
+        "options": [
+          "Tabula rasa",
+          "Carpe diem",
+          "Alma mater"
+        ],
+        "answer": "Tabula rasa"
+      },
+      {
+        "question": "From which language did English borrow the word 'cottage' meaning small house?",
+        "options": [
+          "Old French",
+          "Latin",
+          "Old Norse"
+        ],
+        "answer": "Old French"
+      },
+      {
+        "question": "Which Latin adjective meaning 'left' is the root of English 'sinister'?",
+        "options": [
+          "sinister",
+          "dexter",
+          "ambidexter"
+        ],
+        "answer": "sinister"
+      },
+      {
+        "question": "Which English word was borrowed directly from French ballet terminology?",
+        "options": [
+          "Ballet",
+          "Ballad",
+          "Ballette"
+        ],
+        "answer": "Ballet"
+      },
+      {
+        "question": "The English word 'window' derives from Old Norse 'vindauga' meaning what?",
+        "options": [
+          "Wind eye",
+          "Glass opening",
+          "Stone aperture"
+        ],
+        "answer": "Wind eye"
+      },
+      {
+        "question": "What does the word 'honeymoon' originally describe in marriage traditions?",
+        "options": [
+          "A period of sweetness after marriage",
+          "A wedding month payment",
+          "A harvest ritual"
+        ],
+        "answer": "A period of sweetness after marriage"
+      },
+      {
+        "question": "Which English word comes from Latin 'camera' originally meaning 'chamber'?",
+        "options": [
+          "Camera",
+          "Camomile",
+          "Camshaft"
+        ],
+        "answer": "Camera"
+      },
+      {
+        "question": "Which French loanword meaning 'again' is used in performance contexts?",
+        "options": [
+          "Encore",
+          "Encorely",
+          "Encourage"
+        ],
+        "answer": "Encore"
+      },
+      {
+        "question": "The word 'museum' comes from Greek 'Mouseion', originally a place for whom?",
+        "options": [
+          "The Muses",
+          "Philosophers",
+          "Soldiers"
+        ],
+        "answer": "The Muses"
+      },
+      {
+        "question": "Which everyday English noun comes from Latin 'animal' meaning a living being?",
+        "options": [
+          "Animal",
+          "Animate",
+          "Animus"
+        ],
+        "answer": "Animal"
+      },
+      {
+        "question": "The English word 'whale' traces back to Old English 'hwæl'; which animal is that?",
+        "options": [
+          "Whale",
+          "Dolphin",
+          "Porpoise"
+        ],
+        "answer": "Whale"
+      },
+      {
+        "question": "Which English word derives from Latin 'taberna', originally meaning a shop or tavern?",
+        "options": [
+          "Tavern",
+          "Tablet",
+          "Tabloid"
+        ],
+        "answer": "Tavern"
+      },
+      {
+        "question": "Which plant name comes into English from Latin 'aloe' via Arabic mediation?",
+        "options": [
+          "Aloe",
+          "Olive",
+          "Oleander"
+        ],
+        "answer": "Aloe"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which suffix '-esque' in English originates from which language?",
+        "options": [
+          "French",
+          "Latin",
+          "Greek"
+        ],
+        "answer": "French"
+      },
+      {
+        "question": "Which historical sound change is known for transforming PIE stops into Germanic fricatives?",
+        "options": [
+          "Grimm's law",
+          "Umlaut",
+          "Palatalization"
+        ],
+        "answer": "Grimm's law"
+      },
+      {
+        "question": "Verner's law primarily accounts for exceptions to which major Germanic sound law?",
+        "options": [
+          "Grimm's law",
+          "Great Vowel Shift",
+          "Analogy"
+        ],
+        "answer": "Grimm's law"
+      },
+      {
+        "question": "Which English pair demonstrates Norman French influence on meat vocabulary versus animals?",
+        "options": [
+          "Beef and Cow",
+          "Horse and Mare",
+          "Fish and Carp"
+        ],
+        "answer": "Beef and Cow"
+      },
+      {
+        "question": "Which Old Norse loanword entered English meaning an assembly or meeting?",
+        "options": [
+          "Thing",
+          "Moot",
+          "Council"
+        ],
+        "answer": "Thing"
+      },
+      {
+        "question": "What is the linguistic term for a word-by-word translation like 'skyscraper' into another language?",
+        "options": [
+          "Calque",
+          "Loanword",
+          "Cognate"
+        ],
+        "answer": "Calque"
+      },
+      {
+        "question": "Which English word comes from French 'restaurer', originally meaning to restore?",
+        "options": [
+          "Restaurant",
+          "Restoration",
+          "Restraint"
+        ],
+        "answer": "Restaurant"
+      },
+      {
+        "question": "What name describes the process that forms compounds like 'bookshop' or 'blackbird'?",
+        "options": [
+          "Compounding",
+          "Derivation",
+          "Borrowing"
+        ],
+        "answer": "Compounding"
+      },
+      {
+        "question": "Which 19th-century scholar is credited with founding modern semantics?",
+        "options": [
+          "Michel Bréal",
+          "Ferdinand de Saussure",
+          "Wilhelm von Humboldt"
+        ],
+        "answer": "Michel Bréal"
+      },
+      {
+        "question": "The English word 'algebra' comes from Arabic 'al-jabr' introduced by which discipline?",
+        "options": [
+          "Mathematics",
+          "Medicine",
+          "Philosophy"
+        ],
+        "answer": "Mathematics"
+      },
+      {
+        "question": "Which language explains why everyday 'egg' and scientific 'ovum' coexist in English?",
+        "options": [
+          "Old Norse and Latin",
+          "Old French and Greek",
+          "Old English and Sanskrit"
+        ],
+        "answer": "Old Norse and Latin"
+      },
+      {
+        "question": "The Old English word 'wyrd' evolved into modern 'weird'; what did 'wyrd' originally mean?",
+        "options": [
+          "Fate",
+          "Strange",
+          "Ghost"
+        ],
+        "answer": "Fate"
+      },
+      {
+        "question": "Which Old English epic preserves many early Germanic words, informing word-origin studies?",
+        "options": [
+          "Beowulf",
+          "The Canterbury Tales",
+          "Le Morte d'Arthur"
+        ],
+        "answer": "Beowulf"
+      },
+      {
+        "question": "What is the proper term for a mistaken popular belief about a word's origin?",
+        "options": [
+          "Folk etymology",
+          "Back-formation",
+          "Calque"
+        ],
+        "answer": "Folk etymology"
+      },
+      {
+        "question": "The English word 'sugar' reached Europe primarily through which route?",
+        "options": [
+          "Arabic via Romance languages",
+          "Chinese via Mongol traders",
+          "Native Americas via Spanish"
+        ],
+        "answer": "Arabic via Romance languages"
+      },
+      {
+        "question": "Which English word comes from the Proto-Germanic root *hausaz meaning a dwelling?",
+        "options": [
+          "House",
+          "Home",
+          "Hearth"
+        ],
+        "answer": "House"
+      },
+      {
+        "question": "Which Old English lexical item narrowed in meaning to produce modern 'meat'?",
+        "options": [
+          "Meat",
+          "Meal",
+          "Meadow"
+        ],
+        "answer": "Meat"
+      },
+      {
+        "question": "Which modern verb is a back-formation from 'editor'?",
+        "options": [
+          "Edit",
+          "Educate",
+          "Editate"
+        ],
+        "answer": "Edit"
+      },
+      {
+        "question": "Which historical event in 1066 significantly increased French vocabulary in English?",
+        "options": [
+          "Norman Conquest",
+          "Great Schism",
+          "Viking Invasion"
+        ],
+        "answer": "Norman Conquest"
+      },
+      {
+        "question": "What name describes the major Early Modern English pronunciation shift affecting vowels?",
+        "options": [
+          "Great Vowel Shift",
+          "Great Consonant Shift",
+          "Minor Vowel Change"
+        ],
+        "answer": "Great Vowel Shift"
+      },
+      {
+        "question": "Which month name in English derives from the Roman god Janus?",
+        "options": [
+          "January",
+          "June",
+          "March"
+        ],
+        "answer": "January"
+      },
+      {
+        "question": "Which New World language contributed the word 'tomato' to European languages?",
+        "options": [
+          "Nahuatl",
+          "Quechua",
+          "Guarani"
+        ],
+        "answer": "Nahuatl"
+      },
+      {
+        "question": "What term describes two English words derived from the same source, like 'host' and 'hotel'?",
+        "options": [
+          "Doublets",
+          "Cognates",
+          "False friends"
+        ],
+        "answer": "Doublets"
+      },
+      {
+        "question": "Which cooked-meat word shows Norman French influence, contrasting with the live animal 'sheep'?",
+        "options": [
+          "Mutton",
+          "Lamb",
+          "Goose"
+        ],
+        "answer": "Mutton"
+      },
+      {
+        "question": "What process adapts borrowed words to fit a language's sound system?",
+        "options": [
+          "Nativization",
+          "Calquing",
+          "Umlaut"
+        ],
+        "answer": "Nativization"
+      },
+      {
+        "question": "Which English pejorative derives from Latin 'villa' and evolved socially to 'villain'?",
+        "options": [
+          "Villain",
+          "Village",
+          "Villa"
+        ],
+        "answer": "Villain"
+      },
+      {
+        "question": "What term describes a brand name becoming a common noun, like 'thermos'?",
+        "options": [
+          "Genericide",
+          "Trademarking",
+          "Neologism"
+        ],
+        "answer": "Genericide"
+      },
+      {
+        "question": "Which Romance language contributed most heavily to English legal vocabulary historically?",
+        "options": [
+          "French",
+          "Spanish",
+          "Italian"
+        ],
+        "answer": "French"
+      },
+      {
+        "question": "Which English occupational title derives from Latin 'magister' meaning teacher or master?",
+        "options": [
+          "Master",
+          "Minister",
+          "Magnate"
+        ],
+        "answer": "Master"
+      },
+      {
+        "question": "Which semantic process describes 'awful' changing from 'awe-inspiring' to 'very bad'?",
+        "options": [
+          "Pejoration",
+          "Amelioration",
+          "Narrowing"
+        ],
+        "answer": "Pejoration"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Proto-Indo-European root is reconstructed as the origin of Latin 'pater' and English 'father'?",
+        "options": [
+          "*pəter",
+          "*méh₂tēr",
+          "*dʰugh₂tēr"
+        ],
+        "answer": "*pəter"
+      },
+      {
+        "question": "Which 18th-century jurist's observation first sparked comparative Indo-European studies?",
+        "options": [
+          "Sir William Jones",
+          "Rasmus Rask",
+          "Jacob Grimm"
+        ],
+        "answer": "Sir William Jones"
+      },
+      {
+        "question": "Which writing system preserves the earliest attested Hittite language texts?",
+        "options": [
+          "Cuneiform",
+          "Hieroglyphs",
+          "Linear B"
+        ],
+        "answer": "Cuneiform"
+      },
+      {
+        "question": "Which bilingual artifact enabled decipherment of Egyptian hieroglyphs and aided linguistic comparisons?",
+        "options": [
+          "Rosetta Stone",
+          "Behistun Inscription",
+          "Dead Sea Scrolls"
+        ],
+        "answer": "Rosetta Stone"
+      },
+      {
+        "question": "Which English adjective comes from Old Norse 'berserkr', literally 'bear-shirt'?",
+        "options": [
+          "Berserk",
+          "Berserker",
+          "Bearlike"
+        ],
+        "answer": "Berserk"
+      },
+      {
+        "question": "The Finnic languages, including Finnish and Estonian, belong to which family?",
+        "options": [
+          "Uralic",
+          "Indo-European",
+          "Altaic"
+        ],
+        "answer": "Uralic"
+      },
+      {
+        "question": "Which 1755 English dictionary notably shaped standardized English spelling and usage?",
+        "options": [
+          "A Dictionary of the English Language",
+          "Oxford English Dictionary",
+          "Webster's Dictionary"
+        ],
+        "answer": "A Dictionary of the English Language"
+      },
+      {
+        "question": "What term describes Latin-derived church vocabulary entering Old English after Christianization?",
+        "options": [
+          "Ecclesiastical borrowing",
+          "Calque formation",
+          "Iconoclasm"
+        ],
+        "answer": "Ecclesiastical borrowing"
+      },
+      {
+        "question": "Which mechanism explains irregular past forms like 'dove' appearing alongside 'dived'?",
+        "options": [
+          "Analogy",
+          "Ablaut",
+          "Metathesis"
+        ],
+        "answer": "Analogy"
+      },
+      {
+        "question": "Which Greek root meaning 'write' is found in words like 'graph' and 'telegram'?",
+        "options": [
+          "Graph-",
+          "Script-",
+          "Lex-"
+        ],
+        "answer": "Graph-"
+      },
+      {
+        "question": "Which general cause explains divergent modern forms like English 'museum' and French 'musée'?",
+        "options": [
+          "Different sound change paths",
+          "Coincidence",
+          "Translation error"
+        ],
+        "answer": "Different sound change paths"
+      },
+      {
+        "question": "Which English term evolved from Old French 'esquier' to denote a youthful noble attendant?",
+        "options": [
+          "Squire",
+          "Esquire",
+          "Squair"
+        ],
+        "answer": "Squire"
+      },
+      {
+        "question": "English 'street' comes from Latin 'strata'; what did 'strata' originally denote?",
+        "options": [
+          "A paved road",
+          "A marketplace",
+          "A fortress"
+        ],
+        "answer": "A paved road"
+      },
+      {
+        "question": "Which ancient language provided the primary lexical source for medieval church and law vocabulary?",
+        "options": [
+          "Latin",
+          "Old Norse",
+          "Coptic"
+        ],
+        "answer": "Latin"
+      },
+      {
+        "question": "Which Latin noun meaning 'finger' produced English 'digit' and related terms?",
+        "options": [
+          "digitus",
+          "digitum",
+          "dextrum"
+        ],
+        "answer": "digitus"
+      },
+      {
+        "question": "What is the linguistic term for forming a word by removing an affix, like 'edit' from 'editor'?",
+        "options": [
+          "Back-formation",
+          "Clipping",
+          "Blending"
+        ],
+        "answer": "Back-formation"
+      },
+      {
+        "question": "During which centuries did scholars place the main period of the Great Vowel Shift?",
+        "options": [
+          "15th to 18th centuries",
+          "10th to 12th centuries",
+          "19th to 20th centuries"
+        ],
+        "answer": "15th to 18th centuries"
+      },
+      {
+        "question": "Which English word derives from Latin 'liber' and names institutions for books?",
+        "options": [
+          "Library",
+          "Leaf",
+          "Ledger"
+        ],
+        "answer": "Library"
+      },
+      {
+        "question": "What term describes a single root developing multiple related senses over time?",
+        "options": [
+          "Polysemy",
+          "Homophony",
+          "Synonymy"
+        ],
+        "answer": "Polysemy"
+      },
+      {
+        "question": "Which linguist is known for proposing the controversial Nostratic macrofamily hypothesis?",
+        "options": [
+          "Vladislav Illich-Svitych",
+          "Ferdinand de Saussure",
+          "Noam Chomsky"
+        ],
+        "answer": "Vladislav Illich-Svitych"
+      },
+      {
+        "question": "Which English phrase is a calque of Spanish 'aire acondicionado'?",
+        "options": [
+          "Air conditioning",
+          "Climate control",
+          "Cooling system"
+        ],
+        "answer": "Air conditioning"
+      },
+      {
+        "question": "Which word for a rice field entered English from Malay 'padi' via Portuguese and sailors?",
+        "options": [
+          "Paddy",
+          "Rice",
+          "Paddyfield"
+        ],
+        "answer": "Paddy"
+      },
+      {
+        "question": "What label applies to reconstructed ancestral forms unattested in writing?",
+        "options": [
+          "Proto-form",
+          "Loanword",
+          "Neologism"
+        ],
+        "answer": "Proto-form"
+      },
+      {
+        "question": "The English place-name element '-chester' derives from Latin 'castra' meaning what?",
+        "options": [
+          "Military camp",
+          "Market town",
+          "River crossing"
+        ],
+        "answer": "Military camp"
+      },
+      {
+        "question": "Which linguistic process describes loss of an initial sound in a word over time?",
+        "options": [
+          "Aphaeresis",
+          "Apocope",
+          "Epenthesis"
+        ],
+        "answer": "Aphaeresis"
+      },
+      {
+        "question": "Which English adjective relating to fish derives from Latin 'piscis'?",
+        "options": [
+          "Piscatorial",
+          "Piscine",
+          "Piscineal"
+        ],
+        "answer": "Piscatorial"
+      },
+      {
+        "question": "The numerals 'zero' and 'cipher' entered Europe via Arabic from which original concept?",
+        "options": [
+          "sifr (empty)",
+          "sunya (void)",
+          "shunya (cycle)"
+        ],
+        "answer": "sifr (empty)"
+      },
+      {
+        "question": "Which early modern writer coined or popularized many English neologisms still used today?",
+        "options": [
+          "Shakespeare",
+          "Chaucer",
+          "Milton"
+        ],
+        "answer": "Shakespeare"
+      },
+      {
+        "question": "Which Old Norse-derived suffix '-by' in English place names denotes what?",
+        "options": [
+          "Village or farmstead",
+          "Hill",
+          "River crossing"
+        ],
+        "answer": "Village or farmstead"
+      },
+      {
+        "question": "Which Old English root 'wyrhta' produced the occupational term found in 'wheelwright' and modern 'wright'?",
+        "options": [
+          "Wright",
+          "Right",
+          "Write"
+        ],
+        "answer": "Wright"
+      }
+    ]
+  }
+}

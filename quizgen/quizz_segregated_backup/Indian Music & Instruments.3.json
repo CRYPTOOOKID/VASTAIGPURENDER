@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which keyboard instrument with bellows is common in Indian light classical accompaniment?",
+      "options": [
+        "Harmonium",
+        "Accordion",
+        "Piano"
+      ],
+      "answer": "Harmonium"
+    },
+    {
+      "question_id": 2,
+      "question": "Which film composer is known for fusing Indian classical elements with film music in the 1950s?",
+      "options": [
+        "S.D. Burman",
+        "A.R. Rahman",
+        "R.D. Burman"
+      ],
+      "answer": "S.D. Burman"
+    },
+    {
+      "question_id": 3,
+      "question": "Which medieval musicologist first used the concept of 22 shrutis within Indian tonal theory?",
+      "options": [
+        "Matanga",
+        "Bharata Muni",
+        "Sarngadeva"
+      ],
+      "answer": "Matanga"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian notation system uses syllables Sa Re Ga Ma to teach melodies?",
+      "options": [
+        "Sargam",
+        "Staff notation",
+        "Tablature"
+      ],
+      "answer": "Sargam"
+    },
+    {
+      "question_id": 5,
+      "question": "Which musical form did Amir Khusro historically influence in South Asian devotional music?",
+      "options": [
+        "Qawwali and tarana",
+        "Karnatak kriti",
+        "Rabindra sangeet"
+      ],
+      "answer": "Qawwali and tarana"
+    },
+    {
+      "question_id": 6,
+      "question": "Which bowed peacock-shaped instrument is credited to Guru Hargobind and linked to Sikh kirtan?",
+      "options": [
+        "Taus",
+        "Esraj",
+        "Dilruba"
+      ],
+      "answer": "Taus"
+    },
+    {
+      "question_id": 7,
+      "question": "Which long-necked plucked instrument, central to dhrupad, is also called Been?",
+      "options": [
+        "Rudra veena",
+        "Sitar",
+        "Sarod"
+      ],
+      "answer": "Rudra veena"
+    },
+    {
+      "question_id": 8,
+      "question": "Which legendary shehnai maestro brought the instrument to concert stages?",
+      "options": [
+        "Bismillah Khan",
+        "Ghulam Ali",
+        "Ravi Shankar"
+      ],
+      "answer": "Bismillah Khan"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian musician invented the Mohan Veena, merging slide guitar with Indian tuning and sympathetic strings?",
+      "options": [
+        "Vishwa Mohan Bhatt",
+        "Ravi Shankar",
+        "Hariprasad Chaurasia"
+      ],
+      "answer": "Vishwa Mohan Bhatt"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the renowned tabla virtuoso known globally for solos and collaborations?",
+      "options": [
+        "Zakir Hussain",
+        "Anindo Chatterjee",
+        "Swapan Chaudhuri"
+      ],
+      "answer": "Zakir Hussain"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian composer wrote and composed the original tune of 'Jana Gana Mana'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Tansen"
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 20th-century composer-singer popularized the santoor at classical concert level?",
+      "options": [
+        "Pandit Shivkumar Sharma",
+        "Ali Akbar Khan",
+        "Hariprasad Chaurasia"
+      ],
+      "answer": "Pandit Shivkumar Sharma"
+    },
+    {
+      "question_id": 13,
+      "question": "Which instrument typically supplies the continuous harmonic drone in classical concerts?",
+      "options": [
+        "Tanpura",
+        "Harmonium",
+        "Guitar"
+      ],
+      "answer": "Tanpura"
+    },
+    {
+      "question_id": 14,
+      "question": "Which pair names the two main drums of the tabla set?",
+      "options": [
+        "Dayan and Bayan",
+        "Dhol and Damru",
+        "Pakhawaj and Khol"
+      ],
+      "answer": "Dayan and Bayan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Carnatic improvisational form unfolds without tala and precedes kriti presentations?",
+      "options": [
+        "Alapana",
+        "Neraval",
+        "Kalpana Svara"
+      ],
+      "answer": "Alapana"
+    }
+  ]
+}

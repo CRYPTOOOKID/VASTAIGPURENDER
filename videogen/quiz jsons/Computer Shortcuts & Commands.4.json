@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which keyboard shortcut opens the Print dialog so you can print the current document on Windows?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+P",
+        "Ctrl+R"
+      ],
+      "answer": "Ctrl+P"
+    },
+    {
+      "question_id": 2,
+      "question": "Which browser shortcut toggles between open tabs in many desktop browsers in sequential order?",
+      "options": [
+        "Ctrl+Tab",
+        "Ctrl+Page Down",
+        "Ctrl+Shift+Tab"
+      ],
+      "answer": "Ctrl+Tab"
+    },
+    {
+      "question_id": 3,
+      "question": "Which terminal multiplexer historically uses Ctrl+A as its command prefix and influenced other tools?",
+      "options": [
+        "screen",
+        "byobu",
+        "tmux"
+      ],
+      "answer": "screen"
+    },
+    {
+      "question_id": 4,
+      "question": "Which key captures a screenshot of the entire screen to the clipboard on many Windows keyboards?",
+      "options": [
+        "Scroll Lock",
+        "Pause Break",
+        "Print Screen"
+      ],
+      "answer": "Print Screen"
+    },
+    {
+      "question_id": 5,
+      "question": "Which key sequence suspends a foreground process and returns control to the shell in Unix-like systems?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+Z",
+        "Ctrl+S"
+      ],
+      "answer": "Ctrl+Z"
+    },
+    {
+      "question_id": 6,
+      "question": "Which keyboard shortcut moves a window to the left half of the screen on Windows for snapping?",
+      "options": [
+        "Alt+Left Arrow",
+        "Win+Left Arrow",
+        "Win+Right Arrow"
+      ],
+      "answer": "Win+Left Arrow"
+    },
+    {
+      "question_id": 7,
+      "question": "Which shortcut selects all text and items in the current window or document on Windows?",
+      "options": [
+        "Ctrl+E",
+        "Ctrl+A",
+        "Ctrl+T"
+      ],
+      "answer": "Ctrl+A"
+    },
+    {
+      "question_id": 8,
+      "question": "Which shortcut in many browsers opens a private or incognito browsing window?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+Shift+N",
+        "Ctrl+Shift+P"
+      ],
+      "answer": "Ctrl+Shift+N"
+    },
+    {
+      "question_id": 9,
+      "question": "Which command-line tool converts text to lowercase or uppercase and is commonly used in Unix pipelines?",
+      "options": [
+        "tr",
+        "awk",
+        "sed"
+      ],
+      "answer": "tr"
+    },
+    {
+      "question_id": 10,
+      "question": "Which shortcut opens Task Manager directly without the intermediate Windows security screen?",
+      "options": [
+        "Ctrl+Shift+Esc",
+        "Ctrl+Alt+Del",
+        "Alt+Tab"
+      ],
+      "answer": "Ctrl+Shift+Esc"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Chrome shortcut completes the current entry in the address bar by adding \".com\" heuristically?",
+      "options": [
+        "Shift+Enter",
+        "Ctrl+Enter",
+        "Alt+Enter"
+      ],
+      "answer": "Ctrl+Enter"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Windows shortcut sends a screenshot of the currently active window to the clipboard?",
+      "options": [
+        "Alt+Print Screen",
+        "Win+Print Screen",
+        "Ctrl+Print Screen"
+      ],
+      "answer": "Alt+Print Screen"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Windows keyboard shortcut immediately locks the current user session and screen?",
+      "options": [
+        "Win+L",
+        "Ctrl+L",
+        "Alt+L"
+      ],
+      "answer": "Win+L"
+    },
+    {
+      "question_id": 14,
+      "question": "Which browser shortcut reopens the last closed window or tab in the correct order in many browsers?",
+      "options": [
+        "Ctrl+T",
+        "Ctrl+H",
+        "Ctrl+Shift+T"
+      ],
+      "answer": "Ctrl+Shift+T"
+    },
+    {
+      "question_id": 15,
+      "question": "Which PowerShell automatic variable contains the exit status of the last native program executed?",
+      "options": [
+        "$?",
+        "$PSVersionTable",
+        "$LASTEXITCODE"
+      ],
+      "answer": "$LASTEXITCODE"
+    }
+  ]
+}

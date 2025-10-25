@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which city is most associated with the famous layered rice and meat dish called Hyderabadi biryani?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which coastal Indian cuisine blends Hindu traditions with Portuguese-influenced vinegar and pork dishes?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which spice cluster in South Indian rasam often includes coriander seeds roasted and ground for earthy flavor?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which South Indian state is widely associated with the origin and popularization of the dosa?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which rice-and-potato version of biryani became popular in Kolkata after the introduction of certain affordable ingredients?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which form of street food in Kolkata uniquely layers potato, egg, and meat in a spiced gravy inside a bun called 'kathi roll' precursor?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common Indian term refers broadly to cooked pulses and legumes often eaten with rice or breads?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which North Indian sweet made from milk solids (khoya) is often flavored with saffron and cardamom?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which South Indian fermented rice pancake traditionally served in Kerala uses a fermented batter and often coconut in accompaniments?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which spice is often called the 'queen of spices' and used in many Indian sweets and biryanis?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which style of biryani is associated with Lucknow and often uses saffron-infused stock and delicate flavors?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which regional chutney from Andhra uses roasted peanuts, red chilies, and tamarind providing bold heat and nuttiness at meals?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which common Indian snack made from gram flour and vegetables is deep fried and served with chutney?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Hindi term describes the tempering technique of frying whole spices in hot oil before adding to a dish?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which pungent volcanic-origin rock salt common in chaat and chaats across India is prized for sulfurous flavor?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the simplest definition of 'creative brief'?",
+      "options": [
+        "A legal contract with the creative agency",
+        "A technical specification for website coding",
+        "A short document outlining campaign goals and audience"
+      ],
+      "answer": "A short document outlining campaign goals and audience"
+    },
+    {
+      "question_id": 2,
+      "question": "Which campaign test uses randomized control and treatment groups?",
+      "options": [
+        "Cross-sectional ad scheduling",
+        "Descriptive demographic profiling",
+        "Holdout or controlled experiment"
+      ],
+      "answer": "Holdout or controlled experiment"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the main limitation of last-click attribution in modern campaigns?",
+      "options": [
+        "Ignores upper-funnel and assist interactions",
+        "Overestimates organic search quality",
+        "Requires large randomized experiments"
+      ],
+      "answer": "Ignores upper-funnel and assist interactions"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'brand positioning' describe?",
+      "options": [
+        "Employee roles and responsibilities",
+        "The physical store layout",
+        "How a brand is perceived relative to competitors"
+      ],
+      "answer": "How a brand is perceived relative to competitors"
+    },
+    {
+      "question_id": 5,
+      "question": "Which channel is especially effective for high-intent searchers?",
+      "options": [
+        "Billboard advertising",
+        "Search engine marketing (SEM)",
+        "Cold email lists"
+      ],
+      "answer": "Search engine marketing (SEM)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced measurement challenge arises from cross-device user behavior?",
+      "options": [
+        "Counting only mobile app installs",
+        "Measuring print circulation",
+        "Accurately stitching identities across devices"
+      ],
+      "answer": "Accurately stitching identities across devices"
+    },
+    {
+      "question_id": 7,
+      "question": "What does ROI stand for in marketing?",
+      "options": [
+        "Return on investment",
+        "Rate of impressions",
+        "Regulatory oversight index"
+      ],
+      "answer": "Return on investment"
+    },
+    {
+      "question_id": 8,
+      "question": "Which channel mix principle balances reach and frequency effectively?",
+      "options": [
+        "Using multiple channels for repeated exposure",
+        "Relying solely on one high-frequency channel",
+        "Cutting budget to avoid frequency"
+      ],
+      "answer": "Using multiple channels for repeated exposure"
+    },
+    {
+      "question_id": 9,
+      "question": "Which attribution approach explicitly models decay of influence across interactions?",
+      "options": [
+        "Time-decay attribution",
+        "Zero-sum attribution",
+        "First-click attribution"
+      ],
+      "answer": "Time-decay attribution"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the typical purpose of a landing page in a campaign?",
+      "options": [
+        "Provide annual company financials",
+        "Convert visitors by focusing on one offer",
+        "Host the company internal wiki"
+      ],
+      "answer": "Convert visitors by focusing on one offer"
+    },
+    {
+      "question_id": 11,
+      "question": "Which marketing approach aligns messages to customer lifecycle stages?",
+      "options": [
+        "Lifecycle marketing",
+        "Asset liquidation",
+        "Product recall management"
+      ],
+      "answer": "Lifecycle marketing"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced segmentation uses clustering on behavioral patterns?",
+      "options": [
+        "Simple geographic buckets",
+        "Manual alphabetical lists",
+        "Unsupervised clustering segmentation"
+      ],
+      "answer": "Unsupervised clustering segmentation"
+    },
+    {
+      "question_id": 13,
+      "question": "Which social campaign technique encourages users to create and share content?",
+      "options": [
+        "Internal training campaign",
+        "User-generated content campaign",
+        "Direct mail campaign"
+      ],
+      "answer": "User-generated content campaign"
+    },
+    {
+      "question_id": 14,
+      "question": "Which viral campaign used user videos to raise ALS awareness in 2014?",
+      "options": [
+        "Old Spice Response",
+        "Red Bull Stratos",
+        "Ice Bucket Challenge"
+      ],
+      "answer": "Ice Bucket Challenge"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advanced creative technique uses modular assets assembled at runtime?",
+      "options": [
+        "Dynamic creative optimization (DCO) with modular templates",
+        "Fixed hero-image banners",
+        "Hand-coded single creatives"
+      ],
+      "answer": "Dynamic creative optimization (DCO) with modular templates"
+    }
+  ]
+}

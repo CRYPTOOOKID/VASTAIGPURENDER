@@ -1,0 +1,108 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                    VAST.AI GPU RENDERING - CHEAT SHEET                     ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌─ 1. CONNECT ─────────────────────────────────────────────────────────────┐
+│ ssh -p <PORT> root@<IP>                                                   │
+└───────────────────────────────────────────────────────────────────────────┘
+
+┌─ 2. ONE-TIME SETUP ──────────────────────────────────────────────────────┐
+│ apt-get update                                                            │
+│ curl -fsSL https://deb.nodesource.com/setup_20.x | bash -                │
+│ apt-get install -y nodejs libglib2.0-0 libnss3 libnspr4 libatk1.0-0 \    │
+│     libatk-bridge2.0-0 libcups2 libdrm2 libdbus-1-3 libxkbcommon0 \      │
+│     libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 \           │
+│     libpango-1.0-0 libcairo2 libasound2 libatspi2.0-0 libxshmfence1 \    │
+│     libgl1 libglu1-mesa mesa-utils xvfb git rsync                        │
+│ nvidia-smi                                                                │
+└───────────────────────────────────────────────────────────────────────────┘
+
+┌─ 3. CLONE & INSTALL ─────────────────────────────────────────────────────┐
+│ git clone <YOUR_REPO_URL>                                                 │
+│ cd "Projects /Quiz Channel 2.0/videogen"                                  │
+│ npm install                                                               │
+└───────────────────────────────────────────────────────────────────────────┘
+
+┌─ 4. TEST (IMPORTANT!) ───────────────────────────────────────────────────┐
+│ npm run render:master -- --one                                            │
+│ ls -lh out/*.mp4                                                          │
+└───────────────────────────────────────────────────────────────────────────┘
+
+┌─ 5. RENDER ALL ──────────────────────────────────────────────────────────┐
+│ npm run render:master -- --all                                            │
+│ (Type 'yes' when prompted)                                                │
+└───────────────────────────────────────────────────────────────────────────┘
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                              DOWNLOAD VIDEOS                               ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌─ ON YOUR LOCAL MACHINE ──────────────────────────────────────────────────┐
+│ mkdir -p ~/Desktop/rendered-videos                                        │
+│                                                                            │
+│ # Download all at once:                                                   │
+│ rsync -avz --progress -e "ssh -p <PORT>" \                                │
+│     root@<IP>:"/root/Projects /Quiz Channel 2.0/videogen/out/" \          │
+│     ~/Desktop/rendered-videos/                                            │
+│                                                                            │
+│ # Or download incrementally (every 30 min while rendering):               │
+│ while true; do                                                            │
+│     rsync -avz --progress --update -e "ssh -p <PORT>" \                   │
+│         root@<IP>:"/root/Projects /Quiz Channel 2.0/videogen/out/" \      │
+│         ~/Desktop/rendered-videos/                                        │
+│     echo "✅ Synced at $(date). Waiting 30min..."                          │
+│     sleep 1800                                                            │
+│ done                                                                      │
+└───────────────────────────────────────────────────────────────────────────┘
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                            MONITORING COMMANDS                             ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+npm run render:master -- --summary    # Progress summary
+ls out/*.mp4 | wc -l                  # Count videos
+du -sh out/                           # Total size
+df -h                                 # Disk space
+watch -n 1 nvidia-smi                 # GPU usage (Ctrl+C to exit)
+free -h                               # RAM usage
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                              TROUBLESHOOTING                               ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+nvidia-smi                            # Check GPU
+npm run render:master -- --reset      # Reset stuck videos
+cat ~/.remotion/logs/*.log            # Check logs
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                               USEFUL TIPS                                  ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+# Keep render running after SSH disconnect:
+screen -S render
+npm run render:master -- --all
+# Press Ctrl+A then D to detach
+# Reconnect: screen -r render
+
+# Your instance details (for reference):
+# GPU: 31.8 GB VRAM, 107.6 TFLOPS
+# CPU: 24 cores (192 total)
+# Expected: 30-60 seconds per video
+# Total time: 14-28 hours for 430 videos
+# Cost: ~$7-28 total
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          ⚠️  IMPORTANT REMINDERS                           ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+✓ Always test with --one first
+✓ Start downloading while rendering (saves time)
+✓ Verify all videos downloaded before destroying instance
+✓ STOP INSTANCE when done to avoid charges
+✓ Backup videos locally
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║               FOR DETAILED INSTRUCTIONS, SEE:                              ║
+║               START_HERE_VASTAI.md                                         ║
+╚════════════════════════════════════════════════════════════════════════════╝
+

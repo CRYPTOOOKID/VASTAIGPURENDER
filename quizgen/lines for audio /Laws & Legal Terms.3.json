@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'probable cause' used for?"
+    },
+    {
+      "question_id": 2,
+      "question": "What legal test assesses search reasonableness under the Fourth Amendment?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test determines whether a law is overly vague under due process?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'statute of limitations' set?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the legal meaning of 'consideration' in contracts?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rule prevents admitting character evidence to prove conduct?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a contract 'breach'?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'force majeure' clause typically address?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which doctrine lets courts dismiss claims lacking standing?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'liability' refer to legally?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which agency typically enforces workplace safety laws in the United States?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept defines when treaties become part of domestic law in dualist systems?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'probative value' of evidence?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which principle limits use of prior inconsistent statements at trial?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the hallmark of 'strict scrutiny' review?"
+    }
+  ]
+}

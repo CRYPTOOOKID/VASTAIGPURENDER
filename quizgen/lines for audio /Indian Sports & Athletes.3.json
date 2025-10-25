@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian woman wrestler won an Olympic bronze in 2016 and 2020?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian cricketer scored the fastest ODI century for India by balls faced in earlier years?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian cricketer scored a world-record 17 sixes in a single Test innings in 2014?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who scored India's first individual Olympic gold medal in 2008?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian motorcyclist won the 2023 MotoGP sprint pole? (Historic Indian participation reference)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian cricketer scored a double century in Test cricket within 2009 against Pakistan?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian hockey legend is widely called 'The Wizard' for goal-scoring skills?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian sports award was renamed Major Dhyan Chand Khel Ratna Award in 2021?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian boxer won gold in the 51kg category at the 2010 Commonwealth Games?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian cricketer has the record for most international centuries overall?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who was India's captain during the 2011 Cricket World Cup victory?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian boxer defeated Cuba's Yumlek O'Gorman to win her sixth world title in 2018?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian athlete is famously nicknamed the 'Flying Sikh'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian football club won the I-League title in 2012 and has historic successes?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian para-athlete won gold in javelin at Rio 2016 Paralympics?"
+    }
+  ]
+}

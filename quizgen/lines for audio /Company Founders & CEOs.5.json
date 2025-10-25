@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who co-founded Netflix in 1997?"
+    },
+    {
+      "question_id": 2,
+      "question": "In which year did Google reorganize under the parent company Alphabet?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which outside executive became Google's CEO in 2001, stabilizing growth?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded IKEA?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which entrepreneur purchased The Washington Post in 2013?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which co-founder walked away from Apple with a small stake and brief tenure in 1976?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which entrepreneur co-founded Sony?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which entrepreneur founded SpaceX in 2002?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which founder started PayPal's precursor Confinity alongside Max Levchin?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which YouTube co-founder uploaded the platform's first video?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Alibaba founder stepped down as executive chairman in 2019?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Apple founder acquired and led Pixar before its IPO and Disney sale?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who co-founded Snapchat?"
+    },
+    {
+      "question_id": 14,
+      "question": "What was Facebook's original name at Harvard?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company did Elon Musk found in 2002 focused on rockets and spacecraft?"
+    }
+  ]
+}

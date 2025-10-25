@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded Amazon in 1994?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which entrepreneur co-founded the professional network LinkedIn?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which founder of Alibaba famously gave a 2015 speech criticizing short-term thinking in business?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which entrepreneur co-founded PayPal and later founded Palantir?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Microsoft co-founder created a major global philanthropic foundation?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company acquired Instagram in 2012 for about $1 billion?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded Walmart?"
+    },
+    {
+      "question_id": 8,
+      "question": "In which year did Amazon launch its Prime subscription service?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Netflix co-founder proposed the subscription model that replaced late fees?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which entrepreneur co-founded Instagram?"
+    },
+    {
+      "question_id": 11,
+      "question": "In which year did Jack Ma found Alibaba?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which early Apple co-founder sold his shares back to Jobs and Wozniak for $800?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who founded the fashion retailer Zara?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which entrepreneur co-founded Dropbox and served as CEO?"
+    },
+    {
+      "question_id": 15,
+      "question": "Before founding Amazon, at which firm did Jeff Bezos work?"
+    }
+  ]
+}

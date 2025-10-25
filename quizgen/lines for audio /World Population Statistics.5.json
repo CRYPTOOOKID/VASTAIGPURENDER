@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'median age' of a population represent?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which global decade saw the largest absolute increase in world population?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical adjustment addresses underreporting of infant deaths in national vital registration systems?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which continent has the youngest average population age?"
+    },
+    {
+      "question_id": 5,
+      "question": "Around what year did the world population reach 1 billion?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which projection scenario assumes constant fertility, mortality, and migration rates from a base year?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'urbanization' refer to in population studies?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country became the most populous nation in the 21st century by overtaking China in projections?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which African demographic transition pattern is characterized by sustained high fertility and falling mortality?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which continent has the largest population?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statistic measures expected remaining years of life at a specific age rather than at birth?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept quantifies number of births prevented by contraceptive use compared to no contraception?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the primary purpose of a national census?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country experienced a rapid aging population due to low fertility and high longevity?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which statistical method is most commonly used to estimate age-specific fertility rates from survey data?"
+    }
+  ]
+}

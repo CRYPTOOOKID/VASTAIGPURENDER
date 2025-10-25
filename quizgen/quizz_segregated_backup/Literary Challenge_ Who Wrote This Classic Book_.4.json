@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who authored 'The Picture of Dorian Gray'?",
+      "options": [
+        "Oscar Wilde",
+        "Matthew Arnold",
+        "G. K. Chesterton"
+      ],
+      "answer": "Oscar Wilde"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote 'The Count of Monte Cristo' originally in which language author wrote?",
+      "options": [
+        "Alexandre Dumas (French)",
+        "Victor Hugo (French)",
+        "James Fenimore Cooper (English)"
+      ],
+      "answer": "Alexandre Dumas (French)"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'The Pillow Book' contemporary of The Tale of Genji?",
+      "options": [
+        "Sei Shōnagon",
+        "Murasaki Shikibu",
+        "Fujiwara no Teika"
+      ],
+      "answer": "Sei Shōnagon"
+    },
+    {
+      "question_id": 4,
+      "question": "Who wrote 'Frankenstein'?",
+      "options": [
+        "Mary Shelley",
+        "Edgar Allan Poe",
+        "Ann Radcliffe"
+      ],
+      "answer": "Mary Shelley"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": [
+        "Gabriel García Márquez",
+        "Pablo Neruda",
+        "Jorge Luis Borges"
+      ],
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote the first full-length English novel often credited as the first English novel, 'Robinson Crusoe'?",
+      "options": [
+        "Daniel Defoe",
+        "Samuel Richardson",
+        "Aphra Behn"
+      ],
+      "answer": "Daniel Defoe"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'The Grapes of Wrath'?",
+      "options": [
+        "John Steinbeck",
+        "William Faulkner",
+        "Ernest Hemingway"
+      ],
+      "answer": "John Steinbeck"
+    },
+    {
+      "question_id": 8,
+      "question": "Who authored 'The Canterbury Tales'?",
+      "options": [
+        "Geoffrey Chaucer",
+        "John Gower",
+        "William Langland"
+      ],
+      "answer": "Geoffrey Chaucer"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote the Bildungsroman 'Wilhelm Meister's Apprenticeship'?",
+      "options": [
+        "Johann Wolfgang von Goethe",
+        "Friedrich Schiller",
+        "Thomas Mann"
+      ],
+      "answer": "Johann Wolfgang von Goethe"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the author of 'Lord of the Flies'?",
+      "options": [
+        "William Golding",
+        "Aldous Huxley",
+        "Arthur C. Clarke"
+      ],
+      "answer": "William Golding"
+    },
+    {
+      "question_id": 11,
+      "question": "Who authored 'The Sun Also Rises'?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Dos Passos"
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 12,
+      "question": "Who authored 'The Way We Live Now', a satire of Victorian capitalism?",
+      "options": [
+        "Anthony Trollope",
+        "George Eliot",
+        "William Makepeace Thackeray"
+      ],
+      "answer": "Anthony Trollope"
+    },
+    {
+      "question_id": 13,
+      "question": "Who authored 'The Adventures of Huckleberry Finn'?",
+      "options": [
+        "Mark Twain",
+        "Charles Dickens",
+        "Robert Louis Stevenson"
+      ],
+      "answer": "Mark Twain"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'Invisible Man' (1952 novel)?",
+      "options": [
+        "Ralph Ellison",
+        "James Baldwin",
+        "Richard Wright"
+      ],
+      "answer": "Ralph Ellison"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote 'In Search of Lost Time' (À la recherche du temps perdu)?",
+      "options": [
+        "Marcel Proust",
+        "Émile Zola",
+        "André Gide"
+      ],
+      "answer": "Marcel Proust"
+    }
+  ]
+}

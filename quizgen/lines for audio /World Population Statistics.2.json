@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which demographic term measures the ratio of dependents to working-age population?"
+    },
+    {
+      "question_id": 2,
+      "question": "What demographic metric indicates children under age 5 dying per 1,000 live births?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which population concept counts people who usually reside in a country regardless of citizenship?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'population density' measure?"
+    },
+    {
+      "question_id": 5,
+      "question": "What demographic transition stage features falling death rates and high birth rates leading to rapid growth?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which large country experienced a pronounced gender imbalance at birth in the late 20th century due to sex-selective practices?"
+    },
+    {
+      "question_id": 7,
+      "question": "What term describes the number of births per 1,000 people per year?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country conducted the first modern national census in 1801?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country had the highest recorded population growth rate during the mid-20th century due to postwar baby boom?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country saw rapid population growth in the 20th century due to industrialization and health improvements?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statistic measures the average number of years a newborn is expected to live under current mortality rates?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which index measures the concentration of population in urban areas relative to rural areas globally?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which demographic indicator commonly declines as countries develop economically?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Asian country implemented a one-child policy from 1979 to 2015?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which measurement combines fertility, mortality, and migration to project population structures over time?"
+    }
+  ]
+}

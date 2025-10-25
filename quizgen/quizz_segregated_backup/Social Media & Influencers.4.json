@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a direct message (DM) used for?",
+      "options": [
+        "Private communication between users",
+        "Public broadcasting to followers",
+        "Automatic comment filtering"
+      ],
+      "answer": "Private communication between users"
+    },
+    {
+      "question_id": 2,
+      "question": "Which tool type helps identify trending topics and influencers in real time?",
+      "options": [
+        "Social listening platforms",
+        "Photo editing apps",
+        "Ad-blocking extensions"
+      ],
+      "answer": "Social listening platforms"
+    },
+    {
+      "question_id": 3,
+      "question": "Which milestone did TikTok achieve by 2019 in global downloads?",
+      "options": [
+        "Became among the most downloaded apps globally",
+        "Launched desktop-only features",
+        "Stopped all advertising globally"
+      ],
+      "answer": "Became among the most downloaded apps globally"
+    },
+    {
+      "question_id": 4,
+      "question": "What is \"UGC\" in social marketing?",
+      "options": [
+        "User-generated content created by audiences",
+        "Unverified global channels on platforms",
+        "Universal goal conversion metric"
+      ],
+      "answer": "User-generated content created by audiences"
+    },
+    {
+      "question_id": 5,
+      "question": "What is \"UGC campaign\" shorthand for in marketing terms?",
+      "options": [
+        "User-generated content campaign",
+        "Unlimited global content program",
+        "Unified growth and conversion plan"
+      ],
+      "answer": "User-generated content campaign"
+    },
+    {
+      "question_id": 6,
+      "question": "Which global event accelerated influencer livestream shopping adoption in multiple markets?",
+      "options": [
+        "The COVID-19 pandemic",
+        "The 2016 Olympic Games",
+        "The 2010 World Cup"
+      ],
+      "answer": "The COVID-19 pandemic"
+    },
+    {
+      "question_id": 7,
+      "question": "What is \"social listening\" used for by brands?",
+      "options": [
+        "Monitoring online mentions and sentiment",
+        "Automatically buying ad space",
+        "Scheduling celebrity appearances"
+      ],
+      "answer": "Monitoring online mentions and sentiment"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a common contract deliverable for influencers?",
+      "options": [
+        "Number and type of posts with posting dates",
+        "Exclusive ownership of brand trademarks",
+        "Platform algorithm source code"
+      ],
+      "answer": "Number and type of posts with posting dates"
+    },
+    {
+      "question_id": 9,
+      "question": "Which content moderation risk do brands assess when partnering with creators?",
+      "options": [
+        "Creator history of policy violations or controversial statements",
+        "Number of fonts used in posts",
+        "Average post file size"
+      ],
+      "answer": "Creator history of policy violations or controversial statements"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"organic reach\" mean for posts?",
+      "options": [
+        "Audience reached without paid promotion",
+        "Reach achieved only through ads",
+        "Reach limited to verified users"
+      ],
+      "answer": "Audience reached without paid promotion"
+    },
+    {
+      "question_id": 11,
+      "question": "Which platform acquired influencer marketplace FameBit in 2016?",
+      "options": [
+        "YouTube",
+        "Instagram",
+        "Pinterest"
+      ],
+      "answer": "YouTube"
+    },
+    {
+      "question_id": 12,
+      "question": "Which social network introduced the blue verification badge concept widely copied elsewhere?",
+      "options": [
+        "Twitter",
+        "Snapchat",
+        "Pinterest"
+      ],
+      "answer": "Twitter"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a \"call to action\" (CTA) in influencer posts?",
+      "options": [
+        "Requesting audience to act, like visit or buy",
+        "An automated reply from the platform",
+        "A privacy setting for followers"
+      ],
+      "answer": "Requesting audience to act, like visit or buy"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metric helps brands estimate cost efficiency of influencer ads?",
+      "options": [
+        "Cost per mille (CPM)",
+        "Number of profile pictures",
+        "Number of account admins"
+      ],
+      "answer": "Cost per mille (CPM)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which verification action do brands use to ensure creator analytics authenticity?",
+      "options": [
+        "Requesting platform-native analytics screenshots",
+        "Checking number of profile pictures",
+        "Reading only public captions"
+      ],
+      "answer": "Requesting platform-native analytics screenshots"
+    }
+  ]
+}

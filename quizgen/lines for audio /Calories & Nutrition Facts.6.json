@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which nutrient group includes sugars, starches, and fiber?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which macronutrient's excess intake most directly increases urinary nitrogen excretion?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historic observation led to standardized calorie tables and food energy science?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which label ingredient indicates added simple sugars rather than natural sugars?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which effect reduces calorie absorption from some high-fiber meals?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fatty acid class contains essential omega-3s and omega-6s required in the diet?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common kitchen measurement often differs from a serving size?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does nutrient density measure in a food?"
+    },
+    {
+      "question_id": 9,
+      "question": "What major limitation separates bomb calorimeter readings from physiological energy?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which food component supplies energy but is not an essential nutrient?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which advanced concept links caloric content with hormonal responses influencing appetite?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which essential fatty acid family includes linoleic acid with known calorie contribution?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phenomenon explains why some high-fat foods feel less filling per calorie than protein-rich foods?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which advanced sweetener can be fermented by gut microbes producing calories unexpectedly?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which factor causes alcohol to be metabolized preferentially over other macronutrients?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a target market in marketing terms?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does working capital equal in basic accounting terms?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the primary risk hedged using currency forwards?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does IPO stand for in finance and business?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which economist developed the concept of comparative advantage?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does GAAP stand for in accounting standards?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is inventory turnover a measure of?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is operating leverage in financial analysis?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is a conglomerate discount observed in capital markets?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is cash flow from operations?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does customer lifetime value (LTV) represent?"
+    },
+    {
+      "question_id": 12,
+      "question": "What does accretive acquisition mean for earnings per share?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a franchise in business terms?"
+    },
+    {
+      "question_id": 14,
+      "question": "What defines economies of scale in operations?"
+    },
+    {
+      "question_id": 15,
+      "question": "What does the term 'skin in the game' imply for executives?"
+    }
+  ]
+}

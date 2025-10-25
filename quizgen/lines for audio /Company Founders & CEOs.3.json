@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded eBay and listed the first auction there?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who founded Zoom Video Communications and served as its CEO?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare stock event occurred when Google's IPO used a Dutch auction in 2004?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded the LEGO Group?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which female entrepreneur founded the Estée Lauder cosmetics company?"
+    },
+    {
+      "question_id": 6,
+      "question": "What mathematical term inspired the name 'Google'?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who co-founded Microsoft with Paul Allen?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who replaced Steve Ballmer as Microsoft CEO in 2014?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Microsoft executive led Cloud & Enterprise before becoming CEO in 2014?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which pair co-founded Google?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which WhatsApp co-founder previously worked at Yahoo?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which co-founder of WhatsApp emigrated from Ukraine and later sold the app to Facebook?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who founded Dell Technologies?"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Apple first go public?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which entrepreneur founded Dell from a dorm room selling upgraded PCs?"
+    }
+  ]
+}

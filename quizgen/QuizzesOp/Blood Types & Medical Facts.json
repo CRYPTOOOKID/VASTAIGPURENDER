@@ -1,0 +1,829 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which blood group has both A and B antigens on red blood cells?",
+        "options": [
+          "Type A",
+          "Type B",
+          "Type AB"
+        ],
+        "answer": "Type AB"
+      },
+      {
+        "question": "Which blood type is often called the universal red blood cell donor?",
+        "options": [
+          "O negative",
+          "AB positive",
+          "A positive"
+        ],
+        "answer": "O negative"
+      },
+      {
+        "question": "Which blood type is considered the universal plasma donor?",
+        "options": [
+          "AB",
+          "O",
+          "B"
+        ],
+        "answer": "AB"
+      },
+      {
+        "question": "What does the Rh factor determine in blood typing?",
+        "options": [
+          "Presence of D antigen",
+          "Quantity of hemoglobin",
+          "White blood cell count"
+        ],
+        "answer": "Presence of D antigen"
+      },
+      {
+        "question": "Which antibody class primarily mediates immediate ABO incompatibility reactions?",
+        "options": [
+          "IgM",
+          "IgG",
+          "IgA"
+        ],
+        "answer": "IgM"
+      },
+      {
+        "question": "Which blood test determines a person’s ABO and Rh status?",
+        "options": [
+          "Blood typing",
+          "Complete metabolic panel",
+          "Lipid profile"
+        ],
+        "answer": "Blood typing"
+      },
+      {
+        "question": "Which blood type lacks A and B antigens on red blood cells?",
+        "options": [
+          "Type O",
+          "Type A",
+          "Type AB"
+        ],
+        "answer": "Type O"
+      },
+      {
+        "question": "Which professional typically collects blood donations for transfusion?",
+        "options": [
+          "Phlebotomist",
+          "Radiologist",
+          "Physical therapist"
+        ],
+        "answer": "Phlebotomist"
+      },
+      {
+        "question": "Which organ commonly requires ABO compatibility for transplantation?",
+        "options": [
+          "Kidney",
+          "Bone",
+          "Cornea"
+        ],
+        "answer": "Kidney"
+      },
+      {
+        "question": "Which component of blood carries oxygen to tissues?",
+        "options": [
+          "Red blood cells",
+          "Platelets",
+          "Plasma"
+        ],
+        "answer": "Red blood cells"
+      },
+      {
+        "question": "Which blood component helps stop bleeding by forming clots?",
+        "options": [
+          "Platelets",
+          "Plasma",
+          "White blood cells"
+        ],
+        "answer": "Platelets"
+      },
+      {
+        "question": "Which component contains clotting factors and is liquid portion of blood?",
+        "options": [
+          "Plasma",
+          "Red cells",
+          "Platelets"
+        ],
+        "answer": "Plasma"
+      },
+      {
+        "question": "Which result shows a person has antibodies to A and B antigens?",
+        "options": [
+          "Type O",
+          "Type AB",
+          "Type A"
+        ],
+        "answer": "Type O"
+      },
+      {
+        "question": "Which blood type can receive red blood cells from any ABO type without ABO incompatibility?",
+        "options": [
+          "AB positive",
+          "O negative",
+          "A negative"
+        ],
+        "answer": "AB positive"
+      },
+      {
+        "question": "Which test detects antibodies bound directly to red blood cells?",
+        "options": [
+          "Direct antiglobulin test",
+          "Electrolyte panel",
+          "Thyroid test"
+        ],
+        "answer": "Direct antiglobulin test"
+      },
+      {
+        "question": "Which antigen is the major determinant of Rh positivity?",
+        "options": [
+          "D antigen",
+          "H antigen",
+          "K antigen"
+        ],
+        "answer": "D antigen"
+      },
+      {
+        "question": "Which practice reduces transfusion-transmitted infection risk from donors?",
+        "options": [
+          "Screening donors",
+          "X-ray imaging",
+          "Ultrasound scanning"
+        ],
+        "answer": "Screening donors"
+      },
+      {
+        "question": "Which condition results from incompatible maternal and fetal blood types?",
+        "options": [
+          "Hemolytic disease of the fetus",
+          "Pneumonia",
+          "Appendicitis"
+        ],
+        "answer": "Hemolytic disease of the fetus"
+      },
+      {
+        "question": "Which blood product is commonly given to patients with low hemoglobin?",
+        "options": [
+          "Packed red blood cells",
+          "Platelet concentrate",
+          "Fresh frozen plasma"
+        ],
+        "answer": "Packed red blood cells"
+      },
+      {
+        "question": "Which blood component is stored at room temperature with gentle agitation?",
+        "options": [
+          "Platelets",
+          "Red blood cells",
+          "Frozen plasma"
+        ],
+        "answer": "Platelets"
+      },
+      {
+        "question": "Which screening prevents Rh-negative mothers from developing anti-D antibodies?",
+        "options": [
+          "Rho(D) immune globulin",
+          "Influenza vaccine",
+          "Vitamin K injection"
+        ],
+        "answer": "Rho(D) immune globulin"
+      },
+      {
+        "question": "Which term describes the liquid portion of blood after clotting?",
+        "options": [
+          "Serum",
+          "Red plasma",
+          "Whole blood"
+        ],
+        "answer": "Serum"
+      },
+      {
+        "question": "Which test measures compatibility before transfusion between donor and recipient blood?",
+        "options": [
+          "Crossmatch",
+          "Blood glucose",
+          "Cholesterol test"
+        ],
+        "answer": "Crossmatch"
+      },
+      {
+        "question": "Which symptom suggests an acute hemolytic transfusion reaction?",
+        "options": [
+          "Fever and back pain",
+          "Hair loss",
+          "Blurred vision"
+        ],
+        "answer": "Fever and back pain"
+      },
+      {
+        "question": "Which blood type is defined by presence of A antigen and anti-B antibodies?",
+        "options": [
+          "Type A",
+          "Type B",
+          "Type AB"
+        ],
+        "answer": "Type A"
+      },
+      {
+        "question": "Which cell type increases during bacterial infection rather than transfusion reaction?",
+        "options": [
+          "White blood cells",
+          "Red blood cells",
+          "Platelets"
+        ],
+        "answer": "White blood cells"
+      },
+      {
+        "question": "Which vital measure is essential before and after a blood transfusion?",
+        "options": [
+          "Blood pressure and temperature",
+          "Height and weight",
+          "Vision test"
+        ],
+        "answer": "Blood pressure and temperature"
+      },
+      {
+        "question": "Which term describes when a patient donates blood for their own later use?",
+        "options": [
+          "Autologous donation",
+          "Directed donation",
+          "Anonymous donation"
+        ],
+        "answer": "Autologous donation"
+      },
+      {
+        "question": "Which antigen absence characterizes the Bombay blood phenotype?",
+        "options": [
+          "H antigen",
+          "D antigen",
+          "K antigen"
+        ],
+        "answer": "H antigen"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who discovered the ABO blood group system in 1901?",
+        "options": [
+          "Karl Landsteiner",
+          "Alexander Fleming",
+          "Louis Pasteur"
+        ],
+        "answer": "Karl Landsteiner"
+      },
+      {
+        "question": "Which antibody class crosses the placenta and causes hemolytic disease of the fetus?",
+        "options": [
+          "IgG",
+          "IgM",
+          "IgE"
+        ],
+        "answer": "IgG"
+      },
+      {
+        "question": "Which red cell antigen causes the Rh positive blood group classification?",
+        "options": [
+          "D antigen",
+          "AB antigen",
+          "H antigen"
+        ],
+        "answer": "D antigen"
+      },
+      {
+        "question": "Which laboratory test screens recipient serum for unexpected antibodies against donor cells?",
+        "options": [
+          "Indirect antiglobulin test",
+          "Blood culture",
+          "Electrocardiogram"
+        ],
+        "answer": "Indirect antiglobulin test"
+      },
+      {
+        "question": "Which blood bank practice reduces risk of febrile transfusion reactions?",
+        "options": [
+          "Leukoreduction of products",
+          "Irradiation of plasma",
+          "Freezing platelets"
+        ],
+        "answer": "Leukoreduction of products"
+      },
+      {
+        "question": "Which blood product must be ABO compatible for safe plasma transfusion?",
+        "options": [
+          "Plasma",
+          "Platelets",
+          "Packed red cells"
+        ],
+        "answer": "Plasma"
+      },
+      {
+        "question": "Which antigen system is most clinically significant after ABO and Rh for transfusion?",
+        "options": [
+          "Kell system",
+          "Lewis system",
+          "Duffy system"
+        ],
+        "answer": "Kell system"
+      },
+      {
+        "question": "Which test confirms immune hemolysis by detecting antibodies on red cell surfaces?",
+        "options": [
+          "Direct antiglobulin test",
+          "Blood urea nitrogen",
+          "Serum creatinine"
+        ],
+        "answer": "Direct antiglobulin test"
+      },
+      {
+        "question": "Which procedure identifies the best donor blood unit for immediate transfusion?",
+        "options": [
+          "Crossmatch",
+          "Electrophoresis",
+          "Magnetic resonance imaging"
+        ],
+        "answer": "Crossmatch"
+      },
+      {
+        "question": "Which product is given to correct coagulopathy rapidly in trauma settings?",
+        "options": [
+          "Fresh frozen plasma",
+          "Packed red blood cells",
+          "Albumin"
+        ],
+        "answer": "Fresh frozen plasma"
+      },
+      {
+        "question": "Which blood bank practice prevents transfusion-associated graft versus host disease?",
+        "options": [
+          "Irradiation of cellular components",
+          "Leukoreduction",
+          "Washing plasma"
+        ],
+        "answer": "Irradiation of cellular components"
+      },
+      {
+        "question": "Which antigen absence identifies the rare Rh-null phenotype often called golden blood?",
+        "options": [
+          "All Rh antigens",
+          "H antigen",
+          "K antigen"
+        ],
+        "answer": "All Rh antigens"
+      },
+      {
+        "question": "Which maternal antibody most commonly causes severe fetal anemia without prior sensitization?",
+        "options": [
+          "Anti-D after sensitization",
+          "Anti-A IgM",
+          "Anti-B IgM"
+        ],
+        "answer": "Anti-D after sensitization"
+      },
+      {
+        "question": "Which test quantifies fetal red blood cell volume in maternal circulation?",
+        "options": [
+          "Kleihauer-Betke test",
+          "Coombs test",
+          "Western blot"
+        ],
+        "answer": "Kleihauer-Betke test"
+      },
+      {
+        "question": "Which transfusion reaction presents with urticaria and pruritus shortly after transfusion?",
+        "options": [
+          "Allergic reaction",
+          "Delayed hemolytic reaction",
+          "Transfusion-associated circulatory overload"
+        ],
+        "answer": "Allergic reaction"
+      },
+      {
+        "question": "Which red cell storage additive allows refrigeration up to 42 days in many systems?",
+        "options": [
+          "Additive solutions like CPDA-1",
+          "Heparin",
+          "Sodium citrate alone"
+        ],
+        "answer": "Additive solutions like CPDA-1"
+      },
+      {
+        "question": "Which blood type component requires ABO compatibility for platelet transfusion in some cases?",
+        "options": [
+          "Platelets suspended in plasma",
+          "Washed red cells",
+          "Cryoprecipitate"
+        ],
+        "answer": "Platelets suspended in plasma"
+      },
+      {
+        "question": "Which antigen in the Kell system can cause severe hemolytic disease of the newborn?",
+        "options": [
+          "K antigen",
+          "C antigen",
+          "E antigen"
+        ],
+        "answer": "K antigen"
+      },
+      {
+        "question": "Which stored blood component carries highest risk of bacterial growth if contaminated?",
+        "options": [
+          "Platelets",
+          "Frozen plasma",
+          "Packed red blood cells"
+        ],
+        "answer": "Platelets"
+      },
+      {
+        "question": "Which technique reduces transfusion-transmitted CMV risk in high-risk recipients?",
+        "options": [
+          "Use CMV-seronegative or leukoreduced blood",
+          "Heat inactivation",
+          "Gamma radiation of plasma"
+        ],
+        "answer": "Use CMV-seronegative or leukoreduced blood"
+      },
+      {
+        "question": "Which antibody pattern appears in reverse blood typing to confirm ABO group?",
+        "options": [
+          "Patient serum reacts with known A and B cells",
+          "Patient serum reacts with Rh cells",
+          "Patient serum reacts with K cells"
+        ],
+        "answer": "Patient serum reacts with known A and B cells"
+      },
+      {
+        "question": "Which clotting factor measurement is commonly restored by fresh frozen plasma transfusion?",
+        "options": [
+          "Multiple coagulation factors",
+          "Platelet count",
+          "Hemoglobin concentration"
+        ],
+        "answer": "Multiple coagulation factors"
+      },
+      {
+        "question": "Which phenomenon occurs when antibodies cause red cell destruction hours to days after transfusion?",
+        "options": [
+          "Delayed hemolytic transfusion reaction",
+          "Acute hemolytic reaction",
+          "Febrile nonhemolytic reaction"
+        ],
+        "answer": "Delayed hemolytic transfusion reaction"
+      },
+      {
+        "question": "Which rare phenotype lacks H antigen and complicates ABO compatibility?",
+        "options": [
+          "Bombay phenotype",
+          "Rh-null phenotype",
+          "Weak D phenotype"
+        ],
+        "answer": "Bombay phenotype"
+      },
+      {
+        "question": "Which measurement determines whether a transfused red cell unit matches recipient ABO antibodies?",
+        "options": [
+          "Compatibility crossmatch",
+          "Serum electrolytes",
+          "Troponin level"
+        ],
+        "answer": "Compatibility crossmatch"
+      },
+      {
+        "question": "Which blood donor screening excludes recent high-risk behaviors to reduce infection risk?",
+        "options": [
+          "Behavioral and travel history questionnaire",
+          "Blood glucose test",
+          "Vision screening"
+        ],
+        "answer": "Behavioral and travel history questionnaire"
+      },
+      {
+        "question": "Which anticoagulant is commonly used for blood collection tubes to preserve cells?",
+        "options": [
+          "EDTA",
+          "Heparin",
+          "Warfarin"
+        ],
+        "answer": "EDTA"
+      },
+      {
+        "question": "Which blood-derived therapy provides concentrated fibrinogen and factor VIII components?",
+        "options": [
+          "Cryoprecipitate",
+          "Packed red blood cells",
+          "Platelet concentrate"
+        ],
+        "answer": "Cryoprecipitate"
+      },
+      {
+        "question": "Which transfusion practice is used for patients with sickle cell disease requiring chronic transfusions?",
+        "options": [
+          "Extended antigen matching",
+          "Single-donor plasma only",
+          "No matching needed"
+        ],
+        "answer": "Extended antigen matching"
+      },
+      {
+        "question": "Which test differentiates between ABO hemolytic disease and Rh hemolytic disease in newborns?",
+        "options": [
+          "Type-specific antibody identification",
+          "Liver function tests",
+          "Chest X-ray"
+        ],
+        "answer": "Type-specific antibody identification"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which year did Karl Landsteiner publish discoveries establishing the ABO blood group system?",
+        "options": [
+          "1901",
+          "1895",
+          "1915"
+        ],
+        "answer": "1901"
+      },
+      {
+        "question": "Which coexisting antigen weakly expressed can complicate Rh typing known as weak D?",
+        "options": [
+          "Weak D variant of D antigen",
+          "Partial H antigen",
+          "Weak K antigen"
+        ],
+        "answer": "Weak D variant of D antigen"
+      },
+      {
+        "question": "Which molecular technique identifies specific ABO alleles by analyzing DNA sequence?",
+        "options": [
+          "PCR-based genotyping",
+          "Blood smear microscopy",
+          "Serum protein electrophoresis"
+        ],
+        "answer": "PCR-based genotyping"
+      },
+      {
+        "question": "Which alloantibody specificity commonly produces a positive direct antiglobulin test in newborns?",
+        "options": [
+          "Anti-D IgG",
+          "Anti-A IgM",
+          "Anti-B IgM"
+        ],
+        "answer": "Anti-D IgG"
+      },
+      {
+        "question": "Which rare blood group lacks expression of Rh antigens entirely and can donate to any Rh type?",
+        "options": [
+          "Rh-null",
+          "Bombay phenotype",
+          "Weak D"
+        ],
+        "answer": "Rh-null"
+      },
+      {
+        "question": "Which lab crossmatch method uses antiglobulin phase to detect clinically significant antibodies?",
+        "options": [
+          "Full antiglobulin crossmatch",
+          "Immediate spin crossmatch",
+          "Saline-only crossmatch"
+        ],
+        "answer": "Full antiglobulin crossmatch"
+      },
+      {
+        "question": "Which maternal antierythrocyte antibody can cause severe fetal anemia despite low maternal titer?",
+        "options": [
+          "Anti-Kell",
+          "Anti-A IgM",
+          "Anti-B IgM"
+        ],
+        "answer": "Anti-Kell"
+      },
+      {
+        "question": "Which blood bank reagent neutralizes IgM during warm autoadsorption procedures?",
+        "options": [
+          "Dithiothreitol",
+          "EDTA",
+          "Sodium chloride"
+        ],
+        "answer": "Dithiothreitol"
+      },
+      {
+        "question": "Which neonatal test quantifies maternal IgG bound to fetal red cells in vivo?",
+        "options": [
+          "Direct antiglobulin test (DAT)",
+          "Indirect bilirubin level",
+          "Complete blood count"
+        ],
+        "answer": "Direct antiglobulin test (DAT)"
+      },
+      {
+        "question": "Which gene encodes the H antigen precursor required for A and B antigen formation?",
+        "options": [
+          "FUT1 (H gene)",
+          "RHD gene",
+          "KEL gene"
+        ],
+        "answer": "FUT1 (H gene)"
+      },
+      {
+        "question": "Which blood product irradiation dose reduces donor lymphocyte proliferation to prevent GVHD?",
+        "options": [
+          "25 Gy to cellular components",
+          "2 Gy to plasma",
+          "100 Gy to platelets"
+        ],
+        "answer": "25 Gy to cellular components"
+      },
+      {
+        "question": "Which technique detects weak or partial D variants that standard typing may miss?",
+        "options": [
+          "Molecular RHD genotyping",
+          "Spun hematocrit",
+          "ELISA for ferritin"
+        ],
+        "answer": "Molecular RHD genotyping"
+      },
+      {
+        "question": "Which condition describes intrauterine fetal hydrops from severe hemolytic disease?",
+        "options": [
+          "Hydrops fetalis",
+          "Aplastic crisis",
+          "Thalassemia minor"
+        ],
+        "answer": "Hydrops fetalis"
+      },
+      {
+        "question": "Which antigen system's antiantibodies are notorious for causing delayed hemolytic transfusion reactions?",
+        "options": [
+          "Rh system antibodies",
+          "Lewis system antibodies",
+          "P system antibodies"
+        ],
+        "answer": "Rh system antibodies"
+      },
+      {
+        "question": "Which process reduces bacterial risk in platelet transfusions by screening or pathogen reduction?",
+        "options": [
+          "Pathogen reduction technologies or bacterial culture",
+          "Gamma sterilization of RBCs",
+          "Heat pasteurization of plasma"
+        ],
+        "answer": "Pathogen reduction technologies or bacterial culture"
+      },
+      {
+        "question": "Which rare phenotype was first described in Bombay and lacks H antigen expression?",
+        "options": [
+          "Bombay phenotype (hh)",
+          "Rh-null",
+          "Diego negative"
+        ],
+        "answer": "Bombay phenotype (hh)"
+      },
+      {
+        "question": "Which mechanism underlies antibody-mediated hemolysis involving complement activation?",
+        "options": [
+          "Classical complement pathway fixation",
+          "Intrinsic coagulation activation",
+          "Cytokine storm alone"
+        ],
+        "answer": "Classical complement pathway fixation"
+      },
+      {
+        "question": "Which transfusion reaction involves donor white cells attacking recipient tissues post-transfusion?",
+        "options": [
+          "Transfusion-associated graft-versus-host disease",
+          "Acute hemolytic reaction",
+          "Allergic urticaria"
+        ],
+        "answer": "Transfusion-associated graft-versus-host disease"
+      },
+      {
+        "question": "Which lab method identifies specific blood group antigens using monoclonal antisera panels?",
+        "options": [
+          "Phenotyping by serology",
+          "Gram staining",
+          "Serum protein immunofixation"
+        ],
+        "answer": "Phenotyping by serology"
+      },
+      {
+        "question": "Which screening marker window period risk do nucleic acid tests reduce in donor screening?",
+        "options": [
+          "Viral nucleic acid window period",
+          "Blood group antigen variability",
+          "Bacterial contamination risk"
+        ],
+        "answer": "Viral nucleic acid window period"
+      },
+      {
+        "question": "Which antibody subclass predominates in delayed hemolytic transfusion reactions and can be memory response?",
+        "options": [
+          "IgG",
+          "IgM",
+          "IgA"
+        ],
+        "answer": "IgG"
+      },
+      {
+        "question": "Which blood substitute research focuses on oxygen-carrying hemoglobin-based products and perfluorocarbons?",
+        "options": [
+          "Hemoglobin-based oxygen carriers",
+          "Albumin-only solutions",
+          "Isotonic saline"
+        ],
+        "answer": "Hemoglobin-based oxygen carriers"
+      },
+      {
+        "question": "Which laboratory index assesses hemolysis severity using reticulocyte count and bilirubin levels?",
+        "options": [
+          "Hemolytic markers panel",
+          "Thyroid panel",
+          "Lipid panel"
+        ],
+        "answer": "Hemolytic markers panel"
+      },
+      {
+        "question": "Which antigen-negative donor selection prevents alloimmunization in chronically transfused patients?",
+        "options": [
+          "Extended antigen matching for Rh and Kell",
+          "Only ABO matching",
+          "Plasma-only selection"
+        ],
+        "answer": "Extended antigen matching for Rh and Kell"
+      },
+      {
+        "question": "Which blood product is prepared by freezing plasma within 24 hours to preserve labile clotting factors?",
+        "options": [
+          "Fresh frozen plasma (FFP)",
+          "Packed red blood cells",
+          "Washed platelets"
+        ],
+        "answer": "Fresh frozen plasma (FFP)"
+      },
+      {
+        "question": "Which analytical method separates red cell populations to detect mixed-field agglutination?",
+        "options": [
+          "Microscopic review of slides for mixed-field agglutination",
+          "Automated electrolyte measurement",
+          "PCR without phenotypic confirmation"
+        ],
+        "answer": "Microscopic review of slides for mixed-field agglutination"
+      },
+      {
+        "question": "Which maternal intervention after delivery prevents Rh D alloimmunization in sensitizable mothers?",
+        "options": [
+          "Postpartum Rho(D) immune globulin administration",
+          "Immediate infant exchange transfusion",
+          "High-dose iron infusion"
+        ],
+        "answer": "Postpartum Rho(D) immune globulin administration"
+      },
+      {
+        "question": "Which rare antibody specificity requires identification by adsorption and elution techniques?",
+        "options": [
+          "Complex alloantibodies to high-frequency antigens",
+          "Anti-A IgM",
+          "Anti-B IgM"
+        ],
+        "answer": "Complex alloantibodies to high-frequency antigens"
+      },
+      {
+        "question": "Which reagent removes plasma proteins to reduce allergic transfusion reactions when used to wash cells?",
+        "options": [
+          "Isotonic saline wash of cellular products",
+          "EDTA wash",
+          "Alcohol wash"
+        ],
+        "answer": "Isotonic saline wash of cellular products"
+      },
+      {
+        "question": "Which condition is a major indication for exchange transfusion in newborns with severe hemolysis?",
+        "options": [
+          "Severe hyperbilirubinemia and anemia",
+          "Minor bruising",
+          "Mild jaundice at day 3"
+        ],
+        "answer": "Severe hyperbilirubinemia and anemia"
+      },
+      {
+        "question": "Which blood group allele variation results from single nucleotide polymorphisms in ABO exon sequences?",
+        "options": [
+          "Subgroup alleles of A and B from SNPs",
+          "Rh deletion only",
+          "Kell promoter mutation only"
+        ],
+        "answer": "Subgroup alleles of A and B from SNPs"
+      },
+      {
+        "question": "Which strategy extends platelet shelf-life by reducing bacterial contamination and viral risk?",
+        "options": [
+          "Pathogen reduction technologies with UVA or riboflavin",
+          "Deep freezing platelets at -80°C",
+          "Irradiating plasma only"
+        ],
+        "answer": "Pathogen reduction technologies with UVA or riboflavin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What advice does 'A stitch in time saves nine' give?",
+        "options": [
+          "Fix small problems early",
+          "Sew nine stitches at once",
+          "Work faster than others"
+        ],
+        "answer": "Fix small problems early"
+      },
+      {
+        "question": "Which proverb encourages starting early to gain advantage?",
+        "options": [
+          "The early bird catches the worm",
+          "Every cloud has a silver lining",
+          "A rolling stone gathers no moss"
+        ],
+        "answer": "The early bird catches the worm"
+      },
+      {
+        "question": "What does 'When in Rome, do as the Romans do' advise?",
+        "options": [
+          "Adapt to local customs",
+          "Never change your habits",
+          "Only travel to Rome"
+        ],
+        "answer": "Adapt to local customs"
+      },
+      {
+        "question": "Which proverb warns that appearances can mislead?",
+        "options": [
+          "Don't judge a book by its cover",
+          "An ounce of prevention is worth a pound of cure",
+          "Make hay while the sun shines"
+        ],
+        "answer": "Don't judge a book by its cover"
+      },
+      {
+        "question": "Which proverb suggests practice leads to mastery?",
+        "options": [
+          "Practice makes perfect",
+          "Curiosity killed the cat",
+          "Time waits for no one"
+        ],
+        "answer": "Practice makes perfect"
+      },
+      {
+        "question": "Complete the proverb: 'Too many cooks spoil the ___'",
+        "options": [
+          "broth",
+          "soup",
+          "meal"
+        ],
+        "answer": "broth"
+      },
+      {
+        "question": "What does 'Birds of a feather flock together' mean?",
+        "options": [
+          "People with similar tastes gather",
+          "Birds migrate in pairs",
+          "Feathers attract other animals"
+        ],
+        "answer": "People with similar tastes gather"
+      },
+      {
+        "question": "What does 'Actions speak louder than words' mean?",
+        "options": [
+          "Behavior reveals true intentions",
+          "Words are always meaningless",
+          "Speak more and act less"
+        ],
+        "answer": "Behavior reveals true intentions"
+      },
+      {
+        "question": "Complete: 'A penny saved is a penny ___'",
+        "options": [
+          "earned",
+          "spent",
+          "lost"
+        ],
+        "answer": "earned"
+      },
+      {
+        "question": "Finish the proverb: 'Good things come to those who ___'",
+        "options": [
+          "wait",
+          "run",
+          "shout"
+        ],
+        "answer": "wait"
+      },
+      {
+        "question": "What does 'Don't count your chickens before they hatch' advise?",
+        "options": [
+          "Avoid assuming outcomes prematurely",
+          "Raise chickens carefully",
+          "Sell eggs quickly"
+        ],
+        "answer": "Avoid assuming outcomes prematurely"
+      },
+      {
+        "question": "What does 'All work and no play makes Jack a dull boy' suggest?",
+        "options": [
+          "Balance work with leisure",
+          "Work nonstop for success",
+          "Play is never productive"
+        ],
+        "answer": "Balance work with leisure"
+      },
+      {
+        "question": "Complete the proverb: 'A journey of a thousand miles begins with a ___'",
+        "options": [
+          "single step",
+          "big plan",
+          "fast train"
+        ],
+        "answer": "single step"
+      },
+      {
+        "question": "Finish the saying: 'Time heals all ___'",
+        "options": [
+          "wounds",
+          "plans",
+          "answers"
+        ],
+        "answer": "wounds"
+      },
+      {
+        "question": "What idea does 'You can't have your cake and eat it too' express?",
+        "options": [
+          "You cannot enjoy two mutually exclusive things",
+          "Always share your cake",
+          "Save cake for later"
+        ],
+        "answer": "You cannot enjoy two mutually exclusive things"
+      },
+      {
+        "question": "What does 'Honesty is the best policy' recommend?",
+        "options": [
+          "Telling the truth is the wisest approach",
+          "Avoid making any promises",
+          "Use lies to protect people"
+        ],
+        "answer": "Telling the truth is the wisest approach"
+      },
+      {
+        "question": "What does 'What goes around comes around' imply?",
+        "options": [
+          "Actions have consequences",
+          "Round objects always return",
+          "Travel often brings repetition"
+        ],
+        "answer": "Actions have consequences"
+      },
+      {
+        "question": "What is the meaning of 'Don't put all your eggs in one basket'?",
+        "options": [
+          "Spread your risk across options",
+          "Buy more baskets",
+          "Raise more chickens"
+        ],
+        "answer": "Spread your risk across options"
+      },
+      {
+        "question": "Complete the proverb: 'Look before you ___'",
+        "options": [
+          "leap",
+          "run",
+          "speak"
+        ],
+        "answer": "leap"
+      },
+      {
+        "question": "Finish the proverb: 'Make hay while the ___ shines'",
+        "options": [
+          "sun shines",
+          "moon glows",
+          "rain falls"
+        ],
+        "answer": "sun shines"
+      },
+      {
+        "question": "What does 'A watched pot never boils' convey about waiting?",
+        "options": [
+          "Impatience makes waiting feel slower",
+          "Pots refuse to boil when observed",
+          "Always check cooking frequently"
+        ],
+        "answer": "Impatience makes waiting feel slower"
+      },
+      {
+        "question": "Complete: 'Don't bite off more than you can ___'",
+        "options": [
+          "chew",
+          "swallow",
+          "carry"
+        ],
+        "answer": "chew"
+      },
+      {
+        "question": "What does 'If it ain't broke, don't fix it' advise?",
+        "options": [
+          "Avoid unnecessary changes to working things",
+          "Always replace old items",
+          "Break things to improve them"
+        ],
+        "answer": "Avoid unnecessary changes to working things"
+      },
+      {
+        "question": "Complete: 'Experience is the best ___'",
+        "options": [
+          "teacher",
+          "friend",
+          "enemy"
+        ],
+        "answer": "teacher"
+      },
+      {
+        "question": "What does 'Familiarity breeds contempt' warn about relationships?",
+        "options": [
+          "Excessive closeness can reduce respect",
+          "Distance always creates respect",
+          "Make everything familiar quickly"
+        ],
+        "answer": "Excessive closeness can reduce respect"
+      },
+      {
+        "question": "Finish: 'The grass is always greener on the other ___'",
+        "options": [
+          "side",
+          "field",
+          "farm"
+        ],
+        "answer": "side"
+      },
+      {
+        "question": "Complete the proverb: 'Too many cooks spoil the ___' in another common form",
+        "options": [
+          "recipe",
+          "soup",
+          "party"
+        ],
+        "answer": "soup"
+      },
+      {
+        "question": "Which proverb tells you to take action rather than only speak?",
+        "options": [
+          "Actions speak louder than words",
+          "Words build worlds",
+          "Talk is cheap but loud"
+        ],
+        "answer": "Actions speak louder than words"
+      },
+      {
+        "question": "Complete: 'Don't cross the bridge until you come to ___'",
+        "options": [
+          "it",
+          "the river",
+          "the other side"
+        ],
+        "answer": "it"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which classical poet coined the Latin phrase 'Carpe diem'?",
+        "options": [
+          "Horace",
+          "Virgil",
+          "Ovid"
+        ],
+        "answer": "Horace"
+      },
+      {
+        "question": "Which fable explains the lesson 'Slow and steady wins the race'?",
+        "options": [
+          "The Tortoise and the Hare",
+          "The Fox and the Grapes",
+          "The Boy Who Cried Wolf"
+        ],
+        "answer": "The Tortoise and the Hare"
+      },
+      {
+        "question": "Which historical figure reportedly said 'Alea iacta est' meaning 'The die is cast'?",
+        "options": [
+          "Julius Caesar",
+          "Augustus",
+          "Cicero"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Which poet wrote 'To err is human; to forgive, divine'?",
+        "options": [
+          "Alexander Pope",
+          "John Milton",
+          "William Blake"
+        ],
+        "answer": "Alexander Pope"
+      },
+      {
+        "question": "Which author collected many English proverbs in the 17th century?",
+        "options": [
+          "John Ray",
+          "Samuel Pepys",
+          "John Dryden"
+        ],
+        "answer": "John Ray"
+      },
+      {
+        "question": "Which Aesop fable inspired the phrase 'sour grapes'?",
+        "options": [
+          "The Fox and the Grapes",
+          "The Lion and the Mouse",
+          "The Wolf in Sheep's Clothing"
+        ],
+        "answer": "The Fox and the Grapes"
+      },
+      {
+        "question": "Which proverb does the fable 'The Ant and the Grasshopper' illustrate?",
+        "options": [
+          "Prepare for the future",
+          "Enjoy life now",
+          "Share everything equally"
+        ],
+        "answer": "Prepare for the future"
+      },
+      {
+        "question": "Who is traditionally credited with authoring much of the Biblical Book of Proverbs?",
+        "options": [
+          "King Solomon",
+          "King David",
+          "Prophet Isaiah"
+        ],
+        "answer": "King Solomon"
+      },
+      {
+        "question": "Which proverb did Benjamin Franklin famously popularize?",
+        "options": [
+          "A penny saved is a penny earned",
+          "Birds of a feather flock together",
+          "Actions speak louder than words"
+        ],
+        "answer": "A penny saved is a penny earned"
+      },
+      {
+        "question": "Which proverb originates from Robert Burns' poem about mice and plans?",
+        "options": [
+          "The best-laid plans of mice and men",
+          "A man's home is his castle",
+          "Pride comes before a fall"
+        ],
+        "answer": "The best-laid plans of mice and men"
+      },
+      {
+        "question": "Which Shakespeare play contains the proverb 'All that glisters is not gold'?",
+        "options": [
+          "The Merchant of Venice",
+          "Hamlet",
+          "Macbeth"
+        ],
+        "answer": "The Merchant of Venice"
+      },
+      {
+        "question": "Which proverb commonly summarizes the Golden Rule across cultures?",
+        "options": [
+          "Do unto others as you would have them do unto you",
+          "Might makes right",
+          "Every man for himself"
+        ],
+        "answer": "Do unto others as you would have them do unto you"
+      },
+      {
+        "question": "Which saying suggests you should diversify investments?",
+        "options": [
+          "Don't put all your eggs in one basket",
+          "Buy low, sell high",
+          "Make hay while the sun shines"
+        ],
+        "answer": "Don't put all your eggs in one basket"
+      },
+      {
+        "question": "Which proverb warns about misplaced confidence causing downfall from Proverbs 16:18?",
+        "options": [
+          "Pride goes before a fall",
+          "Fortune favors the bold",
+          "He who laughs last laughs best"
+        ],
+        "answer": "Pride goes before a fall"
+      },
+      {
+        "question": "Which proverb expresses skepticism about appearances using rhyme?",
+        "options": [
+          "All that glitters is not gold",
+          "Beauty is only skin deep",
+          "Don't judge a book by its cover"
+        ],
+        "answer": "All that glitters is not gold"
+      },
+      {
+        "question": "Which proverb suggests immediate small fixes prevent larger problems later?",
+        "options": [
+          "A stitch in time saves nine",
+          "Strike while the iron is hot",
+          "He who hesitates is lost"
+        ],
+        "answer": "A stitch in time saves nine"
+      },
+      {
+        "question": "Which proverb implies impatience reduces perceived progress?",
+        "options": [
+          "A watched pot never boils",
+          "Haste makes waste",
+          "Slow and steady wins the race"
+        ],
+        "answer": "A watched pot never boils"
+      },
+      {
+        "question": "Which proverb expresses that reputation affects how others treat you?",
+        "options": [
+          "You reap what you sow",
+          "Beauty is in the eye of the beholder",
+          "Birds of a feather flock together"
+        ],
+        "answer": "You reap what you sow"
+      },
+      {
+        "question": "Which proverb encourages making the most of favorable conditions?",
+        "options": [
+          "Make hay while the sun shines",
+          "Let sleeping dogs lie",
+          "Don't burn your bridges"
+        ],
+        "answer": "Make hay while the sun shines"
+      },
+      {
+        "question": "Which proverb is summarized by 'Less is more' in modern phrasing?",
+        "options": [
+          "Too much of a good thing",
+          "Brevity is the soul of wit",
+          "Rome wasn't built in a day"
+        ],
+        "answer": "Too much of a good thing"
+      },
+      {
+        "question": "Which proverb warns not to assume success before it happens?",
+        "options": [
+          "Don't count your chickens before they hatch",
+          "He who hesitates is lost",
+          "Fortune favors the bold"
+        ],
+        "answer": "Don't count your chickens before they hatch"
+      },
+      {
+        "question": "Which proverb teaches that small consistent efforts produce results?",
+        "options": [
+          "Little strokes fell great oaks",
+          "Strike while the iron is hot",
+          "Mend fences while the sun shines"
+        ],
+        "answer": "Little strokes fell great oaks"
+      },
+      {
+        "question": "Which proverb implies the truth becomes obvious through practical testing?",
+        "options": [
+          "The proof of the pudding is in the eating",
+          "Fine words butter no parsnips",
+          "All is fair in love and war"
+        ],
+        "answer": "The proof of the pudding is in the eating"
+      },
+      {
+        "question": "Which proverb warns that gossip harms reputations and relationships?",
+        "options": [
+          "A rumor without feet will die",
+          "Loose lips sink ships",
+          "Seeing is believing"
+        ],
+        "answer": "Loose lips sink ships"
+      },
+      {
+        "question": "Which proverb suggests you should consider consequences before acting?",
+        "options": [
+          "Look before you leap",
+          "He that hesitates is lost",
+          "Fortune favors the brave"
+        ],
+        "answer": "Look before you leap"
+      },
+      {
+        "question": "Which proverb implies impatience leads to mistakes and waste?",
+        "options": [
+          "Haste makes waste",
+          "Time and tide wait for no man",
+          "Every cloud has a silver lining"
+        ],
+        "answer": "Haste makes waste"
+      },
+      {
+        "question": "Which proverb tells you to avoid unnecessary risk by preparing backup plans?",
+        "options": [
+          "Don't put all your eggs in one basket",
+          "Every dog has its day",
+          "Idle hands are the devil's workshop"
+        ],
+        "answer": "Don't put all your eggs in one basket"
+      },
+      {
+        "question": "Which proverb means someone cares for their own interests above others'?",
+        "options": [
+          "Charity begins at home",
+          "He who hesitates is lost",
+          "Curiosity killed the cat"
+        ],
+        "answer": "Charity begins at home"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the academic study of proverbs called?",
+        "options": [
+          "Paremiology",
+          "Lexicography",
+          "Etymology"
+        ],
+        "answer": "Paremiology"
+      },
+      {
+        "question": "What term names the compilation or collection of proverbs?",
+        "options": [
+          "Paremiography",
+          "Anthology",
+          "Codicology"
+        ],
+        "answer": "Paremiography"
+      },
+      {
+        "question": "What name describes a deliberate humorous twist on a familiar proverb?",
+        "options": [
+          "Anti-proverb",
+          "Anti-aphorism",
+          "Countermaxim"
+        ],
+        "answer": "Anti-proverb"
+      },
+      {
+        "question": "Which scholar is widely known for modern proverb studies and publications?",
+        "options": [
+          "Wolfgang Mieder",
+          "Noam Chomsky",
+          "Umberto Eco"
+        ],
+        "answer": "Wolfgang Mieder"
+      },
+      {
+        "question": "Which rhetorical device is especially common in Biblical proverbs?",
+        "options": [
+          "Parallelism",
+          "Metathesis",
+          "Chiasmus only"
+        ],
+        "answer": "Parallelism"
+      },
+      {
+        "question": "Which English proverb collection was published by John Heywood in 1546?",
+        "options": [
+          "A dialogue containing the number in effect of all the Prouerbes in the Englishe tongue",
+          "A Treasury of English Proverbs",
+          "The Proverbs of London"
+        ],
+        "answer": "A dialogue containing the number in effect of all the Prouerbes in the Englishe tongue"
+      },
+      {
+        "question": "Which novelist borrowed a line from Robert Burns for his title 'Of Mice and Men'?",
+        "options": [
+          "John Steinbeck",
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald"
+        ],
+        "answer": "John Steinbeck"
+      },
+      {
+        "question": "Which ancient work contains the line 'Carpe diem' that inspired many modern proverbs?",
+        "options": [
+          "Horace's Odes",
+          "Virgil's Aeneid",
+          "Ovid's Metamorphoses"
+        ],
+        "answer": "Horace's Odes"
+      },
+      {
+        "question": "Which Roman leader uttered 'Alea iacta est' when crossing the Rubicon?",
+        "options": [
+          "Julius Caesar",
+          "Marcus Antonius",
+          "Nero"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Which Shakespeare play originally used the word 'glisters' for the proverb 'All that glitters is not gold'?",
+        "options": [
+          "The Merchant of Venice",
+          "Twelfth Night",
+          "King Lear"
+        ],
+        "answer": "The Merchant of Venice"
+      },
+      {
+        "question": "Which literary device gives proverbs brevity and memorable form?",
+        "options": [
+          "Mnemonic phrasing",
+          "Long exposition",
+          "Extended metaphor"
+        ],
+        "answer": "Mnemonic phrasing"
+      },
+      {
+        "question": "Which proverb study subfield focuses on how proverbs change in everyday use?",
+        "options": [
+          "Paremiography",
+          "Prosody",
+          "Philology"
+        ],
+        "answer": "Paremiography"
+      },
+      {
+        "question": "Which famous proverb about reputation appears in Proverbs 22:1 as 'A good name is more desirable than great riches'?",
+        "options": [
+          "A good name is better than riches",
+          "All that glitters is gold",
+          "Out of sight, out of mind"
+        ],
+        "answer": "A good name is better than riches"
+      },
+      {
+        "question": "Which proverb-forming practice uses rhyme to aid memory, like 'Haste makes waste'?",
+        "options": [
+          "Alliteration and rhyme",
+          "Anagramming",
+          "Syllabic inversion"
+        ],
+        "answer": "Alliteration and rhyme"
+      },
+      {
+        "question": "Which proverb did Shakespeare write in As You Like It, meaning moderation benefits us?",
+        "options": [
+          "Too much of a good thing",
+          "Neither a borrower nor a lender be",
+          "All's well that ends well"
+        ],
+        "answer": "Too much of a good thing"
+      },
+      {
+        "question": "Which proverb term describes short moral sayings like 'Honesty is the best policy'?",
+        "options": [
+          "Maxim",
+          "Ballad",
+          "Epic"
+        ],
+        "answer": "Maxim"
+      },
+      {
+        "question": "Which proverb about consequences appears as 'You reap what you sow' and has agricultural roots?",
+        "options": [
+          "You reap what you sow",
+          "An apple a day keeps the doctor away",
+          "Break the ice"
+        ],
+        "answer": "You reap what you sow"
+      },
+      {
+        "question": "Which 18th-century poet wrote the line that inspired 'the best-laid plans of mice and men'?",
+        "options": [
+          "Robert Burns",
+          "William Wordsworth",
+          "Samuel Taylor Coleridge"
+        ],
+        "answer": "Robert Burns"
+      },
+      {
+        "question": "Which literary source preserves many aphoristic sayings forming English proverbs, including medieval examples?",
+        "options": [
+          "Chaucer's works",
+          "Beowulf",
+          "The Domesday Book"
+        ],
+        "answer": "Chaucer's works"
+      },
+      {
+        "question": "Which proverb about unintended consequences is captured by the phrase 'For want of a nail'?",
+        "options": [
+          "Small causes can lead to big effects",
+          "Always polish your shoes",
+          "Measure twice, cut once"
+        ],
+        "answer": "Small causes can lead to big effects"
+      },
+      {
+        "question": "Which technical term denotes a proverb that functions as a cultural guideline?",
+        "options": [
+          "Normative proverb",
+          "Descriptive maxim",
+          "Speculative adage"
+        ],
+        "answer": "Normative proverb"
+      },
+      {
+        "question": "Which proverb did Miguel de Cervantes use in Don Quixote that resembles a modern English saying?",
+        "options": [
+          "The proof of the pudding is in the eating",
+          "A stitch in time saves nine",
+          "Birds of a feather flock together"
+        ],
+        "answer": "The proof of the pudding is in the eating"
+      },
+      {
+        "question": "Which method do paremiologists use to trace a proverb's origin across languages?",
+        "options": [
+          "Comparative philology",
+          "Random sampling",
+          "Anecdotal recall"
+        ],
+        "answer": "Comparative philology"
+      },
+      {
+        "question": "Which proverb became a slogan in risk management advising not to rely on a single option?",
+        "options": [
+          "Don't put all your eggs in one basket",
+          "Better late than never",
+          "Live and let live"
+        ],
+        "answer": "Don't put all your eggs in one basket"
+      },
+      {
+        "question": "Which rare label describes a proverb used as an argument in folk law or oral testimony?",
+        "options": [
+          "Proverbial argument",
+          "Legal maxim only",
+          "Oral anecdote"
+        ],
+        "answer": "Proverbial argument"
+      },
+      {
+        "question": "Which proverb phrase did Shakespeare use meaning true appearances can be deceptive, originally spelled 'glisters'?",
+        "options": [
+          "All that glisters is not gold",
+          "A rolling stone gathers no moss",
+          "Too many cooks spoil the broth"
+        ],
+        "answer": "All that glisters is not gold"
+      },
+      {
+        "question": "Which ancient proverb source emphasizes teaching through short sayings and is part of wisdom literature?",
+        "options": [
+          "The Book of Proverbs",
+          "The Epic of Gilgamesh",
+          "Homer's Iliad"
+        ],
+        "answer": "The Book of Proverbs"
+      },
+      {
+        "question": "Which technical field studies proverb variants, usage, and transformation in modern culture?",
+        "options": [
+          "Paremiology",
+          "Sociolinguistics only",
+          "Cartography"
+        ],
+        "answer": "Paremiology"
+      },
+      {
+        "question": "Which famous line did Alexander Pope write that is often quoted as a proverb about error and forgiveness?",
+        "options": [
+          "To err is human; to forgive, divine",
+          "Brevity is the soul of wit",
+          "All the world's a stage"
+        ],
+        "answer": "To err is human; to forgive, divine"
+      },
+      {
+        "question": "Which term describes short sayings used across cultures to transmit practical wisdom between generations?",
+        "options": [
+          "Proverbs",
+          "Novellas",
+          "Treatises"
+        ],
+        "answer": "Proverbs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "If a definition calls something 'aquatic', it relates to what?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term denotes 'a subtle variation in meaning or tone among related words'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term refers to 'a word whose meaning narrows over time to a specific sense'?"
+    },
+    {
+      "question_id": 4,
+      "question": "If a definition says 'to cook food in an oven', which verb matches?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term denotes 'the study of word sounds and pronunciation patterns'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term denotes 'a word that loses its original force through overuse'?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which part of speech is indicated by labels like noun, verb, or adjective in definitions?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word means 'self-evident truth requiring no proof'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which linguistic device names 'a word coined from a proper noun'?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which type of definition gives the origin of a word?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word describes 'the practice of using fewer words to express an idea'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare term refers to 'a word that imitates a pattern to create related words'?"
+    },
+    {
+      "question_id": 13,
+      "question": "If a definition describes a 'place where books are kept', what word fits?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which word fits 'a phrase or expression that has a figurative meaning'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which concept describes 'meaning change by metaphor linking a concrete image to an abstract idea'?"
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What kind of South Indian fermented crepe is made from rice and urad dal batter and served with chutney?",
+        "options": [
+          "Dosa",
+          "Paratha",
+          "Chapati"
+        ],
+        "answer": "Dosa"
+      },
+      {
+        "question": "What steamed South Indian breakfast cake is prepared from fermented rice and black gram batter?",
+        "options": [
+          "Idli",
+          "Uttapam",
+          "Pesarattu"
+        ],
+        "answer": "Idli"
+      },
+      {
+        "question": "Which traditional Indian clay oven is commonly used for making naan, tandoori chicken, and kebabs?",
+        "options": [
+          "Tandoor",
+          "Bhatti",
+          "Chulha"
+        ],
+        "answer": "Tandoor"
+      },
+      {
+        "question": "Which fresh cheese made by curdling milk with an acid is commonly used in North Indian cooking?",
+        "options": [
+          "Paneer",
+          "Ricotta",
+          "Tofu"
+        ],
+        "answer": "Paneer"
+      },
+      {
+        "question": "What Hindi name refers to a warming spice blend often added to many Indian dishes at the end of cooking?",
+        "options": [
+          "Garam masala",
+          "Tandoori masala",
+          "Curry powder"
+        ],
+        "answer": "Garam masala"
+      },
+      {
+        "question": "What Indian condiment includes chutneys made from coconut, coriander, and tamarind served with snacks?",
+        "options": [
+          "Chutney",
+          "Raita",
+          "Pulao"
+        ],
+        "answer": "Chutney"
+      },
+      {
+        "question": "Which triangular fried pastry filled with spiced potatoes or meat is a popular Indian snack worldwide?",
+        "options": [
+          "Samosa",
+          "Kachori",
+          "Empanada"
+        ],
+        "answer": "Samosa"
+      },
+      {
+        "question": "Which soft leavened flatbread, often baked in a tandoor, accompanies many Indian curries?",
+        "options": [
+          "Naan",
+          "Roti",
+          "Bhakri"
+        ],
+        "answer": "Naan"
+      },
+      {
+        "question": "Which city is most associated with the famous layered rice and meat dish called Hyderabadi biryani?",
+        "options": [
+          "Hyderabad",
+          "Lucknow",
+          "Kolkata"
+        ],
+        "answer": "Hyderabad"
+      },
+      {
+        "question": "Which South Indian state is widely associated with the origin and popularization of the dosa?",
+        "options": [
+          "Tamil Nadu",
+          "Kerala",
+          "Karnataka"
+        ],
+        "answer": "Tamil Nadu"
+      },
+      {
+        "question": "Which coastal Indian state uses coconut extensively in curries, stews, and desserts?",
+        "options": [
+          "Kerala",
+          "Rajasthan",
+          "Punjab"
+        ],
+        "answer": "Kerala"
+      },
+      {
+        "question": "What is the Bengali dish 'macher jhol' commonly understood to be when served at meals?",
+        "options": [
+          "Fish curry",
+          "Vegetable stew",
+          "Sweet dessert"
+        ],
+        "answer": "Fish curry"
+      },
+      {
+        "question": "What Mumbai street food consists of a potato fritter sandwiched inside a soft bun with chutney?",
+        "options": [
+          "Vada pav",
+          "Pav bhaji",
+          "Bhel puri"
+        ],
+        "answer": "Vada pav"
+      },
+      {
+        "question": "Which Gujarati steamed snack is made from fermented gram and rice batter and often served with green chutney?",
+        "options": [
+          "Dhokla",
+          "Thepla",
+          "Handvo"
+        ],
+        "answer": "Dhokla"
+      },
+      {
+        "question": "Which common Indian term refers broadly to cooked pulses and legumes often eaten with rice or breads?",
+        "options": [
+          "Dal",
+          "Raita",
+          "Papad"
+        ],
+        "answer": "Dal"
+      },
+      {
+        "question": "Which dairy product is commonly used as a base for marinades in many Indian grilled and tandoor dishes?",
+        "options": [
+          "Yogurt",
+          "Ghee",
+          "Buttermilk"
+        ],
+        "answer": "Yogurt"
+      },
+      {
+        "question": "What coarse cornmeal flatbread called 'makki di roti' is traditionally paired with sarson ka saag in which region?",
+        "options": [
+          "Punjab",
+          "Goa",
+          "Assam"
+        ],
+        "answer": "Punjab"
+      },
+      {
+        "question": "Aloo paratha is a stuffed flatbread primarily filled with which ingredient mashed and spiced?",
+        "options": [
+          "Potatoes",
+          "Cauliflower",
+          "Paneer"
+        ],
+        "answer": "Potatoes"
+      },
+      {
+        "question": "Which hot beverage sweetened with milk and spices is a ubiquitous Indian drink served across regions?",
+        "options": [
+          "Chai",
+          "Coffee",
+          "Lassi"
+        ],
+        "answer": "Chai"
+      },
+      {
+        "question": "Which South Indian thin, tangy soup flavored with tamarind, tomato, and spices is called rasam?",
+        "options": [
+          "Rasam",
+          "Sambhar",
+          "Kadhi"
+        ],
+        "answer": "Rasam"
+      },
+      {
+        "question": "Idli batter is primarily fermented using which two ingredients commonly milled into a batter?",
+        "options": [
+          "Rice and urad dal",
+          "Wheat and gram flour",
+          "Millet and besan"
+        ],
+        "answer": "Rice and urad dal"
+      },
+      {
+        "question": "Which Indian sweet made from condensed milk solids, sugar, and cardamom is commonly cut into diamond-shaped pieces?",
+        "options": [
+          "Barfi",
+          "Rasgulla",
+          "Gulab jamun"
+        ],
+        "answer": "Barfi"
+      },
+      {
+        "question": "Which spice is often called the 'queen of spices' and used in many Indian sweets and biryanis?",
+        "options": [
+          "Cardamom",
+          "Turmeric",
+          "Coriander"
+        ],
+        "answer": "Cardamom"
+      },
+      {
+        "question": "What does the Bengali preparation 'shorshe ilish' consist of when prepared in traditional households?",
+        "options": [
+          "Hilsa fish in mustard sauce",
+          "Lentils with spinach",
+          "Potato and egg curry"
+        ],
+        "answer": "Hilsa fish in mustard sauce"
+      },
+      {
+        "question": "Which souring fruit, commonly used in Konkani and Goan coastal cooking, gives a tart flavor to seafood curries?",
+        "options": [
+          "Kokum",
+          "Amla",
+          "Tamarind"
+        ],
+        "answer": "Kokum"
+      },
+      {
+        "question": "Which popular Indian street snack features hollow fried spheres filled with tangy tamarind water and potatoes?",
+        "options": [
+          "Pani puri",
+          "Samosa chaat",
+          "Sev puri"
+        ],
+        "answer": "Pani puri"
+      },
+      {
+        "question": "Ragi, a millet used for nutritious dosas and porridge, is commonly known by which English name?",
+        "options": [
+          "Finger millet",
+          "Pearl millet",
+          "Barnyard millet"
+        ],
+        "answer": "Finger millet"
+      },
+      {
+        "question": "Which common Indian snack made from gram flour and vegetables is deep fried and served with chutney?",
+        "options": [
+          "Pakora",
+          "Dhokla",
+          "Kofta"
+        ],
+        "answer": "Pakora"
+      },
+      {
+        "question": "Which syrup-soaked dessert made from milk solids or dough balls is a festive favorite across India?",
+        "options": [
+          "Gulab jamun",
+          "Ladoo",
+          "Peda"
+        ],
+        "answer": "Gulab jamun"
+      },
+      {
+        "question": "Which regional cuisine term refers to the refined slow-cooking style developed in Lucknow's royal kitchens?",
+        "options": [
+          "Awadhi",
+          "Punjabi",
+          "Gujarati"
+        ],
+        "answer": "Awadhi"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which cooking technique, literally meaning 'to seal in steam', involves slow-cooking in a sealed pot in Indian cuisine?",
+        "options": [
+          "Dum pukht",
+          "Tadka",
+          "Bhuna"
+        ],
+        "answer": "Dum pukht"
+      },
+      {
+        "question": "Which spice was introduced to Indian kitchens by Portuguese traders in the 16th century and transformed curries?",
+        "options": [
+          "Chili pepper",
+          "Black pepper",
+          "Cardamom"
+        ],
+        "answer": "Chili pepper"
+      },
+      {
+        "question": "Which coastal Indian cuisine blends Hindu traditions with Portuguese-influenced vinegar and pork dishes?",
+        "options": [
+          "Goan cuisine",
+          "Konkani cuisine",
+          "Mangalorean cuisine"
+        ],
+        "answer": "Goan cuisine"
+      },
+      {
+        "question": "Which Hindi term describes the tempering technique of frying whole spices in hot oil before adding to a dish?",
+        "options": [
+          "Tadka",
+          "Bhuna",
+          "Dum"
+        ],
+        "answer": "Tadka"
+      },
+      {
+        "question": "Which Bengali sweet made from chhena and sugar is traditionally shaped into small balls and soaked in syrup?",
+        "options": [
+          "Rasgulla",
+          "Barfi",
+          "Peda"
+        ],
+        "answer": "Rasgulla"
+      },
+      {
+        "question": "What is the key difference between pulao and biryani in common culinary practice?",
+        "options": [
+          "Layered cooking for biryani, single-pot for pulao",
+          "Pulao always uses meat, biryani is vegetarian",
+          "Biryani uses shorter cooking time than pulao"
+        ],
+        "answer": "Layered cooking for biryani, single-pot for pulao"
+      },
+      {
+        "question": "Which Indian state is the origin of the fermented, steamed sourdough pancake called 'pitha' in several variants?",
+        "options": [
+          "Assam",
+          "Rajasthan",
+          "Kerala"
+        ],
+        "answer": "Assam"
+      },
+      {
+        "question": "Which type of rice is traditionally preferred for aromatic long-grain biryanis across northern India?",
+        "options": [
+          "Basmati rice",
+          "Sona masoori",
+          "Parboiled rice"
+        ],
+        "answer": "Basmati rice"
+      },
+      {
+        "question": "Which Gujarati street snack originates from thin wheat flatbreads roasted and served with pickles or chutney?",
+        "options": [
+          "Thepla",
+          "Paratha",
+          "Phulka"
+        ],
+        "answer": "Thepla"
+      },
+      {
+        "question": "Which North Indian sweet made from milk solids (khoya) is often flavored with saffron and cardamom?",
+        "options": [
+          "Kalakand",
+          "Puran poli",
+          "Dhokla"
+        ],
+        "answer": "Kalakand"
+      },
+      {
+        "question": "Which famous Indian chef and TV personality popularized regional Indian recipes for Western audiences in the 1970s?",
+        "options": [
+          "Madhur Jaffrey",
+          "Sanjeev Kapoor",
+          "Tarla Dalal"
+        ],
+        "answer": "Madhur Jaffrey"
+      },
+      {
+        "question": "Which spice mix commonly used in street chaat includes amchur, roasted cumin, and black salt for tangy flavor?",
+        "options": [
+          "Chaat masala",
+          "Garam masala",
+          "Pav bhaji masala"
+        ],
+        "answer": "Chaat masala"
+      },
+      {
+        "question": "Which state’s cuisine features the use of mustard oil and raw mustard paste widely in fish and vegetable preparations?",
+        "options": [
+          "West Bengal",
+          "Gujarat",
+          "Karnataka"
+        ],
+        "answer": "West Bengal"
+      },
+      {
+        "question": "Which bread is characteristic of Punjabi breakfasts and is often pan-fried with ghee until crisp edges form?",
+        "options": [
+          "Paratha",
+          "Bhatura",
+          "Puri"
+        ],
+        "answer": "Paratha"
+      },
+      {
+        "question": "Which style of biryani is associated with Lucknow and often uses saffron-infused stock and delicate flavors?",
+        "options": [
+          "Awadhi biryani",
+          "Hyderabadi biryani",
+          "Kolkata biryani"
+        ],
+        "answer": "Awadhi biryani"
+      },
+      {
+        "question": "Which fermented lentil and rice pancake from Andhra and Telangana comes with spicy chutneys and gunpowder masala?",
+        "options": [
+          "Dosa",
+          "Appam",
+          "Paniyaram"
+        ],
+        "answer": "Dosa"
+      },
+      {
+        "question": "Which coastal Maharashtrian sweet uses coconut, jaggery, and rice flour and is often steamed in banana leaves?",
+        "options": [
+          "Modak",
+          "Puran poli",
+          "Basundi"
+        ],
+        "answer": "Modak"
+      },
+      {
+        "question": "Which spice derived from dried unripe mango is widely used as a tangy souring powder in Indian cooking?",
+        "options": [
+          "Amchur",
+          "Asafoetida",
+          "Kalonji"
+        ],
+        "answer": "Amchur"
+      },
+      {
+        "question": "Which South Indian sweet fermented rice pancake is thicker than dosa and often topped with onions and chilies?",
+        "options": [
+          "Uttapam",
+          "Appam",
+          "Pesarattu"
+        ],
+        "answer": "Uttapam"
+      },
+      {
+        "question": "Which Parsi dish marries lentils, vegetables, and meat with a tangy-sweet profile and is served with rice?",
+        "options": [
+          "Dhansak",
+          "Patra ni machhi",
+          "Sali boti"
+        ],
+        "answer": "Dhansak"
+      },
+      {
+        "question": "Which preserved condiment made from fruit and spices is central to many South Indian and Maharashtrian meals?",
+        "options": [
+          "Pickle (achar)",
+          "Chutney",
+          "Raita"
+        ],
+        "answer": "Pickle (achar)"
+      },
+      {
+        "question": "Which paneer-based curry from North India features a rich tomato-cream gravy and is popular internationally?",
+        "options": [
+          "Paneer butter masala",
+          "Saag paneer",
+          "Mattar paneer"
+        ],
+        "answer": "Paneer butter masala"
+      },
+      {
+        "question": "Which Gujarati hand-rolled snack made with gram flour and spices is deep-fried and eaten with chutney?",
+        "options": [
+          "Gathiya",
+          "Fafda",
+          "Dhokla"
+        ],
+        "answer": "Gathiya"
+      },
+      {
+        "question": "Which rice-and-potato version of biryani became popular in Kolkata after the introduction of certain affordable ingredients?",
+        "options": [
+          "Kolkata biryani",
+          "Lucknow biryani",
+          "Malabar biryani"
+        ],
+        "answer": "Kolkata biryani"
+      },
+      {
+        "question": "Which royal Mughal-era kebab, known for fine texture, was perfected in Lucknow and served to nobility?",
+        "options": [
+          "Galouti kebab",
+          "Seekh kebab",
+          "Shami kebab"
+        ],
+        "answer": "Galouti kebab"
+      },
+      {
+        "question": "Which leafy green and mustard-based Punjabi dish is traditionally eaten with makki di roti in winter months?",
+        "options": [
+          "Sarson ka saag",
+          "Palak paneer",
+          "Kadhi"
+        ],
+        "answer": "Sarson ka saag"
+      },
+      {
+        "question": "Which spice paste, made by grinding roasted spices, is a foundation of many Hyderabadi gravies?",
+        "options": [
+          "Masala paste",
+          "Tandoori paste",
+          "Vindaloo paste"
+        ],
+        "answer": "Masala paste"
+      },
+      {
+        "question": "Which coastal Karnataka dish uses coconut, tamarind, and fish layered in a tangy, spiced curry called 'neer dosa' accompaniment?",
+        "options": [
+          "Fish curry",
+          "Biryani",
+          "Korma"
+        ],
+        "answer": "Fish curry"
+      },
+      {
+        "question": "Which Marathi festival sweet made from chana dal and jaggery is a traditional offering during religious ceremonies?",
+        "options": [
+          "Puran poli",
+          "Shrikhand",
+          "Basundi"
+        ],
+        "answer": "Puran poli"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which historically Persian-derived term is often cited as the linguistic root for the word 'biryani'?",
+        "options": [
+          "Birian (to fry or roast)",
+          "Khichdi (to mix)",
+          "Roti (flatbread)"
+        ],
+        "answer": "Birian (to fry or roast)"
+      },
+      {
+        "question": "Which variety of chili is prized in Indian cuisine for bright red color and mild heat used in tandoori and Kashmiri dishes?",
+        "options": [
+          "Kashmiri red chili",
+          "Byadgi chili",
+          "Bird's eye chili"
+        ],
+        "answer": "Kashmiri red chili"
+      },
+      {
+        "question": "Which fermented soybean product from northeastern India is a staple umami ingredient in several tribal cuisines?",
+        "options": [
+          "Tukpa",
+          "Axone (akhuni)",
+          "Hara chana"
+        ],
+        "answer": "Axone (akhuni)"
+      },
+      {
+        "question": "Which royal multi-course Kashmiri feast traditionally consists of around thirty-six meat-based dishes served together?",
+        "options": [
+          "Wazwan",
+          "Thali",
+          "Langar"
+        ],
+        "answer": "Wazwan"
+      },
+      {
+        "question": "Which spice mixture called 'panch phoron' is composed of five whole seeds commonly used in Bengali and Assamese cuisines?",
+        "options": [
+          "Fenugreek, nigella, cumin, fennel, mustard",
+          "Coriander, turmeric, cumin, cardamom, cloves",
+          "Fennel, cinnamon, star anise, cardamom, mace"
+        ],
+        "answer": "Fenugreek, nigella, cumin, fennel, mustard"
+      },
+      {
+        "question": "Which Portuguese dish name transformed into the Goan curry 'vindaloo' through local adaptation of flavors?",
+        "options": [
+          "Vinha d'alhos",
+          "Cozido à portuguesa",
+          "Bacalhau"
+        ],
+        "answer": "Vinha d'alhos"
+      },
+      {
+        "question": "Which Mughal emperor's patronage significantly shaped the development of rich gravies and kebab traditions in Indian courts?",
+        "options": [
+          "Akbar",
+          "Aurangzeb",
+          "Shah Jahan"
+        ],
+        "answer": "Akbar"
+      },
+      {
+        "question": "Which Himalayan spice, used in Kashmiri cuisine, imparts a unique floral and slightly bitter aroma to dishes?",
+        "options": [
+          "Saffron",
+          "Kashmiri methi (dry fenugreek)",
+          "Mace"
+        ],
+        "answer": "Saffron"
+      },
+      {
+        "question": "Which South Indian fermented rice pancake traditionally served in Kerala uses a fermented batter and often coconut in accompaniments?",
+        "options": [
+          "Appam",
+          "Dosa",
+          "Uttapam"
+        ],
+        "answer": "Appam"
+      },
+      {
+        "question": "Which pungent volcanic-origin rock salt common in chaat and chaats across India is prized for sulfurous flavor?",
+        "options": [
+          "Kala namak (black salt)",
+          "Sea salt",
+          "Himalayan pink salt"
+        ],
+        "answer": "Kala namak (black salt)"
+      },
+      {
+        "question": "Which coastal fish variety historically shaped Bengali elite cuisine and inspired many regional festivals and cookbooks?",
+        "options": [
+          "Rohu",
+          "Hilsa (ilish)",
+          "Pomfret"
+        ],
+        "answer": "Hilsa (ilish)"
+      },
+      {
+        "question": "Which indigenous millet used in parts of South India has high calcium content and supports traditional weaning foods?",
+        "options": [
+          "Ragi (finger millet)",
+          "Jowar (sorghum)",
+          "Bajra (pearl millet)"
+        ],
+        "answer": "Ragi (finger millet)"
+      },
+      {
+        "question": "Which Gujarati lentil-based layered cake called handvo often includes bottle gourd and is baked or steamed for texture?",
+        "options": [
+          "Handvo",
+          "Thepla",
+          "Khandvi"
+        ],
+        "answer": "Handvo"
+      },
+      {
+        "question": "Which cooking fat, clarified butter, is central to many Indian sweets and northern gravies for flavor and finishing?",
+        "options": [
+          "Ghee",
+          "Mustard oil",
+          "Coconut oil"
+        ],
+        "answer": "Ghee"
+      },
+      {
+        "question": "Which spice, frequently used whole in South Indian tempering, is the tiny black seed also called kalonji?",
+        "options": [
+          "Nigella (kalonji)",
+          "Black sesame",
+          "Mustard seed"
+        ],
+        "answer": "Nigella (kalonji)"
+      },
+      {
+        "question": "Which technique describes shallow frying and then slow braising of spices and onions to create a concentrated base called bhuna?",
+        "options": [
+          "Bhuna",
+          "Dum",
+          "Tadka"
+        ],
+        "answer": "Bhuna"
+      },
+      {
+        "question": "Which Goan fish preparation traditionally uses kokum and coconut with a tangy-sour profile unique to Konkan cuisine?",
+        "options": [
+          "Xacuti",
+          "Balchao",
+          "Fish curry"
+        ],
+        "answer": "Fish curry"
+      },
+      {
+        "question": "Which lesser-known Bengali confection uses roasted chhena and sugar cooked to a fudge-like consistency called 'sandesh'?",
+        "options": [
+          "Sandesh",
+          "Pithe",
+          "Modak"
+        ],
+        "answer": "Sandesh"
+      },
+      {
+        "question": "Which food preservation technique involving fermentation of raw mango, fish, or vegetables is widely practiced across northeastern India?",
+        "options": [
+          "Pickling and fermentation",
+          "Dehydration",
+          "Smoking"
+        ],
+        "answer": "Pickling and fermentation"
+      },
+      {
+        "question": "Which regional rice preparation from Kerala pairs fermented appam with a mildly sweetened coconut milk stew called 'payar' sometimes?",
+        "options": [
+          "Appam with stew",
+          "Idli with sambar",
+          "Dosa with sambhar"
+        ],
+        "answer": "Appam with stew"
+      },
+      {
+        "question": "Which spice commonly used in Biryani and payasam has threads harvested from the crocus flower and commands high market value?",
+        "options": [
+          "Saffron",
+          "Turmeric",
+          "Nutmeg"
+        ],
+        "answer": "Saffron"
+      },
+      {
+        "question": "Which coastal Indian state's cuisine uses kokum extensively and features the celebrated fish curry 'Sol Kadhi' as a cooling accompaniment?",
+        "options": [
+          "Maharashtra (Konkan)",
+          "Punjab",
+          "Bihar"
+        ],
+        "answer": "Maharashtra (Konkan)"
+      },
+      {
+        "question": "Which dish from Lucknow is famed for soft texture of meat achieved by grinding meat with fried onions and raw papaya enzymes?",
+        "options": [
+          "Galouti kebab",
+          "Tandoori chicken",
+          "Butter chicken"
+        ],
+        "answer": "Galouti kebab"
+      },
+      {
+        "question": "Which rare North Indian spice resin, used in small quantities for aroma, is known as 'hing' and commonly used in dals?",
+        "options": [
+          "Asafoetida",
+          "Mastic",
+          "Gum arabic"
+        ],
+        "answer": "Asafoetida"
+      },
+      {
+        "question": "Which form of street food in Kolkata uniquely layers potato, egg, and meat in a spiced gravy inside a bun called 'kathi roll' precursor?",
+        "options": [
+          "Rolls originated from Kolkata kabab shops",
+          "Dosa served with chutney",
+          "Pav bhaji stalls"
+        ],
+        "answer": "Rolls originated from Kolkata kabab shops"
+      },
+      {
+        "question": "Which traditional Odia rice cake, typically steamed and associated with temple offerings in Puri, is called 'pitha' in many forms?",
+        "options": [
+          "Pitha",
+          "Peda",
+          "Barfi"
+        ],
+        "answer": "Pitha"
+      },
+      {
+        "question": "Which spice cluster in South Indian rasam often includes coriander seeds roasted and ground for earthy flavor?",
+        "options": [
+          "Coriander-roasted rasam powder",
+          "Garam masala",
+          "Chat masala"
+        ],
+        "answer": "Coriander-roasted rasam powder"
+      },
+      {
+        "question": "Which coastal Karnataka style rice dish from Mangalore layers spiced meat or fish with ghee-scented short-grain rice called 'kori gassi' pairing?",
+        "options": [
+          "Kori gassi with rice",
+          "Hyderabadi biryani",
+          "Kolkata pulao"
+        ],
+        "answer": "Kori gassi with rice"
+      },
+      {
+        "question": "Which regional Punjabi sweet fried in ghee and made of semolina, sugar, and milk is traditionally shaped into laddoos?",
+        "options": [
+          "Sooji halwa laddoo",
+          "Rasgulla laddoo",
+          "Peda laddoo"
+        ],
+        "answer": "Sooji halwa laddoo"
+      },
+      {
+        "question": "Which ancient Indian treatise and travelogues cite early mentions of spiced rice and meat dishes that predate Mughal influence?",
+        "options": [
+          "Accounts in Ain-i-Akbari",
+          "Sushruta and travelogues",
+          "Vedas explicitly describing biryani"
+        ],
+        "answer": "Sushruta and travelogues"
+      },
+      {
+        "question": "Which regional chutney from Andhra uses roasted peanuts, red chilies, and tamarind providing bold heat and nuttiness at meals?",
+        "options": [
+          "Palli chutney (peanut chutney)",
+          "Coconut chutney",
+          "Mint chutney"
+        ],
+        "answer": "Palli chutney (peanut chutney)"
+      },
+      {
+        "question": "Which coastal state's traditional meat-and-rice dish 'sorpotel' reflects Portuguese influence and includes vinegar and offal cooked together?",
+        "options": [
+          "Goa",
+          "Tamil Nadu",
+          "Assam"
+        ],
+        "answer": "Goa"
+      },
+      {
+        "question": "Which aromatic resin used in Kashmiri and Parsi recipes, collected from trees, imparts piney background notes to certain dishes?",
+        "options": [
+          "Mastic is Mediterranean, not used traditionally",
+          "Kokum is a fruit, not resin",
+          "Kewra and rose are floral, resin is not common"
+        ],
+        "answer": "Mastic is Mediterranean, not used traditionally"
+      }
+    ]
+  }
+}

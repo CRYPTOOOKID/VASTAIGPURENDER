@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who authored 'The Picture of Dorian Gray'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote 'The Count of Monte Cristo' originally in which language author wrote?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'The Pillow Book' contemporary of The Tale of Genji?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who wrote 'Frankenstein'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote 'One Hundred Years of Solitude'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote the first full-length English novel often credited as the first English novel, 'Robinson Crusoe'?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'The Grapes of Wrath'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who authored 'The Canterbury Tales'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote the Bildungsroman 'Wilhelm Meister's Apprenticeship'?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the author of 'Lord of the Flies'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who authored 'The Sun Also Rises'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who authored 'The Way We Live Now', a satire of Victorian capitalism?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who authored 'The Adventures of Huckleberry Finn'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'Invisible Man' (1952 novel)?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote 'In Search of Lost Time' (À la recherche du temps perdu)?"
+    }
+  ]
+}

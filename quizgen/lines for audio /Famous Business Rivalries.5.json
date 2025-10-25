@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which two companies were central in the personal digital music player battle with portable devices?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which corporation bought Instagram's rival, affecting competition in social media?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which social media acquisition by Facebook (Meta) in 2012 affected rivalry with which photo-sharing app?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which two companies are central to the iconic \"Cola Wars\" rivalry?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which retail giant challenged Amazon with aggressive online expansion and store integration?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which major 2000s lawsuit involved which pair contesting search advertising and browser integration?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which beverage companies' rivalry included taste tests called the \"Pepsi Challenge\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company released the original iPhone in 2007, altering its rivalry with other phone makers?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which beverage marketing war produced the 1985 case where a taste test led to which product\u000027s return?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which pair dominated the console market with PlayStation competing against other systems?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which automotive company invested early in electric vehicles, challenging traditional automakers?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which high-profile acquisition in 2005 involved Oracle and which enterprise software company contested before takeover?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which two companies competed in the video streaming production race with original series?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which scooter and delivery platform rivalry expanded globally between Didi and which competitor?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific Ford model development directly targeted Ferrari after failed acquisition talks in which year?"
+    }
+  ]
+}

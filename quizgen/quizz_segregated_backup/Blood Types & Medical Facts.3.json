@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which blood type can receive red blood cells from any ABO type without ABO incompatibility?",
+      "options": [
+        "AB positive",
+        "O negative",
+        "A negative"
+      ],
+      "answer": "AB positive"
+    },
+    {
+      "question_id": 2,
+      "question": "Which antibody pattern appears in reverse blood typing to confirm ABO group?",
+      "options": [
+        "Patient serum reacts with known A and B cells",
+        "Patient serum reacts with Rh cells",
+        "Patient serum reacts with K cells"
+      ],
+      "answer": "Patient serum reacts with known A and B cells"
+    },
+    {
+      "question_id": 3,
+      "question": "Which blood group allele variation results from single nucleotide polymorphisms in ABO exon sequences?",
+      "options": [
+        "Subgroup alleles of A and B from SNPs",
+        "Rh deletion only",
+        "Kell promoter mutation only"
+      ],
+      "answer": "Subgroup alleles of A and B from SNPs"
+    },
+    {
+      "question_id": 4,
+      "question": "Which condition results from incompatible maternal and fetal blood types?",
+      "options": [
+        "Hemolytic disease of the fetus",
+        "Pneumonia",
+        "Appendicitis"
+      ],
+      "answer": "Hemolytic disease of the fetus"
+    },
+    {
+      "question_id": 5,
+      "question": "Which antigen in the Kell system can cause severe hemolytic disease of the newborn?",
+      "options": [
+        "K antigen",
+        "C antigen",
+        "E antigen"
+      ],
+      "answer": "K antigen"
+    },
+    {
+      "question_id": 6,
+      "question": "Which condition is a major indication for exchange transfusion in newborns with severe hemolysis?",
+      "options": [
+        "Severe hyperbilirubinemia and anemia",
+        "Minor bruising",
+        "Mild jaundice at day 3"
+      ],
+      "answer": "Severe hyperbilirubinemia and anemia"
+    },
+    {
+      "question_id": 7,
+      "question": "Which test measures compatibility before transfusion between donor and recipient blood?",
+      "options": [
+        "Crossmatch",
+        "Blood glucose",
+        "Cholesterol test"
+      ],
+      "answer": "Crossmatch"
+    },
+    {
+      "question_id": 8,
+      "question": "Which maternal antibody most commonly causes severe fetal anemia without prior sensitization?",
+      "options": [
+        "Anti-D after sensitization",
+        "Anti-A IgM",
+        "Anti-B IgM"
+      ],
+      "answer": "Anti-D after sensitization"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did Karl Landsteiner publish discoveries establishing the ABO blood group system?",
+      "options": [
+        "1901",
+        "1895",
+        "1915"
+      ],
+      "answer": "1901"
+    },
+    {
+      "question_id": 10,
+      "question": "Which component of blood carries oxygen to tissues?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": "Red blood cells"
+    },
+    {
+      "question_id": 11,
+      "question": "Which blood-derived therapy provides concentrated fibrinogen and factor VIII components?",
+      "options": [
+        "Cryoprecipitate",
+        "Packed red blood cells",
+        "Platelet concentrate"
+      ],
+      "answer": "Cryoprecipitate"
+    },
+    {
+      "question_id": 12,
+      "question": "Which blood substitute research focuses on oxygen-carrying hemoglobin-based products and perfluorocarbons?",
+      "options": [
+        "Hemoglobin-based oxygen carriers",
+        "Albumin-only solutions",
+        "Isotonic saline"
+      ],
+      "answer": "Hemoglobin-based oxygen carriers"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blood type is defined by presence of A antigen and anti-B antibodies?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type AB"
+      ],
+      "answer": "Type A"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phenomenon occurs when antibodies cause red cell destruction hours to days after transfusion?",
+      "options": [
+        "Delayed hemolytic transfusion reaction",
+        "Acute hemolytic reaction",
+        "Febrile nonhemolytic reaction"
+      ],
+      "answer": "Delayed hemolytic transfusion reaction"
+    },
+    {
+      "question_id": 15,
+      "question": "Which lab crossmatch method uses antiglobulin phase to detect clinically significant antibodies?",
+      "options": [
+        "Full antiglobulin crossmatch",
+        "Immediate spin crossmatch",
+        "Saline-only crossmatch"
+      ],
+      "answer": "Full antiglobulin crossmatch"
+    }
+  ]
+}

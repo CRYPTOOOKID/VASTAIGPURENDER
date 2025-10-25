@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian language did Rabindranath Tagore primarily write in?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which early modern poet significantly shaped Hindi-Urdu Ghazal tradition in North India?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which script did the Pallava dynasty promote that influenced Southeast Asian scripts?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which language is the most widely spoken native language in India?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which script served as the direct ancestor for Devanagari and many northern scripts?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 13th-century Telugu poet produced the earliest known prabandha literature?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script does Marathi use officially?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which writing system type describes most Indian scripts (vowel signs attach to consonants)?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which language's phonology preserves retroflex lateral approximant rarely found globally?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which language uses Ol Chiki script created for its written form?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script reform led to the distinct rounded letters of Malayalam?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which script reform in early 20th century simplified Bengali type by reducing ligatures?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which North Indian script was used historically in inscriptions along Gandhara?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Odia achievement earned the language classical status in 2014?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient Indian palaeographic source reveals South Indian use of Brahmi for Tamil-Brahmi inscriptions?"
+    }
+  ]
+}

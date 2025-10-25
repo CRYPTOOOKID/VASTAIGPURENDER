@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which unit is commonly used for speed in motorsports on land?",
+      "options": [
+        "Miles per hour",
+        "Meters per second",
+        "Knots"
+      ],
+      "answer": "Miles per hour"
+    },
+    {
+      "question_id": 2,
+      "question": "Which modern probe holds the record for fastest human‑made object relative to the Sun?",
+      "options": [
+        "Parker Solar Probe",
+        "Cassini",
+        "Voyager 1"
+      ],
+      "answer": "Parker Solar Probe"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test facility in Germany is owned by Volkswagen Group for high‑speed runs?",
+      "options": [
+        "Nardò Ring",
+        "Hockenheimring",
+        "Ehra‑Lessien"
+      ],
+      "answer": "Ehra‑Lessien"
+    },
+    {
+      "question_id": 4,
+      "question": "Which spacecraft currently holds the record for fastest human-made object near the Sun?",
+      "options": [
+        "Voyager 1",
+        "New Horizons",
+        "Parker Solar Probe"
+      ],
+      "answer": "Parker Solar Probe"
+    },
+    {
+      "question_id": 5,
+      "question": "Which vehicle holds the absolute official land speed record as of 2024?",
+      "options": [
+        "Thrust2",
+        "SSC Tuatara",
+        "ThrustSSC"
+      ],
+      "answer": "ThrustSSC"
+    },
+    {
+      "question_id": 6,
+      "question": "Which pilot pair set the SR-71 speed record on July 28, 1976?",
+      "options": [
+        "Eldon W. Joersz and George T. Morgan Jr.",
+        "Chuck Yeager and Scott Crossfield",
+        "William J. Knight and Neil Armstrong"
+      ],
+      "answer": "Eldon W. Joersz and George T. Morgan Jr."
+    },
+    {
+      "question_id": 7,
+      "question": "What was Usain Bolt's official 100m record time?",
+      "options": [
+        "9.63 seconds",
+        "9.72 seconds",
+        "9.58 seconds"
+      ],
+      "answer": "9.58 seconds"
+    },
+    {
+      "question_id": 8,
+      "question": "What top speed in mph did the North American X-15 achieve in 1967?",
+      "options": [
+        "2,193 mph",
+        "7,346 mph",
+        "4,520 mph"
+      ],
+      "answer": "4,520 mph"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Japanese test reached 603 km/h for magnetic levitation in 2015?",
+      "options": [
+        "ALFA-X",
+        "Shinkansen N700",
+        "L0 Series Maglev"
+      ],
+      "answer": "L0 Series Maglev"
+    },
+    {
+      "question_id": 10,
+      "question": "What type of water body did Ken Warby use for his water speed record?",
+      "options": [
+        "Ocean",
+        "River",
+        "Reservoir"
+      ],
+      "answer": "Reservoir"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country operates the TGV that set 574.8 km/h in 2007?",
+      "options": [
+        "Japan",
+        "France",
+        "Germany"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 12,
+      "question": "Which year did Denise Mueller-Korenek set the paced bicycle world record at Bonneville?",
+      "options": [
+        "2012",
+        "2014",
+        "2018"
+      ],
+      "answer": "2018"
+    },
+    {
+      "question_id": 13,
+      "question": "Who set the water speed record in Spirit of Australia?",
+      "options": [
+        "Ken Warby",
+        "Craig Breedlove",
+        "Donald Campbell"
+      ],
+      "answer": "Ken Warby"
+    },
+    {
+      "question_id": 14,
+      "question": "What speed in mph did Apollo 10 achieve during its reentry?",
+      "options": [
+        "24,791 mph",
+        "2,193 mph",
+        "318.60 mph"
+      ],
+      "answer": "24,791 mph"
+    },
+    {
+      "question_id": 15,
+      "question": "What was ThrustSSC's documented speed in kilometers per hour during the 1997 record?",
+      "options": [
+        "1,408.672 km/h",
+        "1,017.234 km/h",
+        "1,227.985 km/h"
+      ],
+      "answer": "1,227.985 km/h"
+    }
+  ]
+}

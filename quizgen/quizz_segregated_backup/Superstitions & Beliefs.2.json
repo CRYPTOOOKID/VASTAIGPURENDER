@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which common superstition advises against opening an umbrella indoors?",
+      "options": [
+        "It invites bad luck",
+        "It causes rain",
+        "It attracts spirits"
+      ],
+      "answer": "It invites bad luck"
+    },
+    {
+      "question_id": 2,
+      "question": "Which medieval mark carved in buildings aimed to ward off witches and evil spirits?",
+      "options": [
+        "Ritual protection marks",
+        "Totemic graffiti",
+        "Heraldic emblems"
+      ],
+      "answer": "Ritual protection marks"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Greek word meaning 'to ward off' underlies the term 'apotropaic' used in superstition studies?",
+      "options": [
+        "apotropein",
+        "agapein",
+        "akropolein"
+      ],
+      "answer": "apotropein"
+    },
+    {
+      "question_id": 4,
+      "question": "Which practice involves leaving offerings or small gifts to please household spirits in many traditions?",
+      "options": [
+        "Making offerings",
+        "Swapping shoes",
+        "Closing windows"
+      ],
+      "answer": "Making offerings"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phrase names the belief that certain words can bring luck when spoken aloud?",
+      "options": [
+        "Lucky incantation",
+        "Numerical omen",
+        "Sacrificial chant"
+      ],
+      "answer": "Lucky incantation"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nineteenth-century banker's novel by Thomas W. Lawson linked a maritime superstition to Friday the 13th?",
+      "options": [
+        "Friday the Thirteenth",
+        "Black Friday Tale",
+        "Mariner's Curse"
+      ],
+      "answer": "Friday the Thirteenth"
+    },
+    {
+      "question_id": 7,
+      "question": "Breaking a mirror traditionally brings how many years of bad luck in popular belief?",
+      "options": [
+        "Seven years",
+        "Three years",
+        "Twelve years"
+      ],
+      "answer": "Seven years"
+    },
+    {
+      "question_id": 8,
+      "question": "Which object do many people kiss for luck when making a wish at famous sites?",
+      "options": [
+        "Statue or relic",
+        "Window glass",
+        "Door handle"
+      ],
+      "answer": "Statue or relic"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ancient Greek practice used specially trained priests, haruspices, to read livers and entrails?",
+      "options": [
+        "Hepatoscopy",
+        "Oneiromancy",
+        "Palmistry"
+      ],
+      "answer": "Hepatoscopy"
+    },
+    {
+      "question_id": 10,
+      "question": "Which color is widely associated with good luck and prosperity in Chinese culture?",
+      "options": [
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 11,
+      "question": "Which household plant is often considered protective against negative energy in folklore?",
+      "options": [
+        "Rue",
+        "Tulip",
+        "Cactus"
+      ],
+      "answer": "Rue"
+    },
+    {
+      "question_id": 12,
+      "question": "Which scholarly term denotes practices that intentionally reverse misfortune or misdeeds onto another?",
+      "options": [
+        "Ritual transfer",
+        "Apothetic inversion",
+        "Reverse animism"
+      ],
+      "answer": "Ritual transfer"
+    },
+    {
+      "question_id": 13,
+      "question": "Which charm is commonly carried to ward off the evil eye in Mediterranean cultures?",
+      "options": [
+        "Nazar amulet",
+        "Four-leaf clover",
+        "Dreamcatcher"
+      ],
+      "answer": "Nazar amulet"
+    },
+    {
+      "question_id": 14,
+      "question": "Which culture commonly uses the hamsa hand as a protective symbol against the evil eye?",
+      "options": [
+        "Middle Eastern cultures",
+        "Nordic cultures",
+        "Polynesian cultures"
+      ],
+      "answer": "Middle Eastern cultures"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Greek island practice used painted eyes on boats to avert the evil eye at sea?",
+      "options": [
+        "Apotropaic eye painting",
+        "Ship bell ringing",
+        "Anchor burying"
+      ],
+      "answer": "Apotropaic eye painting"
+    }
+  ]
+}

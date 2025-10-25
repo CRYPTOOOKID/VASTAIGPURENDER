@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a majority stake?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does staple financing provide in an auction process?"
+    },
+    {
+      "question_id": 3,
+      "question": "What key test evaluates whether a stock-for-stock deal dilutes EPS?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is an acquisition?"
+    },
+    {
+      "question_id": 5,
+      "question": "What role does a lead arranger play in acquisition financing?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the tax advantage of an asset purchase over a stock purchase for buyers?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a breakup fee?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which major retailer did Amazon acquire in 2017?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does a go-shop provision allow after signing an agreement?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which is a horizontal merger?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which liabilities are retained by the seller after an asset sale?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which clause allows adjustment of purchase price for working capital changes?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the purpose of anti-trust review in M&A?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a crown jewel defense?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which doctrine requires directors to seek the best value when breakup is inevitable?"
+    }
+  ]
+}

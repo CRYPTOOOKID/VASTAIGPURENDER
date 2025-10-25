@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an asset on a company's balance sheet?"
+    },
+    {
+      "question_id": 2,
+      "question": "What distinguishes B2B from B2C marketing approaches?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is double materiality mainly associated with in reporting?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is gross margin commonly used to assess?"
+    },
+    {
+      "question_id": 5,
+      "question": "What are Porter's Five Forces used to analyze?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is scenario planning used for in corporate strategy?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is market capitalization for a public company?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is price elasticity of demand measuring?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does a negative covenant in loan agreements restrict?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does a balance sheet show for a company?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is gross domestic product commonly used to indicate?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which framework shifted global revenue recognition rules to principles-based standards?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is revenue commonly reported on the income statement for a business?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does lean startup methodology emphasize first?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is vendor-managed inventory intended to improve?"
+    }
+  ]
+}

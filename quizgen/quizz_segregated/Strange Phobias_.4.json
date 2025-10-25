@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia is fear of clowns often associated with in popular culture?",
+      "options": [
+        "Nyctophobia",
+        "Heliophobia",
+        "Coulrophobia"
+      ],
+      "answer": "Coulrophobia"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia refers to fear of hands causing avoidance of touching others?",
+      "options": [
+        "Chirophobia",
+        "Somniphobia",
+        "Catoptrophobia"
+      ],
+      "answer": "Chirophobia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia is sometimes discussed in research as a misfiring evolutionary disgust mechanism?",
+      "options": [
+        "Trypophobia",
+        "Pogonophobia",
+        "Nomophobia"
+      ],
+      "answer": "Trypophobia"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia refers to fear of fainting or dizziness?",
+      "options": [
+        "Syncope-related phobia",
+        "Basinophobia",
+        "Astrophobia"
+      ],
+      "answer": "Syncope-related phobia"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia describes fear of opera or theatrical performances in some individuals?",
+      "options": [
+        "Theatrophobia",
+        "Ophiophobia",
+        "Plutophobia"
+      ],
+      "answer": "Theatrophobia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which treatment adapts exposure by using virtual environments for unusual phobia triggers?",
+      "options": [
+        "Herbal supplementation",
+        "Hypnotherapy alone",
+        "Virtual reality exposure therapy"
+      ],
+      "answer": "Virtual reality exposure therapy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia is fear of loud or sudden noises often experienced in combat veterans?",
+      "options": [
+        "Phonophobia",
+        "Ochlophobia",
+        "Somnophobia"
+      ],
+      "answer": "Phonophobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which popular humorous phobia was created to critique irrational fears of long words?",
+      "options": [
+        "Monophobia",
+        "Hippopotomonstrosesquipedaliophobia",
+        "Panphobia"
+      ],
+      "answer": "Hippopotomonstrosesquipedaliophobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia was humorously popularized to critique irrational modern anxieties about devices?",
+      "options": [
+        "Panphobia",
+        "Ablutophobia",
+        "Nomophobia"
+      ],
+      "answer": "Nomophobia"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia name literally uses the Greek word for fear, 'phobos'?",
+      "options": [
+        "Only modern phobias",
+        "All common phobia names",
+        "Only clinical phobias"
+      ],
+      "answer": "All common phobia names"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unusual phobia is the fear of peanut butter sticking to the roof of the mouth?",
+      "options": [
+        "Cibophobia",
+        "Nyctophobia",
+        "Arachibutyrophobia"
+      ],
+      "answer": "Arachibutyrophobia"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia coined in 2008 highlighted anxieties tied to modern mobile connectivity?",
+      "options": [
+        "Nomophobia",
+        "Cyberphobia",
+        "Telephonophobia"
+      ],
+      "answer": "Nomophobia"
+    },
+    {
+      "question_id": 13,
+      "question": "What is coulrophobia commonly defined as?",
+      "options": [
+        "Fear of clowns",
+        "Fear of heights",
+        "Fear of insects"
+      ],
+      "answer": "Fear of clowns"
+    },
+    {
+      "question_id": 14,
+      "question": "Which therapy often pairs gradual exposure with cognitive restructuring for phobia treatment?",
+      "options": [
+        "Chelation therapy",
+        "Cognitive behavioral therapy",
+        "Aromatherapy"
+      ],
+      "answer": "Cognitive behavioral therapy"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia is documented as fear of swallowing pills or tablets in clinical reports?",
+      "options": [
+        "Phagophobia",
+        "Coulrophobia",
+        "Nomophobia"
+      ],
+      "answer": "Phagophobia"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which headstreams meet at Devprayag to create the Ganga?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which dam is constructed across the Mahanadi River in Odisha?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river system was central to the construction of the Sone Barrage for irrigation in Bihar?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which river empties into the Arabian Sea at the Gulf of Khambhat?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which major tributary joins the Yamuna downstream contributing significant flow?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river is associated with the historic Grand Anicut engineering work built in the 2nd century CE?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which river separates parts of Uttar Pradesh and Bihar along its course?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which inter-state water dispute primarily involves Karnataka and Tamil Nadu?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian river's delta is shared with Bangladesh and includes the world’s largest mangrove?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which river contributes to the backwaters and port system at Kochi?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river originates at Talakaveri in the Western Ghats?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river's catchment includes the Sundergarh and Angul coalfields in Odisha?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river is often called the 'Dakshin Ganga' or 'Ganges of the South'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which river is the main source of irrigation in Tamil Nadu's delta plains?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major Himalayan tributary of the Ganges originates in Nepal and joins on the left bank?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which item contains zero calories and no nutrients?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which number does the FDA use as the reference daily calorie intake on labels?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which food component can reduce measured metabolizable energy through fermentation in the colon?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which snack change lowers calories without removing nutrients?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes calories available to the body after digestion and losses?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nutritional label practice can mislead consumers about calorie contribution from mixed dishes?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which food component increases energy density most per gram?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which labeling term helps consumers see how a serving fits into a 2,000 calorie diet?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nuanced factor makes calorie estimates less accurate for highly processed versus whole foods?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which nutrient primarily helps build and repair body tissues?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the main difference between glycemic index and glycemic load?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which laboratory approach estimates human metabolizable energy more accurately than simple combustion?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient provides about 9 kilocalories per gram?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phrase best describes percent of calories from fat on nutrition labels?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes energy remaining after fecal and urinary losses are subtracted?"
+    }
+  ]
+}

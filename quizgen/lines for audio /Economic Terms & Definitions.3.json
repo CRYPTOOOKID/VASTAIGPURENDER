@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is inflation measured by the CPI?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is price elasticity greater than one called?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the practical implication of the Mundell-Fleming model under fixed exchange rates?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does GDP measure in an economy?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the natural rate of unemployment?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which indicator signals potential recession when inverted?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'marginal cost'?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the primary role of a central bank?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phenomenon explains why poorer countries sometimes grow faster catching up technologically?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is meant by 'comparative advantage'?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'exchange rate depreciation'?"
+    },
+    {
+      "question_id": 12,
+      "question": "In open economy, what does the Marshall-Lerner condition describe?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an externality?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the Laffer Curve concept about?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the role of contingent convertible bonds (CoCos) in bank regulation?"
+    }
+  ]
+}

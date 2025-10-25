@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which house uses the interlocked YSL monogram as its signature mark?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which fashion house created the iconic 2.55 bag in February 1955?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which renowned fashion photographer shot many iconic Vogue covers and campaigns for Dior and Chanel?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which luxury brand is renowned for Swiss-made watches?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fashion house produced the iconic 'Prada nylon' backpack worn by celebrities in the 1990s?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which couturier used math and geometry to sculpt garments and influenced modern architectural dressmaking?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which brand uses the interlocked double-G logo?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Italian label launched the 'Sicilian' themed collections and use of religious iconography?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which luxury conglomerate acquired Fendi in a close partnership with the founding family in 2001?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which luxury house popularized the silk carré scarf as a signature accessory?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which couture technique describes garments made to a client’s precise measurements?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which fashion house established a signature interwoven leather technique called 'intrecciato' in the 1960s?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which city is Louis Vuitton originally associated with?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Italian maison popularized the Gommino driving shoe?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which designer took over as creative director at Gucci in 2015 and shifted the brand aesthetic?"
+    }
+  ]
+}

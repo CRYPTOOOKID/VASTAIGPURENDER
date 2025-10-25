@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which unit expresses perceived sound level?",
+      "options": [
+        "Decibel (dB)",
+        "Watt (W)",
+        "Hertz (Hz)"
+      ],
+      "answer": "Decibel (dB)"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientist built resonators to analyze sound spectra in the 19th century?",
+      "options": [
+        "Helmholtz",
+        "Faraday",
+        "Maxwell"
+      ],
+      "answer": "Helmholtz"
+    },
+    {
+      "question_id": 3,
+      "question": "What effect causes high-frequency sound to attenuate more over long atmospheric paths?",
+      "options": [
+        "Atmospheric absorption",
+        "Doppler shifting",
+        "Specular reflection"
+      ],
+      "answer": "Atmospheric absorption"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the commonly cited human hearing range?",
+      "options": [
+        "20 Hz to 20 kHz",
+        "0.1 Hz to 1 Hz",
+        "100 kHz to 1 MHz"
+      ],
+      "answer": "20 Hz to 20 kHz"
+    },
+    {
+      "question_id": 5,
+      "question": "Which frequency band plays the greatest role in speech intelligibility?",
+      "options": [
+        "1 kHz to 4 kHz",
+        "50 Hz to 200 Hz",
+        "10 kHz to 20 kHz"
+      ],
+      "answer": "1 kHz to 4 kHz"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fundamental equation models pressure variations for acoustic waves in fluids?",
+      "options": [
+        "Acoustic wave equation",
+        "Navier-Stokes momentum equation",
+        "Maxwell's equations"
+      ],
+      "answer": "Acoustic wave equation"
+    },
+    {
+      "question_id": 7,
+      "question": "What name describes sound above 20 kHz?",
+      "options": [
+        "Ultrasound",
+        "Infrasound",
+        "Subsonic sound"
+      ],
+      "answer": "Ultrasound"
+    },
+    {
+      "question_id": 8,
+      "question": "What reference sound pressure corresponds to 0 dB SPL?",
+      "options": [
+        "20 micropascals",
+        "1 pascal",
+        "100 pascals"
+      ],
+      "answer": "20 micropascals"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term names the curves that map equal perceived loudness across frequency?",
+      "options": [
+        "Equal-loudness contours (Fletcher-Munson)",
+        "Harmonic envelopes",
+        "Spectral centroids"
+      ],
+      "answer": "Equal-loudness contours (Fletcher-Munson)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instrument produces sound primarily by vibrating strings?",
+      "options": [
+        "Violin",
+        "Flute",
+        "Trumpet"
+      ],
+      "answer": "Violin"
+    },
+    {
+      "question_id": 11,
+      "question": "What process reduces transmitted energy when sound passes through material?",
+      "options": [
+        "Absorption",
+        "Reflection",
+        "Diffraction"
+      ],
+      "answer": "Absorption"
+    },
+    {
+      "question_id": 12,
+      "question": "What quantity equals the product of medium density and sound speed?",
+      "options": [
+        "Acoustic characteristic impedance",
+        "Young's modulus",
+        "Specific heat"
+      ],
+      "answer": "Acoustic characteristic impedance"
+    },
+    {
+      "question_id": 13,
+      "question": "Sound waves in air are which wave type?",
+      "options": [
+        "Longitudinal waves",
+        "Transverse waves",
+        "Circular waves"
+      ],
+      "answer": "Longitudinal waves"
+    },
+    {
+      "question_id": 14,
+      "question": "Typical bat echolocation frequencies often fall in which range?",
+      "options": [
+        "20 kHz to 200 kHz",
+        "1 Hz to 10 Hz",
+        "1 kHz to 4 kHz"
+      ],
+      "answer": "20 kHz to 200 kHz"
+    },
+    {
+      "question_id": 15,
+      "question": "What determines spacing of harmonic partials for an ideal vibrating string?",
+      "options": [
+        "The fundamental frequency",
+        "The string color",
+        "Ambient humidity"
+      ],
+      "answer": "The fundamental frequency"
+    }
+  ]
+}

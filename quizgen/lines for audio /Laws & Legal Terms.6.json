@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'estate' in probate law?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which document typically begins a civil lawsuit?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which remedy in equity cancels an unjust contract and restores parties?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'mediation' in dispute resolution?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which doctrine allows courts to dismiss weak cases early?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does the 'plain view' doctrine permit law enforcement to do?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is a defense attorney?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'constructive trust' used for in equity?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which case set the 'reasonable expectation of privacy' standard in the US?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'due process' guarantee generally?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which case first established judicial review in the United States?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the 'Kelly-Frye' or 'Frye' test concerning?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which principle bars retroactive criminal laws?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which doctrine makes employers liable for employee torts within scope of employment?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is 'parens patriae' power used by states for?"
+    }
+  ]
+}

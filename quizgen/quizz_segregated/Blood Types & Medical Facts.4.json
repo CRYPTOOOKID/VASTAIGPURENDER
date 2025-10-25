@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which blood component helps stop bleeding by forming clots?",
+      "options": [
+        "Platelets",
+        "Plasma",
+        "White blood cells"
+      ],
+      "answer": "Platelets"
+    },
+    {
+      "question_id": 2,
+      "question": "Which procedure identifies the best donor blood unit for immediate transfusion?",
+      "options": [
+        "Crossmatch",
+        "Electrophoresis",
+        "Magnetic resonance imaging"
+      ],
+      "answer": "Crossmatch"
+    },
+    {
+      "question_id": 3,
+      "question": "Which lab method identifies specific blood group antigens using monoclonal antisera panels?",
+      "options": [
+        "Gram staining",
+        "Serum protein immunofixation",
+        "Phenotyping by serology"
+      ],
+      "answer": "Phenotyping by serology"
+    },
+    {
+      "question_id": 4,
+      "question": "Which antigen absence characterizes the Bombay blood phenotype?",
+      "options": [
+        "H antigen",
+        "K antigen",
+        "D antigen"
+      ],
+      "answer": "H antigen"
+    },
+    {
+      "question_id": 5,
+      "question": "Which blood product must be ABO compatible for safe plasma transfusion?",
+      "options": [
+        "Packed red cells",
+        "Plasma",
+        "Platelets"
+      ],
+      "answer": "Plasma"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mechanism underlies antibody-mediated hemolysis involving complement activation?",
+      "options": [
+        "Classical complement pathway fixation",
+        "Cytokine storm alone",
+        "Intrinsic coagulation activation"
+      ],
+      "answer": "Classical complement pathway fixation"
+    },
+    {
+      "question_id": 7,
+      "question": "Which cell type increases during bacterial infection rather than transfusion reaction?",
+      "options": [
+        "Platelets",
+        "Red blood cells",
+        "White blood cells"
+      ],
+      "answer": "White blood cells"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rare phenotype lacks H antigen and complicates ABO compatibility?",
+      "options": [
+        "Rh-null phenotype",
+        "Bombay phenotype",
+        "Weak D phenotype"
+      ],
+      "answer": "Bombay phenotype"
+    },
+    {
+      "question_id": 9,
+      "question": "Which blood product irradiation dose reduces donor lymphocyte proliferation to prevent GVHD?",
+      "options": [
+        "2 Gy to plasma",
+        "100 Gy to platelets",
+        "25 Gy to cellular components"
+      ],
+      "answer": "25 Gy to cellular components"
+    },
+    {
+      "question_id": 10,
+      "question": "Which blood test determines a person’s ABO and Rh status?",
+      "options": [
+        "Blood typing",
+        "Lipid profile",
+        "Complete metabolic panel"
+      ],
+      "answer": "Blood typing"
+    },
+    {
+      "question_id": 11,
+      "question": "Which stored blood component carries highest risk of bacterial growth if contaminated?",
+      "options": [
+        "Platelets",
+        "Packed red blood cells",
+        "Frozen plasma"
+      ],
+      "answer": "Platelets"
+    },
+    {
+      "question_id": 12,
+      "question": "Which antibody subclass predominates in delayed hemolytic transfusion reactions and can be memory response?",
+      "options": [
+        "IgM",
+        "IgG",
+        "IgA"
+      ],
+      "answer": "IgG"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blood product is commonly given to patients with low hemoglobin?",
+      "options": [
+        "Packed red blood cells",
+        "Fresh frozen plasma",
+        "Platelet concentrate"
+      ],
+      "answer": "Packed red blood cells"
+    },
+    {
+      "question_id": 14,
+      "question": "Which technique reduces transfusion-transmitted CMV risk in high-risk recipients?",
+      "options": [
+        "Gamma radiation of plasma",
+        "Use CMV-seronegative or leukoreduced blood",
+        "Heat inactivation"
+      ],
+      "answer": "Use CMV-seronegative or leukoreduced blood"
+    },
+    {
+      "question_id": 15,
+      "question": "Which process reduces bacterial risk in platelet transfusions by screening or pathogen reduction?",
+      "options": [
+        "Gamma sterilization of RBCs",
+        "Pathogen reduction technologies or bacterial culture",
+        "Heat pasteurization of plasma"
+      ],
+      "answer": "Pathogen reduction technologies or bacterial culture"
+    }
+  ]
+}

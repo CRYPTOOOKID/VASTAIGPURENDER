@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which snack brand uses \"Once you pop, you can't stop\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand's tagline stressed product function with a clever onomatopoeic line about a clock?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company's tagline has been periodically refreshed but retains the original core idea since 1973?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which brand used the slogan \"Think Different\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which global brand revived a classic name with the tagline \"Taste the Feeling\" in 2016?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which copywriter famously wrote the Rolls-Royce line about the loudest noise being the electric clock?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which automaker uses the tagline \"Let's Go Places\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which retailer launched the slogan \"Expect More. Pay Less.\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which copywriter's 1947 line for De Beers shifted consumer behavior globally?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which retailer uses the tagline \"Expect More. Pay Less.\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which chocolate brand asks consumers about feeling rather than ingredients with its slogan?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which famous tagline began as a single-sentence headline in a 1958 print ad?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which candy uses the slogan \"Melts in your mouth, not in your hands\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which advertising agency coined Nike's \"Just Do It\" slogan?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advertising line did Justin Timberlake help popularize as a jingle?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is remarketing (retargeting) used for?",
+      "options": [
+        "Re-engage users who previously visited a site",
+        "Hire new marketing staff",
+        "Generate quarterly tax filings"
+      ],
+      "answer": "Re-engage users who previously visited a site"
+    },
+    {
+      "question_id": 2,
+      "question": "Which segmentation approach groups customers by purchase behavior?",
+      "options": [
+        "Behavioral segmentation",
+        "Geographic segmentation",
+        "Organizational segmentation"
+      ],
+      "answer": "Behavioral segmentation"
+    },
+    {
+      "question_id": 3,
+      "question": "Which strategic framework helps define unique customer value and competitive differentiation?",
+      "options": [
+        "Value proposition and positioning statement",
+        "Quarterly expense report",
+        "IT infrastructure diagram"
+      ],
+      "answer": "Value proposition and positioning statement"
+    },
+    {
+      "question_id": 4,
+      "question": "Which creative element captures attention first in most ads?",
+      "options": [
+        "Headline or visual",
+        "Legal footer",
+        "Internal project code"
+      ],
+      "answer": "Headline or visual"
+    },
+    {
+      "question_id": 5,
+      "question": "Which technique reduces wasted ad spend by excluding uninterested audiences?",
+      "options": [
+        "Negative targeting or exclusion lists",
+        "Increasing bid limits for all users",
+        "Sending more emails to inactive users"
+      ],
+      "answer": "Negative targeting or exclusion lists"
+    },
+    {
+      "question_id": 6,
+      "question": "Which data governance practice is critical for campaign measurement accuracy?",
+      "options": [
+        "Consistent taxonomy and event definitions across platforms",
+        "Changing event names monthly",
+        "Storing only raw logs without standards"
+      ],
+      "answer": "Consistent taxonomy and event definitions across platforms"
+    },
+    {
+      "question_id": 7,
+      "question": "Which metric measures how many people click an ad divided by impressions?",
+      "options": [
+        "Click-through rate (CTR)",
+        "Customer lifetime value (CLV)",
+        "Return on ad spend (ROAS)"
+      ],
+      "answer": "Click-through rate (CTR)"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the primary benefit of persona development in campaigns?",
+      "options": [
+        "Creates realistic audience archetypes for targeted messaging",
+        "Reduces product manufacturing time",
+        "Improves payroll accuracy"
+      ],
+      "answer": "Creates realistic audience archetypes for targeted messaging"
+    },
+    {
+      "question_id": 9,
+      "question": "Which contractual model gives advertisers guaranteed delivery and fixed pricing?",
+      "options": [
+        "Direct-sold guaranteed media buys",
+        "Open auction programmatic buys",
+        "Pay-per-click only agreements"
+      ],
+      "answer": "Direct-sold guaranteed media buys"
+    },
+    {
+      "question_id": 10,
+      "question": "Which basic advertising format is native to a platform and matches its look?",
+      "options": [
+        "Native advertising",
+        "Billboard advertising",
+        "Telemarketing"
+      ],
+      "answer": "Native advertising"
+    },
+    {
+      "question_id": 11,
+      "question": "Which famous campaign repositioned Old Spice with humor in 2010?",
+      "options": [
+        "The Man Your Man Could Smell Like",
+        "Dove Real Beauty",
+        "Share a Coke"
+      ],
+      "answer": "The Man Your Man Could Smell Like"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced targeting uses propensity scores to predict purchase likelihood?",
+      "options": [
+        "Predictive propensity modeling",
+        "Contextual keyword bidding",
+        "Static demographic segmentation"
+      ],
+      "answer": "Predictive propensity modeling"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a key characteristic of integrated marketing communications?",
+      "options": [
+        "Consistent messaging across channels",
+        "Randomized promotional offers",
+        "Exclusive reliance on print media"
+      ],
+      "answer": "Consistent messaging across channels"
+    },
+    {
+      "question_id": 14,
+      "question": "What does 'frequency capping' control in digital campaigns?",
+      "options": [
+        "How often a single user sees an ad",
+        "The number of creatives produced",
+        "The budget allocation per channel"
+      ],
+      "answer": "How often a single user sees an ad"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advanced bidding leverages predicted incrementality rather than conversions?",
+      "options": [
+        "Incrementality-optimized bidding",
+        "CPM-only budget maximization",
+        "Random bidding"
+      ],
+      "answer": "Incrementality-optimized bidding"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the national anthem of the United States?",
+      "options": [
+        "The Star-Spangled Banner",
+        "America the Beautiful",
+        "My Country, 'Tis of Thee"
+      ],
+      "answer": "The Star-Spangled Banner"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's national motto appears on its coat of arms as 'Plus Ultra'?",
+      "options": [
+        "Spain",
+        "France",
+        "Portugal"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country's national anthem includes stanzas borrowed from a 19th-century independence song written by an exile?",
+      "options": [
+        "Venezuela",
+        "Chile",
+        "Greece"
+      ],
+      "answer": "Chile"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country's national anthem is titled 'Lupang Hinirang'?",
+      "options": [
+        "Philippines",
+        "Indonesia",
+        "Malaysia"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did the United States officially adopt 'The Star-Spangled Banner' as its national anthem?",
+      "options": [
+        "1931",
+        "1814",
+        "1865"
+      ],
+      "answer": "1931"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country revised its anthem in 1994 to remove references to a previous political system while keeping the melody?",
+      "options": [
+        "Russia (post-Soviet revisions)",
+        "France",
+        "Italy"
+      ],
+      "answer": "Russia (post-Soviet revisions)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which nation's official motto is 'Satyameva Jayate', meaning 'Truth alone triumphs'?",
+      "options": [
+        "India",
+        "Nepal",
+        "Sri Lanka"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country's national anthem opens with words meaning 'Arise, descendants of' in its official language?",
+      "options": [
+        "Egypt ('Bilady, Bilady, Bilady')",
+        "Greece ('Hymn to Liberty')",
+        "Turkey ('İstiklal Marşı')"
+      ],
+      "answer": "Egypt ('Bilady, Bilady, Bilady')"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem melody was used as the basis for the Prussian royal anthem 'Heil dir im Siegerkranz'?",
+      "options": [
+        "God Save the King",
+        "La Marseillaise",
+        "Deutschlandlied melody"
+      ],
+      "answer": "God Save the King"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the traditional royal anthem of the United Kingdom?",
+      "options": [
+        "God Save the King",
+        "Rule, Britannia!",
+        "Jerusalem"
+      ],
+      "answer": "God Save the King"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country's national motto 'Dieu et mon droit' uses a French phrase despite an English-speaking nation?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "Canada"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 12,
+      "question": "Which national anthem was composed by a musician who later became famous as a bandleader for a state's official choir?",
+      "options": [
+        "Russia (Alexandrov)",
+        "Greece",
+        "Poland"
+      ],
+      "answer": "Russia (Alexandrov)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country's current national anthem melody was composed by Joseph Haydn?",
+      "options": [
+        "Germany",
+        "Austria",
+        "Italy"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's anthem melody was originally written as an emperor's hymn titled 'Gott erhalte Franz den Kaiser'?",
+      "options": [
+        "Austria (later used in Germany)",
+        "Italy",
+        "Hungary"
+      ],
+      "answer": "Austria (later used in Germany)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national motto is a Latin phrase once used as a Roman imperial slogan and later adopted by the modern state?",
+      "options": [
+        "Spain ('Plus Ultra')",
+        "Italy ('Unione e Forza')",
+        "Portugal ('Esta é a Pátria')"
+      ],
+      "answer": "Spain ('Plus Ultra')"
+    }
+  ]
+}

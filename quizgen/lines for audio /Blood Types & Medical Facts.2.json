@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which vital measure is essential before and after a blood transfusion?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which red cell antigen causes the Rh positive blood group classification?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which antigen system's antiantibodies are notorious for causing delayed hemolytic transfusion reactions?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which test detects antibodies bound directly to red blood cells?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which anticoagulant is commonly used for blood collection tubes to preserve cells?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which reagent removes plasma proteins to reduce allergic transfusion reactions when used to wash cells?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which blood group has both A and B antigens on red blood cells?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which measurement determines whether a transfused red cell unit matches recipient ABO antibodies?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare phenotype was first described in Bombay and lacks H antigen expression?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which blood type lacks A and B antigens on red blood cells?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which clotting factor measurement is commonly restored by fresh frozen plasma transfusion?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare antibody specificity requires identification by adsorption and elution techniques?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which practice reduces transfusion-transmitted infection risk from donors?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which blood donor screening excludes recent high-risk behaviors to reduce infection risk?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which condition describes intrauterine fetal hydrops from severe hemolytic disease?"
+    }
+  ]
+}

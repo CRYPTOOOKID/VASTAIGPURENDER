@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which measure of central tendency remains more robust in the presence of extreme outliers?",
+      "options": [
+        "Median",
+        "Mean",
+        "Range"
+      ],
+      "answer": "Median"
+    },
+    {
+      "question_id": 2,
+      "question": "Which average multiplies values together and takes the nth root, useful for growth rates and ratios?",
+      "options": [
+        "Geometric mean",
+        "Harmonic mean",
+        "Arithmetic mean"
+      ],
+      "answer": "Geometric mean"
+    },
+    {
+      "question_id": 3,
+      "question": "Which widely cited multiple-testing procedure aims to control the expected proportion of false discoveries?",
+      "options": [
+        "Benjamini–Hochberg procedure",
+        "Bonferroni correction",
+        "Holm method"
+      ],
+      "answer": "Benjamini–Hochberg procedure"
+    },
+    {
+      "question_id": 4,
+      "question": "What name is given to the three points that divide ordered data into four equal parts called quartiles?",
+      "options": [
+        "Quartiles",
+        "Deciles",
+        "Percentiles"
+      ],
+      "answer": "Quartiles"
+    },
+    {
+      "question_id": 5,
+      "question": "Which plot assesses whether sample quantiles align with a theoretical distribution, often used for normality checks?",
+      "options": [
+        "Q-Q plot",
+        "Scatter plot",
+        "Histogram"
+      ],
+      "answer": "Q-Q plot"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept defines a statistic that captures all the information in a sample relevant to estimating a parameter?",
+      "options": [
+        "Sufficiency",
+        "Consistency",
+        "Efficiency"
+      ],
+      "answer": "Sufficiency"
+    },
+    {
+      "question_id": 7,
+      "question": "Which basic data operation arranges numerical observations from the smallest to the largest value in order?",
+      "options": [
+        "Ordering",
+        "Randomizing",
+        "Grouping"
+      ],
+      "answer": "Ordering"
+    },
+    {
+      "question_id": 8,
+      "question": "Which index, computed from the Lorenz curve, quantifies inequality on a scale from zero to one typically?",
+      "options": [
+        "Gini coefficient",
+        "Spearman's rho",
+        "Cronbach's alpha"
+      ],
+      "answer": "Gini coefficient"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nonparametric rank test compares two independent samples and is an alternative to the two-sample t-test under nonnormality?",
+      "options": [
+        "Mann–Whitney U test",
+        "Two-sample t-test",
+        "Chi-square test"
+      ],
+      "answer": "Mann–Whitney U test"
+    },
+    {
+      "question_id": 10,
+      "question": "For strongly skewed data, which central value typically represents the dataset better than the mean?",
+      "options": [
+        "Median",
+        "Mean",
+        "Mode"
+      ],
+      "answer": "Median"
+    },
+    {
+      "question_id": 11,
+      "question": "Which reliability statistic assesses internal consistency of test or survey items based on average inter-item correlations?",
+      "options": [
+        "Cronbach's alpha",
+        "R-squared",
+        "Mean square error"
+      ],
+      "answer": "Cronbach's alpha"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ensemble technique builds successive models to predict residuals and typically achieves strong performance in supervised learning tasks?",
+      "options": [
+        "Gradient boosting",
+        "Random forest",
+        "k-nearest neighbors"
+      ],
+      "answer": "Gradient boosting"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statistical test is commonly used to check whether observed category counts match expected frequencies?",
+      "options": [
+        "Chi-square test",
+        "t-test",
+        "ANOVA"
+      ],
+      "answer": "Chi-square test"
+    },
+    {
+      "question_id": 14,
+      "question": "Under what pen name did William Sealy Gosset publish his influential small-sample t-test research for quality control?",
+      "options": [
+        "Student",
+        "Gauss",
+        "Euler"
+      ],
+      "answer": "Student"
+    },
+    {
+      "question_id": 15,
+      "question": "Which measure equals an estimator's variance plus the square of its bias, commonly used to assess estimator accuracy?",
+      "options": [
+        "Mean squared error",
+        "Variance",
+        "Bias"
+      ],
+      "answer": "Mean squared error"
+    }
+  ]
+}

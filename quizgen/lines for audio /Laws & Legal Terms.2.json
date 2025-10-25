@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'jurisprudence'?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'strict liability' in product law?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which doctrine allows ministerial acts to be compelled by writ?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'common law'?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'stare decisis' in common law systems?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which constitutional provision addresses taking private property for public use?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'guilty' mean in criminal law?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rule controls admissibility of expert testimony in federal courts?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which test evaluates discriminatory intent in constitutional claims?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'plea bargain' accomplish?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the primary aim of antitrust laws?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the 'incorporation doctrine' in constitutional law?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'objection' do at trial?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'anticipatory breach' of contract?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which doctrine limits damages for pure economic loss in many tort systems?"
+    }
+  ]
+}

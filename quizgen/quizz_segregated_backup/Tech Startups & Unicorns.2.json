@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which social photo app reached rapid growth and a unicorn valuation before 2013?",
+      "options": [
+        "Instagram",
+        "Flickr",
+        "Pinterest"
+      ],
+      "answer": "Instagram"
+    },
+    {
+      "question_id": 2,
+      "question": "Which funding round typically signals a startup is scaling operations and growing revenue?",
+      "options": [
+        "Series B",
+        "Seed round",
+        "Pre-seed"
+      ],
+      "answer": "Series B"
+    },
+    {
+      "question_id": 3,
+      "question": "Which famous exit exemplified strategic acquisition for user base rather than immediate profit in 2014?",
+      "options": [
+        "WhatsApp acquired by Facebook",
+        "Tumblr acquired by Yahoo",
+        "Instagram acquired by Facebook in 2012"
+      ],
+      "answer": "WhatsApp acquired by Facebook"
+    },
+    {
+      "question_id": 4,
+      "question": "Who coined the term \"unicorn\" to describe rare startups?",
+      "options": [
+        "Aileen Lee",
+        "Marc Andreessen",
+        "Paul Graham"
+      ],
+      "answer": "Aileen Lee"
+    },
+    {
+      "question_id": 5,
+      "question": "Which startup was acquired by Facebook in 2012 for approximately $1 billion?",
+      "options": [
+        "Instagram",
+        "Snapchat",
+        "Pinterest"
+      ],
+      "answer": "Instagram"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company popularized internal tools built by developers and later pivoted to a successful enterprise SaaS product?",
+      "options": [
+        "Slack began as Tiny Speck's internal game tool",
+        "Asana began as an enterprise email client",
+        "GitHub began as a file storage tool"
+      ],
+      "answer": "Slack began as Tiny Speck's internal game tool"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"pivot\" for a startup?",
+      "options": [
+        "Strategic change in product or business model",
+        "Hiring the first CEO",
+        "Closing down operations"
+      ],
+      "answer": "Strategic change in product or business model"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company is known for the \"power law\" return pattern in venture capital portfolios?",
+      "options": [
+        "Venture capital returns concentrate in a few big winners",
+        "Index funds provide uniform returns",
+        "Bonds outperform startups"
+      ],
+      "answer": "Venture capital returns concentrate in a few big winners"
+    },
+    {
+      "question_id": 9,
+      "question": "Which founder-led strategy often helps startups survive downturns: conserve cash or scale faster with debt?",
+      "options": [
+        "Conserve cash and extend runway",
+        "Scale faster with heavy debt",
+        "Ignore cash flow management"
+      ],
+      "answer": "Conserve cash and extend runway"
+    },
+    {
+      "question_id": 10,
+      "question": "Which delivery startup expanded from China and became a major unicorn named Didi?",
+      "options": [
+        "Didi Chuxing",
+        "Meituan",
+        "Ele.me"
+      ],
+      "answer": "Didi Chuxing"
+    },
+    {
+      "question_id": 11,
+      "question": "Which fintech unicorn founded by Vlad Tenev disrupted commission-free stock trading?",
+      "options": [
+        "Robinhood",
+        "E*TRADE",
+        "Charles Schwab"
+      ],
+      "answer": "Robinhood"
+    },
+    {
+      "question_id": 12,
+      "question": "Which late-stage fundraising mechanism surged around 2020 allowing private companies to raise large rounds from crossover investors?",
+      "options": [
+        "Private secondary and growth equity rounds",
+        "IPO-only fundraising",
+        "Bank loans secured by inventory"
+      ],
+      "answer": "Private secondary and growth equity rounds"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Chinese unicorn founded by Zhang Yiming created popular short video apps?",
+      "options": [
+        "ByteDance",
+        "Alibaba",
+        "Tencent"
+      ],
+      "answer": "ByteDance"
+    },
+    {
+      "question_id": 14,
+      "question": "What is \"secondary sale\" in startup investing?",
+      "options": [
+        "Existing shareholders sell shares to new investors before an IPO",
+        "Company issues new shares to employees",
+        "Public sale after IPO"
+      ],
+      "answer": "Existing shareholders sell shares to new investors before an IPO"
+    },
+    {
+      "question_id": 15,
+      "question": "Which startup founded by Drew Houston launched a simple viral referral program to grow users early?",
+      "options": [
+        "Dropbox",
+        "Box",
+        "SugarSync"
+      ],
+      "answer": "Dropbox"
+    }
+  ]
+}

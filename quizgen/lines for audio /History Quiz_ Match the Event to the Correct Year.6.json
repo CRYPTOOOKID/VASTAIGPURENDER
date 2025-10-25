@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Berlin Wall constructed, dividing East and West Berlin?"
+    },
+    {
+      "question_id": 2,
+      "question": "When did South Africa hold its first multiracial democratic election electing Mandela?"
+    },
+    {
+      "question_id": 3,
+      "question": "When did the Edict of Milan grant religious tolerance to Christians in the Roman Empire?"
+    },
+    {
+      "question_id": 4,
+      "question": "When did Japan attack Pearl Harbor, bringing the U.S. into World War II?"
+    },
+    {
+      "question_id": 5,
+      "question": "When was the Declaration of the Rights of Man and of the Citizen adopted in France?"
+    },
+    {
+      "question_id": 6,
+      "question": "When was the Treaty of Westphalia signed, marking end of Thirty Years' War?"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did India gain independence from Britain?"
+    },
+    {
+      "question_id": 8,
+      "question": "When did the Russian civil war effectively end with Bolshevik consolidation?"
+    },
+    {
+      "question_id": 9,
+      "question": "When did Vasco Núñez de Balboa first sight the Pacific Ocean from the New World?"
+    },
+    {
+      "question_id": 10,
+      "question": "When did the Soviet Union dissolve?"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Battle of Stalingrad begin, marking a turning point in WWII?"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Code of Hammurabi get compiled in ancient Mesopotamia (approx.)?"
+    },
+    {
+      "question_id": 13,
+      "question": "When was Nelson Mandela released from prison?"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Ottoman siege of Constantinople end, marking the city's fall?"
+    },
+    {
+      "question_id": 15,
+      "question": "When did the Reconquista in Spain conclude with the fall of Granada?"
+    }
+  ]
+}

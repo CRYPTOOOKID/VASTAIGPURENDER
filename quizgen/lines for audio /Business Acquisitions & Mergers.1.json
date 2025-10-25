@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an earn-out in M&A?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does earnings accretion measure after an acquisition?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which legal instrument often governs indemnities and post-closing claims?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a tender offer?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a merger of equals?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept measures expected cost-cutting benefits from combining companies?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who typically advises on M&A transactions?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which is an example of a strategic buyer?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 2000 takeover is often cited as the largest corporate acquisition by value?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who negotiates purchase price in M&A?"
+    },
+    {
+      "question_id": 11,
+      "question": "In which year did AOL announce its merger with Time Warner?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which financing source commonly supplies high-yield debt in LBOs?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an asset purchase in M&A?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a management buyout (MBO)?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is a white squire in takeover contexts?"
+    }
+  ]
+}

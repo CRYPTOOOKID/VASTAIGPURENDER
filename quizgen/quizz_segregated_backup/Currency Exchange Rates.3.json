@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'spot rate' in FX?",
+      "options": [
+        "Exchange rate for immediate settlement",
+        "Rate for a transaction in one year",
+        "Rate set by the IMF"
+      ],
+      "answer": "Exchange rate for immediate settlement"
+    },
+    {
+      "question_id": 2,
+      "question": "Which event in 1971 significantly changed modern exchange rate systems?",
+      "options": [
+        "US suspended dollar convertibility to gold (Nixon shock)",
+        "The euro was introduced",
+        "Bretton Woods Conference established fixed rates"
+      ],
+      "answer": "US suspended dollar convertibility to gold (Nixon shock)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which dataset provides high-frequency global FX transaction data widely used in research?",
+      "options": [
+        "Bank for International Settlements (BIS) triennial survey and aggregated reporting",
+        "UN trade database",
+        "World Bank population dataset"
+      ],
+      "answer": "Bank for International Settlements (BIS) triennial survey and aggregated reporting"
+    },
+    {
+      "question_id": 4,
+      "question": "What is currency depreciation?",
+      "options": [
+        "A currency losing value relative to another",
+        "A currency gaining value relative to another",
+        "A currency becoming illegal"
+      ],
+      "answer": "A currency losing value relative to another"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'currency mismatch' risk for firms?",
+      "options": [
+        "Assets and liabilities are in different currencies",
+        "Holding too much cash domestically",
+        "Mismatched fiscal and monetary policies"
+      ],
+      "answer": "Assets and liabilities are in different currencies"
+    },
+    {
+      "question_id": 6,
+      "question": "Which metric captures market-implied FX crash risk from option prices?",
+      "options": [
+        "Risk reversal and steepness in option skews",
+        "GDP growth projections",
+        "Trade balance seasonality"
+      ],
+      "answer": "Risk reversal and steepness in option skews"
+    },
+    {
+      "question_id": 7,
+      "question": "What does an exchange rate represent?",
+      "options": [
+        "The price of one currency in terms of another",
+        "The interest rate set by a central bank",
+        "The inflation rate of a country"
+      ],
+      "answer": "The price of one currency in terms of another"
+    },
+    {
+      "question_id": 8,
+      "question": "Why do multinational firms prefer invoice currency stability?",
+      "options": [
+        "To reduce profit volatility from exchange movements",
+        "To increase transaction processing times",
+        "To avoid paying taxes"
+      ],
+      "answer": "To reduce profit volatility from exchange movements"
+    },
+    {
+      "question_id": 9,
+      "question": "What role do central bank swap lines played during the 2008 crisis in FX markets?",
+      "options": [
+        "Provided dollar liquidity to other central banks and eased FX stress",
+        "Fixed exchange rates permanently",
+        "Shut down FX trading overnight"
+      ],
+      "answer": "Provided dollar liquidity to other central banks and eased FX stress"
+    },
+    {
+      "question_id": 10,
+      "question": "What is currency appreciation?",
+      "options": [
+        "A currency gaining value relative to another",
+        "A currency losing value relative to another",
+        "A currency being replaced"
+      ],
+      "answer": "A currency gaining value relative to another"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the main purpose of currency forward contracts?",
+      "options": [
+        "Lock future exchange rate for a specific date",
+        "Gain speculative leverage with margin",
+        "Set global exchange rate standards"
+      ],
+      "answer": "Lock future exchange rate for a specific date"
+    },
+    {
+      "question_id": 12,
+      "question": "In modern FX markets, which venues handle the majority of interbank spot liquidity?",
+      "options": [
+        "Electronic platforms and dealer networks",
+        "Physical currency exchanges in city squares",
+        "Retail bank branches only"
+      ],
+      "answer": "Electronic platforms and dealer networks"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the 'spread' in currency trading?",
+      "options": [
+        "Difference between bid and ask price",
+        "Difference between two central bank rates",
+        "Difference between export and import values"
+      ],
+      "answer": "Difference between bid and ask price"
+    },
+    {
+      "question_id": 14,
+      "question": "What does 'countercyclical FX policy' aim to do?",
+      "options": [
+        "Stabilize exchange rates across economic cycles",
+        "Amplify currency movements to boost exports",
+        "Remove all market interventions"
+      ],
+      "answer": "Stabilize exchange rates across economic cycles"
+    },
+    {
+      "question_id": 15,
+      "question": "Which mechanism explains how tariffs can lead to currency appreciation?",
+      "options": [
+        "Reduced imports decrease demand for foreign currency, strengthening domestic currency",
+        "Tariffs force central banks to print more domestic money",
+        "Tariffs directly control exchange rates through customs"
+      ],
+      "answer": "Reduced imports decrease demand for foreign currency, strengthening domestic currency"
+    }
+  ]
+}

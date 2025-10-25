@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency is official in Sweden?",
+      "options": [
+        "Swedish Krona",
+        "Euro",
+        "Danish Krone"
+      ],
+      "answer": "Swedish Krona"
+    },
+    {
+      "question_id": 2,
+      "question": "Which European microstate uses the Swiss franc for practical circulation?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Andorra"
+      ],
+      "answer": "Liechtenstein"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country issues the 'krona' spelled 'króna' in its local language and briefly reformed it in 2003?",
+      "options": [
+        "Iceland",
+        "Norway",
+        "Sweden"
+      ],
+      "answer": "Iceland"
+    },
+    {
+      "question_id": 4,
+      "question": "What currency is used in Australia?",
+      "options": [
+        "US Dollar",
+        "Canadian Dollar",
+        "Australian Dollar"
+      ],
+      "answer": "Australian Dollar"
+    },
+    {
+      "question_id": 5,
+      "question": "Which currency's name derives from the Greek word for 'money' and is used in Cyprus historically?",
+      "options": [
+        "Pound",
+        "Euro",
+        "Drachma"
+      ],
+      "answer": "Drachma"
+    },
+    {
+      "question_id": 6,
+      "question": "Which currency uses the escudo name historically and returned as a local coinage option in a Portuguese territory?",
+      "options": [
+        "Angolan Escudo",
+        "Mozambique Escudo",
+        "Cape Verde Escudo"
+      ],
+      "answer": "Cape Verde Escudo"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency is used in Russia?",
+      "options": [
+        "Leu",
+        "Ruble",
+        "Forint"
+      ],
+      "answer": "Ruble"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency uses the symbol ₱?",
+      "options": [
+        "Peruvian Sol",
+        "Pakistani Rupee",
+        "Philippine Peso"
+      ],
+      "answer": "Philippine Peso"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Asian currency was re-pegged to a trade-weighted basket in the 2000s after devaluation pressure?",
+      "options": [
+        "Thai Baht",
+        "Singapore Dollar (managed float)",
+        "Hong Kong Dollar (peg)"
+      ],
+      "answer": "Singapore Dollar (managed float)"
+    },
+    {
+      "question_id": 10,
+      "question": "What currency is used in Saudi Arabia?",
+      "options": [
+        "Qatari Riyal",
+        "Saudi Riyal",
+        "United Arab Emirates Dirham"
+      ],
+      "answer": "Saudi Riyal"
+    },
+    {
+      "question_id": 11,
+      "question": "Which African country uses the cedi as its currency?",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "Ghana"
+      ],
+      "answer": "Ghana"
+    },
+    {
+      "question_id": 12,
+      "question": "Which South American country adopted a currency board in the 1990s that pegged its peso to the US dollar to fight inflation?",
+      "options": [
+        "Argentina",
+        "Chile",
+        "Brazil"
+      ],
+      "answer": "Argentina"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the official currency of Japan?",
+      "options": [
+        "Dollar",
+        "Yen",
+        "Won"
+      ],
+      "answer": "Yen"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country issues the currency called the 'tugrik'?",
+      "options": [
+        "Mongolia",
+        "Kazakhstan",
+        "Uzbekistan"
+      ],
+      "answer": "Mongolia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which currency's central bank famously intervened in FX markets in 2011 to cap appreciation against the euro?",
+      "options": [
+        "Norwegian Krone (Norges Bank)",
+        "Swedish Krona (Riksbank)",
+        "Swiss Franc (SNB)"
+      ],
+      "answer": "Swiss Franc (SNB)"
+    }
+  ]
+}

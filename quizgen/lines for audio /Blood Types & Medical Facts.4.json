@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which blood component helps stop bleeding by forming clots?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which procedure identifies the best donor blood unit for immediate transfusion?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which lab method identifies specific blood group antigens using monoclonal antisera panels?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which antigen absence characterizes the Bombay blood phenotype?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which blood product must be ABO compatible for safe plasma transfusion?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mechanism underlies antibody-mediated hemolysis involving complement activation?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which cell type increases during bacterial infection rather than transfusion reaction?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rare phenotype lacks H antigen and complicates ABO compatibility?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which blood product irradiation dose reduces donor lymphocyte proliferation to prevent GVHD?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which blood test determines a person’s ABO and Rh status?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which stored blood component carries highest risk of bacterial growth if contaminated?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which antibody subclass predominates in delayed hemolytic transfusion reactions and can be memory response?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blood product is commonly given to patients with low hemoglobin?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which technique reduces transfusion-transmitted CMV risk in high-risk recipients?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which process reduces bacterial risk in platelet transfusions by screening or pathogen reduction?"
+    }
+  ]
+}

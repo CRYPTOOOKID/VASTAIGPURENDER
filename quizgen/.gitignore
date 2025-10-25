@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+quiz_generation.log
+
+# Failed topics tracking
+failed_topics.json
+
+# Generated quizzes (optional - uncomment if you don't want to commit generated quizzes)
+# QuizzesOp/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

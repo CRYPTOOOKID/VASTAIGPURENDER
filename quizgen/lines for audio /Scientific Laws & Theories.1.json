@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What theory provides the foundation for modern genetics by explaining inheritance patterns?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which theory explains the motion of particles in thermodynamic ensembles and macroscopic properties?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which criterion in statistics helps decide model selection penalizing complexity and maximizing likelihood?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which law describes how current, voltage, and resistance relate in an electrical circuit?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which theory introduced quantized energy levels to explain blackbody radiation?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept explains how gauge symmetry breaking leads to massive vector bosons in particle physics?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which law describes how orbiting planets sweep equal areas in equal times?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which law relates changes in ligand concentration to receptor occupancy in pharmacology and biochemistry?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which principle justifies using ensemble averages to predict thermodynamic properties of large systems?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which law states that accelerating masses produce gravitational attraction between them?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which law provides the foundation for classical electromagnetism by relating electric fields to charge distribution?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which result constrains possible interactions by stating observables must commute with the Hamiltonian for conservation?"
+    },
+    {
+      "question_id": 13,
+      "question": "What law states energy cannot be created or destroyed in an isolated system?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which law quantifies the tendency of electrons to occupy the lowest available energy states?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which paradox led to the development of quantum statistics distinguishing bosons and fermions?"
+    }
+  ]
+}

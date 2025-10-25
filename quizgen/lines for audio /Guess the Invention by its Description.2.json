@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which device records and plays sound using mechanical grooves on a disc?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention simplified sewing for home users by automating the lockstitch mechanism?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention's original patent drawing depicted a practical inkjet printing method in the 19th century?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention stores and plays back visual images on a screen using electronic signals?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention combined moving pictures with synchronized sound for commercial films in 1927?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention's early prototype used a 'cat's whisker' junction to demodulate radio signals?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention revolutionized food preservation by rapidly cooling and freezing perishable items?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention enabled mass transit across cities using electric traction on rails?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention used the Gaudí-inspired parabolic arch principles to improve structural efficiency in bridges?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention lets users send written messages instantly over long distances using the internet?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention's patent by Alexander Graham Bell in 1876 transformed voice communication?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention introduced the first widely adopted non-volatile flash memory for solid-state storage?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention lets people travel quickly above ground along fixed rails?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention mechanized the separation of cotton fibers from seeds, boosting textile production?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention popularized the TCP/IP suite for scalable internetworking in the early 1980s?"
+    }
+  ]
+}

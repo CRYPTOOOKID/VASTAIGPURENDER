@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the primary channel through which sovereign debt crises affect exchange rates?",
+      "options": [
+        "Immediate increase in export volumes",
+        "Capital flight and loss of investor confidence leading to currency depreciation",
+        "Automatic strengthening from bailout funds"
+      ],
+      "answer": "Capital flight and loss of investor confidence leading to currency depreciation"
+    },
+    {
+      "question_id": 2,
+      "question": "How does a negative real interest rate differential typically affect currency value?",
+      "options": [
+        "It eliminates FX volatility",
+        "It tends to strengthen the currency immediately",
+        "It tends to weaken the currency over time"
+      ],
+      "answer": "It tends to weaken the currency over time"
+    },
+    {
+      "question_id": 3,
+      "question": "Which reserve currency share declined notably after 2000, according to IMF data, yet remained dominant?",
+      "options": [
+        "Euro replaced the dollar entirely",
+        "Japanese yen became the reserve leader",
+        "US dollar share declined slightly but remained dominant"
+      ],
+      "answer": "US dollar share declined slightly but remained dominant"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a 'risk premium' in currency valuation models?",
+      "options": [
+        "A tax applied to currency exchanges",
+        "A guaranteed profit margin on FX trades",
+        "Additional expected return to compensate for currency risk"
+      ],
+      "answer": "Additional expected return to compensate for currency risk"
+    },
+    {
+      "question_id": 5,
+      "question": "What advanced metric do researchers use to separate expected from unexpected FX returns?",
+      "options": [
+        "Averaging spot and forward rates only",
+        "Decomposition using predictive regressions and risk premium models",
+        "Simple year-on-year percentage changes"
+      ],
+      "answer": "Decomposition using predictive regressions and risk premium models"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital flow type is most likely to amplify short-term FX volatility?",
+      "options": [
+        "Portfolio and hot (short-term) capital flows",
+        "Long-term foreign direct investment",
+        "Official development aid"
+      ],
+      "answer": "Portfolio and hot (short-term) capital flows"
+    },
+    {
+      "question_id": 7,
+      "question": "How do 'FX reserves adequacy' metrics typically assess vulnerability?",
+      "options": [
+        "Compare reserves to short-term external debt and import coverage",
+        "Compare reserves to population size",
+        "Compare reserves to domestic money supply only"
+      ],
+      "answer": "Compare reserves to short-term external debt and import coverage"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'two-way intervention' in FX markets imply?",
+      "options": [
+        "Central bank only buys foreign currency",
+        "Central bank only sells domestic currency",
+        "Central bank buys or sells currency to limit volatility in both directions"
+      ],
+      "answer": "Central bank buys or sells currency to limit volatility in both directions"
+    },
+    {
+      "question_id": 9,
+      "question": "Which research finding links order flow to exchange rate moves at intraday horizons?",
+      "options": [
+        "Order flow always reverses price trends instantly",
+        "Order flow has no relationship with price movements",
+        "Net order flow predicts short-term price changes beyond public information"
+      ],
+      "answer": "Net order flow predicts short-term price changes beyond public information"
+    },
+    {
+      "question_id": 10,
+      "question": "Which advanced topic links microstructure to FX price moves at high frequency?",
+      "options": [
+        "Global trade pattern analysis",
+        "Order flow and liquidity provision models",
+        "Long-run PPP models"
+      ],
+      "answer": "Order flow and liquidity provision models"
+    },
+    {
+      "question_id": 11,
+      "question": "Which economist developed a widely cited model of exchange rates including goods and asset markets (Mundell-Fleming relates but name?)",
+      "options": [
+        "Rudiger Dornbusch developed the overshooting model",
+        "Adam Smith developed the overshooting model",
+        "John Hicks developed the overshooting model"
+      ],
+      "answer": "Rudiger Dornbusch developed the overshooting model"
+    },
+    {
+      "question_id": 12,
+      "question": "Which famous event in 1994 caused sharp depreciation of the Mexican peso and global FX contagion?",
+      "options": [
+        "The Asian Flu",
+        "The Tequila Crisis",
+        "Black Monday"
+      ],
+      "answer": "The Tequila Crisis"
+    },
+    {
+      "question_id": 13,
+      "question": "Which concept describes a situation where exchange rate expectations are self-fulfilling?",
+      "options": [
+        "Balanced trade",
+        "Speculative attack",
+        "Structural unemployment"
+      ],
+      "answer": "Speculative attack"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the major implication of Reinhart and Rogoff's findings for exchange rate crises?",
+      "options": [
+        "Low debt guarantees stable exchange rates",
+        "High public debt often coincides with financial stress and currency problems",
+        "Exchange rate crises never follow banking crises"
+      ],
+      "answer": "High public debt often coincides with financial stress and currency problems"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the Mundell-Fleming result for a small open economy with perfect capital mobility and fixed exchange rate?",
+      "options": [
+        "Monetary policy is ineffective while fiscal policy is effective",
+        "Both policies are ineffective",
+        "Monetary policy is highly effective, fiscal ineffective"
+      ],
+      "answer": "Monetary policy is ineffective while fiscal policy is effective"
+    }
+  ]
+}

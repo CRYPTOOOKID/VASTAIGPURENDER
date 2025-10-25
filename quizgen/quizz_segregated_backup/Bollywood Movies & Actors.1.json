@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which actor famously played villain Gabbar Singh in Sholay?",
+      "options": [
+        "Amjad Khan",
+        "Amrish Puri",
+        "Pran"
+      ],
+      "answer": "Amjad Khan"
+    },
+    {
+      "question_id": 2,
+      "question": "Which actress starred in the classic film Pakeezah (1972)?",
+      "options": [
+        "Meena Kumari",
+        "Nargis",
+        "Madhubala"
+      ],
+      "answer": "Meena Kumari"
+    },
+    {
+      "question_id": 3,
+      "question": "Which playback singer was paired most often with Dev Anand on-screen in the 1950s and 1960s?",
+      "options": [
+        "Mohammed Rafi",
+        "Kishore Kumar",
+        "Manna Dey"
+      ],
+      "answer": "Mohammed Rafi"
+    },
+    {
+      "question_id": 4,
+      "question": "Which actress won the Miss World title before starting a Bollywood acting career?",
+      "options": [
+        "Aishwarya Rai",
+        "Sushmita Sen",
+        "Priyanka Chopra"
+      ],
+      "answer": "Aishwarya Rai"
+    },
+    {
+      "question_id": 5,
+      "question": "Which actor starred opposite Shah Rukh Khan in Darr (1993)?",
+      "options": [
+        "Juhi Chawla",
+        "Kajol",
+        "Madhuri Dixit"
+      ],
+      "answer": "Juhi Chawla"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Bollywood film's soundtrack was composed by R.D. Burman and remains a 1970s classic?",
+      "options": [
+        "Amar Prem",
+        "Sholay",
+        "Deewar"
+      ],
+      "answer": "Amar Prem"
+    },
+    {
+      "question_id": 7,
+      "question": "Who directed the comedy-drama 3 Idiots (2009)?",
+      "options": [
+        "Rajkumar Hirani",
+        "Aamir Khan",
+        "Karan Johar"
+      ],
+      "answer": "Rajkumar Hirani"
+    },
+    {
+      "question_id": 8,
+      "question": "Which 2008 film starring Aamir Khan was a Hindi remake of a Tamil thriller and named Ghajini?",
+      "options": [
+        "Ghajini",
+        "Dhoom 2",
+        "Race"
+      ],
+      "answer": "Ghajini"
+    },
+    {
+      "question_id": 9,
+      "question": "Which filmmaker made a notable cameo appearance in his film Dilwale Dulhania Le Jayenge?",
+      "options": [
+        "Aditya Chopra",
+        "Yash Chopra",
+        "Karan Johar"
+      ],
+      "answer": "Aditya Chopra"
+    },
+    {
+      "question_id": 10,
+      "question": "Which film marked Hrithik Roshan's debut in 2000 where he played a double role?",
+      "options": [
+        "Kaho Naa... Pyaar Hai",
+        "Kabhi Khushi Kabhie Gham",
+        "Koi... Mil Gaya"
+      ],
+      "answer": "Kaho Naa... Pyaar Hai"
+    },
+    {
+      "question_id": 11,
+      "question": "Which actor won the National Film Award for Best Supporting Actor for Vicky Donor?",
+      "options": [
+        "Annu Kapoor",
+        "Ayushmann Khurrana",
+        "Yashpal Sharma"
+      ],
+      "answer": "Annu Kapoor"
+    },
+    {
+      "question_id": 12,
+      "question": "Which actor famously lip-synced to playback singer Kishore Kumar in many 1970s films?",
+      "options": [
+        "Rajesh Khanna",
+        "Amitabh Bachchan",
+        "Dev Anand"
+      ],
+      "answer": "Rajesh Khanna"
+    },
+    {
+      "question_id": 13,
+      "question": "Which actor is famous for the role of Munna Bhai in the Munna Bhai film series?",
+      "options": [
+        "Sanjay Dutt",
+        "Salman Khan",
+        "Paresh Rawal"
+      ],
+      "answer": "Sanjay Dutt"
+    },
+    {
+      "question_id": 14,
+      "question": "Who played the lead role in the blockbuster Bajrangi Bhaijaan (2015)?",
+      "options": [
+        "Salman Khan",
+        "Aamir Khan",
+        "Akshay Kumar"
+      ],
+      "answer": "Salman Khan"
+    },
+    {
+      "question_id": 15,
+      "question": "Who choreographed the iconic duet 'Dola Re Dola' in Devdas (2002)?",
+      "options": [
+        "Saroj Khan",
+        "Farah Khan",
+        "Prabhudeva"
+      ],
+      "answer": "Saroj Khan"
+    }
+  ]
+}

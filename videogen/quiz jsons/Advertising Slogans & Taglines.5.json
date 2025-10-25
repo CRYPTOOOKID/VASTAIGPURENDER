@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which telecommunications brand popularized \"Can you hear me now?\"",
+      "options": [
+        "Verizon",
+        "Sprint",
+        "AT&T"
+      ],
+      "answer": "Verizon"
+    },
+    {
+      "question_id": 2,
+      "question": "Which snack brand used the phrase \"Betcha can't eat just one\"?",
+      "options": [
+        "Doritos",
+        "Pringles",
+        "Lays"
+      ],
+      "answer": "Lays"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 20th-century campaign used modest, self-effacing copy to challenge typical boastful ads?",
+      "options": [
+        "Think Small (Volkswagen)",
+        "Just Do It (Nike)",
+        "Open Happiness (Coca-Cola)"
+      ],
+      "answer": "Think Small (Volkswagen)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which soda brand uses the tagline \"Obey Your Thirst\" historically?",
+      "options": [
+        "Sprite",
+        "Fanta",
+        "7-Up"
+      ],
+      "answer": "Sprite"
+    },
+    {
+      "question_id": 5,
+      "question": "Which agency created Volkswagen's influential \"Think Small\" campaign?",
+      "options": [
+        "BBDO",
+        "Doyle Dane Bernbach",
+        "Young & Rubicam"
+      ],
+      "answer": "Doyle Dane Bernbach"
+    },
+    {
+      "question_id": 6,
+      "question": "Which television advertising era saw the rise of short, repeatable taglines tied to jingles?",
+      "options": [
+        "1920s–1940s",
+        "1960s–1980s",
+        "2000s–2020s"
+      ],
+      "answer": "1960s–1980s"
+    },
+    {
+      "question_id": 7,
+      "question": "Which sandwich chain uses the slogan \"Eat Fresh\"?",
+      "options": [
+        "Subway",
+        "Quiznos",
+        "Jimmy John's"
+      ],
+      "answer": "Subway"
+    },
+    {
+      "question_id": 8,
+      "question": "Which brand famously used a line promising reliability for urgent deliveries?",
+      "options": [
+        "UPS",
+        "DHL",
+        "FedEx"
+      ],
+      "answer": "FedEx"
+    },
+    {
+      "question_id": 9,
+      "question": "Which brand used a celebrity-recorded pop jingle to globalize a tagline in 2003?",
+      "options": [
+        "Pepsi",
+        "Coca-Cola",
+        "McDonald's"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 10,
+      "question": "Which company uses the tagline \"I'm Lovin' It\"?",
+      "options": [
+        "Wendy's",
+        "Burger King",
+        "McDonald's"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 11,
+      "question": "Which year saw Coca-Cola roll out \"Taste the Feeling\" globally?",
+      "options": [
+        "2016",
+        "2010",
+        "2008"
+      ],
+      "answer": "2016"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand used a slogan asserting its product's emotional value beyond price with \"Priceless\"?",
+      "options": [
+        "Mastercard",
+        "Visa",
+        "American Express"
+      ],
+      "answer": "Mastercard"
+    },
+    {
+      "question_id": 13,
+      "question": "Which theme park is called \"The Happiest Place on Earth\"?",
+      "options": [
+        "Disneyland",
+        "Six Flags",
+        "Universal Studios"
+      ],
+      "answer": "Disneyland"
+    },
+    {
+      "question_id": 14,
+      "question": "Which advertising line linked breakfast cereal to sports champions?",
+      "options": [
+        "Fuel for Winners",
+        "Breakfast of Champions",
+        "Starts Winners"
+      ],
+      "answer": "Breakfast of Champions"
+    },
+    {
+      "question_id": 15,
+      "question": "Which slogan's backstory involves a major ad agency creative team and set new creative standards?",
+      "options": [
+        "Once you pop, you can't stop (Pringles)",
+        "Obey Your Thirst (Sprite)",
+        "Think Small (Volkswagen)"
+      ],
+      "answer": "Think Small (Volkswagen)"
+    }
+  ]
+}

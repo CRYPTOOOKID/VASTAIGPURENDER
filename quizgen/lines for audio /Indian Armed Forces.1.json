@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which conflict is commemorated by Navy Day on December 4?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which training establishment prepares naval officers in India at Ezhimala?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian intelligence and special operations unit operates under the Research and Analysis Wing and specialised forces?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian armed service operates fighter jets to maintain air superiority?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which elite Indian Army unit specializes in airborne and special operations?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which wartime Revolutionary-era unit is considered the oldest continuously serving cavalry unit now serving the President?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which branch operates submarines in the Indian Armed Forces?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian warship class focuses on anti-submarine warfare and stealth features?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which training institution awards the Sword of Honour to the best performing cadet across services at NDA?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which specialized mountain warfare unit serves at very high altitudes like Siachen?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which award ranks immediately below Maha Vir Chakra in wartime gallantry order?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Army chief famously led Indian forces during the 1971 war and later became a Field Marshal?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which academy trains Indian Army officers at Dehradun?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which institution provides advanced staff and command training to mid-career officers?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which category of weapon is the Pinaka system that the Indian Army deploys for rocket artillery?"
+    }
+  ]
+}

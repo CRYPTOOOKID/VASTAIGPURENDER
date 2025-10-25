@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ocean commonly determines reference when crossing the International Date Line?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which U.S. law standardized time zones in the country in 1918?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which scientific observation links irregularities in Earth's rotation to leap second decisions?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'UTC+0' indicate about a place's time offset?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Pacific nation jumped the International Date Line in 2011 to align with Australia and New Zealand?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Caribbean territory uses UTC-4 but does not observe DST and thus differs seasonally from nearby US regions?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which island nation is known for being the first to experience each new day?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which famous meridian passing through Paris was replaced in international use by Greenwich?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country maintained two simultaneous time zones (legal vs. de facto) for decades for political reasons?"
+    },
+    {
+      "question_id": 10,
+      "question": "What happens to the calendar when you cross the International Date Line traveling westward?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which U.S. territories permanently use Atlantic Time year-round? "
+    },
+    {
+      "question_id": 12,
+      "question": "Which treaty or conference first proposed an International Date Line concept in formal terms?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which line is the basis for the date change when crossing oceans?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country adopted a single time zone (UTC+8) in 1949 to unify administration?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major railway company's timetabling problems in the 19th century led directly to time zone adoption?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who played Rancho in the coming-of-age film 3 Idiots (2009)?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Salman Khan"
+      ],
+      "answer": "Aamir Khan"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian film became the country's first Oscar nominee for Best Foreign Language Film?",
+      "options": [
+        "Mother India (1957)",
+        "Lagaan (2001)",
+        "Salaam Bombay! (1988)"
+      ],
+      "answer": "Mother India (1957)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which veteran duo wrote the screenplay for the blockbuster Sholay (1975)?",
+      "options": [
+        "Salim-Javed",
+        "Kader Khan and Anu Malik",
+        "Javed Akhtar and Salim Khan"
+      ],
+      "answer": "Salim-Javed"
+    },
+    {
+      "question_id": 4,
+      "question": "Which music composer duo dominated many 1990s Bollywood soundtracks?",
+      "options": [
+        "Nadeem-Shravan",
+        "Jatin-Lalit",
+        "Vishal-Shekhar"
+      ],
+      "answer": "Nadeem-Shravan"
+    },
+    {
+      "question_id": 5,
+      "question": "Which composer duo created the score for Dilwale Dulhania Le Jayenge (1995)?",
+      "options": [
+        "Jatin-Lalit",
+        "Nadeem-Shravan",
+        "Shankar-Ehsaan-Loy"
+      ],
+      "answer": "Jatin-Lalit"
+    },
+    {
+      "question_id": 6,
+      "question": "Which director launched his career with the film Khamoshi: The Musical (1996)?",
+      "options": [
+        "Sanjay Leela Bhansali",
+        "Vishal Bhardwaj",
+        "Anurag Kashyap"
+      ],
+      "answer": "Sanjay Leela Bhansali"
+    },
+    {
+      "question_id": 7,
+      "question": "Which performer appeared in the popular item song 'Munni Badnaam Hui' in Dabangg?",
+      "options": [
+        "Malaika Arora",
+        "Katrina Kaif",
+        "Kareena Kapoor"
+      ],
+      "answer": "Malaika Arora"
+    },
+    {
+      "question_id": 8,
+      "question": "Which filmmaker is known for directing Devdas (2002) and Bajirao Mastani (2015)?",
+      "options": [
+        "Sanjay Leela Bhansali",
+        "Karan Johar",
+        "Vishal Bhardwaj"
+      ],
+      "answer": "Sanjay Leela Bhansali"
+    },
+    {
+      "question_id": 9,
+      "question": "Which music director was famously nicknamed 'Pancham' and revolutionized Bollywood scores?",
+      "options": [
+        "R.D. Burman",
+        "S.D. Burman",
+        "Laxmikant-Pyarelal"
+      ],
+      "answer": "R.D. Burman"
+    },
+    {
+      "question_id": 10,
+      "question": "Shah Rukh Khan's film debut was in which 1992 movie?",
+      "options": [
+        "Deewana",
+        "Baazigar",
+        "Darr"
+      ],
+      "answer": "Deewana"
+    },
+    {
+      "question_id": 11,
+      "question": "Which music duo composed the hugely popular Aashiqui soundtrack (1990)?",
+      "options": [
+        "Nadeem-Shravan",
+        "Jatin-Lalit",
+        "Anand-Milind"
+      ],
+      "answer": "Nadeem-Shravan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which cinematographer known for work across Indian cinema shot the visually rich film Black (2005)?",
+      "options": [
+        "Christopher Doyle",
+        "Anil Mehta",
+        "Ravi K. Chandran"
+      ],
+      "answer": "Ravi K. Chandran"
+    },
+    {
+      "question_id": 13,
+      "question": "Which actor is popularly known by the nickname Big B?",
+      "options": [
+        "Amitabh Bachchan",
+        "Dilip Kumar",
+        "Dev Anand"
+      ],
+      "answer": "Amitabh Bachchan"
+    },
+    {
+      "question_id": 14,
+      "question": "Who directed the coming-of-age drama Udaan (2010)?",
+      "options": [
+        "Vikramaditya Motwane",
+        "Anurag Kashyap",
+        "Karan Johar"
+      ],
+      "answer": "Vikramaditya Motwane"
+    },
+    {
+      "question_id": 15,
+      "question": "Which actress won a National Award for playing a pregnant single mother in the film Kahaani? ",
+      "options": [
+        "Vidya Balan",
+        "Kangana Ranaut",
+        "Rani Mukerji"
+      ],
+      "answer": "Vidya Balan"
+    }
+  ]
+}

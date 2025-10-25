@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which tech rivalry involved search engines competing for online advertising?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company introduced New Coke in 1985 during its rivalry with Pepsi?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early online auction rivalry saw eBay acquire which competitor to consolidate dominance?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which carmaker upset Ferrari at Le Mans with the GT40 program?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company surprised rivals by launching a streaming-first strategy and original content in 2007?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which campaign in 1975 used televised blind taste tests to shift cola market perceptions?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which two companies are often compared for their consumer electronics ecosystems?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company introduced the Whopper in 1957, a key product in burger rivalries?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company introduced the first mass-market home console to beat Atari but later lost share to which rival?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which rivalry involved Sony creating a new gaming platform after a cancelled Nintendo collaboration?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coffee company expanded with a successful loyalty and store model competing with Dunkin'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which streaming competitor launched a notable ad campaign attacking Netflix\u000027s content model involving which company?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which two companies are known for rivalry in semiconductor CPUs for PCs?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which rivalry included Oracle\u000027s hostile acquisition battles for which enterprise software firm?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major supermarket chain declined to buy a stake in Amazon in the late 1990s, missing an early rivalry chance?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which financial instrument can be used to lock in future exchange rates?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the primary use of currency swaps between central banks?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the 'J-curve' effect in currency adjustment?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'FX volatility' refer to?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'carry trade' involve regarding currencies?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which statistical test is commonly used to assess unit roots in exchange rate series?"
+    },
+    {
+      "question_id": 7,
+      "question": "What effect does higher domestic inflation usually have on a currency?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Asian financial crisis sharply affected many exchange rates in 1997-1998?"
+    },
+    {
+      "question_id": 9,
+      "question": "What feature distinguishes a crawling peg from a fixed peg?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organization compiles global exchange rate statistics and provides guidance?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which of these policies can defend a currency peg?"
+    },
+    {
+      "question_id": 12,
+      "question": "What unusual exchange-rate behavior characterizes 'fear of floating' countries?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a fixed exchange rate system?"
+    },
+    {
+      "question_id": 14,
+      "question": "Why might a central bank target a weaker currency?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which empirical method isolates causal impact of monetary shocks on exchange rates?"
+    }
+  ]
+}

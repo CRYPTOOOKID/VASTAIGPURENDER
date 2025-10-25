@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency is official in Sweden?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which European microstate uses the Swiss franc for practical circulation?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country issues the 'krona' spelled 'króna' in its local language and briefly reformed it in 2003?"
+    },
+    {
+      "question_id": 4,
+      "question": "What currency is used in Australia?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which currency's name derives from the Greek word for 'money' and is used in Cyprus historically?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which currency uses the escudo name historically and returned as a local coinage option in a Portuguese territory?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency is used in Russia?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency uses the symbol ₱?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Asian currency was re-pegged to a trade-weighted basket in the 2000s after devaluation pressure?"
+    },
+    {
+      "question_id": 10,
+      "question": "What currency is used in Saudi Arabia?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which African country uses the cedi as its currency?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which South American country adopted a currency board in the 1990s that pegged its peso to the US dollar to fight inflation?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the official currency of Japan?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country issues the currency called the 'tugrik'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which currency's central bank famously intervened in FX markets in 2011 to cap appreciation against the euro?"
+    }
+  ]
+}

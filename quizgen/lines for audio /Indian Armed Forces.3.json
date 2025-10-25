@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who leads the tri-service integration as a permanent chief post-2019?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which defence public sector unit manufactures aircraft like Tejas components in India?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historic brigade famously defended Longewala post during the 1971 war with minimal forces?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the name of India's indigenous light combat aircraft developed by HAL?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which historical 1962 conflict involved large-scale combat with China?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which officer is the only Indian Air Force officer elevated to Marshal of the Air Force?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which day marks Indian Air Force Day each year?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which missile family provides India's strategic land-based nuclear delivery capability?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which operation in 1961 integrated Goa into India with naval and land components?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the constitutional Supreme Commander of the Indian Armed Forces?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which class of submarine is INS Arihant part of, representing India's SSBN capability?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which regiment is credited with the first ever Param Vir Chakra awarded post-independence?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does IAF stand for in the Indian context?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which arm of Indian services handles electronic warfare and communications?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which operation marked the first major Indian naval blockade and air-sea strikes against Karachi in 1971?"
+    }
+  ]
+}

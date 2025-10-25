@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency pair is commonly quoted as EUR/USD?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does uncovered interest rate parity (UIP) imply?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which currency regime did Argentina abandon in 2002 after a long-standing peg?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'convertibility' of a currency mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a currency corridor policy?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does 'original sin' refer to in the context of emerging markets and currencies?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes controls on the buying and selling of foreign currency?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which data release typically triggers short-term FX movements?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which empirical puzzle highlights failure of uncovered interest parity in short-term FX data?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which currency is commonly considered the global reserve currency?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which policy mix tends to produce 'currency wars' accusations?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phenomenon describes persistent deviations from PPP due to consumption habits and nontraded goods?"
+    },
+    {
+      "question_id": 13,
+      "question": "How can macroprudential measures affect currency cycles?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'local-currency debt' advantage for emerging markets?"
+    },
+    {
+      "question_id": 15,
+      "question": "What did the 'Impossible Trinity' or trilemma state about monetary policy?"
+    }
+  ]
+}

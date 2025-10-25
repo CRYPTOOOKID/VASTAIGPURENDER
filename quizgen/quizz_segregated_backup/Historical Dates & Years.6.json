@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When did the American Civil War begin?",
+      "options": [
+        "1861",
+        "1850",
+        "1877"
+      ],
+      "answer": "1861"
+    },
+    {
+      "question_id": 2,
+      "question": "What year did Martin Luther King Jr. deliver his 'I Have a Dream' speech?",
+      "options": [
+        "1963",
+        "1960",
+        "1968"
+      ],
+      "answer": "1963"
+    },
+    {
+      "question_id": 3,
+      "question": "In what year did the first self-propelled steam locomotive successfully operate, marking early railway history?",
+      "options": [
+        "1804",
+        "1825",
+        "1784"
+      ],
+      "answer": "1804"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Moon landing of Apollo 11 occur?",
+      "options": [
+        "1969",
+        "1972",
+        "1965"
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year did the Spanish conquest of the Aztec Empire culminate with Tenochtitlan's fall?",
+      "options": [
+        "1521",
+        "1519",
+        "1532"
+      ],
+      "answer": "1521"
+    },
+    {
+      "question_id": 6,
+      "question": "What year did Belgium gain independence from the Netherlands following the Belgian Revolution?",
+      "options": [
+        "1830",
+        "1825",
+        "1848"
+      ],
+      "answer": "1830"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did the Magna Carta get sealed at Runnymede?",
+      "options": [
+        "1215",
+        "1066",
+        "1314"
+      ],
+      "answer": "1215"
+    },
+    {
+      "question_id": 8,
+      "question": "When was the Treaty of Tordesillas, dividing new lands between Spain and Portugal, signed?",
+      "options": [
+        "1494",
+        "1506",
+        "1479"
+      ],
+      "answer": "1494"
+    },
+    {
+      "question_id": 9,
+      "question": "In what year did the Black Hawk War, signaling final Native American resistance in Illinois region, take place?",
+      "options": [
+        "1832",
+        "1812",
+        "1848"
+      ],
+      "answer": "1832"
+    },
+    {
+      "question_id": 10,
+      "question": "In what year did the Warsaw Pact formally dissolve?",
+      "options": [
+        "1991",
+        "1989",
+        "1999"
+      ],
+      "answer": "1991"
+    },
+    {
+      "question_id": 11,
+      "question": "What year was the Berlin Airlift initiated in response to the Soviet blockade?",
+      "options": [
+        "1948",
+        "1945",
+        "1950"
+      ],
+      "answer": "1948"
+    },
+    {
+      "question_id": 12,
+      "question": "In what year did the Paris Commune arise as a radical socialist government in the city?",
+      "options": [
+        "1871",
+        "1848",
+        "1867"
+      ],
+      "answer": "1871"
+    },
+    {
+      "question_id": 13,
+      "question": "In which year did the UK pass the Act of Union creating the United Kingdom of Great Britain?",
+      "options": [
+        "1707",
+        "1801",
+        "1603"
+      ],
+      "answer": "1707"
+    },
+    {
+      "question_id": 14,
+      "question": "What year did the Franco-Prussian War end, leading to German unification under the Second Reich?",
+      "options": [
+        "1871",
+        "1866",
+        "1870"
+      ],
+      "answer": "1871"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did the Battle of Tours halt Umayyad expansion into Western Europe?",
+      "options": [
+        "732",
+        "711",
+        "754"
+      ],
+      "answer": "732"
+    }
+  ]
+}

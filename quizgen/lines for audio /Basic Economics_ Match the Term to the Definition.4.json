@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term refers to many sellers offering similar but not identical products?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term describes a good with no close substitutes and strong brand loyalty?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term identifies a market where asymmetric information leads sellers to withdraw high-quality goods?"
+    },
+    {
+      "question_id": 4,
+      "question": "What term describes limited resources versus unlimited wants?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes costs that must be paid even if production stops?"
+    },
+    {
+      "question_id": 6,
+      "question": "What term refers to the difference between actual and potential GDP?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term means goods people buy less of as income rises?"
+    },
+    {
+      "question_id": 8,
+      "question": "What term describes income adjusted for inflation?"
+    },
+    {
+      "question_id": 9,
+      "question": "What term identifies goods with network effects, where value rises with users?"
+    },
+    {
+      "question_id": 10,
+      "question": "What term refers to the ability to buy goods and services?"
+    },
+    {
+      "question_id": 11,
+      "question": "What term names a legal restriction on quantity of imports?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term describes a firm's pricing strategy to maximize profit by equating marginal revenue and marginal cost?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term identifies goods sold to other countries?"
+    },
+    {
+      "question_id": 14,
+      "question": "What term is used for the additional output from adding one more worker holding capital fixed?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes diminishing additional output when a variable input increases with fixed inputs?"
+    }
+  ]
+}

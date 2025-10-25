@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'estate' in probate law?",
+      "options": [
+        "A living person's bank account only",
+        "A government tax on property owners",
+        "A deceased person's assets and liabilities"
+      ],
+      "answer": "A deceased person's assets and liabilities"
+    },
+    {
+      "question_id": 2,
+      "question": "Which document typically begins a civil lawsuit?",
+      "options": [
+        "Complaint or petition",
+        "Affidavit of service",
+        "Jury verdict form"
+      ],
+      "answer": "Complaint or petition"
+    },
+    {
+      "question_id": 3,
+      "question": "Which remedy in equity cancels an unjust contract and restores parties?",
+      "options": [
+        "Specific performance",
+        "Rescission",
+        "Declaratory judgment"
+      ],
+      "answer": "Rescission"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'mediation' in dispute resolution?",
+      "options": [
+        "One party unilaterally decides outcome",
+        "Neutral facilitator helps parties negotiate",
+        "Judge imposes a binding verdict"
+      ],
+      "answer": "Neutral facilitator helps parties negotiate"
+    },
+    {
+      "question_id": 5,
+      "question": "Which doctrine allows courts to dismiss weak cases early?",
+      "options": [
+        "Habeas corpus review",
+        "Writ of mandamus",
+        "Summary judgment"
+      ],
+      "answer": "Summary judgment"
+    },
+    {
+      "question_id": 6,
+      "question": "What does the 'plain view' doctrine permit law enforcement to do?",
+      "options": [
+        "Compel testimony without Miranda warnings",
+        "Search without warrant anywhere",
+        "Seize evidence in plain sight during lawful presence"
+      ],
+      "answer": "Seize evidence in plain sight during lawful presence"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is a defense attorney?",
+      "options": [
+        "A mediator resolving contract disputes",
+        "A lawyer representing the accused",
+        "A judge overseeing court proceedings"
+      ],
+      "answer": "A lawyer representing the accused"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'constructive trust' used for in equity?",
+      "options": [
+        "Replace criminal sentencing",
+        "Guarantee statutory damages",
+        "Prevent unjust enrichment by imposing trust"
+      ],
+      "answer": "Prevent unjust enrichment by imposing trust"
+    },
+    {
+      "question_id": 9,
+      "question": "Which case set the 'reasonable expectation of privacy' standard in the US?",
+      "options": [
+        "Miranda v. Arizona",
+        "Mapp v. Ohio",
+        "Katz v. United States"
+      ],
+      "answer": "Katz v. United States"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'due process' guarantee generally?",
+      "options": [
+        "Automatic release from custody",
+        "Fair legal procedures before depriving rights",
+        "Free legal representation in all cases"
+      ],
+      "answer": "Fair legal procedures before depriving rights"
+    },
+    {
+      "question_id": 11,
+      "question": "Which case first established judicial review in the United States?",
+      "options": [
+        "Brown v. Board of Education (1954)",
+        "Roe v. Wade (1973)",
+        "Marbury v. Madison (1803)"
+      ],
+      "answer": "Marbury v. Madison (1803)"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the 'Kelly-Frye' or 'Frye' test concerning?",
+      "options": [
+        "General acceptance of scientific evidence in field",
+        "Constitutional law equal protection standard",
+        "Statutory interpretation methodology"
+      ],
+      "answer": "General acceptance of scientific evidence in field"
+    },
+    {
+      "question_id": 13,
+      "question": "Which principle bars retroactive criminal laws?",
+      "options": [
+        "Collateral estoppel",
+        "Prohibition on ex post facto laws",
+        "Doctrine of sovereign immunity"
+      ],
+      "answer": "Prohibition on ex post facto laws"
+    },
+    {
+      "question_id": 14,
+      "question": "Which doctrine makes employers liable for employee torts within scope of employment?",
+      "options": [
+        "Assumption of risk",
+        "Strict product liability",
+        "Respondeat superior"
+      ],
+      "answer": "Respondeat superior"
+    },
+    {
+      "question_id": 15,
+      "question": "What is 'parens patriae' power used by states for?",
+      "options": [
+        "Protecting those unable to protect themselves",
+        "Settling interstate disputes",
+        "Enforcing commercial contracts"
+      ],
+      "answer": "Protecting those unable to protect themselves"
+    }
+  ]
+}

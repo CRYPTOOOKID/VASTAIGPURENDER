@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which designer is associated with the signature shade 'Valentino red'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which house revived the Dior Saddle Bag originally created around 2000?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which French institution legally defines and registers the official list of haute couture houses?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded the house of Givenchy?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which designer led Chanel and revitalized Fendi as creative director for decades?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Italian house's archive contains the original 'Rockstud' pyramid-studded accessories introduced in 2010s?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which designer founded the Versace fashion house?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which house launched the iconic Lady Dior handbag named for Princess Diana?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which brand introduced the monogram canvas combining initials and floral motifs back in 1896?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which brand is best known for the polo player logo on shirts?"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did Miuccia Prada launch the Miu Miu label?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which house historically limited production with artisanal workshops to maintain rarity in leather goods?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which designer introduced the women's tuxedo called 'Le Smoking'?"
+    },
+    {
+      "question_id": 14,
+      "question": "When was Chanel No.5 first launched to the public?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fashion house created the iconic Bar jacket silhouette that became a defining New Look piece?"
+    }
+  ]
+}

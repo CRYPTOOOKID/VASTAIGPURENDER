@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which word matches the definition 'a small natural stream of water'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which word fits 'a technical, specialized vocabulary used by a profession'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which process is 'the switching of adjacent sounds within a word'?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'nocturnal' mean in common definitions?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term denotes 'a word spelled the same backwards and forwards'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes 'the tendency of a word to take on taboo-related euphemisms'?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a synonym for 'definition'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word means 'a word that imitates the sound it describes'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes 'a word that triggers a culturally sensitive reaction and is then altered'?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the best first step when unsure about a definition in a guessing game?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term means 'the practice of assigning human traits to nonhuman entities'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term denotes 'reanalysis of a word's morphological makeup leading to new forms'?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does the word 'ancient' mean in simple definitions?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which word fits 'speech delivered without preparation'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term denotes 'a word change where sounds are inserted into a word's form'?"
+    }
+  ]
+}

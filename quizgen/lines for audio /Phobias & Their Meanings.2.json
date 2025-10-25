@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia describes fear of clowns?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which type of exposure uses mental imagery to confront phobic stimuli?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which experimental model used conditioned stimuli to study fear acquisition relevant to phobias?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia is fear of flying?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which therapy uses gradual exposure to reduce phobic responses?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which assessment method records physiological reactivity during exposure to phobic stimuli?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia describes fear of dentists or dental treatment?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which intervention uses simulated environments to help treat phobias?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia term originated as a humorous coinage referencing long words?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'arachnophobia' mean?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which assessment often measures phobia severity in clinical settings?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare phobia names fear of beards specifically?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia describes fear of heights?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia refers to fear of the color yellow?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which research finding links genetic influence with individual differences in phobia vulnerability?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which West Bengal festival honors goddess Durga with elaborate pandals and idols?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which lunar month generally hosts the festival of Diwali in North India?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival's public procession in Mumbai historically integrated nationalist sentiment under Lokmanya Tilak?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival celebrates the goddess Saraswati, patron of learning and the arts?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Assamese festival marks the agricultural cycle with three major days: Rongali Bihu, Kongali Bihu, Bhogali Bihu?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival commemorates the legend of the Pandavas and Draupadi in the south as 'Yuddha festivals' in some villages?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which festival celebrates Christmas in Indian Christian communities on December 25?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival in South India emphasizes classical dances and music recitals for the goddess Saraswati?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which festival ritual observes a ceremonial bath at Pushkar associated with Kartik month bathing rituals?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Muslim festival marks the end of Ramadan with communal prayers and feasting?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival uses the tradition of painting clay bulls and decorating cattle in rural Maharashtra and Karnataka?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ritual during Diwali primarily venerates Lakshmi, goddess of wealth, through Lakshmi Puja at night?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival marks the beginning of the Hindu lunar new year in many regions?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival's traditional sweet offering in Maharashtra is 'puran poli' served during regional harvest celebrations?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which harvest festival marks the solar transition when the sun enters Capricorn (Makara) on the Indian calendar?"
+    }
+  ]
+}

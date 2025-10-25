@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Walking under what object is commonly considered bad luck in many cultures?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Biblical ritual gave rise to the English term for a scapegoat?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare medieval device combined astrological charts with prayers as a household protective instrument?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which number is widely considered unlucky in many Western countries?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phrase refers to objects believed to transmit supernatural power to their owner?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which practice in early medieval households involved concealing shoes within walls for luck?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which item is commonly placed in a newborn's room in many cultures to attract good fortune?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes objects believed to contain a deity's presence and confer protection?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which island's folklore includes protective 'clootie' trees where pilgrims tie offerings for healing?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which type of charm is often pinned to clothing to protect against misfortune?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which culture traditionally avoids the number 13th floor in buildings as a superstition?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which specific amulet type, often inscribed with names and signs, was buried under thresholds historically?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which number is considered unlucky in many East Asian cultures due to its pronunciation?"
+    },
+    {
+      "question_id": 14,
+      "question": "What term describes the fear of the number thirteen?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Late Antique practice placed phylacteries or inscribed amulets on bodies to protect travellers?"
+    }
+  ]
+}

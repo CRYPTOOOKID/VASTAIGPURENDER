@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who led the Indian National Army (INA) during World War II?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Vallabhbhai Patel",
+        "C. Rajagopalachari"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Act governs representation and conduct of elections in India?",
+      "options": [
+        "Representation of the People Act",
+        "Indian Penal Code",
+        "Constitutional Amendment Act"
+      ],
+      "answer": "Representation of the People Act"
+    },
+    {
+      "question_id": 3,
+      "question": "Which judgment constrained arbitrary dismissal of state governments using Article 356?",
+      "options": [
+        "S. R. Bommai v. Union of India",
+        "Kesavananda Bharati v. State of Kerala",
+        "Minerva Mills v. Union of India"
+      ],
+      "answer": "S. R. Bommai v. Union of India"
+    },
+    {
+      "question_id": 4,
+      "question": "Who served as India’s first Home Minister after independence?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "C. Rajagopalachari",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question_id": 5,
+      "question": "Who was India’s Prime Minister when Mandal Commission recommendations were implemented?",
+      "options": [
+        "V. P. Singh",
+        "Chandra Shekhar",
+        "P. V. Narasimha Rao"
+      ],
+      "answer": "V. P. Singh"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian leader served as both Vice President and later as President beginning 1967?",
+      "options": [
+        "Dr. Zakir Husain",
+        "Varahagiri V. Giri",
+        "Neelam Sanjiva Reddy"
+      ],
+      "answer": "Dr. Zakir Husain"
+    },
+    {
+      "question_id": 7,
+      "question": "Who was India’s first woman Prime Minister?",
+      "options": [
+        "Indira Gandhi",
+        "Sarojini Naidu",
+        "Pratibha Patil"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 8,
+      "question": "Which political formation emerged as the Janata Party in 1977?",
+      "options": [
+        "A coalition of anti-Emergency parties",
+        "A wing of Congress",
+        "A new communist front"
+      ],
+      "answer": "A coalition of anti-Emergency parties"
+    },
+    {
+      "question_id": 9,
+      "question": "Who was the first Chief Justice of India to head a Constitution Review Committee?",
+      "options": [
+        "H. J. Kania",
+        "M. H.idayatullah",
+        "S. R. Das"
+      ],
+      "answer": "H. J. Kania"
+    },
+    {
+      "question_id": 10,
+      "question": "Which constitutional amendment added Fundamental Duties in India?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "61st Amendment"
+      ],
+      "answer": "42nd Amendment"
+    },
+    {
+      "question_id": 11,
+      "question": "Which commission recommended reorganization of states on linguistic lines?",
+      "options": [
+        "States Reorganisation Commission",
+        "Sarkaria Commission",
+        "Punchhi Commission"
+      ],
+      "answer": "States Reorganisation Commission"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian Prime Minister advocated 'Look East' foreign policy in the 1990s?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "Atal Bihari Vajpayee",
+        "Manmohan Singh"
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 13,
+      "question": "Which volunteer organization influenced the ideological base of the BJP?",
+      "options": [
+        "Rashtriya Swayamsevak Sangh",
+        "Indian National Congress",
+        "Akhil Bharatiya Vidyarthi Parishad"
+      ],
+      "answer": "Rashtriya Swayamsevak Sangh"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Article empowers the President to impose President's Rule in a state?",
+      "options": [
+        "Article 356",
+        "Article 352",
+        "Article 368"
+      ],
+      "answer": "Article 356"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major 1975–77 event led to significant constitutional and political debate?",
+      "options": [
+        "The Emergency declared in 1975",
+        "The formation of the Janata Party",
+        "The Shimla Agreement"
+      ],
+      "answer": "The Emergency declared in 1975"
+    }
+  ]
+}

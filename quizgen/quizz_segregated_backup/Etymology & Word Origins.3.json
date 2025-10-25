@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Roman god's name is the source of the English day name 'Saturday'?",
+      "options": [
+        "Saturn",
+        "Sol",
+        "Mars"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "question_id": 2,
+      "question": "The English word 'algebra' comes from Arabic 'al-jabr' introduced by which discipline?",
+      "options": [
+        "Mathematics",
+        "Medicine",
+        "Philosophy"
+      ],
+      "answer": "Mathematics"
+    },
+    {
+      "question_id": 3,
+      "question": "Which English adjective relating to fish derives from Latin 'piscis'?",
+      "options": [
+        "Piscatorial",
+        "Piscine",
+        "Piscineal"
+      ],
+      "answer": "Piscatorial"
+    },
+    {
+      "question_id": 4,
+      "question": "Which English word comes from Latin 'camera' originally meaning 'chamber'?",
+      "options": [
+        "Camera",
+        "Camomile",
+        "Camshaft"
+      ],
+      "answer": "Camera"
+    },
+    {
+      "question_id": 5,
+      "question": "Which New World language contributed the word 'tomato' to European languages?",
+      "options": [
+        "Nahuatl",
+        "Quechua",
+        "Guarani"
+      ],
+      "answer": "Nahuatl"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mechanism explains irregular past forms like 'dove' appearing alongside 'dived'?",
+      "options": [
+        "Analogy",
+        "Ablaut",
+        "Metathesis"
+      ],
+      "answer": "Analogy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which mythological figure inspired the English word 'panic'?",
+      "options": [
+        "Pan",
+        "Zeus",
+        "Athena"
+      ],
+      "answer": "Pan"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the linguistic term for a word-by-word translation like 'skyscraper' into another language?",
+      "options": [
+        "Calque",
+        "Loanword",
+        "Cognate"
+      ],
+      "answer": "Calque"
+    },
+    {
+      "question_id": 9,
+      "question": "What term describes a single root developing multiple related senses over time?",
+      "options": [
+        "Polysemy",
+        "Homophony",
+        "Synonymy"
+      ],
+      "answer": "Polysemy"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the Old English root in 'breakfast' literally mean?",
+      "options": [
+        "To break a fast",
+        "To bake bread",
+        "To make fast"
+      ],
+      "answer": "To break a fast"
+    },
+    {
+      "question_id": 11,
+      "question": "What term describes a brand name becoming a common noun, like 'thermos'?",
+      "options": [
+        "Genericide",
+        "Trademarking",
+        "Neologism"
+      ],
+      "answer": "Genericide"
+    },
+    {
+      "question_id": 12,
+      "question": "The Finnic languages, including Finnish and Estonian, belong to which family?",
+      "options": [
+        "Uralic",
+        "Indo-European",
+        "Altaic"
+      ],
+      "answer": "Uralic"
+    },
+    {
+      "question_id": 13,
+      "question": "Which language is the immediate source of the English word 'kiosk'?",
+      "options": [
+        "Turkish",
+        "Greek",
+        "Persian"
+      ],
+      "answer": "Turkish"
+    },
+    {
+      "question_id": 14,
+      "question": "Which English occupational title derives from Latin 'magister' meaning teacher or master?",
+      "options": [
+        "Master",
+        "Minister",
+        "Magnate"
+      ],
+      "answer": "Master"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient language provided the primary lexical source for medieval church and law vocabulary?",
+      "options": [
+        "Latin",
+        "Old Norse",
+        "Coptic"
+      ],
+      "answer": "Latin"
+    }
+  ]
+}

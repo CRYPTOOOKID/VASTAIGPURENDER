@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Rendered videos output (exclude, too large)
+videogen/out/
+videogen/output/videos/
+
+# Cache
+.cache/
+**/.cache/
+
+# Remotion cache and browser (Chromium binary is huge!)
+.remotion/
+**/.remotion/
+**/chrome-headless-shell/
+**/chrome-headless-shell-*/
+
+# Output videos (but keep intro/outro)
+videogen/out/*.mp4
+*.avi
+*.mov
+!videogen/public/intro.mp4
+!videogen/public/outro.mp4
+
+# Progress tracking (keep this)
+!videogen/output/progress.json
+
+# Keep audio files - they're needed for rendering!
+# audiogen/output audios/ - KEEP THESE
+# videogen/public/*.mp3 - KEEP THESE
+# videogen/assests/*.mp3 - KEEP THESE
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+*/venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+audiogen/output audios/

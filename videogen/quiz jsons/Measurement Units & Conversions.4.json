@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which instrument measures distance by emitting sound or light pulses?",
+      "options": [
+        "rangefinder",
+        "seismograph",
+        "oscilloscope"
+      ],
+      "answer": "rangefinder"
+    },
+    {
+      "question_id": 2,
+      "question": "Which historical definition described the meter as a fraction of Earth's meridian?",
+      "options": [
+        "one millionth of the globe",
+        "one thousandth of the equator",
+        "one ten-millionth of the quadrant"
+      ],
+      "answer": "one ten-millionth of the quadrant"
+    },
+    {
+      "question_id": 3,
+      "question": "Which unit measures the logarithmic ratio of power levels in acoustics and electrical engineering?",
+      "options": [
+        "neper",
+        "decibel",
+        "bel"
+      ],
+      "answer": "decibel"
+    },
+    {
+      "question_id": 4,
+      "question": "Which common unit measures mass in the US customary system?",
+      "options": [
+        "gram",
+        "kilogram",
+        "pound"
+      ],
+      "answer": "pound"
+    },
+    {
+      "question_id": 5,
+      "question": "Which unit measures capacitance in the SI system?",
+      "options": [
+        "farad",
+        "henry",
+        "siemens"
+      ],
+      "answer": "farad"
+    },
+    {
+      "question_id": 6,
+      "question": "Which constant was assigned an exact value to redefine the ampere in 2019?",
+      "options": [
+        "elementary charge",
+        "Boltzmann constant",
+        "Planck constant"
+      ],
+      "answer": "elementary charge"
+    },
+    {
+      "question_id": 7,
+      "question": "How many centimeters are in one meter?",
+      "options": [
+        "1000",
+        "100",
+        "10"
+      ],
+      "answer": "100"
+    },
+    {
+      "question_id": 8,
+      "question": "Which prefix denotes 10^-12 in the SI system?",
+      "options": [
+        "nano",
+        "micro",
+        "pico"
+      ],
+      "answer": "pico"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare historical unit measured distances at sea equal to one minute of latitude?",
+      "options": [
+        "league",
+        "nautical mile",
+        "cable"
+      ],
+      "answer": "nautical mile"
+    },
+    {
+      "question_id": 10,
+      "question": "Which prefix denotes one billionth of a unit (10^-9)?",
+      "options": [
+        "milli",
+        "nano",
+        "micro"
+      ],
+      "answer": "nano"
+    },
+    {
+      "question_id": 11,
+      "question": "Which SI derived unit measures electric resistance?",
+      "options": [
+        "lux",
+        "ohm",
+        "tesla"
+      ],
+      "answer": "ohm"
+    },
+    {
+      "question_id": 12,
+      "question": "Which specialized unit measures concentration in air quality index contexts as micrograms per cubic meter?",
+      "options": [
+        "µg/m³",
+        "ppm",
+        "ppb"
+      ],
+      "answer": "µg/m³"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the SI base unit for time?",
+      "options": [
+        "minute",
+        "hour",
+        "second"
+      ],
+      "answer": "second"
+    },
+    {
+      "question_id": 14,
+      "question": "Which unit measures radioactivity equal to one disintegration per second?",
+      "options": [
+        "becquerel",
+        "curie",
+        "gray"
+      ],
+      "answer": "becquerel"
+    },
+    {
+      "question_id": 15,
+      "question": "Which unit measures dynamic viscosity in SI derived units of pascal-seconds?",
+      "options": [
+        "poise",
+        "stokes",
+        "pascal-second"
+      ],
+      "answer": "pascal-second"
+    }
+  ]
+}

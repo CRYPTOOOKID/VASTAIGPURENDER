@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which term describes eating more calories than you expend?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which fatty acids are essential because the body cannot synthesize them?"
+    },
+    {
+      "question_id": 3,
+      "question": "What do Atwater factors estimate in nutrition science?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the simplest way to reduce empty calories in a diet?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which macronutrient typically has the highest thermic effect after eating?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which dietary component increases fecal energy losses and lowers effective metabolizable energy?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which macronutrient is the body's main immediate energy source?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which population factor generally increases basal metabolic rate?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who pioneered systematic calorimetry of foods and developed early energy standards?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which micronutrient contributes no calories to the diet?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which measurement combines caloric content and nutrient quality to evaluate foods?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which policy-driven label change helps consumers identify foods contributing excess caloric sugars?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which food label component helps compare nutrients between products easily?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which macronutrient yields calories lost in urine when consumed in excess?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metric helps estimate a food’s impact on long-term blood glucose and portion size?"
+    }
+  ]
+}

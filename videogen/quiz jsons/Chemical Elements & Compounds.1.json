@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What element is essential for building bones and teeth?",
+      "options": [
+        "Chlorine",
+        "Calcium",
+        "Copper"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "question_id": 2,
+      "question": "Which transition metal often forms colored compounds used in paints and ceramics (e.g., cobalt blue)?",
+      "options": [
+        "Zinc",
+        "Cobalt",
+        "Titanium"
+      ],
+      "answer": "Cobalt"
+    },
+    {
+      "question_id": 3,
+      "question": "Which element’s most stable oxide forms a protective barrier on aluminum and titanium, preventing further corrosion?",
+      "options": [
+        "Fluorine",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 4,
+      "question": "What compound is commonly used as baking soda?",
+      "options": [
+        "Potassium nitrate",
+        "Sodium chloride",
+        "Sodium bicarbonate"
+      ],
+      "answer": "Sodium bicarbonate"
+    },
+    {
+      "question_id": 5,
+      "question": "Which alkali metal reacts violently with water producing hydrogen gas?",
+      "options": [
+        "Aluminum",
+        "Calcium",
+        "Sodium"
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 6,
+      "question": "Which element's oxide exists in multiple crystalline forms including quartz, cristobalite, and tridymite?",
+      "options": [
+        "Silicon dioxide",
+        "Titanium dioxide",
+        "Aluminum oxide"
+      ],
+      "answer": "Silicon dioxide"
+    },
+    {
+      "question_id": 7,
+      "question": "Which element is required for hemoglobin in blood?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Zinc"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 8,
+      "question": "Which element was named after a planet and has symbol U?",
+      "options": [
+        "Ununium",
+        "Uranite",
+        "Uranium"
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "question_id": 9,
+      "question": "Which allotrope of phosphorus is red and safer to handle than white phosphorus due to lower reactivity?",
+      "options": [
+        "Black phosphorus",
+        "Violet phosphorus",
+        "Red phosphorus"
+      ],
+      "answer": "Red phosphorus"
+    },
+    {
+      "question_id": 10,
+      "question": "Which element is known for its use in batteries and has symbol Li?",
+      "options": [
+        "Lead",
+        "Lithium",
+        "Lanthanum"
+      ],
+      "answer": "Lithium"
+    },
+    {
+      "question_id": 11,
+      "question": "Which element forms a protective oxide layer on aluminum surfaces?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Chlorine"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 12,
+      "question": "Which gas-phase diatomic molecule shows a triple bond and is isoelectronic with CO?",
+      "options": [
+        "N2 (nitrogen)",
+        "F2 (fluorine)",
+        "O2 (oxygen)"
+      ],
+      "answer": "N2 (nitrogen)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which element is used to make stainless steel alongside iron and chromium?",
+      "options": [
+        "Nickel",
+        "Lead",
+        "Mercury"
+      ],
+      "answer": "Nickel"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element has isotopes used in medical imaging as PET tracers (e.g., F-18)?",
+      "options": [
+        "Fluorine",
+        "Phosphorus",
+        "Iodine"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 15,
+      "question": "Which noble metal is used in fuel cell catalysts and is often alloyed with ruthenium to improve CO tolerance?",
+      "options": [
+        "Palladium",
+        "Platinum",
+        "Gold"
+      ],
+      "answer": "Platinum"
+    }
+  ]
+}

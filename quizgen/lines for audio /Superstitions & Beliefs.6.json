@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Carrying what small animal body part is a folk charm believed to bring good luck in some cultures?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which number is considered auspicious in Chinese culture because it sounds like wealth?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which classic anthropologist wrote extensively on magic, religion, and taboo in early studies?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which superstitious act involves tossing coins into water to wish for something?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which historic event increased modern Western fear associated with Friday the 13th?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which ancient practice left oblations at crossroads to placate local spirits or gods for safe travel?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which everyday object in some cultures is tapped or struck for luck before important events?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ancient belief linked black cats to witches during European witchcraft fears?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which anthropological concept explains how ritual actions create perceived control over uncertain outcomes?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which object nailed above a doorway is traditionally believed to bring protection and luck?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which medieval instrument of measurement was sometimes avoided due to superstition about accuracy?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which protective symbol carved into timber frames aimed to confuse witches in British vernacular architecture?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scholar's comparative work 'The Golden Bough' examined magic, myth, and sacrificial rites globally?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which medieval compendium collected charms and remedies blending Christian prayer with folk magic?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which religious text describes an ancient ritual involving laying hands on a goat to transfer sins?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What currency is used in New Zealand?",
+      "options": [
+        "New Zealand Dollar",
+        "Australian Dollar",
+        "US Dollar"
+      ],
+      "answer": "New Zealand Dollar"
+    },
+    {
+      "question_id": 2,
+      "question": "Which currency uses the ISO code INR?",
+      "options": [
+        "Indian Rupee",
+        "Indonesian Rupiah",
+        "Iraqi Dinar"
+      ],
+      "answer": "Indian Rupee"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Middle Eastern currency uses the dinar and was historically among the most stable in the region due to oil revenues?",
+      "options": [
+        "Kuwaiti Dinar",
+        "Iraqi Dinar",
+        "Jordanian Dinar"
+      ],
+      "answer": "Kuwaiti Dinar"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country uses the rupee as its currency?",
+      "options": [
+        "India",
+        "Brazil",
+        "Sweden"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country issues the Belize dollar pegged to the US dollar at a fixed rate?",
+      "options": [
+        "Belize",
+        "Barbados",
+        "Trinidad and Tobago"
+      ],
+      "answer": "Belize"
+    },
+    {
+      "question_id": 6,
+      "question": "Which small European country's currency shares legal tender status with the euro but issues its own coins: San Marino or Monaco?",
+      "options": [
+        "Both San Marino and Monaco issue coins",
+        "Only San Marino issues coins",
+        "Only Monaco issues coins"
+      ],
+      "answer": "Both San Marino and Monaco issue coins"
+    },
+    {
+      "question_id": 7,
+      "question": "Which currency uses the abbreviation CHF?",
+      "options": [
+        "Swiss Franc",
+        "Czech Koruna",
+        "South African Rand"
+      ],
+      "answer": "Swiss Franc"
+    },
+    {
+      "question_id": 8,
+      "question": "Which currency uses the ISO code ZAR?",
+      "options": [
+        "South African Rand",
+        "Zambian Kwacha",
+        "Zimbabwean Dollar"
+      ],
+      "answer": "South African Rand"
+    },
+    {
+      "question_id": 9,
+      "question": "Which currency's coins include a micro-engraved hologram as a security feature introduced in the 2010s?",
+      "options": [
+        "Euro (recent series)",
+        "US Dollar",
+        "Japanese Yen"
+      ],
+      "answer": "Euro (recent series)"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the currency of South Africa?",
+      "options": [
+        "Rand",
+        "Pound",
+        "Shilling"
+      ],
+      "answer": "Rand"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European country uses the lek and once had a currency called the 'dollar' historically?",
+      "options": [
+        "Albania",
+        "Greece",
+        "Bulgaria"
+      ],
+      "answer": "Albania"
+    },
+    {
+      "question_id": 12,
+      "question": "Which European microstate issues euro coins bearing its own national designs under agreement with the EU?",
+      "options": [
+        "Monaco",
+        "Switzerland",
+        "Liechtenstein"
+      ],
+      "answer": "Monaco"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the currency of China?",
+      "options": [
+        "Renminbi (Yuan)",
+        "Won",
+        "Ruble"
+      ],
+      "answer": "Renminbi (Yuan)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which South Asian country uses the rupee but with a unique script on notes called 'Lao'",
+      "options": [
+        "Nepal",
+        "Sri Lanka",
+        "Bhutan"
+      ],
+      "answer": "Nepal"
+    },
+    {
+      "question_id": 15,
+      "question": "Which currency underwent redenomination in 2015 where 100 old units became 1 new unit due to inflation?",
+      "options": [
+        "Venezuelan Bolívar",
+        "Turkish Lira",
+        "Russian Ruble"
+      ],
+      "answer": "Venezuelan Bolívar"
+    }
+  ]
+}

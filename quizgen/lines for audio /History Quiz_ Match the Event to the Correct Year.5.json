@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In what year did the Titanic sink after hitting an iceberg?"
+    },
+    {
+      "question_id": 2,
+      "question": "When did the Irish Potato Famine begin, drastically affecting Ireland's population?"
+    },
+    {
+      "question_id": 3,
+      "question": "When did the fall of the Western Roman Empire traditionally occur with Romulus Augustulus' deposition?"
+    },
+    {
+      "question_id": 4,
+      "question": "In what year did the Korean War begin?"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the Norman conquest transform England's ruling class?"
+    },
+    {
+      "question_id": 6,
+      "question": "When was the Battle of Agincourt fought during the Hundred Years' War?"
+    },
+    {
+      "question_id": 7,
+      "question": "When did the Protestant Reformation begin with Martin Luther's 95 Theses?"
+    },
+    {
+      "question_id": 8,
+      "question": "In what year did the English Civil War begin between Royalists and Parliamentarians?"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the An Lushan Rebellion begin in Tang dynasty China?"
+    },
+    {
+      "question_id": 10,
+      "question": "When did the Great Fire of London occur?"
+    },
+    {
+      "question_id": 11,
+      "question": "When was the Manhattan Project's first successful test detonation (Trinity)?"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Norman conquest of southern Italy and Sicily largely complete under Roger II?"
+    },
+    {
+      "question_id": 13,
+      "question": "When did Napoleon Bonaparte crown himself Emperor of the French?"
+    },
+    {
+      "question_id": 14,
+      "question": "When was the Zimmermann Telegram sent, influencing U.S. entry to World War I?"
+    },
+    {
+      "question_id": 15,
+      "question": "When was the Battle of Tours where Charles Martel halted Muslim expansion into Europe?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is a common clue word meaning 'capable of living or moving'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term means 'an expression that intentionally understates for effect'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technical word refers to 'the loss of a final sound in a word over time'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which word fits the definition 'a vehicle with two wheels'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which word describes 'a word whose meaning has broadened over time'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which word denotes 'a literal translation of a phrase from another language'?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which resource most people use first to find word meanings?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word fits 'a short, amusing story often used to illustrate a point'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term means 'the assimilation of two words into one by sound change'?"
+    },
+    {
+      "question_id": 10,
+      "question": "If a definition uses 'temporary', it indicates the word relates to what?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word fits 'a word that sounds like another but differs in meaning'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare term refers to 'a word formed by combining morphemes from different languages'?"
+    },
+    {
+      "question_id": 13,
+      "question": "If a definition states 'capable of burning', which word applies?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term means 'an exaggerated statement not meant literally'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which word denotes 'a lexical item specific to a particular region or group'?"
+    }
+  ]
+}

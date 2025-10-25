@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an example of earned media?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which paid media pricing model charges per completed action?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which strategic move strengthens resilience against platform policy changes?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'target audience' refer to in campaign planning?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'CAC' measure in campaign economics?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which multi-touch attribution method assigns credit proportionally across touchpoints?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a 'call to action' (CTA) in an ad?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which qualitative method helps uncover customer motivations for campaigns?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ad safety approach prevents placements next to harmful content?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is A/B testing primarily used to determine?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is an advantage of marketing automation platforms?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced technique attributes revenue when consumers interact with many touchpoints over time?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a marketing campaign primarily designed to achieve?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which attribution model gives all credit to the first touchpoint?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fraud type inflates ad metrics using non-human traffic?"
+    }
+  ]
+}

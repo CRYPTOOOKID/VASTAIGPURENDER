@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which function key commonly opens the help system or documentation in many desktop applications?",
+      "options": [
+        "F5",
+        "F1",
+        "F2"
+      ],
+      "answer": "F1"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Chrome and Firefox shortcut opens the Clear Browsing Data dialog directly?",
+      "options": [
+        "Ctrl+Shift+Del",
+        "Ctrl+Shift+Delete",
+        "Alt+Shift+Del"
+      ],
+      "answer": "Ctrl+Shift+Del"
+    },
+    {
+      "question_id": 3,
+      "question": "Which shell builtin displays the list of currently stopped or backgrounded jobs in the current session?",
+      "options": [
+        "jobs",
+        "top",
+        "ps"
+      ],
+      "answer": "jobs"
+    },
+    {
+      "question_id": 4,
+      "question": "Which shortcut minimizes all open windows and shows the desktop on a Windows PC?",
+      "options": [
+        "Win+M",
+        "Alt+Space",
+        "Win+D"
+      ],
+      "answer": "Win+D"
+    },
+    {
+      "question_id": 5,
+      "question": "Which keyboard shortcut in many applications moves the cursor to the beginning of the current line?",
+      "options": [
+        "Page Up",
+        "Ctrl+Left Arrow",
+        "Home"
+      ],
+      "answer": "Home"
+    },
+    {
+      "question_id": 6,
+      "question": "Which low-level Windows identifier differentiates physical keys and can be used when remapping scancodes?",
+      "options": [
+        "Scan code",
+        "Virtual key code",
+        "Product ID"
+      ],
+      "answer": "Scan code"
+    },
+    {
+      "question_id": 7,
+      "question": "Which key combination opens the Windows Quick Link menu for power tools and settings?",
+      "options": [
+        "Win+X",
+        "Win+Q",
+        "Win+P"
+      ],
+      "answer": "Win+X"
+    },
+    {
+      "question_id": 8,
+      "question": "Which editor command in Vim writes changes to disk and quits the editor in command mode?",
+      "options": [
+        ":wq",
+        ":q!",
+        ":w"
+      ],
+      "answer": ":wq"
+    },
+    {
+      "question_id": 9,
+      "question": "Which tool shows and allows remapping of modifier keys and layout options on X11 systems?",
+      "options": [
+        "xrandr",
+        "xhost",
+        "setxkbmap"
+      ],
+      "answer": "setxkbmap"
+    },
+    {
+      "question_id": 10,
+      "question": "On macOS, which keyboard shortcut pastes the clipboard contents into the frontmost application or field?",
+      "options": [
+        "Cmd+V",
+        "Ctrl+V",
+        "Cmd+P"
+      ],
+      "answer": "Cmd+V"
+    },
+    {
+      "question_id": 11,
+      "question": "Which keyboard shortcut clears the terminal screen, producing a fresh prompt in many shells?",
+      "options": [
+        "Ctrl+U",
+        "Ctrl+K",
+        "Ctrl+L"
+      ],
+      "answer": "Ctrl+L"
+    },
+    {
+      "question_id": 12,
+      "question": "Which keyboard shortcut in many terminals sends a quit signal and can produce a core dump for debugging?",
+      "options": [
+        "Ctrl+Z",
+        "Ctrl+\\",
+        "Ctrl+C"
+      ],
+      "answer": "Ctrl+\\"
+    },
+    {
+      "question_id": 13,
+      "question": "Which function key typically reloads or refreshes the current page in many web browsers?",
+      "options": [
+        "F9",
+        "F5",
+        "F3"
+      ],
+      "answer": "F5"
+    },
+    {
+      "question_id": 14,
+      "question": "Which keyboard shortcut in many apps moves the cursor to the end of the current line quickly?",
+      "options": [
+        "Page Down",
+        "End",
+        "Ctrl+Right Arrow"
+      ],
+      "answer": "End"
+    },
+    {
+      "question_id": 15,
+      "question": "Which POSIX signal is typically sent when pressing Ctrl+\\ (backslash) in a Unix-like terminal?",
+      "options": [
+        "SIGHUP",
+        "SIGQUIT",
+        "SIGSTOP"
+      ],
+      "answer": "SIGQUIT"
+    }
+  ]
+}

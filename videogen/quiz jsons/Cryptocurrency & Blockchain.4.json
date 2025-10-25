@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'peer-to-peer' in cryptocurrency networks?",
+      "options": [
+        "Centralized service model",
+        "Direct participant-to-participant interaction",
+        "Government oversight system"
+      ],
+      "answer": "Direct participant-to-participant interaction"
+    },
+    {
+      "question_id": 2,
+      "question": "When did Ethereum launch its mainnet?",
+      "options": [
+        "2013",
+        "2017",
+        "2015"
+      ],
+      "answer": "2015"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the main privacy trade-off of on-chain mixers like CoinJoin?",
+      "options": [
+        "Improved anonymity but possible analysis linkage",
+        "Guaranteed absolute anonymity",
+        "Lower transaction fees always"
+      ],
+      "answer": "Improved anonymity but possible analysis linkage"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a stablecoin designed to do?",
+      "options": [
+        "Keep price stable relative to an asset",
+        "Replace private keys",
+        "Increase volatility quickly"
+      ],
+      "answer": "Keep price stable relative to an asset"
+    },
+    {
+      "question_id": 5,
+      "question": "What is an oracle in smart contract ecosystems?",
+      "options": [
+        "A private key manager",
+        "An external data feed for contracts",
+        "A mining algorithm"
+      ],
+      "answer": "An external data feed for contracts"
+    },
+    {
+      "question_id": 6,
+      "question": "What is ECDH commonly used for in cryptocurrency systems?",
+      "options": [
+        "Generating block headers",
+        "Deriving shared secrets from key pairs",
+        "Validating gas limits"
+      ],
+      "answer": "Deriving shared secrets from key pairs"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'gas' refer to on Ethereum?",
+      "options": [
+        "Storage capacity of a wallet",
+        "Fee units for executing operations",
+        "A mining hardware model"
+      ],
+      "answer": "Fee units for executing operations"
+    },
+    {
+      "question_id": 8,
+      "question": "Which tool shows on-chain analytics like addresses and flows?",
+      "options": [
+        "Web browser",
+        "Blockchain explorer",
+        "Word processor"
+      ],
+      "answer": "Blockchain explorer"
+    },
+    {
+      "question_id": 9,
+      "question": "Which protocol enables stateless clients and light verification in blockchain nodes?",
+      "options": [
+        "Merkle-less verification",
+        "PoS light sync",
+        "SPV (Simplified Payment Verification)"
+      ],
+      "answer": "SPV (Simplified Payment Verification)"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'KYC' stand for in crypto exchanges?",
+      "options": [
+        "Keep Your Crypto",
+        "Key Yield Calculation",
+        "Know Your Customer"
+      ],
+      "answer": "Know Your Customer"
+    },
+    {
+      "question_id": 11,
+      "question": "What mechanism prevents double-spending in Bitcoin?",
+      "options": [
+        "Centralized clearinghouse",
+        "Consensus via proof-of-work",
+        "Private key rotation"
+      ],
+      "answer": "Consensus via proof-of-work"
+    },
+    {
+      "question_id": 12,
+      "question": "What mechanism does Bitcoin use to adjust mining difficulty?",
+      "options": [
+        "Staking epoch adjustment",
+        "Token inflation control",
+        "Target time-based difficulty retargeting"
+      ],
+      "answer": "Target time-based difficulty retargeting"
+    },
+    {
+      "question_id": 13,
+      "question": "Which hash algorithm does Bitcoin use for proof-of-work?",
+      "options": [
+        "SHA-1",
+        "SHA-256",
+        "MD5"
+      ],
+      "answer": "SHA-256"
+    },
+    {
+      "question_id": 14,
+      "question": "What is an ERC-20 'approve' function commonly used for?",
+      "options": [
+        "Creating new blocks",
+        "Granting another address transfer allowance",
+        "Burning tokens permanently"
+      ],
+      "answer": "Granting another address transfer allowance"
+    },
+    {
+      "question_id": 15,
+      "question": "What does 're-org' mean in blockchain operation terms?",
+      "options": [
+        "Node software upgrade",
+        "Chain reorganizing when a longer chain appears",
+        "Wallet address rotation"
+      ],
+      "answer": "Chain reorganizing when a longer chain appears"
+    }
+  ]
+}

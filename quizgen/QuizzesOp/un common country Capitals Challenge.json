@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the capital city of the Pacific island nation Palau, known for its Rock Islands?",
+        "options": [
+          "Ngerulmud",
+          "Koror",
+          "Palikir"
+        ],
+        "answer": "Ngerulmud"
+      },
+      {
+        "question": "Which city serves as the national capital of Tuvalu, located on the Funafuti atoll?",
+        "options": [
+          "Funafuti",
+          "Majuro",
+          "Tarawa"
+        ],
+        "answer": "Funafuti"
+      },
+      {
+        "question": "What is the capital of the island nation Kiribati, situated on the atoll of Tarawa?",
+        "options": [
+          "South Tarawa",
+          "Majuro",
+          "Suva"
+        ],
+        "answer": "South Tarawa"
+      },
+      {
+        "question": "Which district functions as the de facto capital of Nauru where government offices are located?",
+        "options": [
+          "Yaren",
+          "Aiwo",
+          "Denigomodu"
+        ],
+        "answer": "Yaren"
+      },
+      {
+        "question": "What is the capital city of the Federated States of Micronesia, located on Pohnpei island?",
+        "options": [
+          "Palikir",
+          "Majuro",
+          "Ngerulmud"
+        ],
+        "answer": "Palikir"
+      },
+      {
+        "question": "Which city is the capital of São Tomé and Príncipe, located on São Tomé island?",
+        "options": [
+          "São Tomé",
+          "Praia",
+          "Bissau"
+        ],
+        "answer": "São Tomé"
+      },
+      {
+        "question": "What is the capital city of the Union of the Comoros, found on Grande Comore island?",
+        "options": [
+          "Moroni",
+          "Victoria",
+          "Antananarivo"
+        ],
+        "answer": "Moroni"
+      },
+      {
+        "question": "Which city is the capital of the Seychelles, located on Mahé island?",
+        "options": [
+          "Victoria",
+          "Port Louis",
+          "Male"
+        ],
+        "answer": "Victoria"
+      },
+      {
+        "question": "What is the capital of the Maldives, situated on a small coral island in the Indian Ocean?",
+        "options": [
+          "Malé",
+          "Colombo",
+          "Victoria"
+        ],
+        "answer": "Malé"
+      },
+      {
+        "question": "Which city is the capital of the Kingdom of Tonga, located on Tongatapu island?",
+        "options": [
+          "Nuku'alofa",
+          "Apia",
+          "Suva"
+        ],
+        "answer": "Nuku'alofa"
+      },
+      {
+        "question": "What is the capital of the Independent State of Samoa, on the island of Upolu?",
+        "options": [
+          "Apia",
+          "Nuku'alofa",
+          "Honiara"
+        ],
+        "answer": "Apia"
+      },
+      {
+        "question": "Which city serves as the capital of Vanuatu, on the island of Efate?",
+        "options": [
+          "Port Vila",
+          "Port Moresby",
+          "Suva"
+        ],
+        "answer": "Port Vila"
+      },
+      {
+        "question": "What is the capital of the Solomon Islands, located on Guadalcanal island?",
+        "options": [
+          "Honiara",
+          "Suva",
+          "Palikir"
+        ],
+        "answer": "Honiara"
+      },
+      {
+        "question": "Which city is the capital of Fiji, located on the island of Viti Levu?",
+        "options": [
+          "Suva",
+          "Nadi",
+          "Apia"
+        ],
+        "answer": "Suva"
+      },
+      {
+        "question": "What is the national capital of the Marshall Islands situated on Majuro atoll?",
+        "options": [
+          "Majuro",
+          "Palikir",
+          "Funafuti"
+        ],
+        "answer": "Majuro"
+      },
+      {
+        "question": "Which Caribbean island's capital is Roseau, known for lush rainforests?",
+        "options": [
+          "Dominica",
+          "Dominican Republic",
+          "Saint Lucia"
+        ],
+        "answer": "Dominica"
+      },
+      {
+        "question": "What is the capital city of Saint Lucia, overlooking a natural harbor?",
+        "options": [
+          "Castries",
+          "Bridgetown",
+          "Kingstown"
+        ],
+        "answer": "Castries"
+      },
+      {
+        "question": "Which city is the capital of Saint Kitts and Nevis, on the island of St Kitts?",
+        "options": [
+          "Basseterre",
+          "Roseau",
+          "Bridgetown"
+        ],
+        "answer": "Basseterre"
+      },
+      {
+        "question": "What is the capital of Saint Vincent and the Grenadines, located on Saint Vincent island?",
+        "options": [
+          "Kingstown",
+          "Castries",
+          "Bridgetown"
+        ],
+        "answer": "Kingstown"
+      },
+      {
+        "question": "Which city is the capital of Antigua and Barbuda, famous for its English Harbour?",
+        "options": [
+          "St. John's",
+          "Basseterre",
+          "Kingstown"
+        ],
+        "answer": "St. John's"
+      },
+      {
+        "question": "What is the capital of Timor-Leste, located on the northern coast of the country?",
+        "options": [
+          "Dili",
+          "Suva",
+          "Honiara"
+        ],
+        "answer": "Dili"
+      },
+      {
+        "question": "Which Himalayan kingdom's capital is Thimphu, known for preserved traditions?",
+        "options": [
+          "Bhutan",
+          "Nepal",
+          "Bhutanese monarchy"
+        ],
+        "answer": "Bhutan"
+      },
+      {
+        "question": "What is the capital city of Lesotho, situated at the foothills of the Maluti Mountains?",
+        "options": [
+          "Maseru",
+          "Mbabane",
+          "Gaborone"
+        ],
+        "answer": "Maseru"
+      },
+      {
+        "question": "Which African kingdom uses Mbabane as its administrative capital and Lobamba ceremonially?",
+        "options": [
+          "Eswatini",
+          "Lesotho",
+          "Botswana"
+        ],
+        "answer": "Eswatini"
+      },
+      {
+        "question": "What is the capital of Burkina Faso, a cultural and music hub in West Africa?",
+        "options": [
+          "Ouagadougou",
+          "Bamako",
+          "Niamey"
+        ],
+        "answer": "Ouagadougou"
+      },
+      {
+        "question": "Which city is the national capital of Niger, located on the Niger River's edge?",
+        "options": [
+          "Niamey",
+          "Bamako",
+          "N'Djamena"
+        ],
+        "answer": "Niamey"
+      },
+      {
+        "question": "What is the capital city of Chad, situated near the Chari River?",
+        "options": [
+          "N'Djamena",
+          "Khartoum",
+          "Niamey"
+        ],
+        "answer": "N'Djamena"
+      },
+      {
+        "question": "Which city serves as Benin's official capital, though another city hosts many government offices?",
+        "options": [
+          "Porto-Novo",
+          "Cotonou",
+          "Abidjan"
+        ],
+        "answer": "Porto-Novo"
+      },
+      {
+        "question": "What is the capital of Guinea-Bissau, an Atlantic port city with colonial influences?",
+        "options": [
+          "Bissau",
+          "Conakry",
+          "Dakar"
+        ],
+        "answer": "Bissau"
+      },
+      {
+        "question": "Which city is the capital of Equatorial Guinea, located on Bioko Island?",
+        "options": [
+          "Malabo",
+          "Libreville",
+          "Bata"
+        ],
+        "answer": "Malabo"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which city became Palau's capital in 2006, replacing the long-serving administrative center Koror?",
+        "options": [
+          "Ngerulmud",
+          "Koror",
+          "Palikir"
+        ],
+        "answer": "Ngerulmud"
+      },
+      {
+        "question": "Which country is unique for having no official capital named in its constitution?",
+        "options": [
+          "Nauru",
+          "Vatican City",
+          "San Marino"
+        ],
+        "answer": "Nauru"
+      },
+      {
+        "question": "Which Beninese city functions as the government's primary seat despite Porto-Novo being official capital?",
+        "options": [
+          "Cotonou",
+          "Parakou",
+          "Abomey"
+        ],
+        "answer": "Cotonou"
+      },
+      {
+        "question": "Which country announced plans to relocate its capital from Malabo to the inland Ciudad de la Paz (Oyala)?",
+        "options": [
+          "Equatorial Guinea",
+          "Cameroon",
+          "Gabon"
+        ],
+        "answer": "Equatorial Guinea"
+      },
+      {
+        "question": "Which small capital occupies a single densely populated coral island and faces severe space limits?",
+        "options": [
+          "Malé",
+          "Victoria",
+          "Funafuti"
+        ],
+        "answer": "Malé"
+      },
+      {
+        "question": "Which African monarchy uses Lobamba for legislative ceremonies while Mbabane handles administration?",
+        "options": [
+          "Eswatini",
+          "Lesotho",
+          "Morocco"
+        ],
+        "answer": "Eswatini"
+      },
+      {
+        "question": "Which South American capital's historic center is a UNESCO World Heritage site for wooden Dutch architecture?",
+        "options": [
+          "Paramaribo",
+          "Georgetown",
+          "Sucre"
+        ],
+        "answer": "Paramaribo"
+      },
+      {
+        "question": "Which Pacific capital is spread across a long coral atoll rather than a single compact island?",
+        "options": [
+          "Majuro",
+          "Suva",
+          "Apia"
+        ],
+        "answer": "Majuro"
+      },
+      {
+        "question": "Which capital city shares its name exactly with its country, both in common usage?",
+        "options": [
+          "Djibouti",
+          "Guinea",
+          "Panama"
+        ],
+        "answer": "Djibouti"
+      },
+      {
+        "question": "Which capital was created and inaugurated in 1970 following the devastation of the former capital by a hurricane?",
+        "options": [
+          "Belmopan",
+          "Brasília",
+          "Canberra"
+        ],
+        "answer": "Belmopan"
+      },
+      {
+        "question": "Which capital sits on an island but serves a continental African country, creating a unique geographic situation?",
+        "options": [
+          "Malabo",
+          "Nairobi",
+          "Abuja"
+        ],
+        "answer": "Malabo"
+      },
+      {
+        "question": "Which capital city is located closest to the equator among these Pacific capitals?",
+        "options": [
+          "Suva",
+          "Honiara",
+          "Funafuti"
+        ],
+        "answer": "Funafuti"
+      },
+      {
+        "question": "Which West African capital's name begins with an apostrophe-like letter and includes a consonant cluster uncommon in English?",
+        "options": [
+          "N'Djamena",
+          "Niamey",
+          "Ouagadougou"
+        ],
+        "answer": "N'Djamena"
+      },
+      {
+        "question": "Which African capital functions as two cities for different roles: administrative and ceremonial within one kingdom?",
+        "options": [
+          "Mbabane and Lobamba",
+          "Maseru and Teyateyaneng",
+          "Kigali and Butare"
+        ],
+        "answer": "Mbabane and Lobamba"
+      },
+      {
+        "question": "Which island nation's capital moved between islands historically, now located on a different larger island?",
+        "options": [
+          "Kiribati (South Tarawa)",
+          "Maldives (Malé)",
+          "Seychelles (Victoria)"
+        ],
+        "answer": "Kiribati (South Tarawa)"
+      },
+      {
+        "question": "Which capital is known for being a major banana export hub yet remains a small, often overlooked national capital?",
+        "options": [
+          "Bissau",
+          "Belmopan",
+          "Praia"
+        ],
+        "answer": "Bissau"
+      },
+      {
+        "question": "Which capital hosts the headquarters of a regional organisation named the Eastern Caribbean Central Bank?",
+        "options": [
+          "Basseterre",
+          "Castries",
+          "Bridgetown"
+        ],
+        "answer": "Basseterre"
+      },
+      {
+        "question": "Which capital is famed for a colonial-era fortress called 'Fort Charlotte' overlooking a harbor?",
+        "options": [
+          "Kingstown",
+          "Castries",
+          "St. John's"
+        ],
+        "answer": "Kingstown"
+      },
+      {
+        "question": "Which capital became the seat of government for a country after independence in 1975 and is on the north coast?",
+        "options": [
+          "Dili",
+          "Paramaribo",
+          "Praia"
+        ],
+        "answer": "Dili"
+      },
+      {
+        "question": "Which capital's name translates to 'big town' or 'big village' in a local West African language?",
+        "options": [
+          "Ouagadougou",
+          "Bissau",
+          "Niamey"
+        ],
+        "answer": "Ouagadougou"
+      },
+      {
+        "question": "Which small African capital sits on a narrow peninsula and was a colonial trading post for centuries?",
+        "options": [
+          "Banjul",
+          "Victoria",
+          "Freetown"
+        ],
+        "answer": "Banjul"
+      },
+      {
+        "question": "Which Caribbean capital stands on a bay and hosts an annual carnival with strong African influences?",
+        "options": [
+          "Castries",
+          "Roseau",
+          "Kingstown"
+        ],
+        "answer": "Castries"
+      },
+      {
+        "question": "Which capital city is the administrative center of a country that spans both a mainland and several islands?",
+        "options": [
+          "Port Vila",
+          "Port Moresby",
+          "Suva"
+        ],
+        "answer": "Port Vila"
+      },
+      {
+        "question": "Which capital was built on reclaimed land between two islands to serve as the national seat of government?",
+        "options": [
+          "Palikir",
+          "Ngerulmud",
+          "Belmopan"
+        ],
+        "answer": "Ngerulmud"
+      },
+      {
+        "question": "Which capital city is recognized for Baroque and colonial-era architecture linked to a Portuguese colonial past?",
+        "options": [
+          "São Tomé",
+          "Praia",
+          "Maputo"
+        ],
+        "answer": "São Tomé"
+      },
+      {
+        "question": "Which capital is located on an island chain and uses a lagoon and reef system as natural defenses?",
+        "options": [
+          "Majuro",
+          "Victoria",
+          "Malé"
+        ],
+        "answer": "Majuro"
+      },
+      {
+        "question": "Which national capital's airport sits on a different island than the main administrative center, requiring boat transfers?",
+        "options": [
+          "Funafuti (Tuvalu)",
+          "Malé (Maldives)",
+          "Victoria (Seychelles)"
+        ],
+        "answer": "Malé (Maldives)"
+      },
+      {
+        "question": "Which capital city was re-established after colonial rule and now hosts both modern ministries and historic districts?",
+        "options": [
+          "Paramaribo",
+          "Bissau",
+          "Sucre"
+        ],
+        "answer": "Paramaribo"
+      },
+      {
+        "question": "Which capital is the administrative seat for a country where the largest city remains economically dominant abroad?",
+        "options": [
+          "Porto-Novo (Benin)",
+          "Ottawa (Canada)",
+          "Canberra (Australia)"
+        ],
+        "answer": "Porto-Novo (Benin)"
+      },
+      {
+        "question": "Which African capital lies at the confluence of two rivers and serves as a gateway to central Sahel regions?",
+        "options": [
+          "N'Djamena",
+          "Niamey",
+          "Ouagadougou"
+        ],
+        "answer": "N'Djamena"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which capital replaced Koror after construction of a purpose-built capital complex inland in 2006?",
+        "options": [
+          "Ngerulmud",
+          "Palikir",
+          "Majuro"
+        ],
+        "answer": "Ngerulmud"
+      },
+      {
+        "question": "Which capital's relocation ceremony was officially recognized by presidential decree and named Ciudad de la Paz in 2017?",
+        "options": [
+          "Oyala (Ciudad de la Paz)",
+          "Bata",
+          "Malabo"
+        ],
+        "answer": "Oyala (Ciudad de la Paz)"
+      },
+      {
+        "question": "Which capital began as a colonial administrative center named 'Belmonte' before being rebuilt inland as Belmopan in 1970?",
+        "options": [
+          "Belmopan",
+          "Bridgetown",
+          "Port-of-Spain"
+        ],
+        "answer": "Belmopan"
+      },
+      {
+        "question": "Which capital is notable for having no official capital status codified, despite a district acting as the seat of government?",
+        "options": [
+          "Nauru (Yaren)",
+          "Monaco (Monte Carlo)",
+          "Liechtenstein (Vaduz)"
+        ],
+        "answer": "Nauru (Yaren)"
+      },
+      {
+        "question": "Which capital city served as a temporary national capital during independence transition before the seat returned to an older city?",
+        "options": [
+          "Bissau",
+          "Conakry",
+          "Porto-Novo"
+        ],
+        "answer": "Bissau"
+      },
+      {
+        "question": "Which capital's historic district was inscribed as a UNESCO site in 2002 for its wooden colonial architecture?",
+        "options": [
+          "Paramaribo",
+          "Sucre",
+          "Quito"
+        ],
+        "answer": "Paramaribo"
+      },
+      {
+        "question": "Which capital's international airport is built on a reclaimed island separated from the government district by narrow channels?",
+        "options": [
+          "Malé (Velana International)",
+          "Majuro (Marshall Islands)",
+          "Funafuti (Tuvalu)"
+        ],
+        "answer": "Malé (Velana International)"
+      },
+      {
+        "question": "Which capital is located within the traditional kingdom seat of Lobamba, hosting royal ceremonies for a monarchy?",
+        "options": [
+          "Lobamba (Eswatini)",
+          "Maseru (Lesotho)",
+          "Gaborone (Botswana)"
+        ],
+        "answer": "Lobamba (Eswatini)"
+      },
+      {
+        "question": "Which capital was the target of a major relocation plan under President Teodoro Obiang, aiming for growth inland?",
+        "options": [
+          "Malabo to Oyala",
+          "Libreville to Port-Gentil",
+          "Yaoundé to Ebolowa"
+        ],
+        "answer": "Malabo to Oyala"
+      },
+      {
+        "question": "Which capital is the seat of government for a country whose largest city remains the commercial center rather than the official capital?",
+        "options": [
+          "Porto-Novo (Benin)",
+          "Canberra (Australia)",
+          "Abuja (Nigeria)"
+        ],
+        "answer": "Porto-Novo (Benin)"
+      },
+      {
+        "question": "Which capital is uniquely sited on an elevated central plateau that shaped its urban layout and climate?",
+        "options": [
+          "Thimphu (Bhutan)",
+          "Sucre (Bolivia)",
+          "Addis Ababa (Ethiopia)"
+        ],
+        "answer": "Thimphu (Bhutan)"
+      },
+      {
+        "question": "Which capital's name literally translates from the local language as 'where the chiefs meet' in a southern African kingdom?",
+        "options": [
+          "Lobamba",
+          "Maseru",
+          "Gaborone"
+        ],
+        "answer": "Lobamba"
+      },
+      {
+        "question": "Which capital city was moved inland because of vulnerability to hurricanes, following a devastating storm in 1961?",
+        "options": [
+          "Belmopan",
+          "Kingstown",
+          "Bridgetown"
+        ],
+        "answer": "Belmopan"
+      },
+      {
+        "question": "Which capital is the administrative center of a nation where the government functions across multiple islands and a continental mainland?",
+        "options": [
+          "Port Vila (Vanuatu)",
+          "Conakry (Guinea)",
+          "Paramaribo (Suriname)"
+        ],
+        "answer": "Port Vila (Vanuatu)"
+      },
+      {
+        "question": "Which capital's government sits in a city on an island while the country's principal economic hub lies on the mainland?",
+        "options": [
+          "Malabo (Equatorial Guinea)",
+          "Praia (Cabo Verde)",
+          "Bata (Equatorial Guinea)"
+        ],
+        "answer": "Malabo (Equatorial Guinea)"
+      },
+      {
+        "question": "Which capital features a national assembly and royal residence located in separate towns within the nation's dual-capital arrangement?",
+        "options": [
+          "Eswatini (Mbabane and Lobamba)",
+          "South Africa (Pretoria and Cape Town)",
+          "Bolivia (La Paz and Sucre)"
+        ],
+        "answer": "Eswatini (Mbabane and Lobamba)"
+      },
+      {
+        "question": "Which capital was built based on a master plan in a previously undeveloped inland area to reduce coastal vulnerability?",
+        "options": [
+          "Belmopan",
+          "Brasília",
+          "Islamabad"
+        ],
+        "answer": "Belmopan"
+      },
+      {
+        "question": "Which capital's airport requires boat or sea transfer between the airport island and the central urban district?",
+        "options": [
+          "Malé (Maldives)",
+          "Funafuti (Tuvalu)",
+          "Majuro (Marshall Islands)"
+        ],
+        "answer": "Malé (Maldives)"
+      },
+      {
+        "question": "Which national capital lies within a UNESCO-listed historic quarter famous for preserving colonial wooden buildings?",
+        "options": [
+          "Paramaribo",
+          "Bissau",
+          "Zanzibar City"
+        ],
+        "answer": "Paramaribo"
+      },
+      {
+        "question": "Which capital was planned and constructed with foreign technical assistance as part of a post-colonial nation-building project?",
+        "options": [
+          "Ngerulmud (Palau)",
+          "Belmopan (Belize)",
+          "Brasília (Brazil)"
+        ],
+        "answer": "Belmopan (Belize)"
+      },
+      {
+        "question": "Which capital hosted a historic regional summit, boosting its international profile despite its small population?",
+        "options": [
+          "Honiara",
+          "Palikir",
+          "Port Vila"
+        ],
+        "answer": "Honiara"
+      },
+      {
+        "question": "Which capital's founding followed the arrival of European traders and later served as a strategic colonial port?",
+        "options": [
+          "Bissau",
+          "Thimphu",
+          "Palikir"
+        ],
+        "answer": "Bissau"
+      },
+      {
+        "question": "Which capital sits on an atoll lagoon and has a strip-like form with settlements along a narrow reef rim?",
+        "options": [
+          "Majuro",
+          "Suva",
+          "Apia"
+        ],
+        "answer": "Majuro"
+      },
+      {
+        "question": "Which capital's name was changed officially to reflect a vision of national unity and future development in 2017?",
+        "options": [
+          "Oyala to Ciudad de la Paz",
+          "St. John's to Saint John",
+          "Porto-Novo to Porto Novo"
+        ],
+        "answer": "Oyala to Ciudad de la Paz"
+      },
+      {
+        "question": "Which capital serves as a ceremonial royal seat for annual cultural festivals and national rites in its kingdom?",
+        "options": [
+          "Lobamba",
+          "Maseru",
+          "Gaborone"
+        ],
+        "answer": "Lobamba"
+      },
+      {
+        "question": "Which capital replaced a colonial-era port city after independence to provide a safer inland administrative center?",
+        "options": [
+          "Belmopan (replacing Belize City)",
+          "Harare (replacing Salisbury)",
+          "Dodoma (replacing Dar es Salaam)"
+        ],
+        "answer": "Belmopan (replacing Belize City)"
+      },
+      {
+        "question": "Which capital's urban core developed around a natural harbor with a fortress repeatedly rebuilt across centuries?",
+        "options": [
+          "Kingstown",
+          "Castries",
+          "St. John's"
+        ],
+        "answer": "Kingstown"
+      },
+      {
+        "question": "Which capital is recognized for having established government buildings constructed on reclaimed land atop a lagoon?",
+        "options": [
+          "Ngerulmud",
+          "Palikir",
+          "Belmopan"
+        ],
+        "answer": "Ngerulmud"
+      },
+      {
+        "question": "Which capital is known for maintaining ceremonial royal residences separate from the administrative ministries in another city?",
+        "options": [
+          "Eswatini (Lobamba and Mbabane)",
+          "United Kingdom (Buckingham and Westminster)",
+          "Japan (Tokyo and Kyoto)"
+        ],
+        "answer": "Eswatini (Lobamba and Mbabane)"
+      },
+      {
+        "question": "Which capital was designated to reduce exposure to coastal storms and to centralize ministries after a major disaster?",
+        "options": [
+          "Belmopan",
+          "Ngerulmud",
+          "Palikir"
+        ],
+        "answer": "Belmopan"
+      }
+    ]
+  }
+}

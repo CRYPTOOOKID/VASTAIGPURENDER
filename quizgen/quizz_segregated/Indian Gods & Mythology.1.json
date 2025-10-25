@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which goddess is associated with wealth, fortune, and prosperity?",
+      "options": [
+        "Saraswati",
+        "Lakshmi",
+        "Parvati"
+      ],
+      "answer": "Lakshmi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which demon king's death prompted Krishna to reveal his universal form to Arjuna?",
+      "options": [
+        "Jarasandha",
+        "Shishupala",
+        "Kansa"
+      ],
+      "answer": "Kansa"
+    },
+    {
+      "question_id": 3,
+      "question": "Which deity is invoked by the Gayatri Mantra that begins 'Om Bhur Bhuvaḥ Svaḥ'?",
+      "options": [
+        "Indra",
+        "Savitr",
+        "Agni"
+      ],
+      "answer": "Savitr"
+    },
+    {
+      "question_id": 4,
+      "question": "Which weapon is commonly associated with Shiva in iconography?",
+      "options": [
+        "Gada",
+        "Sudarshana Chakra",
+        "Trishula"
+      ],
+      "answer": "Trishula"
+    },
+    {
+      "question_id": 5,
+      "question": "Which goddess is the consort of Shiva and embodies fertility and devotion?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Parvati"
+      ],
+      "answer": "Parvati"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare iconographic form shows Shiva as half woman and half man symbolizing unity of sexes?",
+      "options": [
+        "Bhairava",
+        "Ardhanarishvara",
+        "Lingodbhava"
+      ],
+      "answer": "Ardhanarishvara"
+    },
+    {
+      "question_id": 7,
+      "question": "Which text is a dialogue between Krishna and Arjuna on duty and righteousness?",
+      "options": [
+        "Bhagavad Gita",
+        "Yoga Sutras",
+        "Arthashastra"
+      ],
+      "answer": "Bhagavad Gita"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival honors the divine bond between Krishna and Radha, celebrated in Vrindavan?",
+      "options": [
+        "Pongal",
+        "Raksha Bandhan",
+        "Holi"
+      ],
+      "answer": "Holi"
+    },
+    {
+      "question_id": 9,
+      "question": "Which cosmic serpent supports Vishnu and serves as his bed in Vaikuntha depictions?",
+      "options": [
+        "Takshaka",
+        "Shesha (Ananta)",
+        "Vasuki"
+      ],
+      "answer": "Shesha (Ananta)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which goddess took the form Kali during battle to defeat demons?",
+      "options": [
+        "Sita",
+        "Kali",
+        "Saraswati"
+      ],
+      "answer": "Kali"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Vedic deity governs storms, thunder, and the warrior aspect?",
+      "options": [
+        "Agni",
+        "Indra",
+        "Varuna"
+      ],
+      "answer": "Indra"
+    },
+    {
+      "question_id": 12,
+      "question": "Which sage composed the Harivamsa supplement to the Mahabharata focusing on Krishna's life?",
+      "options": [
+        "Vishwamitra",
+        "Valmiki",
+        "Vyasa"
+      ],
+      "answer": "Vyasa"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is widely known as the remover of obstacles in Hindu tradition?",
+      "options": [
+        "Kartikeya",
+        "Hanuman",
+        "Ganesha"
+      ],
+      "answer": "Ganesha"
+    },
+    {
+      "question_id": 14,
+      "question": "Which epic heroine asked for alms, was married to Rama, and proved her chastity?",
+      "options": [
+        "Sita",
+        "Draupadi",
+        "Tara"
+      ],
+      "answer": "Sita"
+    },
+    {
+      "question_id": 15,
+      "question": "Which form of Shiva is worshipped as the supreme teacher at Chidambaram in Tamil tradition?",
+      "options": [
+        "Rudra",
+        "Pashupati",
+        "Nataraja"
+      ],
+      "answer": "Nataraja"
+    }
+  ]
+}

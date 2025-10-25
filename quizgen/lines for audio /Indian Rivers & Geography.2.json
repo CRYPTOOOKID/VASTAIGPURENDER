@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which river flows through the city of Hyderabad?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which major river flows through Leh in Ladakh before entering Pakistan?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river's estuary contains Sagar Island, an important pilgrimage site near Kolkata?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which ancient pilgrimage city lies on the banks of the Ganga?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which dam creates the Nagarjuna Sagar reservoir on the Krishna River?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river system is designated as National Waterway 1 along the Haldia–Allahabad stretch?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which river system forms the Sundarbans mangrove region?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which river flows into the Arabian Sea at the port of Mangaluru?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which headstream of the Brahmaputra carves one of the world's deepest gorges in Tibet?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which is the longest river in peninsular India?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which tributary of the Brahmaputra has a name meaning 'red' in several local languages?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river's name means 'river of gold' in local languages and flows through eastern India?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river is dammed by the Bhakra Dam?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which river valley corporation pioneered multipurpose projects in eastern India?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river was harnessed by the Sardar Sarovar Project on its Narmada basin for irrigation and power?"
+    }
+  ]
+}

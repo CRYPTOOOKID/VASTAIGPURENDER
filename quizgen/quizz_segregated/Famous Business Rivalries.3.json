@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which two companies led the personal computer operating system market in the 1980s and 1990s?",
+      "options": [
+        "Microsoft and Apple",
+        "IBM and Dell",
+        "Intel and AMD"
+      ],
+      "answer": "Microsoft and Apple"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Japanese electronics company once partnered with Nintendo on a CD-ROM add-on before rivalry events?",
+      "options": [
+        "Sega",
+        "NEC",
+        "Sony"
+      ],
+      "answer": "Sony"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company beat IBM\u000027s PC dominance by licensing MS-DOS, shaping early PC rivalries?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Compaq"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "question_id": 4,
+      "question": "Which aerospace companies compete globally for commercial airliner contracts?",
+      "options": [
+        "Lockheed and Northrop",
+        "Embraer and Bombardier",
+        "Boeing and Airbus"
+      ],
+      "answer": "Boeing and Airbus"
+    },
+    {
+      "question_id": 5,
+      "question": "Which two companies' rivalry included high-profile smartphone patent trials in multiple countries?",
+      "options": [
+        "Microsoft and Google",
+        "Apple and Samsung",
+        "Sony and Huawei"
+      ],
+      "answer": "Apple and Samsung"
+    },
+    {
+      "question_id": 6,
+      "question": "Which landmark 2012 U.S. jury verdict awarded Apple over $1 billion in damages involving which rival?",
+      "options": [
+        "Motorola",
+        "Samsung",
+        "HTC"
+      ],
+      "answer": "Samsung"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fast-food rivalry is associated with the advertising slogan \"Have It Your Way\"?",
+      "options": [
+        "McDonald\u000027s and Wendy\u000027s",
+        "Burger King and McDonald\u000027s",
+        "Wendy\u000027s and Burger King"
+      ],
+      "answer": "Burger King and McDonald\u000027s"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company founded in 1994 became a major rival to traditional retailers like Walmart?",
+      "options": [
+        "Alibaba",
+        "Amazon",
+        "eBay"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 9,
+      "question": "Which European football sponsorship rivalry includes Adidas competing directly with which sports brand?",
+      "options": [
+        "Puma",
+        "Nike",
+        "Under Armour"
+      ],
+      "answer": "Nike"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two gaming companies famously clashed during the 1990s console era?",
+      "options": [
+        "Sony and Microsoft",
+        "Nintendo and Sega",
+        "Atari and Nintendo"
+      ],
+      "answer": "Nintendo and Sega"
+    },
+    {
+      "question_id": 11,
+      "question": "Which sneaker company was founded by brothers Adi and Rudolf Dassler, sparking a sibling rivalry?",
+      "options": [
+        "Adidas and Puma",
+        "Nike and Reebok",
+        "Converse and Vans"
+      ],
+      "answer": "Adidas and Puma"
+    },
+    {
+      "question_id": 12,
+      "question": "Which iconic 1990s console rivalry involved Sega releasing which sound-heavy system failing against competitors?",
+      "options": [
+        "Sega Master System",
+        "Sega Saturn",
+        "Sega CD"
+      ],
+      "answer": "Sega Saturn"
+    },
+    {
+      "question_id": 13,
+      "question": "Which rivalry included a major lawsuit over smartphone design patents during the 2010s?",
+      "options": [
+        "Apple and Samsung",
+        "Motorola and Microsoft",
+        "HTC and Nokia"
+      ],
+      "answer": "Apple and Samsung"
+    },
+    {
+      "question_id": 14,
+      "question": "Which airline rivalries exist in the commercial jet market between Boeing and Airbus involving which plane family?",
+      "options": [
+        "A320 versus 737",
+        "CRJ versus ERJ",
+        "A380 versus 747"
+      ],
+      "answer": "A320 versus 737"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1997 open-market clash saw which company buy out which software rival's assets to gain databases?",
+      "options": [
+        "Oracle bought PeopleSoft assets",
+        "IBM bought Sun assets",
+        "SAP bought Oracle assets"
+      ],
+      "answer": "Oracle bought PeopleSoft assets"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What single-word term describes a systematic deviation or consistent error introduced in measurement or sampling?",
+      "options": [
+        "Variance",
+        "Outlier",
+        "Bias"
+      ],
+      "answer": "Bias"
+    },
+    {
+      "question_id": 2,
+      "question": "Which rank-based correlation coefficient measures the strength of a monotonic relationship between two variables?",
+      "options": [
+        "Pearson's r",
+        "Spearman's rho",
+        "Kendall's tau"
+      ],
+      "answer": "Spearman's rho"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test assesses the equality of variances across groups and is commonly used prior to comparing group means?",
+      "options": [
+        "Shapiro–Wilk test",
+        "Levene's test",
+        "Kolmogorov–Smirnov test"
+      ],
+      "answer": "Levene's test"
+    },
+    {
+      "question_id": 4,
+      "question": "Which statistic commonly denotes strength of evidence against a null hypothesis in many hypothesis tests?",
+      "options": [
+        "Confidence interval",
+        "p-value",
+        "Effect size"
+      ],
+      "answer": "p-value"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fundamental theorem explains why sample means approximate a normal distribution as sample size grows large?",
+      "options": [
+        "Bayes' theorem",
+        "Chebyshev's inequality",
+        "Central Limit Theorem"
+      ],
+      "answer": "Central Limit Theorem"
+    },
+    {
+      "question_id": 6,
+      "question": "Who introduced the boxplot in exploratory data analysis to summarize distribution shape and identify outliers visually?",
+      "options": [
+        "John Tukey",
+        "Francis Galton",
+        "Karl Pearson"
+      ],
+      "answer": "John Tukey"
+    },
+    {
+      "question_id": 7,
+      "question": "Which general term denotes how widely values in a dataset are spread or dispersed around a central value?",
+      "options": [
+        "Dispersion",
+        "Estimation",
+        "Correlation"
+      ],
+      "answer": "Dispersion"
+    },
+    {
+      "question_id": 8,
+      "question": "Which mean is most appropriate for averaging rates such as speeds when equal-distance segments are considered?",
+      "options": [
+        "Harmonic mean",
+        "Geometric mean",
+        "Arithmetic mean"
+      ],
+      "answer": "Harmonic mean"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nonparametric test compares survival distributions between groups using observed-versus-expected event counts over time?",
+      "options": [
+        "Cox proportional hazards model",
+        "Kaplan–Meier estimator",
+        "Log-rank test"
+      ],
+      "answer": "Log-rank test"
+    },
+    {
+      "question_id": 10,
+      "question": "Which plot best visualizes the relationship between two quantitative variables as plotted points?",
+      "options": [
+        "Box plot",
+        "Scatter plot",
+        "Histogram"
+      ],
+      "answer": "Scatter plot"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Victorian-era scientist introduced early ideas about regression toward the mean and anthropometric studies?",
+      "options": [
+        "Karl Pearson",
+        "Francis Galton",
+        "Ronald Fisher"
+      ],
+      "answer": "Francis Galton"
+    },
+    {
+      "question_id": 12,
+      "question": "Which estimator property ensures estimates converge in probability to the true parameter value as sample size increases?",
+      "options": [
+        "Consistency",
+        "Efficiency",
+        "Unbiasedness"
+      ],
+      "answer": "Consistency"
+    },
+    {
+      "question_id": 13,
+      "question": "Which basic measure describes the difference between the maximum and minimum values in a dataset?",
+      "options": [
+        "Interquartile range",
+        "Range",
+        "Variance"
+      ],
+      "answer": "Range"
+    },
+    {
+      "question_id": 14,
+      "question": "Which parametric test compares the means of two independent groups assuming approximate normality and similar variances?",
+      "options": [
+        "Two-sample t-test",
+        "Chi-square test",
+        "Wilcoxon test"
+      ],
+      "answer": "Two-sample t-test"
+    },
+    {
+      "question_id": 15,
+      "question": "Which information criterion balances model fit against complexity by adding a penalty proportional to number of parameters?",
+      "options": [
+        "p-value",
+        "R-squared",
+        "Akaike Information Criterion"
+      ],
+      "answer": "Akaike Information Criterion"
+    }
+  ]
+}

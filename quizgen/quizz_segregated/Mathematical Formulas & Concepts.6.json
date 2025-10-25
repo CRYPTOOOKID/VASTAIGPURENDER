@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the factorial of 4 (4!)?",
+      "options": [
+        "12",
+        "24",
+        "16"
+      ],
+      "answer": "24"
+    },
+    {
+      "question_id": 2,
+      "question": "What is Heron's formula for a triangle area given sides a,b,c?",
+      "options": [
+        "(a+b+c)/2",
+        "√(s(s-a)(s-b)(s-c))",
+        "(abc)/4R"
+      ],
+      "answer": "√(s(s-a)(s-b)(s-c))"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the form of Cauchy-Schwarz inequality for vectors u,v?",
+      "options": [
+        "u·v ≥ ||u|| ||v||",
+        "|u·v| ≤ ||u|| ||v||",
+        "|u·v| = ||u||+||v||"
+      ],
+      "answer": "|u·v| ≤ ||u|| ||v||"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the common ratio in a geometric sequence 2, 6, 18...?",
+      "options": [
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the formula for centripetal force for mass m rotating speed v radius r?",
+      "options": [
+        "mv^2/r",
+        "mvr",
+        "mr^2"
+      ],
+      "answer": "mv^2/r"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the asymptotic density of primes described by the prime number theorem?",
+      "options": [
+        "π(x) ~ ln x",
+        "π(x) = x^2",
+        "π(x) ~ x / ln x"
+      ],
+      "answer": "π(x) ~ x / ln x"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'm' usually represent in y = mx + b?",
+      "options": [
+        "x-coordinate",
+        "y-intercept",
+        "slope of the line"
+      ],
+      "answer": "slope of the line"
+    },
+    {
+      "question_id": 8,
+      "question": "Which transform converts a time-domain function to frequency-domain?",
+      "options": [
+        "Fourier transform",
+        "Laplace transform",
+        "Z-transform"
+      ],
+      "answer": "Fourier transform"
+    },
+    {
+      "question_id": 9,
+      "question": "Which method constructs analytic continuation of complex functions using contour integrals?",
+      "options": [
+        "Taylor series only",
+        "Laplace expansion",
+        "Cauchy integral formula"
+      ],
+      "answer": "Cauchy integral formula"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the value of pi commonly approximated as?",
+      "options": [
+        "3.14",
+        "1.62",
+        "2.72"
+      ],
+      "answer": "3.14"
+    },
+    {
+      "question_id": 11,
+      "question": "Which inequality bounds arithmetic and geometric means?",
+      "options": [
+        "AM = GM always",
+        "AM ≥ GM",
+        "AM ≤ GM"
+      ],
+      "answer": "AM ≥ GM"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the principal value integral used for handling?",
+      "options": [
+        "absolutely convergent integrals",
+        "finite sums",
+        "singular integrals with symmetric limit"
+      ],
+      "answer": "singular integrals with symmetric limit"
+    },
+    {
+      "question_id": 13,
+      "question": "Which identity converts degrees to radians?",
+      "options": [
+        "degrees = radians × 180/π",
+        "degrees = radians × π",
+        "radians = degrees × π/180"
+      ],
+      "answer": "radians = degrees × π/180"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invariant measures curvature of a 2D surface embedded in 3D at a point?",
+      "options": [
+        "Gaussian curvature",
+        "mean curvature",
+        "scalar curvature"
+      ],
+      "answer": "Gaussian curvature"
+    },
+    {
+      "question_id": 15,
+      "question": "Which transform pairs products of functions with convolutions of transforms in Mellin analysis used for scale invariance?",
+      "options": [
+        "Mellin transform",
+        "Z-transform",
+        "Hilbert transform"
+      ],
+      "answer": "Mellin transform"
+    }
+  ]
+}

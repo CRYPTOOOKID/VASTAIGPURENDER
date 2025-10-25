@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which two rival brands are known for their athletic sneakers and celebrity endorsements?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company acquired Pixar in 2006, strengthening its animation and studio rivalry?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which electric vehicle entry targeted by traditional automakers used which battery innovation early on?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which tech rivalry featured Macintosh versus Windows personal computers?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which rivalry included a famous antitrust lawsuit filed against Microsoft in the late 1990s?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which tech CEO publicly called out competitive products during a 1997 open letter that affected rivalries?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which coffee chains are well-known rivals in the United States?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which footwear brand began as Blue Ribbon Sports before becoming its well-known rival?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which legal settlement in 2018 ended a long design dispute between Apple and which supplier over chips?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two companies battled over online marketplaces in the early internet era?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ride-hailing company founded in 2012 became a primary challenger to Uber?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Coca-Cola product name did the company reintroduce as \"Classic\" after consumer backlash in 1985?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which rivalry is famous for the Big Mac versus the Whopper burgers?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which video rental chain filed for bankruptcy in 2010 during disruption by streaming rivals?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which airline manufacturer launched the A380 partly to counter which rival's large jet family?"
+    }
+  ]
+}

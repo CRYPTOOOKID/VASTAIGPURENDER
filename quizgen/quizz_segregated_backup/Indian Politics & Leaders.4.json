@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which amendment lowered the Indian voting age from 21 to 18?",
+      "options": [
+        "61st Amendment",
+        "42nd Amendment",
+        "44th Amendment"
+      ],
+      "answer": "61st Amendment"
+    },
+    {
+      "question_id": 2,
+      "question": "Who was India’s first Finance Minister in the post-independence interim government?",
+      "options": [
+        "R. K. Shanmukham Chetty",
+        "John Mathai",
+        "C. Rajagopalachari"
+      ],
+      "answer": "R. K. Shanmukham Chetty"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Prime Minister led India when economic reforms drew IMF support in 1991?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "Chandra Shekhar",
+        "V. P. Singh"
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 4,
+      "question": "Which document is the supreme law of India?",
+      "options": [
+        "Constitution of India",
+        "Indian Penal Code",
+        "Representation of the People Act"
+      ],
+      "answer": "Constitution of India"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did the Right to Information Act become law in India?",
+      "options": [
+        "2005",
+        "1999",
+        "2010"
+      ],
+      "answer": "2005"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Prime Minister’s government oversaw liberalization beginning in 1991?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "Rajiv Gandhi",
+        "Atal Bihari Vajpayee"
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 7,
+      "question": "Who served the longest continuous term as India’s Prime Minister?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Indira Gandhi",
+        "Atal Bihari Vajpayee"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 8,
+      "question": "Who chaired the Drafting Committee of the Constituent Assembly?",
+      "options": [
+        "B. R. Ambedkar",
+        "Alladi Krishnaswami Ayyar",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Prime Minister signed the 1972 Shimla Agreement with Pakistan?",
+      "options": [
+        "Indira Gandhi",
+        "Lal Bahadur Shastri",
+        "Morarji Desai"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 10,
+      "question": "Which house of Parliament is called the upper house?",
+      "options": [
+        "Rajya Sabha",
+        "Lok Sabha",
+        "State Legislative Assembly"
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 11,
+      "question": "Which national body recommends changes to state boundaries and administration?",
+      "options": [
+        "States Reorganisation Commission",
+        "Election Commission",
+        "Finance Commission"
+      ],
+      "answer": "States Reorganisation Commission"
+    },
+    {
+      "question_id": 12,
+      "question": "Which leader initiated the Green Revolution policy framework for India in the 1960s?",
+      "options": [
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question_id": 13,
+      "question": "Which house of Parliament is called the lower house?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Legislative Council"
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "question_id": 14,
+      "question": "Who served as India’s first Chief Election Commissioner?",
+      "options": [
+        "Sukumar Sen",
+        "T. N. Seshan",
+        "S. Y. Quraishi"
+      ],
+      "answer": "Sukumar Sen"
+    },
+    {
+      "question_id": 15,
+      "question": "Which landmark case limited Parliament’s power to amend the Constitution in 1973?",
+      "options": [
+        "Kesavananda Bharati v. State of Kerala",
+        "Maneka Gandhi v. Union of India",
+        "Minerva Mills v. Union of India"
+      ],
+      "answer": "Kesavananda Bharati v. State of Kerala"
+    }
+  ]
+}

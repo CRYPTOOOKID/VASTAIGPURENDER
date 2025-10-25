@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who commissioned the Taj Mahal in Agra?",
+        "options": [
+          "Shah Jahan",
+          "Akbar",
+          "Aurangzeb"
+        ],
+        "answer": "Shah Jahan"
+      },
+      {
+        "question": "In which Indian city is the Red Fort located?",
+        "options": [
+          "New Delhi",
+          "Agra",
+          "Lucknow"
+        ],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "Which monument is famously called the Sun Temple at Konark?",
+        "options": [
+          "The Black Pagoda",
+          "Jagannath Temple",
+          "Lingaraja Temple"
+        ],
+        "answer": "The Black Pagoda"
+      },
+      {
+        "question": "Which caves are known for ancient Buddhist frescoes in Maharashtra?",
+        "options": [
+          "Ajanta Caves",
+          "Elephanta Caves",
+          "Bhimbetka Caves"
+        ],
+        "answer": "Ajanta Caves"
+      },
+      {
+        "question": "Which structure is a famous gateway built in Mumbai to commemorate a royal visit?",
+        "options": [
+          "Gateway of India",
+          "Victoria Terminus",
+          "Prince of Wales Gate"
+        ],
+        "answer": "Gateway of India"
+      },
+      {
+        "question": "What is the main material used in Agra's Red Fort construction?",
+        "options": [
+          "Red sandstone",
+          "White marble",
+          "Granite"
+        ],
+        "answer": "Red sandstone"
+      },
+      {
+        "question": "Which medieval tower in Delhi was started by Qutb-ud-din Aibak?",
+        "options": [
+          "Qutub Minar",
+          "Alai Minar",
+          "Hauz Khas Minar"
+        ],
+        "answer": "Qutub Minar"
+      },
+      {
+        "question": "Where is the Brihadeeswarar Temple located?",
+        "options": [
+          "Thanjavur",
+          "Madurai",
+          "Chidambaram"
+        ],
+        "answer": "Thanjavur"
+      },
+      {
+        "question": "Which monument houses the India Gate War Memorial beneath its arch?",
+        "options": [
+          "India Gate",
+          "Jallianwala Bagh",
+          "Wagah Border Monument"
+        ],
+        "answer": "India Gate"
+      },
+      {
+        "question": "Which palace is the official residence of the Wodeyar dynasty in Mysore?",
+        "options": [
+          "Mysore Palace",
+          "Tipu Sultan Palace",
+          "Vidhana Soudha"
+        ],
+        "answer": "Mysore Palace"
+      },
+      {
+        "question": "Which monument in Delhi is the tomb of Emperor Humayun?",
+        "options": [
+          "Humayun's Tomb",
+          "Safdarjung's Tomb",
+          "Itimad-ud-Daulah"
+        ],
+        "answer": "Humayun's Tomb"
+      },
+      {
+        "question": "Which temple complex in Khajuraho is known for erotic sculptures?",
+        "options": [
+          "Khajuraho Group of Temples",
+          "Bateshwar Temples",
+          "Omkareshwar Temple"
+        ],
+        "answer": "Khajuraho Group of Temples"
+      },
+      {
+        "question": "Which fort near Hyderabad is renowned for its acoustics and diamond trade history?",
+        "options": [
+          "Golconda Fort",
+          "Charminar Fort",
+          "Golkonda Citadel"
+        ],
+        "answer": "Golconda Fort"
+      },
+      {
+        "question": "Which city hosts the Victoria Memorial, a British-era monument?",
+        "options": [
+          "Kolkata",
+          "Mumbai",
+          "Chennai"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which rock-cut site near Mumbai is known for Hindu cave temples on an island?",
+        "options": [
+          "Elephanta Caves",
+          "Kanheri Caves",
+          "Karla Caves"
+        ],
+        "answer": "Elephanta Caves"
+      },
+      {
+        "question": "Which cave complex combines Buddhist, Hindu, and Jain monuments in Maharashtra?",
+        "options": [
+          "Ellora Caves",
+          "Ajanta Caves",
+          "Karle Caves"
+        ],
+        "answer": "Ellora Caves"
+      },
+      {
+        "question": "Which Mughal garden tomb inspired later Mughal architecture and sits in Delhi?",
+        "options": [
+          "Humayun's Tomb",
+          "Safdarjung's Tomb",
+          "Itimad-ud-Daulah"
+        ],
+        "answer": "Humayun's Tomb"
+      },
+      {
+        "question": "Which monument features a musical stone chariot in Hampi?",
+        "options": [
+          "Vittala Temple",
+          "Virupaksha Temple",
+          "Hemakuta Hill Temple"
+        ],
+        "answer": "Vittala Temple"
+      },
+      {
+        "question": "Which city is home to the Charminar landmark?",
+        "options": [
+          "Hyderabad",
+          "Bengaluru",
+          "Pune"
+        ],
+        "answer": "Hyderabad"
+      },
+      {
+        "question": "Which stupas at Sanchi are associated with Emperor Ashoka?",
+        "options": [
+          "Sanchi Stupa",
+          "Buddha Stupa of Nalanda",
+          "Barabar Caves"
+        ],
+        "answer": "Sanchi Stupa"
+      },
+      {
+        "question": "Which fort in Rajasthan is built on a hill and famed for its palaces?",
+        "options": [
+          "Amber Fort",
+          "Mehrangarh Fort",
+          "Kumbhalgarh Fort"
+        ],
+        "answer": "Amber Fort"
+      },
+      {
+        "question": "Which Mughal-era mausoleum is called the 'Baby Taj' in Agra?",
+        "options": [
+          "Itimad-ud-Daulah",
+          "Jama Masjid",
+          "Moti Masjid"
+        ],
+        "answer": "Itimad-ud-Daulah"
+      },
+      {
+        "question": "Which city contains the rock-cut Kailasa temple carved from a single rock?",
+        "options": [
+          "Ellora",
+          "Ajanta",
+          "Aurangabad"
+        ],
+        "answer": "Ellora"
+      },
+      {
+        "question": "Which temple in Madurai is famous for its gopurams and annual chariot festival?",
+        "options": [
+          "Meenakshi Amman Temple",
+          "Ramanathaswamy Temple",
+          "Kapaleeshwarar Temple"
+        ],
+        "answer": "Meenakshi Amman Temple"
+      },
+      {
+        "question": "Which monument in Agra is a marble mausoleum and UNESCO World Heritage Site?",
+        "options": [
+          "Taj Mahal",
+          "Agra Fort",
+          "Akbar's Tomb"
+        ],
+        "answer": "Taj Mahal"
+      },
+      {
+        "question": "Which British-era memorial on Kolkata's Victoria Memorial grounds honors Queen Victoria?",
+        "options": [
+          "Victoria Memorial itself",
+          "St. Paul's Cathedral",
+          "Fort William"
+        ],
+        "answer": "Victoria Memorial itself"
+      },
+      {
+        "question": "Which Dravidian-style temple is known for its towering gopuram at Thanjavur?",
+        "options": [
+          "Brihadeeswarar Temple",
+          "Rameswaram Temple",
+          "Madurai Meenakshi Temple"
+        ],
+        "answer": "Brihadeeswarar Temple"
+      },
+      {
+        "question": "Which coastal fort near Puri houses a famous Hanuman temple and sea views?",
+        "options": [
+          "Chilika Fort",
+          "Konark Fort",
+          "Chandrabhaga Fort"
+        ],
+        "answer": "Konark Fort"
+      },
+      {
+        "question": "Which monument in Delhi was designed by Edwin Lutyens as a war memorial?",
+        "options": [
+          "India Gate",
+          "Rashtrapati Bhavan",
+          "Parliament House"
+        ],
+        "answer": "India Gate"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which architect is commonly credited with designing the Taj Mahal?",
+        "options": [
+          "Ustad Ahmad Lahauri",
+          "Mirak Mirza Ghiyas",
+          "William Emerson"
+        ],
+        "answer": "Ustad Ahmad Lahauri"
+      },
+      {
+        "question": "Which Mughal emperor founded Fatehpur Sikri as his capital?",
+        "options": [
+          "Akbar",
+          "Babur",
+          "Jahangir"
+        ],
+        "answer": "Akbar"
+      },
+      {
+        "question": "Which 11th century dynasty built the Khajuraho temples?",
+        "options": [
+          "Chandela",
+          "Chola",
+          "Pala"
+        ],
+        "answer": "Chandela"
+      },
+      {
+        "question": "How many surviving major temples form the Khajuraho Group of Monuments today?",
+        "options": [
+          "About 25",
+          "About 50",
+          "About 10"
+        ],
+        "answer": "About 25"
+      },
+      {
+        "question": "Which UNESCO year lists Ajanta Caves as a World Heritage Site?",
+        "options": [
+          "1983",
+          "1992",
+          "2001"
+        ],
+        "answer": "1983"
+      },
+      {
+        "question": "Which Mughal structure in Agra served as both fortress and royal residence?",
+        "options": [
+          "Agra Fort",
+          "Jama Masjid",
+          "Itmad Complex"
+        ],
+        "answer": "Agra Fort"
+      },
+      {
+        "question": "Which technique of inlay using semi-precious stones decorates the Taj Mahal?",
+        "options": [
+          "Pietra dura",
+          "Fresco secco",
+          "Gilding"
+        ],
+        "answer": "Pietra dura"
+      },
+      {
+        "question": "Which Delhi complex contains the Iron Pillar famous for rust resistance?",
+        "options": [
+          "Qutub Complex",
+          "Red Fort Complex",
+          "Humayun's Complex"
+        ],
+        "answer": "Qutub Complex"
+      },
+      {
+        "question": "Which gateway at Fatehpur Sikri reflects Akbar's victory in Gujarat?",
+        "options": [
+          "Buland Darwaza",
+          "Lal Darwaza",
+          "Jama Darwaza"
+        ],
+        "answer": "Buland Darwaza"
+      },
+      {
+        "question": "Which ruler commissioned the Kailasa Temple at Ellora?",
+        "options": [
+          "Krishna I of the Rashtrakuta dynasty",
+          "Pulakeshin II",
+          "Harsha"
+        ],
+        "answer": "Krishna I of the Rashtrakuta dynasty"
+      },
+      {
+        "question": "Which southern temple complex is a UNESCO site titled 'Great Living Chola Temples'?",
+        "options": [
+          "Brihadeeswarar and related temples",
+          "Meenakshi complex",
+          "Ramanathaswamy complex"
+        ],
+        "answer": "Brihadeeswarar and related temples"
+      },
+      {
+        "question": "Which mosque in Delhi was commissioned by Shah Jahan and remains among India's largest?",
+        "options": [
+          "Jama Masjid",
+          "Fatehpuri Masjid",
+          "Jama Masjid of Agra"
+        ],
+        "answer": "Jama Masjid"
+      },
+      {
+        "question": "Which Ajanta cave contains notable scenes of Bodhisattva figures and court life paintings?",
+        "options": [
+          "Cave 1",
+          "Cave 10",
+          "Cave 30"
+        ],
+        "answer": "Cave 1"
+      },
+      {
+        "question": "Which 16th-century city contains the famous bulbous-domed Itmad-ud-Daulah tomb?",
+        "options": [
+          "Agra",
+          "Delhi",
+          "Jaipur"
+        ],
+        "answer": "Agra"
+      },
+      {
+        "question": "Which coastal shrine at Konark aligns with the rising sun and chariot symbolism?",
+        "options": [
+          "Sun Temple",
+          "Jagannath Temple",
+          "Kapileswar Temple"
+        ],
+        "answer": "Sun Temple"
+      },
+      {
+        "question": "Which monument in Chennai commemorates the British victory and is also a museum?",
+        "options": [
+          "Fort St. George",
+          "Victoria Memorial",
+          "Ripon Building"
+        ],
+        "answer": "Fort St. George"
+      },
+      {
+        "question": "Which ruler commissioned the construction of Humayun's Tomb in the 16th century?",
+        "options": [
+          "Haji Begum",
+          "Nur Jahan",
+          "Jahanara Begum"
+        ],
+        "answer": "Haji Begum"
+      },
+      {
+        "question": "Which famous musical pillars are found in Vittala Temple at Hampi?",
+        "options": [
+          "56 musical pillars",
+          "34 drum pillars",
+          "12 bell pillars"
+        ],
+        "answer": "56 musical pillars"
+      },
+      {
+        "question": "Which Indo-Islamic style palace in Rajasthan exhibits painted ceilings and mirrors?",
+        "options": [
+          "City Palace, Udaipur",
+          "Jaisalmer Fort",
+          "Amber Fort"
+        ],
+        "answer": "City Palace, Udaipur"
+      },
+      {
+        "question": "Which British architect designed the overall plan for New Delhi including Rashtrapati Bhavan?",
+        "options": [
+          "Edwin Lutyens",
+          "George Wittet",
+          "William Emerson"
+        ],
+        "answer": "Edwin Lutyens"
+      },
+      {
+        "question": "Which temple at Mahabalipuram features rock-cut rathas (chariots) from Pallava times?",
+        "options": [
+          "Pancha Rathas",
+          "Shore Temple",
+          "Varaha Cave"
+        ],
+        "answer": "Pancha Rathas"
+      },
+      {
+        "question": "Which archaeological site hosts the largest surviving monolithic stone chariot in India?",
+        "options": [
+          "Hampi",
+          "Khajuraho",
+          "Konark"
+        ],
+        "answer": "Hampi"
+      },
+      {
+        "question": "Which fort near Jaipur is famous for its Sheesh Mahal with mirror work?",
+        "options": [
+          "Amber Fort",
+          "Jaigarh Fort",
+          "Nahargarh Fort"
+        ],
+        "answer": "Amber Fort"
+      },
+      {
+        "question": "Which ancient university ruins near Patna are associated with Nalanda heritage?",
+        "options": [
+          "Nalanda University ruins",
+          "Takshashila ruins",
+          "Vikramashila ruins"
+        ],
+        "answer": "Nalanda University ruins"
+      },
+      {
+        "question": "Which Mughal garden in Srinagar was built by Jahangir for his wife Nur Jahan?",
+        "options": [
+          "Shalimar Bagh",
+          "Nishat Bagh",
+          "Chashme Shahi"
+        ],
+        "answer": "Shalimar Bagh"
+      },
+      {
+        "question": "Which hilltop fortress in Jhansi symbolizes Rani Lakshmibai's defence in 1857?",
+        "options": [
+          "Jhansi Fort",
+          "Gwalior Fort",
+          "Kalpi Fort"
+        ],
+        "answer": "Jhansi Fort"
+      },
+      {
+        "question": "Which rock architecture at Badami represents early Chalukya temple styles?",
+        "options": [
+          "Badami cave temples",
+          "Pattadakal temple complex",
+          "Aihole ruins"
+        ],
+        "answer": "Badami cave temples"
+      },
+      {
+        "question": "Which Indian monument's central dome was an inspiration for later Mughal architecture?",
+        "options": [
+          "Humayun's Tomb",
+          "Qutub Minar",
+          "Sanchi Stupa"
+        ],
+        "answer": "Humayun's Tomb"
+      },
+      {
+        "question": "Which British-era building in Kolkata blends Indo-Saracenic and classical European styles?",
+        "options": [
+          "Victoria Memorial",
+          "St. John's Church",
+          "Writers' Building"
+        ],
+        "answer": "Victoria Memorial"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which craftsman is traditionally credited for the main marble inlay design of the Taj Mahal?",
+        "options": [
+          "Amanat Khan",
+          "Mir Sayyid Ali",
+          "Abdul Hamid"
+        ],
+        "answer": "Amanat Khan"
+      },
+      {
+        "question": "Which year did Hampi's Group of Monuments receive UNESCO World Heritage status?",
+        "options": [
+          "1986",
+          "1978",
+          "1999"
+        ],
+        "answer": "1986"
+      },
+      {
+        "question": "Which inscription on the Qutb Iron Pillar links it to Gupta ruler Chandragupta II?",
+        "options": [
+          "Vishnugupta",
+          "Skandagupta",
+          "Samudragupta"
+        ],
+        "answer": "Vishnugupta"
+      },
+      {
+        "question": "Which structure at Fatehpur Sikri served as Akbar's private audience hall?",
+        "options": [
+          "Ibadat Khana",
+          "Diwan-e-Aam",
+          "Diwan-e-Khas"
+        ],
+        "answer": "Diwan-e-Khas"
+      },
+      {
+        "question": "Which rock-cut Kailasa temple at Ellora replicates a complete temple from top down?",
+        "options": [
+          "Kailasa (Cave 16)",
+          "Indra Sabha (Cave 32)",
+          "Ravana Phadi (Cave 10)"
+        ],
+        "answer": "Kailasa (Cave 16)"
+      },
+      {
+        "question": "Which year was the Taj Mahal officially inscribed as a UNESCO World Heritage Site?",
+        "options": [
+          "1983",
+          "1975",
+          "1993"
+        ],
+        "answer": "1983"
+      },
+      {
+        "question": "Which Southern dynasty built the Airavatesvara Temple included in Chola heritage?",
+        "options": [
+          "Chola",
+          "Pallava",
+          "Pandya"
+        ],
+        "answer": "Chola"
+      },
+      {
+        "question": "Which ancient stepwell at Patan features ornate sculptures and was UNESCO-inscribed in 2014?",
+        "options": [
+          "Rani ki Vav",
+          "Adalaj Stepwell",
+          "Dada Harir Stepwell"
+        ],
+        "answer": "Rani ki Vav"
+      },
+      {
+        "question": "Which fort complex includes the Rang Mahal and Diwan-i-Khas built by Shah Jahan?",
+        "options": [
+          "Agra Fort",
+          "Red Fort Delhi",
+          "Fatehpur Sikri Fort"
+        ],
+        "answer": "Agra Fort"
+      },
+      {
+        "question": "Which Indian monument's central dome is encircled by four minarets that tilt outward slightly?",
+        "options": [
+          "Taj Mahal",
+          "Humayun's Tomb",
+          "Itmad-ud-Daulah"
+        ],
+        "answer": "Taj Mahal"
+      },
+      {
+        "question": "Which emirate's architectural program includes the UNESCO-listed Elephanta Caves date?",
+        "options": [
+          "7th to 8th century mainly",
+          "10th to 11th century",
+          "15th to 16th century"
+        ],
+        "answer": "7th to 8th century mainly"
+      },
+      {
+        "question": "Which Persian engineer supervised Humayun's Tomb construction under Haji Begum?",
+        "options": [
+          "Mirak Mirza Ghiyas",
+          "Ustad Ahmad Lahauri",
+          "Sayyid Muhammad"
+        ],
+        "answer": "Mirak Mirza Ghiyas"
+      },
+      {
+        "question": "Which Vijayanagara monument contains stone pillars that emit tuned musical notes?",
+        "options": [
+          "Vittala Temple",
+          "Virupaksha Temple",
+          "Lotus Mahal"
+        ],
+        "answer": "Vittala Temple"
+      },
+      {
+        "question": "Which Mughal-era designer created the garden layout for Shalimar Bagh in Srinagar?",
+        "options": [
+          "Nawab Shah Jahan's designers",
+          "Jahangir's garden planners",
+          "Nur Jahan's court architects"
+        ],
+        "answer": "Jahangir's garden planners"
+      },
+      {
+        "question": "Which temple in Konark originally had a massive wheel and chariot motif representing the sun god?",
+        "options": [
+          "Sun Temple",
+          "Jagannath Temple",
+          "Lingaraja Temple"
+        ],
+        "answer": "Sun Temple"
+      },
+      {
+        "question": "Which monumental gateway did Alauddin Khalji commission within the Qutb complex?",
+        "options": [
+          "Alai Darwaza",
+          "Quwwat-ul-Islam Gate",
+          "Alauddin Gate"
+        ],
+        "answer": "Alai Darwaza"
+      },
+      {
+        "question": "Which Mughal monument in Delhi experienced major restoration controversies in the 20th century?",
+        "options": [
+          "Red Fort",
+          "Purana Qila",
+          "Jama Masjid"
+        ],
+        "answer": "Red Fort"
+      },
+      {
+        "question": "Which ancient Indian capital's ruins include the famous Udayagiri and Khandagiri caves?",
+        "options": [
+          "Khumar",
+          "Pataliputra",
+          "Bhubaneswar"
+        ],
+        "answer": "Bhubaneswar"
+      },
+      {
+        "question": "Which metal property of the Iron Pillar explains its remarkable corrosion resistance?",
+        "options": [
+          "High phosphorus content",
+          "High copper content",
+          "High chromium content"
+        ],
+        "answer": "High phosphorus content"
+      },
+      {
+        "question": "Which marble inlay style at Agra uses precious stones like lapis and jasper?",
+        "options": [
+          "Pietra dura",
+          "Intaglio carving",
+          "Repoussé"
+        ],
+        "answer": "Pietra dura"
+      },
+      {
+        "question": "Which 10th-century Chalukya site is recognized for its temple-pavilion experiments at Pattadakal?",
+        "options": [
+          "Pattadakal temple complex",
+          "Aihole temple complex",
+          "Badami cave complex"
+        ],
+        "answer": "Pattadakal temple complex"
+      },
+      {
+        "question": "Which British engineer designed the Gateway of India in Mumbai in 1911?",
+        "options": [
+          "George Wittet",
+          "Edwin Lutyens",
+          "William Emerson"
+        ],
+        "answer": "George Wittet"
+      },
+      {
+        "question": "Which Mughal monument's Quranic calligraphy was executed by Amanat Khan according to some sources?",
+        "options": [
+          "Taj Mahal",
+          "Jama Masjid",
+          "Humayun's Tomb"
+        ],
+        "answer": "Taj Mahal"
+      },
+      {
+        "question": "Which fort in India houses the world's largest cannon called 'Jaivana' placed on carriage?",
+        "options": [
+          "Jaipur's Jaigarh Fort",
+          "Mehrangarh Fort",
+          "Golconda Fort"
+        ],
+        "answer": "Jaipur's Jaigarh Fort"
+      },
+      {
+        "question": "Which 11th-century temple's vimana ranks among tallest of Chola architecture?",
+        "options": [
+          "Brihadeeswarar Temple",
+          "Gangaikonda Cholapuram Temple",
+          "Airavatesvara Temple"
+        ],
+        "answer": "Brihadeeswarar Temple"
+      },
+      {
+        "question": "Which cave complex's paintings include the famous Ajanta panel showing Prince Siddhartha's life?",
+        "options": [
+          "Ajanta Caves",
+          "Ellora Caves",
+          "Bagh Caves"
+        ],
+        "answer": "Ajanta Caves"
+      },
+      {
+        "question": "Which 17th-century Mughal horticultural practice influenced garden tomb layouts across India?",
+        "options": [
+          "Charbagh symmetrical layout",
+          "Terraced hill gardens",
+          "Meandering lawns"
+        ],
+        "answer": "Charbagh symmetrical layout"
+      },
+      {
+        "question": "Which Indian monument features the motif of dancing apsaras carved extensively on its walls?",
+        "options": [
+          "Khajuraho temples",
+          "Konark Sun Temple",
+          "Ellora Kailasa Temple"
+        ],
+        "answer": "Khajuraho temples"
+      },
+      {
+        "question": "Which archaeological site in Tamil Nadu preserves rock-cut temples from Pallava and early Chola periods?",
+        "options": [
+          "Mahabalipuram",
+          "Thanjavur",
+          "Madurai"
+        ],
+        "answer": "Mahabalipuram"
+      },
+      {
+        "question": "Which ancient Indian capital complex includes the Ashokan Lion Capital now national emblem?",
+        "options": [
+          "Sarnath",
+          "Sanchi",
+          "Lumbini"
+        ],
+        "answer": "Sarnath"
+      },
+      {
+        "question": "Which temple at Hampi preserves the famous stone chariot and carved musical pillars?",
+        "options": [
+          "Vittala Temple",
+          "Virupaksha Temple",
+          "Hazara Rama Temple"
+        ],
+        "answer": "Vittala Temple"
+      },
+      {
+        "question": "Which UNESCO-listed complex includes caves created by Buddhist monks between second century BCE and sixth century CE?",
+        "options": [
+          "Ajanta Caves",
+          "Elephanta Caves",
+          "Ellora Caves"
+        ],
+        "answer": "Ajanta Caves"
+      }
+    ]
+  }
+}

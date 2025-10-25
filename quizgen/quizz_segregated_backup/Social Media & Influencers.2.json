@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a \"follower\" mean on social media platforms?",
+      "options": [
+        "Someone who subscribes to a profile",
+        "A paid advertiser for a profile",
+        "A platform moderator account"
+      ],
+      "answer": "Someone who subscribes to a profile"
+    },
+    {
+      "question_id": 2,
+      "question": "Which analytics metric indicates how often a post inspires direct responses like comments?",
+      "options": [
+        "Engagement actions per post",
+        "Average video length",
+        "Number of scheduled posts"
+      ],
+      "answer": "Engagement actions per post"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company acquired influencer marketing platform Influential in 2018?",
+      "options": [
+        "NegociosOnline (Acquired by M&C Saatchi?)",
+        "Acquisition details varied publicly",
+        "Facebook"
+      ],
+      "answer": "Acquisition details varied publicly"
+    },
+    {
+      "question_id": 4,
+      "question": "What feature lets users save short video drafts before posting?",
+      "options": [
+        "Drafts",
+        "Watch Later",
+        "Pinned Collections"
+      ],
+      "answer": "Drafts"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the typical purpose of a brand's brief for an influencer campaign?",
+      "options": [
+        "Outline goals, deliverables, and messaging",
+        "Provide login credentials to brand accounts",
+        "List platform moderation rules only"
+      ],
+      "answer": "Outline goals, deliverables, and messaging"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country had early large-scale influencer commerce practices shaping global trends?",
+      "options": [
+        "China",
+        "Canada",
+        "Iceland"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"brand ambassador\" in influencer marketing?",
+      "options": [
+        "Long-term creator representing a brand",
+        "A temporary moderator hired by a platform",
+        "A user who only comments on posts"
+      ],
+      "answer": "Long-term creator representing a brand"
+    },
+    {
+      "question_id": 8,
+      "question": "Which social network introduced \"Pins\" and visual discovery in 2010?",
+      "options": [
+        "Pinterest",
+        "Tumblr",
+        "Flickr"
+      ],
+      "answer": "Pinterest"
+    },
+    {
+      "question_id": 9,
+      "question": "Which influencer monetization model shares ad revenue directly with creators?",
+      "options": [
+        "Platform partner programs",
+        "One-off gifted products only",
+        "Manual barter agreements"
+      ],
+      "answer": "Platform partner programs"
+    },
+    {
+      "question_id": 10,
+      "question": "What is an \"influencer\" primarily recognized for?",
+      "options": [
+        "Shaping audience opinions through content",
+        "Managing platform algorithms directly",
+        "Providing customer support for brands"
+      ],
+      "answer": "Shaping audience opinions through content"
+    },
+    {
+      "question_id": 11,
+      "question": "What does a \"brand safety\" check aim to prevent in influencer content?",
+      "options": [
+        "Association with harmful or inappropriate content",
+        "Using too many hashtags",
+        "Posting at non-peak hours"
+      ],
+      "answer": "Association with harmful or inappropriate content"
+    },
+    {
+      "question_id": 12,
+      "question": "Which influencer marketing tactic focuses on recurring, long-term collaboration?",
+      "options": [
+        "Brand ambassadorships",
+        "One-off sponsored posts",
+        "Random content seeding"
+      ],
+      "answer": "Brand ambassadorships"
+    },
+    {
+      "question_id": 13,
+      "question": "Which platform focused originally on image sharing and filters?",
+      "options": [
+        "Instagram",
+        "Twitter",
+        "Reddit"
+      ],
+      "answer": "Instagram"
+    },
+    {
+      "question_id": 14,
+      "question": "Which platform uses \"Pins\" as its primary content unit?",
+      "options": [
+        "Pinterest",
+        "Instagram",
+        "Snapchat"
+      ],
+      "answer": "Pinterest"
+    },
+    {
+      "question_id": 15,
+      "question": "Which algorithm concept did Facebook originally use to rank posts?",
+      "options": [
+        "EdgeRank",
+        "RankBoost",
+        "SignalSort"
+      ],
+      "answer": "EdgeRank"
+    }
+  ]
+}

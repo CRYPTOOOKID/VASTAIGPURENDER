@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "In everyday mathematics, what does the term 'percent' literally mean in English usage?",
+        "options": [
+          "Per hundred",
+          "Per thousand",
+          "Per ten"
+        ],
+        "answer": "Per hundred"
+      },
+      {
+        "question": "In printed documents and calculators, which character typically denotes percentage values?",
+        "options": [
+          "%",
+          "‰",
+          "pc"
+        ],
+        "answer": "%"
+      },
+      {
+        "question": "Which basic statistical measure gives the arithmetic average value of a dataset?",
+        "options": [
+          "Mean",
+          "Median",
+          "Mode"
+        ],
+        "answer": "Mean"
+      },
+      {
+        "question": "When ordering data, which measure identifies the middle value splitting the dataset into halves?",
+        "options": [
+          "Median",
+          "Mean",
+          "Range"
+        ],
+        "answer": "Median"
+      },
+      {
+        "question": "Which basic statistic identifies the value that occurs most frequently in a dataset?",
+        "options": [
+          "Mode",
+          "Median",
+          "Mean"
+        ],
+        "answer": "Mode"
+      },
+      {
+        "question": "Which type of chart commonly displays proportional parts of a whole as slices?",
+        "options": [
+          "Pie chart",
+          "Bar chart",
+          "Line chart"
+        ],
+        "answer": "Pie chart"
+      },
+      {
+        "question": "Which common chart displays category comparisons using adjacent bars for each group?",
+        "options": [
+          "Bar chart",
+          "Scatter plot",
+          "Box plot"
+        ],
+        "answer": "Bar chart"
+      },
+      {
+        "question": "Which graphical display shows the frequency distribution of continuous numerical data using bins?",
+        "options": [
+          "Histogram",
+          "Pie chart",
+          "Line graph"
+        ],
+        "answer": "Histogram"
+      },
+      {
+        "question": "Which basic measure describes the difference between the maximum and minimum values in a dataset?",
+        "options": [
+          "Range",
+          "Variance",
+          "Interquartile range"
+        ],
+        "answer": "Range"
+      },
+      {
+        "question": "In percentiles, which percentile rank denotes the dataset's middle value, also called the median?",
+        "options": [
+          "50th percentile",
+          "25th percentile",
+          "75th percentile"
+        ],
+        "answer": "50th percentile"
+      },
+      {
+        "question": "What is the full range of probabilities expressed as percentages, from impossible event to certain event?",
+        "options": [
+          "0% to 100%",
+          "0% to 1%",
+          "-100% to 100%"
+        ],
+        "answer": "0% to 100%"
+      },
+      {
+        "question": "In statistics, what term describes a subset of individuals drawn from a larger population for study?",
+        "options": [
+          "Subset of the population",
+          "Entire population",
+          "Only outliers"
+        ],
+        "answer": "Subset of the population"
+      },
+      {
+        "question": "What term describes the complete set of individuals or items under study in a statistical investigation?",
+        "options": [
+          "Population",
+          "Sample",
+          "Outlier"
+        ],
+        "answer": "Population"
+      },
+      {
+        "question": "Which plot best visualizes the relationship between two quantitative variables as plotted points?",
+        "options": [
+          "Scatter plot",
+          "Histogram",
+          "Box plot"
+        ],
+        "answer": "Scatter plot"
+      },
+      {
+        "question": "Which measure of central tendency remains more robust in the presence of extreme outliers?",
+        "options": [
+          "Median",
+          "Mean",
+          "Range"
+        ],
+        "answer": "Median"
+      },
+      {
+        "question": "For strongly skewed data, which central value typically represents the dataset better than the mean?",
+        "options": [
+          "Median",
+          "Mean",
+          "Mode"
+        ],
+        "answer": "Median"
+      },
+      {
+        "question": "When summarizing categorical data, which measure identifies the most common category observed in the sample?",
+        "options": [
+          "Mode",
+          "Median",
+          "Variance"
+        ],
+        "answer": "Mode"
+      },
+      {
+        "question": "What term describes expressing a part of a whole by units out of one hundred?",
+        "options": [
+          "Percentage",
+          "Ratio",
+          "Difference"
+        ],
+        "answer": "Percentage"
+      },
+      {
+        "question": "What name is given to the three points that divide ordered data into four equal parts called quartiles?",
+        "options": [
+          "Quartiles",
+          "Deciles",
+          "Percentiles"
+        ],
+        "answer": "Quartiles"
+      },
+      {
+        "question": "Which percentage corresponds to an event that is certain to occur in probability terms?",
+        "options": [
+          "100%",
+          "1%",
+          "0%"
+        ],
+        "answer": "100%"
+      },
+      {
+        "question": "Which symbol denotes per thousand, used occasionally in demographic and financial statistics?",
+        "options": [
+          "‰",
+          "%",
+          "ppt"
+        ],
+        "answer": "‰"
+      },
+      {
+        "question": "Which statistical test is commonly used to check whether observed category counts match expected frequencies?",
+        "options": [
+          "Chi-square test",
+          "t-test",
+          "ANOVA"
+        ],
+        "answer": "Chi-square test"
+      },
+      {
+        "question": "Which simple visual summarizes a five-number summary: minimum, first quartile, median, third quartile, maximum?",
+        "options": [
+          "Box plot",
+          "Pie chart",
+          "Scatter plot"
+        ],
+        "answer": "Box plot"
+      },
+      {
+        "question": "What single-word term describes a systematic deviation or consistent error introduced in measurement or sampling?",
+        "options": [
+          "Bias",
+          "Variance",
+          "Outlier"
+        ],
+        "answer": "Bias"
+      },
+      {
+        "question": "Which general term denotes how widely values in a dataset are spread or dispersed around a central value?",
+        "options": [
+          "Dispersion",
+          "Correlation",
+          "Estimation"
+        ],
+        "answer": "Dispersion"
+      },
+      {
+        "question": "Which basic data operation arranges numerical observations from the smallest to the largest value in order?",
+        "options": [
+          "Ordering",
+          "Randomizing",
+          "Grouping"
+        ],
+        "answer": "Ordering"
+      },
+      {
+        "question": "Which statistic commonly denotes strength of evidence against a null hypothesis in many hypothesis tests?",
+        "options": [
+          "p-value",
+          "Confidence interval",
+          "Effect size"
+        ],
+        "answer": "p-value"
+      },
+      {
+        "question": "What phrase describes a relative comparison of change measured against an original amount expressed in percent?",
+        "options": [
+          "Percent change",
+          "Absolute difference",
+          "Ratio"
+        ],
+        "answer": "Percent change"
+      },
+      {
+        "question": "Which chart type combines bars with a cumulative percentage line and helps prioritize quality issues in work?",
+        "options": [
+          "Pareto chart",
+          "Histogram",
+          "Box plot"
+        ],
+        "answer": "Pareto chart"
+      },
+      {
+        "question": "Which central measure is computed by summing all observed values and dividing by the total count of observations?",
+        "options": [
+          "Mean",
+          "Median",
+          "Mode"
+        ],
+        "answer": "Mean"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which nurse and statistician popularized the polar area 'coxcomb' chart to display causes of mortality visually?",
+        "options": [
+          "Florence Nightingale",
+          "Ada Lovelace",
+          "Marie Curie"
+        ],
+        "answer": "Florence Nightingale"
+      },
+      {
+        "question": "Which Victorian-era scientist introduced early ideas about regression toward the mean and anthropometric studies?",
+        "options": [
+          "Francis Galton",
+          "Karl Pearson",
+          "Ronald Fisher"
+        ],
+        "answer": "Francis Galton"
+      },
+      {
+        "question": "Which statistician formalized the Pearson correlation coefficient for measuring linear association between variables?",
+        "options": [
+          "Karl Pearson",
+          "Ronald Fisher",
+          "William Gosset"
+        ],
+        "answer": "Karl Pearson"
+      },
+      {
+        "question": "Which statistician authored the influential book 'The Design of Experiments' and formalized analysis of variance methods?",
+        "options": [
+          "Ronald Fisher",
+          "Karl Pearson",
+          "John Tukey"
+        ],
+        "answer": "Ronald Fisher"
+      },
+      {
+        "question": "Under what pen name did William Sealy Gosset publish his influential small-sample t-test research for quality control?",
+        "options": [
+          "Student",
+          "Gauss",
+          "Euler"
+        ],
+        "answer": "Student"
+      },
+      {
+        "question": "What rule approximates normal distribution coverage near one, two, and three standard deviations from the mean?",
+        "options": [
+          "Empirical rule",
+          "Central Limit Theorem",
+          "Law of Large Numbers"
+        ],
+        "answer": "Empirical rule"
+      },
+      {
+        "question": "Which fundamental theorem explains why sample means approximate a normal distribution as sample size grows large?",
+        "options": [
+          "Central Limit Theorem",
+          "Bayes' theorem",
+          "Chebyshev's inequality"
+        ],
+        "answer": "Central Limit Theorem"
+      },
+      {
+        "question": "Which measure represents the average squared deviation of observations from their arithmetic mean in a dataset?",
+        "options": [
+          "Variance",
+          "Standard deviation",
+          "Range"
+        ],
+        "answer": "Variance"
+      },
+      {
+        "question": "Which sampling technique gives every individual in the population an equal probability of being selected for a survey?",
+        "options": [
+          "Simple random sampling",
+          "Convenience sampling",
+          "Quota sampling"
+        ],
+        "answer": "Simple random sampling"
+      },
+      {
+        "question": "Which numerical summary reflects both strength and direction of a linear relationship between two continuous variables?",
+        "options": [
+          "Correlation coefficient",
+          "p-value",
+          "Confidence interval"
+        ],
+        "answer": "Correlation coefficient"
+      },
+      {
+        "question": "What phrase describes an estimated interval that likely contains the true population parameter at a stated confidence level?",
+        "options": [
+          "Confidence interval",
+          "Prediction interval",
+          "Tolerance interval"
+        ],
+        "answer": "Confidence interval"
+      },
+      {
+        "question": "Which type I error describes rejecting a true null hypothesis and concluding an effect that does not exist?",
+        "options": [
+          "Type I error",
+          "Type II error",
+          "Sampling error"
+        ],
+        "answer": "Type I error"
+      },
+      {
+        "question": "Which error in hypothesis testing occurs when a false null hypothesis is not rejected, missing a real effect?",
+        "options": [
+          "Type II error",
+          "Type I error",
+          "Measurement error"
+        ],
+        "answer": "Type II error"
+      },
+      {
+        "question": "Which parametric test compares the means of two independent groups assuming approximate normality and similar variances?",
+        "options": [
+          "Two-sample t-test",
+          "Chi-square test",
+          "Wilcoxon test"
+        ],
+        "answer": "Two-sample t-test"
+      },
+      {
+        "question": "Which nonparametric test compares paired observations when the assumption of normality is not satisfied?",
+        "options": [
+          "Wilcoxon signed-rank test",
+          "Paired t-test",
+          "ANOVA"
+        ],
+        "answer": "Wilcoxon signed-rank test"
+      },
+      {
+        "question": "Which computational technique estimates sampling variability by repeatedly resampling observed data with replacement?",
+        "options": [
+          "Bootstrap",
+          "Cross-validation",
+          "Bayesian updating"
+        ],
+        "answer": "Bootstrap"
+      },
+      {
+        "question": "Which statistic indicates the proportion of variance in a dependent variable that a model explains overall?",
+        "options": [
+          "R-squared",
+          "p-value",
+          "Standard error"
+        ],
+        "answer": "R-squared"
+      },
+      {
+        "question": "Which plot assesses whether sample quantiles align with a theoretical distribution, often used for normality checks?",
+        "options": [
+          "Q-Q plot",
+          "Scatter plot",
+          "Histogram"
+        ],
+        "answer": "Q-Q plot"
+      },
+      {
+        "question": "Which average weights individual values by specified importance before summing and dividing by the total weights?",
+        "options": [
+          "Weighted mean",
+          "Geometric mean",
+          "Median"
+        ],
+        "answer": "Weighted mean"
+      },
+      {
+        "question": "Which average multiplies values together and takes the nth root, useful for growth rates and ratios?",
+        "options": [
+          "Geometric mean",
+          "Harmonic mean",
+          "Arithmetic mean"
+        ],
+        "answer": "Geometric mean"
+      },
+      {
+        "question": "Which mean is most appropriate for averaging rates such as speeds when equal-distance segments are considered?",
+        "options": [
+          "Harmonic mean",
+          "Arithmetic mean",
+          "Geometric mean"
+        ],
+        "answer": "Harmonic mean"
+      },
+      {
+        "question": "Which statistic is used to compare observed categorical frequencies to those expected under a null model?",
+        "options": [
+          "Chi-square statistic",
+          "t statistic",
+          "F statistic"
+        ],
+        "answer": "Chi-square statistic"
+      },
+      {
+        "question": "What model evaluation technique repeatedly splits data into training and validation sets to estimate predictive performance?",
+        "options": [
+          "Cross-validation",
+          "Bootstrapping",
+          "ANOVA"
+        ],
+        "answer": "Cross-validation"
+      },
+      {
+        "question": "Which rank-based correlation coefficient measures the strength of a monotonic relationship between two variables?",
+        "options": [
+          "Spearman's rho",
+          "Pearson's r",
+          "Kendall's tau"
+        ],
+        "answer": "Spearman's rho"
+      },
+      {
+        "question": "Which conventional significance threshold did Ronald Fisher propose as a practical cutoff for many tests?",
+        "options": [
+          "0.05",
+          "0.01",
+          "0.10"
+        ],
+        "answer": "0.05"
+      },
+      {
+        "question": "Which curve plots cumulative share of a variable such as income against cumulative population proportion for inequality analysis?",
+        "options": [
+          "Lorenz curve",
+          "ROC curve",
+          "Pareto curve"
+        ],
+        "answer": "Lorenz curve"
+      },
+      {
+        "question": "Which index, computed from the Lorenz curve, quantifies inequality on a scale from zero to one typically?",
+        "options": [
+          "Gini coefficient",
+          "Spearman's rho",
+          "Cronbach's alpha"
+        ],
+        "answer": "Gini coefficient"
+      },
+      {
+        "question": "Which reliability statistic assesses internal consistency of test or survey items based on average inter-item correlations?",
+        "options": [
+          "Cronbach's alpha",
+          "R-squared",
+          "Mean square error"
+        ],
+        "answer": "Cronbach's alpha"
+      },
+      {
+        "question": "Which common data transformation applies a logarithm to right-skewed positive data to stabilize variance?",
+        "options": [
+          "Log transformation",
+          "Square transformation",
+          "Reciprocal transformation"
+        ],
+        "answer": "Log transformation"
+      },
+      {
+        "question": "Which regression technique models the probability of a binary outcome using the logit link and estimated coefficients?",
+        "options": [
+          "Logistic regression",
+          "Linear regression",
+          "Poisson regression"
+        ],
+        "answer": "Logistic regression"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who introduced the boxplot in exploratory data analysis to summarize distribution shape and identify outliers visually?",
+        "options": [
+          "John Tukey",
+          "Francis Galton",
+          "Karl Pearson"
+        ],
+        "answer": "John Tukey"
+      },
+      {
+        "question": "Which resampling technique estimates bias and variance by systematically leaving out one observation at a time?",
+        "options": [
+          "Jackknife",
+          "Bootstrap",
+          "Permutation test"
+        ],
+        "answer": "Jackknife"
+      },
+      {
+        "question": "Which statistician working at a brewery published the small-sample t-distribution under the pseudonym 'Student'?",
+        "options": [
+          "William Sealy Gosset",
+          "Ronald Fisher",
+          "Karl Pearson"
+        ],
+        "answer": "William Sealy Gosset"
+      },
+      {
+        "question": "Which widely cited multiple-testing procedure aims to control the expected proportion of false discoveries?",
+        "options": [
+          "Benjamini–Hochberg procedure",
+          "Bonferroni correction",
+          "Holm method"
+        ],
+        "answer": "Benjamini–Hochberg procedure"
+      },
+      {
+        "question": "Which inequality gives an upper bound on the probability that a nonnegative random variable exceeds a positive threshold using its mean?",
+        "options": [
+          "Markov's inequality",
+          "Chebyshev's inequality",
+          "Jensen's inequality"
+        ],
+        "answer": "Markov's inequality"
+      },
+      {
+        "question": "Which inequality provides a bound on the probability that any random variable deviates from its mean by a specified amount using variance?",
+        "options": [
+          "Chebyshev's inequality",
+          "Markov's inequality",
+          "Central Limit Theorem"
+        ],
+        "answer": "Chebyshev's inequality"
+      },
+      {
+        "question": "Which statistical paradox demonstrates that aggregated data can display trends opposite to those in disaggregated subgroups?",
+        "options": [
+          "Simpson's paradox",
+          "Birthday paradox",
+          "Monty Hall paradox"
+        ],
+        "answer": "Simpson's paradox"
+      },
+      {
+        "question": "Which normality test computes a statistic from ordered sample values and compares correlation with expected normal scores?",
+        "options": [
+          "Shapiro–Wilk test",
+          "Kolmogorov–Smirnov test",
+          "Anderson–Darling test"
+        ],
+        "answer": "Shapiro–Wilk test"
+      },
+      {
+        "question": "Which discrete probability distribution commonly models counts of rare independent events occurring in a fixed interval?",
+        "options": [
+          "Poisson distribution",
+          "Normal distribution",
+          "Binomial distribution"
+        ],
+        "answer": "Poisson distribution"
+      },
+      {
+        "question": "Which estimation principle finds parameter values that maximize the likelihood of the observed sample data under a model?",
+        "options": [
+          "Maximum likelihood estimator",
+          "Method of moments",
+          "Bayesian estimator"
+        ],
+        "answer": "Maximum likelihood estimator"
+      },
+      {
+        "question": "Which statistical test compares two nested models by taking the ratio of their maximized likelihoods?",
+        "options": [
+          "Likelihood ratio test",
+          "t-test",
+          "Chi-square goodness-of-fit test"
+        ],
+        "answer": "Likelihood ratio test"
+      },
+      {
+        "question": "Which regression framework models clustered or hierarchical data by including both fixed and random effects terms?",
+        "options": [
+          "Mixed effects model",
+          "Linear regression",
+          "K-means clustering"
+        ],
+        "answer": "Mixed effects model"
+      },
+      {
+        "question": "Which information criterion balances model fit against complexity by adding a penalty proportional to number of parameters?",
+        "options": [
+          "Akaike Information Criterion",
+          "p-value",
+          "R-squared"
+        ],
+        "answer": "Akaike Information Criterion"
+      },
+      {
+        "question": "Which class of algorithms generates samples from complex posterior distributions via random chains and transition kernels?",
+        "options": [
+          "Markov Chain Monte Carlo",
+          "Bootstrap",
+          "Cross-validation"
+        ],
+        "answer": "Markov Chain Monte Carlo"
+      },
+      {
+        "question": "Which nonparametric test compares survival distributions between groups using observed-versus-expected event counts over time?",
+        "options": [
+          "Log-rank test",
+          "Kaplan–Meier estimator",
+          "Cox proportional hazards model"
+        ],
+        "answer": "Log-rank test"
+      },
+      {
+        "question": "Which regularization method uses an L1 penalty to encourage sparse coefficient estimates in high-dimensional regression problems?",
+        "options": [
+          "LASSO",
+          "Ridge regression",
+          "Ordinary least squares"
+        ],
+        "answer": "LASSO"
+      },
+      {
+        "question": "Which method reduces dimensionality by projecting original variables onto orthogonal directions that maximize variance explained?",
+        "options": [
+          "Principal Component Analysis",
+          "Factor analysis",
+          "Cluster analysis"
+        ],
+        "answer": "Principal Component Analysis"
+      },
+      {
+        "question": "Which diagnostic measure identifies observations that exert large influence on regression estimates if removed from the dataset?",
+        "options": [
+          "Cook's distance",
+          "Durbin–Watson statistic",
+          "Variance inflation factor"
+        ],
+        "answer": "Cook's distance"
+      },
+      {
+        "question": "Which test assesses the equality of variances across groups and is commonly used prior to comparing group means?",
+        "options": [
+          "Levene's test",
+          "Shapiro–Wilk test",
+          "Kolmogorov–Smirnov test"
+        ],
+        "answer": "Levene's test"
+      },
+      {
+        "question": "Which nonparametric estimator constructs the survival function from observed event times while accounting for censored observations?",
+        "options": [
+          "Kaplan–Meier estimator",
+          "Cox model",
+          "Logistic regression"
+        ],
+        "answer": "Kaplan–Meier estimator"
+      },
+      {
+        "question": "Which general term describes a model's ability to maintain performance on unseen new data rather than just the training dataset?",
+        "options": [
+          "Generalization",
+          "Overfitting",
+          "Underfitting"
+        ],
+        "answer": "Generalization"
+      },
+      {
+        "question": "Which form of bias occurs when participants choose to join a study, producing nonrepresentative samples due to voluntary response?",
+        "options": [
+          "Self-selection bias",
+          "Observer bias",
+          "Recall bias"
+        ],
+        "answer": "Self-selection bias"
+      },
+      {
+        "question": "Which model selection criterion imposes a larger penalty for parameter count than AIC and often favors simpler models with large samples?",
+        "options": [
+          "BIC",
+          "AIC",
+          "p-value"
+        ],
+        "answer": "BIC"
+      },
+      {
+        "question": "Which variance-stabilizing transformation commonly applies the square root to count data such as Poisson-distributed observations?",
+        "options": [
+          "Square root transformation",
+          "Log transformation",
+          "Reciprocal transformation"
+        ],
+        "answer": "Square root transformation"
+      },
+      {
+        "question": "Which ensemble technique builds successive models to predict residuals and typically achieves strong performance in supervised learning tasks?",
+        "options": [
+          "Gradient boosting",
+          "Random forest",
+          "k-nearest neighbors"
+        ],
+        "answer": "Gradient boosting"
+      },
+      {
+        "question": "Which matrix summarizes variances on the diagonal and covariances off-diagonal for a set of multivariate observations?",
+        "options": [
+          "Covariance matrix",
+          "Correlation matrix",
+          "Distance matrix"
+        ],
+        "answer": "Covariance matrix"
+      },
+      {
+        "question": "Which nonparametric rank test compares two independent samples and is an alternative to the two-sample t-test under nonnormality?",
+        "options": [
+          "Mann–Whitney U test",
+          "Two-sample t-test",
+          "Chi-square test"
+        ],
+        "answer": "Mann–Whitney U test"
+      },
+      {
+        "question": "Which concept defines a statistic that captures all the information in a sample relevant to estimating a parameter?",
+        "options": [
+          "Sufficiency",
+          "Consistency",
+          "Efficiency"
+        ],
+        "answer": "Sufficiency"
+      },
+      {
+        "question": "Which estimator property ensures estimates converge in probability to the true parameter value as sample size increases?",
+        "options": [
+          "Consistency",
+          "Efficiency",
+          "Unbiasedness"
+        ],
+        "answer": "Consistency"
+      },
+      {
+        "question": "Which measure equals an estimator's variance plus the square of its bias, commonly used to assess estimator accuracy?",
+        "options": [
+          "Mean squared error",
+          "Variance",
+          "Bias"
+        ],
+        "answer": "Mean squared error"
+      }
+    ]
+  }
+}

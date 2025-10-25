@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which metric indicates the cost to reach one thousand impressions?",
+      "options": [
+        "CPA (cost per acquisition)",
+        "CPM (cost per mille)",
+        "CPL (cost per lead)"
+      ],
+      "answer": "CPM (cost per mille)"
+    },
+    {
+      "question_id": 2,
+      "question": "Which approach helps align creative messaging with customer emotions?",
+      "options": [
+        "Ignoring audience insights",
+        "Emotional positioning and storytelling",
+        "Randomized price cutting"
+      ],
+      "answer": "Emotional positioning and storytelling"
+    },
+    {
+      "question_id": 3,
+      "question": "Which analytic method quantifies causal impact when randomized tests aren't feasible?",
+      "options": [
+        "Pure correlation analysis",
+        "Simple before-after averages",
+        "Quasi-experimental methods like synthetic controls"
+      ],
+      "answer": "Quasi-experimental methods like synthetic controls"
+    },
+    {
+      "question_id": 4,
+      "question": "Which scheduling technique spreads ad impressions evenly over time?",
+      "options": [
+        "Immediate bankruptcy",
+        "Flighting or pacing",
+        "Cross-validation"
+      ],
+      "answer": "Flighting or pacing"
+    },
+    {
+      "question_id": 5,
+      "question": "Which model estimates the incremental effect of marketing channels using historical data?",
+      "options": [
+        "Marketing mix modeling (MMM)",
+        "Cross-sectional survey",
+        "Single-touch attribution"
+      ],
+      "answer": "Marketing mix modeling (MMM)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced analytics practice improves targeting by reducing label bias?",
+      "options": [
+        "Excluding modeling completely",
+        "Using propensity and uplift models instead of raw conversions",
+        "Relying only on historical conversion labels"
+      ],
+      "answer": "Using propensity and uplift models instead of raw conversions"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common campaign objective focuses on getting a sale or signup?",
+      "options": [
+        "Brand research",
+        "Conversion",
+        "Employee recruitment"
+      ],
+      "answer": "Conversion"
+    },
+    {
+      "question_id": 8,
+      "question": "Which KPI is most relevant for brand awareness campaigns?",
+      "options": [
+        "Call center average handle time",
+        "Impressions and reach",
+        "Checkout conversion rate"
+      ],
+      "answer": "Impressions and reach"
+    },
+    {
+      "question_id": 9,
+      "question": "Which advanced KPI estimates discounted future profits from a customer cohort?",
+      "options": [
+        "Predictive customer lifetime value (CLV)",
+        "Gross margin per ad",
+        "Immediate average order value"
+      ],
+      "answer": "Predictive customer lifetime value (CLV)"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the first step in planning a marketing campaign?",
+      "options": [
+        "Hire a creative agency immediately",
+        "Launch ads to test interest",
+        "Define objectives and target audience"
+      ],
+      "answer": "Define objectives and target audience"
+    },
+    {
+      "question_id": 11,
+      "question": "What does 'lookalike audience' targeting use?",
+      "options": [
+        "Data from existing customers to find similar prospects",
+        "Random sampling of website visitors",
+        "Manual phone surveys"
+      ],
+      "answer": "Data from existing customers to find similar prospects"
+    },
+    {
+      "question_id": 12,
+      "question": "Which channel-level measurement suffers most from cookie depreciation?",
+      "options": [
+        "Cross-site behavioral tracking for display ads",
+        "Outdoor billboard reach estimates",
+        "In-store point-of-sale receipts"
+      ],
+      "answer": "Cross-site behavioral tracking for display ads"
+    },
+    {
+      "question_id": 13,
+      "question": "Which simple A/B test compares two versions of an email subject line?",
+      "options": [
+        "Split testing",
+        "Sentiment analysis",
+        "Market segmentation"
+      ],
+      "answer": "Split testing"
+    },
+    {
+      "question_id": 14,
+      "question": "What does 'brand lift study' typically measure?",
+      "options": [
+        "Number of products manufactured",
+        "Employee brand advocacy scores",
+        "Impact of advertising on brand metrics like awareness"
+      ],
+      "answer": "Impact of advertising on brand metrics like awareness"
+    },
+    {
+      "question_id": 15,
+      "question": "Which method estimates media synergy effects between channels in planning?",
+      "options": [
+        "Cross-channel interaction terms in MMM or experiments",
+        "Treating channels as independent",
+        "Solely using last-click data"
+      ],
+      "answer": "Cross-channel interaction terms in MMM or experiments"
+    }
+  ]
+}

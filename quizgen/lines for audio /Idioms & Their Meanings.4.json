@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"piece of cake\" describe?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom fits \"someone who is unpredictable or unstable\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom frequently appears in headlines as a compact metaphor for recovery?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"bite off more than you can chew\" warn against?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom means \"to begin an event or project\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom best illustrates ironical reversal where outcome opposes intent?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the meaning of \"let the cat out of the bag\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom suits \"invest time now to avoid trouble later\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom demonstrates anthropomorphism by attributing human traits to nonhumans?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"silver lining\" refer to in adversity?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom describes \"relying on hope instead of a plan\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom serves as a cultural metaphor for sudden fame and rapid decline?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"back to the drawing board\" indicate?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom means \"maintain secrecy about plans or feelings\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom primarily originates from nautical vocabulary about ship rigging?"
+    }
+  ]
+}

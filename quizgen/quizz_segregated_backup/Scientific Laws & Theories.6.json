@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which law explains why total momentum stays constant in an isolated system?",
+      "options": [
+        "Conservation of momentum",
+        "Conservation of charge",
+        "Conservation of mass"
+      ],
+      "answer": "Conservation of momentum"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientist established the germ theory of disease through experiments on fermentation and pasteurization?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Alexander Fleming"
+      ],
+      "answer": "Louis Pasteur"
+    },
+    {
+      "question_id": 3,
+      "question": "Which theoretical concept explains quantized conductance steps in mesoscopic electron transport?",
+      "options": [
+        "Landauer formula",
+        "Drude model",
+        "Bloch theorem"
+      ],
+      "answer": "Landauer formula"
+    },
+    {
+      "question_id": 4,
+      "question": "Which theory explains how continents move over geologic time?",
+      "options": [
+        "Plate tectonics",
+        "Uniformitarianism",
+        "Punctuated equilibrium"
+      ],
+      "answer": "Plate tectonics"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law quantifies the relationship between magnetic flux change and induced electromotive force?",
+      "options": [
+        "Faraday's law of induction",
+        "Lenz's law",
+        "Ampère's law"
+      ],
+      "answer": "Faraday's law of induction"
+    },
+    {
+      "question_id": 6,
+      "question": "Which theorem states that any differentiable symmetry of the action yields a conserved quantity?",
+      "options": [
+        "Noether's theorem",
+        "Bell's theorem",
+        "Stone–von Neumann theorem"
+      ],
+      "answer": "Noether's theorem"
+    },
+    {
+      "question_id": 7,
+      "question": "Which law indicates that total energy and entropy relationships limit engine efficiency?",
+      "options": [
+        "Second law of thermodynamics",
+        "First law of thermodynamics",
+        "Third law of thermodynamics"
+      ],
+      "answer": "Second law of thermodynamics"
+    },
+    {
+      "question_id": 8,
+      "question": "Which law describes the electromagnetic waves' energy distribution as a function of frequency for a blackbody?",
+      "options": [
+        "Planck's law",
+        "Wien's displacement law",
+        "Rayleigh–Jeans law"
+      ],
+      "answer": "Planck's law"
+    },
+    {
+      "question_id": 9,
+      "question": "Which law describes the limit where classical mechanics emerges from quantum mechanics for large quantum numbers?",
+      "options": [
+        "Correspondence principle",
+        "Complementarity principle",
+        "Adiabatic theorem"
+      ],
+      "answer": "Correspondence principle"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is credited with proposing the law of universal gravitation?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nicolaus Copernicus"
+      ],
+      "answer": "Isaac Newton"
+    },
+    {
+      "question_id": 11,
+      "question": "Which theorem in fluid dynamics expresses conservation of momentum in differential form?",
+      "options": [
+        "Navier–Stokes equations",
+        "Bernoulli's theorem",
+        "Stokes' theorem"
+      ],
+      "answer": "Navier–Stokes equations"
+    },
+    {
+      "question_id": 12,
+      "question": "Which result shows local hidden-variable theories cannot reproduce all quantum correlations?",
+      "options": [
+        "Bell's theorem",
+        "Kochen–Specker theorem",
+        "No-cloning theorem"
+      ],
+      "answer": "Bell's theorem"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scientist proposed that microorganisms cause many diseases, advancing modern medicine?",
+      "options": [
+        "Louis Pasteur",
+        "Gregor Mendel",
+        "Robert Hooke"
+      ],
+      "answer": "Louis Pasteur"
+    },
+    {
+      "question_id": 14,
+      "question": "Which law explains the electromagnetic force between current elements as described by a line integral?",
+      "options": [
+        "Ampère's law",
+        "Biot–Savart law",
+        "Faraday's law"
+      ],
+      "answer": "Ampère's law"
+    },
+    {
+      "question_id": 15,
+      "question": "Which law describes conservation of baryon number under standard model interactions as an empirical rule?",
+      "options": [
+        "Baryon number conservation",
+        "Lepton number conservation",
+        "Charge conjugation symmetry"
+      ],
+      "answer": "Baryon number conservation"
+    }
+  ]
+}

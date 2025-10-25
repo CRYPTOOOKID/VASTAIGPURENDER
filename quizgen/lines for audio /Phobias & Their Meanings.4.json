@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'heliophobia' mean?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which diagnostic manual places specific phobias under anxiety disorders?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia often shows high comorbidity with depression and other anxiety disorders?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'sociophobia' usually describe?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which behavioral technique pairs relaxation with gradual exposure to reduce phobic anxiety?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare phobia denotes fear of elevators or vertical transport specifically?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which suffix indicates a fear or phobic condition?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia describes fear of long words and is considered humorous culturally?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia involves fear of making decisions or fear of failure linked to perfectionism?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia is fear of darkness?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia term describes fear of elevators and enclosed vertical transport?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia term refers to fear of sunlight and can involve avoidance of daylight?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'hemophobia' differ from 'blood-injection-injury phobia' by often including?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term describes fear specifically triggered by seeing a specific animal or object?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia describes an intense fear of mirrors tied to identity-related anxiety?"
+    }
+  ]
+}

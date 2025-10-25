@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded the Tata Group in India?",
+      "options": [
+        "Dhirubhai Ambani",
+        "Jamsetji Tata",
+        "Ratan Tata"
+      ],
+      "answer": "Jamsetji Tata"
+    },
+    {
+      "question_id": 2,
+      "question": "In which year did Tesla hold its initial public offering?",
+      "options": [
+        "2012",
+        "2008",
+        "2010"
+      ],
+      "answer": "2010"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Intel co-founder is credited as a pioneer of the silicon integrated circuit?",
+      "options": [
+        "Robert Noyce",
+        "Andy Grove",
+        "Gordon Moore"
+      ],
+      "answer": "Robert Noyce"
+    },
+    {
+      "question_id": 4,
+      "question": "Who was an early co-founder and the first CEO of Twitter?",
+      "options": [
+        "Jack Dorsey",
+        "Noah Glass",
+        "Evan Spiegel"
+      ],
+      "answer": "Jack Dorsey"
+    },
+    {
+      "question_id": 5,
+      "question": "Which WhatsApp co-founder later co-founded the Signal Foundation?",
+      "options": [
+        "Brian Acton",
+        "Jan Koum",
+        "Mark Zuckerberg"
+      ],
+      "answer": "Brian Acton"
+    },
+    {
+      "question_id": 6,
+      "question": "Which co-founder of Twitter sold his remaining shares early and left the company in 2000s?",
+      "options": [
+        "Biz Stone",
+        "Noah Glass",
+        "Jack Dorsey"
+      ],
+      "answer": "Noah Glass"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded Xiaomi, the Chinese electronics company?",
+      "options": [
+        "Pony Ma",
+        "Hugo Barra",
+        "Lei Jun"
+      ],
+      "answer": "Lei Jun"
+    },
+    {
+      "question_id": 8,
+      "question": "What was Google's early project name before it became Google?",
+      "options": [
+        "AltaVista",
+        "Backrub",
+        "Infoseek"
+      ],
+      "answer": "Backrub"
+    },
+    {
+      "question_id": 9,
+      "question": "Which co-founder of Apple designed the Apple I circuit board?",
+      "options": [
+        "Steve Wozniak",
+        "Ronald Wayne",
+        "Steve Jobs"
+      ],
+      "answer": "Steve Wozniak"
+    },
+    {
+      "question_id": 10,
+      "question": "Who currently serves as Tesla's CEO and public face?",
+      "options": [
+        "Tim Cook",
+        "Elon Musk",
+        "Jeff Bezos"
+      ],
+      "answer": "Elon Musk"
+    },
+    {
+      "question_id": 11,
+      "question": "Who returned to Apple in 1997 and led its product and design revival?",
+      "options": [
+        "Steve Jobs",
+        "John Sculley",
+        "Gil Amelio"
+      ],
+      "answer": "Steve Jobs"
+    },
+    {
+      "question_id": 12,
+      "question": "Which retailer founder created the first mail-order catalog in India under Tata origins?",
+      "options": [
+        "J.R.D. Tata",
+        "Jamsetji Tata",
+        "Dhirubhai Ambani"
+      ],
+      "answer": "Jamsetji Tata"
+    },
+    {
+      "question_id": 13,
+      "question": "Who succeeded Steve Jobs as Apple CEO in 2011?",
+      "options": [
+        "Jony Ive",
+        "Tim Cook",
+        "Steve Ballmer"
+      ],
+      "answer": "Tim Cook"
+    },
+    {
+      "question_id": 14,
+      "question": "Which entrepreneur co-founded Netscape and later a prominent VC firm?",
+      "options": [
+        "Marc Andreessen",
+        "Evan Williams",
+        "Peter Thiel"
+      ],
+      "answer": "Marc Andreessen"
+    },
+    {
+      "question_id": 15,
+      "question": "Which entrepreneur famously invested early in Tesla and SolarCity before merging energy efforts?",
+      "options": [
+        "Peter Thiel",
+        "Elon Musk",
+        "Larry Page"
+      ],
+      "answer": "Elon Musk"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is a vertical merger?",
+      "options": [
+        "Supplier merges with a customer",
+        "Two competitors merge",
+        "Company buys an unrelated business"
+      ],
+      "answer": "Supplier merges with a customer"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a reverse takeover?",
+      "options": [
+        "Private company acquires public company to go public",
+        "Company reverses a merger agreement",
+        "Buyer pays a higher price after closing"
+      ],
+      "answer": "Private company acquires public company to go public"
+    },
+    {
+      "question_id": 3,
+      "question": "Which defense involves selling prized assets to thwart a bidder?",
+      "options": [
+        "Crown jewel defense",
+        "Pac-Man defense",
+        "Scorched earth defense"
+      ],
+      "answer": "Crown jewel defense"
+    },
+    {
+      "question_id": 4,
+      "question": "What is integration after a merger?",
+      "options": [
+        "Combining operations of merged companies",
+        "Filing paperwork only",
+        "Immediate sale of the combined firm"
+      ],
+      "answer": "Combining operations of merged companies"
+    },
+    {
+      "question_id": 5,
+      "question": "What concern is central to horizontal merger antitrust review?",
+      "options": [
+        "Reduced competition and higher prices",
+        "Lower production costs",
+        "Increased charity donations"
+      ],
+      "answer": "Reduced competition and higher prices"
+    },
+    {
+      "question_id": 6,
+      "question": "Which high-profile proposed merger was blocked or constrained due to competition concerns in recent years?",
+      "options": [
+        "AT&T's attempted acquisition of T-Mobile USA in 2011",
+        "Disney's acquisition of Pixar in 2006",
+        "Google's acquisition of YouTube in 2006"
+      ],
+      "answer": "AT&T's attempted acquisition of T-Mobile USA in 2011"
+    },
+    {
+      "question_id": 7,
+      "question": "What is goodwill in a business combination?",
+      "options": [
+        "Excess paid over net identifiable assets",
+        "Physical fixed assets acquired",
+        "Deferred tax liability"
+      ],
+      "answer": "Excess paid over net identifiable assets"
+    },
+    {
+      "question_id": 8,
+      "question": "Which method does IFRS require for business combinations?",
+      "options": [
+        "Acquisition method",
+        "Equity method",
+        "Cost method"
+      ],
+      "answer": "Acquisition method"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes ongoing operational commitments imposed by regulators?",
+      "options": [
+        "Behavioral remedies",
+        "Structural remedies",
+        "Breach notices"
+      ],
+      "answer": "Behavioral remedies"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes paying with company shares?",
+      "options": [
+        "Stock consideration",
+        "Cash consideration",
+        "Loan consideration"
+      ],
+      "answer": "Stock consideration"
+    },
+    {
+      "question_id": 11,
+      "question": "What increases on the acquirer's balance sheet when purchase price exceeds fair value?",
+      "options": [
+        "Goodwill",
+        "Deferred tax asset",
+        "Contingent liability"
+      ],
+      "answer": "Goodwill"
+    },
+    {
+      "question_id": 12,
+      "question": "Which factor often drives strategic buyers to pay higher premiums than financial sponsors?",
+      "options": [
+        "Expected long-term synergies and strategic fit",
+        "Lower financing costs only",
+        "Regulatory immunity"
+      ],
+      "answer": "Expected long-term synergies and strategic fit"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the main goal of post-merger integration (PMI)?",
+      "options": [
+        "Realize synergies and combine operations",
+        "Increase regulatory scrutiny",
+        "Delay combined operations indefinitely"
+      ],
+      "answer": "Realize synergies and combine operations"
+    },
+    {
+      "question_id": 14,
+      "question": "What remedy often requires selling assets to secure antitrust approval?",
+      "options": [
+        "Divestiture",
+        "Price fixing",
+        "Arbitration"
+      ],
+      "answer": "Divestiture"
+    },
+    {
+      "question_id": 15,
+      "question": "What duty does the board owe when a company is up for sale, per Revlon doctrine?",
+      "options": [
+        "Maximize shareholder value in sale",
+        "Protect employees' jobs above all",
+        "Minimize taxes regardless of price"
+      ],
+      "answer": "Maximize shareholder value in sale"
+    }
+  ]
+}

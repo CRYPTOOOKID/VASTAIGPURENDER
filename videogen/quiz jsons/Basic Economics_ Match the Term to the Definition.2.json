@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes a market controlled by a single seller?",
+      "options": [
+        "Monopsony",
+        "Monopoly",
+        "Oligopoly"
+      ],
+      "answer": "Monopoly"
+    },
+    {
+      "question_id": 2,
+      "question": "What term identifies goods that can replace each other in consumption?",
+      "options": [
+        "Inferior goods",
+        "Substitute goods",
+        "Complementary goods"
+      ],
+      "answer": "Substitute goods"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term defines prices set above market equilibrium by government law?",
+      "options": [
+        "Voucher pricing",
+        "Price ceiling",
+        "Price floor"
+      ],
+      "answer": "Price floor"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes the additional cost of producing one more unit?",
+      "options": [
+        "Total cost",
+        "Marginal cost",
+        "Average cost"
+      ],
+      "answer": "Marginal cost"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the term for trade barriers that aim to protect domestic industries?",
+      "options": [
+        "Free trade",
+        "Globalization",
+        "Protectionism"
+      ],
+      "answer": "Protectionism"
+    },
+    {
+      "question_id": 6,
+      "question": "What term describes equilibrium in game theory where no player benefits from changing strategy?",
+      "options": [
+        "Dominant strategy",
+        "Nash equilibrium",
+        "Pareto optimum"
+      ],
+      "answer": "Nash equilibrium"
+    },
+    {
+      "question_id": 7,
+      "question": "What term labels goods people buy more of as income rises?",
+      "options": [
+        "Inferior goods",
+        "Normal goods",
+        "Luxury goods"
+      ],
+      "answer": "Normal goods"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the term for long-run average cost decreasing as output rises?",
+      "options": [
+        "Economies of scale",
+        "Diseconomies of scale",
+        "Diminishing returns"
+      ],
+      "answer": "Economies of scale"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term names the curve showing total welfare loss from monopoly pricing?",
+      "options": [
+        "Lorenz curve",
+        "Harberger triangle",
+        "Laffer curve"
+      ],
+      "answer": "Harberger triangle"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the marketplace where buyers and sellers exchange goods called?",
+      "options": [
+        "Factory",
+        "Warehouse",
+        "Market"
+      ],
+      "answer": "Market"
+    },
+    {
+      "question_id": 11,
+      "question": "What term labels the extra output from increasing all inputs proportionally?",
+      "options": [
+        "Average returns",
+        "Returns to scale",
+        "Marginal returns"
+      ],
+      "answer": "Returns to scale"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the term for income after taxes and transfers?",
+      "options": [
+        "Real income",
+        "Disposable income",
+        "Gross income"
+      ],
+      "answer": "Disposable income"
+    },
+    {
+      "question_id": 13,
+      "question": "What term denotes costs that change with production level?",
+      "options": [
+        "Sunk costs",
+        "Fixed costs",
+        "Variable costs"
+      ],
+      "answer": "Variable costs"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term refers to government limits on lending conditions to manage risk?",
+      "options": [
+        "Macroprudential regulation",
+        "Monetary easing",
+        "Fiscal consolidation"
+      ],
+      "answer": "Macroprudential regulation"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the term for a tax on transactions to reduce speculative trading?",
+      "options": [
+        "Pigovian tax",
+        "Tobin tax",
+        "Carbon tax"
+      ],
+      "answer": "Tobin tax"
+    }
+  ]
+}

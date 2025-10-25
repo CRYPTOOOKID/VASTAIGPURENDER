@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who famously declared \"Give me liberty or give me death\" during a colonial speech?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which American president said \"The buck stops here\" placing responsibility in the Oval Office?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote \"Give me chastity and continence, but not yet\" in playful theological reflection?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who famously stated \"I came, I saw, I conquered\" in Latin?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which revolutionary wrote \"Give me liberty, or give me death\" in a famous Virginia speech?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote \"Better to die on your feet than live on your knees\" in anti-colonial struggle?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which activist said \"The only thing necessary for evil to triumph is for good men to do nothing\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who said \"You must be the change you wish to see in the world\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Renaissance thinker wrote \"Fortune favors the bold\" in a treatise on rulers and risk?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who famously said \"Let them eat cake\" is popularly attributed to which figure?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which leader said \"The only limit to our realization of tomorrow is our doubts of today\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Irish leader declared \"The cause of liberty is not the cause of a race\" during independence?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who opened a famed address with \"Four score and seven years ago\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote \"Those who cannot remember the past are condemned to repeat it\" as a historian?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"It is easier to ask forgiveness than permission\" attributed to a pragmatic wartime leader?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which river is worshipped as the goddess who descended from Shiva's hair?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which sacred mountain is central in many Puranic myths as the axis of the world?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which deity is associated with the peacock mount and the Tamil festival of Thaipusam?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which form of Shiva represents cosmic dance and rhythmic creation?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which divine weapon did Krishna advise Arjuna to use symbolically in battle ethics?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river goddess's subterranean course is said to flow beneath the earth in Vedic lore?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which epic tells the story of Rama, an avatar of Vishnu?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which avatar of Vishnu has a half-man, half-lion form who protected his devotee Prahlada?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Vedic god is traditionally linked to cosmic law, the ocean, and judicial order?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which goddess forms when Parvati takes a fierce warrior aspect to defeat demons?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which epic features the Kurukshetra war and extensive genealogies of gods and kings?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which avatar list places Buddha as an incarnation of Vishnu in many Puranic accounts?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which avatar of Vishnu appears as a dwarf Brahmin king to restore cosmic order?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which goddess is called 'Mahadevi' when representing the supreme feminine cosmic power?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Vedic hymn collection contains the Nasadiya Sukta contemplating cosmic origin?"
+    }
+  ]
+}

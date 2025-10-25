@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the first successful powered flight by the Wright brothers?",
+      "options": [
+        "1903",
+        "1899",
+        "1910"
+      ],
+      "answer": "1903"
+    },
+    {
+      "question_id": 2,
+      "question": "Which year did the Bolshevik leader Lenin die, initiating a power struggle in the USSR?",
+      "options": [
+        "1924",
+        "1922",
+        "1930"
+      ],
+      "answer": "1924"
+    },
+    {
+      "question_id": 3,
+      "question": "When was the Ottoman Tanzimat edict Hatt-ı Şerif of Gülhane proclaimed, starting legal reforms?",
+      "options": [
+        "1839",
+        "1856",
+        "1826"
+      ],
+      "answer": "1839"
+    },
+    {
+      "question_id": 4,
+      "question": "When was the Declaration of the Rights of Man and of the Citizen adopted during the French Revolution?",
+      "options": [
+        "1789",
+        "1799",
+        "1774"
+      ],
+      "answer": "1789"
+    },
+    {
+      "question_id": 5,
+      "question": "When did South Africa hold its first multiracial democratic elections ending apartheid?",
+      "options": [
+        "1994",
+        "1990",
+        "1989"
+      ],
+      "answer": "1994"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did the Battle of Lepanto occur, curbing Ottoman naval dominance in the Mediterranean?",
+      "options": [
+        "1571",
+        "1566",
+        "1588"
+      ],
+      "answer": "1571"
+    },
+    {
+      "question_id": 7,
+      "question": "When did Japan formally surrender, ending World War II?",
+      "options": [
+        "1945",
+        "1947",
+        "1944"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question_id": 8,
+      "question": "When did the Ottoman siege and fall of Constantinople lead to the end of the Byzantine Empire?",
+      "options": [
+        "1453",
+        "1204",
+        "1261"
+      ],
+      "answer": "1453"
+    },
+    {
+      "question_id": 9,
+      "question": "When was the first edition of Adam Smith's The Wealth of Nations published, influencing economics?",
+      "options": [
+        "1776",
+        "1764",
+        "1789"
+      ],
+      "answer": "1776"
+    },
+    {
+      "question_id": 10,
+      "question": "Which year did the Russian Revolution that led to Bolshevik power occur?",
+      "options": [
+        "1917",
+        "1905",
+        "1924"
+      ],
+      "answer": "1917"
+    },
+    {
+      "question_id": 11,
+      "question": "What year did the Louisiana Purchase double the size of the United States?",
+      "options": [
+        "1803",
+        "1812",
+        "1796"
+      ],
+      "answer": "1803"
+    },
+    {
+      "question_id": 12,
+      "question": "What year did the Salt March conclude when Gandhi reached Dandi, creating international attention?",
+      "options": [
+        "1930",
+        "1929",
+        "1931"
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 13,
+      "question": "Which year marks the start of the Protestant Reformation when Martin Luther posted his 95 Theses?",
+      "options": [
+        "1517",
+        "1492",
+        "1534"
+      ],
+      "answer": "1517"
+    },
+    {
+      "question_id": 14,
+      "question": "What year did Florence Nightingale gain renown for nursing work during the Crimean War?",
+      "options": [
+        "1854",
+        "1848",
+        "1865"
+      ],
+      "answer": "1854"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did the Stockholm Bloodbath, a mass execution in Scandinavian history, occur?",
+      "options": [
+        "1520",
+        "1513",
+        "1536"
+      ],
+      "answer": "1520"
+    }
+  ]
+}

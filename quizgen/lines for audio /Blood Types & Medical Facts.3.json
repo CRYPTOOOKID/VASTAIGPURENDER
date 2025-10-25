@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which blood type can receive red blood cells from any ABO type without ABO incompatibility?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which antibody pattern appears in reverse blood typing to confirm ABO group?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which blood group allele variation results from single nucleotide polymorphisms in ABO exon sequences?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which condition results from incompatible maternal and fetal blood types?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which antigen in the Kell system can cause severe hemolytic disease of the newborn?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which condition is a major indication for exchange transfusion in newborns with severe hemolysis?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which test measures compatibility before transfusion between donor and recipient blood?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which maternal antibody most commonly causes severe fetal anemia without prior sensitization?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did Karl Landsteiner publish discoveries establishing the ABO blood group system?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which component of blood carries oxygen to tissues?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which blood-derived therapy provides concentrated fibrinogen and factor VIII components?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which blood substitute research focuses on oxygen-carrying hemoglobin-based products and perfluorocarbons?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blood type is defined by presence of A antigen and anti-B antibodies?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phenomenon occurs when antibodies cause red cell destruction hours to days after transfusion?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which lab crossmatch method uses antiglobulin phase to detect clinically significant antibodies?"
+    }
+  ]
+}

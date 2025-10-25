@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which percentage corresponds to an event that is certain to occur in probability terms?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which type I error describes rejecting a true null hypothesis and concluding an effect that does not exist?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which inequality provides a bound on the probability that any random variable deviates from its mean by a specified amount using variance?"
+    },
+    {
+      "question_id": 4,
+      "question": "When summarizing categorical data, which measure identifies the most common category observed in the sample?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which error in hypothesis testing occurs when a false null hypothesis is not rejected, missing a real effect?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which statistical test compares two nested models by taking the ratio of their maximized likelihoods?"
+    },
+    {
+      "question_id": 7,
+      "question": "In statistics, what term describes a subset of individuals drawn from a larger population for study?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which statistician authored the influential book 'The Design of Experiments' and formalized analysis of variance methods?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which form of bias occurs when participants choose to join a study, producing nonrepresentative samples due to voluntary response?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the full range of probabilities expressed as percentages, from impossible event to certain event?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statistic indicates the proportion of variance in a dependent variable that a model explains overall?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which nonparametric estimator constructs the survival function from observed event times while accounting for censored observations?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which type of chart commonly displays proportional parts of a whole as slices?"
+    },
+    {
+      "question_id": 14,
+      "question": "What rule approximates normal distribution coverage near one, two, and three standard deviations from the mean?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which general term describes a model's ability to maintain performance on unseen new data rather than just the training dataset?"
+    }
+  ]
+}

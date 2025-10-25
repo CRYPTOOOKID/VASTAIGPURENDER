@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who played Rancho in the coming-of-age film 3 Idiots (2009)?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian film became the country's first Oscar nominee for Best Foreign Language Film?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which veteran duo wrote the screenplay for the blockbuster Sholay (1975)?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which music composer duo dominated many 1990s Bollywood soundtracks?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which composer duo created the score for Dilwale Dulhania Le Jayenge (1995)?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which director launched his career with the film Khamoshi: The Musical (1996)?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which performer appeared in the popular item song 'Munni Badnaam Hui' in Dabangg?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which filmmaker is known for directing Devdas (2002) and Bajirao Mastani (2015)?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which music director was famously nicknamed 'Pancham' and revolutionized Bollywood scores?"
+    },
+    {
+      "question_id": 10,
+      "question": "Shah Rukh Khan's film debut was in which 1992 movie?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which music duo composed the hugely popular Aashiqui soundtrack (1990)?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which cinematographer known for work across Indian cinema shot the visually rich film Black (2005)?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which actor is popularly known by the nickname Big B?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who directed the coming-of-age drama Udaan (2010)?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which actress won a National Award for playing a pregnant single mother in the film Kahaani? "
+    }
+  ]
+}

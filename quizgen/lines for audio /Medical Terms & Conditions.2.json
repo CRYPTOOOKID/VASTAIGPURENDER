@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which symptom best describes 'dyspnea' as used by clinicians?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which organ-specific tumor marker is commonly raised in prostate cancer screening?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which enzyme deficiency underlies classic McArdle disease causing exercise intolerance?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which infection is most commonly associated with Staphylococcus aureus?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which condition involves demyelination in the central nervous system affecting young adults?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which cancer staging system uses T, N, and M categories to describe extent of disease?"
+    },
+    {
+      "question_id": 7,
+      "question": "What condition is indicated by 'hyperglycemia' in laboratory results?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which pathogen causes tuberculosis as detected by acid-fast bacilli staining?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which electrophysiological finding defines atrial fibrillation on electrocardiogram?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'CBC' stand for in routine blood testing?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which diagnostic marker indicates myocardial injury when elevated in blood tests?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which screening criterion defines metabolic syndrome through waist, lipids, blood pressure, glucose abnormalities?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'BMI' measure as a common clinical indicator?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which antimicrobial mechanism do macrolides primarily use to inhibit bacteria?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which clinical triad classically suggests normal pressure hydrocephalus in older adults?"
+    }
+  ]
+}

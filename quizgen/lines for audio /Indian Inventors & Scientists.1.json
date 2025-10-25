@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian mathematician is famous for deep results in number theory and partitions?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian institute launched the Aryabhata satellite project and collaborated with USSR?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian scientist’s equation explains ionization equilibrium in stellar atmospheres?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian-born scientist shared the 1968 Nobel Prize in Physiology or Medicine?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which scientist founded modern ornithology studies in India through systematic bird surveys?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian geneticist synthesized the first fully artificial gene in the 1970s and won a Nobel Prize?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is known as the father of the Indian nuclear program?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which pioneer established the Indian National Committee for Space Research before ISRO formed?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian scientist's limit determines the maximum mass of a stable white dwarf star?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is celebrated as a pioneer of modern Indian engineering and received the title 'Sir'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who directed India’s SLV-3 project that successfully made India a launch-capable nation?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian researcher introduced concepts central to protein conformation mapping in 1963?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who pioneered India’s Green Revolution in agriculture?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian physicist’s work inspired Einstein’s papers on quantum statistics?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist devised methods to measure extremely small plant movements and growth?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Tamil festival involves women preparing kolams and offering thanks for the harvest?",
+      "options": [
+        "Pongal",
+        "Vijayadashami",
+        "Guru Purnima"
+      ],
+      "answer": "Pongal"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival celebrates the divine feminine and culminates in Vijayadashami processions in many states?",
+      "options": [
+        "Navratri",
+        "Eid-ul-Fitr",
+        "Lohri"
+      ],
+      "answer": "Navratri"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival features a public horse or chariot procession called 'Kavad' in some North Indian regions?",
+      "options": [
+        "Dussehra processions",
+        "Karva Chauth",
+        "Pongal"
+      ],
+      "answer": "Dussehra processions"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival is associated with decorating doorways with colorful rangoli patterns?",
+      "options": [
+        "Diwali",
+        "Eid-ul-Fitr",
+        "Karva Chauth"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "question_id": 5,
+      "question": "Which festival's name literally means 'boat journey' and features deities pulled on chariots?",
+      "options": [
+        "Rath Yatra",
+        "Vijayadashami",
+        "Diwali"
+      ],
+      "answer": "Rath Yatra"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival in Kerala is linked to the temple at Thrikkakara and myth of Vamana and Mahabali?",
+      "options": [
+        "Onam at Thrikkakara Temple",
+        "Vishu at Tiruvalla",
+        "Pooram at Guruvayur"
+      ],
+      "answer": "Onam at Thrikkakara Temple"
+    },
+    {
+      "question_id": 7,
+      "question": "Which festival marks the birth of Sikhism's first guru, Guru Nanak?",
+      "options": [
+        "Gurpurab",
+        "Guru Purnima",
+        "Vaisakhi"
+      ],
+      "answer": "Gurpurab"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival features the ritual of drawing intricate rice-paste floor designs called 'kolam' in Tamil Nadu?",
+      "options": [
+        "Pongal",
+        "Dussehra",
+        "Holi"
+      ],
+      "answer": "Pongal"
+    },
+    {
+      "question_id": 9,
+      "question": "Which four river-bank sites rotate as locations for the traditional Kumbh Mela cycle?",
+      "options": [
+        "Prayagraj, Haridwar, Nashik, Ujjain",
+        "Varanasi, Mumbai, Pune, Chennai",
+        "Kolkata, Hyderabad, Lucknow, Amritsar"
+      ],
+      "answer": "Prayagraj, Haridwar, Nashik, Ujjain"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival marks the harvest in Assam with traditional dances like Bihu?",
+      "options": [
+        "Bihu",
+        "Pongal",
+        "Onam"
+      ],
+      "answer": "Bihu"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival involves worship of tools, vehicles, and instruments as part of Durga or Annapurna worship in streets?",
+      "options": [
+        "Ayudha Puja",
+        "Holi",
+        "Guru Purnima"
+      ],
+      "answer": "Ayudha Puja"
+    },
+    {
+      "question_id": 12,
+      "question": "Which festival's central legend involves the demon king Hiranyakashipu and Prahlada's devotion to Vishnu?",
+      "options": [
+        "Holi (Holika story)",
+        "Diwali",
+        "Ganesh Chaturthi"
+      ],
+      "answer": "Holi (Holika story)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival celebrates the birth of Lord Krishna?",
+      "options": [
+        "Janmashtami",
+        "Ganesh Chaturthi",
+        "Raksha Bandhan"
+      ],
+      "answer": "Janmashtami"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival's climax includes the burning of Ravana, Kumbhakarna, and Meghnad effigies?",
+      "options": [
+        "Dussehra",
+        "Holi",
+        "Onam"
+      ],
+      "answer": "Dussehra"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival celebrated in Tamil Nadu marks the Tamil New Year with auspicious rites called 'Puthandu'?",
+      "options": [
+        "Puthandu (Tamil New Year)",
+        "Vishu",
+        "Ugadi"
+      ],
+      "answer": "Puthandu (Tamil New Year)"
+    }
+  ]
+}

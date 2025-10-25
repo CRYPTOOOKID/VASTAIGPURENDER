@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Maharashtra?",
+      "options": [
+        "Mumbai",
+        "Pune",
+        "Nagpur"
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 2,
+      "question": "Which city was officially renamed from Madras to Chennai in 1996?",
+      "options": [
+        "Chennai",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "answer": "Chennai"
+    },
+    {
+      "question_id": 3,
+      "question": "Which state capital's official language name was changed to reflect local pronunciation in a 21st-century renaming?",
+      "options": [
+        "Kolkata",
+        "Mumbai",
+        "Bengaluru"
+      ],
+      "answer": "Kolkata"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Assam?",
+      "options": [
+        "Dispur",
+        "Guwahati",
+        "Tezpur"
+      ],
+      "answer": "Dispur"
+    },
+    {
+      "question_id": 5,
+      "question": "Which state capital is closest to the famous Buddhist ruins of Sanchi?",
+      "options": [
+        "Bhopal",
+        "Indore",
+        "Gwalior"
+      ],
+      "answer": "Bhopal"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital city served as the seasonal summer capital for the rulers of a princely state and now is state capital?",
+      "options": [
+        "Shimla",
+        "Mussoorie",
+        "Nainital"
+      ],
+      "answer": "Shimla"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Himachal Pradesh?",
+      "options": [
+        "Shimla",
+        "Dharamshala",
+        "Solan"
+      ],
+      "answer": "Shimla"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state capital is widely recognized as India's major information technology hub?",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Pune"
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital's metropolitan area includes an ancient port historically known as Muziris?",
+      "options": [
+        "Kochi",
+        "Thiruvananthapuram",
+        "Chennai"
+      ],
+      "answer": "Kochi"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Madhya Pradesh?",
+      "options": [
+        "Bhopal",
+        "Indore",
+        "Gwalior"
+      ],
+      "answer": "Bhopal"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital was planned and established after its state split from Bombay State in 1960?",
+      "options": [
+        "Gandhinagar",
+        "Ahmedabad",
+        "Surat"
+      ],
+      "answer": "Gandhinagar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital city hosted the first session of the Constituent Assembly in its region during pre-independence years?",
+      "options": [
+        "Chennai",
+        "Kolkata",
+        "Mumbai"
+      ],
+      "answer": "Kolkata"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Gujarat?",
+      "options": [
+        "Gandhinagar",
+        "Ahmedabad",
+        "Surat"
+      ],
+      "answer": "Gandhinagar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city was designed by architect Le Corbusier after independence?",
+      "options": [
+        "Chandigarh",
+        "Gandhinagar",
+        "New Delhi"
+      ],
+      "answer": "Chandigarh"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital city is nearest to the archaeological site associated with Emperor Ashoka's edicts in Dhauli?",
+      "options": [
+        "Bhubaneswar",
+        "Cuttack",
+        "Berhampur"
+      ],
+      "answer": "Bhubaneswar"
+    }
+  ]
+}

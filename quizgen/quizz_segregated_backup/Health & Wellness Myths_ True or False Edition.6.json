@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which statement about natural supplements equaling safety is true?",
+      "options": [
+        "All natural supplements are safe at any dose",
+        "Natural supplements can have side effects and interact with medications",
+        "Natural means pharmaceutical-grade always"
+      ],
+      "answer": "Natural supplements can have side effects and interact with medications"
+    },
+    {
+      "question_id": 2,
+      "question": "Which myth about cold viruses and humidity reflects studies?",
+      "options": [
+        "Low humidity environments can increase viral survival and transmission",
+        "High humidity makes viruses harmless instantly",
+        "Humidity has no effect on viral spread"
+      ],
+      "answer": "Low humidity environments can increase viral survival and transmission"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historical example shows a high-profile health myth spread by celebrity endorsement?",
+      "options": [
+        "A celebrity promoted laetrile as a cancer cure despite lack of evidence",
+        "Celebrities never influence public health beliefs",
+        "All celebrity-endorsed remedies were later proven effective"
+      ],
+      "answer": "A celebrity promoted laetrile as a cancer cure despite lack of evidence"
+    },
+    {
+      "question_id": 4,
+      "question": "Which claim about barefoot running preventing injuries is most accurate?",
+      "options": [
+        "Barefoot running prevents all injuries for everyone",
+        "Some runners benefit from barefoot techniques, but injury risk varies",
+        "Barefoot running guarantees faster times"
+      ],
+      "answer": "Some runners benefit from barefoot techniques, but injury risk varies"
+    },
+    {
+      "question_id": 5,
+      "question": "Which finding about probiotic supplements and digestive health is accurate?",
+      "options": [
+        "All probiotics cure every digestive disorder",
+        "Certain probiotic strains can help specific conditions, but results vary by strain and person",
+        "Probiotics permanently colonize everyone identically"
+      ],
+      "answer": "Certain probiotic strains can help specific conditions, but results vary by strain and person"
+    },
+    {
+      "question_id": 6,
+      "question": "Which risk is associated with excessive vitamin D supplementation documented in literature?",
+      "options": [
+        "Very high vitamin D intake can cause hypercalcemia and related complications",
+        "High vitamin D always cures bone disease with no downside",
+        "Vitamin D has no toxicity at any dose"
+      ],
+      "answer": "Very high vitamin D intake can cause hypercalcemia and related complications"
+    },
+    {
+      "question_id": 7,
+      "question": "Which statement about sitting and exercise is true?",
+      "options": [
+        "Short daily exercise completely cancels long sitting periods",
+        "Both regular exercise and reducing sitting improve health",
+        "Sitting has no effect on health if you exercise"
+      ],
+      "answer": "Both regular exercise and reducing sitting improve health"
+    },
+    {
+      "question_id": 8,
+      "question": "Which finding about energy drinks and endurance aligns with studies?",
+      "options": [
+        "Energy drinks always improve endurance without side effects",
+        "Caffeine in energy drinks can temporarily boost performance but carries risks if overused",
+        "Energy drinks reverse dehydration automatically"
+      ],
+      "answer": "Caffeine in energy drinks can temporarily boost performance but carries risks if overused"
+    },
+    {
+      "question_id": 9,
+      "question": "Which epidemiological result links processed meat to cancer risk classifications?",
+      "options": [
+        "IARC classified processed meat as a carcinogen associated with colorectal cancer risk",
+        "Processed meat was cleared as cancer-preventive",
+        "No agency has evaluated processed meat and cancer risk"
+      ],
+      "answer": "IARC classified processed meat as a carcinogen associated with colorectal cancer risk"
+    },
+    {
+      "question_id": 10,
+      "question": "Which belief about microwave ovens is correct?",
+      "options": [
+        "Microwave ovens make food radioactive",
+        "Microwave ovens heat water molecules and do not cause radiation in food",
+        "Microwave ovens remove all nutrients from food"
+      ],
+      "answer": "Microwave ovens heat water molecules and do not cause radiation in food"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statement about bone broth and joint healing reflects evidence?",
+      "options": [
+        "Bone broth instantly regrows cartilage in joints",
+        "Bone broth provides nutrients but lacks strong evidence to regenerate cartilage alone",
+        "Bone broth is medicinally sterile always"
+      ],
+      "answer": "Bone broth provides nutrients but lacks strong evidence to regenerate cartilage alone"
+    },
+    {
+      "question_id": 12,
+      "question": "Which clinical observation challenges claims that raw milk is safer than pasteurized milk?",
+      "options": [
+        "Raw milk poses higher risks of bacterial infections whereas pasteurization reduces those microbial risks",
+        "Raw milk cannot transmit pathogens",
+        "Pasteurization removes all nutritional value from milk"
+      ],
+      "answer": "Raw milk poses higher risks of bacterial infections whereas pasteurization reduces those microbial risks"
+    },
+    {
+      "question_id": 13,
+      "question": "Which historical fact explains the placebo-controlled trial surge in the 20th century?",
+      "options": [
+        "The randomized, placebo-controlled trial design gained prominence post-World War II to evaluate therapies rigorously",
+        "Placebo trials were common in ancient medical schools",
+        "Placebo controls became legal requirements in the 1700s"
+      ],
+      "answer": "The randomized, placebo-controlled trial design gained prominence post-World War II to evaluate therapies rigorously"
+    },
+    {
+      "question_id": 14,
+      "question": "Which experimental result undermines claims that alkaline water significantly changes blood pH?",
+      "options": [
+        "Human blood pH remains tightly regulated despite alkaline water consumption",
+        "Alkaline water permanently alkalizes blood in healthy adults",
+        "Alkaline water neutralizes stomach acid entirely"
+      ],
+      "answer": "Human blood pH remains tightly regulated despite alkaline water consumption"
+    },
+    {
+      "question_id": 15,
+      "question": "Which regulatory action addressed ear candling safety in the United States around 2007?",
+      "options": [
+        "FDA issued warnings against ear candling due to burn and injury risks",
+        "CDC recommended ear candling for earwax removal nationally",
+        "EPA approved ear candling as a medical device"
+      ],
+      "answer": "FDA issued warnings against ear candling due to burn and injury risks"
+    }
+  ]
+}

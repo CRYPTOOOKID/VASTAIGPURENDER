@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an earn-out in M&A?",
+      "options": [
+        "Contingent future payment based on performance",
+        "Immediate tax benefit",
+        "Employee severance plan"
+      ],
+      "answer": "Contingent future payment based on performance"
+    },
+    {
+      "question_id": 2,
+      "question": "What does earnings accretion measure after an acquisition?",
+      "options": [
+        "Number of new employees",
+        "Increase in acquirer's EPS",
+        "Change in market share"
+      ],
+      "answer": "Increase in acquirer's EPS"
+    },
+    {
+      "question_id": 3,
+      "question": "Which legal instrument often governs indemnities and post-closing claims?",
+      "options": [
+        "Tender offer announcement",
+        "Purchase agreement representations and warranties",
+        "Proxy statement"
+      ],
+      "answer": "Purchase agreement representations and warranties"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a tender offer?",
+      "options": [
+        "Loan to the target company",
+        "Announcement of merger talks",
+        "Bid to buy shares directly from shareholders"
+      ],
+      "answer": "Bid to buy shares directly from shareholders"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a merger of equals?",
+      "options": [
+        "Company sells a unit",
+        "One company buys a small asset",
+        "Two companies combine with shared governance"
+      ],
+      "answer": "Two companies combine with shared governance"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept measures expected cost-cutting benefits from combining companies?",
+      "options": [
+        "Revenue synergies",
+        "Cost synergies",
+        "Brand synergies"
+      ],
+      "answer": "Cost synergies"
+    },
+    {
+      "question_id": 7,
+      "question": "Who typically advises on M&A transactions?",
+      "options": [
+        "Retail customers",
+        "Human resources firms",
+        "Investment banks"
+      ],
+      "answer": "Investment banks"
+    },
+    {
+      "question_id": 8,
+      "question": "Which is an example of a strategic buyer?",
+      "options": [
+        "Employee group buying the company",
+        "Company seeking synergies by acquiring a competitor",
+        "Private equity firm seeking returns"
+      ],
+      "answer": "Company seeking synergies by acquiring a competitor"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 2000 takeover is often cited as the largest corporate acquisition by value?",
+      "options": [
+        "Vodafone's acquisition of Mannesmann",
+        "AOL's acquisition of Time Warner",
+        "Exxon's merger with Mobil"
+      ],
+      "answer": "Vodafone's acquisition of Mannesmann"
+    },
+    {
+      "question_id": 10,
+      "question": "Who negotiates purchase price in M&A?",
+      "options": [
+        "Employees and customers",
+        "Buyers and sellers",
+        "Regulators and courts"
+      ],
+      "answer": "Buyers and sellers"
+    },
+    {
+      "question_id": 11,
+      "question": "In which year did AOL announce its merger with Time Warner?",
+      "options": [
+        "2005",
+        "2000",
+        "1995"
+      ],
+      "answer": "2000"
+    },
+    {
+      "question_id": 12,
+      "question": "Which financing source commonly supplies high-yield debt in LBOs?",
+      "options": [
+        "Customer deposits",
+        "Institutional investors in the leveraged loan and high-yield markets",
+        "Retail bank savings accounts"
+      ],
+      "answer": "Institutional investors in the leveraged loan and high-yield markets"
+    },
+    {
+      "question_id": 13,
+      "question": "What is an asset purchase in M&A?",
+      "options": [
+        "Buyer purchases specific assets and liabilities",
+        "Government seizes assets",
+        "Buyer buys entire company shares only"
+      ],
+      "answer": "Buyer purchases specific assets and liabilities"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a management buyout (MBO)?",
+      "options": [
+        "Rival buys the company",
+        "Managers acquire the company they run",
+        "Government nationalizes the firm"
+      ],
+      "answer": "Managers acquire the company they run"
+    },
+    {
+      "question_id": 15,
+      "question": "What is a white squire in takeover contexts?",
+      "options": [
+        "Hostile bidder seeking full control",
+        "Regulator imposing merger conditions",
+        "Investor who buys a blocking minority stake to defend the target"
+      ],
+      "answer": "Investor who buys a blocking minority stake to defend the target"
+    }
+  ]
+}

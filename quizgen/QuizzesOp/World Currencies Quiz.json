@@ -1,0 +1,829 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the official currency of Japan?",
+        "options": [
+          "Yen",
+          "Won",
+          "Dollar"
+        ],
+        "answer": "Yen"
+      },
+      {
+        "question": "Which currency uses the symbol €?",
+        "options": [
+          "Euro",
+          "Pound Sterling",
+          "Ruble"
+        ],
+        "answer": "Euro"
+      },
+      {
+        "question": "What currency is used in the United States?",
+        "options": [
+          "Dollar",
+          "Peso",
+          "Franc"
+        ],
+        "answer": "Dollar"
+      },
+      {
+        "question": "Which currency is used in the United Kingdom?",
+        "options": [
+          "Pound Sterling",
+          "Euro",
+          "Norwegian Krone"
+        ],
+        "answer": "Pound Sterling"
+      },
+      {
+        "question": "What is the currency of Canada?",
+        "options": [
+          "Canadian Dollar",
+          "Australian Dollar",
+          "New Zealand Dollar"
+        ],
+        "answer": "Canadian Dollar"
+      },
+      {
+        "question": "Which country uses the rupee as its currency?",
+        "options": [
+          "India",
+          "Brazil",
+          "Sweden"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What currency is used in Australia?",
+        "options": [
+          "Australian Dollar",
+          "Canadian Dollar",
+          "US Dollar"
+        ],
+        "answer": "Australian Dollar"
+      },
+      {
+        "question": "Which currency uses the abbreviation CHF?",
+        "options": [
+          "Swiss Franc",
+          "Czech Koruna",
+          "South African Rand"
+        ],
+        "answer": "Swiss Franc"
+      },
+      {
+        "question": "What is the currency of China?",
+        "options": [
+          "Renminbi (Yuan)",
+          "Won",
+          "Ruble"
+        ],
+        "answer": "Renminbi (Yuan)"
+      },
+      {
+        "question": "Which currency uses the symbol ₩?",
+        "options": [
+          "South Korean Won",
+          "Japanese Yen",
+          "Turkish Lira"
+        ],
+        "answer": "South Korean Won"
+      },
+      {
+        "question": "What currency does Mexico use?",
+        "options": [
+          "Peso",
+          "Real",
+          "Dollar"
+        ],
+        "answer": "Peso"
+      },
+      {
+        "question": "Which common currency is used by many European Union countries?",
+        "options": [
+          "Euro",
+          "Pound",
+          "Dinar"
+        ],
+        "answer": "Euro"
+      },
+      {
+        "question": "What currency is used in Brazil?",
+        "options": [
+          "Real",
+          "Peso",
+          "Dollar"
+        ],
+        "answer": "Real"
+      },
+      {
+        "question": "Which currency is used in Russia?",
+        "options": [
+          "Ruble",
+          "Forint",
+          "Leu"
+        ],
+        "answer": "Ruble"
+      },
+      {
+        "question": "What is the currency of South Africa?",
+        "options": [
+          "Rand",
+          "Pound",
+          "Shilling"
+        ],
+        "answer": "Rand"
+      },
+      {
+        "question": "Which currency uses the symbol ₹?",
+        "options": [
+          "Indian Rupee",
+          "Pakistani Rupee",
+          "Sri Lankan Rupee"
+        ],
+        "answer": "Indian Rupee"
+      },
+      {
+        "question": "What currency is used in Turkey?",
+        "options": [
+          "Turkish Lira",
+          "Euro",
+          "Dollar"
+        ],
+        "answer": "Turkish Lira"
+      },
+      {
+        "question": "Which currency is official in Sweden?",
+        "options": [
+          "Swedish Krona",
+          "Euro",
+          "Danish Krone"
+        ],
+        "answer": "Swedish Krona"
+      },
+      {
+        "question": "What currency do Egypt and several North African countries use historically under the same name?",
+        "options": [
+          "Pound",
+          "Dirham",
+          "Dinar"
+        ],
+        "answer": "Pound"
+      },
+      {
+        "question": "Which currency is used in Argentina?",
+        "options": [
+          "Argentine Peso",
+          "Chilean Peso",
+          "Boliviano"
+        ],
+        "answer": "Argentine Peso"
+      },
+      {
+        "question": "What currency is used in New Zealand?",
+        "options": [
+          "New Zealand Dollar",
+          "Australian Dollar",
+          "US Dollar"
+        ],
+        "answer": "New Zealand Dollar"
+      },
+      {
+        "question": "Which currency uses the abbreviation JPY?",
+        "options": [
+          "Japanese Yen",
+          "Jordanian Dinar",
+          "Jamaican Dollar"
+        ],
+        "answer": "Japanese Yen"
+      },
+      {
+        "question": "What currency is used in Saudi Arabia?",
+        "options": [
+          "Saudi Riyal",
+          "United Arab Emirates Dirham",
+          "Qatari Riyal"
+        ],
+        "answer": "Saudi Riyal"
+      },
+      {
+        "question": "Which currency is used in Norway?",
+        "options": [
+          "Norwegian Krone",
+          "Swedish Krona",
+          "Euro"
+        ],
+        "answer": "Norwegian Krone"
+      },
+      {
+        "question": "What currency is used in Switzerland?",
+        "options": [
+          "Swiss Franc",
+          "Euro",
+          "Pound"
+        ],
+        "answer": "Swiss Franc"
+      },
+      {
+        "question": "Which currency is used by Japan's neighbors with a similar name but different symbol?",
+        "options": [
+          "Yen (Japan)",
+          "Renminbi (China)",
+          "Won (Korea)"
+        ],
+        "answer": "Yen (Japan)"
+      },
+      {
+        "question": "What currency is used in Chile?",
+        "options": [
+          "Chilean Peso",
+          "Argentine Peso",
+          "Colombian Peso"
+        ],
+        "answer": "Chilean Peso"
+      },
+      {
+        "question": "Which currency is used in Indonesia?",
+        "options": [
+          "Rupiah",
+          "Ringgit",
+          "Baht"
+        ],
+        "answer": "Rupiah"
+      },
+      {
+        "question": "What currency is used in the Philippines?",
+        "options": [
+          "Philippine Peso",
+          "Indonesian Rupiah",
+          "Malaysian Ringgit"
+        ],
+        "answer": "Philippine Peso"
+      },
+      {
+        "question": "Which currency is used in Malaysia?",
+        "options": [
+          "Ringgit",
+          "Rupiah",
+          "Baht"
+        ],
+        "answer": "Ringgit"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which African country uses the CFA franc issued by the West African states?",
+        "options": [
+          "Senegal",
+          "Egypt",
+          "Kenya"
+        ],
+        "answer": "Senegal"
+      },
+      {
+        "question": "Which currency replaced the Zimbabwean dollar after hyperinflation and before a new local currency?",
+        "options": [
+          "US Dollar",
+          "Euro",
+          "South African Rand"
+        ],
+        "answer": "US Dollar"
+      },
+      {
+        "question": "Which currency is pegged to the US dollar by the United Arab Emirates?",
+        "options": [
+          "UAE Dirham",
+          "Qatari Riyal",
+          "Saudi Riyal"
+        ],
+        "answer": "UAE Dirham"
+      },
+      {
+        "question": "What currency did the Euro replace in Germany in 2002?",
+        "options": [
+          "Deutsche Mark",
+          "East German Mark",
+          "Rentenmark"
+        ],
+        "answer": "Deutsche Mark"
+      },
+      {
+        "question": "Which currency uses the ISO code INR?",
+        "options": [
+          "Indian Rupee",
+          "Indonesian Rupiah",
+          "Iraqi Dinar"
+        ],
+        "answer": "Indian Rupee"
+      },
+      {
+        "question": "Which country issues the currency called the 'tugrik'?",
+        "options": [
+          "Mongolia",
+          "Kazakhstan",
+          "Uzbekistan"
+        ],
+        "answer": "Mongolia"
+      },
+      {
+        "question": "Which currency uses the symbol ₱?",
+        "options": [
+          "Philippine Peso",
+          "Pakistani Rupee",
+          "Peruvian Sol"
+        ],
+        "answer": "Philippine Peso"
+      },
+      {
+        "question": "Which European microstate uses the Swiss franc for practical circulation?",
+        "options": [
+          "Liechtenstein",
+          "San Marino",
+          "Andorra"
+        ],
+        "answer": "Liechtenstein"
+      },
+      {
+        "question": "What currency was the first to be fully decimalized in 1793 influencing others?",
+        "options": [
+          "US Dollar",
+          "British Pound",
+          "French Franc"
+        ],
+        "answer": "US Dollar"
+      },
+      {
+        "question": "Which South American country uses the guarani as its currency?",
+        "options": [
+          "Paraguay",
+          "Uruguay",
+          "Bolivia"
+        ],
+        "answer": "Paraguay"
+      },
+      {
+        "question": "Which currency is known for featuring Queen Elizabeth II on many banknotes before her passing?",
+        "options": [
+          "Pound Sterling",
+          "Euro",
+          "US Dollar"
+        ],
+        "answer": "Pound Sterling"
+      },
+      {
+        "question": "Which Asian currency switched from the 'old' to a new series featuring modern security in 2006 with polymer notes later?",
+        "options": [
+          "Australian Dollar",
+          "Malaysian Ringgit",
+          "New Zealand Dollar"
+        ],
+        "answer": "Australian Dollar"
+      },
+      {
+        "question": "Which country uses the manat as its currency?",
+        "options": [
+          "Azerbaijan",
+          "Armenia",
+          "Georgia"
+        ],
+        "answer": "Azerbaijan"
+      },
+      {
+        "question": "Which currency's name derives from the Greek word for 'money' and is used in Cyprus historically?",
+        "options": [
+          "Pound",
+          "Euro",
+          "Drachma"
+        ],
+        "answer": "Drachma"
+      },
+      {
+        "question": "Which currency is the legal tender of the Cayman Islands?",
+        "options": [
+          "Cayman Islands Dollar",
+          "Bahamian Dollar",
+          "US Dollar"
+        ],
+        "answer": "Cayman Islands Dollar"
+      },
+      {
+        "question": "Which currency uses the ISO code ZAR?",
+        "options": [
+          "South African Rand",
+          "Zambian Kwacha",
+          "Zimbabwean Dollar"
+        ],
+        "answer": "South African Rand"
+      },
+      {
+        "question": "Which country adopted the euro but retains its own coins for collector issues?",
+        "options": [
+          "Vatican City",
+          "Switzerland",
+          "United Kingdom"
+        ],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "Which currency is subdivided into 100 lere and used in Albania?",
+        "options": [
+          "Lek",
+          "Dinar",
+          "Krona"
+        ],
+        "answer": "Lek"
+      },
+      {
+        "question": "Which Caribbean country uses the East Caribbean dollar shared among multiple states?",
+        "options": [
+          "Saint Lucia",
+          "Jamaica",
+          "Barbados"
+        ],
+        "answer": "Saint Lucia"
+      },
+      {
+        "question": "Which currency uses the name 'forint' and is used in Hungary?",
+        "options": [
+          "Hungarian Forint",
+          "Polish Zloty",
+          "Czech Koruna"
+        ],
+        "answer": "Hungarian Forint"
+      },
+      {
+        "question": "Which currency replaced the Soviet ruble in many former Soviet states as they gained independence?",
+        "options": [
+          "New national currencies (various)",
+          "Euro",
+          "US Dollar"
+        ],
+        "answer": "New national currencies (various)"
+      },
+      {
+        "question": "Which country issues the Belize dollar pegged to the US dollar at a fixed rate?",
+        "options": [
+          "Belize",
+          "Barbados",
+          "Trinidad and Tobago"
+        ],
+        "answer": "Belize"
+      },
+      {
+        "question": "Which currency is unique for being made primarily of polymer rather than paper in many series?",
+        "options": [
+          "Australian Dollar",
+          "Euro",
+          "US Dollar"
+        ],
+        "answer": "Australian Dollar"
+      },
+      {
+        "question": "Which African country uses the cedi as its currency?",
+        "options": [
+          "Ghana",
+          "Nigeria",
+          "Kenya"
+        ],
+        "answer": "Ghana"
+      },
+      {
+        "question": "Which currency is used in Switzerland and Liechtenstein and sometimes abbreviated as 'Fr.'?",
+        "options": [
+          "Swiss Franc",
+          "Euro",
+          "British Pound"
+        ],
+        "answer": "Swiss Franc"
+      },
+      {
+        "question": "Which European country uses the lek and once had a currency called the 'dollar' historically?",
+        "options": [
+          "Albania",
+          "Greece",
+          "Bulgaria"
+        ],
+        "answer": "Albania"
+      },
+      {
+        "question": "Which currency is issued by the Eastern Caribbean Central Bank?",
+        "options": [
+          "East Caribbean Dollar",
+          "Caribbean Peso",
+          "US Dollar"
+        ],
+        "answer": "East Caribbean Dollar"
+      },
+      {
+        "question": "Which currency uses the ISO code NOK?",
+        "options": [
+          "Norwegian Krone",
+          "Danish Krone",
+          "Swedish Krona"
+        ],
+        "answer": "Norwegian Krone"
+      },
+      {
+        "question": "Which South Asian country uses the rupee but with a unique script on notes called 'Lao'",
+        "options": [
+          "Nepal",
+          "Sri Lanka",
+          "Bhutan"
+        ],
+        "answer": "Nepal"
+      },
+      {
+        "question": "Which currency experienced the longest continuous gold backing in modern history influencing global trade?",
+        "options": [
+          "Pound Sterling",
+          "US Dollar",
+          "Swiss Franc"
+        ],
+        "answer": "Pound Sterling"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which country issues the 'krona' spelled 'króna' in its local language and briefly reformed it in 2003?",
+        "options": [
+          "Iceland",
+          "Sweden",
+          "Norway"
+        ],
+        "answer": "Iceland"
+      },
+      {
+        "question": "Which currency's name comes from the Italian word for 'crown' and is used in several Northern European countries?",
+        "options": [
+          "Krone/Krona/Krone variants",
+          "Lira",
+          "Peso"
+        ],
+        "answer": "Krone/Krona/Krone variants"
+      },
+      {
+        "question": "Which currency underwent redenomination in 2015 where 100 old units became 1 new unit due to inflation?",
+        "options": [
+          "Venezuelan Bolívar",
+          "Turkish Lira",
+          "Russian Ruble"
+        ],
+        "answer": "Venezuelan Bolívar"
+      },
+      {
+        "question": "Which country uses the 'sol' as its currency and reintroduced it in 1991 to stabilize the economy?",
+        "options": [
+          "Peru",
+          "Chile",
+          "Ecuador"
+        ],
+        "answer": "Peru"
+      },
+      {
+        "question": "Which currency uses the escudo name historically and returned as a local coinage option in a Portuguese territory?",
+        "options": [
+          "Cape Verde Escudo",
+          "Mozambique Escudo",
+          "Angolan Escudo"
+        ],
+        "answer": "Cape Verde Escudo"
+      },
+      {
+        "question": "Which country’s currency includes a banknote series commemorating a famous composer on its highest denomination?",
+        "options": [
+          "Austria",
+          "Hungary",
+          "Czech Republic"
+        ],
+        "answer": "Austria"
+      },
+      {
+        "question": "Which currency's central bank famously intervened in FX markets in 2011 to cap appreciation against the euro?",
+        "options": [
+          "Swiss Franc (SNB)",
+          "Norwegian Krone (Norges Bank)",
+          "Swedish Krona (Riksbank)"
+        ],
+        "answer": "Swiss Franc (SNB)"
+      },
+      {
+        "question": "Which currency once circulated as the 'Maria Theresa thaler' widely accepted across Africa and the Middle East?",
+        "options": [
+          "Austro-Hungarian Thaler",
+          "British Pound",
+          "Spanish Dollar"
+        ],
+        "answer": "Austro-Hungarian Thaler"
+      },
+      {
+        "question": "Which Asian currency was re-pegged to a trade-weighted basket in the 2000s after devaluation pressure?",
+        "options": [
+          "Singapore Dollar (managed float)",
+          "Hong Kong Dollar (peg)",
+          "Thai Baht"
+        ],
+        "answer": "Singapore Dollar (managed float)"
+      },
+      {
+        "question": "Which currency issued the world's first polymer banknote in 1988?",
+        "options": [
+          "Australian Dollar",
+          "New Zealand Dollar",
+          "Canadian Dollar"
+        ],
+        "answer": "Australian Dollar"
+      },
+      {
+        "question": "Which African country introduced the kwanza and has redenominated it multiple times since independence?",
+        "options": [
+          "Angola",
+          "Mozambique",
+          "Namibia"
+        ],
+        "answer": "Angola"
+      },
+      {
+        "question": "Which currency uses the denomination 'pa'anga' and is the official currency of a Pacific island nation?",
+        "options": [
+          "Tongan Paʻanga",
+          "Fijian Dollar",
+          "Samoan Tala"
+        ],
+        "answer": "Tongan Paʻanga"
+      },
+      {
+        "question": "Which currency features portraits of national heroes rather than monarchs on most banknotes since republican transition?",
+        "options": [
+          "Turkish Lira",
+          "British Pound",
+          "Japanese Yen"
+        ],
+        "answer": "Turkish Lira"
+      },
+      {
+        "question": "Which South American country adopted a currency board in the 1990s that pegged its peso to the US dollar to fight inflation?",
+        "options": [
+          "Argentina",
+          "Brazil",
+          "Chile"
+        ],
+        "answer": "Argentina"
+      },
+      {
+        "question": "Which small European country's currency shares legal tender status with the euro but issues its own coins: San Marino or Monaco?",
+        "options": [
+          "Both San Marino and Monaco issue coins",
+          "Only San Marino issues coins",
+          "Only Monaco issues coins"
+        ],
+        "answer": "Both San Marino and Monaco issue coins"
+      },
+      {
+        "question": "Which currency was demonetized in India in 2016 as part of a move against counterfeit currency?",
+        "options": [
+          "500 and 1000 rupee notes",
+          "200 and 50 rupee notes",
+          "100 and 20 rupee notes"
+        ],
+        "answer": "500 and 1000 rupee notes"
+      },
+      {
+        "question": "Which currency is subdivided into 100 centimes and was used in a North African country under French administration?",
+        "options": [
+          "Algerian Dinar pre-independence French Franc linkage",
+          "Egyptian Pound",
+          "Moroccan Dirham"
+        ],
+        "answer": "Algerian Dinar pre-independence French Franc linkage"
+      },
+      {
+        "question": "Which East Asian currency is known for using vertical script on some older banknote designs?",
+        "options": [
+          "Japanese Yen",
+          "Chinese Renminbi",
+          "Korean Won"
+        ],
+        "answer": "Japanese Yen"
+      },
+      {
+        "question": "Which country introduced a 'bimonetary' system using both a local currency and the US dollar after 2009 crisis?",
+        "options": [
+          "Cuba",
+          "Haiti",
+          "Honduras"
+        ],
+        "answer": "Cuba"
+      },
+      {
+        "question": "Which European country retained its currency unit named 'dinar' across multiple political regimes in the Balkans?",
+        "options": [
+          "Serbia",
+          "Slovenia",
+          "Croatia"
+        ],
+        "answer": "Serbia"
+      },
+      {
+        "question": "Which currency's highest-denomination note once reached a face value in the millions during a famous hyperinflation episode?",
+        "options": [
+          "Zimbabwean Dollar",
+          "Hungarian Pengő",
+          "German Papiermark"
+        ],
+        "answer": "Zimbabwean Dollar"
+      },
+      {
+        "question": "Which Southeast Asian currency is issued in coins called 'sen' and notes called 'ringgit'?",
+        "options": [
+          "Malaysian Ringgit",
+          "Indonesian Rupiah",
+          "Thai Baht"
+        ],
+        "answer": "Malaysian Ringgit"
+      },
+      {
+        "question": "Which country’s currency includes a plurality of languages on its banknotes reflecting multiple official languages?",
+        "options": [
+          "South Africa",
+          "Canada",
+          "India"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which historically gold-backed currency established the gold standard widely used in global trade in the 19th century?",
+        "options": [
+          "British Pound Sterling",
+          "French Franc",
+          "US Dollar"
+        ],
+        "answer": "British Pound Sterling"
+      },
+      {
+        "question": "Which currency's coins include a micro-engraved hologram as a security feature introduced in the 2010s?",
+        "options": [
+          "Euro (recent series)",
+          "US Dollar",
+          "Japanese Yen"
+        ],
+        "answer": "Euro (recent series)"
+      },
+      {
+        "question": "Which Middle Eastern currency uses the dinar and was historically among the most stable in the region due to oil revenues?",
+        "options": [
+          "Kuwaiti Dinar",
+          "Iraqi Dinar",
+          "Jordanian Dinar"
+        ],
+        "answer": "Kuwaiti Dinar"
+      },
+      {
+        "question": "Which country uses a currency called the 'lek' and experienced major monetary reform after World War II?",
+        "options": [
+          "Albania",
+          "Greece",
+          "Romania"
+        ],
+        "answer": "Albania"
+      },
+      {
+        "question": "Which currency was part of a successful currency board arrangement in Hong Kong maintaining a tight peg to the US dollar?",
+        "options": [
+          "Hong Kong Dollar",
+          "Macanese Pataca",
+          "Chinese Renminbi"
+        ],
+        "answer": "Hong Kong Dollar"
+      },
+      {
+        "question": "Which currency featured the portrait of Mustafa Kemal Atatürk after a major redesign post-1923 republican reforms?",
+        "options": [
+          "Turkish Lira",
+          "Greek Drachma",
+          "Bulgarian Lev"
+        ],
+        "answer": "Turkish Lira"
+      },
+      {
+        "question": "Which Scandinavian currency historically used 'öre' and 'krona' before EU-era adjustments?",
+        "options": [
+          "Swedish Krona",
+          "Danish Krone",
+          "Norwegian Krone"
+        ],
+        "answer": "Swedish Krona"
+      },
+      {
+        "question": "Which European microstate issues euro coins bearing its own national designs under agreement with the EU?",
+        "options": [
+          "Monaco",
+          "Switzerland",
+          "Liechtenstein"
+        ],
+        "answer": "Monaco"
+      }
+    ]
+  }
+}

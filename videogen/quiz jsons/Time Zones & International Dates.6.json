@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the term for the official legal time used by a country?",
+      "options": [
+        "Standard time",
+        "Local mean time",
+        "Solar time"
+      ],
+      "answer": "Standard time"
+    },
+    {
+      "question_id": 2,
+      "question": "Which body is responsible for publishing and maintaining official time standards like UTC?",
+      "options": [
+        "World Time Organization",
+        "International Bureau of Weights and Measures (BIPM)",
+        "United Nations Time Authority"
+      ],
+      "answer": "International Bureau of Weights and Measures (BIPM)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country set its time zone to UTC+8 in 1949 but saw local unofficial times remain in use for years?",
+      "options": [
+        "China",
+        "Indonesia",
+        "Philippines"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 4,
+      "question": "Which hemisphere experiences longer daylight hours in June?",
+      "options": [
+        "Southern Hemisphere",
+        "Northern Hemisphere",
+        "Both equally"
+      ],
+      "answer": "Northern Hemisphere"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country uses UTC+5:30 as its national time?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 6,
+      "question": "Which measurement defines the SI second using a cesium-133 atomic transition frequency?",
+      "options": [
+        "86,400 oscillations",
+        "1,000,000 oscillations",
+        "9,192,631,770 oscillations"
+      ],
+      "answer": "9,192,631,770 oscillations"
+    },
+    {
+      "question_id": 7,
+      "question": "What does UTC stand for in timekeeping?",
+      "options": [
+        "Universal Time Calculation",
+        "Coordinated Universal Time",
+        "United Time Code"
+      ],
+      "answer": "Coordinated Universal Time"
+    },
+    {
+      "question_id": 8,
+      "question": "Which factor often determines whether a country keeps DST: latitude, population size, or elevation?",
+      "options": [
+        "Latitude",
+        "Population size",
+        "Elevation"
+      ],
+      "answer": "Latitude"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Pacific nation uses a 45-minute offset (UTC-3:30) for part of its territory?",
+      "options": [
+        "None; 45-minute offsets occur elsewhere",
+        "Argentina",
+        "New Zealand"
+      ],
+      "answer": "None; 45-minute offsets occur elsewhere"
+    },
+    {
+      "question_id": 10,
+      "question": "If New York is UTC-5 during standard time, what is its offset during standard time?",
+      "options": [
+        "UTC+5",
+        "UTC-5",
+        "UTC+0"
+      ],
+      "answer": "UTC-5"
+    },
+    {
+      "question_id": 11,
+      "question": "Which U.S. state observes Atlantic Standard Time for most of the year?",
+      "options": [
+        "Puerto Rico",
+        "Hawaii",
+        "Washington"
+      ],
+      "answer": "Puerto Rico"
+    },
+    {
+      "question_id": 12,
+      "question": "Which mathematician's work underpins timekeeping and the definition of the second via atomic transitions? ",
+      "options": [
+        "Willis E. Lamb (atomic spectroscopy researcher)",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "answer": "Willis E. Lamb (atomic spectroscopy researcher)"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a time zone primarily based on?",
+      "options": [
+        "Latitude",
+        "Longitude",
+        "Altitude"
+      ],
+      "answer": "Longitude"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Latin American country uses UTC-4:30 as its standard time historically?",
+      "options": [
+        "Peru",
+        "Chile",
+        "Venezuela"
+      ],
+      "answer": "Venezuela"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country maintains unique legal definitions for time in different regions leading to multiple 'official' times?",
+      "options": [
+        "Brazil",
+        "Australia",
+        "Russia"
+      ],
+      "answer": "Australia"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which river meets the Yamuna and Saraswati at the Triveni Sangam at Prayagraj?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which small river drains into Chilika Lake near Puri, Odisha?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river is the primary freshwater source for the city of Guwahati and flows through Assam?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which major project is built on the Narmada River?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which western Ghats river forms the large backwater and port system at Kochi?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river's basin encompasses the Konkan coast's Western Ghats rain catchment areas?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which river drains into the Rann of Kutch and is the main river of western Rajasthan?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which major port in Odisha lies on the mouth of the Mahanadi River?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which two rivers create the classic 'Doab' region in northern India?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which river's distributary flows past Kolkata?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river is associated with the historic city of Srirangapatna in Karnataka?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river in India is the principal contributor to the island ecosystems of the Sundarbans?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river is formed by the confluence of the Tunga and Bhadra rivers?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which historic anicut, one of the world's oldest dams, is built across the Kaveri?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river is the longest tributary of the Ganges by length?"
+    }
+  ]
+}

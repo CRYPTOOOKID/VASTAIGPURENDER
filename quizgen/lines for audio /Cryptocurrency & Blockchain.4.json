@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'peer-to-peer' in cryptocurrency networks?"
+    },
+    {
+      "question_id": 2,
+      "question": "When did Ethereum launch its mainnet?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the main privacy trade-off of on-chain mixers like CoinJoin?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a stablecoin designed to do?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is an oracle in smart contract ecosystems?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is ECDH commonly used for in cryptocurrency systems?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'gas' refer to on Ethereum?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which tool shows on-chain analytics like addresses and flows?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which protocol enables stateless clients and light verification in blockchain nodes?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'KYC' stand for in crypto exchanges?"
+    },
+    {
+      "question_id": 11,
+      "question": "What mechanism prevents double-spending in Bitcoin?"
+    },
+    {
+      "question_id": 12,
+      "question": "What mechanism does Bitcoin use to adjust mining difficulty?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which hash algorithm does Bitcoin use for proof-of-work?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is an ERC-20 'approve' function commonly used for?"
+    },
+    {
+      "question_id": 15,
+      "question": "What does 're-org' mean in blockchain operation terms?"
+    }
+  ]
+}

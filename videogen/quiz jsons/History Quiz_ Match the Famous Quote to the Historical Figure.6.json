@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who famously declared \"Give me liberty or give me death\" during a colonial speech?",
+      "options": [
+        "John Adams",
+        "Samuel Adams",
+        "Patrick Henry"
+      ],
+      "answer": "Patrick Henry"
+    },
+    {
+      "question_id": 2,
+      "question": "Which American president said \"The buck stops here\" placing responsibility in the Oval Office?",
+      "options": [
+        "Harry S. Truman",
+        "Herbert Hoover",
+        "Dwight D. Eisenhower"
+      ],
+      "answer": "Harry S. Truman"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote \"Give me chastity and continence, but not yet\" in playful theological reflection?",
+      "options": [
+        "Boethius",
+        "St. Jerome",
+        "St. Augustine"
+      ],
+      "answer": "St. Augustine"
+    },
+    {
+      "question_id": 4,
+      "question": "Who famously stated \"I came, I saw, I conquered\" in Latin?",
+      "options": [
+        "Julius Caesar",
+        "Alexander the Great",
+        "Hannibal Barca"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 5,
+      "question": "Which revolutionary wrote \"Give me liberty, or give me death\" in a famous Virginia speech?",
+      "options": [
+        "George Mason",
+        "Patrick Henry",
+        "Thomas Paine"
+      ],
+      "answer": "Patrick Henry"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote \"Better to die on your feet than live on your knees\" in anti-colonial struggle?",
+      "options": [
+        "Pancho Villa",
+        "José Martí",
+        "Emiliano Zapata"
+      ],
+      "answer": "Emiliano Zapata"
+    },
+    {
+      "question_id": 7,
+      "question": "Which activist said \"The only thing necessary for evil to triumph is for good men to do nothing\"?",
+      "options": [
+        "John Locke",
+        "Edmund Burke",
+        "Thomas Paine"
+      ],
+      "answer": "Edmund Burke"
+    },
+    {
+      "question_id": 8,
+      "question": "Who said \"You must be the change you wish to see in the world\"?",
+      "options": [
+        "Bhagat Singh",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Renaissance thinker wrote \"Fortune favors the bold\" in a treatise on rulers and risk?",
+      "options": [
+        "Marsilio Ficino",
+        "Giovanni Pico della Mirandola",
+        "Niccolò Machiavelli"
+      ],
+      "answer": "Niccolò Machiavelli"
+    },
+    {
+      "question_id": 10,
+      "question": "Who famously said \"Let them eat cake\" is popularly attributed to which figure?",
+      "options": [
+        "Queen Victoria",
+        "Catherine the Great",
+        "Marie Antoinette"
+      ],
+      "answer": "Marie Antoinette"
+    },
+    {
+      "question_id": 11,
+      "question": "Which leader said \"The only limit to our realization of tomorrow is our doubts of today\"?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Harry S. Truman",
+        "John F. Kennedy"
+      ],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Irish leader declared \"The cause of liberty is not the cause of a race\" during independence?",
+      "options": [
+        "Daniel O'Connell",
+        "Charles Stewart Parnell",
+        "Michael Collins"
+      ],
+      "answer": "Daniel O'Connell"
+    },
+    {
+      "question_id": 13,
+      "question": "Who opened a famed address with \"Four score and seven years ago\"?",
+      "options": [
+        "Abraham Lincoln",
+        "Ulysses S. Grant",
+        "Andrew Johnson"
+      ],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote \"Those who cannot remember the past are condemned to repeat it\" as a historian?",
+      "options": [
+        "Arthur Schlesinger",
+        "George Santayana",
+        "Edward Gibbon"
+      ],
+      "answer": "George Santayana"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"It is easier to ask forgiveness than permission\" attributed to a pragmatic wartime leader?",
+      "options": [
+        "Grace Hopper",
+        "Eleanor Roosevelt",
+        "Winston Churchill"
+      ],
+      "answer": "Grace Hopper"
+    }
+  ]
+}

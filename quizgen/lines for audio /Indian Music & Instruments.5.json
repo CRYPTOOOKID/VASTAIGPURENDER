@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which South Indian percussion instrument is double-headed and central to Carnatic music?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which bowed instrument resembling a small sarangi is used in Sikh kirtan and classical music?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which ancient Indian treatise by Bharata Muni is the foundational text on music and dance?"
+    },
+    {
+      "question_id": 4,
+      "question": "What are the solfa syllables used in Indian classical music notation?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which classical form uses a rhythmic mnemonic and improvisation tradition in Carnatic percussion?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which specific string category on the sitar vibrates sympathetically beneath the main strings?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which bowed folk instrument from Rajasthan uses a spike and is often decorative?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which gharana is celebrated for its bold, ornamented vocal style including layakari and taans?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which structural element names the fixed composition in a dhrupad performance before improvisation begins?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which musical genre in India is primarily devotional and sung in temples or homes?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which melodic drone string on a sitar is struck during fast concluding passages called jhala?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which stringed instrument uses a goat-skin overlay on a wooden soundboard and a metal fingerboard for slides?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which small frame drum appears in South Indian concerts and accompanies mridangam sometimes?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which instrument uses a goat-skin or calf membrane and a hollow wooden body in South India?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which instrument uses a heavy carved bridge and a curved fingernail plectrum called mizrab on one hand?"
+    }
+  ]
+}

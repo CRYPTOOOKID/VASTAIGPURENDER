@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "If it is noon UTC, what time is it at UTC+3?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which island country set its time zone forward by 24 hours in 1995 to align with trading partners?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technology's adoption in the 19th century most required synchronized time across cities?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city defines GMT historically?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which U.S. state moved its time zone border in 2007 to better align with trade patterns?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country's legal time was advanced by 30 minutes in 1982 to reduce power usage during peak hours?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country spans the most time zones including overseas territories?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which treaty established the prime meridian at Greenwich in 1884?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which major capital officially changed time zone in 1919 to support postwar commerce?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country changed its standard time to reduce confusion with neighboring regions?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European country stopped observing Daylight Saving Time in 1975 but later resumed?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which island in the Pacific uses UTC-9:30 as its standard time?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the main practical purpose of the International Date Line?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which organization coordinates leap second decisions?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which historical figure promoted Greenwich as the prime meridian through naval influence?"
+    }
+  ]
+}

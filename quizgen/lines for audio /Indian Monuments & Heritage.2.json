@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which city is home to the Charminar landmark?"
+    },
+    {
+      "question_id": 2,
+      "question": "How many surviving major temples form the Khajuraho Group of Monuments today?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which fort complex includes the Rang Mahal and Diwan-i-Khas built by Shah Jahan?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Dravidian-style temple is known for its towering gopuram at Thanjavur?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fort near Jaipur is famous for its Sheesh Mahal with mirror work?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Southern dynasty built the Airavatesvara Temple included in Chola heritage?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Mughal-era mausoleum is called the 'Baby Taj' in Agra?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indo-Islamic style palace in Rajasthan exhibits painted ceilings and mirrors?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Mughal monument in Delhi experienced major restoration controversies in the 20th century?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which monument in Delhi is the tomb of Emperor Humayun?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which temple at Mahabalipuram features rock-cut rathas (chariots) from Pallava times?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rock-cut Kailasa temple at Ellora replicates a complete temple from top down?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which monument in Delhi was designed by Edwin Lutyens as a war memorial?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Mughal structure in Agra served as both fortress and royal residence?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which emirate's architectural program includes the UNESCO-listed Elephanta Caves date?"
+    }
+  ]
+}

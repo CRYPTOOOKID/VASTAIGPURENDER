@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which medieval practice placed horse skulls or shoe fragments in farm buildings to protect livestock?",
+      "options": [
+        "Sacrificial middens",
+        "Harvest offerings",
+        "Apotropaic livestock deposits"
+      ],
+      "answer": "Apotropaic livestock deposits"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the academic term for protective carved motifs often scratched into medieval church walls?",
+      "options": [
+        "Iconoclastic scars",
+        "Gothic graffiti",
+        "Apotropaic marks"
+      ],
+      "answer": "Apotropaic marks"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early modern English figure documented witchcraft and superstitions in his 1589 pamphlet?",
+      "options": [
+        "John Dee",
+        "William Shakespeare",
+        "Reginald Scot"
+      ],
+      "answer": "Reginald Scot"
+    },
+    {
+      "question_id": 4,
+      "question": "Which historical amulet tradition inscribed pseudo-letters and symbols to confuse malevolent spirits?",
+      "options": [
+        "Heraldic mottoes",
+        "Runic legal codes",
+        "Gnostic magical texts"
+      ],
+      "answer": "Gnostic magical texts"
+    },
+    {
+      "question_id": 5,
+      "question": "Which island's folklore attributes household misfortune to small shadowy beings called 'piskies'?",
+      "options": [
+        "Isle of Man folklore",
+        "Faroes folklore",
+        "Shetland folklore"
+      ],
+      "answer": "Isle of Man folklore"
+    },
+    {
+      "question_id": 6,
+      "question": "Which psychologist wrote on illusion, belief, and ritual linking superstition to contingency learning?",
+      "options": [
+        "B. F. Skinner",
+        "Carl Jung",
+        "Wilhelm Wundt"
+      ],
+      "answer": "B. F. Skinner"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes belief systems where spirits inhabit natural objects like trees and stones?",
+      "options": [
+        "Pantheism",
+        "Dualism",
+        "Animism"
+      ],
+      "answer": "Animism"
+    },
+    {
+      "question_id": 8,
+      "question": "Which carved symbol combining intersecting lines is frequently found above medieval English doorways?",
+      "options": [
+        "Compass rose or daisy wheel",
+        "Labrys symbol",
+        "Celtic cross"
+      ],
+      "answer": "Compass rose or daisy wheel"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 20th-century study influenced scholarly understanding of belief persistence and ritual repetition?",
+      "options": [
+        "Max Weber's law study",
+        "Bronislaw Malinowski's fieldwork",
+        "Sigmund Freud's essays"
+      ],
+      "answer": "Bronislaw Malinowski's fieldwork"
+    },
+    {
+      "question_id": 10,
+      "question": "Which prehistoric motif, often circular with spokes, appears in Europe and was used for protection?",
+      "options": [
+        "Chevron band",
+        "Daisy wheel",
+        "Celtic knot"
+      ],
+      "answer": "Daisy wheel"
+    },
+    {
+      "question_id": 11,
+      "question": "Which cultural tradition ties the number nine to mystical significance and long life in Norse myth?",
+      "options": [
+        "Mayan calendar",
+        "Norse cosmology",
+        "Sumerian numerology"
+      ],
+      "answer": "Norse cosmology"
+    },
+    {
+      "question_id": 12,
+      "question": "Which anthropological term denotes rituals that reduce anxiety by creating predictable actions under uncertainty?",
+      "options": [
+        "Societal scripting",
+        "Ritual coping",
+        "Mythic structuring"
+      ],
+      "answer": "Ritual coping"
+    },
+    {
+      "question_id": 13,
+      "question": "Which East Mediterranean symbol combines an eye and a hand to protect households from envy?",
+      "options": [
+        "Hand of Miriam (Hamsa)",
+        "Labrys",
+        "Triskelion"
+      ],
+      "answer": "Hand of Miriam (Hamsa)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which archaeological finds indicate prehistoric peoples used amulets of carved bone and stone for protection?",
+      "options": [
+        "Iron Age coins",
+        "Neolithic amulet assemblages",
+        "Bronze Age chariots"
+      ],
+      "answer": "Neolithic amulet assemblages"
+    },
+    {
+      "question_id": 15,
+      "question": "Which island culture historically placed protective stones called 'fakatau' near thresholds?",
+      "options": [
+        "Sami culture",
+        "Basque culture",
+        "Tongan culture"
+      ],
+      "answer": "Tongan culture"
+    }
+  ]
+}

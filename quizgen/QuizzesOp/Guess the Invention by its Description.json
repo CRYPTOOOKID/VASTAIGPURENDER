@@ -1,0 +1,847 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which invention uses a sequence of letters to find information on a network of computers?",
+        "options": [
+          "Telephone",
+          "Search engine",
+          "Light bulb"
+        ],
+        "answer": "Search engine"
+      },
+      {
+        "question": "What invention allowed people to record moving images and sound for the first time?",
+        "options": [
+          "Photograph",
+          "Motion picture camera",
+          "Radio"
+        ],
+        "answer": "Motion picture camera"
+      },
+      {
+        "question": "Which invention lets users send written messages instantly over long distances using the internet?",
+        "options": [
+          "Email",
+          "Postal mail",
+          "Telegraph"
+        ],
+        "answer": "Email"
+      },
+      {
+        "question": "Which invention provides indoor lighting by converting electricity into light?",
+        "options": [
+          "Gas lamp",
+          "Light bulb",
+          "Candlestick"
+        ],
+        "answer": "Light bulb"
+      },
+      {
+        "question": "What invention made long-distance voice communication possible in real time?",
+        "options": [
+          "Television",
+          "Telephone",
+          "Phonograph"
+        ],
+        "answer": "Telephone"
+      },
+      {
+        "question": "Which device records and plays sound using mechanical grooves on a disc?",
+        "options": [
+          "Gramophone",
+          "MP3 player",
+          "Compact cassette"
+        ],
+        "answer": "Gramophone"
+      },
+      {
+        "question": "Which invention uses steam pressure to move pistons and power machinery?",
+        "options": [
+          "Electric motor",
+          "Steam engine",
+          "Internal combustion engine"
+        ],
+        "answer": "Steam engine"
+      },
+      {
+        "question": "Which invention lets people travel quickly above ground along fixed rails?",
+        "options": [
+          "Car",
+          "Ship",
+          "Train"
+        ],
+        "answer": "Train"
+      },
+      {
+        "question": "Which invention prints text and images onto paper using movable type?",
+        "options": [
+          "Printing press",
+          "Typewriter",
+          "Photocopier"
+        ],
+        "answer": "Printing press"
+      },
+      {
+        "question": "Which invention stores and plays back visual images on a screen using electronic signals?",
+        "options": [
+          "Radio",
+          "Television",
+          "Projector"
+        ],
+        "answer": "Television"
+      },
+      {
+        "question": "Which invention lets people capture still images on film chemically sensitive to light?",
+        "options": [
+          "Digital camera",
+          "Photographic camera",
+          "Scanner"
+        ],
+        "answer": "Photographic camera"
+      },
+      {
+        "question": "Which invention enabled sailors to determine direction using Earth's magnetic field?",
+        "options": [
+          "Astrolabe",
+          "Compass",
+          "Sextant"
+        ],
+        "answer": "Compass"
+      },
+      {
+        "question": "Which invention transmits sound without wires using electromagnetic waves?",
+        "options": [
+          "Telegraph",
+          "Radio",
+          "Telephone"
+        ],
+        "answer": "Radio"
+      },
+      {
+        "question": "Which invention allows rapid exchange of coded messages over long distances using electric pulses?",
+        "options": [
+          "Telephone",
+          "Telegraph",
+          "Semaphore"
+        ],
+        "answer": "Telegraph"
+      },
+      {
+        "question": "Which invention provides breathable air at deep underwater depths for humans?",
+        "options": [
+          "Diving bell",
+          "Scuba gear",
+          "Periscope"
+        ],
+        "answer": "Scuba gear"
+      },
+      {
+        "question": "Which invention uses a lens and mirror system to magnify distant objects for observation?",
+        "options": [
+          "Binoculars",
+          "Microscope",
+          "Telescope"
+        ],
+        "answer": "Telescope"
+      },
+      {
+        "question": "Which invention improved navigation by measuring latitude using the angle of stars?",
+        "options": [
+          "Sextant",
+          "Compass",
+          "Chronometer"
+        ],
+        "answer": "Sextant"
+      },
+      {
+        "question": "Which invention allowed people to view moving pictures at home with recorded sound?",
+        "options": [
+          "Phonograph",
+          "Television",
+          "Slide projector"
+        ],
+        "answer": "Television"
+      },
+      {
+        "question": "Which invention uses compressed air or vacuum to lift and move heavy objects?",
+        "options": [
+          "Crane",
+          "Elevator",
+          "Pulley"
+        ],
+        "answer": "Crane"
+      },
+      {
+        "question": "Which invention uses rotating blades to create lift and enable vertical flight?",
+        "options": [
+          "Airplane",
+          "Helicopter",
+          "Glider"
+        ],
+        "answer": "Helicopter"
+      },
+      {
+        "question": "Which invention automates textile production by weaving yarn into fabric faster?",
+        "options": [
+          "Spinning wheel",
+          "Loom",
+          "Sewing machine"
+        ],
+        "answer": "Loom"
+      },
+      {
+        "question": "Which invention stitches fabric automatically using a needle and thread?",
+        "options": [
+          "Knitting loom",
+          "Sewing machine",
+          "Embroidery hoop"
+        ],
+        "answer": "Sewing machine"
+      },
+      {
+        "question": "Which invention lets users calculate arithmetic operations mechanically with wheels or keys?",
+        "options": [
+          "Abacus",
+          "Calculator",
+          "Slide rule"
+        ],
+        "answer": "Calculator"
+      },
+      {
+        "question": "Which invention displays printed words by striking inked type onto paper keys?",
+        "options": [
+          "Printer",
+          "Typewriter",
+          "Word processor"
+        ],
+        "answer": "Typewriter"
+      },
+      {
+        "question": "Which invention stores electrical energy chemically for portable use?",
+        "options": [
+          "Battery",
+          "Generator",
+          "Capacitor"
+        ],
+        "answer": "Battery"
+      },
+      {
+        "question": "Which invention converts chemical energy into motion within vehicles using controlled explosions?",
+        "options": [
+          "Steam engine",
+          "Electric motor",
+          "Internal combustion engine"
+        ],
+        "answer": "Internal combustion engine"
+      },
+      {
+        "question": "Which invention enables people to measure time precisely using oscillating mechanisms?",
+        "options": [
+          "Sundial",
+          "Clock",
+          "Hourglass"
+        ],
+        "answer": "Clock"
+      },
+      {
+        "question": "Which invention uses radio waves to detect distant objects and measure range?",
+        "options": [
+          "Sonar",
+          "Radar",
+          "Lidar"
+        ],
+        "answer": "Radar"
+      },
+      {
+        "question": "Which invention allows people to view microscopic organisms by magnifying tiny details?",
+        "options": [
+          "Telescope",
+          "Microscope",
+          "Magnifying glass"
+        ],
+        "answer": "Microscope"
+      },
+      {
+        "question": "Which invention revolutionized food preservation by rapidly cooling and freezing perishable items?",
+        "options": [
+          "Oven",
+          "Refrigerator",
+          "Dehydrator"
+        ],
+        "answer": "Refrigerator"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which invention introduced the concept of mass-produced, interchangeable parts in manufacturing?",
+        "options": [
+          "Steam engine",
+          "Assembly line",
+          "Cotton gin"
+        ],
+        "answer": "Assembly line"
+      },
+      {
+        "question": "Which invention first allowed long-distance wireless voice transmission using amplitude modulation?",
+        "options": [
+          "FM radio",
+          "AM radio",
+          "Radar"
+        ],
+        "answer": "AM radio"
+      },
+      {
+        "question": "Which early computing device used punch cards for programming and data input?",
+        "options": [
+          "ENIAC",
+          "Analytical Engine",
+          "Hollerith tabulating machine"
+        ],
+        "answer": "Hollerith tabulating machine"
+      },
+      {
+        "question": "Which invention's patent by Alexander Graham Bell in 1876 transformed voice communication?",
+        "options": [
+          "Phonograph",
+          "Telephone",
+          "Telegraph"
+        ],
+        "answer": "Telephone"
+      },
+      {
+        "question": "Which invention enabled rapid global communication by laying fiber-optic cables under oceans?",
+        "options": [
+          "Satellite",
+          "Undersea telegraph",
+          "Submarine fiber-optic cable"
+        ],
+        "answer": "Submarine fiber-optic cable"
+      },
+      {
+        "question": "Which invention did James Watt significantly improve to power factories during the Industrial Revolution?",
+        "options": [
+          "Steam engine",
+          "Internal combustion engine",
+          "Electric generator"
+        ],
+        "answer": "Steam engine"
+      },
+      {
+        "question": "Which invention introduced the world to consumer digital photography with instant digital files?",
+        "options": [
+          "35mm film camera",
+          "Digital camera",
+          "Polaroid camera"
+        ],
+        "answer": "Digital camera"
+      },
+      {
+        "question": "Which invention first used a conserved vacuum tube amplifier to enable early electronic computers?",
+        "options": [
+          "Transistor",
+          "Vacuum tube",
+          "Integrated circuit"
+        ],
+        "answer": "Vacuum tube"
+      },
+      {
+        "question": "Which invention simplified sewing for home users by automating the lockstitch mechanism?",
+        "options": [
+          "Hand needle",
+          "Sewing machine",
+          "Embroidery machine"
+        ],
+        "answer": "Sewing machine"
+      },
+      {
+        "question": "Which invention combined moving pictures with synchronized sound for commercial films in 1927?",
+        "options": [
+          "Color film",
+          "Talkies",
+          "CinemaScope"
+        ],
+        "answer": "Talkies"
+      },
+      {
+        "question": "Which invention created a practical method to measure longitude at sea using precision timekeeping?",
+        "options": [
+          "Sextant",
+          "Marine chronometer",
+          "Astrolabe"
+        ],
+        "answer": "Marine chronometer"
+      },
+      {
+        "question": "Which invention uses a rotating drum and magnetic tape to record audio for playback?",
+        "options": [
+          "Compact disc",
+          "Magnetic tape recorder",
+          "Wax cylinder"
+        ],
+        "answer": "Magnetic tape recorder"
+      },
+      {
+        "question": "Which invention enabled mass transit across cities using electric traction on rails?",
+        "options": [
+          "Horsecar",
+          "Electric tram",
+          "Petrol bus"
+        ],
+        "answer": "Electric tram"
+      },
+      {
+        "question": "Which invention mechanized the separation of cotton fibers from seeds, boosting textile production?",
+        "options": [
+          "Spinning jenny",
+          "Cotton gin",
+          "Loom"
+        ],
+        "answer": "Cotton gin"
+      },
+      {
+        "question": "Which invention combined wireless telephony with satellite relays to enable global broadcasts?",
+        "options": [
+          "Undersea cable",
+          "Communication satellite",
+          "Microwave link"
+        ],
+        "answer": "Communication satellite"
+      },
+      {
+        "question": "Which invention used a semiconductor junction to replace vacuum tubes for smaller electronics?",
+        "options": [
+          "Transistor",
+          "Triode",
+          "Vacuum tube"
+        ],
+        "answer": "Transistor"
+      },
+      {
+        "question": "Which invention allowed surgeons to perform complex procedures with reduced pain using localized agents?",
+        "options": [
+          "Antiseptics",
+          "Anesthesia",
+          "Sterilization"
+        ],
+        "answer": "Anesthesia"
+      },
+      {
+        "question": "Which invention stores programs and data in binary form inside early electronic computers?",
+        "options": [
+          "Hard drive",
+          "Magnetic core memory",
+          "Punch cards"
+        ],
+        "answer": "Magnetic core memory"
+      },
+      {
+        "question": "Which invention first made widespread indoor air cooling practical for buildings?",
+        "options": [
+          "Fan",
+          "Evaporative cooler",
+          "Mechanical air conditioning"
+        ],
+        "answer": "Mechanical air conditioning"
+      },
+      {
+        "question": "Which invention allowed multiple telephone conversations over a single wire using frequency separation?",
+        "options": [
+          "Digital multiplexing",
+          "Frequency-division multiplexing",
+          "Amplitude modulation"
+        ],
+        "answer": "Frequency-division multiplexing"
+      },
+      {
+        "question": "Which invention used a mechanical computing concept of conditional branching proposed by Ada Lovelace's collaborator?",
+        "options": [
+          "ENIAC",
+          "Analytical Engine",
+          "Difference Engine"
+        ],
+        "answer": "Analytical Engine"
+      },
+      {
+        "question": "Which invention made practical electricity distribution possible with alternating current transformers?",
+        "options": [
+          "Direct current generator",
+          "AC transformer",
+          "Battery"
+        ],
+        "answer": "AC transformer"
+      },
+      {
+        "question": "Which invention first demonstrated wireless data communication between computers in the ARPANET era?",
+        "options": [
+          "Email",
+          "Packet switching",
+          "Ethernet"
+        ],
+        "answer": "Packet switching"
+      },
+      {
+        "question": "Which invention significantly reduced infant mortality by allowing sterile surgical environments?",
+        "options": [
+          "Antibiotics",
+          "Antiseptic techniques",
+          "Vaccination"
+        ],
+        "answer": "Antiseptic techniques"
+      },
+      {
+        "question": "Which invention converts rotational motion into linear motion in internal combustion engines?",
+        "options": [
+          "Camshaft",
+          "Crankshaft",
+          "Timing belt"
+        ],
+        "answer": "Crankshaft"
+      },
+      {
+        "question": "Which invention introduced the first practical electric light using carbonized bamboo filament?",
+        "options": [
+          "Arc lamp",
+          "Edison's light bulb",
+          "Fluorescent lamp"
+        ],
+        "answer": "Edison's light bulb"
+      },
+      {
+        "question": "Which invention enabled the modern smartphone by integrating computing and cellular radios on a single chip?",
+        "options": [
+          "Discrete transistors",
+          "System-on-chip",
+          "Vacuum tubes"
+        ],
+        "answer": "System-on-chip"
+      },
+      {
+        "question": "Which invention improved food storage by creating household freezers with mechanical compressors?",
+        "options": [
+          "Ice box",
+          "Mechanical refrigerator",
+          "Canning"
+        ],
+        "answer": "Mechanical refrigerator"
+      },
+      {
+        "question": "Which invention allowed cars to start reliably without hand cranks using an electric starter motor?",
+        "options": [
+          "Carburetor",
+          "Electric starter",
+          "Ignition coil"
+        ],
+        "answer": "Electric starter"
+      },
+      {
+        "question": "Which invention enabled real-time global navigation for civilians using satellite signals?",
+        "options": [
+          "LORAN",
+          "GPS",
+          "Radar"
+        ],
+        "answer": "GPS"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which invention's original patent drawing depicted a practical inkjet printing method in the 19th century?",
+        "options": [
+          "Dot matrix printer",
+          "Continuous inkjet",
+          "Lithographic press"
+        ],
+        "answer": "Continuous inkjet"
+      },
+      {
+        "question": "Which invention implemented vacuum tubes in the Harvard Mark I to perform automatic arithmetic?",
+        "options": [
+          "ENIAC",
+          "Harvard Mark I",
+          "UNIVAC"
+        ],
+        "answer": "Harvard Mark I"
+      },
+      {
+        "question": "Which invention used the Wiener filter concept early in signal processing for speech enhancement?",
+        "options": [
+          "FM radio",
+          "Noise-cancelling headphones",
+          "AM radio"
+        ],
+        "answer": "Noise-cancelling headphones"
+      },
+      {
+        "question": "Which invention introduced the MOSFET enabling modern transistor scaling in the 1960s?",
+        "options": [
+          "Bipolar junction transistor",
+          "MOSFET",
+          "Vacuum tube"
+        ],
+        "answer": "MOSFET"
+      },
+      {
+        "question": "Which invention's early prototype used a 'cat's whisker' junction to demodulate radio signals?",
+        "options": [
+          "Crystal radio",
+          "Thermionic valve",
+          "Superheterodyne receiver"
+        ],
+        "answer": "Crystal radio"
+      },
+      {
+        "question": "Which invention first used the von Neumann architecture to store program instructions with data?",
+        "options": [
+          "ENIAC",
+          "EDSAC",
+          "Manchester Baby"
+        ],
+        "answer": "EDSAC"
+      },
+      {
+        "question": "Which invention's design relied on Bessemer's process to mass-produce steel rails for railways?",
+        "options": [
+          "Suspension bridge",
+          "Steel railroad tracks",
+          "Ironclad ship"
+        ],
+        "answer": "Steel railroad tracks"
+      },
+      {
+        "question": "Which invention's breakthrough used deep trench isolation to shrink CMOS device leakage?",
+        "options": [
+          "FinFET",
+          "Planar CMOS",
+          "SOI CMOS"
+        ],
+        "answer": "SOI CMOS"
+      },
+      {
+        "question": "Which invention used the 'Moore's Law' observation to guide semiconductor roadmap planning?",
+        "options": [
+          "Integrated circuit",
+          "Vacuum tube computer",
+          "Relays"
+        ],
+        "answer": "Integrated circuit"
+      },
+      {
+        "question": "Which invention introduced the first widely adopted non-volatile flash memory for solid-state storage?",
+        "options": [
+          "Magnetic core memory",
+          "EEPROM",
+          "Flash memory"
+        ],
+        "answer": "Flash memory"
+      },
+      {
+        "question": "Which invention used the Gaudí-inspired parabolic arch principles to improve structural efficiency in bridges?",
+        "options": [
+          "Cantilever bridge",
+          "Arch bridge",
+          "Beam bridge"
+        ],
+        "answer": "Arch bridge"
+      },
+      {
+        "question": "Which invention incorporated the first practical use of H.264/AVC for high-efficiency video compression?",
+        "options": [
+          "MPEG-2",
+          "H.264 encoder",
+          "MJPEG"
+        ],
+        "answer": "H.264 encoder"
+      },
+      {
+        "question": "Which invention's concept used Rutherford's scattering experiments to advance particle detector design?",
+        "options": [
+          "Cloud chamber",
+          "Geiger counter",
+          "Photomultiplier tube"
+        ],
+        "answer": "Cloud chamber"
+      },
+      {
+        "question": "Which invention used Faraday's law to create practical electrical generators with rotating coils?",
+        "options": [
+          "Dynamo",
+          "Battery",
+          "Transformer"
+        ],
+        "answer": "Dynamo"
+      },
+      {
+        "question": "Which invention's first commercial model implemented the von Neumann stored-program idea in 1949?",
+        "options": [
+          "Manchester Baby",
+          "EDSAC",
+          "ENIAC"
+        ],
+        "answer": "EDSAC"
+      },
+      {
+        "question": "Which invention popularized the TCP/IP suite for scalable internetworking in the early 1980s?",
+        "options": [
+          "ARPANET",
+          "Proprietary LAN",
+          "Token ring"
+        ],
+        "answer": "ARPANET"
+      },
+      {
+        "question": "Which invention used the Nyquist–Shannon sampling theorem to enable digital audio recording fidelity?",
+        "options": [
+          "Phonograph",
+          "Digital audio recorder",
+          "Magnetic tape"
+        ],
+        "answer": "Digital audio recorder"
+      },
+      {
+        "question": "Which invention's early applications used Geiger–Müller tubes to detect ionizing radiation counts?",
+        "options": [
+          "PET scanner",
+          "X-ray tube",
+          "Geiger counter"
+        ],
+        "answer": "Geiger counter"
+      },
+      {
+        "question": "Which invention achieved dramatic range increases using the superheterodyne principle in radios?",
+        "options": [
+          "Direct-conversion receiver",
+          "Superheterodyne receiver",
+          "Crystal set"
+        ],
+        "answer": "Superheterodyne receiver"
+      },
+      {
+        "question": "Which invention employed the Prandtl wing theory to optimize lift and reduce drag in aircraft design?",
+        "options": [
+          "Biplane",
+          "Airfoil wing",
+          "Rotary wing"
+        ],
+        "answer": "Airfoil wing"
+      },
+      {
+        "question": "Which invention used asymmetric encryption to enable secure key exchange over insecure channels?",
+        "options": [
+          "Symmetric cipher",
+          "Public-key cryptography",
+          "One-time pad"
+        ],
+        "answer": "Public-key cryptography"
+      },
+      {
+        "question": "Which invention's computational breakthrough relied on Fast Fourier Transform to accelerate spectral analysis?",
+        "options": [
+          "Analogue filter",
+          "Digital signal processor",
+          "Vacuum tube amplifier"
+        ],
+        "answer": "Digital signal processor"
+      },
+      {
+        "question": "Which invention introduced the first practical lithium-ion battery commercialization for portable electronics?",
+        "options": [
+          "Lead-acid battery",
+          "Nickel-cadmium battery",
+          "Lithium-ion battery"
+        ],
+        "answer": "Lithium-ion battery"
+      },
+      {
+        "question": "Which invention harnessed the Coandă effect in early jet engine designs to improve thrust control?",
+        "options": [
+          "Turbojet",
+          "Piston engine",
+          "Rocket engine"
+        ],
+        "answer": "Turbojet"
+      },
+      {
+        "question": "Which invention integrated relational algebra to enable complex queries in early database systems?",
+        "options": [
+          "Flat file system",
+          "Relational database",
+          "Hierarchical database"
+        ],
+        "answer": "Relational database"
+      },
+      {
+        "question": "Which invention used error-correcting Reed–Solomon codes to improve digital storage and satellite communication?",
+        "options": [
+          "Analogue radio",
+          "Reed–Solomon encoder",
+          "Vacuum tube"
+        ],
+        "answer": "Reed–Solomon encoder"
+      },
+      {
+        "question": "Which invention leveraged the Hall effect in sensors to measure magnetic fields for precision control?",
+        "options": [
+          "Hall effect sensor",
+          "Optical encoder",
+          "Thermistor"
+        ],
+        "answer": "Hall effect sensor"
+      },
+      {
+        "question": "Which invention's original vacuum-tube implementation consumed kilowatts but proved computing feasibility?",
+        "options": [
+          "ENIAC",
+          "Personal computer",
+          "Abacus"
+        ],
+        "answer": "ENIAC"
+      },
+      {
+        "question": "Which invention applied Markov models and hidden Markov models to advance automated speech recognition?",
+        "options": [
+          "Gramophone",
+          "Speech recognizer",
+          "Teleprinter"
+        ],
+        "answer": "Speech recognizer"
+      },
+      {
+        "question": "Which invention's secure hash algorithms underpin digital signatures and modern blockchain integrity?",
+        "options": [
+          "MD5 hash",
+          "Secure hash algorithm family",
+          "CRC32"
+        ],
+        "answer": "Secure hash algorithm family"
+      },
+      {
+        "question": "Which invention used silicon-on-insulator processes to reduce parasitic capacitance in microelectronics?",
+        "options": [
+          "Bulk silicon CMOS",
+          "SOI process",
+          "Vacuum tube"
+        ],
+        "answer": "SOI process"
+      },
+      {
+        "question": "Which invention used adaptive optics to correct atmospheric distortion in large ground telescopes?",
+        "options": [
+          "Space telescope",
+          "Adaptive optics system",
+          "Refracting telescope"
+        ],
+        "answer": "Adaptive optics system"
+      },
+      {
+        "question": "Which invention employed CRISPR-Cas systems to enable programmable genome editing in living cells?",
+        "options": [
+          "Zinc-finger nucleases",
+          "CRISPR-Cas genome editing",
+          "Random mutagenesis"
+        ],
+        "answer": "CRISPR-Cas genome editing"
+      }
+    ]
+  }
+}

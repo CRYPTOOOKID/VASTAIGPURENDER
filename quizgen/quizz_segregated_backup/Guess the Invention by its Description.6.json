@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention stitches fabric automatically using a needle and thread?",
+      "options": [
+        "Knitting loom",
+        "Sewing machine",
+        "Embroidery hoop"
+      ],
+      "answer": "Sewing machine"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention first demonstrated wireless data communication between computers in the ARPANET era?",
+      "options": [
+        "Email",
+        "Packet switching",
+        "Ethernet"
+      ],
+      "answer": "Packet switching"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention first used the von Neumann architecture to store program instructions with data?",
+      "options": [
+        "ENIAC",
+        "EDSAC",
+        "Manchester Baby"
+      ],
+      "answer": "EDSAC"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention lets people capture still images on film chemically sensitive to light?",
+      "options": [
+        "Digital camera",
+        "Photographic camera",
+        "Scanner"
+      ],
+      "answer": "Photographic camera"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention enabled rapid global communication by laying fiber-optic cables under oceans?",
+      "options": [
+        "Satellite",
+        "Undersea telegraph",
+        "Submarine fiber-optic cable"
+      ],
+      "answer": "Submarine fiber-optic cable"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention introduced the first practical lithium-ion battery commercialization for portable electronics?",
+      "options": [
+        "Lead-acid battery",
+        "Nickel-cadmium battery",
+        "Lithium-ion battery"
+      ],
+      "answer": "Lithium-ion battery"
+    },
+    {
+      "question_id": 7,
+      "question": "What invention made long-distance voice communication possible in real time?",
+      "options": [
+        "Television",
+        "Telephone",
+        "Phonograph"
+      ],
+      "answer": "Telephone"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention first allowed long-distance wireless voice transmission using amplitude modulation?",
+      "options": [
+        "FM radio",
+        "AM radio",
+        "Radar"
+      ],
+      "answer": "AM radio"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention used error-correcting Reed–Solomon codes to improve digital storage and satellite communication?",
+      "options": [
+        "Analogue radio",
+        "Reed–Solomon encoder",
+        "Vacuum tube"
+      ],
+      "answer": "Reed–Solomon encoder"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention allows people to view microscopic organisms by magnifying tiny details?",
+      "options": [
+        "Telescope",
+        "Microscope",
+        "Magnifying glass"
+      ],
+      "answer": "Microscope"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention significantly reduced infant mortality by allowing sterile surgical environments?",
+      "options": [
+        "Antibiotics",
+        "Antiseptic techniques",
+        "Vaccination"
+      ],
+      "answer": "Antiseptic techniques"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention used the Nyquist–Shannon sampling theorem to enable digital audio recording fidelity?",
+      "options": [
+        "Phonograph",
+        "Digital audio recorder",
+        "Magnetic tape"
+      ],
+      "answer": "Digital audio recorder"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention stores electrical energy chemically for portable use?",
+      "options": [
+        "Battery",
+        "Generator",
+        "Capacitor"
+      ],
+      "answer": "Battery"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention uses a rotating drum and magnetic tape to record audio for playback?",
+      "options": [
+        "Compact disc",
+        "Magnetic tape recorder",
+        "Wax cylinder"
+      ],
+      "answer": "Magnetic tape recorder"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention used silicon-on-insulator processes to reduce parasitic capacitance in microelectronics?",
+      "options": [
+        "Bulk silicon CMOS",
+        "SOI process",
+        "Vacuum tube"
+      ],
+      "answer": "SOI process"
+    }
+  ]
+}

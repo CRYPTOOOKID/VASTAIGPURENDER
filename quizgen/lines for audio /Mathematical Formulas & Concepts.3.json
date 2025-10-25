@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'b' usually represent in quadratic ax^2 + bx + c?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which identity relates e^x as a series?"
+    },
+    {
+      "question_id": 3,
+      "question": "What concept does Noether's theorem connect to conserved quantities?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which inequality describes all real numbers x with absolute value less than 5?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the area under one period of sin(x) from 0 to 2π?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which test uses limsup_{n→∞} √[n]{|a_n|} to assess series?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which formula calculates the perimeter of a square?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the Laplace transform of 1 (unit step) as a function of s?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which special function solves y'' + ky = 0 with varying k leading to Bessel's equation when in polar coordinates?"
+    },
+    {
+      "question_id": 10,
+      "question": "What operation does '∑' represent?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the standard deviation formula for population data (σ)?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which decomposition writes positive-definite matrix A as product of lower triangular and its transpose?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which formula gives the area of a rectangle?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which substitution simplifies integrals of form ∫f'(x)/f(x) dx?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the main statement of spectral theorem for normal operators on finite-dimensional inner product spaces?"
+    }
+  ]
+}

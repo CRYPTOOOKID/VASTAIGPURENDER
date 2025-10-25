@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In which year was the United Nations founded?",
+      "options": [
+        "1945",
+        "1919",
+        "1950"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question_id": 2,
+      "question": "Which year did the Statute of Westminster grant legislative independence to British Dominions?",
+      "options": [
+        "1931",
+        "1919",
+        "1947"
+      ],
+      "answer": "1931"
+    },
+    {
+      "question_id": 3,
+      "question": "In what year did the Pilgrims land at Plymouth Rock and establish Plymouth Colony?",
+      "options": [
+        "1630",
+        "1607",
+        "1620"
+      ],
+      "answer": "1620"
+    },
+    {
+      "question_id": 4,
+      "question": "In which year did Napoleon Bonaparte become Emperor of the French?",
+      "options": [
+        "1815",
+        "1804",
+        "1799"
+      ],
+      "answer": "1804"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year saw the formation of NATO as a collective defense alliance?",
+      "options": [
+        "1949",
+        "1939",
+        "1955"
+      ],
+      "answer": "1949"
+    },
+    {
+      "question_id": 6,
+      "question": "When was the Rosetta Stone engraved, enabling the decipherment of Egyptian hieroglyphs after discovery?",
+      "options": [
+        "30 BCE",
+        "196 BCE",
+        "332 BCE"
+      ],
+      "answer": "196 BCE"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did Gandhi lead the Salt March against British salt taxes?",
+      "options": [
+        "1920",
+        "1930",
+        "1942"
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 8,
+      "question": "When was the Edict of Nantes, granting religious toleration in France, issued?",
+      "options": [
+        "1598",
+        "1610",
+        "1572"
+      ],
+      "answer": "1598"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did Ferdinand Magellan's expedition begin the first circumnavigation of the globe?",
+      "options": [
+        "1509",
+        "1519",
+        "1522"
+      ],
+      "answer": "1519"
+    },
+    {
+      "question_id": 10,
+      "question": "In which year did World War I begin?",
+      "options": [
+        "1914",
+        "1939",
+        "1905"
+      ],
+      "answer": "1914"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Panama Canal officially open for traffic?",
+      "options": [
+        "1920",
+        "1904",
+        "1914"
+      ],
+      "answer": "1914"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Dutch capture Malacca from the Portuguese, altering Southeast Asian trade control?",
+      "options": [
+        "1623",
+        "1606",
+        "1641"
+      ],
+      "answer": "1641"
+    },
+    {
+      "question_id": 13,
+      "question": "What year did the United States declare independence?",
+      "options": [
+        "1789",
+        "1801",
+        "1776"
+      ],
+      "answer": "1776"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did the Cuban Missile Crisis bring the world close to nuclear war?",
+      "options": [
+        "1968",
+        "1956",
+        "1962"
+      ],
+      "answer": "1962"
+    },
+    {
+      "question_id": 15,
+      "question": "Which year did the Battle of Tours (Poitiers) take place where Charles Martel halted Islamic expansion?",
+      "options": [
+        "718",
+        "750",
+        "732"
+      ],
+      "answer": "732"
+    }
+  ]
+}

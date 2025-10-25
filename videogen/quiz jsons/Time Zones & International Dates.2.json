@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "If it is noon UTC, what time is it at UTC+3?",
+      "options": [
+        "9:00 AM",
+        "12:00 PM",
+        "3:00 PM"
+      ],
+      "answer": "3:00 PM"
+    },
+    {
+      "question_id": 2,
+      "question": "Which island country set its time zone forward by 24 hours in 1995 to align with trading partners?",
+      "options": [
+        "Tonga",
+        "Kiribati",
+        "Samoa"
+      ],
+      "answer": "Kiribati"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technology's adoption in the 19th century most required synchronized time across cities?",
+      "options": [
+        "Steamships",
+        "Railways and telegraphs",
+        "Agricultural calendars"
+      ],
+      "answer": "Railways and telegraphs"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city defines GMT historically?",
+      "options": [
+        "Zurich",
+        "Greenwich",
+        "Paris"
+      ],
+      "answer": "Greenwich"
+    },
+    {
+      "question_id": 5,
+      "question": "Which U.S. state moved its time zone border in 2007 to better align with trade patterns?",
+      "options": [
+        "Texas",
+        "Maine",
+        "Indiana"
+      ],
+      "answer": "Indiana"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country's legal time was advanced by 30 minutes in 1982 to reduce power usage during peak hours?",
+      "options": [
+        "Iraq",
+        "Myanmar",
+        "Venezuela (historical change)"
+      ],
+      "answer": "Venezuela (historical change)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country spans the most time zones including overseas territories?",
+      "options": [
+        "Russia",
+        "France",
+        "United States"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 8,
+      "question": "Which treaty established the prime meridian at Greenwich in 1884?",
+      "options": [
+        "Treaty of Paris",
+        "International Meridian Conference",
+        "GMT Accord"
+      ],
+      "answer": "International Meridian Conference"
+    },
+    {
+      "question_id": 9,
+      "question": "Which major capital officially changed time zone in 1919 to support postwar commerce?",
+      "options": [
+        "Rome",
+        "Paris",
+        "Berlin"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country changed its standard time to reduce confusion with neighboring regions?",
+      "options": [
+        "Spain",
+        "Ecuador",
+        "Nepal"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European country stopped observing Daylight Saving Time in 1975 but later resumed?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Spain"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 12,
+      "question": "Which island in the Pacific uses UTC-9:30 as its standard time?",
+      "options": [
+        "Easter Island",
+        "Cook Islands",
+        "Marquesas Islands"
+      ],
+      "answer": "Marquesas Islands"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the main practical purpose of the International Date Line?",
+      "options": [
+        "To mark tectonic plate boundaries",
+        "To separate time zones by language",
+        "To maintain consistent calendar dates across longitudes"
+      ],
+      "answer": "To maintain consistent calendar dates across longitudes"
+    },
+    {
+      "question_id": 14,
+      "question": "Which organization coordinates leap second decisions?",
+      "options": [
+        "International Telecommunication Union (ITU)",
+        "World Meteorological Organization (WMO)",
+        "International Earth Rotation and Reference Systems Service (IERS)"
+      ],
+      "answer": "International Earth Rotation and Reference Systems Service (IERS)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which historical figure promoted Greenwich as the prime meridian through naval influence?",
+      "options": [
+        "Sir George Airy",
+        "James Cook",
+        "Ferdinand Magellan"
+      ],
+      "answer": "Sir George Airy"
+    }
+  ]
+}

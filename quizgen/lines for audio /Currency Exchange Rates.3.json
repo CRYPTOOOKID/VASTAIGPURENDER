@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'spot rate' in FX?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which event in 1971 significantly changed modern exchange rate systems?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which dataset provides high-frequency global FX transaction data widely used in research?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is currency depreciation?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'currency mismatch' risk for firms?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which metric captures market-implied FX crash risk from option prices?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does an exchange rate represent?"
+    },
+    {
+      "question_id": 8,
+      "question": "Why do multinational firms prefer invoice currency stability?"
+    },
+    {
+      "question_id": 9,
+      "question": "What role do central bank swap lines played during the 2008 crisis in FX markets?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is currency appreciation?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the main purpose of currency forward contracts?"
+    },
+    {
+      "question_id": 12,
+      "question": "In modern FX markets, which venues handle the majority of interbank spot liquidity?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the 'spread' in currency trading?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does 'countercyclical FX policy' aim to do?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which mechanism explains how tariffs can lead to currency appreciation?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the term for revenue minus explicit costs?",
+      "options": [
+        "Accounting profit",
+        "Economic profit",
+        "Gross revenue"
+      ],
+      "answer": "Accounting profit"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term refers to currency value relative to others?",
+      "options": [
+        "Exchange rate",
+        "Inflation rate",
+        "Interest rate"
+      ],
+      "answer": "Exchange rate"
+    },
+    {
+      "question_id": 3,
+      "question": "What term denotes the elasticity of tax revenue to changes in tax rate, often shown on Laffer curve?",
+      "options": [
+        "Revenue elasticity",
+        "Income elasticity",
+        "Price elasticity"
+      ],
+      "answer": "Revenue elasticity"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term defines payments to labor for work?",
+      "options": [
+        "Wages",
+        "Interest",
+        "Dividend"
+      ],
+      "answer": "Wages"
+    },
+    {
+      "question_id": 5,
+      "question": "What term describes demand that increases as income rises more than proportionally?",
+      "options": [
+        "Luxury good",
+        "Inferior good",
+        "Normal good"
+      ],
+      "answer": "Luxury good"
+    },
+    {
+      "question_id": 6,
+      "question": "What term refers to the reduction in costs per unit from technological change separate from scale?",
+      "options": [
+        "Technical progress",
+        "Economies of scale",
+        "Learning by doing"
+      ],
+      "answer": "Technical progress"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the term for costs that do not change with output?",
+      "options": [
+        "Fixed costs",
+        "Variable costs",
+        "Marginal costs"
+      ],
+      "answer": "Fixed costs"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes a government's reduction in spending or increase in taxes?",
+      "options": [
+        "Contractionary fiscal policy",
+        "Expansionary monetary policy",
+        "Quantitative easing"
+      ],
+      "answer": "Contractionary fiscal policy"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes the value of the next-best forgone alternative in resource allocation?",
+      "options": [
+        "Opportunity cost",
+        "Accounting cost",
+        "Marginal cost"
+      ],
+      "answer": "Opportunity cost"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the term for a government tax on imported goods?",
+      "options": [
+        "Tariff",
+        "Quota",
+        "Subsidy"
+      ],
+      "answer": "Tariff"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term describes when inflation and unemployment rise together?",
+      "options": [
+        "Stagflation",
+        "Hyperinflation",
+        "Deflation"
+      ],
+      "answer": "Stagflation"
+    },
+    {
+      "question_id": 12,
+      "question": "What term describes companies using price cuts to drive competitors out, then raising prices?",
+      "options": [
+        "Predatory pricing",
+        "Price discrimination",
+        "Monopolistic competition"
+      ],
+      "answer": "Predatory pricing"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term means the extra satisfaction from consuming one more unit?",
+      "options": [
+        "Marginal utility",
+        "Total utility",
+        "Diminishing returns"
+      ],
+      "answer": "Marginal utility"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term describes the lost welfare when tariffs reduce trade volume?",
+      "options": [
+        "Deadweight loss",
+        "Producer surplus",
+        "Consumer surplus"
+      ],
+      "answer": "Deadweight loss"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term refers to when short-term nominal wages do not adjust quickly to changes in prices?",
+      "options": [
+        "Wage stickiness",
+        "Price flexibility",
+        "Labor mobility"
+      ],
+      "answer": "Wage stickiness"
+    }
+  ]
+}

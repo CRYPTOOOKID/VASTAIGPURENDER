@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which British leader declared \"We shall fight on the beaches\" in 1940?",
+      "options": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Clement Attlee"
+      ],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question_id": 2,
+      "question": "Which conqueror said \"There is nothing new under the sun\" in a philosophical work?",
+      "options": [
+        "Solomon",
+        "Herodotus",
+        "Thucydides"
+      ],
+      "answer": "Solomon"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Ottoman-era reformer declared \"A people without knowledge of their past history\" in educational reform arguments?",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "Sultan Abdulmejid I",
+        "Tanzimat reformers"
+      ],
+      "answer": "Mustafa Kemal Atatürk"
+    },
+    {
+      "question_id": 4,
+      "question": "Who said \"The only thing we have to fear is fear itself\" in 1933?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Herbert Hoover",
+        "Warren G. Harding"
+      ],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question_id": 5,
+      "question": "Who said \"History is written by the victors\" in discussions of historiography?",
+      "options": [
+        "Winston Churchill",
+        "Napoleon Bonaparte",
+        "George Orwell"
+      ],
+      "answer": "Napoleon Bonaparte"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Spanish conquistador claimed \"It is better to go with the poor\" during indigenous encounters?",
+      "options": [
+        "Hernán Cortés",
+        "Francisco Pizarro",
+        "Pedro de Alvarado"
+      ],
+      "answer": "Francisco Pizarro"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Roman philosopher said \"The unexamined life is not worth living\"?",
+      "options": [
+        "Socrates",
+        "Plato",
+        "Aristotle"
+      ],
+      "answer": "Socrates"
+    },
+    {
+      "question_id": 8,
+      "question": "Who declared \"Workers of the world, unite!\" in a widely read 19th-century pamphlet?",
+      "options": [
+        "Karl Marx",
+        "Vladimir Lenin",
+        "Friedrich Engels"
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote \"The empires of the future are empires of the mind\" forecasting postindustrial power sources?",
+      "options": [
+        "Winston Churchill",
+        "John F. Kennedy",
+        "Victor Hugo"
+      ],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question_id": 10,
+      "question": "Who said \"Workers of the world, unite!\" in a revolutionary pamphlet?",
+      "options": [
+        "Karl Marx",
+        "Vladimir Lenin",
+        "Friedrich Engels"
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question_id": 11,
+      "question": "Which leader declared \"I shall return\" promising to come back to a Pacific colony?",
+      "options": [
+        "Douglas MacArthur",
+        "Franklin D. Roosevelt",
+        "Admiral Halsey"
+      ],
+      "answer": "Douglas MacArthur"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Ottoman statesman wrote \"Europe is a powder keg\" warning about Balkan tensions?",
+      "options": [
+        "Sultan Abdul Hamid II",
+        "Enver Pasha",
+        "Mehmed Emin Ali Pasha"
+      ],
+      "answer": "Sultan Abdul Hamid II"
+    },
+    {
+      "question_id": 13,
+      "question": "Who wrote \"I came, I saw, I conquered\" shortly after victory at Zela?",
+      "options": [
+        "Julius Caesar",
+        "Marcus Aurelius",
+        "Augustus Caesar"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 14,
+      "question": "Who said \"Power corrupts; absolute power corrupts absolutely\" discussing political authority?",
+      "options": [
+        "Lord Acton",
+        "John Locke",
+        "Edmund Burke"
+      ],
+      "answer": "Lord Acton"
+    },
+    {
+      "question_id": 15,
+      "question": "Who said \"I am dying beyond my means\" in correspondence reflecting eighteenth-century financial strain?",
+      "options": [
+        "Marie Antoinette",
+        "Louis XVI",
+        "Madame de Pompadour"
+      ],
+      "answer": "Marie Antoinette"
+    }
+  ]
+}

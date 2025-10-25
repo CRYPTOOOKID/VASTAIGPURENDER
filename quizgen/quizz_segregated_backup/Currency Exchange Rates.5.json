@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a floating exchange rate?",
+      "options": [
+        "Rate determined by market supply and demand",
+        "Rate set by a government decree",
+        "Rate fixed to the price of gold"
+      ],
+      "answer": "Rate determined by market supply and demand"
+    },
+    {
+      "question_id": 2,
+      "question": "How can fiscal policy affect exchange rates indirectly?",
+      "options": [
+        "By influencing growth and interest expectations that affect capital flows",
+        "By directly setting spot market rates",
+        "By issuing foreign currency coins"
+      ],
+      "answer": "By influencing growth and interest expectations that affect capital flows"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term describes the practice of invoicing trade in a dominant foreign currency?",
+      "options": [
+        "Invoicing currency dominance (e.g., invoicing in USD)",
+        "Domestic currency billing mandate",
+        "Barter trade standardization"
+      ],
+      "answer": "Invoicing currency dominance (e.g., invoicing in USD)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which market provides continuous trading of currencies worldwide?",
+      "options": [
+        "Foreign exchange (Forex)",
+        "Commodity market",
+        "Bond market"
+      ],
+      "answer": "Foreign exchange (Forex)"
+    },
+    {
+      "question_id": 5,
+      "question": "Which measure compares a currency's value against a basket of other currencies?",
+      "options": [
+        "Trade-weighted exchange rate index",
+        "Consumer price index",
+        "Nominal GDP"
+      ],
+      "answer": "Trade-weighted exchange rate index"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the main critique of simple PPP for exchange rate forecasting?",
+      "options": [
+        "It ignores transport costs, nontraded goods, and slow price adjustment",
+        "It requires second currency to be gold",
+        "It works perfectly at daily frequency"
+      ],
+      "answer": "It ignores transport costs, nontraded goods, and slow price adjustment"
+    },
+    {
+      "question_id": 7,
+      "question": "What does a stronger domestic currency mean for imports?",
+      "options": [
+        "Imported goods become cheaper",
+        "Imported goods become more expensive",
+        "No change to import prices"
+      ],
+      "answer": "Imported goods become cheaper"
+    },
+    {
+      "question_id": 8,
+      "question": "What does purchasing power parity (PPP) predict about exchange rates over time?",
+      "options": [
+        "Currencies will adjust so identical goods cost the same",
+        "Interest rates will equalize across countries",
+        "Capital controls will be removed"
+      ],
+      "answer": "Currencies will adjust so identical goods cost the same"
+    },
+    {
+      "question_id": 9,
+      "question": "Which indicator measures real effective exchange rate (REER)?",
+      "options": [
+        "Trade-weighted nominal exchange rate adjusted for relative prices",
+        "Spot exchange rate against the dollar only",
+        "Central bank policy rate averaging"
+      ],
+      "answer": "Trade-weighted nominal exchange rate adjusted for relative prices"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'bid price' mean in FX quotes?",
+      "options": [
+        "Price at which a dealer will buy a currency",
+        "Price at which a dealer will sell a currency",
+        "Price at which government sets the currency"
+      ],
+      "answer": "Price at which a dealer will buy a currency"
+    },
+    {
+      "question_id": 11,
+      "question": "What does 'exchange rate overshooting' describe in monetary theory?",
+      "options": [
+        "Exchange rate swings more than long-run value after a shock",
+        "Currency never moves after policy change",
+        "Gradual convergence without volatility"
+      ],
+      "answer": "Exchange rate swings more than long-run value after a shock"
+    },
+    {
+      "question_id": 12,
+      "question": "Which empirical regularity shows that real exchange rates are highly persistent?",
+      "options": [
+        "Real exchange rate mean reversion is slow and half-lives are long",
+        "Real exchange rates revert instantly to PPP",
+        "Real exchange rates never change"
+      ],
+      "answer": "Real exchange rate mean reversion is slow and half-lives are long"
+    },
+    {
+      "question_id": 13,
+      "question": "Which of these is a commonly traded currency acronym: GBP stands for?",
+      "options": [
+        "British pound",
+        "Canadian dollar",
+        "Swiss franc"
+      ],
+      "answer": "British pound"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'real exchange rate'?",
+      "options": [
+        "Nominal rate adjusted for price level differences",
+        "Nominal rate adjusted for interest rates",
+        "Nominal rate fixed by central bank"
+      ],
+      "answer": "Nominal rate adjusted for price level differences"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advanced tool can central banks use to shape longer-term FX expectations indirectly?",
+      "options": [
+        "Forward guidance and macroprudential measures",
+        "Coin minting only",
+        "Setting consumer prices directly"
+      ],
+      "answer": "Forward guidance and macroprudential measures"
+    }
+  ]
+}

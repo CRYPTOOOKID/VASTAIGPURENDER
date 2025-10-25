@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which temperature scale sets water freezing at 0 and boiling at 100?",
+      "options": [
+        "Celsius",
+        "Kelvin",
+        "Fahrenheit"
+      ],
+      "answer": "Celsius"
+    },
+    {
+      "question_id": 2,
+      "question": "Around what altitude does the 850 hPa pressure level approximately lie in the troposphere?",
+      "options": [
+        "About 500 meters above sea level",
+        "About 10 kilometers above sea level",
+        "About 1.5 kilometers above sea level"
+      ],
+      "answer": "About 1.5 kilometers above sea level"
+    },
+    {
+      "question_id": 3,
+      "question": "Which unit is commonly used to express atmospheric water vapor mixing ratio?",
+      "options": [
+        "Millimeters (mm)",
+        "Parts per million (ppm)",
+        "Grams per kilogram (g/kg)"
+      ],
+      "answer": "Grams per kilogram (g/kg)"
+    },
+    {
+      "question_id": 4,
+      "question": "What does humidity measure in the atmosphere?",
+      "options": [
+        "Air pressure",
+        "Soil moisture",
+        "Amount of water vapor in air"
+      ],
+      "answer": "Amount of water vapor in air"
+    },
+    {
+      "question_id": 5,
+      "question": "Which recording instrument produces a continuous trace of atmospheric pressure over time?",
+      "options": [
+        "Anemograph",
+        "Thermograph",
+        "Barograph"
+      ],
+      "answer": "Barograph"
+    },
+    {
+      "question_id": 6,
+      "question": "What process commonly produces mammatus clouds beneath thunderstorm anvils?",
+      "options": [
+        "Strong surface heating",
+        "Evaporative cooling and sinking air beneath the anvil",
+        "Orographic lifting"
+      ],
+      "answer": "Evaporative cooling and sinking air beneath the anvil"
+    },
+    {
+      "question_id": 7,
+      "question": "Which instrument is used to measure wind speed?",
+      "options": [
+        "Anemometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": "Anemometer"
+    },
+    {
+      "question_id": 8,
+      "question": "On a weather map, what do isobars connect?",
+      "options": [
+        "Points of equal humidity",
+        "Points of equal temperature",
+        "Points of equal pressure"
+      ],
+      "answer": "Points of equal pressure"
+    },
+    {
+      "question_id": 9,
+      "question": "Which index compares the temperature of a lifted parcel to the environment to assess atmospheric instability?",
+      "options": [
+        "Lifted Index",
+        "Humidity Index",
+        "K-Index"
+      ],
+      "answer": "Lifted Index"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Pacific Ocean phenomenon causes unusually warm surface waters and global weather shifts?",
+      "options": [
+        "El Niño",
+        "Monsoon",
+        "Gulf Stream"
+      ],
+      "answer": "El Niño"
+    },
+    {
+      "question_id": 11,
+      "question": "Which meteorologist developed the original Fujita scale for tornado intensity?",
+      "options": [
+        "Edward Lorenz",
+        "Tetsuya Fujita",
+        "Jacob Bjerknes"
+      ],
+      "answer": "Tetsuya Fujita"
+    },
+    {
+      "question_id": 12,
+      "question": "Which radar capability uses Doppler shifts to measure precipitation motion and wind velocity?",
+      "options": [
+        "S-band radiometer",
+        "LIDAR reflectometer",
+        "Doppler radar"
+      ],
+      "answer": "Doppler radar"
+    },
+    {
+      "question_id": 13,
+      "question": "What primarily causes wind to blow across Earth's surface?",
+      "options": [
+        "Differences in air pressure",
+        "Earth's rotation",
+        "Cloud cover"
+      ],
+      "answer": "Differences in air pressure"
+    },
+    {
+      "question_id": 14,
+      "question": "Which cloud type commonly appears before a warm front as high, thin layers spread across the sky?",
+      "options": [
+        "Stratocumulus",
+        "Cumulonimbus",
+        "Cirrostratus"
+      ],
+      "answer": "Cirrostratus"
+    },
+    {
+      "question_id": 15,
+      "question": "What causes katabatic winds that flow downslope from high plateaus or ice sheets?",
+      "options": [
+        "Dense, cold air draining under gravity",
+        "Sea breezes converging inland",
+        "Solar heating of slope surfaces"
+      ],
+      "answer": "Dense, cold air draining under gravity"
+    }
+  ]
+}

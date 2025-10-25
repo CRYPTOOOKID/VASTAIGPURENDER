@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which collaborative communication product Google launched in 2009 then discontinued soon after?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which streaming startup built around short episodes failed despite celebrity partnerships in 2020?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which gaming console failed after Sega's rushed transition from 32-bit to 64-bit architecture and weak software support?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which automobile company became infamous in the early 1980s and produced an iconic stainless-steel sports car?"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did Theranos cease its consumer testing operations amid controversy?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did Lehman Brothers file for bankruptcy, triggering global financial upheaval?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which bitcoin exchange collapsed in 2014 after losing customer funds?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Ford vehicle launched in 1957 is one of the most famous commercial automotive failures?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which online grocery company declared bankruptcy in 2001 after building expensive regional distribution centers?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instant camera company declared bankruptcy in 2001 before later restructuring its brand?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which major energy firm's collapse in 2001 led to the dissolution of accounting firm Arthur Andersen?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which startup folded after heavy funding when teardown analysis revealed its hardware added little value to packaged ingredients?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which energy company collapsed in 2001 after one of the largest accounting scandals in U.S. history?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which online delivery startup promised deliveries under an hour but failed after overspending and low revenue?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which product's proprietary pads were shown to be usable by hand, undermining its $400 press value proposition?"
+    }
+  ]
+}

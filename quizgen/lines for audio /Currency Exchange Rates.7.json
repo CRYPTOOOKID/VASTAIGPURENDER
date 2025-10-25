@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the primary channel through which sovereign debt crises affect exchange rates?"
+    },
+    {
+      "question_id": 2,
+      "question": "How does a negative real interest rate differential typically affect currency value?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which reserve currency share declined notably after 2000, according to IMF data, yet remained dominant?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a 'risk premium' in currency valuation models?"
+    },
+    {
+      "question_id": 5,
+      "question": "What advanced metric do researchers use to separate expected from unexpected FX returns?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital flow type is most likely to amplify short-term FX volatility?"
+    },
+    {
+      "question_id": 7,
+      "question": "How do 'FX reserves adequacy' metrics typically assess vulnerability?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'two-way intervention' in FX markets imply?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which research finding links order flow to exchange rate moves at intraday horizons?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which advanced topic links microstructure to FX price moves at high frequency?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which economist developed a widely cited model of exchange rates including goods and asset markets (Mundell-Fleming relates but name?)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which famous event in 1994 caused sharp depreciation of the Mexican peso and global FX contagion?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which concept describes a situation where exchange rate expectations are self-fulfilling?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the major implication of Reinhart and Rogoff's findings for exchange rate crises?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the Mundell-Fleming result for a small open economy with perfect capital mobility and fixed exchange rate?"
+    }
+  ]
+}

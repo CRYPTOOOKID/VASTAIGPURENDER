@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which organ does the term 'renal' refer to in medical contexts?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which congenital heart defect allows oxygenated and deoxygenated blood to mix through a PDA?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which genetic mutation most commonly causes cystic fibrosis in Caucasian populations?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which imaging method uses magnetic fields to visualize internal structures?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which autoimmune thyroid disorder commonly causes hyperthyroidism with exophthalmos?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which lipid abnormality characterizes familial hypercholesterolemia with early atherosclerosis risk?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the primary symptom of influenza that distinguishes it from a common cold?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which virus family includes the causative agent of chickenpox and shingles?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare metabolic condition causes copper accumulation causing hepatic and neurological symptoms?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the common term for 'cerebrovascular accident' in everyday language?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which autoimmune disease primarily targets the neuromuscular junction causing weakness?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which parasitic infection is diagnosed by trophozoites in stool and causes persistent watery diarrhea?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'BP' commonly stand for in routine vital signs recorded by clinicians?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which laboratory value defines polycythemia by showing elevated hematocrit levels?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific antibody is pathognomonic for primary biliary cholangitis commonly measured clinically?"
+    }
+  ]
+}

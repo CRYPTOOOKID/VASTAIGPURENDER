@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which plateau is the origin of the Narmada river?"
+    },
+    {
+      "question_id": 2,
+      "question": "The Tehri Dam is built on which Ganga headstream?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river is the primary source for the Farakka Barrage project?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which small coastal river flows by the Konark Sun Temple and its town?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which river is joined by the Ghaghara before it meets the Ganges?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river in northeastern India splits to form Majuli, the world's largest river island?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which basin covers the largest area within India?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which city holds a major Kumbh Mela on the banks of the Godavari?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which river in India experiences a notable tidal bore near its estuary, historically challenging navigation?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major river is the principal water source for the state of Odisha?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river supplies water to the city of Pune through the confluence of Mula and Mutha?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Himalayan river is the easternmost major tributary of the Indus system within India?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river forms the fertile delta around Thanjavur and Nagapattinam in Tamil Nadu?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which distributary of the Kaveri flows around Srirangam island?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which river flows through the Eastern Ghats and forms the delta containing the Pulicat Lake area?"
+    }
+  ]
+}

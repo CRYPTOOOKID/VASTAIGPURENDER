@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is known for pioneering radio and microwave research in India before 1920?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who developed the Ramachandran plot to visualize dihedral angles in proteins?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian scientist proposed theoretical foundations influencing quantum condensates and superfluidity?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian physicist proposed the Chandrasekhar limit for stellar masses?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian engineer is credited with building the Delhi Metro efficiently and on time?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian chemist chaired CSIR and led its scientific renaissance in the 1990s?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who led India’s missile program and later became President of India?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which scientist formulated theories essential to stellar atmospheres and spectral interpretation?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian inventor established low-cost telecom solutions for rural India in the 1980s?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian scientist won the Nobel Prize in Physics in 1930?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian research leader guided CSIR transformation into modern research organization?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian scientist’s early wireless experiments contributed to radio science before Marconi’s fame?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who founded the Council of Scientific and Industrial Research (CSIR) laboratories tradition in India?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian scientist’s notebooks contained many unproved theorems later validated by mathematics?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist’s bacterial patent case reached the US Supreme Court in 1980s?"
+    }
+  ]
+}

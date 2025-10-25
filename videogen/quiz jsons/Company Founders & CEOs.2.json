@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who founded Toyota Motor Company?",
+      "options": [
+        "Sakichi Toyoda",
+        "Soichiro Honda",
+        "Kiichiro Toyoda"
+      ],
+      "answer": "Kiichiro Toyoda"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company did Travis Kalanick co-found in 2009?",
+      "options": [
+        "Lyft",
+        "Uber",
+        "DoorDash"
+      ],
+      "answer": "Uber"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early investor and CEO transformed Amazon from bookstore to 'everything store'?",
+      "options": [
+        "Shel Kaphan",
+        "Jeff Bezos",
+        "Nick Hanauer"
+      ],
+      "answer": "Jeff Bezos"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded Ford Motor Company?",
+      "options": [
+        "Karl Benz",
+        "Henry Ford",
+        "Enzo Ferrari"
+      ],
+      "answer": "Henry Ford"
+    },
+    {
+      "question_id": 5,
+      "question": "Which executive expanded Starbucks globally as its longtime CEO?",
+      "options": [
+        "Gordon Bowker",
+        "Jerry Baldwin",
+        "Howard Schultz"
+      ],
+      "answer": "Howard Schultz"
+    },
+    {
+      "question_id": 6,
+      "question": "What does the acronym IKEA stand for?",
+      "options": [
+        "Ingvar Kamprad European Association",
+        "International Kitchens and Export Association",
+        "Ingvar Kamprad Elmtaryd Agunnaryd"
+      ],
+      "answer": "Ingvar Kamprad Elmtaryd Agunnaryd"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded Alibaba Group?",
+      "options": [
+        "Jack Ma",
+        "Pony Ma",
+        "Lei Jun"
+      ],
+      "answer": "Jack Ma"
+    },
+    {
+      "question_id": 8,
+      "question": "Which founder launched Virgin Atlantic airline as part of Virgin Group?",
+      "options": [
+        "Richard Branson",
+        "Herb Kelleher",
+        "Howard Schultz"
+      ],
+      "answer": "Richard Branson"
+    },
+    {
+      "question_id": 9,
+      "question": "In which California town was Apple founded in Steve Jobs' parents' garage?",
+      "options": [
+        "Los Altos",
+        "Cupertino",
+        "Palo Alto"
+      ],
+      "answer": "Los Altos"
+    },
+    {
+      "question_id": 10,
+      "question": "Who co-founded Oracle and led it for decades?",
+      "options": [
+        "Bill Gates",
+        "Larry Ellison",
+        "Michael Dell"
+      ],
+      "answer": "Larry Ellison"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company did Elon Musk co-found that later merged into PayPal?",
+      "options": [
+        "X.com",
+        "SolarCity",
+        "SpaceX"
+      ],
+      "answer": "X.com"
+    },
+    {
+      "question_id": 12,
+      "question": "Which founder created the modular business model behind Zara's rapid fashion cycles?",
+      "options": [
+        "Miuccia Prada",
+        "Bernard Arnault",
+        "Amancio Ortega"
+      ],
+      "answer": "Amancio Ortega"
+    },
+    {
+      "question_id": 13,
+      "question": "Who transformed Berkshire Hathaway into a major conglomerate as CEO?",
+      "options": [
+        "Benjamin Graham",
+        "Charlie Munger",
+        "Warren Buffett"
+      ],
+      "answer": "Warren Buffett"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Tim Cook officially become Apple CEO?",
+      "options": [
+        "2012",
+        "2011",
+        "2010"
+      ],
+      "answer": "2011"
+    },
+    {
+      "question_id": 15,
+      "question": "What was the Netflix service model before streaming became primary?",
+      "options": [
+        "Advertising-supported streaming",
+        "DVD-by-mail subscription",
+        "Retail DVD sales"
+      ],
+      "answer": "DVD-by-mail subscription"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a \"sponsored post\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does \"CPE\" commonly stand for in influencer ad metrics?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which platform introduced the Partner Program paying creators ad revenue share in 2007?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which platform launched in 2004 and changed social networking?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metric helps compare sponsored post performance across creators of different sizes?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which metric is most useful to evaluate long-term influencer audience growth quality?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"micro-influencer\" typically defined by?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which agency issues disclosure guidelines for influencer endorsements in the United States?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 2014 viral movement showcased grassroots social sharing and influencer amplification?"
+    },
+    {
+      "question_id": 10,
+      "question": "What role do hashtags play for influencers?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a common KPI for awareness-focused influencer campaigns?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which AI-driven technique helps brands match micro-influencers to campaign audiences?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"engagement\" measure on social media?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which social analytics metric best tracks how many users clicked a link from a post?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which practice helps brands limit influencer fraud risk during selection?"
+    }
+  ]
+}

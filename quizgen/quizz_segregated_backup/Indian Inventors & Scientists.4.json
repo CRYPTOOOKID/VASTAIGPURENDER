@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is known for pioneering radio and microwave research in India before 1920?",
+      "options": [
+        "Jagadish Chandra Bose",
+        "C. V. Raman",
+        "Satyendra Nath Bose"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    },
+    {
+      "question_id": 2,
+      "question": "Who developed the Ramachandran plot to visualize dihedral angles in proteins?",
+      "options": [
+        "G. N. Ramachandran",
+        "Asima Chatterjee",
+        "G. S. S. Raghavan"
+      ],
+      "answer": "G. N. Ramachandran"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian scientist proposed theoretical foundations influencing quantum condensates and superfluidity?",
+      "options": [
+        "Satyendra Nath Bose",
+        "C. V. Raman",
+        "Meghnad Saha"
+      ],
+      "answer": "Satyendra Nath Bose"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian physicist proposed the Chandrasekhar limit for stellar masses?",
+      "options": [
+        "S. Chandrasekhar",
+        "Meghnad Saha",
+        "Homi Bhabha"
+      ],
+      "answer": "S. Chandrasekhar"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian engineer is credited with building the Delhi Metro efficiently and on time?",
+      "options": [
+        "E. Sreedharan",
+        "Sam Pitroda",
+        "R. A. Mashelkar"
+      ],
+      "answer": "E. Sreedharan"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian chemist chaired CSIR and led its scientific renaissance in the 1990s?",
+      "options": [
+        "R. A. Mashelkar",
+        "C. N. R. Rao",
+        "Shanti Swaroop Bhatnagar"
+      ],
+      "answer": "R. A. Mashelkar"
+    },
+    {
+      "question_id": 7,
+      "question": "Who led India’s missile program and later became President of India?",
+      "options": [
+        "A. P. J. Abdul Kalam",
+        "Satish Dhawan",
+        "U. R. Rao"
+      ],
+      "answer": "A. P. J. Abdul Kalam"
+    },
+    {
+      "question_id": 8,
+      "question": "Which scientist formulated theories essential to stellar atmospheres and spectral interpretation?",
+      "options": [
+        "Meghnad Saha",
+        "Satyendra Nath Bose",
+        "G. N. Ramachandran"
+      ],
+      "answer": "Meghnad Saha"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian inventor established low-cost telecom solutions for rural India in the 1980s?",
+      "options": [
+        "Sam Pitroda",
+        "Ananda Mohan Chakrabarty",
+        "E. Sreedharan"
+      ],
+      "answer": "Sam Pitroda"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian scientist won the Nobel Prize in Physics in 1930?",
+      "options": [
+        "C. V. Raman",
+        "S. Chandrasekhar",
+        "Har Gobind Khorana"
+      ],
+      "answer": "C. V. Raman"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian research leader guided CSIR transformation into modern research organization?",
+      "options": [
+        "R. A. Mashelkar",
+        "Shanti Swaroop Bhatnagar",
+        "C. N. R. Rao"
+      ],
+      "answer": "R. A. Mashelkar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian scientist’s early wireless experiments contributed to radio science before Marconi’s fame?",
+      "options": [
+        "Jagadish Chandra Bose",
+        "C. V. Raman",
+        "Homi Bhabha"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    },
+    {
+      "question_id": 13,
+      "question": "Who founded the Council of Scientific and Industrial Research (CSIR) laboratories tradition in India?",
+      "options": [
+        "Shanti Swaroop Bhatnagar",
+        "C. V. Raman",
+        "Vikram Sarabhai"
+      ],
+      "answer": "Shanti Swaroop Bhatnagar"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian scientist’s notebooks contained many unproved theorems later validated by mathematics?",
+      "options": [
+        "Srinivasa Ramanujan",
+        "G. N. Ramachandran",
+        "C. N. R. Rao"
+      ],
+      "answer": "Srinivasa Ramanujan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist’s bacterial patent case reached the US Supreme Court in 1980s?",
+      "options": [
+        "Ananda Mohan Chakrabarty",
+        "Har Gobind Khorana",
+        "C. N. R. Rao"
+      ],
+      "answer": "Ananda Mohan Chakrabarty"
+    }
+  ]
+}

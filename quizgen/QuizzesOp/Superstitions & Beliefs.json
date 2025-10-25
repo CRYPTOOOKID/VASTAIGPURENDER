@@ -1,0 +1,964 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which animal is commonly considered bad luck in Western superstition if it crosses your path?",
+        "options": [
+          "Black cat",
+          "White dove",
+          "Grey squirrel"
+        ],
+        "answer": "Black cat"
+      },
+      {
+        "question": "What common household action do people perform to avoid tempting fate after a lucky event?",
+        "options": [
+          "Knock on wood",
+          "Clap loudly",
+          "Wave a handkerchief"
+        ],
+        "answer": "Knock on wood"
+      },
+      {
+        "question": "Breaking a mirror traditionally brings how many years of bad luck in popular belief?",
+        "options": [
+          "Seven years",
+          "Three years",
+          "Twelve years"
+        ],
+        "answer": "Seven years"
+      },
+      {
+        "question": "Which number is widely considered unlucky in many Western countries?",
+        "options": [
+          "Thirteen",
+          "Seven",
+          "Nine"
+        ],
+        "answer": "Thirteen"
+      },
+      {
+        "question": "Which charm is commonly carried to ward off the evil eye in Mediterranean cultures?",
+        "options": [
+          "Nazar amulet",
+          "Four-leaf clover",
+          "Dreamcatcher"
+        ],
+        "answer": "Nazar amulet"
+      },
+      {
+        "question": "Which gesture involves throwing a pinch of salt over your left shoulder to prevent bad luck?",
+        "options": [
+          "Throwing salt",
+          "Tossing coins",
+          "Ringing bell"
+        ],
+        "answer": "Throwing salt"
+      },
+      {
+        "question": "Walking under what object is commonly considered bad luck in many cultures?",
+        "options": [
+          "A ladder",
+          "An archway",
+          "A bridge"
+        ],
+        "answer": "A ladder"
+      },
+      {
+        "question": "Which talisman features an open hand and is used to protect against evil in Middle Eastern cultures?",
+        "options": [
+          "Hamsa",
+          "Pentagram",
+          "Ankh"
+        ],
+        "answer": "Hamsa"
+      },
+      {
+        "question": "Carrying what small animal body part is a folk charm believed to bring good luck in some cultures?",
+        "options": [
+          "Rabbit's foot",
+          "Tiger tooth",
+          "Goat horn"
+        ],
+        "answer": "Rabbit's foot"
+      },
+      {
+        "question": "Which day of the week is considered unlucky by some people who fear Friday the 13th?",
+        "options": [
+          "Friday",
+          "Monday",
+          "Sunday"
+        ],
+        "answer": "Friday"
+      },
+      {
+        "question": "Which plant is popularly associated with finding good luck and has five leaves when unusual?",
+        "options": [
+          "Four-leaf clover",
+          "Ivy sprig",
+          "Oak leaf"
+        ],
+        "answer": "Four-leaf clover"
+      },
+      {
+        "question": "Which object nailed above a doorway is traditionally believed to bring protection and luck?",
+        "options": [
+          "Horseshoe",
+          "Lantern",
+          "Feather wreath"
+        ],
+        "answer": "Horseshoe"
+      },
+      {
+        "question": "Which action do people often take to reverse spilled salt's bad omen?",
+        "options": [
+          "Throw a pinch over shoulder",
+          "Scatter water",
+          "Sweep it outside"
+        ],
+        "answer": "Throw a pinch over shoulder"
+      },
+      {
+        "question": "Which item is commonly placed in a newborn's room in many cultures to attract good fortune?",
+        "options": [
+          "Protective amulet",
+          "Salt shaker",
+          "Mirror"
+        ],
+        "answer": "Protective amulet"
+      },
+      {
+        "question": "Which number is considered unlucky in many East Asian cultures due to its pronunciation?",
+        "options": [
+          "Four",
+          "Eight",
+          "Two"
+        ],
+        "answer": "Four"
+      },
+      {
+        "question": "Which common superstition advises against opening an umbrella indoors?",
+        "options": [
+          "It invites bad luck",
+          "It causes rain",
+          "It attracts spirits"
+        ],
+        "answer": "It invites bad luck"
+      },
+      {
+        "question": "Which flower is often associated with funerals and mourning in several Western cultures?",
+        "options": [
+          "Chrysanthemum",
+          "Sunflower",
+          "Tulip"
+        ],
+        "answer": "Chrysanthemum"
+      },
+      {
+        "question": "Which symbol featuring an eye is commonly used as an amulet against envy and ill intent?",
+        "options": [
+          "Evil eye",
+          "Swastika",
+          "Crescent moon"
+        ],
+        "answer": "Evil eye"
+      },
+      {
+        "question": "What do people commonly do three times to complete a small ritual hoping for good luck?",
+        "options": [
+          "Knock on wood three times",
+          "Spin around three times",
+          "Snap fingers three times"
+        ],
+        "answer": "Knock on wood three times"
+      },
+      {
+        "question": "Which everyday object in some cultures is tapped or struck for luck before important events?",
+        "options": [
+          "Doorknob",
+          "Helmet",
+          "Coin"
+        ],
+        "answer": "Doorknob"
+      },
+      {
+        "question": "Which color is widely associated with good luck and prosperity in Chinese culture?",
+        "options": [
+          "Red",
+          "Blue",
+          "Black"
+        ],
+        "answer": "Red"
+      },
+      {
+        "question": "Which practice involves leaving offerings or small gifts to please household spirits in many traditions?",
+        "options": [
+          "Making offerings",
+          "Swapping shoes",
+          "Closing windows"
+        ],
+        "answer": "Making offerings"
+      },
+      {
+        "question": "Which creature is often used as a symbol of bad omen in sailors' superstitions?",
+        "options": [
+          "Albatross",
+          "Goldfish",
+          "Rabbit"
+        ],
+        "answer": "Albatross"
+      },
+      {
+        "question": "Which stone is popularly believed to bring protection and clarity when worn as jewelry?",
+        "options": [
+          "Tiger's eye",
+          "Quartz sand",
+          "Coal nugget"
+        ],
+        "answer": "Tiger's eye"
+      },
+      {
+        "question": "What do many people do immediately after saying a hopeful statement to avoid jinxing it?",
+        "options": [
+          "Knock on wood",
+          "Strike a match",
+          "Sit down"
+        ],
+        "answer": "Knock on wood"
+      },
+      {
+        "question": "Which type of charm is often pinned to clothing to protect against misfortune?",
+        "options": [
+          "Amulet",
+          "Brooch",
+          "Button"
+        ],
+        "answer": "Amulet"
+      },
+      {
+        "question": "Which bird is often linked to omens and death in European folklore?",
+        "options": [
+          "Crow",
+          "Sparrow",
+          "Pigeon"
+        ],
+        "answer": "Crow"
+      },
+      {
+        "question": "Which superstitious act involves tossing coins into water to wish for something?",
+        "options": [
+          "Throwing a coin into a fountain",
+          "Tossing a coin into fire",
+          "Tossing a coin at a tree"
+        ],
+        "answer": "Throwing a coin into a fountain"
+      },
+      {
+        "question": "Which figurine commonly sits with palms up to ward off the evil eye in some cultures?",
+        "options": [
+          "Hamsa hand",
+          "Laughing Buddha",
+          "Angel statue"
+        ],
+        "answer": "Hamsa hand"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What term describes the fear of the number thirteen?",
+        "options": [
+          "Triskaidekaphobia",
+          "Hexakosioihexekonta",
+          "Atychiphobia"
+        ],
+        "answer": "Triskaidekaphobia"
+      },
+      {
+        "question": "What is the name for charms or practices intended to ward off evil influences?",
+        "options": [
+          "Apotropaic practices",
+          "Iconoclastic rituals",
+          "Hermetic rites"
+        ],
+        "answer": "Apotropaic practices"
+      },
+      {
+        "question": "Which ancient practice interpreted the behavior of birds to predict events?",
+        "options": [
+          "Augury",
+          "Alchemy",
+          "Divination by bones"
+        ],
+        "answer": "Augury"
+      },
+      {
+        "question": "Which culture commonly uses the hamsa hand as a protective symbol against the evil eye?",
+        "options": [
+          "Middle Eastern cultures",
+          "Nordic cultures",
+          "Polynesian cultures"
+        ],
+        "answer": "Middle Eastern cultures"
+      },
+      {
+        "question": "What specialized word names the superstition specifically about Friday the 13th?",
+        "options": [
+          "Paraskevidekatriaphobia",
+          "Nyctophobia",
+          "Pogonophobia"
+        ],
+        "answer": "Paraskevidekatriaphobia"
+      },
+      {
+        "question": "Which item placed above a door is oriented with ends upward to 'hold' luck in folklore?",
+        "options": [
+          "Horseshoe",
+          "Garland",
+          "Wind chime"
+        ],
+        "answer": "Horseshoe"
+      },
+      {
+        "question": "What is the name of the protective blue glass bead used in Turkey against the evil eye?",
+        "options": [
+          "Nazar bead",
+          "Tear bead",
+          "Sunstone"
+        ],
+        "answer": "Nazar bead"
+      },
+      {
+        "question": "Which medieval mark carved in buildings aimed to ward off witches and evil spirits?",
+        "options": [
+          "Ritual protection marks",
+          "Totemic graffiti",
+          "Heraldic emblems"
+        ],
+        "answer": "Ritual protection marks"
+      },
+      {
+        "question": "Which Roman deity's priests practiced augury by observing birds for omens?",
+        "options": [
+          "Jupiter's augurs",
+          "Mars' seers",
+          "Venus' oracles"
+        ],
+        "answer": "Jupiter's augurs"
+      },
+      {
+        "question": "Which phrase refers to objects believed to transmit supernatural power to their owner?",
+        "options": [
+          "Talisman",
+          "Icon",
+          "Relic"
+        ],
+        "answer": "Talisman"
+      },
+      {
+        "question": "What is the word for a person who interprets omens and portents professionally?",
+        "options": [
+          "Diviner",
+          "Scribe",
+          "Cartographer"
+        ],
+        "answer": "Diviner"
+      },
+      {
+        "question": "Which number is considered auspicious in Chinese culture because it sounds like wealth?",
+        "options": [
+          "Eight",
+          "Five",
+          "Three"
+        ],
+        "answer": "Eight"
+      },
+      {
+        "question": "What object did sailors historically wear or carry to protect against bad luck at sea?",
+        "options": [
+          "Amulet or charm",
+          "Pocket mirror",
+          "Hourglass"
+        ],
+        "answer": "Amulet or charm"
+      },
+      {
+        "question": "Which practice involves interpreting tea leaves poured into a cup for fortunes?",
+        "options": [
+          "Tasseography",
+          "Astrology",
+          "Palmistry"
+        ],
+        "answer": "Tasseography"
+      },
+      {
+        "question": "Which Biblical ritual gave rise to the English term for a scapegoat?",
+        "options": [
+          "Levitical ritual of Azazel",
+          "Passover sacrifice",
+          "Noah's offering"
+        ],
+        "answer": "Levitical ritual of Azazel"
+      },
+      {
+        "question": "Which ancient belief linked black cats to witches during European witchcraft fears?",
+        "options": [
+          "Familiar spirits",
+          "Astral projection",
+          "Fate-weaving"
+        ],
+        "answer": "Familiar spirits"
+      },
+      {
+        "question": "Which amulet shaped like a leaf symbolizes luck in many Western traditions?",
+        "options": [
+          "Four-leaf clover",
+          "Maple token",
+          "Fern charm"
+        ],
+        "answer": "Four-leaf clover"
+      },
+      {
+        "question": "What name describes the custom of leaving small offerings for household spirits or ancestors?",
+        "options": [
+          "Household offerings",
+          "Eucharistic rites",
+          "Pilgrimage"
+        ],
+        "answer": "Household offerings"
+      },
+      {
+        "question": "Which culture traditionally avoids the number 13th floor in buildings as a superstition?",
+        "options": [
+          "Western cultures",
+          "Inuit cultures",
+          "Sami cultures"
+        ],
+        "answer": "Western cultures"
+      },
+      {
+        "question": "Which phrase names the belief that certain words can bring luck when spoken aloud?",
+        "options": [
+          "Lucky incantation",
+          "Numerical omen",
+          "Sacrificial chant"
+        ],
+        "answer": "Lucky incantation"
+      },
+      {
+        "question": "Which ancient civilization is known for interpreting omens from entrails and liver inspections?",
+        "options": [
+          "Etruscans",
+          "Aztecs",
+          "Mongols"
+        ],
+        "answer": "Etruscans"
+      },
+      {
+        "question": "Which object do many people kiss for luck when making a wish at famous sites?",
+        "options": [
+          "Statue or relic",
+          "Window glass",
+          "Door handle"
+        ],
+        "answer": "Statue or relic"
+      },
+      {
+        "question": "Which household plant is often considered protective against negative energy in folklore?",
+        "options": [
+          "Rue",
+          "Tulip",
+          "Cactus"
+        ],
+        "answer": "Rue"
+      },
+      {
+        "question": "Which medieval instrument of measurement was sometimes avoided due to superstition about accuracy?",
+        "options": [
+          "Compass",
+          "Astrolabe",
+          "Sundial"
+        ],
+        "answer": "Astrolabe"
+      },
+      {
+        "question": "Which practice uses specially marked coins or objects hidden in buildings for luck?",
+        "options": [
+          "Time capsule tradition",
+          "Charm hiding",
+          "Heraldic sealing"
+        ],
+        "answer": "Charm hiding"
+      },
+      {
+        "question": "Which European superstition claims stepping on a crack affects your mother's wellbeing?",
+        "options": [
+          "Step on a crack curse",
+          "Doorframe taboo",
+          "Chimney sweep omen"
+        ],
+        "answer": "Step on a crack curse"
+      },
+      {
+        "question": "Which historic event increased modern Western fear associated with Friday the 13th?",
+        "options": [
+          "Publication of a 1907 novel",
+          "Discovery of America",
+          "Industrial Revolution"
+        ],
+        "answer": "Publication of a 1907 novel"
+      },
+      {
+        "question": "Which cultural object is commonly given at weddings to protect the couple from evil influences?",
+        "options": [
+          "Protective charms",
+          "Silver spoons",
+          "Horsehair ropes"
+        ],
+        "answer": "Protective charms"
+      },
+      {
+        "question": "Which term describes objects believed to contain a deity's presence and confer protection?",
+        "options": [
+          "Relics",
+          "Manuscripts",
+          "Contracts"
+        ],
+        "answer": "Relics"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the academic term for protective carved motifs often scratched into medieval church walls?",
+        "options": [
+          "Apotropaic marks",
+          "Gothic graffiti",
+          "Iconoclastic scars"
+        ],
+        "answer": "Apotropaic marks"
+      },
+      {
+        "question": "Which island culture historically placed protective stones called 'fakatau' near thresholds?",
+        "options": [
+          "Tongan culture",
+          "Sami culture",
+          "Basque culture"
+        ],
+        "answer": "Tongan culture"
+      },
+      {
+        "question": "Which nineteenth-century author popularized modern fear of Friday the 13th through fiction?",
+        "options": [
+          "Thomas W. Lawson",
+          "Charles Dickens",
+          "Mary Shelley"
+        ],
+        "answer": "Thomas W. Lawson"
+      },
+      {
+        "question": "What is the specialist term for talismans whose inscriptions are designed to avert harm?",
+        "options": [
+          "Charms with apotropaic inscriptions",
+          "Iconic reliquaries",
+          "Heraldic seals"
+        ],
+        "answer": "Charms with apotropaic inscriptions"
+      },
+      {
+        "question": "Which prehistoric motif, often circular with spokes, appears in Europe and was used for protection?",
+        "options": [
+          "Daisy wheel",
+          "Celtic knot",
+          "Chevron band"
+        ],
+        "answer": "Daisy wheel"
+      },
+      {
+        "question": "Which ancient Mesopotamian practice involved placing figurines to absorb disease and misfortune?",
+        "options": [
+          "Substitute effigy placement",
+          "Ziggurat prayer",
+          "Star divination"
+        ],
+        "answer": "Substitute effigy placement"
+      },
+      {
+        "question": "Which term names fear specifically of the number four in East Asian contexts?",
+        "options": [
+          "Tetra-phobia",
+          "Tetraphobia",
+          "Quadriphobia"
+        ],
+        "answer": "Tetraphobia"
+      },
+      {
+        "question": "Which classic anthropologist wrote extensively on magic, religion, and taboo in early studies?",
+        "options": [
+          "Sir James Frazer",
+          "Franz Boas",
+          "Margaret Mead"
+        ],
+        "answer": "Sir James Frazer"
+      },
+      {
+        "question": "Which Late Antique practice placed phylacteries or inscribed amulets on bodies to protect travellers?",
+        "options": [
+          "Protective amulet wearing",
+          "Penance rituals",
+          "Monastic vows"
+        ],
+        "answer": "Protective amulet wearing"
+      },
+      {
+        "question": "Which sea superstition held that sailors considered albatrosses as omens and sometimes shot them?",
+        "options": [
+          "Albatross omen belief",
+          "Dolphin omen tradition",
+          "Seagull sanctity custom"
+        ],
+        "answer": "Albatross omen belief"
+      },
+      {
+        "question": "Which medieval grimace-like figure was carved on churches to ward off evil and scare spirits?",
+        "options": [
+          "Gargoyle",
+          "Fleur-de-lis",
+          "Merlon"
+        ],
+        "answer": "Gargoyle"
+      },
+      {
+        "question": "Which mathematical superstition influenced building design by omitting the thirteenth floor?",
+        "options": [
+          "Triskaidekaphobia influence",
+          "Apotropaic numerology",
+          "Golden ratio avoidance"
+        ],
+        "answer": "Triskaidekaphobia influence"
+      },
+      {
+        "question": "Which island's folklore attributes household misfortune to small shadowy beings called 'piskies'?",
+        "options": [
+          "Isle of Man folklore",
+          "Faroes folklore",
+          "Shetland folklore"
+        ],
+        "answer": "Isle of Man folklore"
+      },
+      {
+        "question": "Which medieval English practice left protective iron objects in walls to deter witches and spirits?",
+        "options": [
+          "Embedding iron charms",
+          " plaster smoothing",
+          "heraldic stamping"
+        ],
+        "answer": "Embedding iron charms"
+      },
+      {
+        "question": "Which classical Roman ritual used a scapegoat to symbolically carry community sins away?",
+        "options": [
+          "Lemuria rites",
+          "Sacer holocaust",
+          "Festum Lupercalia"
+        ],
+        "answer": "Lemuria rites"
+      },
+      {
+        "question": "Which Ottoman-era term refers to blue glass amulets against envy and malice seen across Anatolia?",
+        "options": [
+          "Nazar boncuğu",
+          "Kismet pendant",
+          "Muraqqa"
+        ],
+        "answer": "Nazar boncuğu"
+      },
+      {
+        "question": "Which East Mediterranean symbol combines an eye and a hand to protect households from envy?",
+        "options": [
+          "Hand of Miriam (Hamsa)",
+          "Labrys",
+          "Triskelion"
+        ],
+        "answer": "Hand of Miriam (Hamsa)"
+      },
+      {
+        "question": "Which scholarly term denotes practices that intentionally reverse misfortune or misdeeds onto another?",
+        "options": [
+          "Ritual transfer",
+          "Apothetic inversion",
+          "Reverse animism"
+        ],
+        "answer": "Ritual transfer"
+      },
+      {
+        "question": "Which nineteenth-century occultist popularized talismanic sigils for personal magical practice?",
+        "options": [
+          "Eliphas Lévi",
+          "Auguste Comte",
+          "Emile Durkheim"
+        ],
+        "answer": "Eliphas Lévi"
+      },
+      {
+        "question": "Which religious text describes an ancient ritual involving laying hands on a goat to transfer sins?",
+        "options": [
+          "Hebrew Bible Leviticus",
+          "New Testament Gospels",
+          "Rigveda"
+        ],
+        "answer": "Hebrew Bible Leviticus"
+      },
+      {
+        "question": "Which term describes belief systems where spirits inhabit natural objects like trees and stones?",
+        "options": [
+          "Animism",
+          "Dualism",
+          "Pantheism"
+        ],
+        "answer": "Animism"
+      },
+      {
+        "question": "Which protective symbol carved into timber frames aimed to confuse witches in British vernacular architecture?",
+        "options": [
+          "Hexfoils and witches' marks",
+          "Heraldic shields",
+          "Rosette medallions"
+        ],
+        "answer": "Hexfoils and witches' marks"
+      },
+      {
+        "question": "Which nineteenth-century banker's novel by Thomas W. Lawson linked a maritime superstition to Friday the 13th?",
+        "options": [
+          "Friday the Thirteenth",
+          "Black Friday Tale",
+          "Mariner's Curse"
+        ],
+        "answer": "Friday the Thirteenth"
+      },
+      {
+        "question": "Which Indo-European deity's cult is sometimes connected with horseshoe luck traditions historically?",
+        "options": [
+          "Epona",
+          "Perun",
+          "Indra"
+        ],
+        "answer": "Epona"
+      },
+      {
+        "question": "Which archaeological finds indicate prehistoric peoples used amulets of carved bone and stone for protection?",
+        "options": [
+          "Neolithic amulet assemblages",
+          "Bronze Age chariots",
+          "Iron Age coins"
+        ],
+        "answer": "Neolithic amulet assemblages"
+      },
+      {
+        "question": "Which medieval compendium collected charms and remedies blending Christian prayer with folk magic?",
+        "options": [
+          "The Lacnunga manuscript",
+          "The Domesday Book",
+          "The Venerable's Ledger"
+        ],
+        "answer": "The Lacnunga manuscript"
+      },
+      {
+        "question": "Which Greek word meaning 'to ward off' underlies the term 'apotropaic' used in superstition studies?",
+        "options": [
+          "apotropein",
+          "agapein",
+          "akropolein"
+        ],
+        "answer": "apotropein"
+      },
+      {
+        "question": "Which carved symbol combining intersecting lines is frequently found above medieval English doorways?",
+        "options": [
+          "Compass rose or daisy wheel",
+          "Labrys symbol",
+          "Celtic cross"
+        ],
+        "answer": "Compass rose or daisy wheel"
+      },
+      {
+        "question": "Which early modern English figure documented witchcraft and superstitions in his 1589 pamphlet?",
+        "options": [
+          "Reginald Scot",
+          "William Shakespeare",
+          "John Dee"
+        ],
+        "answer": "Reginald Scot"
+      },
+      {
+        "question": "Which anthropological concept explains how ritual actions create perceived control over uncertain outcomes?",
+        "options": [
+          "Magical thinking",
+          "Structural functionalism",
+          "Symbolic interactionism"
+        ],
+        "answer": "Magical thinking"
+      },
+      {
+        "question": "Which ancient Greek practice used specially trained priests, haruspices, to read livers and entrails?",
+        "options": [
+          "Hepatoscopy",
+          "Oneiromancy",
+          "Palmistry"
+        ],
+        "answer": "Hepatoscopy"
+      },
+      {
+        "question": "Which specific amulet type, often inscribed with names and signs, was buried under thresholds historically?",
+        "options": [
+          "Threshold deposit amulets",
+          "Sealing talons",
+          "Coffin nails"
+        ],
+        "answer": "Threshold deposit amulets"
+      },
+      {
+        "question": "Which 20th-century study influenced scholarly understanding of belief persistence and ritual repetition?",
+        "options": [
+          "Bronislaw Malinowski's fieldwork",
+          "Sigmund Freud's essays",
+          "Max Weber's law study"
+        ],
+        "answer": "Bronislaw Malinowski's fieldwork"
+      },
+      {
+        "question": "Which medieval practice placed horse skulls or shoe fragments in farm buildings to protect livestock?",
+        "options": [
+          "Apotropaic livestock deposits",
+          "Sacrificial middens",
+          "Harvest offerings"
+        ],
+        "answer": "Apotropaic livestock deposits"
+      },
+      {
+        "question": "Which term names the practice of marking door lintels with scratched symbols to protect households?",
+        "options": [
+          "Ritual protection graffiti",
+          "Lintel heraldry",
+          "Family cresting"
+        ],
+        "answer": "Ritual protection graffiti"
+      },
+      {
+        "question": "Which period saw widespread publication of grimoires blending astrology, Christian prayer, and folk magic?",
+        "options": [
+          "Early modern period",
+          "Bronze Age",
+          "Late Antiquity"
+        ],
+        "answer": "Early modern period"
+      },
+      {
+        "question": "Which island's folklore includes protective 'clootie' trees where pilgrims tie offerings for healing?",
+        "options": [
+          "Scotland",
+          "Iceland",
+          "Corsica"
+        ],
+        "answer": "Scotland"
+      },
+      {
+        "question": "Which scholar's comparative work 'The Golden Bough' examined magic, myth, and sacrificial rites globally?",
+        "options": [
+          "James Frazer",
+          "Claude Lévi-Strauss",
+          "Emile Durkheim"
+        ],
+        "answer": "James Frazer"
+      },
+      {
+        "question": "Which object did Victorian households commonly use as a charm against contagious disease and misfortune?",
+        "options": [
+          "Posy or medicinal sachet",
+          "Electric meter",
+          "Cast iron lock"
+        ],
+        "answer": "Posy or medicinal sachet"
+      },
+      {
+        "question": "Which cultural tradition ties the number nine to mystical significance and long life in Norse myth?",
+        "options": [
+          "Norse cosmology",
+          "Mayan calendar",
+          "Sumerian numerology"
+        ],
+        "answer": "Norse cosmology"
+      },
+      {
+        "question": "Which ancient practice left oblations at crossroads to placate local spirits or gods for safe travel?",
+        "options": [
+          "Votive offerings at crossroads",
+          "Temple fasting",
+          "Royal decrees"
+        ],
+        "answer": "Votive offerings at crossroads"
+      },
+      {
+        "question": "Which rare medieval device combined astrological charts with prayers as a household protective instrument?",
+        "options": [
+          "Astrolabe talismanic charts",
+          "Mechanical clockwork idol",
+          "Alchemy retort"
+        ],
+        "answer": "Astrolabe talismanic charts"
+      },
+      {
+        "question": "Which British folklore figure collects bad luck by sweeping chimneys and became a wedding charm historically?",
+        "options": [
+          "Chimney sweep as good-luck omen",
+          "Green man",
+          "Jack-in-the-Green"
+        ],
+        "answer": "Chimney sweep as good-luck omen"
+      },
+      {
+        "question": "Which Greek island practice used painted eyes on boats to avert the evil eye at sea?",
+        "options": [
+          "Apotropaic eye painting",
+          "Ship bell ringing",
+          "Anchor burying"
+        ],
+        "answer": "Apotropaic eye painting"
+      },
+      {
+        "question": "Which historical amulet tradition inscribed pseudo-letters and symbols to confuse malevolent spirits?",
+        "options": [
+          "Gnostic magical texts",
+          "Runic legal codes",
+          "Heraldic mottoes"
+        ],
+        "answer": "Gnostic magical texts"
+      },
+      {
+        "question": "Which psychologist wrote on illusion, belief, and ritual linking superstition to contingency learning?",
+        "options": [
+          "B. F. Skinner",
+          "Carl Jung",
+          "Wilhelm Wundt"
+        ],
+        "answer": "B. F. Skinner"
+      },
+      {
+        "question": "Which practice in early medieval households involved concealing shoes within walls for luck?",
+        "options": [
+          "Shoe deposition",
+          "Ale brewing sign",
+          "Threshing rite"
+        ],
+        "answer": "Shoe deposition"
+      },
+      {
+        "question": "Which anthropological term denotes rituals that reduce anxiety by creating predictable actions under uncertainty?",
+        "options": [
+          "Ritual coping",
+          "Mythic structuring",
+          "Societal scripting"
+        ],
+        "answer": "Ritual coping"
+      }
+    ]
+  }
+}

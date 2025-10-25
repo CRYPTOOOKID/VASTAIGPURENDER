@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What common instrument measures temperature in everyday weather reports?",
+      "options": [
+        "thermometer",
+        "anemometer",
+        "barometer"
+      ],
+      "answer": "thermometer"
+    },
+    {
+      "question_id": 2,
+      "question": "Which unit measures magnetic flux density in the SI system?",
+      "options": [
+        "weber",
+        "henry",
+        "tesla"
+      ],
+      "answer": "tesla"
+    },
+    {
+      "question_id": 3,
+      "question": "Which unit describes optical luminous exposure with lux-seconds often used in photography?",
+      "options": [
+        "lux second",
+        "lumen hour",
+        "candela second"
+      ],
+      "answer": "lux second"
+    },
+    {
+      "question_id": 4,
+      "question": "Which unit measures electric current in the SI system?",
+      "options": [
+        "ampere",
+        "ohm",
+        "volt"
+      ],
+      "answer": "ampere"
+    },
+    {
+      "question_id": 5,
+      "question": "Which SI base unit was redefined in 2019 by fixing the Boltzmann constant?",
+      "options": [
+        "metre",
+        "kelvin",
+        "mole"
+      ],
+      "answer": "kelvin"
+    },
+    {
+      "question_id": 6,
+      "question": "Which unit in radio astronomy measures spectral flux density equal to 10^-26 watts per square meter per hertz?",
+      "options": [
+        "sievert",
+        "becquerel",
+        "jansky"
+      ],
+      "answer": "jansky"
+    },
+    {
+      "question_id": 7,
+      "question": "Which everyday unit measures short distances in the imperial system?",
+      "options": [
+        "inch",
+        "meter",
+        "kilometer"
+      ],
+      "answer": "inch"
+    },
+    {
+      "question_id": 8,
+      "question": "Which unit measures electrical conductance in SI units?",
+      "options": [
+        "ohm",
+        "siemens",
+        "volt"
+      ],
+      "answer": "siemens"
+    },
+    {
+      "question_id": 9,
+      "question": "Which unit describes visible light intensity per unit area weighted by human vision response?",
+      "options": [
+        "luminance (cd/m^2)",
+        "radiance (W/m^2)",
+        "illuminance (lux)"
+      ],
+      "answer": "illuminance (lux)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which unit is used for measuring angles in many contexts?",
+      "options": [
+        "degree",
+        "second",
+        "meter"
+      ],
+      "answer": "degree"
+    },
+    {
+      "question_id": 11,
+      "question": "Which historical figure helped measure the meridian to establish the original meter?",
+      "options": [
+        "Gauss",
+        "Méchain",
+        "Newton"
+      ],
+      "answer": "Méchain"
+    },
+    {
+      "question_id": 12,
+      "question": "Which measurement unit originally defined paper sizes in ISO 216 relates area halves by folding?",
+      "options": [
+        "C series",
+        "B series",
+        "A series"
+      ],
+      "answer": "A series"
+    },
+    {
+      "question_id": 13,
+      "question": "Which unit is commonly used to measure mass in the SI system?",
+      "options": [
+        "kilogram",
+        "pound",
+        "stone"
+      ],
+      "answer": "kilogram"
+    },
+    {
+      "question_id": 14,
+      "question": "Which unit measures optical irradiance, commonly expressed in watts per square meter?",
+      "options": [
+        "candela",
+        "lux",
+        "radiant flux density"
+      ],
+      "answer": "radiant flux density"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specialized unit measures luminous efficacy in lumens per watt for light sources?",
+      "options": [
+        "lumen per watt",
+        "candela per lux",
+        "lux per lumen"
+      ],
+      "answer": "lumen per watt"
+    }
+  ]
+}

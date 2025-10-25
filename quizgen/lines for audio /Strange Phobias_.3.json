@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia means fear of youth or teenagers?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia describes fear of teeth or dental work beyond dental anxiety?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia refers to fear of mirrors reflective of deeper identity concerns?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia is fear of the number 13 called?"
+    },
+    {
+      "question_id": 5,
+      "question": "The term 'nomophobia' first appeared prominently in which source?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare phobia involves fear of hair loss or baldness affecting social confidence?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia describes fear of being without access to the internet or phone connectivity?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia is fear of swallowing or of food going down the throat?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia name combines Greek words meaning 'bridges' and 'fear' referencing travel avoidance?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia refers to fear of insects and is often misapplied to many 'strange' phobias?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia name literally means 'fear of knives or sharp objects'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who is credited with popularizing the humorous long-word phobia often cited in trivia?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia is the fear of being without a mobile phone?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which unusual phobia involves intense fear of belly buttons?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fictional phobia claims a duck is secretly watching you in a single-panel cartoon?"
+    }
+  ]
+}

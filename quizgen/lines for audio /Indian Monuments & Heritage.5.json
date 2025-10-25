@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which British-era memorial on Kolkata's Victoria Memorial grounds honors Queen Victoria?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which British architect designed the overall plan for New Delhi including Rashtrapati Bhavan?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Persian engineer supervised Humayun's Tomb construction under Haji Begum?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which structure is a famous gateway built in Mumbai to commemorate a royal visit?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which mosque in Delhi was commissioned by Shah Jahan and remains among India's largest?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which temple at Hampi preserves the famous stone chariot and carved musical pillars?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which city contains the rock-cut Kailasa temple carved from a single rock?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which archaeological site hosts the largest surviving monolithic stone chariot in India?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ancient Indian capital's ruins include the famous Udayagiri and Khandagiri caves?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which stupas at Sanchi are associated with Emperor Ashoka?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coastal shrine at Konark aligns with the rising sun and chariot symbolism?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient stepwell at Patan features ornate sculptures and was UNESCO-inscribed in 2014?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which cave complex combines Buddhist, Hindu, and Jain monuments in Maharashtra?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian monument's central dome was an inspiration for later Mughal architecture?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which archaeological site in Tamil Nadu preserves rock-cut temples from Pallava and early Chola periods?"
+    }
+  ]
+}

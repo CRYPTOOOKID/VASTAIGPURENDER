@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes calories that provide little vitamins or minerals?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the thermic effect of food (TEF)?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which minor component can yield measurable caloric value through gut microbiota fermentation?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which beverage contains calories despite not being a food?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which label term indicates the amount of a nutrient per serving relative to daily intake?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which measurement concept addresses energy available after accounting for microbial and enzymatic losses?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which macronutrient is especially important for muscle repair after exercise?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which sugar alcohol is often labeled as near-zero calories and used in reduced-calorie products?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which change in the US Nutrition Facts label increased emphasis on public health priorities?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which macronutrient provides about 7 kilocalories per gram?"
+    },
+    {
+      "question_id": 11,
+      "question": "What effect does soluble fiber have on blood glucose after a meal?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which value best describes the general Atwater energy factors for carbs, protein, and fat?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient often appears highest in nuts and oils?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which common misconception about calories is often incorrect?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which measurement compares caloric contribution adjusted for absorption and urinary losses?"
+    }
+  ]
+}

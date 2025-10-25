@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the full form of WHO?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does OPEC stand for?"
+    },
+    {
+      "question_id": 3,
+      "question": "What did ARPANET originally stand for?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the full form of HIV?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the full form of IMF?"
+    },
+    {
+      "question_id": 6,
+      "question": "What does RAID mean in storage technologies?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does SMS stand for?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does SMTP stand for in email delivery?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the full form of EXIF in photography metadata?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the full form of FBI?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the full form of PNG image format?"
+    },
+    {
+      "question_id": 12,
+      "question": "What operations does CRUD summarize?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does NASA stand for?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does ICBM mean in military terms?"
+    },
+    {
+      "question_id": 15,
+      "question": "What does POSIX stand for in computing standards?"
+    }
+  ]
+}

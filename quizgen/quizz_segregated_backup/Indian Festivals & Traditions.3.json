@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which nine-night festival honors the goddess Durga with dance and prayer?",
+      "options": [
+        "Navratri",
+        "Diwali",
+        "Guru Purnima"
+      ],
+      "answer": "Navratri"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival includes the urs and qawwali gatherings at Sufi shrines across India?",
+      "options": [
+        "Urs (Sufi festival)",
+        "Diwali",
+        "Bhogali Bihu"
+      ],
+      "answer": "Urs (Sufi festival)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival tradition in Gujarat involves nine-day nightly gatherings invoking different forms of the goddess?",
+      "options": [
+        "Garba nights of Navratri",
+        "Diwali lamp processions",
+        "Baisakhi melas"
+      ],
+      "answer": "Garba nights of Navratri"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival is famous for the tiger dance 'Pulikali' performed in Kerala streets?",
+      "options": [
+        "Onam",
+        "Holi",
+        "Navratri"
+      ],
+      "answer": "Onam"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian festival is associated with charity and meat distribution during Eid-al-Adha variant celebrated by some communities?",
+      "options": [
+        "Bakrid",
+        "Diwali",
+        "Raksha Bandhan"
+      ],
+      "answer": "Bakrid"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival's Vedic antecedent includes rituals described in the ancient text 'Yajurveda' for seasonal rites?",
+      "options": [
+        "Makar Sankranti/solar rites",
+        "Diwali night rites",
+        "Navratri fasting"
+      ],
+      "answer": "Makar Sankranti/solar rites"
+    },
+    {
+      "question_id": 7,
+      "question": "Which harvest festival in South India spans four days and includes Mattu Pongal for cattle?",
+      "options": [
+        "Pongal",
+        "Baisakhi",
+        "Lohri"
+      ],
+      "answer": "Pongal"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival's regional form in West Bengal involves competitive immersion tableaux called 'pandal hopping'?",
+      "options": [
+        "Durga Puja",
+        "Ganesh Chaturthi",
+        "Navratri"
+      ],
+      "answer": "Durga Puja"
+    },
+    {
+      "question_id": 9,
+      "question": "Which festival's ritual includes offering food to ancestors known as 'pinda daan' during Pitru Paksha?",
+      "options": [
+        "Pitru Paksha offerings",
+        "Navratri blessings",
+        "Baisakhi langar"
+      ],
+      "answer": "Pitru Paksha offerings"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival features people throwing colored powders and water?",
+      "options": [
+        "Holi",
+        "Navratri",
+        "Pongal"
+      ],
+      "answer": "Holi"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival's key activity is boat racing called 'Vallam Kali' in Kerala during the season?",
+      "options": [
+        "Onam",
+        "Baisakhi",
+        "Lohri"
+      ],
+      "answer": "Onam"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Maharashtra festival was large-scale revived by Lokamanya Tilak to foster public participation in the early 20th century?",
+      "options": [
+        "Ganesh Chaturthi",
+        "Diwali",
+        "Holi"
+      ],
+      "answer": "Ganesh Chaturthi"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival involves installing and immersing clay idols of Lord Ganesha?",
+      "options": [
+        "Ganesh Chaturthi",
+        "Raksha Bandhan",
+        "Baisakhi"
+      ],
+      "answer": "Ganesh Chaturthi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival includes the tradition of breaking the sister's fast with a sibling's meal in some regions?",
+      "options": [
+        "Raksha Bandhan",
+        "Karva Chauth",
+        "Vasant Panchami"
+      ],
+      "answer": "Raksha Bandhan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival tradition involves making and distributing 'tilgul' sesame sweets during Makar Sankranti in Maharashtra?",
+      "options": [
+        "Tilgul exchange",
+        "Pongal offering",
+        "Holi gujiya"
+      ],
+      "answer": "Tilgul exchange"
+    }
+  ]
+}

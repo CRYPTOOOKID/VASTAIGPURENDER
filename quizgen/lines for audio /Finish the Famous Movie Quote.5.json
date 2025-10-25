@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the famous movie quote: \"I'm going to make him an ____ he can't refuse.\" (The Godfather)."
+    },
+    {
+      "question_id": 2,
+      "question": "Finish the quote: \"Nobody puts Baby in a ____\" (Dirty Dancing)."
+    },
+    {
+      "question_id": 3,
+      "question": "Finish the quote: \"You're gonna need a bigger boat\" — which composer scored the film?"
+    },
+    {
+      "question_id": 4,
+      "question": "Finish the famous movie quote: \"May the ____ be with you.\" (Star Wars)."
+    },
+    {
+      "question_id": 5,
+      "question": "Finish the quote: \"I'll be back\" is an example of what cinematic device?"
+    },
+    {
+      "question_id": 6,
+      "question": "Finish the quote: \"I see dead people.\" — who wrote the screenplay for The Sixth Sense?"
+    },
+    {
+      "question_id": 7,
+      "question": "Finish the famous movie quote: \"Toto, I've a feeling we're not in ____ anymore.\" (The Wizard of Oz)."
+    },
+    {
+      "question_id": 8,
+      "question": "Finish the quote: \"I love the smell of napalm in the ____.\" (Apocalypse Now)."
+    },
+    {
+      "question_id": 9,
+      "question": "Finish the quote: \"Show me the money!\" — which actor improvised the chant?"
+    },
+    {
+      "question_id": 10,
+      "question": "Finish the famous movie quote: \"I'll have what she's ____.\" (When Harry Met Sally)."
+    },
+    {
+      "question_id": 11,
+      "question": "Finish the quote: \"I'll have what she's having\" references what comedic element?"
+    },
+    {
+      "question_id": 12,
+      "question": "Finish the quote: \"After all, tomorrow is another day\" — who wrote the novel containing this line?"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the famous movie quote: \"I'm the king of the ____!\" (Titanic)."
+    },
+    {
+      "question_id": 14,
+      "question": "Finish the quote: \"Keep your friends close, but your enemies closer.\" Which film popularized this phrasing?"
+    },
+    {
+      "question_id": 15,
+      "question": "Finish the quote: \"You talking to me?\" — which unfilmed antagonist inspired De Niro's monologue?"
+    }
+  ]
+}

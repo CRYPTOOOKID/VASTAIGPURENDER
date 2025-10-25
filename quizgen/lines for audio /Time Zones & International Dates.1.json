@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which continent uses the fewest time zones across its mainland?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phenomenon requires inserting a negative leap second only in hypothetical scenarios, never yet used?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country experimented with 'double daylight saving' creating two-hour seasonal shifts in the 1940s?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which U.S. time zone is two hours ahead of Pacific Time?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which region uses 'Zulu time' as a synonym for UTC in aviation and military contexts?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country altered its date line position internally in the 19th century, causing local calendar inconsistencies?"
+    },
+    {
+      "question_id": 7,
+      "question": "What event causes clocks to move forward one hour in many regions?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which practice do some countries use instead of DST to adjust local time seasonally?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which scientific service publishes leap second announcements months in advance?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which U.S. state has two time zones on the mainland?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which island territory uses UTC-11, making it among the last places to see each day?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which timekeeping system did railroads in 19th-century North America adopt before national standardization?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which global time standard replaced GMT in technical contexts?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city is just west of the prime meridian but uses UTC+0 time legally?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which year saw the first international agreement to adopt a single prime meridian at Greenwich?"
+    }
+  ]
+}

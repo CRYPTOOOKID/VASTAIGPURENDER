@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which city is the capital of São Tomé and Príncipe, located on São Tomé island?",
+      "options": [
+        "São Tomé",
+        "Bissau",
+        "Praia"
+      ],
+      "answer": "São Tomé"
+    },
+    {
+      "question_id": 2,
+      "question": "Which African capital functions as two cities for different roles: administrative and ceremonial within one kingdom?",
+      "options": [
+        "Kigali and Butare",
+        "Maseru and Teyateyaneng",
+        "Mbabane and Lobamba"
+      ],
+      "answer": "Mbabane and Lobamba"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national capital lies within a UNESCO-listed historic quarter famous for preserving colonial wooden buildings?",
+      "options": [
+        "Paramaribo",
+        "Bissau",
+        "Zanzibar City"
+      ],
+      "answer": "Paramaribo"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of the Maldives, situated on a small coral island in the Indian Ocean?",
+      "options": [
+        "Malé",
+        "Colombo",
+        "Victoria"
+      ],
+      "answer": "Malé"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital is the administrative seat for a country where the largest city remains economically dominant abroad?",
+      "options": [
+        "Canberra (Australia)",
+        "Ottawa (Canada)",
+        "Porto-Novo (Benin)"
+      ],
+      "answer": "Porto-Novo (Benin)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital is recognized for having established government buildings constructed on reclaimed land atop a lagoon?",
+      "options": [
+        "Palikir",
+        "Ngerulmud",
+        "Belmopan"
+      ],
+      "answer": "Ngerulmud"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Caribbean island's capital is Roseau, known for lush rainforests?",
+      "options": [
+        "Dominican Republic",
+        "Dominica",
+        "Saint Lucia"
+      ],
+      "answer": "Dominica"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital was built on reclaimed land between two islands to serve as the national seat of government?",
+      "options": [
+        "Palikir",
+        "Ngerulmud",
+        "Belmopan"
+      ],
+      "answer": "Ngerulmud"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital is known for maintaining ceremonial royal residences separate from the administrative ministries in another city?",
+      "options": [
+        "United Kingdom (Buckingham and Westminster)",
+        "Eswatini (Lobamba and Mbabane)",
+        "Japan (Tokyo and Kyoto)"
+      ],
+      "answer": "Eswatini (Lobamba and Mbabane)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city serves as Benin's official capital, though another city hosts many government offices?",
+      "options": [
+        "Cotonou",
+        "Abidjan",
+        "Porto-Novo"
+      ],
+      "answer": "Porto-Novo"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital city is located closest to the equator among these Pacific capitals?",
+      "options": [
+        "Funafuti",
+        "Honiara",
+        "Suva"
+      ],
+      "answer": "Funafuti"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital hosted a historic regional summit, boosting its international profile despite its small population?",
+      "options": [
+        "Port Vila",
+        "Honiara",
+        "Palikir"
+      ],
+      "answer": "Honiara"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital city of the Union of the Comoros, found on Grande Comore island?",
+      "options": [
+        "Moroni",
+        "Antananarivo",
+        "Victoria"
+      ],
+      "answer": "Moroni"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city became Palau's capital in 2006, replacing the long-serving administrative center Koror?",
+      "options": [
+        "Koror",
+        "Palikir",
+        "Ngerulmud"
+      ],
+      "answer": "Ngerulmud"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital was designated to reduce exposure to coastal storms and to centralize ministries after a major disaster?",
+      "options": [
+        "Belmopan",
+        "Ngerulmud",
+        "Palikir"
+      ],
+      "answer": "Belmopan"
+    }
+  ]
+}

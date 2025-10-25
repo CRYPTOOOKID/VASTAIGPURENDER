@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an example of earned media?",
+      "options": [
+        "A company-owned product page",
+        "A journalist covering a product launch",
+        "A paid banner ad"
+      ],
+      "answer": "A journalist covering a product launch"
+    },
+    {
+      "question_id": 2,
+      "question": "Which paid media pricing model charges per completed action?",
+      "options": [
+        "CPM (cost per mille)",
+        "CPV (cost per view)",
+        "CPA (cost per acquisition)"
+      ],
+      "answer": "CPA (cost per acquisition)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which strategic move strengthens resilience against platform policy changes?",
+      "options": [
+        "Eliminating measurement entirely",
+        "Doubling spend on one dominant platform",
+        "Diversifying channels and building owned audiences"
+      ],
+      "answer": "Diversifying channels and building owned audiences"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'target audience' refer to in campaign planning?",
+      "options": [
+        "The specific group of customers a campaign aims to reach",
+        "All internet users globally",
+        "The company stakeholders funding the campaign"
+      ],
+      "answer": "The specific group of customers a campaign aims to reach"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'CAC' measure in campaign economics?",
+      "options": [
+        "Customer acquisition cost",
+        "Content average clicks",
+        "Campaign asset count"
+      ],
+      "answer": "Customer acquisition cost"
+    },
+    {
+      "question_id": 6,
+      "question": "Which multi-touch attribution method assigns credit proportionally across touchpoints?",
+      "options": [
+        "Time-of-day attribution",
+        "Linear attribution",
+        "First-touch only attribution"
+      ],
+      "answer": "Linear attribution"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a 'call to action' (CTA) in an ad?",
+      "options": [
+        "The legal disclaimer at the bottom of an ad",
+        "A phrase prompting the audience to take a specific action",
+        "The design template used for the ad"
+      ],
+      "answer": "A phrase prompting the audience to take a specific action"
+    },
+    {
+      "question_id": 8,
+      "question": "Which qualitative method helps uncover customer motivations for campaigns?",
+      "options": [
+        "Automated email blasts",
+        "Batch invoice processing",
+        "In-depth interviews and focus groups"
+      ],
+      "answer": "In-depth interviews and focus groups"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ad safety approach prevents placements next to harmful content?",
+      "options": [
+        "Avoiding any online advertising",
+        "Increasing bid floors indiscriminately",
+        "Brand safety controls and pre-bid filtering"
+      ],
+      "answer": "Brand safety controls and pre-bid filtering"
+    },
+    {
+      "question_id": 10,
+      "question": "What is A/B testing primarily used to determine?",
+      "options": [
+        "The legal ownership of creative assets",
+        "Employee satisfaction levels",
+        "Which version performs better with audiences"
+      ],
+      "answer": "Which version performs better with audiences"
+    },
+    {
+      "question_id": 11,
+      "question": "What is an advantage of marketing automation platforms?",
+      "options": [
+        "Replace creative teams entirely",
+        "Guarantee viral content",
+        "Automate repetitive campaigns and scoring"
+      ],
+      "answer": "Automate repetitive campaigns and scoring"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced technique attributes revenue when consumers interact with many touchpoints over time?",
+      "options": [
+        "Ignoring attribution and counting clicks",
+        "Time-series based mixed attribution and experimental blending",
+        "Single-session analysis only"
+      ],
+      "answer": "Time-series based mixed attribution and experimental blending"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a marketing campaign primarily designed to achieve?",
+      "options": [
+        "Increase brand awareness or drive customer action",
+        "Improve internal team structure",
+        "Reduce manufacturing costs"
+      ],
+      "answer": "Increase brand awareness or drive customer action"
+    },
+    {
+      "question_id": 14,
+      "question": "Which attribution model gives all credit to the first touchpoint?",
+      "options": [
+        "First-touch attribution",
+        "Linear attribution",
+        "Last-click attribution"
+      ],
+      "answer": "First-touch attribution"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fraud type inflates ad metrics using non-human traffic?",
+      "options": [
+        "Bot-driven invalid traffic (IVT)",
+        "Brand safety compliance",
+        "Contextual misplacement"
+      ],
+      "answer": "Bot-driven invalid traffic (IVT)"
+    }
+  ]
+}

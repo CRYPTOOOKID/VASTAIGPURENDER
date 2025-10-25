@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Nagaland?",
+      "options": [
+        "Kohima",
+        "Dimapur",
+        "Mokokchung"
+      ],
+      "answer": "Kohima"
+    },
+    {
+      "question_id": 2,
+      "question": "Which state capital houses the North Eastern Council headquarters?",
+      "options": [
+        "Shillong",
+        "Guwahati",
+        "Imphal"
+      ],
+      "answer": "Shillong"
+    },
+    {
+      "question_id": 3,
+      "question": "Which state capital was established on a marshy plain and planned after independence as a new administrative center?",
+      "options": [
+        "Gandhinagar",
+        "New Delhi",
+        "Bengaluru"
+      ],
+      "answer": "Gandhinagar"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Karnataka?",
+      "options": [
+        "Bengaluru",
+        "Mysuru",
+        "Hubballi"
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 5,
+      "question": "Which city became the capital of the newly formed Uttarakhand state in 2000?",
+      "options": [
+        "Dehradun",
+        "Nainital",
+        "Haridwar"
+      ],
+      "answer": "Dehradun"
+    },
+    {
+      "question_id": 6,
+      "question": "Which coastal capital is closest to India’s second-largest mangrove region after the Sundarbans?",
+      "options": [
+        "Bhubaneswar",
+        "Visakhapatnam",
+        "Kochi"
+      ],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Uttar Pradesh?",
+      "options": [
+        "Lucknow",
+        "Kanpur",
+        "Varanasi"
+      ],
+      "answer": "Lucknow"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state was carved out of Madhya Pradesh on 1 November 2000?",
+      "options": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Uttarakhand"
+      ],
+      "answer": "Chhattisgarh"
+    },
+    {
+      "question_id": 9,
+      "question": "Which state capital hosts one of the country's major education hubs, including an Institute of National Importance?",
+      "options": [
+        "Bengaluru",
+        "Lucknow",
+        "Patna"
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Kerala?",
+      "options": [
+        "Thiruvananthapuram",
+        "Kochi",
+        "Kozhikode"
+      ],
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "question_id": 11,
+      "question": "Which eastern state capital became an administrative seat after reorganization in 1950s?",
+      "options": [
+        "Bhubaneswar",
+        "Cuttack",
+        "Puri"
+      ],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which state capital's port became a key strategic naval base during World War II and remains important today?",
+      "options": [
+        "Visakhapatnam",
+        "Kochi",
+        "Mumbai"
+      ],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the national capital territory's administrative capital?",
+      "options": [
+        "New Delhi",
+        "Gurgaon",
+        "Noida"
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which coastal state capital sits at the mouth of the Mandovi River?",
+      "options": [
+        "Panaji",
+        "Vasco da Gama",
+        "Mangalore"
+      ],
+      "answer": "Panaji"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital's modern layout was influenced by Pierre Jeanneret’s collaboration after Le Corbusier?",
+      "options": [
+        "Chandigarh",
+        "Gandhinagar",
+        "New Delhi"
+      ],
+      "answer": "Chandigarh"
+    }
+  ]
+}

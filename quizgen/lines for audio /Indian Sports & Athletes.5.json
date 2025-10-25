@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which sport is Neeraj Chopra internationally known for?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian wrestler won silver in the 2010 Commonwealth Games and later Olympic medals?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian cricketer captained India during the 2003 World Cup semifinal loss to Australia?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian cricketer holds the record for highest individual ODI score of 264?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian athlete won the 2010 Commonwealth Games heptathlon gold?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian cricketer took the first-ever Test ten-wicket match haul by an Indian at Lord's?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian tennis player became a Grand Slam doubles champion with multiple partners?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian female shooter won individual gold at the 2018 Commonwealth Games in 25m pistol?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian chess player defeated Garry Kasparov in a rapid exhibition match in 2017?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Indian woman won a silver medal in badminton at the 2016 Olympics?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian cricketer scored a Test triple century at the Eden Gardens in 2001?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian athlete became the first Asian to win Diamond League final in javelin throw?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian tennis player won a bronze medal at the 1996 Olympics?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian golfer won the 2008 Indian Masters on the Asian Tour?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian athlete set the national javelin record before Neeraj Chopra's era?"
+    }
+  ]
+}

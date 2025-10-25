@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'A watched pot never boils' convey about waiting?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which proverb suggests you should consider consequences before acting?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which proverb term describes short moral sayings like 'Honesty is the best policy'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which proverb warns that appearances can mislead?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb commonly summarizes the Golden Rule across cultures?"
+    },
+    {
+      "question_id": 6,
+      "question": "What name describes a deliberate humorous twist on a familiar proverb?"
+    },
+    {
+      "question_id": 7,
+      "question": "Complete the proverb: 'Too many cooks spoil the ___' in another common form"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb implies impatience reduces perceived progress?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which proverb study subfield focuses on how proverbs change in everyday use?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'Honesty is the best policy' recommend?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb suggests immediate small fixes prevent larger problems later?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which proverb-forming practice uses rhyme to aid memory, like 'Haste makes waste'?"
+    },
+    {
+      "question_id": 13,
+      "question": "Complete the proverb: 'Too many cooks spoil the ___'"
+    },
+    {
+      "question_id": 14,
+      "question": "Which historical figure reportedly said 'Alea iacta est' meaning 'The die is cast'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which famous proverb about reputation appears in Proverbs 22:1 as 'A good name is more desirable than great riches'?"
+    }
+  ]
+}

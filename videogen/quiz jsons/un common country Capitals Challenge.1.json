@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital city of Saint Lucia, overlooking a natural harbor?",
+      "options": [
+        "Castries",
+        "Kingstown",
+        "Bridgetown"
+      ],
+      "answer": "Castries"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country announced plans to relocate its capital from Malabo to the inland Ciudad de la Paz (Oyala)?",
+      "options": [
+        "Equatorial Guinea",
+        "Cameroon",
+        "Gabon"
+      ],
+      "answer": "Equatorial Guinea"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital's historic district was inscribed as a UNESCO site in 2002 for its wooden colonial architecture?",
+      "options": [
+        "Quito",
+        "Paramaribo",
+        "Sucre"
+      ],
+      "answer": "Paramaribo"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital city of the Pacific island nation Palau, known for its Rock Islands?",
+      "options": [
+        "Ngerulmud",
+        "Koror",
+        "Palikir"
+      ],
+      "answer": "Ngerulmud"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital was created and inaugurated in 1970 following the devastation of the former capital by a hurricane?",
+      "options": [
+        "Brasília",
+        "Canberra",
+        "Belmopan"
+      ],
+      "answer": "Belmopan"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital sits on an atoll lagoon and has a strip-like form with settlements along a narrow reef rim?",
+      "options": [
+        "Apia",
+        "Majuro",
+        "Suva"
+      ],
+      "answer": "Majuro"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital city of the Federated States of Micronesia, located on Pohnpei island?",
+      "options": [
+        "Majuro",
+        "Palikir",
+        "Ngerulmud"
+      ],
+      "answer": "Palikir"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital's name translates to 'big town' or 'big village' in a local West African language?",
+      "options": [
+        "Niamey",
+        "Bissau",
+        "Ouagadougou"
+      ],
+      "answer": "Ouagadougou"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital is the administrative center of a nation where the government functions across multiple islands and a continental mainland?",
+      "options": [
+        "Conakry (Guinea)",
+        "Port Vila (Vanuatu)",
+        "Paramaribo (Suriname)"
+      ],
+      "answer": "Port Vila (Vanuatu)"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the national capital of the Marshall Islands situated on Majuro atoll?",
+      "options": [
+        "Palikir",
+        "Funafuti",
+        "Majuro"
+      ],
+      "answer": "Majuro"
+    },
+    {
+      "question_id": 11,
+      "question": "Which national capital's airport sits on a different island than the main administrative center, requiring boat transfers?",
+      "options": [
+        "Funafuti (Tuvalu)",
+        "Victoria (Seychelles)",
+        "Malé (Maldives)"
+      ],
+      "answer": "Malé (Maldives)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital's international airport is built on a reclaimed island separated from the government district by narrow channels?",
+      "options": [
+        "Majuro (Marshall Islands)",
+        "Malé (Velana International)",
+        "Funafuti (Tuvalu)"
+      ],
+      "answer": "Malé (Velana International)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which city is the capital of Equatorial Guinea, located on Bioko Island?",
+      "options": [
+        "Libreville",
+        "Malabo",
+        "Bata"
+      ],
+      "answer": "Malabo"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city was re-established after colonial rule and now hosts both modern ministries and historic districts?",
+      "options": [
+        "Paramaribo",
+        "Sucre",
+        "Bissau"
+      ],
+      "answer": "Paramaribo"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital city served as a temporary national capital during independence transition before the seat returned to an older city?",
+      "options": [
+        "Bissau",
+        "Conakry",
+        "Porto-Novo"
+      ],
+      "answer": "Bissau"
+    }
+  ]
+}

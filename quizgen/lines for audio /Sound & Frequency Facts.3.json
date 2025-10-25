@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which unit expresses perceived sound level?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientist built resonators to analyze sound spectra in the 19th century?"
+    },
+    {
+      "question_id": 3,
+      "question": "What effect causes high-frequency sound to attenuate more over long atmospheric paths?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the commonly cited human hearing range?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which frequency band plays the greatest role in speech intelligibility?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fundamental equation models pressure variations for acoustic waves in fluids?"
+    },
+    {
+      "question_id": 7,
+      "question": "What name describes sound above 20 kHz?"
+    },
+    {
+      "question_id": 8,
+      "question": "What reference sound pressure corresponds to 0 dB SPL?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term names the curves that map equal perceived loudness across frequency?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instrument produces sound primarily by vibrating strings?"
+    },
+    {
+      "question_id": 11,
+      "question": "What process reduces transmitted energy when sound passes through material?"
+    },
+    {
+      "question_id": 12,
+      "question": "What quantity equals the product of medium density and sound speed?"
+    },
+    {
+      "question_id": 13,
+      "question": "Sound waves in air are which wave type?"
+    },
+    {
+      "question_id": 14,
+      "question": "Typical bat echolocation frequencies often fall in which range?"
+    },
+    {
+      "question_id": 15,
+      "question": "What determines spacing of harmonic partials for an ideal vibrating string?"
+    }
+  ]
+}

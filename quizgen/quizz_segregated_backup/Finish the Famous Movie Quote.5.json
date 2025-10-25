@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the famous movie quote: \"I'm going to make him an ____ he can't refuse.\" (The Godfather).",
+      "options": [
+        "Offer",
+        "Promise",
+        "Threat"
+      ],
+      "answer": "Offer"
+    },
+    {
+      "question_id": 2,
+      "question": "Finish the quote: \"Nobody puts Baby in a ____\" (Dirty Dancing).",
+      "options": [
+        "Corner",
+        "Car",
+        "Box"
+      ],
+      "answer": "Corner"
+    },
+    {
+      "question_id": 3,
+      "question": "Finish the quote: \"You're gonna need a bigger boat\" — which composer scored the film?",
+      "options": [
+        "John Williams",
+        "Ennio Morricone",
+        "Danny Elfman"
+      ],
+      "answer": "John Williams"
+    },
+    {
+      "question_id": 4,
+      "question": "Finish the famous movie quote: \"May the ____ be with you.\" (Star Wars).",
+      "options": [
+        "Force",
+        "Story",
+        "Dreams"
+      ],
+      "answer": "Force"
+    },
+    {
+      "question_id": 5,
+      "question": "Finish the quote: \"I'll be back\" is an example of what cinematic device?",
+      "options": [
+        "Foreshadowing",
+        "Flashback",
+        "Montage"
+      ],
+      "answer": "Foreshadowing"
+    },
+    {
+      "question_id": 6,
+      "question": "Finish the quote: \"I see dead people.\" — who wrote the screenplay for The Sixth Sense?",
+      "options": [
+        "M. Night Shyamalan",
+        "David Koepp",
+        "Christopher Nolan"
+      ],
+      "answer": "M. Night Shyamalan"
+    },
+    {
+      "question_id": 7,
+      "question": "Finish the famous movie quote: \"Toto, I've a feeling we're not in ____ anymore.\" (The Wizard of Oz).",
+      "options": [
+        "Kansas",
+        "London",
+        "Paris"
+      ],
+      "answer": "Kansas"
+    },
+    {
+      "question_id": 8,
+      "question": "Finish the quote: \"I love the smell of napalm in the ____.\" (Apocalypse Now).",
+      "options": [
+        "Morning",
+        "Evening",
+        "Afternoon"
+      ],
+      "answer": "Morning"
+    },
+    {
+      "question_id": 9,
+      "question": "Finish the quote: \"Show me the money!\" — which actor improvised the chant?",
+      "options": [
+        "Tom Cruise",
+        "Cuba Gooding Jr.",
+        "Jerry Maguire"
+      ],
+      "answer": "Tom Cruise"
+    },
+    {
+      "question_id": 10,
+      "question": "Finish the famous movie quote: \"I'll have what she's ____.\" (When Harry Met Sally).",
+      "options": [
+        "Having",
+        "Saying",
+        "Eating"
+      ],
+      "answer": "Having"
+    },
+    {
+      "question_id": 11,
+      "question": "Finish the quote: \"I'll have what she's having\" references what comedic element?",
+      "options": [
+        "Imitation of reaction",
+        "Hidden plot twist",
+        "Action sequence"
+      ],
+      "answer": "Imitation of reaction"
+    },
+    {
+      "question_id": 12,
+      "question": "Finish the quote: \"After all, tomorrow is another day\" — who wrote the novel containing this line?",
+      "options": [
+        "Margaret Mitchell",
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald"
+      ],
+      "answer": "Margaret Mitchell"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the famous movie quote: \"I'm the king of the ____!\" (Titanic).",
+      "options": [
+        "World",
+        "Sea",
+        "Hill"
+      ],
+      "answer": "World"
+    },
+    {
+      "question_id": 14,
+      "question": "Finish the quote: \"Keep your friends close, but your enemies closer.\" Which film popularized this phrasing?",
+      "options": [
+        "The Godfather Part II",
+        "Scarface",
+        "Goodfellas"
+      ],
+      "answer": "The Godfather Part II"
+    },
+    {
+      "question_id": 15,
+      "question": "Finish the quote: \"You talking to me?\" — which unfilmed antagonist inspired De Niro's monologue?",
+      "options": [
+        "Travis Bickle's reflection",
+        "A real-life mugger",
+        "Taxi rival"
+      ],
+      "answer": "Travis Bickle's reflection"
+    }
+  ]
+}

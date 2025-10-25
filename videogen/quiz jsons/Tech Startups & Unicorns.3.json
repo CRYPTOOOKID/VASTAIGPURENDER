@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which cloud storage startup was founded by Drew Houston and became a unicorn?",
+      "options": [
+        "Dropbox",
+        "Box",
+        "OneDrive"
+      ],
+      "answer": "Dropbox"
+    },
+    {
+      "question_id": 2,
+      "question": "Which type of investor often leads Series A and defines terms for subsequent rounds?",
+      "options": [
+        "Crowdfunding backer",
+        "Lead investor (typically a VC firm)",
+        "Angel investor"
+      ],
+      "answer": "Lead investor (typically a VC firm)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which high-profile unicorn used an IPO S-1 filing that revealed large operating losses and unusual governance in 2019?",
+      "options": [
+        "Airbnb",
+        "WeWork",
+        "Uber"
+      ],
+      "answer": "WeWork"
+    },
+    {
+      "question_id": 4,
+      "question": "What defines a startup as a \"unicorn\" in venture capital terms?",
+      "options": [
+        "Public company with $1 billion revenue",
+        "Private company with 1,000 employees",
+        "Private company valued at $1 billion or more"
+      ],
+      "answer": "Private company valued at $1 billion or more"
+    },
+    {
+      "question_id": 5,
+      "question": "Which data-warehousing company staged a high-profile IPO in 2020 and was a cloud unicorn?",
+      "options": [
+        "Snowflake",
+        "Databricks",
+        "Cloudera"
+      ],
+      "answer": "Snowflake"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes investor rights requiring new shares to be sold pro rata so investors maintain ownership percentages?",
+      "options": [
+        "Right of first refusal",
+        "Pro rata rights",
+        "Drag-along rights"
+      ],
+      "answer": "Pro rata rights"
+    },
+    {
+      "question_id": 7,
+      "question": "Which accelerator, founded in 2005, is known for funding early-stage startups?",
+      "options": [
+        "Techstars",
+        "500 Startups",
+        "Y Combinator"
+      ],
+      "answer": "Y Combinator"
+    },
+    {
+      "question_id": 8,
+      "question": "Which cloud infrastructure unicorn was founded by former Oracle employees and focused on containers?",
+      "options": [
+        "Docker",
+        "Kubernetes",
+        "OpenStack"
+      ],
+      "answer": "Docker"
+    },
+    {
+      "question_id": 9,
+      "question": "Which financing preference allows investors to be paid first and then participate pro rata with common shareholders?",
+      "options": [
+        "Non-participating preferred",
+        "Common stock",
+        "Participating preferred"
+      ],
+      "answer": "Participating preferred"
+    },
+    {
+      "question_id": 10,
+      "question": "Which enterprise messaging company went public after being a unicorn and began as Tiny Speck?",
+      "options": [
+        "Slack",
+        "Asana",
+        "Zoom"
+      ],
+      "answer": "Slack"
+    },
+    {
+      "question_id": 11,
+      "question": "Which corporate action converts private shares to public shares via direct listing instead of a traditional IPO?",
+      "options": [
+        "Secondary buyout",
+        "Reverse merger",
+        "Direct listing"
+      ],
+      "answer": "Direct listing"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Silicon Valley firm is famous for seeding companies like Google and Yahoo in their early stages?",
+      "options": [
+        "Sequoia Capital",
+        "Benchmark Capital",
+        "Accel Partners"
+      ],
+      "answer": "Sequoia Capital"
+    },
+    {
+      "question_id": 13,
+      "question": "What role does a \"venture capitalist\" play for startups?",
+      "options": [
+        "Manages daily operations",
+        "Regulates startup compliance",
+        "Provides funding and strategic guidance in exchange for equity"
+      ],
+      "answer": "Provides funding and strategic guidance in exchange for equity"
+    },
+    {
+      "question_id": 14,
+      "question": "What does \"cap table\" refer to in startups?",
+      "options": [
+        "Customer acquisition table",
+        "Marketing budget plan",
+        "Ownership breakdown showing shares and investor stakes"
+      ],
+      "answer": "Ownership breakdown showing shares and investor stakes"
+    },
+    {
+      "question_id": 15,
+      "question": "Which enterprise unicorn began as a code collaboration platform and later sold to Microsoft in 2018?",
+      "options": [
+        "GitLab",
+        "GitHub",
+        "Bitbucket"
+      ],
+      "answer": "GitHub"
+    }
+  ]
+}

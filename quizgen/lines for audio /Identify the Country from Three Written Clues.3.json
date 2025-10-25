@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Great Wall, Beijing, pandas — Which country?"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Lake Baikal, Trans-Siberian Railway, Siberia — Which country?"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Baltic amber deposits, Hill of Crosses pilgrimage, Vilnius Old Town — Which country?"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: K-pop, kimchi, Seoul — Which country?"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Sahara, Atlas Mountains, Casablanca — Which country?"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Balkan coastlines, Bay of Kotor, Montenegrin independence 2006 — Which country?"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Fjords, Oslo, Viking history — Which country?"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Mount Kilimanjaro rains, Serengeti migration, Zanzibar spice islands — Which country?"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Himalaya's Bhutanese Gross National Happiness policy, Thimphu capital — Which country?"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Kilimanjaro, Swahili, Serengeti — Which country?"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Zambezi River, Victoria Falls, Lusaka capital proximity — Which country?"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Maghreb country with Amazigh heritage, capital Rabat, Atlantic and Mediterranean coasts — Which country?"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Oktoberfest, Berlin, bratwurst — Which country?"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Breton crepes, Mont Saint-Michel, Normandy — Which country?"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Carpathian Mountains, painted monasteries of Bukovina, Dracula literary connections — Which country?"
+    }
+  ]
+}

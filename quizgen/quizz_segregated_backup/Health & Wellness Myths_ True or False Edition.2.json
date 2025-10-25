@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which claim about sweating eliminating toxins is most accurate?",
+      "options": [
+        "Sweating removes significant industrial toxins from the body",
+        "Sweat removes small amounts of some substances but organs handle most toxins",
+        "Sweating cures chronic poisoning quickly"
+      ],
+      "answer": "Sweat removes small amounts of some substances but organs handle most toxins"
+    },
+    {
+      "question_id": 2,
+      "question": "Which finding about MSG and headaches reflects research consensus?",
+      "options": [
+        "Most people have no reproducible adverse reaction to typical MSG amounts",
+        "MSG universally causes severe headaches in everyone",
+        "MSG is banned due to its toxicity"
+      ],
+      "answer": "Most people have no reproducible adverse reaction to typical MSG amounts"
+    },
+    {
+      "question_id": 3,
+      "question": "Which lab finding questions claims that detox foot pads remove heavy metals?",
+      "options": [
+        "Independent tests show pads darken from chemical reactions, not extracted body metals",
+        "Pads reliably extract grams of heavy metals from the body",
+        "Pads sterilize the bloodstream directly"
+      ],
+      "answer": "Independent tests show pads darken from chemical reactions, not extracted body metals"
+    },
+    {
+      "question_id": 4,
+      "question": "Which belief about sunscreen and vitamin D is accurate?",
+      "options": [
+        "Using sunscreen completely prevents vitamin D production always",
+        "Sunscreen reduces UV exposure but normal use rarely causes severe vitamin D deficiency",
+        "Sunscreen causes rickets immediately"
+      ],
+      "answer": "Sunscreen reduces UV exposure but normal use rarely causes severe vitamin D deficiency"
+    },
+    {
+      "question_id": 5,
+      "question": "Which statement about 'clean eating' and nutrient balance is correct?",
+      "options": [
+        "Clean eating guarantees perfect nutrient intake",
+        "Strict clean-eating can unintentionally limit important nutrients",
+        "Clean eating is defined identically by all experts"
+      ],
+      "answer": "Strict clean-eating can unintentionally limit important nutrients"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mechanistic fact explains why homeopathic dilutions often contain no active molecules?",
+      "options": [
+        "Dilutions beyond Avogadro's number typically contain no original molecules",
+        "Homeopathic remedies always concentrate active molecules",
+        "Homeopathy uses intact plant cells in each dose"
+      ],
+      "answer": "Dilutions beyond Avogadro's number typically contain no original molecules"
+    },
+    {
+      "question_id": 7,
+      "question": "Which claim about the flu vaccine causing the flu reflects evidence?",
+      "options": [
+        "Flu vaccines commonly cause full-blown influenza",
+        "Inactivated flu vaccines cannot cause influenza infection",
+        "Flu vaccines always fail to protect anyone"
+      ],
+      "answer": "Inactivated flu vaccines cannot cause influenza infection"
+    },
+    {
+      "question_id": 8,
+      "question": "Which conclusion about coconut oil and heart health is supported by nutrition science?",
+      "options": [
+        "Coconut oil is heart-healthy in unlimited amounts",
+        "Coconut oil is high in saturated fat and should be used in moderation",
+        "Coconut oil cures cholesterol problems immediately"
+      ],
+      "answer": "Coconut oil is high in saturated fat and should be used in moderation"
+    },
+    {
+      "question_id": 9,
+      "question": "Which pharmacological fact explains why megadose antioxidant trials sometimes increased mortality?",
+      "options": [
+        "High-dose single antioxidants disrupted complex antioxidant networks and sometimes worsened outcomes in trials",
+        "Antioxidants consistently reduce mortality in all large trials",
+        "Antioxidants convert into harmful heavy metals at high doses"
+      ],
+      "answer": "High-dose single antioxidants disrupted complex antioxidant networks and sometimes worsened outcomes in trials"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about detox diets is most accurate?",
+      "options": [
+        "Detox diets remove industrial chemicals from fat quickly",
+        "The liver and kidneys naturally remove most toxins",
+        "Detox diets are required after every weekend"
+      ],
+      "answer": "The liver and kidneys naturally remove most toxins"
+    },
+    {
+      "question_id": 11,
+      "question": "Which description about alkaline diets and body pH is correct?",
+      "options": [
+        "Alkaline diets permanently change blood pH in healthy people",
+        "Diet can affect urine pH but not tightly regulated blood pH in healthy individuals",
+        "Alkaline food prevents all diseases instantly"
+      ],
+      "answer": "Diet can affect urine pH but not tightly regulated blood pH in healthy individuals"
+    },
+    {
+      "question_id": 12,
+      "question": "Which research finding addresses claims that sauna use detoxifies heavy metals?",
+      "options": [
+        "Sauna sweating removes minimal metals; primary detox organs remain liver and kidneys",
+        "Saunas extract all industrial metals rapidly",
+        "Sauna use replaces chelation therapy effectively"
+      ],
+      "answer": "Sauna sweating removes minimal metals; primary detox organs remain liver and kidneys"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statement about bleach and surface cleaning is correct?",
+      "options": [
+        "Household bleach safely detoxes internally when ingested",
+        "Bleach is effective for surface disinfection but dangerous if ingested",
+        "Bleach always disinfects without precautions"
+      ],
+      "answer": "Bleach is effective for surface disinfection but dangerous if ingested"
+    },
+    {
+      "question_id": 14,
+      "question": "Which claim about standing desks and calorie burn is supported by evidence?",
+      "options": [
+        "Standing all day burns dramatically more calories than sitting",
+        "Standing slightly increases calorie expenditure but is not a major weight-loss strategy",
+        "Standing prevents all metabolic diseases instantly"
+      ],
+      "answer": "Standing slightly increases calorie expenditure but is not a major weight-loss strategy"
+    },
+    {
+      "question_id": 15,
+      "question": "Which finding about light at night and sleep hormones is supported by research?",
+      "options": [
+        "Blue light exposure at night suppresses melatonin and can disrupt circadian rhythms",
+        "All light wavelengths increase sleep hormones equally",
+        "Darkness elevates cortisol instantly"
+      ],
+      "answer": "Blue light exposure at night suppresses melatonin and can disrupt circadian rhythms"
+    }
+  ]
+}

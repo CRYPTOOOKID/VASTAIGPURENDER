@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In which country is chewing gum sales restricted to prevent litter and clean public transport?",
+      "options": [
+        "Singapore",
+        "Mexico",
+        "Spain"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 2,
+      "question": "Which nation's local law once required barbers to pay a licensing fee and prohibited certain haircuts in historic codes?",
+      "options": [
+        "Turkey",
+        "United Kingdom",
+        "Egypt"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country has a law that requires citizens to clear snow from the sidewalk in front of their property within certain hours?",
+      "options": [
+        "Canada",
+        "Finland",
+        "Poland"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "question_id": 4,
+      "question": "Which European country once banned wearing camouflage clothing to avoid military impersonation concerns?",
+      "options": [
+        "Portugal",
+        "France",
+        "Belgium"
+      ],
+      "answer": "Portugal"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country forbids the public display of other countries' flags in some tense diplomatic contexts historically?",
+      "options": [
+        "China",
+        "Germany",
+        "Argentina"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country has a law requiring pubs to serve non-alcoholic options prominently to reduce drink-driving risks?",
+      "options": [
+        "Ireland",
+        "United Kingdom",
+        "Australia"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country has regulations limiting how loudly you can close car doors at night in residential areas?",
+      "options": [
+        "Germany",
+        "Sweden",
+        "New Zealand"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country prohibits selling alcohol in some regions on certain religious or cultural holidays?",
+      "options": [
+        "India",
+        "United States",
+        "Russia"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 9,
+      "question": "Which U.S. city enforced a law forbidding the use of public mime performances due to a 19th-century vagrancy statute?",
+      "options": [
+        "Mobile, Alabama",
+        "Chicago, Illinois",
+        "Savannah, Georgia"
+      ],
+      "answer": "Mobile, Alabama"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country prohibits the use of loudspeakers for political advertising late at night in many areas?",
+      "options": [
+        "India",
+        "Switzerland",
+        "Mexico"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country had a law banning children from riding scooters on sidewalks in some cities for safety?",
+      "options": [
+        "Singapore",
+        "Canada",
+        "Spain"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 12,
+      "question": "Which European country outlaws using drones to record private property without consent under strict privacy legislation?",
+      "options": [
+        "Germany",
+        "France",
+        "Belgium"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 13,
+      "question": "In which country is it illegal to flush the toilet after 10 p.m. in some apartment house rules to preserve water and quiet?",
+      "options": [
+        "Japan",
+        "Netherlands",
+        "Finland"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country made it illegal to show certain political films during elections historically to prevent influence?",
+      "options": [
+        "India",
+        "United States",
+        "Brazil"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 15,
+      "question": "Which U.S. city had a 19th-century ordinance banning rum-running by tying liquor to horses, an example of creative enforcement?",
+      "options": [
+        "New Orleans, Louisiana",
+        "Boston, Massachusetts",
+        "Key West, Florida"
+      ],
+      "answer": "Key West, Florida"
+    }
+  ]
+}

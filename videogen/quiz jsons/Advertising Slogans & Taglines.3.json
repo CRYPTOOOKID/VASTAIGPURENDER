@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which brand uses the slogan \"Save Money. Live Better.\"?",
+      "options": [
+        "Target",
+        "Walmart",
+        "Costco"
+      ],
+      "answer": "Walmart"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand used the slogan emphasizing personal choice: \"Have It Your Way\"?",
+      "options": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King"
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 3,
+      "question": "Which agency created Avis's strategic \"We Try Harder\" repositioning?",
+      "options": [
+        "Young & Rubicam",
+        "Doyle Dane Bernbach",
+        "Leo Burnett"
+      ],
+      "answer": "Doyle Dane Bernbach"
+    },
+    {
+      "question_id": 4,
+      "question": "Which soft drink uses the tagline \"Taste the Feeling\"?",
+      "options": [
+        "Coca-Cola",
+        "Dr Pepper",
+        "Pepsi"
+      ],
+      "answer": "Coca-Cola"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pop star performed McDonald's \"I'm Lovin' It\" jingle?",
+      "options": [
+        "Justin Timberlake",
+        "Pharrell Williams",
+        "Usher"
+      ],
+      "answer": "Justin Timberlake"
+    },
+    {
+      "question_id": 6,
+      "question": "Which slogan is considered one of the longest-running brand taglines in luxury advertising?",
+      "options": [
+        "Because You're Worth It",
+        "A diamond is forever",
+        "The Ultimate Driving Machine"
+      ],
+      "answer": "A diamond is forever"
+    },
+    {
+      "question_id": 7,
+      "question": "Which mascara brand uses \"Maybe she's born with it\"?",
+      "options": [
+        "CoverGirl",
+        "Maybelline",
+        "Rimmel"
+      ],
+      "answer": "Maybelline"
+    },
+    {
+      "question_id": 8,
+      "question": "Which advertising agency created Apple’s \"Think Different\" campaign?",
+      "options": [
+        "Ogilvy",
+        "TBWA\\Chiat\\Day",
+        "Leo Burnett"
+      ],
+      "answer": "TBWA\\Chiat\\Day"
+    },
+    {
+      "question_id": 9,
+      "question": "Which agency developed Apple's iconic \"Think Different\" creative direction?",
+      "options": [
+        "BBDO",
+        "J. Walter Thompson",
+        "TBWA\\Chiat\\Day"
+      ],
+      "answer": "TBWA\\Chiat\\Day"
+    },
+    {
+      "question_id": 10,
+      "question": "Which men's grooming brand ran \"The Man Your Man Could Smell Like\" campaign?",
+      "options": [
+        "Dove Men+Care",
+        "Axe",
+        "Old Spice"
+      ],
+      "answer": "Old Spice"
+    },
+    {
+      "question_id": 11,
+      "question": "Which auto slogan means \"advancement through technology\" in English?",
+      "options": [
+        "Sicherheit durch Leistung",
+        "Vorsprung durch Technik",
+        "Fahrfreude durch Design"
+      ],
+      "answer": "Vorsprung durch Technik"
+    },
+    {
+      "question_id": 12,
+      "question": "Which copywriter at N. W. Ayer created \"A diamond is forever\"?",
+      "options": [
+        "Frances Gerety",
+        "Bill Bernbach",
+        "Rosser Reeves"
+      ],
+      "answer": "Frances Gerety"
+    },
+    {
+      "question_id": 13,
+      "question": "Which delivery company used the line \"When it absolutely, positively has to be there overnight\"?",
+      "options": [
+        "UPS",
+        "FedEx",
+        "USPS"
+      ],
+      "answer": "FedEx"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company used a celebrity-spun jingle to globalize a single-line tagline in 2003?",
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "KFC"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1959 campaign is credited with revolutionizing modern print advertising for Volkswagen?",
+      "options": [
+        "Drivers Wanted",
+        "Lemon Campaign",
+        "Think Small"
+      ],
+      "answer": "Think Small"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country's national motto is 'A Mari Usque Ad Mare' meaning 'From sea to sea'?",
+      "options": [
+        "Canada",
+        "Australia",
+        "South Africa"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote the lyrics of China's national anthem 'March of the Volunteers'?",
+      "options": [
+        "Tian Han",
+        "Lu Xun",
+        "Mao Zedong"
+      ],
+      "answer": "Tian Han"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national anthem's modern form fuses a colonial-era hymn with a liberation song, including five languages?",
+      "options": [
+        "South Africa",
+        "Zimbabwe",
+        "Ethiopia"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country's anthem is commonly known by the opening words 'Bilady, Bilady, Bilady'?",
+      "options": [
+        "Egypt",
+        "Saudi Arabia",
+        "Morocco"
+      ],
+      "answer": "Egypt"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country's anthem melody was written by Francisco Manuel da Silva in the early 19th century?",
+      "options": [
+        "Brazil",
+        "Portugal",
+        "Spain"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "question_id": 6,
+      "question": "Which national anthem's text was suppressed and its author imprisoned during a regime, only to be restored post-regime?",
+      "options": [
+        "China's 'March of the Volunteers' (Tian Han)",
+        "Germany's 'Deutschlandlied' (Hoffmann von Fallersleben)",
+        "France's 'La Marseillaise' (Rouget de Lisle)"
+      ],
+      "answer": "China's 'March of the Volunteers' (Tian Han)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country uses 'March of the Volunteers' as its national anthem?",
+      "options": [
+        "China",
+        "North Korea",
+        "Vietnam"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 8,
+      "question": "Which national anthem's English title is 'The Soldier's Song'?",
+      "options": [
+        "Ireland's 'Amhrán na bhFiann'",
+        "Scotland's 'Flower of Scotland'",
+        "Wales' 'Hen Wlad Fy Nhadau'"
+      ],
+      "answer": "Ireland's 'Amhrán na bhFiann'"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nation's anthem was famously performed at the Olympics despite being unofficial domestically for decades?",
+      "options": [
+        "England's 'God Save the King' used unofficially for some sporting events",
+        "Scotland's 'Flower of Scotland'",
+        "Wales' 'Hen Wlad Fy Nhadau'"
+      ],
+      "answer": "England's 'God Save the King' used unofficially for some sporting events"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country's national anthem is 'Jana Gana Mana'?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 11,
+      "question": "Which stanza of the 'Deutschlandlied' is used as Germany's national anthem today?",
+      "options": [
+        "Third stanza only",
+        "First stanza only",
+        "All three stanzas"
+      ],
+      "answer": "Third stanza only"
+    },
+    {
+      "question_id": 12,
+      "question": "Which national anthem's official performance practice often omits multiple original verses to keep duration under a minute?",
+      "options": [
+        "Japan's 'Kimigayo'",
+        "United States' 'The Star-Spangled Banner'",
+        "France's 'La Marseillaise'"
+      ],
+      "answer": "Japan's 'Kimigayo'"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country's national anthem is 'Hatikvah'?",
+      "options": [
+        "Israel",
+        "Jordan",
+        "Lebanon"
+      ],
+      "answer": "Israel"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's anthem includes lines in multiple indigenous languages after a 1997 revision?",
+      "options": [
+        "South Africa",
+        "New Zealand",
+        "Canada"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 15,
+      "question": "Which national motto was originally a slogan of a political movement and later enshrined as a formal national phrase?",
+      "options": [
+        "Brazil's 'Ordem e Progresso' (positivist influence)",
+        "Spain's 'Plus Ultra'",
+        "Canada's 'A Mari Usque Ad Mare'"
+      ],
+      "answer": "Brazil's 'Ordem e Progresso' (positivist influence)"
+    }
+  ]
+}

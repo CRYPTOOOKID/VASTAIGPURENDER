@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term refers to the money paid for using someone else's resources?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term measures total output per unit of input across an economy?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the term for trade pattern where countries specialize based on comparative advantage?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the term for goods used to produce other goods and services?"
+    },
+    {
+      "question_id": 5,
+      "question": "What term describes the graph showing combinations of two goods an economy can produce?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes when a single firm supplies an entire market at lower cost than many?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the economic term for a prolonged fall in economic activity?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term denotes price discrimination based on customer willingness to pay?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term denotes welfare transfers where higher-income individuals benefit less proportionally?"
+    },
+    {
+      "question_id": 10,
+      "question": "What term refers to goods imported into a country?"
+    },
+    {
+      "question_id": 11,
+      "question": "What term defines a tax that takes a larger percentage from high-income earners?"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the term for a market structure with one buyer and many sellers?"
+    },
+    {
+      "question_id": 13,
+      "question": "What term describes the responsiveness of demand to price changes?"
+    },
+    {
+      "question_id": 14,
+      "question": "What term labels the benefit to society from an individual's investment, like education?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes the time-inconsistent behavior where present bias affects decisions?"
+    }
+  ]
+}

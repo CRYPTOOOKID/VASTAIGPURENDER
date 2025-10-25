@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which statement about cracking knuckles is correct?",
+        "options": [
+          "Cracking knuckles causes arthritis",
+          "Cracking knuckles does not cause arthritis",
+          "Cracking knuckles prevents arthritis"
+        ],
+        "answer": "Cracking knuckles does not cause arthritis"
+      },
+      {
+        "question": "Which claim about drinking eight glasses of water daily is most accurate?",
+        "options": [
+          "Everyone needs exactly eight glasses daily",
+          "Hydration needs vary by person and activity",
+          "Eight glasses prevent all health problems"
+        ],
+        "answer": "Hydration needs vary by person and activity"
+      },
+      {
+        "question": "Which statement about sugar and hyperactivity in children reflects evidence?",
+        "options": [
+          "Sugar directly causes hyperactivity in most children",
+          "Sugar rarely causes measurable hyperactivity",
+          "Sugar permanently changes brain chemistry in kids"
+        ],
+        "answer": "Sugar rarely causes measurable hyperactivity"
+      },
+      {
+        "question": "Which idea about cold weather and catching colds is supported by research?",
+        "options": [
+          "Cold weather by itself causes viral infections",
+          "Viruses spread more in close indoor settings during cold weather",
+          "Cold air kills immunity immediately"
+        ],
+        "answer": "Viruses spread more in close indoor settings during cold weather"
+      },
+      {
+        "question": "Which belief about microwave ovens is correct?",
+        "options": [
+          "Microwave ovens make food radioactive",
+          "Microwave ovens heat water molecules and do not cause radiation in food",
+          "Microwave ovens remove all nutrients from food"
+        ],
+        "answer": "Microwave ovens heat water molecules and do not cause radiation in food"
+      },
+      {
+        "question": "Which statement about detox diets is most accurate?",
+        "options": [
+          "Detox diets remove industrial chemicals from fat quickly",
+          "The liver and kidneys naturally remove most toxins",
+          "Detox diets are required after every weekend"
+        ],
+        "answer": "The liver and kidneys naturally remove most toxins"
+      },
+      {
+        "question": "Which statement reflects the truth about vaccines and autism?",
+        "options": [
+          "Vaccines cause autism",
+          "Extensive research shows no causal link between vaccines and autism",
+          "Only certain vaccines cause autism"
+        ],
+        "answer": "Extensive research shows no causal link between vaccines and autism"
+      },
+      {
+        "question": "Which claim about eating fat is supported by modern nutrition science?",
+        "options": [
+          "All dietary fat directly causes obesity",
+          "Healthy fats are essential and can support weight management",
+          "Fat-free foods are always healthiest"
+        ],
+        "answer": "Healthy fats are essential and can support weight management"
+      },
+      {
+        "question": "Which is accurate about antiperspirant and breast cancer?",
+        "options": [
+          "Antiperspirant use causes breast cancer",
+          "No convincing evidence links normal antiperspirant use to breast cancer",
+          "All deodorants always cause cancer"
+        ],
+        "answer": "No convincing evidence links normal antiperspirant use to breast cancer"
+      },
+      {
+        "question": "Which statement about sitting and exercise is true?",
+        "options": [
+          "Short daily exercise completely cancels long sitting periods",
+          "Both regular exercise and reducing sitting improve health",
+          "Sitting has no effect on health if you exercise"
+        ],
+        "answer": "Both regular exercise and reducing sitting improve health"
+      },
+      {
+        "question": "Which claim about gluten-free diets is accurate?",
+        "options": [
+          "Everyone benefits from a gluten-free diet",
+          "Only people with celiac disease or sensitivity need gluten-free diets",
+          "Gluten-free diets cure all digestive issues"
+        ],
+        "answer": "Only people with celiac disease or sensitivity need gluten-free diets"
+      },
+      {
+        "question": "Which statement about organic produce is correct?",
+        "options": [
+          "Organic produce contains no pesticides at all",
+          "Organic produce can have residues but typically fewer synthetic pesticides",
+          "Organic means nutritionally identical in every case"
+        ],
+        "answer": "Organic produce can have residues but typically fewer synthetic pesticides"
+      },
+      {
+        "question": "Which belief about eggs and cholesterol reflects current evidence?",
+        "options": [
+          "Eating eggs always raises harmful cholesterol significantly",
+          "For most people, moderate egg consumption has minimal impact on heart risk",
+          "All eggs are unhealthy and should be avoided"
+        ],
+        "answer": "For most people, moderate egg consumption has minimal impact on heart risk"
+      },
+      {
+        "question": "Which claim about taking vitamin C to prevent colds is most accurate?",
+        "options": [
+          "Vitamin C prevents all colds when taken daily",
+          "Regular vitamin C might slightly reduce cold duration but does not fully prevent colds",
+          "Vitamin C cures viral infections instantly"
+        ],
+        "answer": "Regular vitamin C might slightly reduce cold duration but does not fully prevent colds"
+      },
+      {
+        "question": "Which statement about sitting on cold concrete causing illness is true?",
+        "options": [
+          "Sitting on cold concrete directly causes infections",
+          "Exposure to cold does not directly create viral infections without exposure to pathogens",
+          "Cold stone instantly weakens the immune system"
+        ],
+        "answer": "Exposure to cold does not directly create viral infections without exposure to pathogens"
+      },
+      {
+        "question": "Which description fits the myth about superfoods?",
+        "options": [
+          "One food can provide all needed nutrients",
+          "Some foods are nutrient-rich, but no single superfood prevents disease alone",
+          "Superfoods always reverse chronic illness"
+        ],
+        "answer": "Some foods are nutrient-rich, but no single superfood prevents disease alone"
+      },
+      {
+        "question": "Which statement about spot reduction of fat through exercise is accurate?",
+        "options": [
+          "Doing many sit-ups removes belly fat specifically",
+          "Fat loss occurs across the body; spot reduction is ineffective",
+          "Targeted exercises destroy fat cells in that area only"
+        ],
+        "answer": "Fat loss occurs across the body; spot reduction is ineffective"
+      },
+      {
+        "question": "Which claim about barefoot running preventing injuries is most accurate?",
+        "options": [
+          "Barefoot running prevents all injuries for everyone",
+          "Some runners benefit from barefoot techniques, but injury risk varies",
+          "Barefoot running guarantees faster times"
+        ],
+        "answer": "Some runners benefit from barefoot techniques, but injury risk varies"
+      },
+      {
+        "question": "Which idea about night-time eating and weight gain is supported by evidence?",
+        "options": [
+          "Eating late always causes weight gain regardless of calories",
+          "Total calories and activity matter more than meal timing for most people",
+          "Night meals make the body store only fat"
+        ],
+        "answer": "Total calories and activity matter more than meal timing for most people"
+      },
+      {
+        "question": "Which statement about bleach and surface cleaning is correct?",
+        "options": [
+          "Household bleach safely detoxes internally when ingested",
+          "Bleach is effective for surface disinfection but dangerous if ingested",
+          "Bleach always disinfects without precautions"
+        ],
+        "answer": "Bleach is effective for surface disinfection but dangerous if ingested"
+      },
+      {
+        "question": "Which belief about antibiotics treating colds is accurate?",
+        "options": [
+          "Antibiotics cure all colds and flu",
+          "Antibiotics treat bacterial infections, not typical viral colds",
+          "Antibiotics boost immunity instantly"
+        ],
+        "answer": "Antibiotics treat bacterial infections, not typical viral colds"
+      },
+      {
+        "question": "Which claim about sweating eliminating toxins is most accurate?",
+        "options": [
+          "Sweating removes significant industrial toxins from the body",
+          "Sweat removes small amounts of some substances but organs handle most toxins",
+          "Sweating cures chronic poisoning quickly"
+        ],
+        "answer": "Sweat removes small amounts of some substances but organs handle most toxins"
+      },
+      {
+        "question": "Which statement about natural supplements equaling safety is true?",
+        "options": [
+          "All natural supplements are safe at any dose",
+          "Natural supplements can have side effects and interact with medications",
+          "Natural means pharmaceutical-grade always"
+        ],
+        "answer": "Natural supplements can have side effects and interact with medications"
+      },
+      {
+        "question": "Which idea about sleep needs is supported by research?",
+        "options": [
+          "Everyone needs exactly eight hours of sleep nightly",
+          "Individual sleep needs vary between about 6 and 9 hours for adults",
+          "Less than five hours is healthy for most adults"
+        ],
+        "answer": "Individual sleep needs vary between about 6 and 9 hours for adults"
+      },
+      {
+        "question": "Which claim about stretching before exercise is most accurate?",
+        "options": [
+          "Static stretching always prevents injury before every workout",
+          "Dynamic warm-ups better prepare muscles; static stretching has specific uses",
+          "Stretching eliminates muscle soreness for days"
+        ],
+        "answer": "Dynamic warm-ups better prepare muscles; static stretching has specific uses"
+      },
+      {
+        "question": "Which statement about green juices detoxifying the body is correct?",
+        "options": [
+          "Green juices remove all bodily toxins overnight",
+          "Juices provide nutrients but organs remove toxins naturally",
+          "Green juice replaces all meals safely forever"
+        ],
+        "answer": "Juices provide nutrients but organs remove toxins naturally"
+      },
+      {
+        "question": "Which belief about sunscreen and vitamin D is accurate?",
+        "options": [
+          "Using sunscreen completely prevents vitamin D production always",
+          "Sunscreen reduces UV exposure but normal use rarely causes severe vitamin D deficiency",
+          "Sunscreen causes rickets immediately"
+        ],
+        "answer": "Sunscreen reduces UV exposure but normal use rarely causes severe vitamin D deficiency"
+      },
+      {
+        "question": "Which statement about cold showers burning fat is supported by science?",
+        "options": [
+          "Cold showers dramatically increase fat loss for everyone",
+          "Cold exposure can slightly increase calorie burn but is not a primary weight-loss method",
+          "Cold showers stop fat storage completely"
+        ],
+        "answer": "Cold exposure can slightly increase calorie burn but is not a primary weight-loss method"
+      },
+      {
+        "question": "Which claim about the flu vaccine causing the flu reflects evidence?",
+        "options": [
+          "Flu vaccines commonly cause full-blown influenza",
+          "Inactivated flu vaccines cannot cause influenza infection",
+          "Flu vaccines always fail to protect anyone"
+        ],
+        "answer": "Inactivated flu vaccines cannot cause influenza infection"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which origin explains the carrot-night vision myth from World War II?",
+        "options": [
+          "British propaganda credited carrots to hide radar technology",
+          "German pilots invented the carrot myth intentionally",
+          "Carrots were scientifically proven to grant night vision instantly"
+        ],
+        "answer": "British propaganda credited carrots to hide radar technology"
+      },
+      {
+        "question": "Which description matches Linus Pauling's vitamin C claim?",
+        "options": [
+          "He promoted megadoses of vitamin C to prevent colds in the 1970s",
+          "He discovered vitamin C cures broken bones",
+          "He opposed all vitamin supplementation publicly"
+        ],
+        "answer": "He promoted megadoses of vitamin C to prevent colds in the 1970s"
+      },
+      {
+        "question": "Which finding about MSG and headaches reflects research consensus?",
+        "options": [
+          "Most people have no reproducible adverse reaction to typical MSG amounts",
+          "MSG universally causes severe headaches in everyone",
+          "MSG is banned due to its toxicity"
+        ],
+        "answer": "Most people have no reproducible adverse reaction to typical MSG amounts"
+      },
+      {
+        "question": "Which statement about 'fat-free' labels and calorie content is accurate?",
+        "options": [
+          "Fat-free always means low-calorie",
+          "Fat-free products can still be high in sugars and calories",
+          "Fat-free implies healthier ingredients always"
+        ],
+        "answer": "Fat-free products can still be high in sugars and calories"
+      },
+      {
+        "question": "Which claim about gargling salt water preventing colds matches evidence?",
+        "options": [
+          "Gargling salt water prevents viruses from causing colds",
+          "Gargling may soothe throat symptoms but does not prevent viral infection",
+          "Gargling sterilizes the entire respiratory tract"
+        ],
+        "answer": "Gargling may soothe throat symptoms but does not prevent viral infection"
+      },
+      {
+        "question": "Which conclusion about ear candling aligns with safety advisories?",
+        "options": [
+          "Ear candling effectively removes earwax safely",
+          "Regulators warn ear candling risks burns and ear damage",
+          "Ear candling is medically recommended for ear infections"
+        ],
+        "answer": "Regulators warn ear candling risks burns and ear damage"
+      },
+      {
+        "question": "Which historical fact explains the grapefruit diet's popularity?",
+        "options": [
+          "A 1930s fad credited grapefruit with metabolism-boosting enzymes",
+          "Grapefruit naturally contains a unique weight-loss hormone",
+          "Grapefruit only became popular after the 2000s"
+        ],
+        "answer": "A 1930s fad credited grapefruit with metabolism-boosting enzymes"
+      },
+      {
+        "question": "Which statement about 'clean eating' and nutrient balance is correct?",
+        "options": [
+          "Clean eating guarantees perfect nutrient intake",
+          "Strict clean-eating can unintentionally limit important nutrients",
+          "Clean eating is defined identically by all experts"
+        ],
+        "answer": "Strict clean-eating can unintentionally limit important nutrients"
+      },
+      {
+        "question": "Which evidence-based claim about low-fat diets and heart health is accurate?",
+        "options": [
+          "All low-fat diets reduce heart disease risk regardless of food type",
+          "Replacing saturated fats with refined carbs may not improve heart health",
+          "Low-fat packaged foods always lower heart disease risk"
+        ],
+        "answer": "Replacing saturated fats with refined carbs may not improve heart health"
+      },
+      {
+        "question": "Which myth about cold viruses and humidity reflects studies?",
+        "options": [
+          "Low humidity environments can increase viral survival and transmission",
+          "High humidity makes viruses harmless instantly",
+          "Humidity has no effect on viral spread"
+        ],
+        "answer": "Low humidity environments can increase viral survival and transmission"
+      },
+      {
+        "question": "Which claim about soy and hormone disruption reflects evidence?",
+        "options": [
+          "Normal dietary soy causes major hormonal disruption in adults",
+          "Moderate soy consumption does not generally disrupt hormones in most adults",
+          "All soy products are endocrine disruptors"
+        ],
+        "answer": "Moderate soy consumption does not generally disrupt hormones in most adults"
+      },
+      {
+        "question": "Which statement about charcoal detox pills reflects regulatory guidance?",
+        "options": [
+          "Activated charcoal supplements safely remove all internal toxins daily",
+          "Activated charcoal can interfere with medications and lacks broad detox evidence",
+          "Charcoal adds essential nutrients to the body"
+        ],
+        "answer": "Activated charcoal can interfere with medications and lacks broad detox evidence"
+      },
+      {
+        "question": "Which claim about consuming carrots and beta-carotene is accurate?",
+        "options": [
+          "Excessive beta-carotene causes orange skin but not the same effects as vitamin A toxicity",
+          "Beta-carotene poisoning causes immediate blindness",
+          "Carrots contain dangerous levels of animal vitamin A"
+        ],
+        "answer": "Excessive beta-carotene causes orange skin but not the same effects as vitamin A toxicity"
+      },
+      {
+        "question": "Which statement about herbal supplements and standardization is true?",
+        "options": [
+          "All herbal supplements have consistent active ingredient levels",
+          "Herbal supplement potency varies without strict regulation in many regions",
+          "Herbal supplements are identical to prescription drugs"
+        ],
+        "answer": "Herbal supplement potency varies without strict regulation in many regions"
+      },
+      {
+        "question": "Which myth about cell phone radiation and cancer aligns with major agency findings?",
+        "options": [
+          "Cell phone use has been conclusively shown to cause cancer",
+          "Research has not established a consistent causal link between typical phone use and cancer",
+          "Phones instantly mutate DNA on contact"
+        ],
+        "answer": "Research has not established a consistent causal link between typical phone use and cancer"
+      },
+      {
+        "question": "Which explanation fits the placebo effect in alternative therapies?",
+        "options": [
+          "Placebo effects produce no real symptom changes",
+          "Placebo responses can cause real perceived and measurable symptom improvements",
+          "Placebo works by altering DNA permanently"
+        ],
+        "answer": "Placebo responses can cause real perceived and measurable symptom improvements"
+      },
+      {
+        "question": "Which conclusion about coconut oil and heart health is supported by nutrition science?",
+        "options": [
+          "Coconut oil is heart-healthy in unlimited amounts",
+          "Coconut oil is high in saturated fat and should be used in moderation",
+          "Coconut oil cures cholesterol problems immediately"
+        ],
+        "answer": "Coconut oil is high in saturated fat and should be used in moderation"
+      },
+      {
+        "question": "Which claim about HPV vaccine and sexual behavior aligns with research?",
+        "options": [
+          "HPV vaccination increases risky sexual behavior significantly",
+          "Evidence does not show increased risky sexual behavior after HPV vaccination",
+          "HPV vaccine eliminates the need for screening forever"
+        ],
+        "answer": "Evidence does not show increased risky sexual behavior after HPV vaccination"
+      },
+      {
+        "question": "Which statement about eye exercises improving vision is accurate?",
+        "options": [
+          "Eye exercises permanently correct refractive errors like myopia",
+          "Eye exercises may relieve strain but not reverse structural refractive errors",
+          "Eye exercises cure cataracts"
+        ],
+        "answer": "Eye exercises may relieve strain but not reverse structural refractive errors"
+      },
+      {
+        "question": "Which description about alkaline diets and body pH is correct?",
+        "options": [
+          "Alkaline diets permanently change blood pH in healthy people",
+          "Diet can affect urine pH but not tightly regulated blood pH in healthy individuals",
+          "Alkaline food prevents all diseases instantly"
+        ],
+        "answer": "Diet can affect urine pH but not tightly regulated blood pH in healthy individuals"
+      },
+      {
+        "question": "Which finding about energy drinks and endurance aligns with studies?",
+        "options": [
+          "Energy drinks always improve endurance without side effects",
+          "Caffeine in energy drinks can temporarily boost performance but carries risks if overused",
+          "Energy drinks reverse dehydration automatically"
+        ],
+        "answer": "Caffeine in energy drinks can temporarily boost performance but carries risks if overused"
+      },
+      {
+        "question": "Which statement about 'natural' labeling on products aligns with regulations?",
+        "options": [
+          "Natural labeling has one universal legal definition worldwide",
+          "Natural labeling rules vary and may not guarantee safety or purity",
+          "Natural automatically equals organic certification"
+        ],
+        "answer": "Natural labeling rules vary and may not guarantee safety or purity"
+      },
+      {
+        "question": "Which claim about fluoride and IQ is supported by major health authorities?",
+        "options": [
+          "Community water fluoridation at recommended levels causes major IQ loss",
+          "Major health agencies find recommended fluoridation safe; high exposures may have risks",
+          "Fluoride instantly corrupts brain cells at low doses"
+        ],
+        "answer": "Major health agencies find recommended fluoridation safe; high exposures may have risks"
+      },
+      {
+        "question": "Which statement about bone broth and joint healing reflects evidence?",
+        "options": [
+          "Bone broth instantly regrows cartilage in joints",
+          "Bone broth provides nutrients but lacks strong evidence to regenerate cartilage alone",
+          "Bone broth is medicinally sterile always"
+        ],
+        "answer": "Bone broth provides nutrients but lacks strong evidence to regenerate cartilage alone"
+      },
+      {
+        "question": "Which explanation about intermittent fasting and weight loss is accurate?",
+        "options": [
+          "Intermittent fasting always outperforms calorie control for everyone",
+          "Intermittent fasting can aid weight loss but works primarily through calorie reduction",
+          "Fasting guarantees muscle gain without training"
+        ],
+        "answer": "Intermittent fasting can aid weight loss but works primarily through calorie reduction"
+      },
+      {
+        "question": "Which statement about fruit juice and fiber reflects nutrition facts?",
+        "options": [
+          "Fruit juice has more fiber than whole fruit",
+          "Whole fruit retains more fiber while juice often removes fiber and concentrates sugar",
+          "Fruit juice is nutritionally identical to whole fruit"
+        ],
+        "answer": "Whole fruit retains more fiber while juice often removes fiber and concentrates sugar"
+      },
+      {
+        "question": "Which claim about standing desks and calorie burn is supported by evidence?",
+        "options": [
+          "Standing all day burns dramatically more calories than sitting",
+          "Standing slightly increases calorie expenditure but is not a major weight-loss strategy",
+          "Standing prevents all metabolic diseases instantly"
+        ],
+        "answer": "Standing slightly increases calorie expenditure but is not a major weight-loss strategy"
+      },
+      {
+        "question": "Which finding about probiotic supplements and digestive health is accurate?",
+        "options": [
+          "All probiotics cure every digestive disorder",
+          "Certain probiotic strains can help specific conditions, but results vary by strain and person",
+          "Probiotics permanently colonize everyone identically"
+        ],
+        "answer": "Certain probiotic strains can help specific conditions, but results vary by strain and person"
+      },
+      {
+        "question": "Which statement about simulated 'natural' childbirth benefits reflects evidence?",
+        "options": [
+          "All home births are safer than hospital births in every situation",
+          "Planned home births can be safe for low-risk pregnancies with proper backup plans",
+          "Hospital births always cause harm to mothers"
+        ],
+        "answer": "Planned home births can be safe for low-risk pregnancies with proper backup plans"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which regulatory action addressed ear candling safety in the United States around 2007?",
+        "options": [
+          "FDA issued warnings against ear candling due to burn and injury risks",
+          "CDC recommended ear candling for earwax removal nationally",
+          "EPA approved ear candling as a medical device"
+        ],
+        "answer": "FDA issued warnings against ear candling due to burn and injury risks"
+      },
+      {
+        "question": "Which historical detail explains how the 8x8 water rule likely originated?",
+        "options": [
+          "It derived from a 1945 USDA food guide suggesting total water intake from foods and drinks",
+          "It came from a 12th-century medical text",
+          "It was mandated by the World Health Organization in 1980"
+        ],
+        "answer": "It derived from a 1945 USDA food guide suggesting total water intake from foods and drinks"
+      },
+      {
+        "question": "Which statistical result summarizes large reviews on vitamin C preventing colds?",
+        "options": [
+          "Regular vitamin C reduces cold duration modestly, with inconsistent prevention benefits",
+          "Vitamin C eliminates all colds in clinical trials",
+          "Vitamin C increases cold incidence significantly"
+        ],
+        "answer": "Regular vitamin C reduces cold duration modestly, with inconsistent prevention benefits"
+      },
+      {
+        "question": "Which mechanistic fact explains why homeopathic dilutions often contain no active molecules?",
+        "options": [
+          "Dilutions beyond Avogadro's number typically contain no original molecules",
+          "Homeopathic remedies always concentrate active molecules",
+          "Homeopathy uses intact plant cells in each dose"
+        ],
+        "answer": "Dilutions beyond Avogadro's number typically contain no original molecules"
+      },
+      {
+        "question": "Which regulatory fact reflects claims about colloidal silver promoted historically?",
+        "options": [
+          "Colloidal silver was once marketed as a cure but can cause argyria and lacks proven benefits",
+          "Colloidal silver is FDA-approved to treat infections",
+          "Colloidal silver is a mandatory hospital antiseptic"
+        ],
+        "answer": "Colloidal silver was once marketed as a cure but can cause argyria and lacks proven benefits"
+      },
+      {
+        "question": "Which epidemiological observation challenges the 'sugar causes diabetes' simplification?",
+        "options": [
+          "Type 2 diabetes risk links to overall calories, obesity, and genetics, not sugar alone",
+          "Sugar intake has zero correlation with metabolic health",
+          "Only sugar directly causes all diabetes cases"
+        ],
+        "answer": "Type 2 diabetes risk links to overall calories, obesity, and genetics, not sugar alone"
+      },
+      {
+        "question": "Which documented effect links high-dose vitamin A supplements to risks in certain populations?",
+        "options": [
+          "Excess vitamin A in pregnancy increases birth defect risks",
+          "High vitamin A has no known risks",
+          "Vitamin A prevents all congenital anomalies"
+        ],
+        "answer": "Excess vitamin A in pregnancy increases birth defect risks"
+      },
+      {
+        "question": "Which study type best challenges detox diet claims about toxin removal?",
+        "options": [
+          "Controlled biochemical studies show no sustained increase in toxin elimination from short detox diets",
+          "Anecdotal testimonials validate rapid toxin clearance",
+          "Detox claims are proven by randomized long-term mortality reductions"
+        ],
+        "answer": "Controlled biochemical studies show no sustained increase in toxin elimination from short detox diets"
+      },
+      {
+        "question": "Which nuanced claim about saturated fat and heart disease aligns with recent meta-analyses?",
+        "options": [
+          "Replacing saturated fat with polyunsaturated fat lowers heart disease risk; replacing it with refined carbs may not",
+          "All saturated fat is harmless in every diet",
+          "Saturated fat always reduces heart disease risk"
+        ],
+        "answer": "Replacing saturated fat with polyunsaturated fat lowers heart disease risk; replacing it with refined carbs may not"
+      },
+      {
+        "question": "Which historical fact explains the placebo-controlled trial surge in the 20th century?",
+        "options": [
+          "The randomized, placebo-controlled trial design gained prominence post-World War II to evaluate therapies rigorously",
+          "Placebo trials were common in ancient medical schools",
+          "Placebo controls became legal requirements in the 1700s"
+        ],
+        "answer": "The randomized, placebo-controlled trial design gained prominence post-World War II to evaluate therapies rigorously"
+      },
+      {
+        "question": "Which documented interaction raises concern about grapefruit and prescription drugs?",
+        "options": [
+          "Compounds in grapefruit can inhibit CYP3A4, altering metabolism of many drugs",
+          "Grapefruit enhances all drug efficacy indiscriminately",
+          "Grapefruit has no effect on drug metabolism"
+        ],
+        "answer": "Compounds in grapefruit can inhibit CYP3A4, altering metabolism of many drugs"
+      },
+      {
+        "question": "Which finding about light at night and sleep hormones is supported by research?",
+        "options": [
+          "Blue light exposure at night suppresses melatonin and can disrupt circadian rhythms",
+          "All light wavelengths increase sleep hormones equally",
+          "Darkness elevates cortisol instantly"
+        ],
+        "answer": "Blue light exposure at night suppresses melatonin and can disrupt circadian rhythms"
+      },
+      {
+        "question": "Which risk is associated with excessive vitamin D supplementation documented in literature?",
+        "options": [
+          "Very high vitamin D intake can cause hypercalcemia and related complications",
+          "High vitamin D always cures bone disease with no downside",
+          "Vitamin D has no toxicity at any dose"
+        ],
+        "answer": "Very high vitamin D intake can cause hypercalcemia and related complications"
+      },
+      {
+        "question": "Which historical example shows a high-profile health myth spread by celebrity endorsement?",
+        "options": [
+          "A celebrity promoted laetrile as a cancer cure despite lack of evidence",
+          "Celebrities never influence public health beliefs",
+          "All celebrity-endorsed remedies were later proven effective"
+        ],
+        "answer": "A celebrity promoted laetrile as a cancer cure despite lack of evidence"
+      },
+      {
+        "question": "Which experimental result undermines claims that alkaline water significantly changes blood pH?",
+        "options": [
+          "Human blood pH remains tightly regulated despite alkaline water consumption",
+          "Alkaline water permanently alkalizes blood in healthy adults",
+          "Alkaline water neutralizes stomach acid entirely"
+        ],
+        "answer": "Human blood pH remains tightly regulated despite alkaline water consumption"
+      },
+      {
+        "question": "Which documented consequence relates to unregulated weight-loss supplements?",
+        "options": [
+          "Unregulated supplements have caused liver injuries and product recalls in multiple cases",
+          "All weight-loss supplements are harmless and effective",
+          "Regulators approve every supplement automatically"
+        ],
+        "answer": "Unregulated supplements have caused liver injuries and product recalls in multiple cases"
+      },
+      {
+        "question": "Which mechanistic insight explains why antioxidant supplements sometimes harm instead of help?",
+        "options": [
+          "High-dose antioxidants can disrupt redox signaling and blunt adaptive responses to stress",
+          "Antioxidants always improve cellular resilience without exception",
+          "Antioxidants convert into vitamins in the body"
+        ],
+        "answer": "High-dose antioxidants can disrupt redox signaling and blunt adaptive responses to stress"
+      },
+      {
+        "question": "Which statistical observation comes from meta-analyses of homeopathy trials?",
+        "options": [
+          "Many rigorous trials show effects consistent with placebo rather than specific efficacy",
+          "Meta-analyses prove homeopathy cures infectious diseases reliably",
+          "Homeopathy outperforms antibiotics in randomized trials"
+        ],
+        "answer": "Many rigorous trials show effects consistent with placebo rather than specific efficacy"
+      },
+      {
+        "question": "Which documented public-health outcome followed anti-vaccine misinformation outbreaks?",
+        "options": [
+          "Measles and pertussis outbreaks increased in areas with declining vaccination rates",
+          "Anti-vaccine messages had no impact on disease incidence",
+          "Vaccine refusal eliminated infectious disease risk"
+        ],
+        "answer": "Measles and pertussis outbreaks increased in areas with declining vaccination rates"
+      },
+      {
+        "question": "Which nutritional nuance explains why whole grains reduce chronic disease risk?",
+        "options": [
+          "Whole grains provide fiber, micronutrients, and lower glycemic impact versus refined grains",
+          "Whole grains are identical to refined grains in effect",
+          "Whole grains directly cure genetic diseases"
+        ],
+        "answer": "Whole grains provide fiber, micronutrients, and lower glycemic impact versus refined grains"
+      },
+      {
+        "question": "Which lab finding questions claims that detox foot pads remove heavy metals?",
+        "options": [
+          "Independent tests show pads darken from chemical reactions, not extracted body metals",
+          "Pads reliably extract grams of heavy metals from the body",
+          "Pads sterilize the bloodstream directly"
+        ],
+        "answer": "Independent tests show pads darken from chemical reactions, not extracted body metals"
+      },
+      {
+        "question": "Which epidemiological result links processed meat to cancer risk classifications?",
+        "options": [
+          "IARC classified processed meat as a carcinogen associated with colorectal cancer risk",
+          "Processed meat was cleared as cancer-preventive",
+          "No agency has evaluated processed meat and cancer risk"
+        ],
+        "answer": "IARC classified processed meat as a carcinogen associated with colorectal cancer risk"
+      },
+      {
+        "question": "Which specific mechanism explains how tobacco smoke impacts cardiovascular risk?",
+        "options": [
+          "Tobacco smoke promotes inflammation, endothelial dysfunction, and atherosclerosis",
+          "Tobacco smoke only affects lungs and not the cardiovascular system",
+          "Smoking strengthens arterial walls"
+        ],
+        "answer": "Tobacco smoke promotes inflammation, endothelial dysfunction, and atherosclerosis"
+      },
+      {
+        "question": "Which documented policy reduced false health claims in advertising historically?",
+        "options": [
+          "Stricter advertising regulations and enforcement reduced misleading supplement claims in several jurisdictions",
+          "No regulation ever affected advertising practices",
+          "Regulators encouraged false health claims for economic growth"
+        ],
+        "answer": "Stricter advertising regulations and enforcement reduced misleading supplement claims in several jurisdictions"
+      },
+      {
+        "question": "Which biochemical fact explains why cholesterol in eggs has limited impact for most people?",
+        "options": [
+          "Dietary cholesterol has a smaller effect on blood cholesterol than saturated fat in many individuals",
+          "Dietary cholesterol is the sole determinant of blood cholesterol",
+          "Cholesterol from eggs evaporates during cooking"
+        ],
+        "answer": "Dietary cholesterol has a smaller effect on blood cholesterol than saturated fat in many individuals"
+      },
+      {
+        "question": "Which research finding addresses claims that sauna use detoxifies heavy metals?",
+        "options": [
+          "Sauna sweating removes minimal metals; primary detox organs remain liver and kidneys",
+          "Saunas extract all industrial metals rapidly",
+          "Sauna use replaces chelation therapy effectively"
+        ],
+        "answer": "Sauna sweating removes minimal metals; primary detox organs remain liver and kidneys"
+      },
+      {
+        "question": "Which historical study influenced the myth that low-fat diets always prevent obesity?",
+        "options": [
+          "Early population studies linked fat intake and heart disease, but later research showed complexity with carbs and sugars",
+          "A single 1800s study proved low-fat cures obesity",
+          "Low-fat diet claims originated from astronomy research"
+        ],
+        "answer": "Early population studies linked fat intake and heart disease, but later research showed complexity with carbs and sugars"
+      },
+      {
+        "question": "Which documented adverse event illustrates risks of extreme detox regimens?",
+        "options": [
+          "Severe electrolyte imbalance and acute kidney injury have occurred after extreme juice cleanses",
+          "Detox regimens never cause medical complications",
+          "Juice cleanses are hospital-grade therapies"
+        ],
+        "answer": "Severe electrolyte imbalance and acute kidney injury have occurred after extreme juice cleanses"
+      },
+      {
+        "question": "Which specific receptor interaction explains grapefruit–drug interactions affecting statins?",
+        "options": [
+          "Grapefruit inhibits intestinal CYP3A4, raising levels of some statins and increasing side-effect risk",
+          "Grapefruit neutralizes statins entirely by binding them chemically",
+          "Grapefruit enhances liver clearance of all medications"
+        ],
+        "answer": "Grapefruit inhibits intestinal CYP3A4, raising levels of some statins and increasing side-effect risk"
+      },
+      {
+        "question": "Which nuanced conclusion comes from studies on mindfulness and placebo-like effects?",
+        "options": [
+          "Mindfulness-based interventions improve symptoms partly via attention, expectation, and neuroplastic changes",
+          "Mindfulness has no measurable effects on the brain",
+          "Mindfulness instantly cures all psychiatric disorders"
+        ],
+        "answer": "Mindfulness-based interventions improve symptoms partly via attention, expectation, and neuroplastic changes"
+      },
+      {
+        "question": "Which clinical observation challenges claims that raw milk is safer than pasteurized milk?",
+        "options": [
+          "Raw milk poses higher risks of bacterial infections whereas pasteurization reduces those microbial risks",
+          "Raw milk cannot transmit pathogens",
+          "Pasteurization removes all nutritional value from milk"
+        ],
+        "answer": "Raw milk poses higher risks of bacterial infections whereas pasteurization reduces those microbial risks"
+      },
+      {
+        "question": "Which pharmacological fact explains why megadose antioxidant trials sometimes increased mortality?",
+        "options": [
+          "High-dose single antioxidants disrupted complex antioxidant networks and sometimes worsened outcomes in trials",
+          "Antioxidants consistently reduce mortality in all large trials",
+          "Antioxidants convert into harmful heavy metals at high doses"
+        ],
+        "answer": "High-dose single antioxidants disrupted complex antioxidant networks and sometimes worsened outcomes in trials"
+      }
+    ]
+  }
+}

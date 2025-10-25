@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which playwright reportedly said \"I should never have switched from scotch to martinis\" as last words?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who reportedly said \"I'm bored with it all\" in their final moments expressing weariness?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is credited with telling a confidant \"I told you I was ill\" moments before death?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which explorer’s purported last words were \"I only regret that I have but one life to lose for my country\"? (Famous variation)"
+    },
+    {
+      "question_id": 5,
+      "question": "Who reportedly said \"Don't cry for me\" as last words inspiring later cultural references?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Soviet leader is recorded as saying \"I am not ready to be a saint\" in his final hours?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which US founding father said \"It is well, I die hard, but I am not afraid to go\" on his deathbed?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which famous actor said \"I'm losing it\" just before death from a heart attack on stage?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is quoted as saying \"It hurts to breathe\" in the final seconds of their life in a famous assassination?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is known to have said \"I am ready to meet my Maker\" on their deathbed?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which famous composer reportedly said \"Hear my music, my love\" as final words to a companion?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which English poet allegedly said \"Now comes the mystery\" on his deathbed?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which inventor is reported to have said \"I will not be there to see the end\" near death?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which American civil rights leader is reported to have said \"I've been to the mountaintop\" just before dying?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who is said to have described death as \"the great equaliser\" in their final utterance?"
+    }
+  ]
+}

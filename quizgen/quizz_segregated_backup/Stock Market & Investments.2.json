@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a stock in simple financial terms?",
+      "options": [
+        "A share of ownership in a company",
+        "A loan issued by a government",
+        "An insurance policy for investors"
+      ],
+      "answer": "A share of ownership in a company"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a market order's primary risk during volatile markets?",
+      "options": [
+        "Execution at an unexpected price",
+        "Refusal of trade by the regulation",
+        "Conversion to a limit order automatically"
+      ],
+      "answer": "Execution at an unexpected price"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical property underlies the Black-Scholes assumption about return distributions?",
+      "options": [
+        "Log-normal distribution of prices",
+        "Uniform distribution of returns",
+        "Bimodal distribution of prices"
+      ],
+      "answer": "Log-normal distribution of prices"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a stock exchange?",
+      "options": [
+        "A market where securities are bought and sold",
+        "A government agency that insures deposits",
+        "A private club for company executives"
+      ],
+      "answer": "A market where securities are bought and sold"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'beta' commonly used to measure in investing?",
+      "options": [
+        "A stock's volatility relative to the market",
+        "A company's dividend payout ratio",
+        "Investor sentiment about a sector"
+      ],
+      "answer": "A stock's volatility relative to the market"
+    },
+    {
+      "question_id": 6,
+      "question": "Which legal measure replaced the original uptick rule with an alternative in 2010?",
+      "options": [
+        "SEC Rule 201 (alternative uptick rule)",
+        "Regulation SHO full reinstatement",
+        "Dodd-Frank short sale ban"
+      ],
+      "answer": "SEC Rule 201 (alternative uptick rule)"
+    },
+    {
+      "question_id": 7,
+      "question": "What does IPO stand for in investing?",
+      "options": [
+        "Initial Public Offering",
+        "Internal Price Option",
+        "Investment Portfolio Order"
+      ],
+      "answer": "Initial Public Offering"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company introduced the first widely known mutual fund in the modern era in 1924?",
+      "options": [
+        "Massachusetts Investors Trust",
+        "Vanguard Group",
+        "BlackRock"
+      ],
+      "answer": "Massachusetts Investors Trust"
+    },
+    {
+      "question_id": 9,
+      "question": "What does implied volatility derive from in option markets?",
+      "options": [
+        "Market option prices through an option model",
+        "A company's historical stock returns only",
+        "The dividend yield reported by companies"
+      ],
+      "answer": "Market option prices through an option model"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a market index like the S&P 500?",
+      "options": [
+        "A benchmark measuring performance of a group of stocks",
+        "A regulatory framework for broker behavior",
+        "A type of short-term corporate loan"
+      ],
+      "answer": "A benchmark measuring performance of a group of stocks"
+    },
+    {
+      "question_id": 11,
+      "question": "Which index did Standard & Poor's officially introduce in 1957?",
+      "options": [
+        "S&P 500",
+        "NASDAQ Composite",
+        "FTSE 100"
+      ],
+      "answer": "S&P 500"
+    },
+    {
+      "question_id": 12,
+      "question": "Which order type triggers a market order once a specified price is reached?",
+      "options": [
+        "Stop order",
+        "Limit order",
+        "Good-til-cancelled order"
+      ],
+      "answer": "Stop order"
+    },
+    {
+      "question_id": 13,
+      "question": "What characterizes a bull market?",
+      "options": [
+        "Rising stock prices and investor optimism",
+        "Falling stock prices and investor pessimism",
+        "Stable prices and no trading activity"
+      ],
+      "answer": "Rising stock prices and investor optimism"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metric expresses return relative to volatility as a risk-adjusted measure?",
+      "options": [
+        "Sharpe ratio",
+        "Price-to-earnings ratio",
+        "Current yield"
+      ],
+      "answer": "Sharpe ratio"
+    },
+    {
+      "question_id": 15,
+      "question": "Which entity is typically the buyer or seller of last resort during market stress for listed securities?",
+      "options": [
+        "Market makers",
+        "Retail investors",
+        "Index funds"
+      ],
+      "answer": "Market makers"
+    }
+  ]
+}

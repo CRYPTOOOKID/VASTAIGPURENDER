@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which English word derives from Latin 'taberna', originally meaning a shop or tavern?",
+      "options": [
+        "Tavern",
+        "Tablet",
+        "Tabloid"
+      ],
+      "answer": "Tavern"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Old English epic preserves many early Germanic words, informing word-origin studies?",
+      "options": [
+        "Beowulf",
+        "The Canterbury Tales",
+        "Le Morte d'Arthur"
+      ],
+      "answer": "Beowulf"
+    },
+    {
+      "question_id": 3,
+      "question": "Which general cause explains divergent modern forms like English 'museum' and French 'musée'?",
+      "options": [
+        "Different sound change paths",
+        "Coincidence",
+        "Translation error"
+      ],
+      "answer": "Different sound change paths"
+    },
+    {
+      "question_id": 4,
+      "question": "The word 'museum' comes from Greek 'Mouseion', originally a place for whom?",
+      "options": [
+        "The Muses",
+        "Philosophers",
+        "Soldiers"
+      ],
+      "answer": "The Muses"
+    },
+    {
+      "question_id": 5,
+      "question": "Which English word comes from the Proto-Germanic root *hausaz meaning a dwelling?",
+      "options": [
+        "House",
+        "Home",
+        "Hearth"
+      ],
+      "answer": "House"
+    },
+    {
+      "question_id": 6,
+      "question": "Which English adjective comes from Old Norse 'berserkr', literally 'bear-shirt'?",
+      "options": [
+        "Berserk",
+        "Berserker",
+        "Bearlike"
+      ],
+      "answer": "Berserk"
+    },
+    {
+      "question_id": 7,
+      "question": "What language does the word 'robot' originate from?",
+      "options": [
+        "Czech",
+        "Russian",
+        "German"
+      ],
+      "answer": "Czech"
+    },
+    {
+      "question_id": 8,
+      "question": "What name describes the process that forms compounds like 'bookshop' or 'blackbird'?",
+      "options": [
+        "Compounding",
+        "Derivation",
+        "Borrowing"
+      ],
+      "answer": "Compounding"
+    },
+    {
+      "question_id": 9,
+      "question": "What label applies to reconstructed ancestral forms unattested in writing?",
+      "options": [
+        "Proto-form",
+        "Loanword",
+        "Neologism"
+      ],
+      "answer": "Proto-form"
+    },
+    {
+      "question_id": 10,
+      "question": "The term 'algorithm' is derived from the name of which medieval scholar?",
+      "options": [
+        "al-Khwarizmi",
+        "Alcuin",
+        "Alhazen"
+      ],
+      "answer": "al-Khwarizmi"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the proper term for a mistaken popular belief about a word's origin?",
+      "options": [
+        "Folk etymology",
+        "Back-formation",
+        "Calque"
+      ],
+      "answer": "Folk etymology"
+    },
+    {
+      "question_id": 12,
+      "question": "Which early modern writer coined or popularized many English neologisms still used today?",
+      "options": [
+        "Shakespeare",
+        "Chaucer",
+        "Milton"
+      ],
+      "answer": "Shakespeare"
+    },
+    {
+      "question_id": 13,
+      "question": "The chess term 'checkmate' comes from Persian 'shah mat' meaning what?",
+      "options": [
+        "The king is helpless",
+        "The king is dead",
+        "The king is crowned"
+      ],
+      "answer": "The king is helpless"
+    },
+    {
+      "question_id": 14,
+      "question": "Which semantic process describes 'awful' changing from 'awe-inspiring' to 'very bad'?",
+      "options": [
+        "Pejoration",
+        "Amelioration",
+        "Narrowing"
+      ],
+      "answer": "Pejoration"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Old English root 'wyrhta' produced the occupational term found in 'wheelwright' and modern 'wright'?",
+      "options": [
+        "Wright",
+        "Right",
+        "Write"
+      ],
+      "answer": "Wright"
+    }
+  ]
+}

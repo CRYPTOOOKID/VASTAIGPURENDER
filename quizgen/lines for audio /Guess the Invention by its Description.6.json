@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention stitches fabric automatically using a needle and thread?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention first demonstrated wireless data communication between computers in the ARPANET era?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention first used the von Neumann architecture to store program instructions with data?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention lets people capture still images on film chemically sensitive to light?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention enabled rapid global communication by laying fiber-optic cables under oceans?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention introduced the first practical lithium-ion battery commercialization for portable electronics?"
+    },
+    {
+      "question_id": 7,
+      "question": "What invention made long-distance voice communication possible in real time?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention first allowed long-distance wireless voice transmission using amplitude modulation?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention used error-correcting Reed–Solomon codes to improve digital storage and satellite communication?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention allows people to view microscopic organisms by magnifying tiny details?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention significantly reduced infant mortality by allowing sterile surgical environments?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention used the Nyquist–Shannon sampling theorem to enable digital audio recording fidelity?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention stores electrical energy chemically for portable use?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention uses a rotating drum and magnetic tape to record audio for playback?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention used silicon-on-insulator processes to reduce parasitic capacitance in microelectronics?"
+    }
+  ]
+}

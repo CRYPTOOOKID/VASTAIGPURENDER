@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which global organization regularly publishes population estimates and projections?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does 'population momentum' refer to?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did the UN first publish its World Population Prospects reports regularly?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country is known for having a high population density city like Tokyo?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which measure is commonly used to compare mortality across countries independent of age structure?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country’s postwar baby boom created a large cohort that influenced labor markets for decades?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a population pyramid used to show?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'crude migration rate' measured as?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which demographic concept quantifies births required to maintain a stable population given current mortality and sex ratios?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country has the largest national population today?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which measurement adjusts crude rates to a standard age distribution for comparisons?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which region’s population is projected to double by 2100 under medium UN projections?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statistic gauges average lifespan at birth in a population?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country experienced a demographic dividend due to falling fertility and growing workforce?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country’s 1950s population policy is a classic case study of coercive family planning measures?"
+    }
+  ]
+}

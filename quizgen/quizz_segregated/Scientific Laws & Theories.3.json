@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who formulated the three laws of motion commonly taught in physics?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler"
+      ],
+      "answer": "Isaac Newton"
+    },
+    {
+      "question_id": 2,
+      "question": "Which theory replaced caloric theory by explaining heat as particle motion?",
+      "options": [
+        "Kinetic theory of heat",
+        "Wave theory of heat",
+        "Phlogiston theory"
+      ],
+      "answer": "Kinetic theory of heat"
+    },
+    {
+      "question_id": 3,
+      "question": "Which theoretical result shows symmetries in gauge theories require conserved currents?",
+      "options": [
+        "Noether's theorem",
+        "Ward identities",
+        "Goldstone theorem"
+      ],
+      "answer": "Ward identities"
+    },
+    {
+      "question_id": 4,
+      "question": "Which law states that for a fixed mass at constant temperature, pressure and volume are inversely proportional?",
+      "options": [
+        "Charles's law",
+        "Boyle's law",
+        "Avogadro's law"
+      ],
+      "answer": "Boyle's law"
+    },
+    {
+      "question_id": 5,
+      "question": "Which conservation law is directly associated with time-translation symmetry via Noether's theorem?",
+      "options": [
+        "Conservation of energy",
+        "Conservation of charge",
+        "Conservation of momentum"
+      ],
+      "answer": "Conservation of energy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which theorem restricts simultaneous noncontextual hidden-variable assignments in quantum mechanics?",
+      "options": [
+        "Kochen–Specker theorem",
+        "Bell's theorem",
+        "Gleason's theorem"
+      ],
+      "answer": "Kochen–Specker theorem"
+    },
+    {
+      "question_id": 7,
+      "question": "What scientific principle explains why objects float when they displace their own weight in fluid?",
+      "options": [
+        "Bernoulli's principle",
+        "Archimedes' principle",
+        "Pascal's principle"
+      ],
+      "answer": "Archimedes' principle"
+    },
+    {
+      "question_id": 8,
+      "question": "Which concept in evolution describes rapid bursts of change separated by long stability?",
+      "options": [
+        "Uniformitarianism",
+        "Punctuated equilibrium",
+        "Gradualism"
+      ],
+      "answer": "Punctuated equilibrium"
+    },
+    {
+      "question_id": 9,
+      "question": "Which renown relation in statistical physics connects response functions to equilibrium fluctuations?",
+      "options": [
+        "Ergodic theorem",
+        "Central limit theorem",
+        "Fluctuation–dissipation theorem"
+      ],
+      "answer": "Fluctuation–dissipation theorem"
+    },
+    {
+      "question_id": 10,
+      "question": "What principle explains how capacitors store energy in an electric field?",
+      "options": [
+        "Pascal's principle",
+        "Gauss's law",
+        "Electrostatic principle"
+      ],
+      "answer": "Gauss's law"
+    },
+    {
+      "question_id": 11,
+      "question": "Which theoretical framework unified electricity, magnetism, and optics in the 19th century?",
+      "options": [
+        "Classical electromagnetism",
+        "Quantum electrodynamics",
+        "Statistical mechanics"
+      ],
+      "answer": "Classical electromagnetism"
+    },
+    {
+      "question_id": 12,
+      "question": "Which theorem relates scattering amplitudes at low energy to symmetry and conservation constraints in particle physics?",
+      "options": [
+        "CPT theorem",
+        "Optical theorem",
+        "Adler consistency conditions"
+      ],
+      "answer": "Adler consistency conditions"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scientist is known for the laws describing planetary motion?",
+      "options": [
+        "Tycho Brahe",
+        "Johannes Kepler",
+        "Galileo Galilei"
+      ],
+      "answer": "Johannes Kepler"
+    },
+    {
+      "question_id": 14,
+      "question": "Which concept explains why biological populations grow exponentially when resources are unlimited?",
+      "options": [
+        "Logistic growth model",
+        "Exponential growth model",
+        "Carrying capacity principle"
+      ],
+      "answer": "Exponential growth model"
+    },
+    {
+      "question_id": 15,
+      "question": "Which astrophysical relation connects the mass of a supermassive black hole to its host galaxy's bulge velocity dispersion?",
+      "options": [
+        "M–sigma relation",
+        "Tully–Fisher relation",
+        "Faber–Jackson relation"
+      ],
+      "answer": "M–sigma relation"
+    }
+  ]
+}

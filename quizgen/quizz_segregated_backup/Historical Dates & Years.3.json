@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which year did the Ottoman Empire capture Constantinople?",
+      "options": [
+        "1453",
+        "1204",
+        "1299"
+      ],
+      "answer": "1453"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did Israel declare independence, leading to the 1948 Arab-Israeli War?",
+      "options": [
+        "1948",
+        "1956",
+        "1939"
+      ],
+      "answer": "1948"
+    },
+    {
+      "question_id": 3,
+      "question": "What year did the Anglo-Saxon Chronicle first begin recording English history under King Alfred?",
+      "options": [
+        "890",
+        "871",
+        "900"
+      ],
+      "answer": "890"
+    },
+    {
+      "question_id": 4,
+      "question": "What year did the Black Death reach Europe, beginning its major pandemic wave?",
+      "options": [
+        "1347",
+        "1204",
+        "1492"
+      ],
+      "answer": "1347"
+    },
+    {
+      "question_id": 5,
+      "question": "In what year did the Battle of Stalingrad end, marking a turning point in WWII's Eastern Front?",
+      "options": [
+        "1943",
+        "1942",
+        "1944"
+      ],
+      "answer": "1943"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Sui Dynasty complete the Grand Canal, transforming Chinese internal trade routes?",
+      "options": [
+        "609",
+        "581",
+        "618"
+      ],
+      "answer": "609"
+    },
+    {
+      "question_id": 7,
+      "question": "Which year marks the end of World War II in Europe (VE Day)?",
+      "options": [
+        "1945",
+        "1948",
+        "1939"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question_id": 8,
+      "question": "What year did the Treaty of Versailles formally end World War I?",
+      "options": [
+        "1919",
+        "1918",
+        "1923"
+      ],
+      "answer": "1919"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did the Battle of Hastings occur, leading to Norman rule in England?",
+      "options": [
+        "1066",
+        "1050",
+        "1087"
+      ],
+      "answer": "1066"
+    },
+    {
+      "question_id": 10,
+      "question": "In which year did Christopher Columbus first arrive in the Americas?",
+      "options": [
+        "1492",
+        "1519",
+        "1607"
+      ],
+      "answer": "1492"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Black Tuesday stock market crash that precipitated the Great Depression occur?",
+      "options": [
+        "1929",
+        "1918",
+        "1933"
+      ],
+      "answer": "1929"
+    },
+    {
+      "question_id": 12,
+      "question": "In what year was the Edict of Milan issued, granting religious toleration to Christians in the Roman Empire?",
+      "options": [
+        "313",
+        "306",
+        "325"
+      ],
+      "answer": "313"
+    },
+    {
+      "question_id": 13,
+      "question": "Which year did the Berlin Wall fall, symbolizing the end of Cold War divisions?",
+      "options": [
+        "1989",
+        "1975",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "question_id": 14,
+      "question": "Which year did the Irish Potato Famine, a major demographic catastrophe, begin in earnest?",
+      "options": [
+        "1845",
+        "1830",
+        "1852"
+      ],
+      "answer": "1845"
+    },
+    {
+      "question_id": 15,
+      "question": "What year did the Norman conquest of southern Italy begin with Norman incursions?",
+      "options": [
+        "1016",
+        "1061",
+        "1042"
+      ],
+      "answer": "1016"
+    }
+  ]
+}

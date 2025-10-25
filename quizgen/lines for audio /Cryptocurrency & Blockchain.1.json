@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'decentralized' mean for blockchains?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a '51% attack' risk?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the protocol term for miner's first transaction creating coinbase rewards?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a private key used for?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which privacy coin uses ring signatures by default?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which BIP defines mnemonic seed phrases commonly used in wallets?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the typical target time between Bitcoin blocks?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'gas limit' in Ethereum transactions?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is 'state sharding' intended to achieve in blockchains?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is credited with creating Bitcoin under a pseudonym?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a Merkle tree used for in blockchains?"
+    },
+    {
+      "question_id": 12,
+      "question": "What does 'finality' mean in consensus protocols?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a token compared to a coin?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which person is a co-founder of Ethereum?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the principal goal of a rollup as a Layer 2 solution?"
+    }
+  ]
+}

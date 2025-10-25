@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Magna Carta originally sealed by King John?"
+    },
+    {
+      "question_id": 2,
+      "question": "When was the League of Nations officially established after World War I?"
+    },
+    {
+      "question_id": 3,
+      "question": "When was the Edict of Fontainebleau revoking the Edict of Nantes issued in France?"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Suez Canal officially open?"
+    },
+    {
+      "question_id": 5,
+      "question": "When was the Oslo Accords first signed between Israel and the PLO?"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Tonkin Gulf Resolution, escalating U.S. involvement in Vietnam, pass?"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did the American Civil War begin?"
+    },
+    {
+      "question_id": 8,
+      "question": "When was the Battle of Hastings, which changed English monarchy?"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the Ottoman Sultan Mehmed II capture Constantinople, marking a shift in trade routes?"
+    },
+    {
+      "question_id": 10,
+      "question": "When did World War II officially start in Europe with Germany's invasion of Poland?"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Cuban Missile Crisis occur, bringing Cold War tension to a peak?"
+    },
+    {
+      "question_id": 12,
+      "question": "In what year did the Babylonian king Nebuchadnezzar II destroy Jerusalem's First Temple (approx.)?"
+    },
+    {
+      "question_id": 13,
+      "question": "When was the Emancipation Proclamation issued by Abraham Lincoln?"
+    },
+    {
+      "question_id": 14,
+      "question": "In what year did Vasco da Gama reach India by sea, opening a sea route?"
+    },
+    {
+      "question_id": 15,
+      "question": "When did the Glorious Revolution replace James II with William and Mary in England?"
+    }
+  ]
+}

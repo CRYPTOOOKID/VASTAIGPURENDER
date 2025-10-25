@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which engineer is celebrated as 'Sir' and known for major irrigation projects in India?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian scientist introduced important methods in spectroscopy for molecular structure analysis?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian engineer’s design philosophy emphasized practicality and humane engineering in dams?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian mathematician is famous for highly original 'mock theta' functions?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which scientist’s work on genetic code earned a Nobel Prize and originated in pre-independence India?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian chemist first isolated vinca alkaloids leading to cancer drug research?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist is called the father of India’s space program?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian-born scientist won a Nobel Prize for work on the genetic code and synthetic polynucleotides?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian scientist established the first organized space research committee in 1962?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who engineered the Konkan Railway and later led major metro projects in India?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Nobel laureate solved the structure of the ribosome and is Indian-born?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian scientist’s research on plant electromotive responses challenged contemporary views on organismal sensitivity?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who developed the Saha ionization equation used in astrophysics?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian chemist led CSIR and promoted modern industrial research across laboratories?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist later became President and authored works on aerospace and missile science?"
+    }
+  ]
+}

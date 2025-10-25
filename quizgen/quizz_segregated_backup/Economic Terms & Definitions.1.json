@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'real GDP' adjust for?",
+      "options": [
+        "Inflation",
+        "Population size",
+        "Government debt"
+      ],
+      "answer": "Inflation"
+    },
+    {
+      "question_id": 2,
+      "question": "What is velocity of money?",
+      "options": [
+        "Frequency money circulates to buy goods and services",
+        "Rate banks lend to each other overnight",
+        "Rate of inflation acceleration"
+      ],
+      "answer": "Frequency money circulates to buy goods and services"
+    },
+    {
+      "question_id": 3,
+      "question": "How does an open-economy IS curve shift with expansionary fiscal policy under floating exchange rates?",
+      "options": [
+        "Shifts right and may appreciate currency, partially offsetting demand boost",
+        "Shifts left causing depreciation and more output",
+        "Remains unchanged because monetary policy dominates"
+      ],
+      "answer": "Shifts right and may appreciate currency, partially offsetting demand boost"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'human capital'?",
+      "options": [
+        "Skills and knowledge of workers",
+        "Physical machines in factories",
+        "Government infrastructure projects"
+      ],
+      "answer": "Skills and knowledge of workers"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'real interest rate' equal approximately?",
+      "options": [
+        "Nominal rate minus inflation rate",
+        "Nominal rate plus inflation rate",
+        "Only the central bank target rate"
+      ],
+      "answer": "Nominal rate minus inflation rate"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the fundamental result of the Sonnenschein-Mantel-Debreu theorem?",
+      "options": [
+        "Aggregate excess demand can take almost any continuous shape, limiting uniqueness of equilibria",
+        "Markets always have a unique stable equilibrium",
+        "Supply curves always slope upward"
+      ],
+      "answer": "Aggregate excess demand can take almost any continuous shape, limiting uniqueness of equilibria"
+    },
+    {
+      "question_id": 7,
+      "question": "What is fiscal policy?",
+      "options": [
+        "Government decisions on taxation and spending",
+        "Central bank interest rate decisions",
+        "Corporate investment strategy"
+      ],
+      "answer": "Government decisions on taxation and spending"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the purpose of a tariff quota?",
+      "options": [
+        "Limit imports with preferential tariff rates up to quota",
+        "Eliminate tariffs entirely",
+        "Set permanent export subsidies"
+      ],
+      "answer": "Limit imports with preferential tariff rates up to quota"
+    },
+    {
+      "question_id": 9,
+      "question": "What is Main idea of the Tinbergen Rule in policy design?",
+      "options": [
+        "Number of independent policy instruments must equal policy targets",
+        "One instrument solves all targets",
+        "Policy tools should always be monetary"
+      ],
+      "answer": "Number of independent policy instruments must equal policy targets"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'capital' in economics?",
+      "options": [
+        "Machinery, tools, and buildings used in production",
+        "Money in a checking account",
+        "Natural resources like oil and timber"
+      ],
+      "answer": "Machinery, tools, and buildings used in production"
+    },
+    {
+      "question_id": 11,
+      "question": "What is adverse selection in insurance markets?",
+      "options": [
+        "High-risk individuals more likely to buy insurance",
+        "Insurers reducing premiums proactively",
+        "Regulators selecting policies"
+      ],
+      "answer": "High-risk individuals more likely to buy insurance"
+    },
+    {
+      "question_id": 12,
+      "question": "Which factor most directly explains the liquidity preference theory for interest rates?",
+      "options": [
+        "Demand for money balances depends on interest foregone from holding money",
+        "Inflation expectations only determine rates",
+        "Fiscal deficits set long-term rates exclusively"
+      ],
+      "answer": "Demand for money balances depends on interest foregone from holding money"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a subsidy?",
+      "options": [
+        "Government financial support to reduce costs",
+        "A consumer discount coupon",
+        "A tariff on foreign goods"
+      ],
+      "answer": "Government financial support to reduce costs"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the intuition behind Pareto efficiency?",
+      "options": [
+        "No one can be made better off without making someone worse off",
+        "Maximum government revenue",
+        "Minimum production costs"
+      ],
+      "answer": "No one can be made better off without making someone worse off"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the difference between GDP measured by income and expenditure approaches?",
+      "options": [
+        "They should be equal theoretically, differing only by statistical discrepancy",
+        "Income approach excludes government spending entirely",
+        "Expenditure approach excludes investment"
+      ],
+      "answer": "They should be equal theoretically, differing only by statistical discrepancy"
+    }
+  ]
+}

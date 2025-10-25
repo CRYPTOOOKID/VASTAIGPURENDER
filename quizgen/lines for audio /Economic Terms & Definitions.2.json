@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is meant by 'price elasticity of demand'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which policy describes lowering taxes to stimulate growth?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the principal-agent problem in economics?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is opportunity cost of attending college?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which measure excludes volatile food and energy prices?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'Ricardian equivalence' implication for government deficits?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'marginal utility'?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does the Phillips Curve originally show?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is 'transfer pricing' concern in multinational taxation?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a bond?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is meant by 'stagflation'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which model formalizes consumption smoothing under certainty with future income known?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a market defined by many sellers and identical products?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is market failure due to external costs called?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which test identifies cointegration among nonstationary time series in macroeconometrics?"
+    }
+  ]
+}

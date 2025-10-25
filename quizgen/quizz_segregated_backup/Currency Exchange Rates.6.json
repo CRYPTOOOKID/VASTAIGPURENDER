@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which currency pair is commonly quoted as EUR/USD?",
+      "options": [
+        "Euro versus US dollar",
+        "British pound versus US dollar",
+        "US dollar versus Japanese yen"
+      ],
+      "answer": "Euro versus US dollar"
+    },
+    {
+      "question_id": 2,
+      "question": "What does uncovered interest rate parity (UIP) imply?",
+      "options": [
+        "Expected currency depreciation equals interest differential",
+        "All currencies have same interest rates",
+        "Central banks fix future rates"
+      ],
+      "answer": "Expected currency depreciation equals interest differential"
+    },
+    {
+      "question_id": 3,
+      "question": "Which currency regime did Argentina abandon in 2002 after a long-standing peg?",
+      "options": [
+        "Convertibility peg to the US dollar",
+        "Gold standard peg",
+        "Peg to the euro"
+      ],
+      "answer": "Convertibility peg to the US dollar"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'convertibility' of a currency mean?",
+      "options": [
+        "Ability to exchange it freely for other currencies",
+        "Legal tender status within a country",
+        "Its physical durability"
+      ],
+      "answer": "Ability to exchange it freely for other currencies"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a currency corridor policy?",
+      "options": [
+        "Allowing limited fluctuations within set bands",
+        "Fixing rate permanently to another currency",
+        "Randomizing exchange rate daily"
+      ],
+      "answer": "Allowing limited fluctuations within set bands"
+    },
+    {
+      "question_id": 6,
+      "question": "What does 'original sin' refer to in the context of emerging markets and currencies?",
+      "options": [
+        "Inability to borrow abroad in domestic currency",
+        "High inflation from early industrialization",
+        "Mandatory fixed exchange rates"
+      ],
+      "answer": "Inability to borrow abroad in domestic currency"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes controls on the buying and selling of foreign currency?",
+      "options": [
+        "Capital controls",
+        "Trade tariffs",
+        "Price ceilings"
+      ],
+      "answer": "Capital controls"
+    },
+    {
+      "question_id": 8,
+      "question": "Which data release typically triggers short-term FX movements?",
+      "options": [
+        "Interest rate decisions and nonfarm payrolls",
+        "Census data from ten years ago",
+        "Historical trade route maps"
+      ],
+      "answer": "Interest rate decisions and nonfarm payrolls"
+    },
+    {
+      "question_id": 9,
+      "question": "Which empirical puzzle highlights failure of uncovered interest parity in short-term FX data?",
+      "options": [
+        "Forward premium puzzle",
+        "Fisher effect paradox",
+        "Exchange rate smoothing anomaly"
+      ],
+      "answer": "Forward premium puzzle"
+    },
+    {
+      "question_id": 10,
+      "question": "Which currency is commonly considered the global reserve currency?",
+      "options": [
+        "US dollar",
+        "Euro",
+        "Japanese yen"
+      ],
+      "answer": "US dollar"
+    },
+    {
+      "question_id": 11,
+      "question": "Which policy mix tends to produce 'currency wars' accusations?",
+      "options": [
+        "Aggressive monetary easing combined with intervention to weaken the currency",
+        "Tight fiscal policy with fixed exchange rates",
+        "Neutral policies with balanced budgets"
+      ],
+      "answer": "Aggressive monetary easing combined with intervention to weaken the currency"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phenomenon describes persistent deviations from PPP due to consumption habits and nontraded goods?",
+      "options": [
+        "Nontradables bias in real exchange rates",
+        "Interest rate parity deviation",
+        "Immediate PPP adjustment"
+      ],
+      "answer": "Nontradables bias in real exchange rates"
+    },
+    {
+      "question_id": 13,
+      "question": "How can macroprudential measures affect currency cycles?",
+      "options": [
+        "They can temper credit-fueled currency appreciation and sudden stops",
+        "They immediately fix exchange rates",
+        "They replace central bank monetary policy exclusively"
+      ],
+      "answer": "They can temper credit-fueled currency appreciation and sudden stops"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'local-currency debt' advantage for emerging markets?",
+      "options": [
+        "Reduces currency mismatch and exchange rate sensitivity of sovereign balance sheets",
+        "Always lowers borrowing costs below global rates",
+        "Eliminates default risk entirely"
+      ],
+      "answer": "Reduces currency mismatch and exchange rate sensitivity of sovereign balance sheets"
+    },
+    {
+      "question_id": 15,
+      "question": "What did the 'Impossible Trinity' or trilemma state about monetary policy?",
+      "options": [
+        "A country cannot simultaneously have fixed exchange rate, free capital flows, and independent monetary policy",
+        "A country cannot have low inflation, high growth, and open borders simultaneously",
+        "A central bank cannot control interest rates, money supply, and fiscal policy at once"
+      ],
+      "answer": "A country cannot simultaneously have fixed exchange rate, free capital flows, and independent monetary policy"
+    }
+  ]
+}

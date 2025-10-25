@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '🏴‍☠️⛵'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '🕶️👽🕵️'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which movie matches '🏙️🚴‍♂️📸' focused on a city photographer?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '🧟‍♂️🏙️'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🔬🧬🦠'?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie matches '📺👨‍👩‍👧‍👦🔮', blending media and prophecy?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🐟🔍'?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '🕺🎶🗽'?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '🧳🔑🏨' about a peculiar hotel locked in time?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '👨‍🚀🌕'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🧭⚓🌊'?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🖼️🕵️‍♀️💰' about art theft and forgery investigation?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '🕷️🧑'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue '👩‍🚒🔥🏢'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie fits '👩‍🌾🌽👻' about haunted rural settings?"
+    }
+  ]
+}

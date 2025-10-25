@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the common name for a writing system where each symbol stands for a syllable?",
+      "options": [
+        "Syllabary",
+        "Alphabet",
+        "Logogram"
+      ],
+      "answer": "Syllabary"
+    },
+    {
+      "question_id": 2,
+      "question": "Which early writing system for Greek was a syllabary deciphered in the 20th century?",
+      "options": [
+        "Linear B",
+        "Linear A",
+        "Cretan hieroglyphs"
+      ],
+      "answer": "Linear B"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Unicode block contains the Braille patterns encoded from U+2800 through U+28FF?",
+      "options": [
+        "Braille Patterns",
+        "Control Pictures",
+        "Private Use Area"
+      ],
+      "answer": "Braille Patterns"
+    },
+    {
+      "question_id": 4,
+      "question": "Which system marks thousands in Roman numerals using an overline?",
+      "options": [
+        "Vinculum notation",
+        "Hyphen notation",
+        "Parenthetical notation"
+      ],
+      "answer": "Vinculum notation"
+    },
+    {
+      "question_id": 5,
+      "question": "Which early European script was used by Germanic peoples and influenced later alphabets?",
+      "options": [
+        "Runic",
+        "Ogham",
+        "Coptic"
+      ],
+      "answer": "Runic"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 19th-century scholar deciphered Linear B in 1952 using comparative linguistic methods?",
+      "options": [
+        "Michael Ventris",
+        "Arthur Evans",
+        "John Chadwick"
+      ],
+      "answer": "Michael Ventris"
+    },
+    {
+      "question_id": 7,
+      "question": "Which code used long and short signals to encode letters and numbers?",
+      "options": [
+        "Morse code",
+        "Braille",
+        "ASCII"
+      ],
+      "answer": "Morse code"
+    },
+    {
+      "question_id": 8,
+      "question": "Which script reform in the 9th–10th centuries produced Glagolitic and Cyrillic forms?",
+      "options": [
+        "Slavic Christian script development",
+        "Latin script abbreviation",
+        "Hebrew square script"
+      ],
+      "answer": "Slavic Christian script development"
+    },
+    {
+      "question_id": 9,
+      "question": "Which writing system invented by Sequoyah assigns syllabic characters to Cherokee sounds?",
+      "options": [
+        "Cherokee syllabary",
+        "Cherokee alphabet",
+        "Cherokee abjad"
+      ],
+      "answer": "Cherokee syllabary"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the primary purpose of the International Phonetic Alphabet (IPA)?",
+      "options": [
+        "Represent speech sounds",
+        "Encode numbers",
+        "Designively name letters"
+      ],
+      "answer": "Represent speech sounds"
+    },
+    {
+      "question_id": 11,
+      "question": "Who popularized binary arithmetic in the West with an influential 1703 paper?",
+      "options": [
+        "Gottfried Wilhelm Leibniz",
+        "Isaac Newton",
+        "Blaise Pascal"
+      ],
+      "answer": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "question_id": 12,
+      "question": "Which numeric base underlies standard timekeeping divisions of minutes and seconds?",
+      "options": [
+        "Base 60",
+        "Base 10",
+        "Base 12"
+      ],
+      "answer": "Base 60"
+    },
+    {
+      "question_id": 13,
+      "question": "Who invented Braille, the tactile writing system for the blind?",
+      "options": [
+        "Louis Braille",
+        "Thomas Hopkins",
+        "Samuel Morse"
+      ],
+      "answer": "Louis Braille"
+    },
+    {
+      "question_id": 14,
+      "question": "Which ancient numeral system used wedge-shaped marks pressed into clay tablets?",
+      "options": [
+        "Cuneiform numerals",
+        "Roman numerals",
+        "Egyptian hieratic numerals"
+      ],
+      "answer": "Cuneiform numerals"
+    },
+    {
+      "question_id": 15,
+      "question": "Which cryptic alphabetic order variation places letters by phonetic grouping rather than historical order?",
+      "options": [
+        "Phonetic ordering",
+        "Acrophonic ordering",
+        "Numerical ordering"
+      ],
+      "answer": "Phonetic ordering"
+    }
+  ]
+}

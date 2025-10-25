@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In what year did World War I begin?",
+      "options": [
+        "1905",
+        "1914",
+        "1939"
+      ],
+      "answer": "1914"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did the Spanish Civil War begin?",
+      "options": [
+        "1936",
+        "1940",
+        "1929"
+      ],
+      "answer": "1936"
+    },
+    {
+      "question_id": 3,
+      "question": "When did Tokugawa Ieyasu achieve victory at Sekigahara, leading to Edo shogunate?",
+      "options": [
+        "1600",
+        "1590",
+        "1615"
+      ],
+      "answer": "1600"
+    },
+    {
+      "question_id": 4,
+      "question": "In what year did the Bolsheviks seize power in the October Revolution?",
+      "options": [
+        "1905",
+        "1920",
+        "1917"
+      ],
+      "answer": "1917"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the Taiping Rebellion begin in China, one of the deadliest conflicts?",
+      "options": [
+        "1840",
+        "1850",
+        "1864"
+      ],
+      "answer": "1850"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Treaty of Nanking end the First Opium War, ceding Hong Kong to Britain?",
+      "options": [
+        "1842",
+        "1856",
+        "1839"
+      ],
+      "answer": "1842"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did the Bill of Rights become part of the U.S. Constitution?",
+      "options": [
+        "1787",
+        "1791",
+        "1801"
+      ],
+      "answer": "1791"
+    },
+    {
+      "question_id": 8,
+      "question": "In what year did the Treaty of Versailles formally end World War I?",
+      "options": [
+        "1920",
+        "1918",
+        "1919"
+      ],
+      "answer": "1919"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the Battle of Chanakya's successors defeat the Seleucid forces leading to Mauryan expansion (approx.)?",
+      "options": [
+        "c. 305 BCE",
+        "c. 320 BCE",
+        "c. 250 BCE"
+      ],
+      "answer": "c. 305 BCE"
+    },
+    {
+      "question_id": 10,
+      "question": "When did Christopher Columbus first reach the Americas?",
+      "options": [
+        "1492",
+        "1607",
+        "1519"
+      ],
+      "answer": "1492"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Haitian Revolution successfully end in independence from France?",
+      "options": [
+        "1791",
+        "1814",
+        "1804"
+      ],
+      "answer": "1804"
+    },
+    {
+      "question_id": 12,
+      "question": "When was Constantinople officially renamed Istanbul by the Ottomans (de facto usage)?",
+      "options": [
+        "1453",
+        "1461",
+        "1500"
+      ],
+      "answer": "1453"
+    },
+    {
+      "question_id": 13,
+      "question": "When did the Ottoman Empire fall, formally ending after World War I?",
+      "options": [
+        "1932",
+        "1918",
+        "1922"
+      ],
+      "answer": "1922"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Meiji Restoration begin transforming Japan into a modern state?",
+      "options": [
+        "1871",
+        "1868",
+        "1853"
+      ],
+      "answer": "1868"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did the Council of Trent, shaping Catholic Counter-Reformation, begin?",
+      "options": [
+        "1517",
+        "1545",
+        "1563"
+      ],
+      "answer": "1545"
+    }
+  ]
+}

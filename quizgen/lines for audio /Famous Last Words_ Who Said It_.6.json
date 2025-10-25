@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who reportedly said \"It is very beautiful over there\" as their final words referring to a place beyond life?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientist reputedly said \"I go to seek a Great Perhaps\" on his deathbed?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is reported to have said \"Either that wallpaper goes or I do\" while criticizing decor as last words?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is credited with saying \"I have offended God and mankind because my work did not reach the quality it should have\" on their deathbed?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which English king allegedly declared \"I go from a corruptible to an incorruptible crown\" near death?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which poet is said to have whispered \"I am not afraid\" before passing away in 1821?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is credited with the last words \"I have a terrific headache\" before a fatal event?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Roman poet is credited with dying words about returning to the Elysian fields?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which American gangster reportedly said \"I made my bed, I lie in it\" as final remarks?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is known for the last words \"I die hard but am not afraid to go\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which French heroine's alleged last words were \"I am not afraid; I was born to do this\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which British naval hero's last words to a friend were the single phrase \"Kiss me, Hardy\"?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which 19th-century abolitionist's last words were \"I have not one regret\", uttered before execution in 1859?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who was said to have asked \"Is it the end?\" as their last words after a long illness in Victorian era?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who uttered the last words \"I am going to see now whether God will think me a good man\"?"
+    }
+  ]
+}

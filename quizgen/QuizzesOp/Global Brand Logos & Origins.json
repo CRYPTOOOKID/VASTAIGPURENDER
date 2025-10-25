@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which company uses a bitten apple as its logo?",
+        "options": [
+          "Apple",
+          "Microsoft",
+          "Samsung"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which fast food brand features two golden arches forming an M?",
+        "options": [
+          "McDonald's",
+          "Burger King",
+          "Wendy's"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which sports brand uses a simple Swoosh logo?",
+        "options": [
+          "Nike",
+          "Reebok",
+          "New Balance"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which beverage uses a red script logo with flowing letters?",
+        "options": [
+          "Coca-Cola",
+          "Pepsi",
+          "Sprite"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which search engine uses multicolored letters in its wordmark?",
+        "options": [
+          "Google",
+          "Bing",
+          "Yahoo"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which online retailer uses an arrow from A to Z forming a smile?",
+        "options": [
+          "Amazon",
+          "eBay",
+          "Etsy"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which carmaker uses a three-pointed star as its emblem?",
+        "options": [
+          "Mercedes-Benz",
+          "BMW",
+          "Audi"
+        ],
+        "answer": "Mercedes-Benz"
+      },
+      {
+        "question": "Which automobile brand shows four interlocking rings?",
+        "options": [
+          "Audi",
+          "Toyota",
+          "Volkswagen"
+        ],
+        "answer": "Audi"
+      },
+      {
+        "question": "Which coffee chain features a green siren or mermaid logo?",
+        "options": [
+          "Starbucks",
+          "Costa Coffee",
+          "Dunkin'"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which luxury fashion house uses interlocking double Cs as its logo?",
+        "options": [
+          "Chanel",
+          "Prada",
+          "Gucci"
+        ],
+        "answer": "Chanel"
+      },
+      {
+        "question": "Which airline uses a red kangaroo in its heritage branding?",
+        "options": [
+          "Qantas",
+          "Air New Zealand",
+          "Virgin Atlantic"
+        ],
+        "answer": "Qantas"
+      },
+      {
+        "question": "Which electronics brand originated in Japan and uses the Sony name?",
+        "options": [
+          "Sony",
+          "Samsung",
+          "Philips"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which furniture retailer uses blue and yellow colors and Swedish origin in branding?",
+        "options": [
+          "IKEA",
+          "Wayfair",
+          "H&M"
+        ],
+        "answer": "IKEA"
+      },
+      {
+        "question": "Which automotive logo displays a circular blue and white roundel?",
+        "options": [
+          "BMW",
+          "Ford",
+          "Kia"
+        ],
+        "answer": "BMW"
+      },
+      {
+        "question": "Which chocolate brand features a red wrapped triangle logo named Toblerone on packaging?",
+        "options": [
+          "Toblerone",
+          "KitKat",
+          "Nestlé"
+        ],
+        "answer": "Toblerone"
+      },
+      {
+        "question": "Which fashion brand shows a small crocodile as its emblem?",
+        "options": [
+          "Lacoste",
+          "Ralph Lauren",
+          "Calvin Klein"
+        ],
+        "answer": "Lacoste"
+      },
+      {
+        "question": "Which footwear brand features a leaping big cat as its logo?",
+        "options": [
+          "Puma",
+          "Nike",
+          "Converse"
+        ],
+        "answer": "Puma"
+      },
+      {
+        "question": "Which energy company uses a yellow shell-shaped logo?",
+        "options": [
+          "Shell",
+          "BP",
+          "ExxonMobil"
+        ],
+        "answer": "Shell"
+      },
+      {
+        "question": "Which logistics company is known for a brown shield and the color brown brand identity?",
+        "options": [
+          "UPS",
+          "DHL",
+          "FedEx"
+        ],
+        "answer": "UPS"
+      },
+      {
+        "question": "Which beverage brand shows two red bulls charging toward a golden sun?",
+        "options": [
+          "Red Bull",
+          "Monster",
+          "Rockstar"
+        ],
+        "answer": "Red Bull"
+      },
+      {
+        "question": "Which automotive brand uses a prancing horse as its symbol?",
+        "options": [
+          "Ferrari",
+          "Lamborghini",
+          "Maserati"
+        ],
+        "answer": "Ferrari"
+      },
+      {
+        "question": "Which telecommunications company uses a red speech-mark logo and originates from the UK?",
+        "options": [
+          "Vodafone",
+          "Verizon",
+          "T-Mobile"
+        ],
+        "answer": "Vodafone"
+      },
+      {
+        "question": "Which tech company uses a four-colored window-like logo?",
+        "options": [
+          "Microsoft",
+          "Oracle",
+          "SAP"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which beer brand features a red star within its logo?",
+        "options": [
+          "Heineken",
+          "Corona",
+          "Budweiser"
+        ],
+        "answer": "Heineken"
+      },
+      {
+        "question": "Which automotive brand combines V and W letters inside a circular logo?",
+        "options": [
+          "Volkswagen",
+          "Volvo",
+          "Vauxhall"
+        ],
+        "answer": "Volkswagen"
+      },
+      {
+        "question": "Which fast casual sandwich chain uses green and yellow in its logo?",
+        "options": [
+          "Subway",
+          "Jimmy John's",
+          "Submarine"
+        ],
+        "answer": "Subway"
+      },
+      {
+        "question": "Which computer chip maker uses an 'Intel Inside' circular wordmark historically?",
+        "options": [
+          "Intel",
+          "AMD",
+          "NVIDIA"
+        ],
+        "answer": "Intel"
+      },
+      {
+        "question": "Which clothing brand uses three parallel stripes as a core visual element?",
+        "options": [
+          "Adidas",
+          "Fila",
+          "Under Armour"
+        ],
+        "answer": "Adidas"
+      },
+      {
+        "question": "Which fried chicken brand features Colonel Sanders' portrait as a logo?",
+        "options": [
+          "KFC",
+          "Popeyes",
+          "Church's Chicken"
+        ],
+        "answer": "KFC"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which designer created the Nike Swoosh in 1971?",
+        "options": [
+          "Carolyn Davidson",
+          "Phil Knight",
+          "Bill Bowerman"
+        ],
+        "answer": "Carolyn Davidson"
+      },
+      {
+        "question": "What was Apple's original 1976 logo featuring Isaac Newton created by?",
+        "options": [
+          "Ronald Wayne",
+          "Steve Jobs",
+          "Jony Ive"
+        ],
+        "answer": "Ronald Wayne"
+      },
+      {
+        "question": "Which year did Audi adopt the four rings to represent a 1932 merger?",
+        "options": [
+          "1932",
+          "1945",
+          "1920"
+        ],
+        "answer": "1932"
+      },
+      {
+        "question": "Which city did IKEA originate in?",
+        "options": [
+          "Älmhult",
+          "Stockholm",
+          "Gothenburg"
+        ],
+        "answer": "Älmhult"
+      },
+      {
+        "question": "Which symbol do Mercedes-Benz three points represent?",
+        "options": [
+          "Land, sea, and air",
+          "Past, present, and future",
+          "Design, speed, and luxury"
+        ],
+        "answer": "Land, sea, and air"
+      },
+      {
+        "question": "Which logo originally used a twin-tailed siren inspired by a 16th-century woodcut?",
+        "options": [
+          "Starbucks",
+          "Dunkin'",
+          "Costa Coffee"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Who designed the classic IBM striped logo used since the 1970s?",
+        "options": [
+          "Paul Rand",
+          "Saul Bass",
+          "Milton Glaser"
+        ],
+        "answer": "Paul Rand"
+      },
+      {
+        "question": "Which brand changed its name from Blue Ribbon Sports to its current name in 1971?",
+        "options": [
+          "Nike",
+          "Reebok",
+          "Fila"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which company uses a hidden arrow between the E and X in its logo?",
+        "options": [
+          "FedEx",
+          "UPS",
+          "DHL"
+        ],
+        "answer": "FedEx"
+      },
+      {
+        "question": "Which country did the brand Samsung originate from?",
+        "options": [
+          "South Korea",
+          "Japan",
+          "China"
+        ],
+        "answer": "South Korea"
+      },
+      {
+        "question": "Which logo features a pecten, a scallop shell shape?",
+        "options": [
+          "Shell",
+          "Total",
+          "BP"
+        ],
+        "answer": "Shell"
+      },
+      {
+        "question": "Which company first used the term 'trefoil' to refer to its three-leaf logo?",
+        "options": [
+          "Adidas",
+          "Reebok",
+          "Puma"
+        ],
+        "answer": "Adidas"
+      },
+      {
+        "question": "Which logo designer created Google’s logo concept used in the 1990s?",
+        "options": [
+          "Ruth Kedar",
+          "Sergey Brin",
+          "Larry Page"
+        ],
+        "answer": "Ruth Kedar"
+      },
+      {
+        "question": "Which Italian marque's prancing horse emblem came from a WWI pilot's insignia?",
+        "options": [
+          "Ferrari",
+          "Maserati",
+          "Alfa Romeo"
+        ],
+        "answer": "Ferrari"
+      },
+      {
+        "question": "Which brand's wordmark historically featured a rainbow color scheme until 1998?",
+        "options": [
+          "Apple",
+          "Google",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which brand’s logo famously hides a smile that signifies satisfaction and A-to-Z range?",
+        "options": [
+          "Amazon",
+          "eBay",
+          "Alibaba"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company adopted a circular blue globe as a modern logo for a soda brand?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "Sprite"
+        ],
+        "answer": "Pepsi"
+      },
+      {
+        "question": "Which historic logo comes from a merger of four manufacturers in Germany?",
+        "options": [
+          "Audi",
+          "Mercedes-Benz",
+          "BMW"
+        ],
+        "answer": "Audi"
+      },
+      {
+        "question": "Which fashion founder inspired a polo player logo used by his namesake brand?",
+        "options": [
+          "Ralph Lauren",
+          "Tommy Hilfiger",
+          "Calvin Klein"
+        ],
+        "answer": "Ralph Lauren"
+      },
+      {
+        "question": "Which brand's iconic letters originally had irregular baselines and playful colors?",
+        "options": [
+          "eBay",
+          "Amazon",
+          "Etsy"
+        ],
+        "answer": "eBay"
+      },
+      {
+        "question": "Which electronics company originated the 'Walkman' and used a distinctive wordmark?",
+        "options": [
+          "Sony",
+          "Panasonic",
+          "Sharp"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which company’s logo uses a red star and green typography reflecting Dutch roots?",
+        "options": [
+          "Heineken",
+          "Carlsberg",
+          "Amstel"
+        ],
+        "answer": "Heineken"
+      },
+      {
+        "question": "Which brand started as an oil trading company and later used the pecten logo?",
+        "options": [
+          "Shell",
+          "Exxon",
+          "Chevron"
+        ],
+        "answer": "Shell"
+      },
+      {
+        "question": "Which footwear company formed when two Dassler brothers split their family business?",
+        "options": [
+          "Puma",
+          "Reebok",
+          "Adidas"
+        ],
+        "answer": "Puma"
+      },
+      {
+        "question": "Which brand uses a crown logo to convey prestige in watchmaking?",
+        "options": [
+          "Rolex",
+          "Omega",
+          "Tag Heuer"
+        ],
+        "answer": "Rolex"
+      },
+      {
+        "question": "Which company's logo uses a stylized red and white bullseye historically?",
+        "options": [
+          "Target",
+          "Walgreens",
+          "CVS"
+        ],
+        "answer": "Target"
+      },
+      {
+        "question": "Which fashion brand’s crocodile logo comes from a tennis player's nickname?",
+        "options": [
+          "Lacoste",
+          "Fila",
+          "Kappa"
+        ],
+        "answer": "Lacoste"
+      },
+      {
+        "question": "Which carmaker uses a circular logo with letters VW stacked vertically?",
+        "options": [
+          "Volkswagen",
+          "Volvo",
+          "Skoda"
+        ],
+        "answer": "Volkswagen"
+      },
+      {
+        "question": "Which brand's founder was Harland David Sanders, shown in the logo?",
+        "options": [
+          "KFC",
+          "Popeyes",
+          "Church's Chicken"
+        ],
+        "answer": "KFC"
+      },
+      {
+        "question": "Which social platform’s bird logo is commonly named after a basketball star?",
+        "options": [
+          "Twitter",
+          "Instagram",
+          "Snapchat"
+        ],
+        "answer": "Twitter"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which artist created Apple's rainbow-striped logo introduced in 1977?",
+        "options": [
+          "Rob Janoff",
+          "Ronald Wayne",
+          "Jony Ive"
+        ],
+        "answer": "Rob Janoff"
+      },
+      {
+        "question": "Which designer created the FedEx wordmark with the hidden arrow in 1994?",
+        "options": [
+          "Lindon Leader",
+          "Paul Rand",
+          "Saul Bass"
+        ],
+        "answer": "Lindon Leader"
+      },
+      {
+        "question": "Which year did Adidas introduce the trefoil logo as an official emblem?",
+        "options": [
+          "1972",
+          "1960",
+          "1984"
+        ],
+        "answer": "1972"
+      },
+      {
+        "question": "Which small German company merged into Auto Union that inspired Audi's rings?",
+        "options": [
+          "DKW",
+          "Opel",
+          "BMW"
+        ],
+        "answer": "DKW"
+      },
+      {
+        "question": "Which Seattle company used a 16th-century Norse woodcut as Starbucks’ early inspiration?",
+        "options": [
+          "Starbucks",
+          "Tully's",
+          "Seattle's Best"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which designer was later compensated with stock after originally charging $35 for a famous Swoosh?",
+        "options": [
+          "Carolyn Davidson",
+          "Phil Knight",
+          "Bill Bowerman"
+        ],
+        "answer": "Carolyn Davidson"
+      },
+      {
+        "question": "Which logo change in 2010 removed the wordmark and enlarged the green siren?",
+        "options": [
+          "Starbucks",
+          "Dunkin'",
+          "Costa Coffee"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which brand’s logo evolution included a 1999 redesign by Ruth Kedar for its wordmark?",
+        "options": [
+          "Google",
+          "Yahoo",
+          "Bing"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which coach or architect is credited with designing McDonald's golden arches in the 1950s?",
+        "options": [
+          "Stanley Meston",
+          "Ray Kroc",
+          "Richard McDonald"
+        ],
+        "answer": "Stanley Meston"
+      },
+      {
+        "question": "Which logo reveal in 2010 removed the brand name and used only a simplified icon for recognition?",
+        "options": [
+          "Apple",
+          "Microsoft",
+          "Intel"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which automaker's emblem incorporated the Bavarian flag colors leading to a roundel myth?",
+        "options": [
+          "BMW",
+          "Audi",
+          "Mercedes-Benz"
+        ],
+        "answer": "BMW"
+      },
+      {
+        "question": "Which fast-food logo first emphasized architectural golden arches as signage in the 1950s?",
+        "options": [
+          "McDonald's",
+          "Burger King",
+          "Wendy's"
+        ],
+        "answer": "McDonald's"
+      },
+      {
+        "question": "Which brand's logo originally featured a detailed coat of arms that simplified over decades?",
+        "options": [
+          "Puma",
+          "Peugeot",
+          "Lacoste"
+        ],
+        "answer": "Peugeot"
+      },
+      {
+        "question": "Which company adopted the three-oval Toyota logo to symbolize overlapping hearts and global expansion?",
+        "options": [
+          "Toyota",
+          "Nissan",
+          "Honda"
+        ],
+        "answer": "Toyota"
+      },
+      {
+        "question": "Which logo designer created IBM's iconic striped mark to suggest speed and dynamism?",
+        "options": [
+          "Paul Rand",
+          "Milton Glaser",
+          "Saul Bass"
+        ],
+        "answer": "Paul Rand"
+      },
+      {
+        "question": "Which logo contains a hidden arrow to symbolize speed and precision discovered by many viewers?",
+        "options": [
+          "FedEx",
+          "UPS",
+          "DHL"
+        ],
+        "answer": "FedEx"
+      },
+      {
+        "question": "Which Italian manufacturer's emblem came to Ferrari via Countess Paolina Baracca's suggestion?",
+        "options": [
+          "Ferrari",
+          "Maserati",
+          "Lamborghini"
+        ],
+        "answer": "Ferrari"
+      },
+      {
+        "question": "Which company’s early logo featured a detailed woodcut mermaid with exposed tails until 1987?",
+        "options": [
+          "Starbucks",
+          "Caribou Coffee",
+          "Peet's Coffee"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which luxury watchmaker used a five-point coronet crown as its primary logo since early 20th century?",
+        "options": [
+          "Rolex",
+          "Cartier",
+          "Patek Philippe"
+        ],
+        "answer": "Rolex"
+      },
+      {
+        "question": "Which company's rebrand in 2000 introduced an arrow-smile connecting A to Z on its logo?",
+        "options": [
+          "Amazon",
+          "Barnes & Noble",
+          "Alibris"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which logo's striped globe design returned to prominence after a 2008 refresh for a soda brand?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "RC Cola"
+        ],
+        "answer": "Pepsi"
+      },
+      {
+        "question": "Which automaker's badge traces to a 1932 union of Horch, DKW, Wanderer, and Audi companies?",
+        "options": [
+          "Audi",
+          "Opel",
+          "BMW"
+        ],
+        "answer": "Audi"
+      },
+      {
+        "question": "Which brand’s logo uses the trefoil to represent performance heritage and diversity since the 1970s?",
+        "options": [
+          "Adidas",
+          "Puma",
+          "Reebok"
+        ],
+        "answer": "Adidas"
+      },
+      {
+        "question": "Which classic chocolate brand uses a mountain silhouette and triangular logo for origin recognition?",
+        "options": [
+          "Toblerone",
+          "Milka",
+          "Lindt"
+        ],
+        "answer": "Toblerone"
+      },
+      {
+        "question": "Which designer simplified Twitter’s bird icon and removed text in a 2012 identity update?",
+        "options": [
+          "Simon Oxley",
+          "Unknown in-house team",
+          "Doug Bowman"
+        ],
+        "answer": "Unknown in-house team"
+      },
+      {
+        "question": "Which logo evolution included replacing detailed royal crests with a simple shield for clarity?",
+        "options": [
+          "Prudential",
+          "Barclays",
+          "HSBC"
+        ],
+        "answer": "HSBC"
+      },
+      {
+        "question": "Which brand's emblem originally referenced a war ace's personal insignia and gained national recognition?",
+        "options": [
+          "Ferrari",
+          "Alfa Romeo",
+          "Fiat"
+        ],
+        "answer": "Ferrari"
+      },
+      {
+        "question": "Which heritage brand's logo traces to an 1890s badge later modernized into a stylized trident or crest?",
+        "options": [
+          "Maserati",
+          "Lancia",
+          "Alfa Romeo"
+        ],
+        "answer": "Maserati"
+      },
+      {
+        "question": "Which company's logo story involves brothers Adi and Rudolf Dassler splitting to create two sports brands?",
+        "options": [
+          "Adidas",
+          "Reebok",
+          "New Balance"
+        ],
+        "answer": "Adidas"
+      }
+    ]
+  }
+}

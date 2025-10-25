@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What idea does 'You can't have your cake and eat it too' express?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Aesop fable inspired the phrase 'sour grapes'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which proverb did Shakespeare write in As You Like It, meaning moderation benefits us?"
+    },
+    {
+      "question_id": 4,
+      "question": "Complete: 'Don't cross the bridge until you come to ___'"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb implies the truth becomes obvious through practical testing?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the academic study of proverbs called?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'If it ain't broke, don't fix it' advise?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb warns not to assume success before it happens?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which literary source preserves many aphoristic sayings forming English proverbs, including medieval examples?"
+    },
+    {
+      "question_id": 10,
+      "question": "Complete the proverb: 'A journey of a thousand miles begins with a ___'"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb did Benjamin Franklin famously popularize?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which proverb did Miguel de Cervantes use in Don Quixote that resembles a modern English saying?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'All work and no play makes Jack a dull boy' suggest?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which proverb means someone cares for their own interests above others'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient work contains the line 'Carpe diem' that inspired many modern proverbs?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'decentralized' mean for blockchains?",
+      "options": [
+        "Control spread across many participants",
+        "Controlled by one company",
+        "Hosted on a single server"
+      ],
+      "answer": "Control spread across many participants"
+    },
+    {
+      "question_id": 2,
+      "question": "What is a '51% attack' risk?",
+      "options": [
+        "A wallet backup method",
+        "Majority control allowing block reorgs",
+        "An exchange regulatory rule"
+      ],
+      "answer": "Majority control allowing block reorgs"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the protocol term for miner's first transaction creating coinbase rewards?",
+      "options": [
+        "Genesis reward",
+        "Coinbase transaction",
+        "Mint transaction"
+      ],
+      "answer": "Coinbase transaction"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a private key used for?",
+      "options": [
+        "Viewing market prices",
+        "Mining blocks",
+        "Signing transactions"
+      ],
+      "answer": "Signing transactions"
+    },
+    {
+      "question_id": 5,
+      "question": "Which privacy coin uses ring signatures by default?",
+      "options": [
+        "Bitcoin Cash",
+        "Litecoin",
+        "Monero"
+      ],
+      "answer": "Monero"
+    },
+    {
+      "question_id": 6,
+      "question": "Which BIP defines mnemonic seed phrases commonly used in wallets?",
+      "options": [
+        "BIP21",
+        "BIP39",
+        "BIP44"
+      ],
+      "answer": "BIP39"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the typical target time between Bitcoin blocks?",
+      "options": [
+        "About 1 minute",
+        "About 24 hours",
+        "About 10 minutes"
+      ],
+      "answer": "About 10 minutes"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'gas limit' in Ethereum transactions?",
+      "options": [
+        "A wallet backup phrase length",
+        "Maximum gas willing to pay for an execution",
+        "Total network capacity per second"
+      ],
+      "answer": "Maximum gas willing to pay for an execution"
+    },
+    {
+      "question_id": 9,
+      "question": "What is 'state sharding' intended to achieve in blockchains?",
+      "options": [
+        "Reducing transaction privacy",
+        "Increasing block size arbitrarily",
+        "Partitioning state to increase throughput"
+      ],
+      "answer": "Partitioning state to increase throughput"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is credited with creating Bitcoin under a pseudonym?",
+      "options": [
+        "Hal Finney",
+        "Vitalik Buterin",
+        "Satoshi Nakamoto"
+      ],
+      "answer": "Satoshi Nakamoto"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a Merkle tree used for in blockchains?",
+      "options": [
+        "Encrypting private keys",
+        "Efficiently verifying transaction membership",
+        "Calculating mining difficulty"
+      ],
+      "answer": "Efficiently verifying transaction membership"
+    },
+    {
+      "question_id": 12,
+      "question": "What does 'finality' mean in consensus protocols?",
+      "options": [
+        "Temporary transaction confirmation",
+        "Periodic difficulty reset",
+        "Irreversible acceptance of a block"
+      ],
+      "answer": "Irreversible acceptance of a block"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a token compared to a coin?",
+      "options": [
+        "A digital asset on an existing blockchain",
+        "A physical coin replica",
+        "A mining reward unit"
+      ],
+      "answer": "A digital asset on an existing blockchain"
+    },
+    {
+      "question_id": 14,
+      "question": "Which person is a co-founder of Ethereum?",
+      "options": [
+        "Vitalik Buterin",
+        "Charlie Lee",
+        "Jed McCaleb"
+      ],
+      "answer": "Vitalik Buterin"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the principal goal of a rollup as a Layer 2 solution?",
+      "options": [
+        "Batch many transactions and post data to mainnet",
+        "Eliminate smart contract capability",
+        "Replace mainnet consensus entirely"
+      ],
+      "answer": "Batch many transactions and post data to mainnet"
+    }
+  ]
+}

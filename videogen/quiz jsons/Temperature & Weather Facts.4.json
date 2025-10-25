@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which front forms when cold air pushes under a warm air mass?",
+      "options": [
+        "Stationary front",
+        "Cold front",
+        "Warm front"
+      ],
+      "answer": "Cold front"
+    },
+    {
+      "question_id": 2,
+      "question": "What device carried on weather balloons measures upper-air temperature and humidity profiles?",
+      "options": [
+        "Radiosonde",
+        "Pyranometer",
+        "Ceilometer"
+      ],
+      "answer": "Radiosonde"
+    },
+    {
+      "question_id": 3,
+      "question": "What wet-bulb temperature around 35°C is widely cited as a rough survivability limit for sustained human exposure?",
+      "options": [
+        "45°C wet-bulb",
+        "35°C wet-bulb",
+        "20°C wet-bulb"
+      ],
+      "answer": "35°C wet-bulb"
+    },
+    {
+      "question_id": 4,
+      "question": "What does a barometer measure in meteorology?",
+      "options": [
+        "Wind speed",
+        "Humidity",
+        "Air pressure"
+      ],
+      "answer": "Air pressure"
+    },
+    {
+      "question_id": 5,
+      "question": "Which atmospheric layer above the troposphere contains the ozone layer and shows temperature increase with altitude?",
+      "options": [
+        "Stratosphere",
+        "Thermosphere",
+        "Mesosphere"
+      ],
+      "answer": "Stratosphere"
+    },
+    {
+      "question_id": 6,
+      "question": "What large-scale circulation moves ozone and tracers from tropical stratosphere toward the poles?",
+      "options": [
+        "Brewer-Dobson circulation",
+        "Hadley cell",
+        "Walker circulation"
+      ],
+      "answer": "Brewer-Dobson circulation"
+    },
+    {
+      "question_id": 7,
+      "question": "What name describes the boundary between two air masses with different temperatures?",
+      "options": [
+        "Occlusion",
+        "Jet stream",
+        "Front"
+      ],
+      "answer": "Front"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rain gauge type uses a tipping mechanism to record rainfall increments electronically?",
+      "options": [
+        "Weighing gauge",
+        "Optical disdrometer",
+        "Tipping-bucket rain gauge"
+      ],
+      "answer": "Tipping-bucket rain gauge"
+    },
+    {
+      "question_id": 9,
+      "question": "Which combined metric often gauges heat stress for livestock using temperature and humidity?",
+      "options": [
+        "Solar Radiation Index",
+        "Temperature-Humidity Index (THI)",
+        "Wind Chill Equivalent"
+      ],
+      "answer": "Temperature-Humidity Index (THI)"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the freezing point of freshwater on the Celsius scale?",
+      "options": [
+        "32°C",
+        "0°C",
+        "100°C"
+      ],
+      "answer": "0°C"
+    },
+    {
+      "question_id": 11,
+      "question": "Which warm, dry downslope wind in North America rapidly raises temperatures?",
+      "options": [
+        "Nor'easter",
+        "Sirocco",
+        "Chinook"
+      ],
+      "answer": "Chinook"
+    },
+    {
+      "question_id": 12,
+      "question": "Which daytime boundary layer phenomenon mixes pollutants upward from the surface?",
+      "options": [
+        "Convective boundary layer turbulence",
+        "Subsidence inversion",
+        "Nocturnal inversion"
+      ],
+      "answer": "Convective boundary layer turbulence"
+    },
+    {
+      "question_id": 13,
+      "question": "What are tiny liquid water particles suspended in clouds called?",
+      "options": [
+        "Hailstones",
+        "Cloud droplets",
+        "Ice pellets"
+      ],
+      "answer": "Cloud droplets"
+    },
+    {
+      "question_id": 14,
+      "question": "What European mountain lee wind similar to Chinook creates a warm, dry condition called?",
+      "options": [
+        "Foehn",
+        "Sirocco",
+        "Mistral"
+      ],
+      "answer": "Foehn"
+    },
+    {
+      "question_id": 15,
+      "question": "What primary feedback mechanism contributes to faster polar warming compared to global average?",
+      "options": [
+        "Evaporation feedback",
+        "Ice-albedo feedback",
+        "Cloud seeding"
+      ],
+      "answer": "Ice-albedo feedback"
+    }
+  ]
+}

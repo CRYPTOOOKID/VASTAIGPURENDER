@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes the tone color that distinguishes instruments?",
+      "options": [
+        "Dynamics",
+        "Timbre",
+        "Tempo"
+      ],
+      "answer": "Timbre"
+    },
+    {
+      "question_id": 2,
+      "question": "What method cancels unwanted sound by adding an inverted waveform?",
+      "options": [
+        "Destructive interference",
+        "Constructive interference",
+        "Reverberation"
+      ],
+      "answer": "Destructive interference"
+    },
+    {
+      "question_id": 3,
+      "question": "Which perceptual frequency scale better matches pitch sensation than linear Hertz?",
+      "options": [
+        "Logarithmic frequency",
+        "Mel scale",
+        "Decibel scale"
+      ],
+      "answer": "Mel scale"
+    },
+    {
+      "question_id": 4,
+      "question": "Which frequency band includes most human speech fundamentals?",
+      "options": [
+        "0.1 Hz to 1 Hz",
+        "85 Hz to 255 Hz",
+        "5 kHz to 20 kHz"
+      ],
+      "answer": "85 Hz to 255 Hz"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sampling rate is standard for CD-quality audio?",
+      "options": [
+        "44.1 kHz",
+        "8 kHz",
+        "192 kHz"
+      ],
+      "answer": "44.1 kHz"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phenomenon causes misleading frequency components when sampling is insufficient?",
+      "options": [
+        "Aliasing",
+        "Clipping",
+        "Quantization"
+      ],
+      "answer": "Aliasing"
+    },
+    {
+      "question_id": 7,
+      "question": "Which environmental factor noticeably affects sound speed in air?",
+      "options": [
+        "Color",
+        "Humidity only",
+        "Temperature"
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question_id": 8,
+      "question": "What phenomenon yields periodic amplitude variation from two close frequencies?",
+      "options": [
+        "Echo",
+        "Beats",
+        "Refraction"
+      ],
+      "answer": "Beats"
+    },
+    {
+      "question_id": 9,
+      "question": "Which laboratory device measures normal-incidence absorption and impedance of materials?",
+      "options": [
+        "Geiger counter",
+        "Spectrophotometer",
+        "Impedance tube"
+      ],
+      "answer": "Impedance tube"
+    },
+    {
+      "question_id": 10,
+      "question": "What happens when two sound waves add their peaks together?",
+      "options": [
+        "Constructive interference",
+        "Refraction",
+        "Absorption"
+      ],
+      "answer": "Constructive interference"
+    },
+    {
+      "question_id": 11,
+      "question": "Which structure in the inner ear hosts frequency-specific hair cell responses?",
+      "options": [
+        "Auditory nerve",
+        "Tympanic membrane",
+        "Basilar membrane"
+      ],
+      "answer": "Basilar membrane"
+    },
+    {
+      "question_id": 12,
+      "question": "Which microphone type uses piezoelectric effect to convert pressure into voltage?",
+      "options": [
+        "Condenser microphone",
+        "Ribbon microphone",
+        "Piezoelectric microphone"
+      ],
+      "answer": "Piezoelectric microphone"
+    },
+    {
+      "question_id": 13,
+      "question": "Which inner-ear structure converts vibrations into nerve signals?",
+      "options": [
+        "Cochlea",
+        "Eardrum",
+        "Hammer"
+      ],
+      "answer": "Cochlea"
+    },
+    {
+      "question_id": 14,
+      "question": "Which musical interval represents a frequency doubling?",
+      "options": [
+        "Minor third",
+        "Fifth",
+        "Octave"
+      ],
+      "answer": "Octave"
+    },
+    {
+      "question_id": 15,
+      "question": "What parameter quantifies how directional a sound source radiates energy?",
+      "options": [
+        "Impedance",
+        "Directivity index",
+        "Wavelength"
+      ],
+      "answer": "Directivity index"
+    }
+  ]
+}

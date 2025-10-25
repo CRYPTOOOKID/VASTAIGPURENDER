@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which supernatural drama series starring Sarah Michelle Gellar premiered in 1997?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which band famously performed 'Smells Like Teen Spirit' at the 1992 MTV VMAs?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which experimental 1999 TV series blended sci-fi and anime aesthetics for adult audiences?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which singer performed 'My Heart Will Go On' from the 1997 blockbuster soundtrack?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sitcom episode in 1997 featured Ross and Rachel's first kiss at Central Perk?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1994 Pixar short was originally produced in 1997 and later paired with theatrical releases?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Nintendo home console launched in 1996 using cartridges for games?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which comic-based 1998 film launched a successful superhero franchise starring Tobey Maguire?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which niche 1990s handheld used a dot-matrix watch-style interface for gaming 'Digimon' pets?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which popular 1993 film featured groundbreaking CGI for a theme park disaster?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which technology became widely available for home use after dial-up modems in the 1990s?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1999 handheld console prototype from Nintendo led to later portable innovations?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which animated series debuted in 1999 featuring an optimistic sea sponge character?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which 1998 film featured a fictional boy wizard introduced to the world?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fashion label's slip dresses became a 1990s staple after celebrity red-carpet appearances?"
+    }
+  ]
+}

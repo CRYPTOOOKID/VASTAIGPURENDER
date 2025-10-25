@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian film composer won two Academy Awards for his film scores?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which gharana is most associated with the meditative slow-tempo khayal and intricate alaaps?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which large plucked veena with two big gourds is central to the dhrupad tradition?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which hammered string instrument from Kashmir uses wooden mallets?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which tal has six beats and commonly underpins light classical and folk pieces?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who classified Hindustani ragas into ten thaats, shaping modern pedagogy?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Hindustani vocal form emphasizes improvisation within a raga and is modern?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which rhythmic cycle of seven beats appears often in Hindustani light and semi-classical forms?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the name of the black tuning paste applied to the tabla surface to shape pitch and timbre?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which popular Indian music form blends Persian poetic forms with Indian melody?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which master was a principal disciple of Allauddin Khan and excelled on the sarod?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare bowed instrument closely resembles sarangi but has sympathetic strings and Punjabi origin?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the term for a fixed melodic composition used as a reference in Hindustani singing?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which musician adapted the Kashmiri santoor for Hindustani classical performance?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 16th-century Mughal court musician among Akbar's Navaratnas became legendary in Hindustani music?"
+    }
+  ]
+}

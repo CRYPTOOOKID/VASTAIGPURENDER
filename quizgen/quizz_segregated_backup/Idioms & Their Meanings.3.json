@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"jump on the bandwagon\" mean socially?",
+      "options": [
+        "Join a popular activity or trend",
+        "Start a musical parade",
+        "Criticize group behavior"
+      ],
+      "answer": "Join a popular activity or trend"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom best replaces \"to fully trust someone's intentions\"?",
+      "options": [
+        "Take at face value",
+        "Make a long story short",
+        "Burn the midnight oil"
+      ],
+      "answer": "Take at face value"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom most clearly functions as a hyperbole to emphasize difficulty?",
+      "options": [
+        "Climb Mount Everest",
+        "Cost an arm and a leg",
+        "Play it by ear"
+      ],
+      "answer": "Cost an arm and a leg"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"saved by the bell\" commonly mean?",
+      "options": [
+        "Rescued at the last moment",
+        "Woken by an alarm",
+        "Avoided a boxing match"
+      ],
+      "answer": "Rescued at the last moment"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom best fits negotiating when both sides compromise?",
+      "options": [
+        "Meet halfway",
+        "Cut the mustard",
+        "Pull someone's leg"
+      ],
+      "answer": "Meet halfway"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom shows avoidance by indirect speech, a politeness strategy?",
+      "options": [
+        "Beat around the bush",
+        "Take the bull by the horns",
+        "Call the shots"
+      ],
+      "answer": "Beat around the bush"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"the ball is in your court\" mean?",
+      "options": [
+        "It is your turn to act",
+        "You own a sports facility",
+        "The game has ended"
+      ],
+      "answer": "It is your turn to act"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom means \"to give up a position or status voluntarily\"?",
+      "options": [
+        "Step down",
+        "Hang in there",
+        "Keep your nose clean"
+      ],
+      "answer": "Step down"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom exemplifies antonomasia when a proper name replaces a general concept?",
+      "options": [
+        "A Judas",
+        "Rock the boat",
+        "Knife-edge"
+      ],
+      "answer": "A Judas"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"break the ice\" mean in social contexts?",
+      "options": [
+        "Start a conversation or ease tension",
+        "Shatter a piece of ice physically",
+        "End a formal agreement"
+      ],
+      "answer": "Start a conversation or ease tension"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom suggests \"be cautious with words to avoid offense\"?",
+      "options": [
+        "Watch your tongue",
+        "Break the bank",
+        "Break a leg"
+      ],
+      "answer": "Watch your tongue"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom demonstrates prolepsis by mentioning outcome before process completion?",
+      "options": [
+        "Count your chickens before they hatch",
+        "Hit the ground running",
+        "On cloud nine"
+      ],
+      "answer": "Count your chickens before they hatch"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"bite the bullet\" mean when used conversationally?",
+      "options": [
+        "Accept an unpleasant task bravely",
+        "Chew a metal object for courage",
+        "Refuse medical treatment"
+      ],
+      "answer": "Accept an unpleasant task bravely"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom signals \"someone showing false friendliness for gain\"?",
+      "options": [
+        "Fawn over",
+        "Break even",
+        "Go ballistic"
+      ],
+      "answer": "Fawn over"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom shows ironic understatement (litotes) in everyday speech?",
+      "options": [
+        "Not bad",
+        "Pull the plug",
+        "Hit the nail on the head"
+      ],
+      "answer": "Not bad"
+    }
+  ]
+}

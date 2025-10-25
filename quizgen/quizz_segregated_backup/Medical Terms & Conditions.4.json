@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which organ does the term 'renal' refer to in medical contexts?",
+      "options": [
+        "Kidneys",
+        "Lungs",
+        "Liver"
+      ],
+      "answer": "Kidneys"
+    },
+    {
+      "question_id": 2,
+      "question": "Which congenital heart defect allows oxygenated and deoxygenated blood to mix through a PDA?",
+      "options": [
+        "Patent ductus arteriosus",
+        "Ventricular septal defect",
+        "Tetralogy of Fallot"
+      ],
+      "answer": "Patent ductus arteriosus"
+    },
+    {
+      "question_id": 3,
+      "question": "Which genetic mutation most commonly causes cystic fibrosis in Caucasian populations?",
+      "options": [
+        "ΔF508 deletion in CFTR gene",
+        "Point mutation in BRCA1 gene",
+        "Trinucleotide repeat expansion in HTT gene"
+      ],
+      "answer": "ΔF508 deletion in CFTR gene"
+    },
+    {
+      "question_id": 4,
+      "question": "Which imaging method uses magnetic fields to visualize internal structures?",
+      "options": [
+        "Magnetic resonance imaging",
+        "X-ray radiography",
+        "Ultrasound scanning"
+      ],
+      "answer": "Magnetic resonance imaging"
+    },
+    {
+      "question_id": 5,
+      "question": "Which autoimmune thyroid disorder commonly causes hyperthyroidism with exophthalmos?",
+      "options": [
+        "Graves disease",
+        "Hashimoto thyroiditis",
+        "Subacute thyroiditis"
+      ],
+      "answer": "Graves disease"
+    },
+    {
+      "question_id": 6,
+      "question": "Which lipid abnormality characterizes familial hypercholesterolemia with early atherosclerosis risk?",
+      "options": [
+        "Very high LDL cholesterol due to LDL receptor mutation",
+        "Low HDL due to CETP mutation",
+        "Elevated triglycerides from LPL deficiency"
+      ],
+      "answer": "Very high LDL cholesterol due to LDL receptor mutation"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the primary symptom of influenza that distinguishes it from a common cold?",
+      "options": [
+        "Sudden high fever and body aches",
+        "Runny nose only",
+        "Persistent rash"
+      ],
+      "answer": "Sudden high fever and body aches"
+    },
+    {
+      "question_id": 8,
+      "question": "Which virus family includes the causative agent of chickenpox and shingles?",
+      "options": [
+        "Herpesviridae",
+        "Paramyxoviridae",
+        "Orthomyxoviridae"
+      ],
+      "answer": "Herpesviridae"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare metabolic condition causes copper accumulation causing hepatic and neurological symptoms?",
+      "options": [
+        "Wilson disease",
+        "Hemochromatosis",
+        "Alpha-1 antitrypsin deficiency"
+      ],
+      "answer": "Wilson disease"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the common term for 'cerebrovascular accident' in everyday language?",
+      "options": [
+        "Stroke",
+        "Seizure",
+        "Migraine"
+      ],
+      "answer": "Stroke"
+    },
+    {
+      "question_id": 11,
+      "question": "Which autoimmune disease primarily targets the neuromuscular junction causing weakness?",
+      "options": [
+        "Myasthenia gravis",
+        "Multiple sclerosis",
+        "Rheumatoid arthritis"
+      ],
+      "answer": "Myasthenia gravis"
+    },
+    {
+      "question_id": 12,
+      "question": "Which parasitic infection is diagnosed by trophozoites in stool and causes persistent watery diarrhea?",
+      "options": [
+        "Giardia lamblia infection",
+        "Entamoeba histolytica infection",
+        "Taenia solium infection"
+      ],
+      "answer": "Giardia lamblia infection"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'BP' commonly stand for in routine vital signs recorded by clinicians?",
+      "options": [
+        "Blood pressure",
+        "Bowel perforation",
+        "Body posture"
+      ],
+      "answer": "Blood pressure"
+    },
+    {
+      "question_id": 14,
+      "question": "Which laboratory value defines polycythemia by showing elevated hematocrit levels?",
+      "options": [
+        "High hematocrit above normal range",
+        "Low mean corpuscular volume",
+        "Low platelet count"
+      ],
+      "answer": "High hematocrit above normal range"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific antibody is pathognomonic for primary biliary cholangitis commonly measured clinically?",
+      "options": [
+        "Anti-mitochondrial antibody",
+        "Anti-dsDNA antibody",
+        "Anti-centromere antibody"
+      ],
+      "answer": "Anti-mitochondrial antibody"
+    }
+  ]
+}

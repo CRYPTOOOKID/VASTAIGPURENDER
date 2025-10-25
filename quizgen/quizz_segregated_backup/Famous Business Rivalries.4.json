@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which tech rivalry involved search engines competing for online advertising?",
+      "options": [
+        "Google and Microsoft",
+        "Yahoo and AOL",
+        "Bing and DuckDuckGo"
+      ],
+      "answer": "Google and Microsoft"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company introduced New Coke in 1985 during its rivalry with Pepsi?",
+      "options": [
+        "Coca-Cola",
+        "Pepsi",
+        "Dr Pepper"
+      ],
+      "answer": "Coca-Cola"
+    },
+    {
+      "question_id": 3,
+      "question": "Which early online auction rivalry saw eBay acquire which competitor to consolidate dominance?",
+      "options": [
+        "PayPal acquired by eBay",
+        "Amazon acquired eBay",
+        "eBay acquired Craigslist"
+      ],
+      "answer": "PayPal acquired by eBay"
+    },
+    {
+      "question_id": 4,
+      "question": "Which carmaker upset Ferrari at Le Mans with the GT40 program?",
+      "options": [
+        "Ford",
+        "Chevrolet",
+        "Porsche"
+      ],
+      "answer": "Ford"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company surprised rivals by launching a streaming-first strategy and original content in 2007?",
+      "options": [
+        "Netflix",
+        "Hulu",
+        "Amazon"
+      ],
+      "answer": "Netflix"
+    },
+    {
+      "question_id": 6,
+      "question": "Which campaign in 1975 used televised blind taste tests to shift cola market perceptions?",
+      "options": [
+        "Pepsi Challenge",
+        "Coke Taste Test",
+        "RC Cola Promotion"
+      ],
+      "answer": "Pepsi Challenge"
+    },
+    {
+      "question_id": 7,
+      "question": "Which two companies are often compared for their consumer electronics ecosystems?",
+      "options": [
+        "Apple and Samsung",
+        "LG and Sony",
+        "Panasonic and Sharp"
+      ],
+      "answer": "Apple and Samsung"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company introduced the Whopper in 1957, a key product in burger rivalries?",
+      "options": [
+        "Burger King",
+        "McDonald\u000027s",
+        "Wendy\u000027s"
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company introduced the first mass-market home console to beat Atari but later lost share to which rival?",
+      "options": [
+        "Nintendo later losing to Sega and Sony",
+        "Sega later losing to Nintendo",
+        "Sony later losing to Microsoft"
+      ],
+      "answer": "Nintendo later losing to Sega and Sony"
+    },
+    {
+      "question_id": 10,
+      "question": "Which rivalry involved Sony creating a new gaming platform after a cancelled Nintendo collaboration?",
+      "options": [
+        "Sony and Nintendo",
+        "Sony and Sega",
+        "Nintendo and Sega"
+      ],
+      "answer": "Sony and Nintendo"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coffee company expanded with a successful loyalty and store model competing with Dunkin'?",
+      "options": [
+        "Starbucks",
+        "Peet\u000027s",
+        "Caribou"
+      ],
+      "answer": "Starbucks"
+    },
+    {
+      "question_id": 12,
+      "question": "Which streaming competitor launched a notable ad campaign attacking Netflix\u000027s content model involving which company?",
+      "options": [
+        "Hulu",
+        "Disney+",
+        "HBO Max"
+      ],
+      "answer": "Hulu"
+    },
+    {
+      "question_id": 13,
+      "question": "Which two companies are known for rivalry in semiconductor CPUs for PCs?",
+      "options": [
+        "Intel and AMD",
+        "ARM and Qualcomm",
+        "NVIDIA and Intel"
+      ],
+      "answer": "Intel and AMD"
+    },
+    {
+      "question_id": 14,
+      "question": "Which rivalry included Oracle\u000027s hostile acquisition battles for which enterprise software firm?",
+      "options": [
+        "PeopleSoft",
+        "Salesforce",
+        "Infor"
+      ],
+      "answer": "PeopleSoft"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major supermarket chain declined to buy a stake in Amazon in the late 1990s, missing an early rivalry chance?",
+      "options": [
+        "Kmart",
+        "Walmart",
+        "Target"
+      ],
+      "answer": "Kmart"
+    }
+  ]
+}

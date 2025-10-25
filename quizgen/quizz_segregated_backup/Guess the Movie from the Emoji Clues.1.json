@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '🦖🌴'?",
+      "options": [
+        "Jurassic Park",
+        "King Kong",
+        "Ice Age"
+      ],
+      "answer": "Jurassic Park"
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '👩‍👧‍👦🛣️🚐'?",
+      "options": [
+        "Little Miss Sunshine",
+        "The Goonies",
+        "National Lampoon's Vacation"
+      ],
+      "answer": "Little Miss Sunshine"
+    },
+    {
+      "question_id": 3,
+      "question": "Which movie fits '🧭🌊💡' about navigating by a single guiding light?",
+      "options": [
+        "The Lighthouse",
+        "All Is Lost",
+        "Life of Pi"
+      ],
+      "answer": "The Lighthouse"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '🌪️👠'?",
+      "options": [
+        "The Wizard of Oz",
+        "Twister",
+        "The Hurricane"
+      ],
+      "answer": "The Wizard of Oz"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🧊👑👧'?",
+      "options": [
+        "Frozen",
+        "The Chronicles of Narnia",
+        "The Queen"
+      ],
+      "answer": "Frozen"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie fits '🎪🎩🤡' about a historical circus?",
+      "options": [
+        "The Greatest Showman",
+        "Water for Elephants",
+        "The Elephant Man"
+      ],
+      "answer": "The Greatest Showman"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🤖🕶️'?",
+      "options": [
+        "I, Robot",
+        "The Matrix",
+        "Terminator"
+      ],
+      "answer": "I, Robot"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '🕰️🛰️👨'?",
+      "options": [
+        "Interstellar",
+        "The Martian",
+        "Gravity"
+      ],
+      "answer": "Interstellar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '👩‍🚀🧊🛰️' involving frozen space discovery?",
+      "options": [
+        "Sunshine",
+        "Alien: Covenant",
+        "Europa Report"
+      ],
+      "answer": "Europa Report"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '🦸‍♂️🕶️'?",
+      "options": [
+        "Iron Man",
+        "Superman",
+        "Batman"
+      ],
+      "answer": "Iron Man"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🏜️🔫🤠'?",
+      "options": [
+        "No Country for Old Men",
+        "The Good, the Bad and the Ugly",
+        "Django Unchained"
+      ],
+      "answer": "The Good, the Bad and the Ugly"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🎒🔫👦' depicting boyhood adventure with weapon motif?",
+      "options": [
+        "Stand by Me",
+        "The Goonies",
+        "Home Alone"
+      ],
+      "answer": "The Goonies"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '🦁👑'?",
+      "options": [
+        "The Lion King",
+        "King Kong",
+        "Brave"
+      ],
+      "answer": "The Lion King"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue sequence '🧠💤🔁'?",
+      "options": [
+        "Inception",
+        "Memento",
+        "Eternal Sunshine of the Spotless Mind"
+      ],
+      "answer": "Inception"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie fits '☠️🏴‍☠️💰' about a cursed pirate treasure?",
+      "options": [
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Cutthroat Island",
+        "Treasure Planet"
+      ],
+      "answer": "Pirates of the Caribbean: The Curse of the Black Pearl"
+    }
+  ]
+}

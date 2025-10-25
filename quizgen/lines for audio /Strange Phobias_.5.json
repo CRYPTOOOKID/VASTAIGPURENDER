@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does ablutophobia refer to?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia is the fear of hair or touching hair sometimes found in grooming avoidance?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia's clinical status remains debated but shows measurable discomfort in lab images?"
+    },
+    {
+      "question_id": 4,
+      "question": "Alektorophobia is a fear of what animal?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia term indicates fear of crossing thresholds or doorways in transit?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phobia was highlighted in surveys as a common modern anxiety about losing digital connectivity?"
+    },
+    {
+      "question_id": 7,
+      "question": "Omphalophobia describes fear of what body part?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes fear specifically tied to clowns in entertainment contexts?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia name literally means fear of red and has historical symbolic associations?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does arachibutyrophobia refer to?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unusual phobia name originates from a 1980s cartoon as a joke about ducks?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which rare phobia name derives from Greek roots meaning 'peanut' and 'butter' combined?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia name humorously denotes fear of long words?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phobia describes fear of being without internet access or phone signal?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia has been examined via neuroimaging to compare fear circuitry activation?"
+    }
+  ]
+}

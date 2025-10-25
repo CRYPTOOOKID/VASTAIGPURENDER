@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the name of India's first indigenously built aircraft carrier commissioned in 2022?",
+      "options": [
+        "INS Vikrant",
+        "INS Vikramaditya",
+        "INS Viraat"
+      ],
+      "answer": "INS Vikrant"
+    },
+    {
+      "question_id": 2,
+      "question": "Which ship class forms the backbone of India's blue-water destroyer force?",
+      "options": [
+        "Kolkata-class destroyers",
+        "Shivalik-class frigates",
+        "Kamorta-class corvettes"
+      ],
+      "answer": "Kolkata-class destroyers"
+    },
+    {
+      "question_id": 3,
+      "question": "Which defence electronics company developed naval radar and communication systems for frontline ships?",
+      "options": [
+        "Bharat Electronics Limited",
+        "Hindustan Aeronautics Limited",
+        "Bharat Dynamics Limited"
+      ],
+      "answer": "Bharat Electronics Limited"
+    },
+    {
+      "question_id": 4,
+      "question": "Which organization leads defence research and development in India?",
+      "options": [
+        "DRDO",
+        "ISRO",
+        "CSIR"
+      ],
+      "answer": "DRDO"
+    },
+    {
+      "question_id": 5,
+      "question": "Which operation secured the Siachen Glacier for India in 1984?",
+      "options": [
+        "Operation Meghdoot",
+        "Operation Vijay",
+        "Operation Cactus"
+      ],
+      "answer": "Operation Meghdoot"
+    },
+    {
+      "question_id": 6,
+      "question": "Which indigenous sonar project led to the development of hull-mounted sonar for Indian frigates?",
+      "options": [
+        "USBL/USN sonar collaboration under DRDO projects",
+        "BEL-origin sonar initiatives like HUMSA",
+        "Foreign off-the-shelf purchases only"
+      ],
+      "answer": "BEL-origin sonar initiatives like HUMSA"
+    },
+    {
+      "question_id": 7,
+      "question": "Which corps in the Indian Army specializes in engineering and infrastructure?",
+      "options": [
+        "Corps of Engineers",
+        "Medical Corps",
+        "Signals Corps"
+      ],
+      "answer": "Corps of Engineers"
+    },
+    {
+      "question_id": 8,
+      "question": "Which river crossing and bridging capability belongs to which corps in the Army?",
+      "options": [
+        "Corps of Engineers",
+        "Corps of Signals",
+        "Army Service Corps"
+      ],
+      "answer": "Corps of Engineers"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian airborne operation in 1971 aimed at securing Sylhet area involved paratroopers in Bangladesh theatre?",
+      "options": [
+        "Tangail and Sylhet airborne operations by Indian paratroopers",
+        "Operation Meghdoot",
+        "Operation Vijay"
+      ],
+      "answer": "Tangail and Sylhet airborne operations by Indian paratroopers"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the Indian Army’s ceremonial mounted unit that serves the President?",
+      "options": [
+        "President's Bodyguard",
+        "Maratha Light Cavalry",
+        "Brigade of Guards"
+      ],
+      "answer": "President's Bodyguard"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian Navy missile attack on Karachi in 1971 was called Operation Trident or Operation Python?",
+      "options": [
+        "Operation Trident",
+        "Operation Meghdoot",
+        "Operation Vijay"
+      ],
+      "answer": "Operation Trident"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian Army regiment traces its lineage to the colonial-era Poona Horse cavalry?",
+      "options": [
+        "Poona Horse",
+        "Sikhs Regiment",
+        "Rajput Regiment"
+      ],
+      "answer": "Poona Horse"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian Navy ship is an example of an aircraft carrier in service?",
+      "options": [
+        "INS Vikramaditya",
+        "INS Kolkata",
+        "INS Karmuk"
+      ],
+      "answer": "INS Vikramaditya"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian Air Force aircraft conducted precision strikes during the Balakot airstrike in 2019?",
+      "options": [
+        "Mirage 2000",
+        "Tejas",
+        "Su-30MKI"
+      ],
+      "answer": "Mirage 2000"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Navy base in Visakhapatnam serves as a major Eastern Fleet hub?",
+      "options": [
+        "Eastern Naval Command at Visakhapatnam",
+        "Western Naval Command",
+        "Southern Naval Command"
+      ],
+      "answer": "Eastern Naval Command at Visakhapatnam"
+    }
+  ]
+}

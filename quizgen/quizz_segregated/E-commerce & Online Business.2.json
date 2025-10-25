@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'cart abandonment'?",
+      "options": [
+        "When a seller cancels an order before shipping",
+        "When a cart is stolen from a warehouse",
+        "When shoppers leave without completing checkout"
+      ],
+      "answer": "When shoppers leave without completing checkout"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'inventory turnover' measuring for retailers?",
+      "options": [
+        "Average time for customer support replies",
+        "How often stock sells and is replaced",
+        "Number of SKUs listed monthly"
+      ],
+      "answer": "How often stock sells and is replaced"
+    },
+    {
+      "question_id": 3,
+      "question": "What role does 'idempotency' play in payment APIs?",
+      "options": [
+        "Automatically converts currencies on checkout",
+        "Prevents duplicate charges by safely retrying requests",
+        "Ensures payments always use the same gateway"
+      ],
+      "answer": "Prevents duplicate charges by safely retrying requests"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company is known for the 'Buy Box' in online marketplaces?",
+      "options": [
+        "Shopify",
+        "Amazon",
+        "Walmart Stores"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'subscription commerce' primarily?",
+      "options": [
+        "Providing free trials without payments",
+        "Selling only single-use products",
+        "Selling recurring delivery or access for a fee"
+      ],
+      "answer": "Selling recurring delivery or access for a fee"
+    },
+    {
+      "question_id": 6,
+      "question": "Which legal consideration affects cross-border e-commerce pricing and checkout?",
+      "options": [
+        "Local VAT, duties, and required customs declarations",
+        "Using the same SKU across all markets without localization",
+        "Only accepting cash on delivery globally"
+      ],
+      "answer": "Local VAT, duties, and required customs declarations"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'multichannel selling'?",
+      "options": [
+        "Selling only on the company website",
+        "Selling on multiple online platforms simultaneously",
+        "Selling through a single physical store only"
+      ],
+      "answer": "Selling on multiple online platforms simultaneously"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the purpose of '3D Secure' in card payments?",
+      "options": [
+        "Add an authentication layer to reduce fraud",
+        "Encrypt shipment labels",
+        "Calculate cross-border VAT"
+      ],
+      "answer": "Add an authentication layer to reduce fraud"
+    },
+    {
+      "question_id": 9,
+      "question": "Which inventory strategy minimizes stockouts while reducing holding costs?",
+      "options": [
+        "Just-in-time replenishment",
+        "Randomized restocking",
+        "Permanent overstocking"
+      ],
+      "answer": "Just-in-time replenishment"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'dropshipping' in e-commerce?",
+      "options": [
+        "A program for recycling returned goods",
+        "A model where suppliers ship products directly to customers",
+        "A method of shipping oversized items only"
+      ],
+      "answer": "A model where suppliers ship products directly to customers"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'affiliate cookie attribution' used for?",
+      "options": [
+        "Store customer return reasons",
+        "Encrypt credit card details",
+        "Track which affiliate referred a purchase"
+      ],
+      "answer": "Track which affiliate referred a purchase"
+    },
+    {
+      "question_id": 12,
+      "question": "Which supply chain innovation uses blockchain for provenance tracking?",
+      "options": [
+        "Immutable ledger recording product history",
+        "Dynamic price negotiation between buyers",
+        "Automated warehouse shelving robots"
+      ],
+      "answer": "Immutable ledger recording product history"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'retargeting' in online advertising?",
+      "options": [
+        "Ads that follow users who visited a website",
+        "Switching payment gateways",
+        "Launching a new website version"
+      ],
+      "answer": "Ads that follow users who visited a website"
+    },
+    {
+      "question_id": 14,
+      "question": "Which protocol replaced SSL for secure web connections?",
+      "options": [
+        "HTTP/2",
+        "FTP",
+        "TLS"
+      ],
+      "answer": "TLS"
+    },
+    {
+      "question_id": 15,
+      "question": "What is 'progressive web app' (PWA) benefit for e-commerce?",
+      "options": [
+        "App-like experience with offline caching and faster loads",
+        "Replaces all server-side payment processing",
+        "Automatically fulfills returns"
+      ],
+      "answer": "App-like experience with offline caching and faster loads"
+    }
+  ]
+}

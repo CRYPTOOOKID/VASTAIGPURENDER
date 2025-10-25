@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the city of Constantinople formally renamed Istanbul by Turkish authorities?",
+      "options": [
+        "1930",
+        "1923",
+        "1918"
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 2,
+      "question": "When was the Edict of Caracalla (Constitutio Antoniniana) granting Roman citizenship to many free men?",
+      "options": [
+        "212",
+        "193",
+        "217"
+      ],
+      "answer": "212"
+    },
+    {
+      "question_id": 3,
+      "question": "What year did the Peace of Augsburg permit rulers to choose Lutheranism or Catholicism in the Holy Roman Empire?",
+      "options": [
+        "1555",
+        "1517",
+        "1568"
+      ],
+      "answer": "1555"
+    },
+    {
+      "question_id": 4,
+      "question": "Which year did the Tanzimat reforms begin in the Ottoman Empire, modernizing its institutions?",
+      "options": [
+        "1839",
+        "1856",
+        "1826"
+      ],
+      "answer": "1839"
+    },
+    {
+      "question_id": 5,
+      "question": "What year did the Congress of Vienna conclude, reshaping Europe after the Napoleonic Wars?",
+      "options": [
+        "1815",
+        "1814",
+        "1820"
+      ],
+      "answer": "1815"
+    },
+    {
+      "question_id": 6,
+      "question": "What year did the Taiping Rebellion, one of the deadliest conflicts, begin in China?",
+      "options": [
+        "1850",
+        "1840",
+        "1860"
+      ],
+      "answer": "1850"
+    },
+    {
+      "question_id": 7,
+      "question": "When was the Treaty of Nanking signed, ending the First Opium War and ceding Hong Kong to Britain?",
+      "options": [
+        "1842",
+        "1839",
+        "1856"
+      ],
+      "answer": "1842"
+    },
+    {
+      "question_id": 8,
+      "question": "What year marks the official start of the Safavid dynasty in Persia under Shah Ismail I?",
+      "options": [
+        "1501",
+        "1487",
+        "1524"
+      ],
+      "answer": "1501"
+    },
+    {
+      "question_id": 9,
+      "question": "What year did the Library of Alexandria suffer a major destructive event often dated by historians?",
+      "options": [
+        "48 BCE",
+        "391 CE",
+        "642 CE"
+      ],
+      "answer": "48 BCE"
+    },
+    {
+      "question_id": 10,
+      "question": "In what year did the Great Mutiny (Indian Rebellion) against British rule begin?",
+      "options": [
+        "1857",
+        "1849",
+        "1865"
+      ],
+      "answer": "1857"
+    },
+    {
+      "question_id": 11,
+      "question": "What year did the French Revolution's Reign of Terror peak with mass executions under the Committee of Public Safety?",
+      "options": [
+        "1793",
+        "1789",
+        "1799"
+      ],
+      "answer": "1793"
+    },
+    {
+      "question_id": 12,
+      "question": "In what year did the Glorious Revolution depose James II and bring William and Mary to the throne?",
+      "options": [
+        "1688",
+        "1679",
+        "1702"
+      ],
+      "answer": "1688"
+    },
+    {
+      "question_id": 13,
+      "question": "What year did the Act of Supremacy declare the English monarch head of the Church of England?",
+      "options": [
+        "1534",
+        "1547",
+        "1559"
+      ],
+      "answer": "1534"
+    },
+    {
+      "question_id": 14,
+      "question": "What year did the Glorious Revolution lead to the Bill of Rights in England, shaping parliamentary sovereignty?",
+      "options": [
+        "1689",
+        "1695",
+        "1701"
+      ],
+      "answer": "1689"
+    },
+    {
+      "question_id": 15,
+      "question": "Which year did the Treaty of Kanagawa open Japan to American trade under Commodore Perry?",
+      "options": [
+        "1854",
+        "1845",
+        "1868"
+      ],
+      "answer": "1854"
+    }
+  ]
+}

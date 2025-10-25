@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Taj Mahal, Mumbai, Bollywood — Which country?",
+      "options": [
+        "Pakistan",
+        "Bangladesh",
+        "India"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Fjords, Stave churches, Edvard Grieg — Which country?",
+      "options": [
+        "Finland",
+        "Sweden",
+        "Norway"
+      ],
+      "answer": "Norway"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Former French Indochina, Mekong Delta agriculture, Ho Chi Minh City history — Which country?",
+      "options": [
+        "Cambodia",
+        "Vietnam",
+        "Laos"
+      ],
+      "answer": "Vietnam"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Eiffel Tower, baguette, Seine River — Which country?",
+      "options": [
+        "France",
+        "Spain",
+        "Italy"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Silicon Fen, Cambridge University, UK research hub — Which country?",
+      "options": [
+        "Ireland",
+        "United States",
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Caucasus republic, Mount Kazbek proximity, Tbilisi ancient sulfur baths — Which country?",
+      "options": [
+        "Azerbaijan",
+        "Armenia",
+        "Georgia"
+      ],
+      "answer": "Georgia"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Maple leaf flag, Justin Trudeau, Ottawa — Which country?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Canada"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Patagonia's Perito Moreno, Buenos Aires, gauchos — Which country?",
+      "options": [
+        "Chile",
+        "Argentina",
+        "Uruguay"
+      ],
+      "answer": "Argentina"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Transnistria separatist region, Moldova capital Chișinău, wine traditions — Which country?",
+      "options": [
+        "Ukraine",
+        "Moldova",
+        "Romania"
+      ],
+      "answer": "Moldova"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Kangaroo, Sydney Opera House, Uluru — Which country?",
+      "options": [
+        "New Zealand",
+        "South Africa",
+        "Australia"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Tulip fields, windmills, Rijksmuseum — Which country?",
+      "options": [
+        "Belgium",
+        "Denmark",
+        "Netherlands"
+      ],
+      "answer": "Netherlands"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Island of Hokkaido, Sapporo snow festival, Ainu indigenous culture — Which country?",
+      "options": [
+        "Russia",
+        "Japan",
+        "South Korea"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Dubai, Burj Khalifa, Arabian Desert — Which country?",
+      "options": [
+        "United Arab Emirates",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "answer": "United Arab Emirates"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Coffee plantations, Medellín, Colombian emeralds — Which country?",
+      "options": [
+        "Ecuador",
+        "Venezuela",
+        "Colombia"
+      ],
+      "answer": "Colombia"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Siachen proximity, Ladakh region, Himalaya passes — Which country?",
+      "options": [
+        "Nepal",
+        "India",
+        "Pakistan"
+      ],
+      "answer": "India"
+    }
+  ]
+}

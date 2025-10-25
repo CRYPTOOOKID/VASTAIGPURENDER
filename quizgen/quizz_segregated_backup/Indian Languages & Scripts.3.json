@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian language is associated with the epic Ramcharitmanas by Tulsidas?",
+      "options": [
+        "Awadhi dialect of Hindi",
+        "Tamil",
+        "Sanskrit"
+      ],
+      "answer": "Awadhi dialect of Hindi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which language's script was reintroduced officially in Manipur in the 20th century?",
+      "options": [
+        "Meitei Mayek",
+        "Roman script",
+        "Kannada"
+      ],
+      "answer": "Meitei Mayek"
+    },
+    {
+      "question_id": 3,
+      "question": "Which medieval Sanskrit dramatist's works influenced regional performance languages across India?",
+      "options": [
+        "Kālidāsa",
+        "Bhavabhuti",
+        "Bharavi"
+      ],
+      "answer": "Kālidāsa"
+    },
+    {
+      "question_id": 4,
+      "question": "Which script is native to the Malayalam language?",
+      "options": [
+        "Malayalam",
+        "Telugu",
+        "Gujarati"
+      ],
+      "answer": "Malayalam"
+    },
+    {
+      "question_id": 5,
+      "question": "Which modern Indian script was standardized by Guru Angad for Sikh scripture?",
+      "options": [
+        "Gurmukhi",
+        "Devanagari",
+        "Shahmukhi"
+      ],
+      "answer": "Gurmukhi"
+    },
+    {
+      "question_id": 6,
+      "question": "Which early modern literary language used the Perso-Arabic script called Shahmukhi in parts of Punjab?",
+      "options": [
+        "Punjabi",
+        "Marathi",
+        "Odia"
+      ],
+      "answer": "Punjabi"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script is used by the Bodo language officially in Assam?",
+      "options": [
+        "Devanagari",
+        "Bengali",
+        "Ol Chiki"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 8,
+      "question": "Which language uses the Meitei Mayek script historically before Bengali script adoption?",
+      "options": [
+        "Meitei (Manipuri)",
+        "Mizo",
+        "Khandeshi"
+      ],
+      "answer": "Meitei (Manipuri)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script evolved into the modern Gujarati script by dropping which element present in Devanagari?",
+      "options": [
+        "The top horizontal line (shirorekha)",
+        "Vowel diacritics",
+        "Conjuncts"
+      ],
+      "answer": "The top horizontal line (shirorekha)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which script did early Ashokan inscriptions use?",
+      "options": [
+        "Brahmi",
+        "Devanagari",
+        "Kharosthi"
+      ],
+      "answer": "Brahmi"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script reformer is credited with modern Malayalam script standardization in the 20th century?",
+      "options": [
+        "K. P. Kesava Menon",
+        "Dwarakanath Tagore",
+        "Pandit Ravi Shankar"
+      ],
+      "answer": "K. P. Kesava Menon"
+    },
+    {
+      "question_id": 12,
+      "question": "Which standardized orthography term describes modern Marathi's pronunciation-based spelling?",
+      "options": [
+        "Balbodh",
+        "Hindustani",
+        "Rai Bahadur"
+      ],
+      "answer": "Balbodh"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian language family includes Tibeto-Burman languages in the northeast?",
+      "options": [
+        "Tibeto-Burman",
+        "Indo-Aryan",
+        "Dravidian"
+      ],
+      "answer": "Tibeto-Burman"
+    },
+    {
+      "question_id": 14,
+      "question": "Which script reform in the 19th century affected Marathi orthography removing the schwa ambiguity?",
+      "options": [
+        "Balbodh orthography",
+        "Shahmukhi adoption",
+        "Romanization"
+      ],
+      "answer": "Balbodh orthography"
+    },
+    {
+      "question_id": 15,
+      "question": "Which endangered script recorded several northeastern Tibeto-Burman languages historically?",
+      "options": [
+        "Bodo script variations and undocumented local scripts",
+        "Latin script",
+        "Devanagari only"
+      ],
+      "answer": "Bodo script variations and undocumented local scripts"
+    }
+  ]
+}

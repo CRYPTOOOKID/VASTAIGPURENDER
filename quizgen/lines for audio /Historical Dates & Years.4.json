@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In which year was the United Nations founded?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which year did the Statute of Westminster grant legislative independence to British Dominions?"
+    },
+    {
+      "question_id": 3,
+      "question": "In what year did the Pilgrims land at Plymouth Rock and establish Plymouth Colony?"
+    },
+    {
+      "question_id": 4,
+      "question": "In which year did Napoleon Bonaparte become Emperor of the French?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year saw the formation of NATO as a collective defense alliance?"
+    },
+    {
+      "question_id": 6,
+      "question": "When was the Rosetta Stone engraved, enabling the decipherment of Egyptian hieroglyphs after discovery?"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did Gandhi lead the Salt March against British salt taxes?"
+    },
+    {
+      "question_id": 8,
+      "question": "When was the Edict of Nantes, granting religious toleration in France, issued?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which year did Ferdinand Magellan's expedition begin the first circumnavigation of the globe?"
+    },
+    {
+      "question_id": 10,
+      "question": "In which year did World War I begin?"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Panama Canal officially open for traffic?"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Dutch capture Malacca from the Portuguese, altering Southeast Asian trade control?"
+    },
+    {
+      "question_id": 13,
+      "question": "What year did the United States declare independence?"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did the Cuban Missile Crisis bring the world close to nuclear war?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which year did the Battle of Tours (Poitiers) take place where Charles Martel halted Islamic expansion?"
+    }
+  ]
+}

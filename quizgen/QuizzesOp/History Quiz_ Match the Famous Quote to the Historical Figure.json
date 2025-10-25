@@ -1,0 +1,838 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who famously declared \"I have a dream\" during a 1963 civil rights speech?",
+        "options": [
+          "Martin Luther King Jr.",
+          "Malcolm X",
+          "Rosa Parks"
+        ],
+        "answer": "Martin Luther King Jr."
+      },
+      {
+        "question": "Who said \"The only thing we have to fear is fear itself\" in 1933?",
+        "options": [
+          "Franklin D. Roosevelt",
+          "Herbert Hoover",
+          "Warren G. Harding"
+        ],
+        "answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who uttered \"That's one small step for a man, one giant leap for mankind\"?",
+        "options": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Yuri Gagarin"
+        ],
+        "answer": "Neil Armstrong"
+      },
+      {
+        "question": "Which leader shouted \"Give me liberty or give me death\" in 1775?",
+        "options": [
+          "Patrick Henry",
+          "George Washington",
+          "Thomas Jefferson"
+        ],
+        "answer": "Patrick Henry"
+      },
+      {
+        "question": "Who wrote \"Veni, vidi, vici\" after a swift Roman victory?",
+        "options": [
+          "Julius Caesar",
+          "Marcus Aurelius",
+          "Augustus Caesar"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Who said \"Ask not what your country can do for you\" in 1961?",
+        "options": [
+          "John F. Kennedy",
+          "Richard Nixon",
+          "Lyndon B. Johnson"
+        ],
+        "answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which British leader declared \"We shall fight on the beaches\" in 1940?",
+        "options": [
+          "Winston Churchill",
+          "Neville Chamberlain",
+          "Clement Attlee"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Who opened a famed address with \"Four score and seven years ago\"?",
+        "options": [
+          "Abraham Lincoln",
+          "Ulysses S. Grant",
+          "Andrew Johnson"
+        ],
+        "answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who said \"I think, therefore I am\" in philosophical writings?",
+        "options": [
+          "René Descartes",
+          "Immanuel Kant",
+          "John Locke"
+        ],
+        "answer": "René Descartes"
+      },
+      {
+        "question": "Which scientist said \"Imagination is more important than knowledge\"?",
+        "options": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Niels Bohr"
+        ],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "Who declared \"Mr. Gorbachev, tear down this wall!\" in 1987?",
+        "options": [
+          "Ronald Reagan",
+          "Jimmy Carter",
+          "George H. W. Bush"
+        ],
+        "answer": "Ronald Reagan"
+      },
+      {
+        "question": "Which Roman philosopher said \"The unexamined life is not worth living\"?",
+        "options": [
+          "Socrates",
+          "Plato",
+          "Aristotle"
+        ],
+        "answer": "Socrates"
+      },
+      {
+        "question": "Who wrote \"Give me liberty, or give me death!\" in a speech to Virginia delegates?",
+        "options": [
+          "Patrick Henry",
+          "Thomas Paine",
+          "James Madison"
+        ],
+        "answer": "Patrick Henry"
+      },
+      {
+        "question": "Who famously said \"Let them eat cake\" is popularly attributed to which figure?",
+        "options": [
+          "Marie Antoinette",
+          "Catherine the Great",
+          "Queen Victoria"
+        ],
+        "answer": "Marie Antoinette"
+      },
+      {
+        "question": "Who famously stated \"I came, I saw, I conquered\" in Latin?",
+        "options": [
+          "Julius Caesar",
+          "Alexander the Great",
+          "Hannibal Barca"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Who said \"The buck stops here\" as a symbol of presidential responsibility?",
+        "options": [
+          "Harry S. Truman",
+          "Dwight D. Eisenhower",
+          "Herbert Hoover"
+        ],
+        "answer": "Harry S. Truman"
+      },
+      {
+        "question": "Who said \"Workers of the world, unite!\" in a revolutionary pamphlet?",
+        "options": [
+          "Karl Marx",
+          "Vladimir Lenin",
+          "Friedrich Engels"
+        ],
+        "answer": "Karl Marx"
+      },
+      {
+        "question": "Who declared \"Peace for our time\" in 1938 after meeting Hitler?",
+        "options": [
+          "Neville Chamberlain",
+          "Winston Churchill",
+          "Stanley Baldwin"
+        ],
+        "answer": "Neville Chamberlain"
+      },
+      {
+        "question": "Which suffragist said \"Failure is impossible\" during a women’s suffrage campaign?",
+        "options": [
+          "Susan B. Anthony",
+          "Emmeline Pankhurst",
+          "Elizabeth Cady Stanton"
+        ],
+        "answer": "Emmeline Pankhurst"
+      },
+      {
+        "question": "Who said \"The die is cast\" upon crossing the Rubicon River?",
+        "options": [
+          "Julius Caesar",
+          "Pompey",
+          "Marcus Crassus"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Which explorer wrote about \"a new world\" after 1492 voyages to the Americas?",
+        "options": [
+          "Christopher Columbus",
+          "Ferdinand Magellan",
+          "Amerigo Vespucci"
+        ],
+        "answer": "Christopher Columbus"
+      },
+      {
+        "question": "Who exclaimed \"Surrender? I will never surrender\" and led his country in WWII?",
+        "options": [
+          "Winston Churchill",
+          "Charles de Gaulle",
+          "Franklin D. Roosevelt"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Which scientist said \"Nothing in life is to be feared, it is only to be understood\"?",
+        "options": [
+          "Marie Curie",
+          "Jane Goodall",
+          "Rosalind Franklin"
+        ],
+        "answer": "Marie Curie"
+      },
+      {
+        "question": "Who said \"I am the state\" often associated with absolute monarchy?",
+        "options": [
+          "Louis XIV",
+          "Henry VIII",
+          "Philip II"
+        ],
+        "answer": "Louis XIV"
+      },
+      {
+        "question": "Who famously declared \"Give me liberty or give me death\" during a colonial speech?",
+        "options": [
+          "Patrick Henry",
+          "Samuel Adams",
+          "John Adams"
+        ],
+        "answer": "Patrick Henry"
+      },
+      {
+        "question": "Who stated \"The world will little note, nor long remember\" in the Gettysburg Address?",
+        "options": [
+          "Abraham Lincoln",
+          "Ulysses S. Grant",
+          "Robert E. Lee"
+        ],
+        "answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who said \"Speak softly and carry a big stick\" as a foreign policy motto?",
+        "options": [
+          "Theodore Roosevelt",
+          "Woodrow Wilson",
+          "William Howard Taft"
+        ],
+        "answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Which leader declared \"A house divided against itself cannot stand\" in 1858?",
+        "options": [
+          "Abraham Lincoln",
+          "Stephen Douglas",
+          "Jefferson Davis"
+        ],
+        "answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who wrote \"I came, I saw, I conquered\" shortly after victory at Zela?",
+        "options": [
+          "Julius Caesar",
+          "Marcus Aurelius",
+          "Augustus Caesar"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Which activist said \"The only thing necessary for evil to triumph is for good men to do nothing\"?",
+        "options": [
+          "Edmund Burke",
+          "Thomas Paine",
+          "John Locke"
+        ],
+        "answer": "Edmund Burke"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which leader said \"The only limit to our realization of tomorrow is our doubts of today\"?",
+        "options": [
+          "Franklin D. Roosevelt",
+          "John F. Kennedy",
+          "Harry S. Truman"
+        ],
+        "answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who declared \"Paris is worth a mass\" when converting for political reasons?",
+        "options": [
+          "Henry IV of France",
+          "Louis XIII",
+          "Francis I"
+        ],
+        "answer": "Henry IV of France"
+      },
+      {
+        "question": "Which revolutionary wrote \"Give me liberty, or give me death\" in a famous Virginia speech?",
+        "options": [
+          "Patrick Henry",
+          "Thomas Paine",
+          "George Mason"
+        ],
+        "answer": "Patrick Henry"
+      },
+      {
+        "question": "Who said \"You must be the change you wish to see in the world\"?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Bhagat Singh"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which French general said \"I shall return\" about the Philippines during WWII?",
+        "options": [
+          "Douglas MacArthur",
+          "Chester Nimitz",
+          "George Patton"
+        ],
+        "answer": "Douglas MacArthur"
+      },
+      {
+        "question": "Who wrote \"Let them eat cake\" is a famous phrase linked to which royal figure?",
+        "options": [
+          "Marie Antoinette",
+          "Maria Theresa",
+          "Anne of Austria"
+        ],
+        "answer": "Marie Antoinette"
+      },
+      {
+        "question": "Which American president said \"The buck stops here\" placing responsibility in the Oval Office?",
+        "options": [
+          "Harry S. Truman",
+          "Dwight D. Eisenhower",
+          "Herbert Hoover"
+        ],
+        "answer": "Harry S. Truman"
+      },
+      {
+        "question": "Who said \"History is written by the victors\" in discussions of historiography?",
+        "options": [
+          "Winston Churchill",
+          "Napoleon Bonaparte",
+          "George Orwell"
+        ],
+        "answer": "Napoleon Bonaparte"
+      },
+      {
+        "question": "Which suffragist declared \"Failure is impossible\" to rally supporters for votes for women?",
+        "options": [
+          "Emmeline Pankhurst",
+          "Susan B. Anthony",
+          "Millicent Fawcett"
+        ],
+        "answer": "Emmeline Pankhurst"
+      },
+      {
+        "question": "Who wrote \"Blood, toil, tears and sweat\" in his first wartime speech as leader?",
+        "options": [
+          "Winston Churchill",
+          "Neville Chamberlain",
+          "Clement Attlee"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Which conqueror said \"There is nothing new under the sun\" in a philosophical work?",
+        "options": [
+          "Solomon",
+          "Herodotus",
+          "Thucydides"
+        ],
+        "answer": "Solomon"
+      },
+      {
+        "question": "Who famously wrote \"The only thing necessary for the triumph of evil is for good men to do nothing\"?",
+        "options": [
+          "Edmund Burke",
+          "John Stuart Mill",
+          "Thomas Paine"
+        ],
+        "answer": "Edmund Burke"
+      },
+      {
+        "question": "Which leader said \"Peace without victory\" speaking after World War I started in 1917?",
+        "options": [
+          "Woodrow Wilson",
+          "Herbert Hoover",
+          "Warren G. Harding"
+        ],
+        "answer": "Woodrow Wilson"
+      },
+      {
+        "question": "Who wrote \"In the end, we will remember not the words of our enemies but the silence of our friends\"?",
+        "options": [
+          "Martin Luther King Jr.",
+          "Malcolm X",
+          "Ralph Waldo Emerson"
+        ],
+        "answer": "Martin Luther King Jr."
+      },
+      {
+        "question": "Which Italian explorer said his voyages proved the New World was not Asia?",
+        "options": [
+          "Amerigo Vespucci",
+          "Christopher Columbus",
+          "John Cabot"
+        ],
+        "answer": "Amerigo Vespucci"
+      },
+      {
+        "question": "Who declared \"Workers of the world, unite!\" in a widely read 19th-century pamphlet?",
+        "options": [
+          "Karl Marx",
+          "Vladimir Lenin",
+          "Friedrich Engels"
+        ],
+        "answer": "Karl Marx"
+      },
+      {
+        "question": "Which Roman orator wrote \"A nation can survive its fools\" expressing civic sentiment?",
+        "options": [
+          "Marcus Tullius Cicero",
+          "Seneca",
+          "Pliny the Elder"
+        ],
+        "answer": "Marcus Tullius Cicero"
+      },
+      {
+        "question": "Who wrote \"The die is cast\" after a decisive political military crossing in 49 BCE?",
+        "options": [
+          "Julius Caesar",
+          "Brutus",
+          "Pompey"
+        ],
+        "answer": "Julius Caesar"
+      },
+      {
+        "question": "Which American abolitionist declared \"I would unite with anybody to do right and with nobody to do wrong\"?",
+        "options": [
+          "Frederick Douglass",
+          "William Lloyd Garrison",
+          "Harriet Tubman"
+        ],
+        "answer": "Frederick Douglass"
+      },
+      {
+        "question": "Who asserted \"A people that values its privileges above its principles will soon lose both\"?",
+        "options": [
+          "Dwight D. Eisenhower",
+          "Franklin D. Roosevelt",
+          "Theodore Roosevelt"
+        ],
+        "answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which monarch declared \"I will maintain\" as part of a coronation oath in the Tudor era?",
+        "options": [
+          "Henry VIII",
+          "Elizabeth I",
+          "Mary I"
+        ],
+        "answer": "Elizabeth I"
+      },
+      {
+        "question": "Who wrote \"The only thing we have to fear is fear itself\" in his inaugural address?",
+        "options": [
+          "Franklin D. Roosevelt",
+          "Theodore Roosevelt",
+          "Woodrow Wilson"
+        ],
+        "answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which composer and nationalist said \"Music is the shorthand of emotion\" historically attributed to a famous thinker?",
+        "options": [
+          "Leo Tolstoy",
+          "Gustav Mahler",
+          "G. B. Shaw"
+        ],
+        "answer": "G. B. Shaw"
+      },
+      {
+        "question": "Who proclaimed \"The ends justify the means\" is often associated with which political theorist?",
+        "options": [
+          "Niccolò Machiavelli",
+          "Thomas Hobbes",
+          "Jean-Jacques Rousseau"
+        ],
+        "answer": "Niccolò Machiavelli"
+      },
+      {
+        "question": "Which leader declared \"I shall return\" promising to come back to a Pacific colony?",
+        "options": [
+          "Douglas MacArthur",
+          "Franklin D. Roosevelt",
+          "Admiral Halsey"
+        ],
+        "answer": "Douglas MacArthur"
+      },
+      {
+        "question": "Who said \"The medium is the message\" about communication's societal effects in the 20th century?",
+        "options": [
+          "Marshall McLuhan",
+          "Noam Chomsky",
+          "Roland Barthes"
+        ],
+        "answer": "Marshall McLuhan"
+      },
+      {
+        "question": "Which Egyptian leader declared \"Peace for the region must come\" during mid-20th-century diplomacy?",
+        "options": [
+          "Anwar Sadat",
+          "Gamal Abdel Nasser",
+          "Hosni Mubarak"
+        ],
+        "answer": "Anwar Sadat"
+      },
+      {
+        "question": "Who said \"Power corrupts; absolute power corrupts absolutely\" discussing political authority?",
+        "options": [
+          "Lord Acton",
+          "John Locke",
+          "Edmund Burke"
+        ],
+        "answer": "Lord Acton"
+      },
+      {
+        "question": "Which suffragist said \"Men, their rights and nothing more; women, their rights and nothing less\"?",
+        "options": [
+          "Susan B. Anthony",
+          "Elizabeth Cady Stanton",
+          "Lucy Stone"
+        ],
+        "answer": "Susan B. Anthony"
+      },
+      {
+        "question": "Who wrote \"Those who cannot remember the past are condemned to repeat it\" as a historian?",
+        "options": [
+          "George Santayana",
+          "Arthur Schlesinger",
+          "Edward Gibbon"
+        ],
+        "answer": "George Santayana"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Who said \"I am dying beyond my means\" in correspondence reflecting eighteenth-century financial strain?",
+        "options": [
+          "Marie Antoinette",
+          "Louis XVI",
+          "Madame de Pompadour"
+        ],
+        "answer": "Marie Antoinette"
+      },
+      {
+        "question": "Which Ottoman statesman wrote \"Europe is a powder keg\" warning about Balkan tensions?",
+        "options": [
+          "Sultan Abdul Hamid II",
+          "Enver Pasha",
+          "Mehmed Emin Ali Pasha"
+        ],
+        "answer": "Sultan Abdul Hamid II"
+      },
+      {
+        "question": "Who wrote \"I prefer dangerous freedom over peaceful slavery\" during independence debates?",
+        "options": [
+          "Thomas Jefferson",
+          "Simón Bolívar",
+          "José de San Martín"
+        ],
+        "answer": "Simón Bolívar"
+      },
+      {
+        "question": "Which medieval ruler declared \"I am the shepherd of my people\" in papal coronation disputes?",
+        "options": [
+          "Charlemagne",
+          "Otto I",
+          "Henry II"
+        ],
+        "answer": "Charlemagne"
+      },
+      {
+        "question": "Who wrote \"If I had more time, I would have written a shorter letter\" about editing prose?",
+        "options": [
+          "Blaise Pascal",
+          "Voltaire",
+          "Denis Diderot"
+        ],
+        "answer": "Blaise Pascal"
+      },
+      {
+        "question": "Which Japanese daimyo reportedly said \"Rule the Empire by force of arms\" during Sengoku unification?",
+        "options": [
+          "Oda Nobunaga",
+          "Toyotomi Hideyoshi",
+          "Tokugawa Ieyasu"
+        ],
+        "answer": "Oda Nobunaga"
+      },
+      {
+        "question": "Who penned \"The Revolution is not an apple that falls when it is ripe\" about revolutionary timing?",
+        "options": [
+          "Che Guevara",
+          "Fidel Castro",
+          "José Martí"
+        ],
+        "answer": "Che Guevara"
+      },
+      {
+        "question": "Which ancient Chinese philosopher wrote \"He who controls others may be powerful\" in a military treatise?",
+        "options": [
+          "Sun Tzu",
+          "Confucius",
+          "Laozi"
+        ],
+        "answer": "Sun Tzu"
+      },
+      {
+        "question": "Who declared \"My only loyalty is to my country\" facing treason charges in early modern Europe?",
+        "options": [
+          "Sir Thomas More",
+          "Guy Fawkes",
+          "Oliver Cromwell"
+        ],
+        "answer": "Sir Thomas More"
+      },
+      {
+        "question": "Which Renaissance thinker wrote \"Fortune favors the bold\" in a treatise on rulers and risk?",
+        "options": [
+          "Niccolò Machiavelli",
+          "Giovanni Pico della Mirandola",
+          "Marsilio Ficino"
+        ],
+        "answer": "Niccolò Machiavelli"
+      },
+      {
+        "question": "Who wrote \"It is easier to ask forgiveness than permission\" attributed to a pragmatic wartime leader?",
+        "options": [
+          "Grace Hopper",
+          "Winston Churchill",
+          "Eleanor Roosevelt"
+        ],
+        "answer": "Grace Hopper"
+      },
+      {
+        "question": "Which czar declared \"One and indivisible\" to consolidate state authority after rebellion?",
+        "options": [
+          "Peter the Great",
+          "Nicholas I",
+          "Alexander II"
+        ],
+        "answer": "Nicholas I"
+      },
+      {
+        "question": "Who wrote \"Better to die on your feet than live on your knees\" in anti-colonial struggle?",
+        "options": [
+          "Emiliano Zapata",
+          "José Martí",
+          "Pancho Villa"
+        ],
+        "answer": "Emiliano Zapata"
+      },
+      {
+        "question": "Which British admiral told subordinates \"I have not yet begun to fight\" in naval battle?",
+        "options": [
+          "John Paul Jones",
+          "Horatio Nelson",
+          "Francis Drake"
+        ],
+        "answer": "John Paul Jones"
+      },
+      {
+        "question": "Who wrote \"When the facts change, I change my mind\" as a pragmatic economist and historian?",
+        "options": [
+          "John Maynard Keynes",
+          "Adam Smith",
+          "David Ricardo"
+        ],
+        "answer": "John Maynard Keynes"
+      },
+      {
+        "question": "Which 19th-century pope wrote \"We can do nothing without men's approval\" in diplomatic commentary?",
+        "options": [
+          "Pope Pius IX",
+          "Pope Leo XIII",
+          "Pope Gregory XVI"
+        ],
+        "answer": "Pope Leo XIII"
+      },
+      {
+        "question": "Who wrote \"The East is a career for the young\" advising imperial officers within colonial service?",
+        "options": [
+          "T. E. Lawrence",
+          "Lord Curzon",
+          "Rudyard Kipling"
+        ],
+        "answer": "Rudyard Kipling"
+      },
+      {
+        "question": "Which Irish leader declared \"The cause of liberty is not the cause of a race\" during independence?",
+        "options": [
+          "Daniel O'Connell",
+          "Michael Collins",
+          "Charles Stewart Parnell"
+        ],
+        "answer": "Daniel O'Connell"
+      },
+      {
+        "question": "Who wrote \"I fear all we have done is to awaken a sleeping giant\" about Pacific conflict consequences?",
+        "options": [
+          "Isoroku Yamamoto",
+          "Hideki Tojo",
+          "Emperor Hirohito"
+        ],
+        "answer": "Isoroku Yamamoto"
+      },
+      {
+        "question": "Which medieval saint wrote \"Action expresses priorities\" in ascetic and ethical guidance?",
+        "options": [
+          "St. Augustine",
+          "St. Francis of Assisi",
+          "St. Thomas Aquinas"
+        ],
+        "answer": "St. Augustine"
+      },
+      {
+        "question": "Who wrote \"A lie told often enough becomes the truth\" analyzing propaganda's effect?",
+        "options": [
+          "Joseph Goebbels",
+          "Adolf Hitler",
+          "Hermann Göring"
+        ],
+        "answer": "Joseph Goebbels"
+      },
+      {
+        "question": "Which Spanish conquistador claimed \"It is better to go with the poor\" during indigenous encounters?",
+        "options": [
+          "Hernán Cortés",
+          "Francisco Pizarro",
+          "Pedro de Alvarado"
+        ],
+        "answer": "Francisco Pizarro"
+      },
+      {
+        "question": "Who wrote \"Give me chastity and continence, but not yet\" in playful theological reflection?",
+        "options": [
+          "St. Augustine",
+          "St. Jerome",
+          "Boethius"
+        ],
+        "answer": "St. Augustine"
+      },
+      {
+        "question": "Which 18th-century monarch said \"I will not let anyone walk through my mind with their dirty feet\"?",
+        "options": [
+          "Marie Antoinette",
+          "Catherine the Great",
+          "Queen Charlotte"
+        ],
+        "answer": "Catherine the Great"
+      },
+      {
+        "question": "Who declared \"We shall have time enough for sleep when we are dead\" exhorting wartime effort?",
+        "options": [
+          "Winston Churchill",
+          "David Lloyd George",
+          "Neville Chamberlain"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Which Greek leader wrote \"The price of freedom is eternal vigilance\" in a political aphorism?",
+        "options": [
+          "Pericles",
+          "Plato",
+          "Thucydides"
+        ],
+        "answer": "Pericles"
+      },
+      {
+        "question": "Who wrote \"If you want peace, prepare for war\" in an ancient military maxim?",
+        "options": [
+          "Maurus (Latin maxim)",
+          "Publius Flavius Vegetius",
+          "Julius Caesar"
+        ],
+        "answer": "Publius Flavius Vegetius"
+      },
+      {
+        "question": "Which South African leader wrote \"It always seems impossible until it is done\" during liberation struggles?",
+        "options": [
+          "Nelson Mandela",
+          "Desmond Tutu",
+          "Oliver Tambo"
+        ],
+        "answer": "Nelson Mandela"
+      },
+      {
+        "question": "Who wrote \"The empires of the future are empires of the mind\" forecasting postindustrial power sources?",
+        "options": [
+          "Winston Churchill",
+          "John F. Kennedy",
+          "Victor Hugo"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "question": "Which English revolutionary declared \"Give me liberty or give me death\" in a lesser-known pamphlet aside from Patrick Henry?",
+        "options": [
+          "John Wilkes",
+          "Thomas Paine",
+          "John Locke"
+        ],
+        "answer": "Thomas Paine"
+      },
+      {
+        "question": "Who wrote \"The most effective way to destroy people is to deny and obliterate their own understanding of their history\"?",
+        "options": [
+          "George Orwell",
+          "Maya Angelou",
+          "William Faulkner"
+        ],
+        "answer": "George Orwell"
+      },
+      {
+        "question": "Which Ottoman-era reformer declared \"A people without knowledge of their past history\" in educational reform arguments?",
+        "options": [
+          "Mustafa Kemal Atatürk",
+          "Sultan Abdulmejid I",
+          "Tanzimat reformers"
+        ],
+        "answer": "Mustafa Kemal Atatürk"
+      }
+    ]
+  }
+}

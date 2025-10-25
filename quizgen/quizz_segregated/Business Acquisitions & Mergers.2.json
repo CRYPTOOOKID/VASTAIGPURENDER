@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a majority stake?",
+      "options": [
+        "Temporary lease of assets",
+        "Ownership of less than 10%",
+        "Ownership of more than 50% voting shares"
+      ],
+      "answer": "Ownership of more than 50% voting shares"
+    },
+    {
+      "question_id": 2,
+      "question": "What does staple financing provide in an auction process?",
+      "options": [
+        "Insurance policy for the deal",
+        "Financing package pre-arranged by the target for bidders",
+        "Loan for employee wages"
+      ],
+      "answer": "Financing package pre-arranged by the target for bidders"
+    },
+    {
+      "question_id": 3,
+      "question": "What key test evaluates whether a stock-for-stock deal dilutes EPS?",
+      "options": [
+        "Accretion/dilution analysis",
+        "Return on equity test",
+        "Liquidity ratio test"
+      ],
+      "answer": "Accretion/dilution analysis"
+    },
+    {
+      "question_id": 4,
+      "question": "What is an acquisition?",
+      "options": [
+        "Government takeover",
+        "One company buys controlling interest",
+        "Companies form a joint venture"
+      ],
+      "answer": "One company buys controlling interest"
+    },
+    {
+      "question_id": 5,
+      "question": "What role does a lead arranger play in acquisition financing?",
+      "options": [
+        "Handles legal compliance",
+        "Coordinates the financing syndicate",
+        "Manages employee integration"
+      ],
+      "answer": "Coordinates the financing syndicate"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the tax advantage of an asset purchase over a stock purchase for buyers?",
+      "options": [
+        "Step-up in tax basis of acquired assets",
+        "No requirement for due diligence",
+        "Lower immediate cash outflow"
+      ],
+      "answer": "Step-up in tax basis of acquired assets"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a breakup fee?",
+      "options": [
+        "Fee for accounting services",
+        "Annual dividend paid to shareholders",
+        "Payment if target accepts another offer"
+      ],
+      "answer": "Payment if target accepts another offer"
+    },
+    {
+      "question_id": 8,
+      "question": "Which major retailer did Amazon acquire in 2017?",
+      "options": [
+        "Whole Foods",
+        "Sears",
+        "Best Buy"
+      ],
+      "answer": "Whole Foods"
+    },
+    {
+      "question_id": 9,
+      "question": "What does a go-shop provision allow after signing an agreement?",
+      "options": [
+        "Acquirer withdraws without penalty anytime",
+        "Target solicits higher bids for a limited period",
+        "Target must immediately close the deal"
+      ],
+      "answer": "Target solicits higher bids for a limited period"
+    },
+    {
+      "question_id": 10,
+      "question": "Which is a horizontal merger?",
+      "options": [
+        "Two unrelated businesses combining",
+        "Two competing firms in the same industry",
+        "Supplier and buyer merging"
+      ],
+      "answer": "Two competing firms in the same industry"
+    },
+    {
+      "question_id": 11,
+      "question": "Which liabilities are retained by the seller after an asset sale?",
+      "options": [
+        "Retained liabilities",
+        "Purchase price adjustment",
+        "Earn-out liability"
+      ],
+      "answer": "Retained liabilities"
+    },
+    {
+      "question_id": 12,
+      "question": "Which clause allows adjustment of purchase price for working capital changes?",
+      "options": [
+        "Breakup fee clause",
+        "Purchase price adjustment clause",
+        "No-shop clause"
+      ],
+      "answer": "Purchase price adjustment clause"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the purpose of anti-trust review in M&A?",
+      "options": [
+        "Increase taxes on deals",
+        "Prevent anti-competitive market concentration",
+        "Promote hostile takeovers"
+      ],
+      "answer": "Prevent anti-competitive market concentration"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a crown jewel defense?",
+      "options": [
+        "Removing the CEO",
+        "Increasing dividend payouts",
+        "Selling or threatening to sell valuable assets to deter a bidder"
+      ],
+      "answer": "Selling or threatening to sell valuable assets to deter a bidder"
+    },
+    {
+      "question_id": 15,
+      "question": "Which doctrine requires directors to seek the best value when breakup is inevitable?",
+      "options": [
+        "Revlon duty",
+        "Unocal standard",
+        "Business judgment rule"
+      ],
+      "answer": "Revlon duty"
+    }
+  ]
+}

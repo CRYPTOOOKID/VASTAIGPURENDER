@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term means total output produced per worker or per hour?",
+      "options": [
+        "Turnover",
+        "Productivity",
+        "Liquidity"
+      ],
+      "answer": "Productivity"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term describes a systemic fall in general price level?",
+      "options": [
+        "Deflation",
+        "Disinflation",
+        "Stagflation"
+      ],
+      "answer": "Deflation"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term describes when trade liberalization leads to short-term job losses in sectors?",
+      "options": [
+        "Monetization",
+        "Quantitative easing",
+        "Structural adjustment"
+      ],
+      "answer": "Structural adjustment"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term denotes the first buyer preference for a new good or trend?",
+      "options": [
+        "Early adopter",
+        "Laggard",
+        "Late majority"
+      ],
+      "answer": "Early adopter"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term measures responsiveness of supply to price changes?",
+      "options": [
+        "Price elasticity of supply",
+        "Cross-price elasticity",
+        "Income elasticity of demand"
+      ],
+      "answer": "Price elasticity of supply"
+    },
+    {
+      "question_id": 6,
+      "question": "What term refers to monopolies that emerge due to high fixed costs and low marginal costs?",
+      "options": [
+        "Natural monopoly",
+        "Cartel",
+        "State monopoly"
+      ],
+      "answer": "Natural monopoly"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes government financial aid to producers?",
+      "options": [
+        "Embargo",
+        "Tariff",
+        "Subsidy"
+      ],
+      "answer": "Subsidy"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term refers to central bank actions to control money supply?",
+      "options": [
+        "Monetary policy",
+        "Regulatory policy",
+        "Fiscal policy"
+      ],
+      "answer": "Monetary policy"
+    },
+    {
+      "question_id": 9,
+      "question": "What term refers to policy where government borrowing reduces available private investment?",
+      "options": [
+        "Crowding in",
+        "Crowding out",
+        "Ricardian equivalence"
+      ],
+      "answer": "Crowding out"
+    },
+    {
+      "question_id": 10,
+      "question": "What term describes government transfers to individuals without goods received?",
+      "options": [
+        "Investment",
+        "Welfare",
+        "Export"
+      ],
+      "answer": "Welfare"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term defines payment to capital owners for use of capital?",
+      "options": [
+        "Interest",
+        "Rent",
+        "Dividend"
+      ],
+      "answer": "Interest"
+    },
+    {
+      "question_id": 12,
+      "question": "What term labels a tax whose burden falls more heavily on lower-income households?",
+      "options": [
+        "Progressive tax",
+        "Flat tax",
+        "Regressive tax"
+      ],
+      "answer": "Regressive tax"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term is used for sellers coordinating prices or output illegally?",
+      "options": [
+        "Collusion",
+        "Innovation",
+        "Competition"
+      ],
+      "answer": "Collusion"
+    },
+    {
+      "question_id": 14,
+      "question": "What term means a market with few firms dominating output?",
+      "options": [
+        "Oligopoly",
+        "Perfect competition",
+        "Monopoly"
+      ],
+      "answer": "Oligopoly"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes when a firm charges different prices to different consumer groups?",
+      "options": [
+        "Second-degree price discrimination",
+        "First-degree price discrimination",
+        "Third-degree price discrimination"
+      ],
+      "answer": "Third-degree price discrimination"
+    }
+  ]
+}

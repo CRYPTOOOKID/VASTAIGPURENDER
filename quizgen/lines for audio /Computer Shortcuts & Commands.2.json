@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In most desktop applications, which keyboard shortcut immediately undoes the last editing action?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Emacs key sequence saves the current buffer to its file from any editing state?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which keyboard shortcut in macOS captures a selected portion of the screen to a file on the desktop?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which function key toggles full-screen mode in many desktop web browsers and applications?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which keyboard shortcut in many editors redoes the previously undone action on Windows systems?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Windows feature uses the Secure Attention Sequence invoked by Ctrl+Alt+Del to prevent credential spoofing?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which keyboard shortcut closes the current tab in most web browsers on Windows?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which web browser shortcut opens Developer Tools in most major desktop browsers?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which command-line program shows running processes in a tree or list and is commonly used on Linux systems?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which common keyboard shortcut saves the current document or file in many desktop applications?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which keyboard shortcut in Excel selects an entire column quickly when a cell in that column is active?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Emacs notation prefix represents the Meta modifier often mapped to the Alt key on modern keyboards?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which keyboard shortcut reopens the last closed tab in most modern web browsers?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which keyboard combination opens the browser's address bar search box focused for a rapid search query?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Linux command shows mounted filesystems and their mount points in a concise display?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which description fits the myth about superfoods?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which claim about gargling salt water preventing colds matches evidence?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical observation comes from meta-analyses of homeopathy trials?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which statement about spot reduction of fat through exercise is accurate?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which origin explains the carrot-night vision myth from World War II?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which regulatory fact reflects claims about colloidal silver promoted historically?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which claim about drinking eight glasses of water daily is most accurate?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which conclusion about ear candling aligns with safety advisories?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nuanced conclusion comes from studies on mindfulness and placebo-like effects?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about green juices detoxifying the body is correct?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statement about herbal supplements and standardization is true?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which documented effect links high-dose vitamin A supplements to risks in certain populations?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statement about cracking knuckles is correct?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which claim about fluoride and IQ is supported by major health authorities?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific mechanism explains how tobacco smoke impacts cardiovascular risk?"
+    }
+  ]
+}

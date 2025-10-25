@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country enforces a law forbidding selling televisions without a license in certain historical contexts?",
+      "options": [
+        "United Kingdom",
+        "Australia",
+        "New Zealand"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 2,
+      "question": "Where is it illegal to ride a motorcycle without a shirt under some traffic safety rules?",
+      "options": [
+        "Australia",
+        "United Kingdom",
+        "United States"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which European nation bans unaccompanied minors from accessing certain online gambling services under age-protection laws?",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "Greece"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 4,
+      "question": "Which European country has strict laws about feeding wild animals like pigeons in certain cities?",
+      "options": [
+        "Italy",
+        "Netherlands",
+        "Greece"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "question_id": 5,
+      "question": "In which country is it illegal to own just one guinea pig because they are considered social animals in some local laws?",
+      "options": [
+        "Switzerland",
+        "Norway",
+        "Belgium"
+      ],
+      "answer": "Switzerland"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nation has municipal rules that ban feeding stray cats in certain historic centers to protect monuments and public health?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Portugal"
+      ],
+      "answer": "Italy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country once made it illegal to step on money because it features the monarch's image?",
+      "options": [
+        "Thailand",
+        "Sweden",
+        "Brazil"
+      ],
+      "answer": "Thailand"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country has laws prohibiting wearing clothing that conceals the face in public in some regions?",
+      "options": [
+        "France",
+        "Italy",
+        "Greece"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 9,
+      "question": "In which Scandinavian country did municipalities create laws forbidding shoe removal in certain public businesses to prevent hygiene issues?",
+      "options": [
+        "Norway",
+        "Finland",
+        "Sweden"
+      ],
+      "answer": "Sweden"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country once made it illegal to walk a cow down the main street without a permit in some rural bylaws?",
+      "options": [
+        "Ireland",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "Ireland"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country prohibits slot machines and gambling devices in many public places under strict regulations?",
+      "options": [
+        "Japan",
+        "United Kingdom",
+        "Czech Republic"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which nation prohibits moving house without notifying local authorities in some registry systems to maintain population records?",
+      "options": [
+        "Japan",
+        "Czech Republic",
+        "Switzerland"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 13,
+      "question": "In which country is it illegal to walk an elephant down the street without permission in some municipalities?",
+      "options": [
+        "Thailand",
+        "United Kingdom",
+        "India"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 14,
+      "question": "Which U.S. city had an ordinance forbidding wearing masks at protests during certain historical periods?",
+      "options": [
+        "New York City",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "answer": "New York City"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country prohibits using real currency as jewelry or clothing decoration to protect national insignia under desecration laws?",
+      "options": [
+        "Thailand",
+        "United Kingdom",
+        "Japan"
+      ],
+      "answer": "Thailand"
+    }
+  ]
+}

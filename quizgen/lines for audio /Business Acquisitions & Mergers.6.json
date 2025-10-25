@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a divestiture?"
+    },
+    {
+      "question_id": 2,
+      "question": "Vodafone's 2000 takeover famously acquired which company?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the primary accounting task called after closing a business combination?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is closing in M&A?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes acquiring a company by buying its majority shares?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is rollover equity in an MBO or private equity deal?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a leveraged buyout (LBO)?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proposed 2011 telecom acquisition by AT&T was abandoned due to regulatory pushback?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which accounting standard governs business combinations under IFRS?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a material adverse change clause?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company did Disney acquire in 2006 to boost animation capabilities?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which risk is central to merger arbitrage strategies?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is synergy in acquisitions?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is merger arbitrage investing?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which post-closing adjustment period permits valuation updates under many standards?"
+    }
+  ]
+}

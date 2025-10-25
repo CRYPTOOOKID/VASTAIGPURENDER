@@ -1,0 +1,829 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Clues: Eiffel Tower, baguette, Seine River — Which country?",
+        "options": [
+          "France",
+          "Spain",
+          "Italy"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Clues: Great Wall, Beijing, pandas — Which country?",
+        "options": [
+          "Japan",
+          "China",
+          "South Korea"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Clues: Maple leaf, Toronto, Niagara Falls — Which country?",
+        "options": [
+          "United States",
+          "Canada",
+          "Australia"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "Clues: Big Ben, London, red double-decker buses — Which country?",
+        "options": [
+          "United Kingdom",
+          "Ireland",
+          "Netherlands"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Clues: Colosseum, Rome, pizza — Which country?",
+        "options": [
+          "Greece",
+          "Spain",
+          "Italy"
+        ],
+        "answer": "Italy"
+      },
+      {
+        "question": "Clues: Samba, Christ the Redeemer, Carnival — Which country?",
+        "options": [
+          "Argentina",
+          "Brazil",
+          "Portugal"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Clues: Kangaroo, Sydney Opera House, Uluru — Which country?",
+        "options": [
+          "Australia",
+          "New Zealand",
+          "South Africa"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Clues: Mount Fuji, sushi, Tokyo — Which country?",
+        "options": [
+          "Japan",
+          "China",
+          "South Korea"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Clues: Kremlin, Red Square, vodka — Which country?",
+        "options": [
+          "Russia",
+          "Poland",
+          "Ukraine"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "Clues: Pyramids, Nile River, Cairo — Which country?",
+        "options": [
+          "Egypt",
+          "Morocco",
+          "Sudan"
+        ],
+        "answer": "Egypt"
+      },
+      {
+        "question": "Clues: Fjords, Oslo, Viking history — Which country?",
+        "options": [
+          "Norway",
+          "Sweden",
+          "Finland"
+        ],
+        "answer": "Norway"
+      },
+      {
+        "question": "Clues: Taj Mahal, Mumbai, Bollywood — Which country?",
+        "options": [
+          "Pakistan",
+          "India",
+          "Bangladesh"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Clues: Andes Mountains, Machu Picchu, Lima — Which country?",
+        "options": [
+          "Peru",
+          "Colombia",
+          "Chile"
+        ],
+        "answer": "Peru"
+      },
+      {
+        "question": "Clues: Rolex watches, Alps, Geneva — Which country?",
+        "options": [
+          "Austria",
+          "Switzerland",
+          "Germany"
+        ],
+        "answer": "Switzerland"
+      },
+      {
+        "question": "Clues: Oktoberfest, Berlin, bratwurst — Which country?",
+        "options": [
+          "Belgium",
+          "Germany",
+          "Austria"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "Clues: Acropolis, Athens, olive oil — Which country?",
+        "options": [
+          "Greece",
+          "Turkey",
+          "Cyprus"
+        ],
+        "answer": "Greece"
+      },
+      {
+        "question": "Clues: Maple syrup, hockey, French-English bilingualism — Which country?",
+        "options": [
+          "Canada",
+          "United States",
+          "Ireland"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "Clues: Serengeti, Mount Kilimanjaro, Swahili language — Which country?",
+        "options": [
+          "Tanzania",
+          "Kenya",
+          "Uganda"
+        ],
+        "answer": "Tanzania"
+      },
+      {
+        "question": "Clues: Tango, Patagonia, Buenos Aires — Which country?",
+        "options": [
+          "Chile",
+          "Argentina",
+          "Uruguay"
+        ],
+        "answer": "Argentina"
+      },
+      {
+        "question": "Clues: Dubai, Burj Khalifa, Arabian Desert — Which country?",
+        "options": [
+          "Saudi Arabia",
+          "United Arab Emirates",
+          "Qatar"
+        ],
+        "answer": "United Arab Emirates"
+      },
+      {
+        "question": "Clues: Ha Long Bay, Hanoi, pho — Which country?",
+        "options": [
+          "Thailand",
+          "Vietnam",
+          "Cambodia"
+        ],
+        "answer": "Vietnam"
+      },
+      {
+        "question": "Clues: Redwood forests, Hollywood, Silicon Valley — Which country?",
+        "options": [
+          "United States",
+          "Canada",
+          "Australia"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Clues: Kilimanjaro, Swahili, Serengeti — Which country?",
+        "options": [
+          "Tanzania",
+          "Kenya",
+          "Rwanda"
+        ],
+        "answer": "Tanzania"
+      },
+      {
+        "question": "Clues: Irish pubs, Guinness, Dublin — Which country?",
+        "options": [
+          "Ireland",
+          "Scotland",
+          "Wales"
+        ],
+        "answer": "Ireland"
+      },
+      {
+        "question": "Clues: Sagrada Família, tapas, Barcelona — Which country?",
+        "options": [
+          "Portugal",
+          "Spain",
+          "Italy"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Clues: Maple leaf flag, Justin Trudeau, Ottawa — Which country?",
+        "options": [
+          "Canada",
+          "Australia",
+          "New Zealand"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "Clues: Fjords, stave churches, Nobel Peace Prize — Which country?",
+        "options": [
+          "Norway",
+          "Sweden",
+          "Denmark"
+        ],
+        "answer": "Norway"
+      },
+      {
+        "question": "Clues: Maasai, Mount Kenya, capital Nairobi — Which country?",
+        "options": [
+          "Uganda",
+          "Kenya",
+          "Ethiopia"
+        ],
+        "answer": "Kenya"
+      },
+      {
+        "question": "Clues: K-pop, kimchi, Seoul — Which country?",
+        "options": [
+          "North Korea",
+          "South Korea",
+          "Japan"
+        ],
+        "answer": "South Korea"
+      },
+      {
+        "question": "Clues: Sumo wrestling, tatami, Kyoto temples — Which country?",
+        "options": [
+          "Japan",
+          "China",
+          "South Korea"
+        ],
+        "answer": "Japan"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Clues: Basque Country, Guggenheim Museum, Bilbao — Which country?",
+        "options": [
+          "Spain",
+          "France",
+          "Portugal"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Clues: Fjords, Stave churches, Edvard Grieg — Which country?",
+        "options": [
+          "Sweden",
+          "Norway",
+          "Finland"
+        ],
+        "answer": "Norway"
+      },
+      {
+        "question": "Clues: Oktoberfest origins, Lederhosen, Bavaria — Which country?",
+        "options": [
+          "Austria",
+          "Germany",
+          "Switzerland"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "Clues: Okavango Delta, Kalahari, diamond mines — Which country?",
+        "options": [
+          "Botswana",
+          "Namibia",
+          "Zimbabwe"
+        ],
+        "answer": "Botswana"
+      },
+      {
+        "question": "Clues: Bollywood headquarters, Bollywood films, Hindi film industry center — Which country?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Bangladesh"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Clues: Patagonia's Perito Moreno, Buenos Aires, gauchos — Which country?",
+        "options": [
+          "Chile",
+          "Argentina",
+          "Uruguay"
+        ],
+        "answer": "Argentina"
+      },
+      {
+        "question": "Clues: Lake Baikal, Trans-Siberian Railway, Siberia — Which country?",
+        "options": [
+          "Russia",
+          "Kazakhstan",
+          "Mongolia"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "Clues: Tulip fields, windmills, Rijksmuseum — Which country?",
+        "options": [
+          "Belgium",
+          "Netherlands",
+          "Denmark"
+        ],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "Clues: Mount Cook, Maori culture, Christchurch — Which country?",
+        "options": [
+          "Australia",
+          "New Zealand",
+          "Fiji"
+        ],
+        "answer": "New Zealand"
+      },
+      {
+        "question": "Clues: Amritsar's Golden Temple, Punjab region, Sikhism birthplace — Which country?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Nepal"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Clues: Sahara, Atlas Mountains, Casablanca — Which country?",
+        "options": [
+          "Algeria",
+          "Morocco",
+          "Tunisia"
+        ],
+        "answer": "Morocco"
+      },
+      {
+        "question": "Clues: Silicon Fen, Cambridge University, UK research hub — Which country?",
+        "options": [
+          "United Kingdom",
+          "United States",
+          "Ireland"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Clues: Ottoman architecture, Bosphorus, Hagia Sophia — Which country?",
+        "options": [
+          "Greece",
+          "Turkey",
+          "Bulgaria"
+        ],
+        "answer": "Turkey"
+      },
+      {
+        "question": "Clues: Coffee plantations, Medellín, Colombian emeralds — Which country?",
+        "options": [
+          "Venezuela",
+          "Colombia",
+          "Ecuador"
+        ],
+        "answer": "Colombia"
+      },
+      {
+        "question": "Clues: Breton crepes, Mont Saint-Michel, Normandy — Which country?",
+        "options": [
+          "France",
+          "Belgium",
+          "Spain"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Clues: Easter Island, Santiago, Atacama Desert — Which country?",
+        "options": [
+          "Peru",
+          "Chile",
+          "Bolivia"
+        ],
+        "answer": "Chile"
+      },
+      {
+        "question": "Clues: Maasai Mara, Amboseli, Nairobi National Park — Which country?",
+        "options": [
+          "Kenya",
+          "Tanzania",
+          "Uganda"
+        ],
+        "answer": "Kenya"
+      },
+      {
+        "question": "Clues: Falkland Islands dispute, Patagonia coast, Buenos Aires ties — Which country?",
+        "options": [
+          "Argentina",
+          "Chile",
+          "Uruguay"
+        ],
+        "answer": "Argentina"
+      },
+      {
+        "question": "Clues: Gaelic language, Loch Ness, Edinburgh Castle — Which country?",
+        "options": [
+          "Ireland",
+          "Scotland",
+          "Wales"
+        ],
+        "answer": "Scotland"
+      },
+      {
+        "question": "Clues: Chocolate brand Nestlé origin, Geneva diplomacy, neutrality — Which country?",
+        "options": [
+          "Belgium",
+          "Switzerland",
+          "Austria"
+        ],
+        "answer": "Switzerland"
+      },
+      {
+        "question": "Clues: Forbidden City, Terracotta Army, Shanghai financial center — Which country?",
+        "options": [
+          "China",
+          "Japan",
+          "South Korea"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Clues: Suez Canal, Alexandria library history, Sinai Peninsula — Which country?",
+        "options": [
+          "Egypt",
+          "Israel",
+          "Jordan"
+        ],
+        "answer": "Egypt"
+      },
+      {
+        "question": "Clues: Mount Kilimanjaro rains, Serengeti migration, Zanzibar spice islands — Which country?",
+        "options": [
+          "Kenya",
+          "Tanzania",
+          "Mozambique"
+        ],
+        "answer": "Tanzania"
+      },
+      {
+        "question": "Clues: Baltic capitals, Riga Old Town, Daugava River — Which country?",
+        "options": [
+          "Estonia",
+          "Latvia",
+          "Lithuania"
+        ],
+        "answer": "Latvia"
+      },
+      {
+        "question": "Clues: Polynesian culture, French overseas region, capital Papeete — Which country?",
+        "options": [
+          "New Caledonia",
+          "French Polynesia",
+          "Fiji"
+        ],
+        "answer": "French Polynesia"
+      },
+      {
+        "question": "Clues: Zambezi River, Victoria Falls, Lusaka capital proximity — Which country?",
+        "options": [
+          "Zimbabwe",
+          "Zambia",
+          "Mozambique"
+        ],
+        "answer": "Zambia"
+      },
+      {
+        "question": "Clues: Appalachian Mountains, Nashville music scene, Tennessee — Which country?",
+        "options": [
+          "Canada",
+          "United States",
+          "Mexico"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Clues: Andes copper mines, Santiago economy, Easter Island governance — Which country?",
+        "options": [
+          "Peru",
+          "Chile",
+          "Argentina"
+        ],
+        "answer": "Chile"
+      },
+      {
+        "question": "Clues: Whisky regions Islay, Highlands, Glasgow shipbuilding — Which country?",
+        "options": [
+          "Ireland",
+          "Scotland",
+          "Wales"
+        ],
+        "answer": "Scotland"
+      },
+      {
+        "question": "Clues: Patagonia glaciers, Valparaíso port, Spanish colonial architecture — Which country?",
+        "options": [
+          "Chile",
+          "Peru",
+          "Argentina"
+        ],
+        "answer": "Chile"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Clues: Basotho people, Maloti Mountains, landlocked country between South Africa and Lesotho — Which country?",
+        "options": [
+          "Lesotho",
+          "Eswatini",
+          "Botswana"
+        ],
+        "answer": "Lesotho"
+      },
+      {
+        "question": "Clues: Transnistria separatist region, Moldova capital Chișinău, wine traditions — Which country?",
+        "options": [
+          "Romania",
+          "Moldova",
+          "Ukraine"
+        ],
+        "answer": "Moldova"
+      },
+      {
+        "question": "Clues: Carpathian Mountains, painted monasteries of Bukovina, Dracula literary connections — Which country?",
+        "options": [
+          "Hungary",
+          "Romania",
+          "Bulgaria"
+        ],
+        "answer": "Romania"
+      },
+      {
+        "question": "Clues: Siachen proximity, Ladakh region, Himalaya passes — Which country?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Nepal"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Clues: Lake Titicaca, Aymara culture, high-altitude capital La Paz — Which country?",
+        "options": [
+          "Peru",
+          "Bolivia",
+          "Ecuador"
+        ],
+        "answer": "Bolivia"
+      },
+      {
+        "question": "Clues: Oued river systems, Atlas cedar forests, Tangier gateway — Which country?",
+        "options": [
+          "Algeria",
+          "Morocco",
+          "Tunisia"
+        ],
+        "answer": "Morocco"
+      },
+      {
+        "question": "Clues: Caucasus republic, Mount Kazbek proximity, Tbilisi ancient sulfur baths — Which country?",
+        "options": [
+          "Armenia",
+          "Georgia",
+          "Azerbaijan"
+        ],
+        "answer": "Georgia"
+      },
+      {
+        "question": "Clues: Maghreb country with Amazigh heritage, capital Rabat, Atlantic and Mediterranean coasts — Which country?",
+        "options": [
+          "Algeria",
+          "Tunisia",
+          "Morocco"
+        ],
+        "answer": "Morocco"
+      },
+      {
+        "question": "Clues: Quechua language prevalence, Nazca Lines, Cusco Inca history — Which country?",
+        "options": [
+          "Peru",
+          "Ecuador",
+          "Bolivia"
+        ],
+        "answer": "Peru"
+      },
+      {
+        "question": "Clues: Drakensberg peaks, Zulu nation history, Durban port — Which country?",
+        "options": [
+          "South Africa",
+          "Lesotho",
+          "Eswatini"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Clues: Former Austro-Hungarian territories, Sarajevo 1914 assassination site, Balkan crossroads — Which country?",
+        "options": [
+          "Bosnia and Herzegovina",
+          "Croatia",
+          "Serbia"
+        ],
+        "answer": "Bosnia and Herzegovina"
+      },
+      {
+        "question": "Clues: Baltic amber deposits, Hill of Crosses pilgrimage, Vilnius Old Town — Which country?",
+        "options": [
+          "Estonia",
+          "Lithuania",
+          "Latvia"
+        ],
+        "answer": "Lithuania"
+      },
+      {
+        "question": "Clues: Penang George Town heritage, Malay-Chinese-Indian mix, capital Kuala Lumpur — Which country?",
+        "options": [
+          "Indonesia",
+          "Malaysia",
+          "Singapore"
+        ],
+        "answer": "Malaysia"
+      },
+      {
+        "question": "Clues: Svalbard archipelago governance, Arctic Treaty, Longyearbyen settlement — Which country?",
+        "options": [
+          "Norway",
+          "Iceland",
+          "Finland"
+        ],
+        "answer": "Norway"
+      },
+      {
+        "question": "Clues: Haka war dance origin, Waitangi Treaty, Wellington capital — Which country?",
+        "options": [
+          "Australia",
+          "New Zealand",
+          "Fiji"
+        ],
+        "answer": "New Zealand"
+      },
+      {
+        "question": "Clues: Sahel nation, Timbuktu manuscripts, Niger River loop — Which country?",
+        "options": [
+          "Mali",
+          "Niger",
+          "Chad"
+        ],
+        "answer": "Mali"
+      },
+      {
+        "question": "Clues: Former French Indochina, Mekong Delta agriculture, Ho Chi Minh City history — Which country?",
+        "options": [
+          "Vietnam",
+          "Cambodia",
+          "Laos"
+        ],
+        "answer": "Vietnam"
+      },
+      {
+        "question": "Clues: Atlantic archipelago, volcanic Pico island, Azores autonomous region — Which country?",
+        "options": [
+          "Spain",
+          "Portugal",
+          "United Kingdom"
+        ],
+        "answer": "Portugal"
+      },
+      {
+        "question": "Clues: Baltic state with Hill of Witches, Curonian Spit dunes, Neringa — Which country?",
+        "options": [
+          "Latvia",
+          "Lithuania",
+          "Estonia"
+        ],
+        "answer": "Lithuania"
+      },
+      {
+        "question": "Clues: Himalayan kingdom, capital Kathmandu, UNESCO-listed Durbar Squares — Which country?",
+        "options": [
+          "Nepal",
+          "Bhutan",
+          "Tibet"
+        ],
+        "answer": "Nepal"
+      },
+      {
+        "question": "Clues: Balkan coastlines, Bay of Kotor, Montenegrin independence 2006 — Which country?",
+        "options": [
+          "Albania",
+          "Montenegro",
+          "Croatia"
+        ],
+        "answer": "Montenegro"
+      },
+      {
+        "question": "Clues: Rohingya crisis attention, Yangon former capital, Irrawaddy Delta — Which country?",
+        "options": [
+          "Thailand",
+          "Myanmar",
+          "Bangladesh"
+        ],
+        "answer": "Myanmar"
+      },
+      {
+        "question": "Clues: Saipan, Chamorro culture, Northern Mariana Islands association — Which country?",
+        "options": [
+          "Philippines",
+          "Guam (USA)",
+          "Northern Mariana Islands (USA)"
+        ],
+        "answer": "Northern Mariana Islands (USA)"
+      },
+      {
+        "question": "Clues: Silk Road city Samarkand, Registan square, Timurid architecture — Which country?",
+        "options": [
+          "Uzbekistan",
+          "Turkmenistan",
+          "Tajikistan"
+        ],
+        "answer": "Uzbekistan"
+      },
+      {
+        "question": "Clues: Oil-rich Gulf monarchy, Manama capital, Formula 1 host — Which country?",
+        "options": [
+          "Qatar",
+          "Bahrain",
+          "Kuwait"
+        ],
+        "answer": "Bahrain"
+      },
+      {
+        "question": "Clues: Island of Hokkaido, Sapporo snow festival, Ainu indigenous culture — Which country?",
+        "options": [
+          "Japan",
+          "Russia",
+          "South Korea"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Clues: Caucasus country with Nagorno-Karabakh conflict, Yerevan history, khachkar stone crosses — Which country?",
+        "options": [
+          "Armenia",
+          "Georgia",
+          "Azerbaijan"
+        ],
+        "answer": "Armenia"
+      },
+      {
+        "question": "Clues: West African francophone hub, Dakar music scene, Goree Island history — Which country?",
+        "options": [
+          "Senegal",
+          "Mali",
+          "Ivory Coast"
+        ],
+        "answer": "Senegal"
+      },
+      {
+        "question": "Clues: Sufi shrines, Lahore literary festivals, Indus Valley civilizations remnants — Which country?",
+        "options": [
+          "Pakistan",
+          "India",
+          "Afghanistan"
+        ],
+        "answer": "Pakistan"
+      },
+      {
+        "question": "Clues: Himalaya's Bhutanese Gross National Happiness policy, Thimphu capital — Which country?",
+        "options": [
+          "Nepal",
+          "Bhutan",
+          "Bhutan Kingdom of Happiness"
+        ],
+        "answer": "Bhutan"
+      },
+      {
+        "question": "Clues: City-state with Gardens by the Bay, multilingual population, Marina Bay Sands — Which country?",
+        "options": [
+          "Malaysia",
+          "Singapore",
+          "Brunei"
+        ],
+        "answer": "Singapore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a major determinant of long-term exchange rates?",
+      "options": [
+        "Daily stock market returns",
+        "Weekly weather patterns",
+        "Purchasing power parity"
+      ],
+      "answer": "Purchasing power parity"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of the following best describes currency sterilization?",
+      "options": [
+        "Banks increase lending in foreign currency",
+        "Central bank offsets FX intervention's domestic money impact",
+        "Government bans foreign currency use"
+      ],
+      "answer": "Central bank offsets FX intervention's domestic money impact"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced policy tool can a central bank use to directly influence long-term exchange rates via the yield curve?",
+      "options": [
+        "Issuing commemorative coins",
+        "Quantitative easing that purchases long-term bonds",
+        "Daily spot market interventions only"
+      ],
+      "answer": "Quantitative easing that purchases long-term bonds"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'cross rate' mean?",
+      "options": [
+        "Exchange rate fixed by customs officials",
+        "Exchange rate between two currencies using a third currency as reference",
+        "Rate for cross-border wire transfers only"
+      ],
+      "answer": "Exchange rate between two currencies using a third currency as reference"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'currency redenomination'?",
+      "options": [
+        "Banning foreign exchange",
+        "Changing face value units of a currency without altering real value",
+        "Printing new coins identical to old ones"
+      ],
+      "answer": "Changing face value units of a currency without altering real value"
+    },
+    {
+      "question_id": 6,
+      "question": "What is peso problem in exchange rate expectations?",
+      "options": [
+        "Rare large devaluations make average forecasts biased, even if small changes happen often",
+        "A tax on currency conversions",
+        "Physical pesos causing circulation issues"
+      ],
+      "answer": "Rare large devaluations make average forecasts biased, even if small changes happen often"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'ask price' mean in FX quotes?",
+      "options": [
+        "Average market price",
+        "Price at which a dealer will sell a currency",
+        "Price at which a dealer will buy a currency"
+      ],
+      "answer": "Price at which a dealer will sell a currency"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a 'dirty float' exchange rate regime?",
+      "options": [
+        "A fully fixed exchange rate",
+        "A currency used only in black markets",
+        "A mostly floating rate with occasional central bank intervention"
+      ],
+      "answer": "A mostly floating rate with occasional central bank intervention"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the long-run prediction of the Balassa-Samuelson effect for real exchange rates?",
+      "options": [
+        "Countries with higher productivity in tradables tend to have appreciated real exchange rates",
+        "High productivity lowers real exchange rates permanently",
+        "No relation between productivity and exchange rates"
+      ],
+      "answer": "Countries with higher productivity in tradables tend to have appreciated real exchange rates"
+    },
+    {
+      "question_id": 10,
+      "question": "Which economic indicator most directly influences exchange rates?",
+      "options": [
+        "Population size",
+        "Interest rates",
+        "Average rainfall"
+      ],
+      "answer": "Interest rates"
+    },
+    {
+      "question_id": 11,
+      "question": "Which instrument shows implied future volatility of currency?",
+      "options": [
+        "Treasury yield curve",
+        "Currency options market prices",
+        "Trade deficit figures"
+      ],
+      "answer": "Currency options market prices"
+    },
+    {
+      "question_id": 12,
+      "question": "Why might a sovereign choose a currency board arrangement?",
+      "options": [
+        "To maximize exchange rate volatility",
+        "To provide strong nominal anchor credibility by strict peg rules",
+        "To prevent any foreign investment"
+      ],
+      "answer": "To provide strong nominal anchor credibility by strict peg rules"
+    },
+    {
+      "question_id": 13,
+      "question": "Which institution typically intervenes to influence a national exchange rate?",
+      "options": [
+        "Stock exchange",
+        "Commercial bank",
+        "Central bank"
+      ],
+      "answer": "Central bank"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country famously devalued its currency in 1992 leading to exit from the ERM?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Germany"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the theoretical implication of sticky prices for exchange rate dynamics in the Dornbusch model?",
+      "options": [
+        "Prices adjust instantly, preventing volatility",
+        "Prices adjust slowly, causing exchange rate overshooting after monetary shocks",
+        "Sticky prices cause permanent fixed exchange rates"
+      ],
+      "answer": "Prices adjust slowly, causing exchange rate overshooting after monetary shocks"
+    }
+  ]
+}

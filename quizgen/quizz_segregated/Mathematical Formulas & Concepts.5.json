@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which formula gives the volume of a rectangular prism?",
+      "options": [
+        "length × width",
+        "length × width × height",
+        "2(length + width + height)"
+      ],
+      "answer": "length × width × height"
+    },
+    {
+      "question_id": 2,
+      "question": "Which formula gives compound interest annually for principal P?",
+      "options": [
+        "P(1 + r)^t",
+        "P + rt",
+        "Prt"
+      ],
+      "answer": "P(1 + r)^t"
+    },
+    {
+      "question_id": 3,
+      "question": "Which result describes distribution of eigenvalues for random matrices in large limit (Wigner)?",
+      "options": [
+        "semicircle law",
+        "normal distribution",
+        "uniform law"
+      ],
+      "answer": "semicircle law"
+    },
+    {
+      "question_id": 4,
+      "question": "Which expression defines arithmetic sequence nth term?",
+      "options": [
+        "a_n = a_1 + (n-1)d",
+        "a_n = a_1 × r^{n-1}",
+        "a_n = a_1 - n"
+      ],
+      "answer": "a_n = a_1 + (n-1)d"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the formula for combinations without repetition?",
+      "options": [
+        "n!/(k!(n-k)!)",
+        "n!/(n-k)!",
+        "n^k"
+      ],
+      "answer": "n!/(k!(n-k)!)"
+    },
+    {
+      "question_id": 6,
+      "question": "Which identity expresses change of basis for bilinear forms using matrix P?",
+      "options": [
+        "A' = P^T A P",
+        "A' = A + P",
+        "A' = P A P^{-1}"
+      ],
+      "answer": "A' = P^T A P"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 0! equal to by definition?",
+      "options": [
+        "undefined",
+        "0",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 8,
+      "question": "Which identity expresses cosine of a double angle?",
+      "options": [
+        "cos(2θ) = 2cosθ",
+        "cos(2θ) = cos^2θ - sin^2θ",
+        "cos(2θ) = cosθ + sinθ"
+      ],
+      "answer": "cos(2θ) = cos^2θ - sin^2θ"
+    },
+    {
+      "question_id": 9,
+      "question": "Which condition characterizes analyticity of complex function at a point via partial derivatives?",
+      "options": [
+        "Cauchy-Riemann equations",
+        "Laplace's equation",
+        "Euler-Lagrange equations"
+      ],
+      "answer": "Cauchy-Riemann equations"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the Pythagorean theorem for right triangles?",
+      "options": [
+        "a^2 + b^2 = c^2",
+        "a + b = c",
+        "a^2 - b^2 = c^2"
+      ],
+      "answer": "a^2 + b^2 = c^2"
+    },
+    {
+      "question_id": 11,
+      "question": "Which test determines series convergence by comparing to a known series?",
+      "options": [
+        "Ratio test",
+        "Integral test",
+        "Comparison test"
+      ],
+      "answer": "Comparison test"
+    },
+    {
+      "question_id": 12,
+      "question": "Which formula gives change of variables in multiple integrals with Jacobian J?",
+      "options": [
+        "dx dy = J du dv without abs",
+        "dx dy = |det J| du dv",
+        "dx dy = du dv"
+      ],
+      "answer": "dx dy = |det J| du dv"
+    },
+    {
+      "question_id": 13,
+      "question": "Which formula gives the surface area of a cube with side s?",
+      "options": [
+        "s^3",
+        "6s^2",
+        "4s^2"
+      ],
+      "answer": "6s^2"
+    },
+    {
+      "question_id": 14,
+      "question": "Which condition ensures a function is bijective?",
+      "options": [
+        "both injective and surjective",
+        "only surjective",
+        "only injective"
+      ],
+      "answer": "both injective and surjective"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formula gives the Christoffel symbols in terms of metric g_{ij}?",
+      "options": [
+        "Γ^k_{ij} = (1/2) g^{kl}(∂_i g_{lj}+∂_j g_{li}-∂_l g_{ij})",
+        "Γ^k_{ij} = δ^k_i δ^k_j",
+        "Γ^k_{ij} = g_{ij}"
+      ],
+      "answer": "Γ^k_{ij} = (1/2) g^{kl}(∂_i g_{lj}+∂_j g_{li}-∂_l g_{ij})"
+    }
+  ]
+}

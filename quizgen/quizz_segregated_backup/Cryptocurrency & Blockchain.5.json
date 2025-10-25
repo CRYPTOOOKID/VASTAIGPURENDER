@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a popular Bitcoin hardware wallet brand?",
+      "options": [
+        "Ledger",
+        "CoinMarketCap",
+        "Etherscan"
+      ],
+      "answer": "Ledger"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country hosted an early major Bitcoin mining operation due to cheap electricity?",
+      "options": [
+        "China",
+        "Switzerland",
+        "Brazil"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Bitcoin improvement introduced bech32 address format for segwit?",
+      "options": [
+        "BIP173",
+        "BIP32",
+        "BIP39"
+      ],
+      "answer": "BIP173"
+    },
+    {
+      "question_id": 4,
+      "question": "Which coin is widely considered the first cryptocurrency?",
+      "options": [
+        "Bitcoin",
+        "Ripple",
+        "Ethereum"
+      ],
+      "answer": "Bitcoin"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'staking' in proof-of-stake networks?",
+      "options": [
+        "Locking coins to secure the network",
+        "Running ASIC miners",
+        "Performing off-chain swaps"
+      ],
+      "answer": "Locking coins to secure the network"
+    },
+    {
+      "question_id": 6,
+      "question": "What term describes blocks that were valid but not included in longest chain?",
+      "options": [
+        "Orphan or uncle blocks",
+        "Genesis blocks",
+        "Checkpoint blocks"
+      ],
+      "answer": "Orphan or uncle blocks"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'cryptocurrency' primarily use to secure transactions?",
+      "options": [
+        "Cryptography",
+        "Biometrics",
+        "Government regulation"
+      ],
+      "answer": "Cryptography"
+    },
+    {
+      "question_id": 8,
+      "question": "Which protocol enables fast Bitcoin micropayments off-chain?",
+      "options": [
+        "Lightning Network",
+        "Raiden Network",
+        "Plasma"
+      ],
+      "answer": "Lightning Network"
+    },
+    {
+      "question_id": 9,
+      "question": "Which cross-chain finality gadget is associated with Polkadot?",
+      "options": [
+        "Grandpa",
+        "Tendermint",
+        "Casper"
+      ],
+      "answer": "Grandpa"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a smart contract?",
+      "options": [
+        "Self-executing code on a blockchain",
+        "A legal paper contract",
+        "A centralized API"
+      ],
+      "answer": "Self-executing code on a blockchain"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'slippage' in decentralized exchanges?",
+      "options": [
+        "Difference between expected and executed price",
+        "Failure to sign a transaction",
+        "A wallet synchronization error"
+      ],
+      "answer": "Difference between expected and executed price"
+    },
+    {
+      "question_id": 12,
+      "question": "Which privacy-preserving protocol uses zero-knowledge proofs for shielded transactions in Zcash?",
+      "options": [
+        "zk-SNARKs",
+        "RingCT",
+        "Mixnets"
+      ],
+      "answer": "zk-SNARKs"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a 'seed phrase' used for?",
+      "options": [
+        "Recovering a wallet's private keys",
+        "Measuring transaction fees",
+        "Speeding mining rigs"
+      ],
+      "answer": "Recovering a wallet's private keys"
+    },
+    {
+      "question_id": 14,
+      "question": "Which wallet type keeps keys offline for maximum security?",
+      "options": [
+        "Cold wallet",
+        "Hot wallet",
+        "Custodial wallet"
+      ],
+      "answer": "Cold wallet"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the 'difficulty bomb' in Ethereum designed to do historically?",
+      "options": [
+        "Encourage transition from PoW to PoS by increasing difficulty",
+        "Limit smart contract size",
+        "Reduce gas price volatility"
+      ],
+      "answer": "Encourage transition from PoW to PoS by increasing difficulty"
+    }
+  ]
+}

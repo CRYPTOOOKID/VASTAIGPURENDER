@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the national anthem of the United States?",
+        "options": [
+          "The Star-Spangled Banner",
+          "America the Beautiful",
+          "My Country, 'Tis of Thee"
+        ],
+        "answer": "The Star-Spangled Banner"
+      },
+      {
+        "question": "Which country uses 'La Marseillaise' as its national anthem?",
+        "options": [
+          "France",
+          "Belgium",
+          "Switzerland"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "What is the traditional royal anthem of the United Kingdom?",
+        "options": [
+          "God Save the King",
+          "Rule, Britannia!",
+          "Jerusalem"
+        ],
+        "answer": "God Save the King"
+      },
+      {
+        "question": "Which country sings 'O Canada' as its national anthem?",
+        "options": [
+          "Canada",
+          "Australia",
+          "New Zealand"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "What is the national anthem of Japan?",
+        "options": [
+          "Kimigayo",
+          "Sakura Sakura",
+          "Kimi no Uta"
+        ],
+        "answer": "Kimigayo"
+      },
+      {
+        "question": "Which country's current national anthem melody was composed by Joseph Haydn?",
+        "options": [
+          "Germany",
+          "Austria",
+          "Italy"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "Which country uses 'March of the Volunteers' as its national anthem?",
+        "options": [
+          "China",
+          "North Korea",
+          "Vietnam"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "Which country uses 'Advance Australia Fair' as its national anthem?",
+        "options": [
+          "Australia",
+          "New Zealand",
+          "Canada"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which European country's national anthem is officially instrumental with no lyrics?",
+        "options": [
+          "Spain",
+          "Italy",
+          "Portugal"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which country uses 'God Defend New Zealand' as a national anthem?",
+        "options": [
+          "New Zealand",
+          "Australia",
+          "Fiji"
+        ],
+        "answer": "New Zealand"
+      },
+      {
+        "question": "Which country uses 'Il Canto degli Italiani' as its national anthem?",
+        "options": [
+          "Italy",
+          "San Marino",
+          "Switzerland"
+        ],
+        "answer": "Italy"
+      },
+      {
+        "question": "Which country's national motto is 'Liberté, égalité, fraternité'?",
+        "options": [
+          "France",
+          "Belgium",
+          "Luxembourg"
+        ],
+        "answer": "France"
+      },
+      {
+        "question": "Which country has 'In God We Trust' as its official national motto?",
+        "options": [
+          "United States",
+          "United Kingdom",
+          "Canada"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Which nation's official motto is 'Satyameva Jayate', meaning 'Truth alone triumphs'?",
+        "options": [
+          "India",
+          "Nepal",
+          "Sri Lanka"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which country's national motto is 'A Mari Usque Ad Mare' meaning 'From sea to sea'?",
+        "options": [
+          "Canada",
+          "Australia",
+          "South Africa"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "Which country's national anthem is titled 'Himno Nacional Mexicano'?",
+        "options": [
+          "Mexico",
+          "Spain",
+          "Argentina"
+        ],
+        "answer": "Mexico"
+      },
+      {
+        "question": "Which country sings the 'Hino Nacional Brasileiro' as its anthem?",
+        "options": [
+          "Brazil",
+          "Portugal",
+          "Angola"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Which country uses 'Amhrán na bhFiann' (The Soldier's Song) as its national anthem?",
+        "options": [
+          "Ireland",
+          "Scotland",
+          "Wales"
+        ],
+        "answer": "Ireland"
+      },
+      {
+        "question": "Which country's anthem lyrics originate from an ancient classical waka poem?",
+        "options": [
+          "Japan",
+          "Korea",
+          "China"
+        ],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which country uses a national anthem melody composed by Alexander Alexandrov?",
+        "options": [
+          "Russia",
+          "Poland",
+          "Ukraine"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which country's national motto reads 'Ordem e Progresso' meaning 'Order and Progress'?",
+        "options": [
+          "Brazil",
+          "Portugal",
+          "Spain"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Which royal motto appears on the United Kingdom's royal coat of arms?",
+        "options": [
+          "Dieu et mon droit",
+          "Honi soit qui mal y pense",
+          "A Mari Usque Ad Mare"
+        ],
+        "answer": "Dieu et mon droit"
+      },
+      {
+        "question": "Which country's national anthem is 'Jana Gana Mana'?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Bangladesh"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which country's anthem is commonly known by the opening words 'Bilady, Bilady, Bilady'?",
+        "options": [
+          "Egypt",
+          "Saudi Arabia",
+          "Morocco"
+        ],
+        "answer": "Egypt"
+      },
+      {
+        "question": "Which country uses 'Plus Ultra' as a historical national motto meaning 'Further beyond'?",
+        "options": [
+          "Spain",
+          "Portugal",
+          "Italy"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which country's national anthem is 'Hatikvah'?",
+        "options": [
+          "Israel",
+          "Jordan",
+          "Lebanon"
+        ],
+        "answer": "Israel"
+      },
+      {
+        "question": "Which nation's anthem is 'Kde domov můj'?",
+        "options": [
+          "Czech Republic",
+          "Slovakia",
+          "Poland"
+        ],
+        "answer": "Czech Republic"
+      },
+      {
+        "question": "Which country sings 'La Bayamesa' as its national anthem?",
+        "options": [
+          "Cuba",
+          "Puerto Rico",
+          "Dominican Republic"
+        ],
+        "answer": "Cuba"
+      },
+      {
+        "question": "Which country combines multiple languages including Xhosa, Zulu, Afrikaans, and English in its national anthem?",
+        "options": [
+          "South Africa",
+          "Kenya",
+          "Nigeria"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which country's national anthem is titled 'Lupang Hinirang'?",
+        "options": [
+          "Philippines",
+          "Indonesia",
+          "Malaysia"
+        ],
+        "answer": "Philippines"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who wrote both the words and music of 'La Marseillaise' in 1792?",
+        "options": [
+          "Claude Joseph Rouget de Lisle",
+          "Hector Berlioz",
+          "François-René de Chateaubriand"
+        ],
+        "answer": "Claude Joseph Rouget de Lisle"
+      },
+      {
+        "question": "In which year did the United States officially adopt 'The Star-Spangled Banner' as its national anthem?",
+        "options": [
+          "1931",
+          "1814",
+          "1865"
+        ],
+        "answer": "1931"
+      },
+      {
+        "question": "Which stanza of the 'Deutschlandlied' is used as Germany's national anthem today?",
+        "options": [
+          "Third stanza only",
+          "First stanza only",
+          "All three stanzas"
+        ],
+        "answer": "Third stanza only"
+      },
+      {
+        "question": "Who composed the music for 'O Canada' in 1880?",
+        "options": [
+          "Calixa Lavallée",
+          "Alexander Muir",
+          "Joseph Armand Bombardier"
+        ],
+        "answer": "Calixa Lavallée"
+      },
+      {
+        "question": "Which period does the poem behind Japan's 'Kimigayo' originate from?",
+        "options": [
+          "Heian period",
+          "Edo period",
+          "Meiji period"
+        ],
+        "answer": "Heian period"
+      },
+      {
+        "question": "Who wrote the lyrics of Germany's 'Deutschlandlied' in 1841?",
+        "options": [
+          "August Heinrich Hoffmann von Fallersleben",
+          "Friedrich Schiller",
+          "Johann Wolfgang von Goethe"
+        ],
+        "answer": "August Heinrich Hoffmann von Fallersleben"
+      },
+      {
+        "question": "Which country adopted 'March of the Volunteers' as its national anthem upon founding in 1949?",
+        "options": [
+          "People's Republic of China",
+          "Republic of China (Taiwan)",
+          "North Korea"
+        ],
+        "answer": "People's Republic of China"
+      },
+      {
+        "question": "Who wrote the lyrics of China's national anthem 'March of the Volunteers'?",
+        "options": [
+          "Tian Han",
+          "Lu Xun",
+          "Mao Zedong"
+        ],
+        "answer": "Tian Han"
+      },
+      {
+        "question": "Which country's anthem melody was originally written as an emperor's hymn titled 'Gott erhalte Franz den Kaiser'?",
+        "options": [
+          "Austria (later used in Germany)",
+          "Italy",
+          "Hungary"
+        ],
+        "answer": "Austria (later used in Germany)"
+      },
+      {
+        "question": "Which country's national anthem lyrics were written by a poet who became that country's first president?",
+        "options": [
+          "None of these",
+          "Tunisia",
+          "Ireland"
+        ],
+        "answer": "None of these"
+      },
+      {
+        "question": "Which anthem's music was composed by Jaime Nunó with lyrics by Francisco González Bocanegra?",
+        "options": [
+          "Mexico's Himno Nacional Mexicano",
+          "Spain's Marcha Real",
+          "Argentina's Himno Nacional"
+        ],
+        "answer": "Mexico's Himno Nacional Mexicano"
+      },
+      {
+        "question": "Which country officially adopted 'O Canada' as its national anthem in 1980?",
+        "options": [
+          "Canada",
+          "United Kingdom",
+          "United States"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "Which country's national motto appears on its coat of arms as 'Plus Ultra'?",
+        "options": [
+          "Spain",
+          "France",
+          "Portugal"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which national anthem is officially bilingual in English and French?",
+        "options": [
+          "Canada's 'O Canada'",
+          "United States' 'The Star-Spangled Banner'",
+          "Australia's 'Advance Australia Fair'"
+        ],
+        "answer": "Canada's 'O Canada'"
+      },
+      {
+        "question": "Which country's anthem contains stanzas originally written to inspire revolution in 1792?",
+        "options": [
+          "France's 'La Marseillaise'",
+          "Britain's 'God Save the King'",
+          "Sweden's 'Du gamla, Du fria'"
+        ],
+        "answer": "France's 'La Marseillaise'"
+      },
+      {
+        "question": "Which country's anthem includes lines in multiple indigenous languages after a 1997 revision?",
+        "options": [
+          "South Africa",
+          "New Zealand",
+          "Canada"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which composer wrote the melody later used in the Soviet and then Russian national anthems?",
+        "options": [
+          "Alexander Alexandrov",
+          "Sergei Prokofiev",
+          "Dmitri Shostakovich"
+        ],
+        "answer": "Alexander Alexandrov"
+      },
+      {
+        "question": "Which country's national motto 'Dieu et mon droit' uses a French phrase despite an English-speaking nation?",
+        "options": [
+          "United Kingdom",
+          "United States",
+          "Canada"
+        ],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "Which country's national anthem was selected by plebiscite in the 1980s replacing a previous song?",
+        "options": [
+          "Australia selected 'Advance Australia Fair' in 1984",
+          "Canada selected 'O Canada' in 1984",
+          "New Zealand selected 'God Defend New Zealand' in 1984"
+        ],
+        "answer": "Australia selected 'Advance Australia Fair' in 1984"
+      },
+      {
+        "question": "Which country's national anthem opens with words meaning 'Arise, descendants of' in its official language?",
+        "options": [
+          "Egypt ('Bilady, Bilady, Bilady')",
+          "Greece ('Hymn to Liberty')",
+          "Turkey ('İstiklal Marşı')"
+        ],
+        "answer": "Egypt ('Bilady, Bilady, Bilady')"
+      },
+      {
+        "question": "Which national anthem's English title is 'The Soldier's Song'?",
+        "options": [
+          "Ireland's 'Amhrán na bhFiann'",
+          "Scotland's 'Flower of Scotland'",
+          "Wales' 'Hen Wlad Fy Nhadau'"
+        ],
+        "answer": "Ireland's 'Amhrán na bhFiann'"
+      },
+      {
+        "question": "Which country's motto 'A Mari Usque Ad Mare' comes from a biblical phrase translated into Latin?",
+        "options": [
+          "Canada",
+          "Italy",
+          "France"
+        ],
+        "answer": "Canada"
+      },
+      {
+        "question": "Which country's anthem melody was written by Francisco Manuel da Silva in the early 19th century?",
+        "options": [
+          "Brazil",
+          "Portugal",
+          "Spain"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Which nation's national motto uses a phrase from the Upanishads?",
+        "options": [
+          "India ('Satyameva Jayate')",
+          "Nepal",
+          "Bhutan"
+        ],
+        "answer": "India ('Satyameva Jayate')"
+      },
+      {
+        "question": "Which country's anthem was composed by Joseph Haydn for a Habsburg emperor before being repurposed?",
+        "options": [
+          "Austria (melody adopted by Germany)",
+          "Russia",
+          "Switzerland"
+        ],
+        "answer": "Austria (melody adopted by Germany)"
+      },
+      {
+        "question": "Which country's national anthem includes a chorus that became widely known as a patriotic hymn outside the nation?",
+        "options": [
+          "France ('La Marseillaise')",
+          "Japan ('Kimigayo')",
+          "Mexico ('Himno Nacional Mexicano')"
+        ],
+        "answer": "France ('La Marseillaise')"
+      },
+      {
+        "question": "Which country's motto 'Ordem e Progresso' was inspired by positivist philosophy?",
+        "options": [
+          "Brazil",
+          "Portugal",
+          "Spain"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Which country's anthem lyrics were written by Peadar Kearney with music later arranged by Patrick Heeney?",
+        "options": [
+          "Ireland",
+          "Scotland",
+          "Wales"
+        ],
+        "answer": "Ireland"
+      },
+      {
+        "question": "Which modern nation adopted a composite anthem combining a hymn and liberation song in 1997?",
+        "options": [
+          "South Africa",
+          "Zimbabwe",
+          "Namibia"
+        ],
+        "answer": "South Africa"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which national anthem's lyrics were written by a poet who was locked in a room until he produced them?",
+        "options": [
+          "Mexico's Himno Nacional Mexicano",
+          "France's La Marseillaise",
+          "Spain's La Marcha Real"
+        ],
+        "answer": "Mexico's Himno Nacional Mexicano"
+      },
+      {
+        "question": "Which country's national anthem was composed by a musician who also created a tune later repurposed as an imperial hymn?",
+        "options": [
+          "Austria (Haydn)",
+          "Hungary (Erkel)",
+          "Sweden (Waltz)"
+        ],
+        "answer": "Austria (Haydn)"
+      },
+      {
+        "question": "Which national anthem's present lyrics were penned by the same author who wrote the Soviet anthem lyrics later adapted for modern use?",
+        "options": [
+          "Russia (Sergei Mikhalkov revised lyrics)",
+          "Ukraine",
+          "Belarus"
+        ],
+        "answer": "Russia (Sergei Mikhalkov revised lyrics)"
+      },
+      {
+        "question": "Which country's national motto is written in an indigenous Khoisan language and appears on its coat of arms?",
+        "options": [
+          "South Africa ('ǃke e: ǀxarra ǁke')",
+          "Namibia",
+          "Botswana"
+        ],
+        "answer": "South Africa ('ǃke e: ǀxarra ǁke')"
+      },
+      {
+        "question": "Which national anthem melody was used as the basis for the Prussian royal anthem 'Heil dir im Siegerkranz'?",
+        "options": [
+          "God Save the King",
+          "La Marseillaise",
+          "Deutschlandlied melody"
+        ],
+        "answer": "God Save the King"
+      },
+      {
+        "question": "Which national motto is inscribed on the Canadian $1 coin and literally means 'From sea to sea'?",
+        "options": [
+          "A Mari Usque Ad Mare",
+          "Plus Ultra",
+          "E Pluribus Unum"
+        ],
+        "answer": "A Mari Usque Ad Mare"
+      },
+      {
+        "question": "Which national anthem originally had nine verses but is commonly performed using only the final stanza?",
+        "options": [
+          "Germany's 'Deutschlandlied'",
+          "France's 'La Marseillaise'",
+          "Italy's 'Il Canto degli Italiani'"
+        ],
+        "answer": "Germany's 'Deutschlandlied'"
+      },
+      {
+        "question": "Which nation's anthem famously borrows its tune from a British drinking song 'To Anacreon in Heaven'?",
+        "options": [
+          "United States ('The Star-Spangled Banner')",
+          "Australia",
+          "Canada"
+        ],
+        "answer": "United States ('The Star-Spangled Banner')"
+      },
+      {
+        "question": "Which country's national motto became official only in 1956 despite earlier popular use?",
+        "options": [
+          "United States ('In God We Trust')",
+          "France ('Liberté, égalité, fraternité')",
+          "Canada ('A Mari Usque Ad Mare')"
+        ],
+        "answer": "United States ('In God We Trust')"
+      },
+      {
+        "question": "Which national anthem's modern form fuses a colonial-era hymn with a liberation song, including five languages?",
+        "options": [
+          "South Africa",
+          "Zimbabwe",
+          "Ethiopia"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which national anthem's original poet was imprisoned during the regime that later censored his work, delaying public recognition?",
+        "options": [
+          "China's 'March of the Volunteers' (Tian Han)",
+          "France's 'La Marseillaise' (Rouget de Lisle)",
+          "Russia's anthem poet"
+        ],
+        "answer": "China's 'March of the Volunteers' (Tian Han)"
+      },
+      {
+        "question": "Which country's national motto is a Latin phrase once used as a Roman imperial slogan and later adopted by the modern state?",
+        "options": [
+          "Spain ('Plus Ultra')",
+          "Italy ('Unione e Forza')",
+          "Portugal ('Esta é a Pátria')"
+        ],
+        "answer": "Spain ('Plus Ultra')"
+      },
+      {
+        "question": "Which national anthem is among the oldest in text, with lyrics tracing to a poem possibly from the 10th century?",
+        "options": [
+          "Japan's 'Kimigayo'",
+          "Iran's 'Soroud-e Melli'",
+          "Greece's 'Hymn to Liberty'"
+        ],
+        "answer": "Japan's 'Kimigayo'"
+      },
+      {
+        "question": "Which national anthem's music was composed by a conductor of the Red Army Choir and later adapted for state use?",
+        "options": [
+          "Russia's state anthem (Alexander Alexandrov)",
+          "Soviet Georgia's anthem",
+          "Bulgaria's anthem"
+        ],
+        "answer": "Russia's state anthem (Alexander Alexandrov)"
+      },
+      {
+        "question": "Which country changed its official national motto after a revolution, replacing a dynastic slogan with a republican phrase?",
+        "options": [
+          "France (post-revolution)",
+          "Spain (post-Franco)",
+          "Portugal (post-Carnation Revolution)"
+        ],
+        "answer": "France (post-revolution)"
+      },
+      {
+        "question": "Which country's anthem had a female poet credited for writing its lyrics in the 20th century, a rarity among national anthems?",
+        "options": [
+          "None of these",
+          "Finland",
+          "Iceland"
+        ],
+        "answer": "None of these"
+      },
+      {
+        "question": "Which national anthem's official performance practice often omits multiple original verses to keep duration under a minute?",
+        "options": [
+          "Japan's 'Kimigayo'",
+          "United States' 'The Star-Spangled Banner'",
+          "France's 'La Marseillaise'"
+        ],
+        "answer": "Japan's 'Kimigayo'"
+      },
+      {
+        "question": "Which country's motto on its national emblem reads 'E Pluribus Unum' though a different phrase is currently the official motto?",
+        "options": [
+          "United States",
+          "Canada",
+          "Australia"
+        ],
+        "answer": "United States"
+      },
+      {
+        "question": "Which national anthem was composed by a musician who later became famous as a bandleader for a state's official choir?",
+        "options": [
+          "Russia (Alexandrov)",
+          "Greece",
+          "Poland"
+        ],
+        "answer": "Russia (Alexandrov)"
+      },
+      {
+        "question": "Which national anthem was subject to long debates over official lyrics because of regional language sensitivities?",
+        "options": [
+          "Spain (various regional issues)",
+          "Germany",
+          "Ireland"
+        ],
+        "answer": "Spain (various regional issues)"
+      },
+      {
+        "question": "Which country's motto 'Satyameva Jayate' is taken from the ancient Sanskrit Mundaka Upanishad?",
+        "options": [
+          "India",
+          "Nepal",
+          "Sri Lanka"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Which national anthem's melody was once used as the tune for the British patriotic song 'God Save the King' in another language's adaptation?",
+        "options": [
+          "Prussian royal anthem 'Heil dir im Siegerkranz' used the same tune as 'God Save the King'",
+          "French Marseillaise used same as British",
+          "Spanish Marcha Real used same as British"
+        ],
+        "answer": "Prussian royal anthem 'Heil dir im Siegerkranz' used the same tune as 'God Save the King'"
+      },
+      {
+        "question": "Which country revised its anthem in 1994 to remove references to a previous political system while keeping the melody?",
+        "options": [
+          "Russia (post-Soviet revisions)",
+          "France",
+          "Italy"
+        ],
+        "answer": "Russia (post-Soviet revisions)"
+      },
+      {
+        "question": "Which national motto is emblazoned on a Latin American flag and reads 'Ordem e Progresso' on its national banner?",
+        "options": [
+          "Brazil",
+          "Argentina",
+          "Chile"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Which country's national anthem includes stanzas borrowed from a 19th-century independence song written by an exile?",
+        "options": [
+          "Venezuela",
+          "Chile",
+          "Greece"
+        ],
+        "answer": "Chile"
+      },
+      {
+        "question": "Which nation's anthem was famously performed at the Olympics despite being unofficial domestically for decades?",
+        "options": [
+          "England's 'God Save the King' used unofficially for some sporting events",
+          "Scotland's 'Flower of Scotland'",
+          "Wales' 'Hen Wlad Fy Nhadau'"
+        ],
+        "answer": "England's 'God Save the King' used unofficially for some sporting events"
+      },
+      {
+        "question": "Which country's national motto appears on coins and banknotes and was established during wartime to unify the population?",
+        "options": [
+          "United States ('In God We Trust' formalized in 1956)",
+          "France ('Liberté, égalité, fraternité')",
+          "Canada ('A Mari Usque Ad Mare')"
+        ],
+        "answer": "United States ('In God We Trust' formalized in 1956)"
+      },
+      {
+        "question": "Which national anthem includes portions sung in isiXhosa and isiZulu to reflect linguistic diversity?",
+        "options": [
+          "South Africa",
+          "Zimbabwe",
+          "Mozambique"
+        ],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which national motto was originally a slogan of a political movement and later enshrined as a formal national phrase?",
+        "options": [
+          "Brazil's 'Ordem e Progresso' (positivist influence)",
+          "Spain's 'Plus Ultra'",
+          "Canada's 'A Mari Usque Ad Mare'"
+        ],
+        "answer": "Brazil's 'Ordem e Progresso' (positivist influence)"
+      },
+      {
+        "question": "Which country's anthem had its lyrics rewritten multiple times across the 20th century to match political leadership changes?",
+        "options": [
+          "Russia",
+          "Italy",
+          "Portugal"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which national anthem's text was suppressed and its author imprisoned during a regime, only to be restored post-regime?",
+        "options": [
+          "China's 'March of the Volunteers' (Tian Han)",
+          "Germany's 'Deutschlandlied' (Hoffmann von Fallersleben)",
+          "France's 'La Marseillaise' (Rouget de Lisle)"
+        ],
+        "answer": "China's 'March of the Volunteers' (Tian Han)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who co-founded Apple alongside Steve Jobs?",
+        "options": [
+          "Steve Wozniak",
+          "Bill Gates",
+          "Tim Cook"
+        ],
+        "answer": "Steve Wozniak"
+      },
+      {
+        "question": "Who co-founded Microsoft with Paul Allen?",
+        "options": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Mark Zuckerberg"
+        ],
+        "answer": "Bill Gates"
+      },
+      {
+        "question": "Who founded Amazon in 1994?",
+        "options": [
+          "Jeff Bezos",
+          "Elon Musk",
+          "Jack Ma"
+        ],
+        "answer": "Jeff Bezos"
+      },
+      {
+        "question": "Who founded Facebook (now Meta)?",
+        "options": [
+          "Mark Zuckerberg",
+          "Evan Spiegel",
+          "Travis Kalanick"
+        ],
+        "answer": "Mark Zuckerberg"
+      },
+      {
+        "question": "Who currently serves as Tesla's CEO and public face?",
+        "options": [
+          "Elon Musk",
+          "Jeff Bezos",
+          "Tim Cook"
+        ],
+        "answer": "Elon Musk"
+      },
+      {
+        "question": "Who succeeded Steve Jobs as Apple CEO in 2011?",
+        "options": [
+          "Tim Cook",
+          "Jony Ive",
+          "Steve Ballmer"
+        ],
+        "answer": "Tim Cook"
+      },
+      {
+        "question": "Which pair co-founded Google?",
+        "options": [
+          "Larry Page and Sergey Brin",
+          "Steve Jobs and Steve Wozniak",
+          "Bill Gates and Paul Allen"
+        ],
+        "answer": "Larry Page and Sergey Brin"
+      },
+      {
+        "question": "Who founded Alibaba Group?",
+        "options": [
+          "Jack Ma",
+          "Pony Ma",
+          "Lei Jun"
+        ],
+        "answer": "Jack Ma"
+      },
+      {
+        "question": "Who co-founded Netflix in 1997?",
+        "options": [
+          "Reed Hastings",
+          "Jeff Bezos",
+          "Marc Benioff"
+        ],
+        "answer": "Reed Hastings"
+      },
+      {
+        "question": "Which entrepreneur co-founded PayPal and later founded Palantir?",
+        "options": [
+          "Peter Thiel",
+          "Reid Hoffman",
+          "Marc Andreessen"
+        ],
+        "answer": "Peter Thiel"
+      },
+      {
+        "question": "Who co-founded Oracle and led it for decades?",
+        "options": [
+          "Larry Ellison",
+          "Bill Gates",
+          "Michael Dell"
+        ],
+        "answer": "Larry Ellison"
+      },
+      {
+        "question": "Who founded Dell Technologies?",
+        "options": [
+          "Michael Dell",
+          "Steve Jobs",
+          "Gordon Moore"
+        ],
+        "answer": "Michael Dell"
+      },
+      {
+        "question": "Who founded IKEA?",
+        "options": [
+          "Ingvar Kamprad",
+          "Alvar Aalto",
+          "Ole Kirk"
+        ],
+        "answer": "Ingvar Kamprad"
+      },
+      {
+        "question": "Who founded Walmart?",
+        "options": [
+          "Sam Walton",
+          "Sam Walton Jr.",
+          "John Walton"
+        ],
+        "answer": "Sam Walton"
+      },
+      {
+        "question": "Who founded Toyota Motor Company?",
+        "options": [
+          "Kiichiro Toyoda",
+          "Soichiro Honda",
+          "Sakichi Toyoda"
+        ],
+        "answer": "Kiichiro Toyoda"
+      },
+      {
+        "question": "Who was an early co-founder and the first CEO of Twitter?",
+        "options": [
+          "Jack Dorsey",
+          "Evan Spiegel",
+          "Noah Glass"
+        ],
+        "answer": "Jack Dorsey"
+      },
+      {
+        "question": "Who transformed Berkshire Hathaway into a major conglomerate as CEO?",
+        "options": [
+          "Warren Buffett",
+          "Charlie Munger",
+          "Benjamin Graham"
+        ],
+        "answer": "Warren Buffett"
+      },
+      {
+        "question": "Who founded the fashion retailer Zara?",
+        "options": [
+          "Amancio Ortega",
+          "Bernard Arnault",
+          "Giorgio Armani"
+        ],
+        "answer": "Amancio Ortega"
+      },
+      {
+        "question": "Who co-founded Snapchat?",
+        "options": [
+          "Evan Spiegel",
+          "Kevin Systrom",
+          "Mike Krieger"
+        ],
+        "answer": "Evan Spiegel"
+      },
+      {
+        "question": "Which entrepreneur co-founded Instagram?",
+        "options": [
+          "Kevin Systrom",
+          "Jack Dorsey",
+          "Jan Koum"
+        ],
+        "answer": "Kevin Systrom"
+      },
+      {
+        "question": "Who co-founded WhatsApp and served as its CEO?",
+        "options": [
+          "Jan Koum",
+          "Brian Acton",
+          "Evan Williams"
+        ],
+        "answer": "Jan Koum"
+      },
+      {
+        "question": "Who founded the Tata Group in India?",
+        "options": [
+          "Jamsetji Tata",
+          "Dhirubhai Ambani",
+          "Ratan Tata"
+        ],
+        "answer": "Jamsetji Tata"
+      },
+      {
+        "question": "Which computer scientist co-founded Adobe Systems?",
+        "options": [
+          "John Warnock",
+          "Steve Jobs",
+          "Bill Gates"
+        ],
+        "answer": "John Warnock"
+      },
+      {
+        "question": "Which entrepreneur co-founded Sony?",
+        "options": [
+          "Akio Morita",
+          "Soichiro Honda",
+          "Masaru Ibuka"
+        ],
+        "answer": "Akio Morita"
+      },
+      {
+        "question": "Who founded Ford Motor Company?",
+        "options": [
+          "Henry Ford",
+          "Karl Benz",
+          "Enzo Ferrari"
+        ],
+        "answer": "Henry Ford"
+      },
+      {
+        "question": "Who founded eBay and listed the first auction there?",
+        "options": [
+          "Pierre Omidyar",
+          "Jeff Bezos",
+          "Jack Ma"
+        ],
+        "answer": "Pierre Omidyar"
+      },
+      {
+        "question": "Which YouTube co-founder uploaded the platform's first video?",
+        "options": [
+          "Jawed Karim",
+          "Chad Hurley",
+          "Steve Chen"
+        ],
+        "answer": "Jawed Karim"
+      },
+      {
+        "question": "Who founded Xiaomi, the Chinese electronics company?",
+        "options": [
+          "Lei Jun",
+          "Hugo Barra",
+          "Pony Ma"
+        ],
+        "answer": "Lei Jun"
+      },
+      {
+        "question": "Who founded the LEGO Group?",
+        "options": [
+          "Ole Kirk Christiansen",
+          "Godtfred Kirk Christiansen",
+          "Kjeld Kirk Kristiansen"
+        ],
+        "answer": "Ole Kirk Christiansen"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did Amazon hold its initial public offering (IPO)?",
+        "options": [
+          "1995",
+          "1997",
+          "1999"
+        ],
+        "answer": "1997"
+      },
+      {
+        "question": "Who became CEO of both Google and Alphabet in 2019?",
+        "options": [
+          "Sundar Pichai",
+          "Larry Page",
+          "Sergey Brin"
+        ],
+        "answer": "Sundar Pichai"
+      },
+      {
+        "question": "Which executive expanded Starbucks globally as its longtime CEO?",
+        "options": [
+          "Howard Schultz",
+          "Jerry Baldwin",
+          "Gordon Bowker"
+        ],
+        "answer": "Howard Schultz"
+      },
+      {
+        "question": "What was Facebook's original name at Harvard?",
+        "options": [
+          "TheFacebook",
+          "HarvardNet",
+          "CampusBook"
+        ],
+        "answer": "TheFacebook"
+      },
+      {
+        "question": "Which company did Elon Musk co-found that later merged into PayPal?",
+        "options": [
+          "X.com",
+          "SpaceX",
+          "SolarCity"
+        ],
+        "answer": "X.com"
+      },
+      {
+        "question": "Which entrepreneur purchased The Washington Post in 2013?",
+        "options": [
+          "Jeff Bezos",
+          "Warren Buffett",
+          "Mark Zuckerberg"
+        ],
+        "answer": "Jeff Bezos"
+      },
+      {
+        "question": "In which year did Apple first go public?",
+        "options": [
+          "1980",
+          "1984",
+          "1976"
+        ],
+        "answer": "1980"
+      },
+      {
+        "question": "Which entrepreneur co-founded the professional network LinkedIn?",
+        "options": [
+          "Reid Hoffman",
+          "Drew Houston",
+          "Ben Silbermann"
+        ],
+        "answer": "Reid Hoffman"
+      },
+      {
+        "question": "In which year did Jack Ma found Alibaba?",
+        "options": [
+          "1997",
+          "1999",
+          "2001"
+        ],
+        "answer": "1999"
+      },
+      {
+        "question": "Who replaced Steve Ballmer as Microsoft CEO in 2014?",
+        "options": [
+          "Satya Nadella",
+          "Sundar Pichai",
+          "Tim Cook"
+        ],
+        "answer": "Satya Nadella"
+      },
+      {
+        "question": "Which entrepreneur co-founded Netscape and later a prominent VC firm?",
+        "options": [
+          "Marc Andreessen",
+          "Peter Thiel",
+          "Evan Williams"
+        ],
+        "answer": "Marc Andreessen"
+      },
+      {
+        "question": "Which company did Travis Kalanick co-found in 2009?",
+        "options": [
+          "Uber",
+          "Lyft",
+          "DoorDash"
+        ],
+        "answer": "Uber"
+      },
+      {
+        "question": "Which Alibaba founder launched Singles' Day as a shopping event?",
+        "options": [
+          "Jack Ma",
+          "Pony Ma",
+          "Lei Jun"
+        ],
+        "answer": "Jack Ma"
+      },
+      {
+        "question": "In which year did Tesla hold its initial public offering?",
+        "options": [
+          "2008",
+          "2010",
+          "2012"
+        ],
+        "answer": "2010"
+      },
+      {
+        "question": "Which entrepreneur founded SpaceX in 2002?",
+        "options": [
+          "Elon Musk",
+          "Jeff Bezos",
+          "Richard Branson"
+        ],
+        "answer": "Elon Musk"
+      },
+      {
+        "question": "In which year did Google reorganize under the parent company Alphabet?",
+        "options": [
+          "2012",
+          "2015",
+          "2018"
+        ],
+        "answer": "2015"
+      },
+      {
+        "question": "Which PayPal co-founder ran for U.S. president and later backed tech ventures?",
+        "options": [
+          "Peter Thiel",
+          "Max Levchin",
+          "Reid Hoffman"
+        ],
+        "answer": "Peter Thiel"
+      },
+      {
+        "question": "Which founder launched Virgin Atlantic airline as part of Virgin Group?",
+        "options": [
+          "Richard Branson",
+          "Howard Schultz",
+          "Herb Kelleher"
+        ],
+        "answer": "Richard Branson"
+      },
+      {
+        "question": "Which entrepreneur co-founded Dropbox and served as CEO?",
+        "options": [
+          "Drew Houston",
+          "Stewart Butterfield",
+          "Evan Williams"
+        ],
+        "answer": "Drew Houston"
+      },
+      {
+        "question": "What was Google's early project name before it became Google?",
+        "options": [
+          "Backrub",
+          "Infoseek",
+          "AltaVista"
+        ],
+        "answer": "Backrub"
+      },
+      {
+        "question": "Which WhatsApp co-founder previously worked at Yahoo?",
+        "options": [
+          "Jan Koum",
+          "Brian Acton",
+          "Evan Spiegel"
+        ],
+        "answer": "Jan Koum"
+      },
+      {
+        "question": "In which year did Tim Cook officially become Apple CEO?",
+        "options": [
+          "2010",
+          "2011",
+          "2012"
+        ],
+        "answer": "2011"
+      },
+      {
+        "question": "Which Alibaba founder stepped down as executive chairman in 2019?",
+        "options": [
+          "Jack Ma",
+          "Lei Jun",
+          "Pony Ma"
+        ],
+        "answer": "Jack Ma"
+      },
+      {
+        "question": "Which Microsoft co-founder created a major global philanthropic foundation?",
+        "options": [
+          "Bill Gates",
+          "Steve Ballmer",
+          "Paul Allen"
+        ],
+        "answer": "Bill Gates"
+      },
+      {
+        "question": "Which WhatsApp co-founder later co-founded the Signal Foundation?",
+        "options": [
+          "Brian Acton",
+          "Jan Koum",
+          "Mark Zuckerberg"
+        ],
+        "answer": "Brian Acton"
+      },
+      {
+        "question": "Which tech entrepreneur co-founded Google with Larry Page?",
+        "options": [
+          "Sergey Brin",
+          "Eric Schmidt",
+          "Andy Rubin"
+        ],
+        "answer": "Sergey Brin"
+      },
+      {
+        "question": "Which female entrepreneur founded the Estée Lauder cosmetics company?",
+        "options": [
+          "Estée Lauder",
+          "Mary Kay Ash",
+          "Helena Rubinstein"
+        ],
+        "answer": "Estée Lauder"
+      },
+      {
+        "question": "In which year did Amazon launch its Prime subscription service?",
+        "options": [
+          "2003",
+          "2005",
+          "2007"
+        ],
+        "answer": "2005"
+      },
+      {
+        "question": "Who returned to Apple in 1997 and led its product and design revival?",
+        "options": [
+          "Steve Jobs",
+          "John Sculley",
+          "Gil Amelio"
+        ],
+        "answer": "Steve Jobs"
+      },
+      {
+        "question": "Who founded Zoom Video Communications and served as its CEO?",
+        "options": [
+          "Eric Yuan",
+          "Drew Houston",
+          "Stewart Butterfield"
+        ],
+        "answer": "Eric Yuan"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which two entrepreneurs originally founded Tesla Motors in 2003?",
+        "options": [
+          "Martin Eberhard and Marc Tarpenning",
+          "Elon Musk and JB Straubel",
+          "Larry Page and Sergey Brin"
+        ],
+        "answer": "Martin Eberhard and Marc Tarpenning"
+      },
+      {
+        "question": "What mathematical term inspired the name 'Google'?",
+        "options": [
+          "Googol",
+          "Godel",
+          "Gaussian"
+        ],
+        "answer": "Googol"
+      },
+      {
+        "question": "In which California town was Apple founded in Steve Jobs' parents' garage?",
+        "options": [
+          "Los Altos",
+          "Cupertino",
+          "Palo Alto"
+        ],
+        "answer": "Los Altos"
+      },
+      {
+        "question": "What does the acronym IKEA stand for?",
+        "options": [
+          "Ingvar Kamprad Elmtaryd Agunnaryd",
+          "International Kitchens and Export Association",
+          "Ingvar Kamprad European Association"
+        ],
+        "answer": "Ingvar Kamprad Elmtaryd Agunnaryd"
+      },
+      {
+        "question": "Which Microsoft executive led Cloud & Enterprise before becoming CEO in 2014?",
+        "options": [
+          "Satya Nadella",
+          "Kevin Turner",
+          "Steve Ballmer"
+        ],
+        "answer": "Satya Nadella"
+      },
+      {
+        "question": "Which early Apple co-founder sold his shares back to Jobs and Wozniak for $800?",
+        "options": [
+          "Ronald Wayne",
+          "Steve Wozniak",
+          "Mike Markkula"
+        ],
+        "answer": "Ronald Wayne"
+      },
+      {
+        "question": "Which company did Elon Musk found in 2002 focused on rockets and spacecraft?",
+        "options": [
+          "SpaceX",
+          "Blue Origin",
+          "Virgin Galactic"
+        ],
+        "answer": "SpaceX"
+      },
+      {
+        "question": "Which outside executive became Google's CEO in 2001, stabilizing growth?",
+        "options": [
+          "Eric Schmidt",
+          "John Doerr",
+          "Marissa Mayer"
+        ],
+        "answer": "Eric Schmidt"
+      },
+      {
+        "question": "Which company acquired Instagram in 2012 for about $1 billion?",
+        "options": [
+          "Facebook",
+          "Google",
+          "Twitter"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Before founding Amazon, at which firm did Jeff Bezos work?",
+        "options": [
+          "D. E. Shaw & Co.",
+          "Goldman Sachs",
+          "McKinsey & Company"
+        ],
+        "answer": "D. E. Shaw & Co."
+      },
+      {
+        "question": "Which co-founder of Apple designed the Apple I circuit board?",
+        "options": [
+          "Steve Wozniak",
+          "Steve Jobs",
+          "Ronald Wayne"
+        ],
+        "answer": "Steve Wozniak"
+      },
+      {
+        "question": "Which Intel co-founder is credited as a pioneer of the silicon integrated circuit?",
+        "options": [
+          "Robert Noyce",
+          "Gordon Moore",
+          "Andy Grove"
+        ],
+        "answer": "Robert Noyce"
+      },
+      {
+        "question": "Which founder started PayPal's precursor Confinity alongside Max Levchin?",
+        "options": [
+          "Peter Thiel",
+          "Elon Musk",
+          "Reid Hoffman"
+        ],
+        "answer": "Peter Thiel"
+      },
+      {
+        "question": "What was the Netflix service model before streaming became primary?",
+        "options": [
+          "DVD-by-mail subscription",
+          "Advertising-supported streaming",
+          "Retail DVD sales"
+        ],
+        "answer": "DVD-by-mail subscription"
+      },
+      {
+        "question": "Which co-founder of WhatsApp emigrated from Ukraine and later sold the app to Facebook?",
+        "options": [
+          "Jan Koum",
+          "Brian Acton",
+          "Vlad Tenev"
+        ],
+        "answer": "Jan Koum"
+      },
+      {
+        "question": "Which Apple founder acquired and led Pixar before its IPO and Disney sale?",
+        "options": [
+          "Steve Jobs",
+          "John Lasseter",
+          "Ed Catmull"
+        ],
+        "answer": "Steve Jobs"
+      },
+      {
+        "question": "Which co-founder of Twitter sold his remaining shares early and left the company in 2000s?",
+        "options": [
+          "Noah Glass",
+          "Jack Dorsey",
+          "Biz Stone"
+        ],
+        "answer": "Noah Glass"
+      },
+      {
+        "question": "Which rare stock event occurred when Google's IPO used a Dutch auction in 2004?",
+        "options": [
+          "Dutch auction pricing method",
+          "Direct listing without underwriting",
+          "Traditional underwriters only"
+        ],
+        "answer": "Dutch auction pricing method"
+      },
+      {
+        "question": "Which retailer founder created the first mail-order catalog in India under Tata origins?",
+        "options": [
+          "Jamsetji Tata",
+          "Dhirubhai Ambani",
+          "J.R.D. Tata"
+        ],
+        "answer": "Jamsetji Tata"
+      },
+      {
+        "question": "Which entrepreneur famously invested early in Tesla and SolarCity before merging energy efforts?",
+        "options": [
+          "Elon Musk",
+          "Larry Page",
+          "Peter Thiel"
+        ],
+        "answer": "Elon Musk"
+      },
+      {
+        "question": "Which co-founder walked away from Apple with a small stake and brief tenure in 1976?",
+        "options": [
+          "Ronald Wayne",
+          "Steve Wozniak",
+          "Mike Markkula"
+        ],
+        "answer": "Ronald Wayne"
+      },
+      {
+        "question": "Which entrepreneur founded Dell from a dorm room selling upgraded PCs?",
+        "options": [
+          "Michael Dell",
+          "Steve Jobs",
+          "Bill Gates"
+        ],
+        "answer": "Michael Dell"
+      },
+      {
+        "question": "Which early investor and CEO transformed Amazon from bookstore to 'everything store'?",
+        "options": [
+          "Jeff Bezos",
+          "Shel Kaphan",
+          "Nick Hanauer"
+        ],
+        "answer": "Jeff Bezos"
+      },
+      {
+        "question": "Which founder of Alibaba famously gave a 2015 speech criticizing short-term thinking in business?",
+        "options": [
+          "Jack Ma",
+          "Lei Jun",
+          "Pony Ma"
+        ],
+        "answer": "Jack Ma"
+      },
+      {
+        "question": "Which co-founder of Google was a PhD student at Stanford when he started the company?",
+        "options": [
+          "Larry Page",
+          "Eric Schmidt",
+          "Sundar Pichai"
+        ],
+        "answer": "Larry Page"
+      },
+      {
+        "question": "Which founder created the modular business model behind Zara's rapid fashion cycles?",
+        "options": [
+          "Amancio Ortega",
+          "Bernard Arnault",
+          "Miuccia Prada"
+        ],
+        "answer": "Amancio Ortega"
+      },
+      {
+        "question": "Which startup founder is known for founding both PayPal and Palantir and investing in tech startups?",
+        "options": [
+          "Peter Thiel",
+          "Elon Musk",
+          "Marc Andreessen"
+        ],
+        "answer": "Peter Thiel"
+      },
+      {
+        "question": "Which co-founder of YouTube left early to join other ventures but uploaded the first video?",
+        "options": [
+          "Jawed Karim",
+          "Chad Hurley",
+          "Steve Chen"
+        ],
+        "answer": "Jawed Karim"
+      },
+      {
+        "question": "Which Netflix co-founder proposed the subscription model that replaced late fees?",
+        "options": [
+          "Reed Hastings",
+          "Marc Randolph",
+          "Ted Sarandos"
+        ],
+        "answer": "Reed Hastings"
+      }
+    ]
+  }
+}

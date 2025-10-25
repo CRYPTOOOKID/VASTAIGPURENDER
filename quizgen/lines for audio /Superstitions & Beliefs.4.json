@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which gesture involves throwing a pinch of salt over your left shoulder to prevent bad luck?"
+    },
+    {
+      "question_id": 2,
+      "question": "What name describes the custom of leaving small offerings for household spirits or ancestors?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which nineteenth-century occultist popularized talismanic sigils for personal magical practice?"
+    },
+    {
+      "question_id": 4,
+      "question": "What common household action do people perform to avoid tempting fate after a lucky event?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which practice involves interpreting tea leaves poured into a cup for fortunes?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term names the practice of marking door lintels with scratched symbols to protect households?"
+    },
+    {
+      "question_id": 7,
+      "question": "What do many people do immediately after saying a hopeful statement to avoid jinxing it?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which practice uses specially marked coins or objects hidden in buildings for luck?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which sea superstition held that sailors considered albatrosses as omens and sometimes shot them?"
+    },
+    {
+      "question_id": 10,
+      "question": "What do people commonly do three times to complete a small ritual hoping for good luck?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the name for charms or practices intended to ward off evil influences?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which period saw widespread publication of grimoires blending astrology, Christian prayer, and folk magic?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which figurine commonly sits with palms up to ward off the evil eye in some cultures?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which item placed above a door is oriented with ends upward to 'hold' luck in folklore?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which ancient Mesopotamian practice involved placing figurines to absorb disease and misfortune?"
+    }
+  ]
+}

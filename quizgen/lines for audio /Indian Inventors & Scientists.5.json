@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who served as long-time chairman of ISRO and guided many satellite missions?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which satellite was the first successful payload launched by SLV-3 in 1980?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian scientist developed theory linking stellar structure with quantum statistics in early 20th century?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian medical chemist developed important anti-epileptic and anti-malarial compounds?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian scientist’s theory underpins the concept of bosons in particle physics?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian physicist proposed a formula for photon scattering that today bears his name?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist invented the crescograph to measure plant growth?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian scientist discovered the Raman effect while studying light scattering in which material?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian scientist first measured plant electrical responses with instruments in the early 1900s?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the prominent Indian solid-state chemist known for contributions to materials science?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian scientist proposed the ionization formula key to stellar atmospheres?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian physicist’s experimental work with light earned international acclaim and a Nobel Prize?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who played a key role in India’s telecommunications revolution in the 1980s?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian scientist’s research established plant response studies using electric signaling?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian institute did Homi Bhabha champion to support atomic energy research after independence?"
+    }
+  ]
+}

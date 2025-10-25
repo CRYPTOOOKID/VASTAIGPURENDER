@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Sagrada Família, tapas, Barcelona — Which country?"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Mount Cook, Maori culture, Christchurch — Which country?"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Sufi shrines, Lahore literary festivals, Indus Valley civilizations remnants — Which country?"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Andes Mountains, Machu Picchu, Lima — Which country?"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Okavango Delta, Kalahari, diamond mines — Which country?"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: City-state with Gardens by the Bay, multilingual population, Marina Bay Sands — Which country?"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Acropolis, Athens, olive oil — Which country?"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Oktoberfest origins, Lederhosen, Bavaria — Which country?"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Oil-rich Gulf monarchy, Manama capital, Formula 1 host — Which country?"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Irish pubs, Guinness, Dublin — Which country?"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Maasai Mara, Amboseli, Nairobi National Park — Which country?"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Caucasus country with Nagorno-Karabakh conflict, Yerevan history, khachkar stone crosses — Which country?"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Kremlin, Red Square, vodka — Which country?"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Appalachian Mountains, Nashville music scene, Tennessee — Which country?"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Oued river systems, Atlas cedar forests, Tangier gateway — Which country?"
+    }
+  ]
+}

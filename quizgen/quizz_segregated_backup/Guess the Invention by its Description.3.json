@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention provides indoor lighting by converting electricity into light?",
+      "options": [
+        "Gas lamp",
+        "Light bulb",
+        "Candlestick"
+      ],
+      "answer": "Light bulb"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention used a semiconductor junction to replace vacuum tubes for smaller electronics?",
+      "options": [
+        "Transistor",
+        "Triode",
+        "Vacuum tube"
+      ],
+      "answer": "Transistor"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention employed CRISPR-Cas systems to enable programmable genome editing in living cells?",
+      "options": [
+        "Zinc-finger nucleases",
+        "CRISPR-Cas genome editing",
+        "Random mutagenesis"
+      ],
+      "answer": "CRISPR-Cas genome editing"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention uses rotating blades to create lift and enable vertical flight?",
+      "options": [
+        "Airplane",
+        "Helicopter",
+        "Glider"
+      ],
+      "answer": "Helicopter"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention enabled real-time global navigation for civilians using satellite signals?",
+      "options": [
+        "LORAN",
+        "GPS",
+        "Radar"
+      ],
+      "answer": "GPS"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention's concept used Rutherford's scattering experiments to advance particle detector design?",
+      "options": [
+        "Cloud chamber",
+        "Geiger counter",
+        "Photomultiplier tube"
+      ],
+      "answer": "Cloud chamber"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention uses a lens and mirror system to magnify distant objects for observation?",
+      "options": [
+        "Binoculars",
+        "Microscope",
+        "Telescope"
+      ],
+      "answer": "Telescope"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention created a practical method to measure longitude at sea using precision timekeeping?",
+      "options": [
+        "Sextant",
+        "Marine chronometer",
+        "Astrolabe"
+      ],
+      "answer": "Marine chronometer"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention's original vacuum-tube implementation consumed kilowatts but proved computing feasibility?",
+      "options": [
+        "ENIAC",
+        "Personal computer",
+        "Abacus"
+      ],
+      "answer": "ENIAC"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention prints text and images onto paper using movable type?",
+      "options": [
+        "Printing press",
+        "Typewriter",
+        "Photocopier"
+      ],
+      "answer": "Printing press"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention allowed cars to start reliably without hand cranks using an electric starter motor?",
+      "options": [
+        "Carburetor",
+        "Electric starter",
+        "Ignition coil"
+      ],
+      "answer": "Electric starter"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention applied Markov models and hidden Markov models to advance automated speech recognition?",
+      "options": [
+        "Gramophone",
+        "Speech recognizer",
+        "Teleprinter"
+      ],
+      "answer": "Speech recognizer"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention uses steam pressure to move pistons and power machinery?",
+      "options": [
+        "Electric motor",
+        "Steam engine",
+        "Internal combustion engine"
+      ],
+      "answer": "Steam engine"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention stores programs and data in binary form inside early electronic computers?",
+      "options": [
+        "Hard drive",
+        "Magnetic core memory",
+        "Punch cards"
+      ],
+      "answer": "Magnetic core memory"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention used the 'Moore's Law' observation to guide semiconductor roadmap planning?",
+      "options": [
+        "Integrated circuit",
+        "Vacuum tube computer",
+        "Relays"
+      ],
+      "answer": "Integrated circuit"
+    }
+  ]
+}

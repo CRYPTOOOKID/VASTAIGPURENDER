@@ -1,0 +1,838 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who formulated the three laws of motion commonly taught in physics?",
+        "options": [
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Johannes Kepler"
+        ],
+        "answer": "Isaac Newton"
+      },
+      {
+        "question": "Which law describes how current, voltage, and resistance relate in an electrical circuit?",
+        "options": [
+          "Ohm's law",
+          "Kirchhoff's law",
+          "Faraday's law"
+        ],
+        "answer": "Ohm's law"
+      },
+      {
+        "question": "What theory explains the diversity of species through natural selection?",
+        "options": [
+          "Theory of evolution by natural selection",
+          "Germ theory",
+          "Cell theory"
+        ],
+        "answer": "Theory of evolution by natural selection"
+      },
+      {
+        "question": "Which law states that for a fixed mass at constant temperature, pressure and volume are inversely proportional?",
+        "options": [
+          "Boyle's law",
+          "Charles's law",
+          "Avogadro's law"
+        ],
+        "answer": "Boyle's law"
+      },
+      {
+        "question": "Who is credited with proposing the law of universal gravitation?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Nicolaus Copernicus"
+        ],
+        "answer": "Isaac Newton"
+      },
+      {
+        "question": "What scientific principle explains why objects float when they displace their own weight in fluid?",
+        "options": [
+          "Archimedes' principle",
+          "Pascal's principle",
+          "Bernoulli's principle"
+        ],
+        "answer": "Archimedes' principle"
+      },
+      {
+        "question": "Which theory describes electromagnetic waves and light as unified phenomena?",
+        "options": [
+          "Maxwell's theory of electromagnetism",
+          "Special relativity",
+          "Quantum theory"
+        ],
+        "answer": "Maxwell's theory of electromagnetism"
+      },
+      {
+        "question": "What law states energy cannot be created or destroyed in an isolated system?",
+        "options": [
+          "Law of conservation of energy",
+          "Second law of thermodynamics",
+          "Law of diminishing returns"
+        ],
+        "answer": "Law of conservation of energy"
+      },
+      {
+        "question": "Which scientist proposed that microorganisms cause many diseases, advancing modern medicine?",
+        "options": [
+          "Louis Pasteur",
+          "Gregor Mendel",
+          "Robert Hooke"
+        ],
+        "answer": "Louis Pasteur"
+      },
+      {
+        "question": "What theory provides the foundation for modern genetics by explaining inheritance patterns?",
+        "options": [
+          "Mendelian inheritance",
+          "Cell theory",
+          "Quantum mechanics"
+        ],
+        "answer": "Mendelian inheritance"
+      },
+      {
+        "question": "Which law links the force on a charged particle to electric and magnetic fields?",
+        "options": [
+          "Lorentz force law",
+          "Coulomb's law",
+          "Hubble's law"
+        ],
+        "answer": "Lorentz force law"
+      },
+      {
+        "question": "Which law describes the relationship between pressure, temperature, and volume for gases at low density?",
+        "options": [
+          "Ideal gas law",
+          "Hooke's law",
+          "Kepler's law"
+        ],
+        "answer": "Ideal gas law"
+      },
+      {
+        "question": "What theory explains matter behaving as both particles and waves at microscopic scales?",
+        "options": [
+          "Wave-particle duality",
+          "Kinetic theory",
+          "Plate tectonics theory"
+        ],
+        "answer": "Wave-particle duality"
+      },
+      {
+        "question": "Which law states that accelerating masses produce gravitational attraction between them?",
+        "options": [
+          "Law of universal gravitation",
+          "Coriolis effect",
+          "Huygens' principle"
+        ],
+        "answer": "Law of universal gravitation"
+      },
+      {
+        "question": "What principle explains why pressure applied to an enclosed fluid is transmitted undiminished?",
+        "options": [
+          "Pascal's principle",
+          "Archimedes' principle",
+          "Bernoulli's principle"
+        ],
+        "answer": "Pascal's principle"
+      },
+      {
+        "question": "Which scientist developed the theory of special relativity?",
+        "options": [
+          "Albert Einstein",
+          "Niels Bohr",
+          "Max Planck"
+        ],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "What law relates the force needed to extend or compress a spring to the displacement?",
+        "options": [
+          "Hooke's law",
+          "Newton's third law",
+          "Laplace's law"
+        ],
+        "answer": "Hooke's law"
+      },
+      {
+        "question": "Which law explains why total momentum stays constant in an isolated system?",
+        "options": [
+          "Conservation of momentum",
+          "Conservation of charge",
+          "Conservation of mass"
+        ],
+        "answer": "Conservation of momentum"
+      },
+      {
+        "question": "Which theory established that cells are the basic unit of life?",
+        "options": [
+          "Cell theory",
+          "Germ theory",
+          "Plate tectonics"
+        ],
+        "answer": "Cell theory"
+      },
+      {
+        "question": "What law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?",
+        "options": [
+          "Avogadro's law",
+          "Boyle's law",
+          "Charles's law"
+        ],
+        "answer": "Avogadro's law"
+      },
+      {
+        "question": "Which law describes how orbiting planets sweep equal areas in equal times?",
+        "options": [
+          "Kepler's second law",
+          "Kepler's first law",
+          "Kepler's third law"
+        ],
+        "answer": "Kepler's second law"
+      },
+      {
+        "question": "What theory explains why solids, liquids, and gases have different macroscopic behavior from particle motion?",
+        "options": [
+          "Kinetic theory of gases",
+          "String theory",
+          "Relativity"
+        ],
+        "answer": "Kinetic theory of gases"
+      },
+      {
+        "question": "Which law explains that pressure in a fluid decreases as the speed of the fluid increases?",
+        "options": [
+          "Bernoulli's principle",
+          "Pascal's principle",
+          "Archimedes' principle"
+        ],
+        "answer": "Bernoulli's principle"
+      },
+      {
+        "question": "Which law measures the attraction between electrical charges?",
+        "options": [
+          "Coulomb's law",
+          "Ohm's law",
+          "Faraday's law"
+        ],
+        "answer": "Coulomb's law"
+      },
+      {
+        "question": "What law states that light speed in vacuum is constant for all observers?",
+        "options": [
+          "Constancy of the speed of light",
+          "Hubble's law",
+          "Planck's law"
+        ],
+        "answer": "Constancy of the speed of light"
+      },
+      {
+        "question": "Which theory explains how continents move over geologic time?",
+        "options": [
+          "Plate tectonics",
+          "Uniformitarianism",
+          "Punctuated equilibrium"
+        ],
+        "answer": "Plate tectonics"
+      },
+      {
+        "question": "Which law indicates that total energy and entropy relationships limit engine efficiency?",
+        "options": [
+          "Second law of thermodynamics",
+          "First law of thermodynamics",
+          "Third law of thermodynamics"
+        ],
+        "answer": "Second law of thermodynamics"
+      },
+      {
+        "question": "Which scientist is known for the laws describing planetary motion?",
+        "options": [
+          "Johannes Kepler",
+          "Galileo Galilei",
+          "Tycho Brahe"
+        ],
+        "answer": "Johannes Kepler"
+      },
+      {
+        "question": "What principle explains how capacitors store energy in an electric field?",
+        "options": [
+          "Electrostatic principle",
+          "Gauss's law",
+          "Pascal's principle"
+        ],
+        "answer": "Gauss's law"
+      },
+      {
+        "question": "Which law describes the expansion of the universe by relating galaxy recessional velocity to distance?",
+        "options": [
+          "Hubble's law",
+          "Kepler's law",
+          "Newton's law"
+        ],
+        "answer": "Hubble's law"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which law quantifies the relationship between magnetic flux change and induced electromotive force?",
+        "options": [
+          "Faraday's law of induction",
+          "Lenz's law",
+          "Ampère's law"
+        ],
+        "answer": "Faraday's law of induction"
+      },
+      {
+        "question": "Which conservation law is directly associated with time-translation symmetry via Noether's theorem?",
+        "options": [
+          "Conservation of energy",
+          "Conservation of momentum",
+          "Conservation of charge"
+        ],
+        "answer": "Conservation of energy"
+      },
+      {
+        "question": "Who formulated the laws of planetary motion using Tycho Brahe's observations?",
+        "options": [
+          "Johannes Kepler",
+          "Isaac Newton",
+          "Galileo Galilei"
+        ],
+        "answer": "Johannes Kepler"
+      },
+      {
+        "question": "Which theory replaced caloric theory by explaining heat as particle motion?",
+        "options": [
+          "Kinetic theory of heat",
+          "Phlogiston theory",
+          "Wave theory of heat"
+        ],
+        "answer": "Kinetic theory of heat"
+      },
+      {
+        "question": "Which law provides the foundation for classical electromagnetism by relating electric fields to charge distribution?",
+        "options": [
+          "Gauss's law",
+          "Poisson's law",
+          "Coulomb's law"
+        ],
+        "answer": "Gauss's law"
+      },
+      {
+        "question": "Which law states that action and reaction forces are equal and opposite?",
+        "options": [
+          "Newton's third law",
+          "Newton's first law",
+          "Newton's second law"
+        ],
+        "answer": "Newton's third law"
+      },
+      {
+        "question": "Which principle explains the conservation of circulation in ideal fluid flow?",
+        "options": [
+          "Kelvin's circulation theorem",
+          "Bernoulli's principle",
+          "Pascal's principle"
+        ],
+        "answer": "Kelvin's circulation theorem"
+      },
+      {
+        "question": "Which law relates the square of orbital period to the cube of the semi-major axis for planets?",
+        "options": [
+          "Kepler's third law",
+          "Kepler's first law",
+          "Kepler's second law"
+        ],
+        "answer": "Kepler's third law"
+      },
+      {
+        "question": "Which theory introduced quantized energy levels to explain blackbody radiation?",
+        "options": [
+          "Planck's quantum theory",
+          "Classical wave theory",
+          "Relativistic mechanics"
+        ],
+        "answer": "Planck's quantum theory"
+      },
+      {
+        "question": "Which law describes how osmotic pressure depends on solute concentration and temperature?",
+        "options": [
+          "Van 't Hoff's law",
+          "Raoult's law",
+          "Henry's law"
+        ],
+        "answer": "Van 't Hoff's law"
+      },
+      {
+        "question": "Which scientist established the germ theory of disease through experiments on fermentation and pasteurization?",
+        "options": [
+          "Louis Pasteur",
+          "Robert Koch",
+          "Alexander Fleming"
+        ],
+        "answer": "Louis Pasteur"
+      },
+      {
+        "question": "Which law in thermodynamics states entropy approaches a constant as temperature approaches absolute zero?",
+        "options": [
+          "Third law of thermodynamics",
+          "First law of thermodynamics",
+          "Zeroth law of thermodynamics"
+        ],
+        "answer": "Third law of thermodynamics"
+      },
+      {
+        "question": "Which law explains the electromagnetic force between current elements as described by a line integral?",
+        "options": [
+          "Ampère's law",
+          "Biot–Savart law",
+          "Faraday's law"
+        ],
+        "answer": "Ampère's law"
+      },
+      {
+        "question": "Which principle links symmetry operations to conserved quantities in physics?",
+        "options": [
+          "Noether's theorem",
+          "Heisenberg uncertainty principle",
+          "Pauli exclusion principle"
+        ],
+        "answer": "Noether's theorem"
+      },
+      {
+        "question": "Which law predicts the inverse-square decrease of light intensity with distance from a point source?",
+        "options": [
+          "Inverse-square law",
+          "Linear attenuation law",
+          "Beer–Lambert law"
+        ],
+        "answer": "Inverse-square law"
+      },
+      {
+        "question": "Which theory explains the motion of particles in thermodynamic ensembles and macroscopic properties?",
+        "options": [
+          "Statistical mechanics",
+          "Kinetic theory",
+          "Classical mechanics"
+        ],
+        "answer": "Statistical mechanics"
+      },
+      {
+        "question": "Which empirical law approximates the relation between pressure and vapor pressure of a solution?",
+        "options": [
+          "Raoult's law",
+          "Henry's law",
+          "Dalton's law"
+        ],
+        "answer": "Raoult's law"
+      },
+      {
+        "question": "Which concept in evolution describes rapid bursts of change separated by long stability?",
+        "options": [
+          "Punctuated equilibrium",
+          "Gradualism",
+          "Uniformitarianism"
+        ],
+        "answer": "Punctuated equilibrium"
+      },
+      {
+        "question": "Which law describes conservation of electric charge as a continuity equation?",
+        "options": [
+          "Continuity equation for charge",
+          "Ohm's law",
+          "Coulomb's law"
+        ],
+        "answer": "Continuity equation for charge"
+      },
+      {
+        "question": "Which theoretical framework unified electricity, magnetism, and optics in the 19th century?",
+        "options": [
+          "Classical electromagnetism",
+          "Statistical mechanics",
+          "Quantum electrodynamics"
+        ],
+        "answer": "Classical electromagnetism"
+      },
+      {
+        "question": "Which law gives the relationship between pressure and temperature at constant volume for an ideal gas?",
+        "options": [
+          "Gay-Lussac's law",
+          "Boyle's law",
+          "Avogadro's law"
+        ],
+        "answer": "Gay-Lussac's law"
+      },
+      {
+        "question": "Which scientific law explains how reaction rates depend on concentration and rate constants?",
+        "options": [
+          "Rate law of chemical kinetics",
+          "Le Chatelier's principle",
+          "Hess's law"
+        ],
+        "answer": "Rate law of chemical kinetics"
+      },
+      {
+        "question": "Which theorem in fluid dynamics expresses conservation of momentum in differential form?",
+        "options": [
+          "Navier–Stokes equations",
+          "Bernoulli's theorem",
+          "Stokes' theorem"
+        ],
+        "answer": "Navier–Stokes equations"
+      },
+      {
+        "question": "Which principle underlies the operation of lasers via stimulated emission?",
+        "options": [
+          "Einstein's coefficients for emission",
+          "Bohr model",
+          "Planck's law"
+        ],
+        "answer": "Einstein's coefficients for emission"
+      },
+      {
+        "question": "Which law quantifies the tendency of electrons to occupy the lowest available energy states?",
+        "options": [
+          "Pauli exclusion principle",
+          "Heisenberg uncertainty principle",
+          "Hund's rule"
+        ],
+        "answer": "Pauli exclusion principle"
+      },
+      {
+        "question": "Which empirical law links earthquake frequency and magnitude distribution logarithmically?",
+        "options": [
+          "Gutenberg–Richter law",
+          "Mohr–Coulomb law",
+          "Hooke's law"
+        ],
+        "answer": "Gutenberg–Richter law"
+      },
+      {
+        "question": "Which concept explains why biological populations grow exponentially when resources are unlimited?",
+        "options": [
+          "Exponential growth model",
+          "Logistic growth model",
+          "Carrying capacity principle"
+        ],
+        "answer": "Exponential growth model"
+      },
+      {
+        "question": "Which law describes how the rate of effusion of a gas relates to its molar mass?",
+        "options": [
+          "Graham's law",
+          "Dalton's law",
+          "Henry's law"
+        ],
+        "answer": "Graham's law"
+      },
+      {
+        "question": "Which law describes the electromagnetic waves' energy distribution as a function of frequency for a blackbody?",
+        "options": [
+          "Planck's law",
+          "Wien's displacement law",
+          "Rayleigh–Jeans law"
+        ],
+        "answer": "Planck's law"
+      },
+      {
+        "question": "Which law relates changes in ligand concentration to receptor occupancy in pharmacology and biochemistry?",
+        "options": [
+          "Michaelis–Menten formalism",
+          "Langmuir isotherm",
+          "Beer–Lambert law"
+        ],
+        "answer": "Langmuir isotherm"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which theorem formally links continuous symmetries to conserved quantities in Lagrangian mechanics?",
+        "options": [
+          "Noether's theorem",
+          "Liouville's theorem",
+          "Poincaré recurrence theorem"
+        ],
+        "answer": "Noether's theorem"
+      },
+      {
+        "question": "Which paradox led to the development of quantum statistics distinguishing bosons and fermions?",
+        "options": [
+          "Gibbs paradox",
+          "Ultraviolet catastrophe",
+          "Fermi–Pasta–Ulam paradox"
+        ],
+        "answer": "Gibbs paradox"
+      },
+      {
+        "question": "Which result shows local hidden-variable theories cannot reproduce all quantum correlations?",
+        "options": [
+          "Bell's theorem",
+          "Kochen–Specker theorem",
+          "No-cloning theorem"
+        ],
+        "answer": "Bell's theorem"
+      },
+      {
+        "question": "Which principle quantifies limits on simultaneously known conjugate variables like position and momentum?",
+        "options": [
+          "Heisenberg uncertainty principle",
+          "Pauli exclusion principle",
+          "Correspondence principle"
+        ],
+        "answer": "Heisenberg uncertainty principle"
+      },
+      {
+        "question": "Which renown relation in statistical physics connects response functions to equilibrium fluctuations?",
+        "options": [
+          "Fluctuation–dissipation theorem",
+          "Ergodic theorem",
+          "Central limit theorem"
+        ],
+        "answer": "Fluctuation–dissipation theorem"
+      },
+      {
+        "question": "Which law describes conservation of baryon number under standard model interactions as an empirical rule?",
+        "options": [
+          "Baryon number conservation",
+          "Lepton number conservation",
+          "Charge conjugation symmetry"
+        ],
+        "answer": "Baryon number conservation"
+      },
+      {
+        "question": "Which principle justifies using ensemble averages to predict thermodynamic properties of large systems?",
+        "options": [
+          "Ergodic hypothesis",
+          "Correspondence principle",
+          "Equipartition theorem"
+        ],
+        "answer": "Ergodic hypothesis"
+      },
+      {
+        "question": "Which theoretical result shows symmetries in gauge theories require conserved currents?",
+        "options": [
+          "Ward identities",
+          "Noether's theorem",
+          "Goldstone theorem"
+        ],
+        "answer": "Ward identities"
+      },
+      {
+        "question": "Which theorem in quantum field theory predicts massless modes when continuous symmetries break spontaneously?",
+        "options": [
+          "Goldstone theorem",
+          "CPT theorem",
+          "Spin–statistics theorem"
+        ],
+        "answer": "Goldstone theorem"
+      },
+      {
+        "question": "Which empirical law relates stellar luminosity roughly to a power of stellar mass on the main sequence?",
+        "options": [
+          "Mass–luminosity relation",
+          "Hubble's law",
+          "Stefan–Boltzmann law"
+        ],
+        "answer": "Mass–luminosity relation"
+      },
+      {
+        "question": "Which law describes the limit where classical mechanics emerges from quantum mechanics for large quantum numbers?",
+        "options": [
+          "Correspondence principle",
+          "Complementarity principle",
+          "Adiabatic theorem"
+        ],
+        "answer": "Correspondence principle"
+      },
+      {
+        "question": "Which result constrains possible interactions by stating observables must commute with the Hamiltonian for conservation?",
+        "options": [
+          "Operator commutation with Hamiltonian",
+          "Noether's theorem",
+          "Heisenberg picture"
+        ],
+        "answer": "Operator commutation with Hamiltonian"
+      },
+      {
+        "question": "Which law gives the thermodynamic relationship between entropy and number of microscopic configurations?",
+        "options": [
+          "Boltzmann's entropy formula",
+          "Gibbs free energy relation",
+          "Clausius equation"
+        ],
+        "answer": "Boltzmann's entropy formula"
+      },
+      {
+        "question": "Which theoretical concept explains quantized conductance steps in mesoscopic electron transport?",
+        "options": [
+          "Landauer formula",
+          "Drude model",
+          "Bloch theorem"
+        ],
+        "answer": "Landauer formula"
+      },
+      {
+        "question": "Which effect demonstrates quantum tunneling in electron microscopy and field emission?",
+        "options": [
+          "Fowler–Nordheim tunneling",
+          "Photoelectric effect",
+          "Compton scattering"
+        ],
+        "answer": "Fowler–Nordheim tunneling"
+      },
+      {
+        "question": "Which criterion determines turbulence onset in fluid flow using a non-dimensional number?",
+        "options": [
+          "Reynolds number criterion",
+          "Mach number threshold",
+          "Prandtl number rule"
+        ],
+        "answer": "Reynolds number criterion"
+      },
+      {
+        "question": "Which theorem relates scattering amplitudes at low energy to symmetry and conservation constraints in particle physics?",
+        "options": [
+          "Adler consistency conditions",
+          "CPT theorem",
+          "Optical theorem"
+        ],
+        "answer": "Adler consistency conditions"
+      },
+      {
+        "question": "Which relation ties blackbody peak wavelength to temperature inversely?",
+        "options": [
+          "Wien's displacement law",
+          "Planck's law",
+          "Stefan–Boltzmann law"
+        ],
+        "answer": "Wien's displacement law"
+      },
+      {
+        "question": "Which mathematical result ensures that continuous, differentiable dynamical systems preserve phase-space volume?",
+        "options": [
+          "Liouville's theorem",
+          "Poincaré–Bendixson theorem",
+          "KAM theorem"
+        ],
+        "answer": "Liouville's theorem"
+      },
+      {
+        "question": "Which theorem states that any differentiable symmetry of the action yields a conserved quantity?",
+        "options": [
+          "Noether's theorem",
+          "Bell's theorem",
+          "Stone–von Neumann theorem"
+        ],
+        "answer": "Noether's theorem"
+      },
+      {
+        "question": "Which law describes the empirical steep power-law relation in many natural networks and distributions?",
+        "options": [
+          "Zipf's law",
+          "Benford's law",
+          "Central limit law"
+        ],
+        "answer": "Zipf's law"
+      },
+      {
+        "question": "Which concept explains how gauge symmetry breaking leads to massive vector bosons in particle physics?",
+        "options": [
+          "Higgs mechanism",
+          "Spontaneous emission",
+          "Chiral symmetry breaking"
+        ],
+        "answer": "Higgs mechanism"
+      },
+      {
+        "question": "Which result in quantum mechanics forbids copying an unknown quantum state exactly?",
+        "options": [
+          "No-cloning theorem",
+          "Superposition principle",
+          "Entanglement monogamy"
+        ],
+        "answer": "No-cloning theorem"
+      },
+      {
+        "question": "Which approach explains critical phenomena universality using scale invariance near phase transitions?",
+        "options": [
+          "Renormalization group",
+          "Mean-field theory",
+          "Perturbation theory"
+        ],
+        "answer": "Renormalization group"
+      },
+      {
+        "question": "Which law quantifies tunneling decay rates in nuclear alpha decay using barrier penetration?",
+        "options": [
+          "Gamow theory of alpha decay",
+          "Rutherford scattering law",
+          "Bohr model"
+        ],
+        "answer": "Gamow theory of alpha decay"
+      },
+      {
+        "question": "Which inequality sets bounds on simultaneous measurements in quantum estimation beyond Heisenberg's limit?",
+        "options": [
+          "Cramér–Rao bound",
+          "Bell inequality",
+          "Bekenstein bound"
+        ],
+        "answer": "Cramér–Rao bound"
+      },
+      {
+        "question": "Which formulation of mechanics uses action and stationary principles instead of forces?",
+        "options": [
+          "Lagrangian mechanics",
+          "Newtonian mechanics",
+          "Hamiltonian mechanics"
+        ],
+        "answer": "Lagrangian mechanics"
+      },
+      {
+        "question": "Which astrophysical relation connects the mass of a supermassive black hole to its host galaxy's bulge velocity dispersion?",
+        "options": [
+          "M–sigma relation",
+          "Tully–Fisher relation",
+          "Faber–Jackson relation"
+        ],
+        "answer": "M–sigma relation"
+      },
+      {
+        "question": "Which theorem restricts simultaneous noncontextual hidden-variable assignments in quantum mechanics?",
+        "options": [
+          "Kochen–Specker theorem",
+          "Bell's theorem",
+          "Gleason's theorem"
+        ],
+        "answer": "Kochen–Specker theorem"
+      },
+      {
+        "question": "Which criterion in statistics helps decide model selection penalizing complexity and maximizing likelihood?",
+        "options": [
+          "Akaike information criterion",
+          "Bayes factor",
+          "Chi-squared test"
+        ],
+        "answer": "Akaike information criterion"
+      },
+      {
+        "question": "Which relation predicts the entropy of an ideal gas in terms of volume, energy, and particle number constants?",
+        "options": [
+          "Sackur–Tetrode equation",
+          "Boltzmann formula",
+          "Gibbs free energy"
+        ],
+        "answer": "Sackur–Tetrode equation"
+      },
+      {
+        "question": "Which concept explains anomalies in planetary precession resolved by general relativity?",
+        "options": [
+          "Perihelion precession of Mercury explained by general relativity",
+          "Tidal friction theory",
+          "Newtonian perturbation theory"
+        ],
+        "answer": "Perihelion precession of Mercury explained by general relativity"
+      }
+    ]
+  }
+}

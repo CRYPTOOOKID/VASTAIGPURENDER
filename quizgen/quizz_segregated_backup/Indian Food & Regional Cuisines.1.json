@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which hot beverage sweetened with milk and spices is a ubiquitous Indian drink served across regions?",
+      "options": [
+        "Chai",
+        "Coffee",
+        "Lassi"
+      ],
+      "answer": "Chai"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Bengali sweet made from chhena and sugar is traditionally shaped into small balls and soaked in syrup?",
+      "options": [
+        "Rasgulla",
+        "Barfi",
+        "Peda"
+      ],
+      "answer": "Rasgulla"
+    },
+    {
+      "question_id": 3,
+      "question": "Which aromatic resin used in Kashmiri and Parsi recipes, collected from trees, imparts piney background notes to certain dishes?",
+      "options": [
+        "Mastic is Mediterranean, not used traditionally",
+        "Kokum is a fruit, not resin",
+        "Kewra and rose are floral, resin is not common"
+      ],
+      "answer": "Mastic is Mediterranean, not used traditionally"
+    },
+    {
+      "question_id": 4,
+      "question": "Which triangular fried pastry filled with spiced potatoes or meat is a popular Indian snack worldwide?",
+      "options": [
+        "Samosa",
+        "Kachori",
+        "Empanada"
+      ],
+      "answer": "Samosa"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Parsi dish marries lentils, vegetables, and meat with a tangy-sweet profile and is served with rice?",
+      "options": [
+        "Dhansak",
+        "Patra ni machhi",
+        "Sali boti"
+      ],
+      "answer": "Dhansak"
+    },
+    {
+      "question_id": 6,
+      "question": "Which coastal state's traditional meat-and-rice dish 'sorpotel' reflects Portuguese influence and includes vinegar and offal cooked together?",
+      "options": [
+        "Goa",
+        "Tamil Nadu",
+        "Assam"
+      ],
+      "answer": "Goa"
+    },
+    {
+      "question_id": 7,
+      "question": "Which dairy product is commonly used as a base for marinades in many Indian grilled and tandoor dishes?",
+      "options": [
+        "Yogurt",
+        "Ghee",
+        "Buttermilk"
+      ],
+      "answer": "Yogurt"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Gujarati hand-rolled snack made with gram flour and spices is deep-fried and eaten with chutney?",
+      "options": [
+        "Gathiya",
+        "Fafda",
+        "Dhokla"
+      ],
+      "answer": "Gathiya"
+    },
+    {
+      "question_id": 9,
+      "question": "Which spice commonly used in Biryani and payasam has threads harvested from the crocus flower and commands high market value?",
+      "options": [
+        "Saffron",
+        "Turmeric",
+        "Nutmeg"
+      ],
+      "answer": "Saffron"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Gujarati steamed snack is made from fermented gram and rice batter and often served with green chutney?",
+      "options": [
+        "Dhokla",
+        "Thepla",
+        "Handvo"
+      ],
+      "answer": "Dhokla"
+    },
+    {
+      "question_id": 11,
+      "question": "Which type of rice is traditionally preferred for aromatic long-grain biryanis across northern India?",
+      "options": [
+        "Basmati rice",
+        "Sona masoori",
+        "Parboiled rice"
+      ],
+      "answer": "Basmati rice"
+    },
+    {
+      "question_id": 12,
+      "question": "Which traditional Odia rice cake, typically steamed and associated with temple offerings in Puri, is called 'pitha' in many forms?",
+      "options": [
+        "Pitha",
+        "Peda",
+        "Barfi"
+      ],
+      "answer": "Pitha"
+    },
+    {
+      "question_id": 13,
+      "question": "Which soft leavened flatbread, often baked in a tandoor, accompanies many Indian curries?",
+      "options": [
+        "Naan",
+        "Roti",
+        "Bhakri"
+      ],
+      "answer": "Naan"
+    },
+    {
+      "question_id": 14,
+      "question": "Which fermented lentil and rice pancake from Andhra and Telangana comes with spicy chutneys and gunpowder masala?",
+      "options": [
+        "Dosa",
+        "Appam",
+        "Paniyaram"
+      ],
+      "answer": "Dosa"
+    },
+    {
+      "question_id": 15,
+      "question": "Which spice, frequently used whole in South Indian tempering, is the tiny black seed also called kalonji?",
+      "options": [
+        "Nigella (kalonji)",
+        "Black sesame",
+        "Mustard seed"
+      ],
+      "answer": "Nigella (kalonji)"
+    }
+  ]
+}

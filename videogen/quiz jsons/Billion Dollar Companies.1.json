@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company acquired Instagram in 2012 for about $1 billion?",
+      "options": [
+        "Google",
+        "Twitter",
+        "Facebook"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question_id": 2,
+      "question": "Which cloud service did Amazon launch in 2006 that transformed corporate IT?",
+      "options": [
+        "AWS",
+        "Google Cloud",
+        "Azure"
+      ],
+      "answer": "AWS"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company completed an $8.45 billion acquisition of MGM Studios in 2022?",
+      "options": [
+        "Amazon",
+        "Netflix",
+        "Apple"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Chinese e-commerce giant was founded by Jack Ma?",
+      "options": [
+        "Alibaba",
+        "Pinduoduo",
+        "JD.com"
+      ],
+      "answer": "Alibaba"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company founded by Reed Hastings disrupted television with original streaming content?",
+      "options": [
+        "Hulu",
+        "Amazon",
+        "Netflix"
+      ],
+      "answer": "Netflix"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company’s name refers to a maritime trading company and became synonymous with large online marketplaces?",
+      "options": [
+        "MercadoLibre",
+        "Amazon",
+        "eBay"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 7,
+      "question": "Which company began in a Palo Alto garage in 1939, later shaping Silicon Valley?",
+      "options": [
+        "Hewlett-Packard",
+        "Apple",
+        "IBM"
+      ],
+      "answer": "Hewlett-Packard"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company introduced the concept of a smartphone app marketplace for iOS in 2008?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Apple"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company first popularized the subscription streaming model for global original series production?",
+      "options": [
+        "Hulu",
+        "Amazon Prime Video",
+        "Netflix"
+      ],
+      "answer": "Netflix"
+    },
+    {
+      "question_id": 10,
+      "question": "Who founded Amazon in 1994?",
+      "options": [
+        "Elon Musk",
+        "Steve Jobs",
+        "Jeff Bezos"
+      ],
+      "answer": "Jeff Bezos"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company was the first U.S. firm to reach a $1 trillion market cap?",
+      "options": [
+        "Apple",
+        "Amazon",
+        "Microsoft"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 12,
+      "question": "Which early Amazon name did Jeff Bezos consider before renaming it Amazon?",
+      "options": [
+        "BookWorld",
+        "ShopNow",
+        "Cadabra"
+      ],
+      "answer": "Cadabra"
+    },
+    {
+      "question_id": 13,
+      "question": "Which company launched the Kindle e-reader series?",
+      "options": [
+        "Barnes & Noble",
+        "Amazon",
+        "Kobo"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company released the PlayStation 5 in 2020?",
+      "options": [
+        "Sony",
+        "Microsoft",
+        "Nintendo"
+      ],
+      "answer": "Sony"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company’s founder originally chose the domain 'relentless.com' before settling on Amazon?",
+      "options": [
+        "Shopify",
+        "eBay",
+        "Amazon"
+      ],
+      "answer": "Amazon"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What condition does 'hypertension' describe in everyday medical language?",
+      "options": [
+        "Low blood sugar",
+        "High blood pressure",
+        "High cholesterol"
+      ],
+      "answer": "High blood pressure"
+    },
+    {
+      "question_id": 2,
+      "question": "Which electrolyte imbalance causes muscle weakness and cardiac arrhythmias when low?",
+      "options": [
+        "Hypocalcemia",
+        "Hypokalemia",
+        "Hypernatremia"
+      ],
+      "answer": "Hypokalemia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which HIV test detects viral RNA directly to diagnose acute infection before antibodies appear?",
+      "options": [
+        "HIV antibody ELISA only",
+        "HIV RNA PCR (viral load) testing",
+        "Rapid antigen skin test"
+      ],
+      "answer": "HIV RNA PCR (viral load) testing"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes inflammation of the liver commonly caused by viruses or toxins?",
+      "options": [
+        "Dermatitis",
+        "Nephritis",
+        "Hepatitis"
+      ],
+      "answer": "Hepatitis"
+    },
+    {
+      "question_id": 5,
+      "question": "Which bacterium most commonly causes community-acquired pneumonia in adults?",
+      "options": [
+        "Escherichia coli",
+        "Streptococcus pneumoniae",
+        "Staphylococcus epidermidis"
+      ],
+      "answer": "Streptococcus pneumoniae"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fetal chromosomal abnormality increases nuchal translucency and trisomy 21 markers on screening ultrasound?",
+      "options": [
+        "Trisomy 18 (Edwards syndrome)",
+        "Monosomy X (Turner syndrome)",
+        "Trisomy 21 (Down syndrome)"
+      ],
+      "answer": "Trisomy 21 (Down syndrome)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which organ system does 'pulmonary' relate to in medical terminology?",
+      "options": [
+        "Nervous system",
+        "Lungs",
+        "Heart"
+      ],
+      "answer": "Lungs"
+    },
+    {
+      "question_id": 8,
+      "question": "Which hormone released from adrenal medulla increases heart rate and blood pressure acutely?",
+      "options": [
+        "Epinephrine",
+        "Aldosterone",
+        "Cortisol"
+      ],
+      "answer": "Epinephrine"
+    },
+    {
+      "question_id": 9,
+      "question": "Which acute leukemia predominates in children and shows TdT-positive lymphoblasts immunophenotypically?",
+      "options": [
+        "Chronic myeloid leukemia",
+        "Acute myeloid leukemia",
+        "Acute lymphoblastic leukemia"
+      ],
+      "answer": "Acute lymphoblastic leukemia"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'antibiotic' primarily treat in clinical practice?",
+      "options": [
+        "Fungal infections",
+        "Viral infections",
+        "Bacterial infections"
+      ],
+      "answer": "Bacterial infections"
+    },
+    {
+      "question_id": 11,
+      "question": "Which medical imaging modality is best for detecting acute intracranial hemorrhage quickly?",
+      "options": [
+        "Ultrasound doppler",
+        "MRI with contrast",
+        "Non-contrast CT scan"
+      ],
+      "answer": "Non-contrast CT scan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which pathogen is identified by Gram-negative coccobacilli and causes whooping cough historically?",
+      "options": [
+        "Moraxella catarrhalis",
+        "Haemophilus influenzae",
+        "Bordetella pertussis"
+      ],
+      "answer": "Bordetella pertussis"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'PCR' test detect when used in infectious disease diagnosis?",
+      "options": [
+        "Body temperature trends",
+        "Antibody levels",
+        "Genetic material of pathogens"
+      ],
+      "answer": "Genetic material of pathogens"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nutritional deficiency causes megaloblastic anemia with neurological symptoms when chronic?",
+      "options": [
+        "Vitamin K deficiency",
+        "Iron deficiency",
+        "Vitamin B12 deficiency"
+      ],
+      "answer": "Vitamin B12 deficiency"
+    },
+    {
+      "question_id": 15,
+      "question": "Which criterion defines systemic inflammatory response syndrome using temperature, heart rate, respiratory rate, white cells?",
+      "options": [
+        "SIRS criteria",
+        "APACHE II score",
+        "qSOFA score"
+      ],
+      "answer": "SIRS criteria"
+    }
+  ]
+}

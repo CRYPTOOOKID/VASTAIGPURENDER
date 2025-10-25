@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a floating exchange rate?"
+    },
+    {
+      "question_id": 2,
+      "question": "How can fiscal policy affect exchange rates indirectly?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term describes the practice of invoicing trade in a dominant foreign currency?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which market provides continuous trading of currencies worldwide?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which measure compares a currency's value against a basket of other currencies?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the main critique of simple PPP for exchange rate forecasting?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does a stronger domestic currency mean for imports?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does purchasing power parity (PPP) predict about exchange rates over time?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which indicator measures real effective exchange rate (REER)?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'bid price' mean in FX quotes?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does 'exchange rate overshooting' describe in monetary theory?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which empirical regularity shows that real exchange rates are highly persistent?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which of these is a commonly traded currency acronym: GBP stands for?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is 'real exchange rate'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advanced tool can central banks use to shape longer-term FX expectations indirectly?"
+    }
+  ]
+}

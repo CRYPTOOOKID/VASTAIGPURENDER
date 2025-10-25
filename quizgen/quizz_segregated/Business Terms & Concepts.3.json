@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does EBITDA measure for a company?",
+      "options": [
+        "Total assets minus liabilities",
+        "Cash available after dividends",
+        "Operating performance before interest, taxes, depreciation, and amortization"
+      ],
+      "answer": "Operating performance before interest, taxes, depreciation, and amortization"
+    },
+    {
+      "question_id": 2,
+      "question": "What is market segmentation intended to achieve?",
+      "options": [
+        "Divide customers into groups with similar needs for targeted strategies",
+        "Standardize prices across all regions",
+        "Reduce the number of product SKUs offered"
+      ],
+      "answer": "Divide customers into groups with similar needs for targeted strategies"
+    },
+    {
+      "question_id": 3,
+      "question": "What is the purpose of transfer pricing rules for multinational firms?",
+      "options": [
+        "Ensure related-party transactions reflect arm's-length pricing",
+        "Mandate identical product pricing worldwide",
+        "Require central procurement for all subsidiaries"
+      ],
+      "answer": "Ensure related-party transactions reflect arm's-length pricing"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a trademark used to protect?",
+      "options": [
+        "Technical blueprints and engineering designs",
+        "Employee personal data",
+        "Brand names, logos, and symbols identifying goods or services"
+      ],
+      "answer": "Brand names, logos, and symbols identifying goods or services"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the primary focus of Six Sigma methodologies?",
+      "options": [
+        "Reducing process variation and improving quality",
+        "Maximizing short-term revenue through promotions",
+        "Expanding product lines without testing"
+      ],
+      "answer": "Reducing process variation and improving quality"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the key idea behind disruptive innovation theory?",
+      "options": [
+        "Incumbents always lead in technology adoption",
+        "New entrants serve overlooked segments then move upmarket displacing incumbents",
+        "Price cuts by incumbents eliminate all startups immediately"
+      ],
+      "answer": "New entrants serve overlooked segments then move upmarket displacing incumbents"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a startup company typically focused on?",
+      "options": [
+        "Publishing annual financial reports only",
+        "Managing a long-established family business",
+        "Developing a scalable business model under uncertainty"
+      ],
+      "answer": "Developing a scalable business model under uncertainty"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a vertical integration strategy in business?",
+      "options": [
+        "Owning multiple stages of the supply chain",
+        "Partnering with competitors for joint marketing",
+        "Opening retail stores without manufacturing"
+      ],
+      "answer": "Owning multiple stages of the supply chain"
+    },
+    {
+      "question_id": 9,
+      "question": "Which metric indicates a firm's short-term liquidity under Basel-style rules?",
+      "options": [
+        "Debt-To-Equity Ratio",
+        "Liquidity Coverage Ratio",
+        "Operating Cash Flow Ratio"
+      ],
+      "answer": "Liquidity Coverage Ratio"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a business model?",
+      "options": [
+        "Style of corporate governance",
+        "Legal structure of company ownership",
+        "Plan for how a company creates and captures value"
+      ],
+      "answer": "Plan for how a company creates and captures value"
+    },
+    {
+      "question_id": 11,
+      "question": "What does due diligence in M&A primarily involve?",
+      "options": [
+        "Comprehensive review of financial, legal, and operational aspects",
+        "Negotiating employee severance packages only",
+        "Immediate integration of HR systems"
+      ],
+      "answer": "Comprehensive review of financial, legal, and operational aspects"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the primary focus of activity-based management derived from costing?",
+      "options": [
+        "Eliminate all variable costs regardless of benefit",
+        "Improve processes and reduce non-value activities using ABC insights",
+        "Optimize corporate logos for brand recognition"
+      ],
+      "answer": "Improve processes and reduce non-value activities using ABC insights"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a balance sheet liability?",
+      "options": [
+        "An asset expected to generate revenue",
+        "An obligation the company must settle in future",
+        "An employee benefit plan"
+      ],
+      "answer": "An obligation the company must settle in future"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a poison pill in corporate takeover defense?",
+      "options": [
+        "Special dividend paid to management",
+        "Temporary suspension of stock trading",
+        "Shareholder-rights mechanism that deters hostile acquisitions"
+      ],
+      "answer": "Shareholder-rights mechanism that deters hostile acquisitions"
+    },
+    {
+      "question_id": 15,
+      "question": "Which strategy describes blue ocean market creation?",
+      "options": [
+        "Creating uncontested market space through innovation",
+        "Competing solely on price within existing markets",
+        "Merging with all industry rivals"
+      ],
+      "answer": "Creating uncontested market space through innovation"
+    }
+  ]
+}

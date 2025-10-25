@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which answer fits: \"I can be cracked, made, told, and played\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which discipline studies how riddles influence cognition and culture?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which measurement of riddle quality matters most for experienced adult puzzlers?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which modern medium has most expanded the distribution of adult riddles?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which answer best fits: \"I have cities but no houses, forests but no trees\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which of these is a sophisticated 'What am I?' answer often used metaphorically?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which advanced editor's rule improves high-level riddle collections?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which answer best fits: \"I move without legs, have a bed but never sleep\"?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which strategy distinguishes a master riddle-writer for adults?"
+    },
+    {
+      "question_id": 10,
+      "question": "What cognitive bias often causes solvers to miss the correct \"What am I?\" answer?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which answer fits: \"I cling to your skin in summer, bite without teeth, vanish in winter\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technique helps internationalize an advanced 'What am I?' riddle?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which advanced writing tactic yields a satisfying riddle reveal?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which answer fits: \"I start with an end, contain what I consume, and vanish when used\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which answer fits: \"I am taken by the living, left by the dead\"?"
+    }
+  ]
+}

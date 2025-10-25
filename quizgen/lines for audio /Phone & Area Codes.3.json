@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does a country calling code identify in international dialing?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of these area codes was part of the original 1947 NANP assignments?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which North American area code was originally split from 212 to relieve demand in New York?"
+    },
+    {
+      "question_id": 4,
+      "question": "What type of service typically uses the 800 area code in North America?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does LRN stand for in number portability systems?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country code is shared by both Russia and Kazakhstan?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country uses calling code +39?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which digit range is allowed for the first digit of a NANP area code?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which area code was one of the original NANP codes assigned to Illinois in 1947?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two countries share the country calling code +7?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the standard maximum length for international telephone numbers under E.164?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which two-digit pattern was forbidden in the first digit of a NANP NPA historically?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which symbol commonly indicates an international telephone prefix on phones?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which of these is a common reason a region moves to mandatory ten-digit dialing?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which area code split helped create area code 718 from the original New York numbering plan?"
+    }
+  ]
+}

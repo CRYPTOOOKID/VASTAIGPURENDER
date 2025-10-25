@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is the author of 'Wuthering Heights'?",
+      "options": [
+        "Emily Brontë",
+        "Anne Brontë",
+        "George Eliot"
+      ],
+      "answer": "Emily Brontë"
+    },
+    {
+      "question_id": 2,
+      "question": "Who is the author of 'The Age of Innocence'?",
+      "options": [
+        "Edith Wharton",
+        "Henry James",
+        "Willa Cather"
+      ],
+      "answer": "Edith Wharton"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'Nineteen Eighty-Four' pen name origin: author born Eric Arthur Blair?",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Anthony Burgess"
+      ],
+      "answer": "George Orwell"
+    },
+    {
+      "question_id": 4,
+      "question": "Who authored 'Dracula'?",
+      "options": [
+        "Bram Stoker",
+        "Mary Shelley",
+        "Robert Louis Stevenson"
+      ],
+      "answer": "Bram Stoker"
+    },
+    {
+      "question_id": 5,
+      "question": "Who authored 'Things Fall Apart'?",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Ngũgĩ wa Thiong'o"
+      ],
+      "answer": "Chinua Achebe"
+    },
+    {
+      "question_id": 6,
+      "question": "Who authored 'The Brothers Karamazov'?",
+      "options": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev"
+      ],
+      "answer": "Fyodor Dostoevsky"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'The Secret Garden'?",
+      "options": [
+        "Frances Hodgson Burnett",
+        "Beatrix Potter",
+        "Louisa May Alcott"
+      ],
+      "answer": "Frances Hodgson Burnett"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote 'The Sound and the Fury' major modernist novel?",
+      "options": [
+        "William Faulkner",
+        "James Joyce",
+        "D. H. Lawrence"
+      ],
+      "answer": "William Faulkner"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is the author of the early modern best-known travelogue 'Gulliver's Travels'?",
+      "options": [
+        "Jonathan Swift",
+        "Daniel Defoe",
+        "James Boswell"
+      ],
+      "answer": "Jonathan Swift"
+    },
+    {
+      "question_id": 10,
+      "question": "Who authored 'Jane Eyre'?",
+      "options": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Elizabeth Gaskell"
+      ],
+      "answer": "Charlotte Brontë"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is the author of 'The Hobbit' illustrator-author?",
+      "options": [
+        "J. R. R. Tolkien",
+        "C. S. Lewis",
+        "Beatrix Potter"
+      ],
+      "answer": "J. R. R. Tolkien"
+    },
+    {
+      "question_id": 12,
+      "question": "Who authored 'Pamela', an influential epistolary novel, in 1740?",
+      "options": [
+        "Samuel Richardson",
+        "Henry Fielding",
+        "Tobias Smollett"
+      ],
+      "answer": "Samuel Richardson"
+    },
+    {
+      "question_id": 13,
+      "question": "Who wrote 'Moby-Dick'?",
+      "options": [
+        "Herman Melville",
+        "Mark Twain",
+        "Nathaniel Hawthorne"
+      ],
+      "answer": "Herman Melville"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'Madame Bovary'?",
+      "options": [
+        "Gustave Flaubert",
+        "Emile Zola",
+        "Honoré de Balzac"
+      ],
+      "answer": "Gustave Flaubert"
+    },
+    {
+      "question_id": 15,
+      "question": "Who is the author of 'The Master and Margarita' blending satire and fantasy?",
+      "options": [
+        "Mikhail Bulgakov",
+        "Nikolai Gogol",
+        "Ivan Turgenev"
+      ],
+      "answer": "Mikhail Bulgakov"
+    }
+  ]
+}

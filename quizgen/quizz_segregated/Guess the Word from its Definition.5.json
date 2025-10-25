@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which word matches the definition 'a small natural stream of water'?",
+      "options": [
+        "Brook",
+        "Mountain",
+        "Valley"
+      ],
+      "answer": "Brook"
+    },
+    {
+      "question_id": 2,
+      "question": "Which word fits 'a technical, specialized vocabulary used by a profession'?",
+      "options": [
+        "Slang",
+        "Colloquialism",
+        "Jargon"
+      ],
+      "answer": "Jargon"
+    },
+    {
+      "question_id": 3,
+      "question": "Which process is 'the switching of adjacent sounds within a word'?",
+      "options": [
+        "Metathesis",
+        "Epenthesis",
+        "Assimilation"
+      ],
+      "answer": "Metathesis"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'nocturnal' mean in common definitions?",
+      "options": [
+        "Active at night",
+        "Active during day",
+        "Less than average"
+      ],
+      "answer": "Active at night"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term denotes 'a word spelled the same backwards and forwards'?",
+      "options": [
+        "Synonym",
+        "Palindrome",
+        "Homophone"
+      ],
+      "answer": "Palindrome"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes 'the tendency of a word to take on taboo-related euphemisms'?",
+      "options": [
+        "Back-formation",
+        "Euphemism treadmill",
+        "Semantic narrowing"
+      ],
+      "answer": "Euphemism treadmill"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a synonym for 'definition'?",
+      "options": [
+        "Color",
+        "Meaning",
+        "Rhythm"
+      ],
+      "answer": "Meaning"
+    },
+    {
+      "question_id": 8,
+      "question": "Which word means 'a word that imitates the sound it describes'?",
+      "options": [
+        "Palindrome",
+        "Onomatopoeia",
+        "Oxymoron"
+      ],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which term describes 'a word that triggers a culturally sensitive reaction and is then altered'?",
+      "options": [
+        "Etymological inversion",
+        "Dysphemism avoidance",
+        "Morphological reanalysis"
+      ],
+      "answer": "Dysphemism avoidance"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the best first step when unsure about a definition in a guessing game?",
+      "options": [
+        "Pick a random word",
+        "Count letters blindly",
+        "Identify part of speech"
+      ],
+      "answer": "Identify part of speech"
+    },
+    {
+      "question_id": 11,
+      "question": "Which term means 'the practice of assigning human traits to nonhuman entities'?",
+      "options": [
+        "Personification",
+        "Alliteration",
+        "Metonymy"
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term denotes 'reanalysis of a word's morphological makeup leading to new forms'?",
+      "options": [
+        "Syntactic collapse",
+        "Morphological reanalysis",
+        "Prosodic shift"
+      ],
+      "answer": "Morphological reanalysis"
+    },
+    {
+      "question_id": 13,
+      "question": "What does the word 'ancient' mean in simple definitions?",
+      "options": [
+        "Medium size",
+        "Brand new",
+        "Very old"
+      ],
+      "answer": "Very old"
+    },
+    {
+      "question_id": 14,
+      "question": "Which word fits 'speech delivered without preparation'?",
+      "options": [
+        "Scripted",
+        "Impromptu",
+        "Rehearsed"
+      ],
+      "answer": "Impromptu"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term denotes 'a word change where sounds are inserted into a word's form'?",
+      "options": [
+        "Epenthesis",
+        "Tmesis",
+        "Apocope"
+      ],
+      "answer": "Epenthesis"
+    }
+  ]
+}

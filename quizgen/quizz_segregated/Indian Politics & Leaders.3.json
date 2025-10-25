@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which leader is most associated with non-violent independence struggle?",
+      "options": [
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which leader signed the Indo-Soviet Treaty of Peace and Friendship in 1971?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Morarji Desai",
+        "Indira Gandhi"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian leader negotiated and oversaw accession of Hyderabad state in 1948?",
+      "options": [
+        "C. Rajagopalachari",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question_id": 4,
+      "question": "Who delivered India’s 'Tryst with Destiny' speech on independence night?",
+      "options": [
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 5,
+      "question": "Which political event triggered the Emergency declaration in India in 1975?",
+      "options": [
+        "Political instability and a court judgment against the Prime Minister",
+        "A foreign invasion",
+        "A severe economic collapse"
+      ],
+      "answer": "Political instability and a court judgment against the Prime Minister"
+    },
+    {
+      "question_id": 6,
+      "question": "Who was the first Chief Minister of Andhra Pradesh after its 1956 reorganization?",
+      "options": [
+        "T. Prakasam",
+        "Neelam Sanjiva Reddy",
+        "Tanguturi Prakasam"
+      ],
+      "answer": "Neelam Sanjiva Reddy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which party led India through most of the early decades after independence?",
+      "options": [
+        "Bharatiya Janata Party",
+        "Indian National Congress",
+        "Communist Party of India"
+      ],
+      "answer": "Indian National Congress"
+    },
+    {
+      "question_id": 8,
+      "question": "Who became India’s first Dalit President in 1997?",
+      "options": [
+        "K. C. Abraham",
+        "K. R. Narayanan",
+        "B. R. Ambedkar"
+      ],
+      "answer": "K. R. Narayanan"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian leader played a central role in integrating princely states alongside V. P. Menon?",
+      "options": [
+        "Rajendra Prasad",
+        "C. Rajagopalachari",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question_id": 10,
+      "question": "Who served as Prime Minister during the 1991 economic reforms?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "Rajiv Gandhi",
+        "Atal Bihari Vajpayee"
+      ],
+      "answer": "P. V. Narasimha Rao"
+    },
+    {
+      "question_id": 11,
+      "question": "Who served as President of India from 2007 to 2012?",
+      "options": [
+        "A. P. J. Abdul Kalam",
+        "Pranab Mukherjee",
+        "Pratibha Patil"
+      ],
+      "answer": "Pratibha Patil"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian leader created the office of the National Human Rights Commission in 1993?",
+      "options": [
+        "V. P. Singh administration",
+        "P. V. Narasimha Rao administration",
+        "Rajiv Gandhi administration"
+      ],
+      "answer": "P. V. Narasimha Rao administration"
+    },
+    {
+      "question_id": 13,
+      "question": "Which body conducts national elections in India?",
+      "options": [
+        "Supreme Court of India",
+        "Ministry of Home Affairs",
+        "Election Commission of India"
+      ],
+      "answer": "Election Commission of India"
+    },
+    {
+      "question_id": 14,
+      "question": "Who became the first Chief Minister of Delhi after the 1951 elections?",
+      "options": [
+        "Chaudhary Brahm Prakash",
+        "Lal Bahadur Shastri",
+        "Govind Ballabh Pant"
+      ],
+      "answer": "Chaudhary Brahm Prakash"
+    },
+    {
+      "question_id": 15,
+      "question": "Which President returned a bill for reconsideration to Parliament in the 1980s?",
+      "options": [
+        "President Neelam Sanjiva Reddy returned the bill",
+        "President Zail Singh returned the Assam Accord related bill",
+        "President R. Venkataraman returned the bill"
+      ],
+      "answer": "President Zail Singh returned the Assam Accord related bill"
+    }
+  ]
+}

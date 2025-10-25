@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which collective noun describes a group of zebras standing together?",
+      "options": [
+        "Dazzle",
+        "Troop",
+        "Pod"
+      ],
+      "answer": "Dazzle"
+    },
+    {
+      "question_id": 2,
+      "question": "Which collective noun names a group of foxes commonly used in literature?",
+      "options": [
+        "Skulk",
+        "Herd",
+        "Flock"
+      ],
+      "answer": "Skulk"
+    },
+    {
+      "question_id": 3,
+      "question": "Which collective noun is historically applied to a group of jellyfish in nautical language?",
+      "options": [
+        "Smack",
+        "Bloat",
+        "Rafter"
+      ],
+      "answer": "Smack"
+    },
+    {
+      "question_id": 4,
+      "question": "Which collective noun refers to people singing together in structured harmony?",
+      "options": [
+        "Choir",
+        "Pod",
+        "Murder"
+      ],
+      "answer": "Choir"
+    },
+    {
+      "question_id": 5,
+      "question": "Which collective noun describes people gathered for worship in one place?",
+      "options": [
+        "Congregation",
+        "Herd",
+        "Kindle"
+      ],
+      "answer": "Congregation"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare collective noun describes a group of caterpillars moving together?",
+      "options": [
+        "Army",
+        "Murder",
+        "Pack"
+      ],
+      "answer": "Army"
+    },
+    {
+      "question_id": 7,
+      "question": "Which collective noun names a group of lions in English?",
+      "options": [
+        "Pride",
+        "Pack",
+        "School"
+      ],
+      "answer": "Pride"
+    },
+    {
+      "question_id": 8,
+      "question": "Which collective noun names a group of swans on land or water near each other?",
+      "options": [
+        "Bevy",
+        "Murder",
+        "Colony"
+      ],
+      "answer": "Bevy"
+    },
+    {
+      "question_id": 9,
+      "question": "Which collective noun names a group of stags assembled during rutting season?",
+      "options": [
+        "Herd",
+        "Leash",
+        "Clan"
+      ],
+      "answer": "Clan"
+    },
+    {
+      "question_id": 10,
+      "question": "Which collective noun famously describes a group of owls?",
+      "options": [
+        "Parliament",
+        "Troop",
+        "Swarm"
+      ],
+      "answer": "Parliament"
+    },
+    {
+      "question_id": 11,
+      "question": "Which collective noun names a group of rhinoceroses moving together?",
+      "options": [
+        "Crash",
+        "Skein",
+        "Choir"
+      ],
+      "answer": "Crash"
+    },
+    {
+      "question_id": 12,
+      "question": "Which collective noun names a group of kangaroos when they are running quickly?",
+      "options": [
+        "Mob",
+        "Court",
+        "Bevy"
+      ],
+      "answer": "Mob"
+    },
+    {
+      "question_id": 13,
+      "question": "Which collective noun is used when many bees gather or move together?",
+      "options": [
+        "Swarm",
+        "Pod",
+        "Flock"
+      ],
+      "answer": "Swarm"
+    },
+    {
+      "question_id": 14,
+      "question": "Which collective noun describes a group of hedgehogs found together?",
+      "options": [
+        "Array",
+        "Pod",
+        "Skein"
+      ],
+      "answer": "Array"
+    },
+    {
+      "question_id": 15,
+      "question": "Which collective noun names a group of apes in some more obscure English lists?",
+      "options": [
+        "Shrewdness",
+        "Herd",
+        "Parliament"
+      ],
+      "answer": "Shrewdness"
+    }
+  ]
+}

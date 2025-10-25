@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'b' usually represent in quadratic ax^2 + bx + c?",
+      "options": [
+        "linear coefficient",
+        "constant term",
+        "quadratic coefficient"
+      ],
+      "answer": "linear coefficient"
+    },
+    {
+      "question_id": 2,
+      "question": "Which identity relates e^x as a series?",
+      "options": [
+        "e^x = Σ_{n=0}^∞ x^n/n!",
+        "e^x = Σ_{n=1}^∞ x^n",
+        "e^x = 1/(1-x)"
+      ],
+      "answer": "e^x = Σ_{n=0}^∞ x^n/n!"
+    },
+    {
+      "question_id": 3,
+      "question": "What concept does Noether's theorem connect to conserved quantities?",
+      "options": [
+        "symmetries of the action",
+        "boundary conditions",
+        "randomness"
+      ],
+      "answer": "symmetries of the action"
+    },
+    {
+      "question_id": 4,
+      "question": "Which inequality describes all real numbers x with absolute value less than 5?",
+      "options": [
+        "|x| < 5",
+        "x < 5",
+        "x > -5"
+      ],
+      "answer": "|x| < 5"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the area under one period of sin(x) from 0 to 2π?",
+      "options": [
+        "0",
+        "2",
+        "4"
+      ],
+      "answer": "0"
+    },
+    {
+      "question_id": 6,
+      "question": "Which test uses limsup_{n→∞} √[n]{|a_n|} to assess series?",
+      "options": [
+        "Root test",
+        "Ratio test",
+        "Comparison test"
+      ],
+      "answer": "Root test"
+    },
+    {
+      "question_id": 7,
+      "question": "Which formula calculates the perimeter of a square?",
+      "options": [
+        "4 × side",
+        "side^2",
+        "2 × side"
+      ],
+      "answer": "4 × side"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the Laplace transform of 1 (unit step) as a function of s?",
+      "options": [
+        "1/s",
+        "s",
+        "e^{-s}"
+      ],
+      "answer": "1/s"
+    },
+    {
+      "question_id": 9,
+      "question": "Which special function solves y'' + ky = 0 with varying k leading to Bessel's equation when in polar coordinates?",
+      "options": [
+        "Bessel functions",
+        "Legendre polynomials",
+        "Hermite functions"
+      ],
+      "answer": "Bessel functions"
+    },
+    {
+      "question_id": 10,
+      "question": "What operation does '∑' represent?",
+      "options": [
+        "summation",
+        "product",
+        "derivative"
+      ],
+      "answer": "summation"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the standard deviation formula for population data (σ)?",
+      "options": [
+        "√(Σ(x-μ)^2/N)",
+        "Σ(x-μ)/N",
+        "Σ|x-μ|/N"
+      ],
+      "answer": "√(Σ(x-μ)^2/N)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which decomposition writes positive-definite matrix A as product of lower triangular and its transpose?",
+      "options": [
+        "Cholesky decomposition",
+        "QR decomposition",
+        "SVD"
+      ],
+      "answer": "Cholesky decomposition"
+    },
+    {
+      "question_id": 13,
+      "question": "Which formula gives the area of a rectangle?",
+      "options": [
+        "length × width",
+        "2 × (length + width)",
+        "base × height ÷ 2"
+      ],
+      "answer": "length × width"
+    },
+    {
+      "question_id": 14,
+      "question": "Which substitution simplifies integrals of form ∫f'(x)/f(x) dx?",
+      "options": [
+        "u = f(x)",
+        "u = x^2",
+        "u = sin x"
+      ],
+      "answer": "u = f(x)"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the main statement of spectral theorem for normal operators on finite-dimensional inner product spaces?",
+      "options": [
+        "diagonalizable by unitary matrix",
+        "has only real entries",
+        "is invertible"
+      ],
+      "answer": "diagonalizable by unitary matrix"
+    }
+  ]
+}

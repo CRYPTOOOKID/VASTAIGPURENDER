@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which movie fits the emoji clue '👽🚲'?",
+      "options": [
+        "E.T.",
+        "Close Encounters",
+        "Alien"
+      ],
+      "answer": "E.T."
+    },
+    {
+      "question_id": 2,
+      "question": "Which movie fits the emoji clue '🕴️💼⌛'?",
+      "options": [
+        "The Adjustment Bureau",
+        "In Time",
+        "Limitless"
+      ],
+      "answer": "In Time"
+    },
+    {
+      "question_id": 3,
+      "question": "Which movie fits '🪦⏳⚖️' focusing on justice delayed and mortality?",
+      "options": [
+        "The Green Mile",
+        "Dead Man Walking",
+        "Mystic River"
+      ],
+      "answer": "The Green Mile"
+    },
+    {
+      "question_id": 4,
+      "question": "Which movie fits the emoji clue '🏹🔥'?",
+      "options": [
+        "The Hunger Games",
+        "Brave",
+        "Robin Hood"
+      ],
+      "answer": "The Hunger Games"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movie fits the emoji clue '🧑‍🎓🔮🏫'?",
+      "options": [
+        "Harry Potter and the Sorcerer's Stone",
+        "Matilda",
+        "The Craft"
+      ],
+      "answer": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "question_id": 6,
+      "question": "Which movie fits '🧭📜🏴‍☠️' referencing maritime treasure maps?",
+      "options": [
+        "Treasure Island",
+        "Pirates of the Caribbean",
+        "The Goonies"
+      ],
+      "answer": "Treasure Island"
+    },
+    {
+      "question_id": 7,
+      "question": "Which movie fits the emoji clue '🚢🧊'?",
+      "options": [
+        "Titanic",
+        "The Poseidon Adventure",
+        "Life of Pi"
+      ],
+      "answer": "Titanic"
+    },
+    {
+      "question_id": 8,
+      "question": "Which movie fits the emoji clue '🛡️🗡️👑'?",
+      "options": [
+        "Gladiator",
+        "Braveheart",
+        "King Arthur"
+      ],
+      "answer": "Braveheart"
+    },
+    {
+      "question_id": 9,
+      "question": "Which movie fits '🧑‍✈️🌧️🛬' about an emergency landing?",
+      "options": [
+        "Sully",
+        "Flight",
+        "Alive"
+      ],
+      "answer": "Sully"
+    },
+    {
+      "question_id": 10,
+      "question": "Which movie fits the emoji clue '🧙‍♂️⚡️'?",
+      "options": [
+        "Harry Potter",
+        "The Hobbit",
+        "The Sorcerer's Apprentice"
+      ],
+      "answer": "Harry Potter"
+    },
+    {
+      "question_id": 11,
+      "question": "Which movie fits the emoji clue '🕵️‍♀️📦🔍'?",
+      "options": [
+        "The Girl with the Dragon Tattoo",
+        "Zodiac",
+        "Mystic River"
+      ],
+      "answer": "Zodiac"
+    },
+    {
+      "question_id": 12,
+      "question": "Which movie fits '🔒🏛️📜' about a heist with historical clues?",
+      "options": [
+        "National Treasure",
+        "The Da Vinci Code",
+        "The Monuments Men"
+      ],
+      "answer": "National Treasure"
+    },
+    {
+      "question_id": 13,
+      "question": "Which movie fits the emoji clue '❄️👭'?",
+      "options": [
+        "Frozen",
+        "The Parent Trap",
+        "Sisters"
+      ],
+      "answer": "Frozen"
+    },
+    {
+      "question_id": 14,
+      "question": "Which movie fits the emoji clue '🧑‍🔧🚗💥'?",
+      "options": [
+        "The Fast and the Furious",
+        "Christine",
+        "Gone in 60 Seconds"
+      ],
+      "answer": "Gone in 60 Seconds"
+    },
+    {
+      "question_id": 15,
+      "question": "Which movie fits '🌋🚢🔥' involving island eruption and escape?",
+      "options": [
+        "Dante's Peak",
+        "Krakatoa, East of Java",
+        "Journey to the Center of the Earth"
+      ],
+      "answer": "Krakatoa, East of Java"
+    }
+  ]
+}

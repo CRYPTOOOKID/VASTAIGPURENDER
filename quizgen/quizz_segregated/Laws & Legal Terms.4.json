@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a plaintiff in a civil lawsuit?",
+      "options": [
+        "The person who brings the claim",
+        "The witness who testifies first",
+        "The official who decides the case"
+      ],
+      "answer": "The person who brings the claim"
+    },
+    {
+      "question_id": 2,
+      "question": "What does 'alien tort statute' historically enable?",
+      "options": [
+        "Deportation of noncitizens with crimes",
+        "Automatic diplomatic immunity",
+        "Foreign nationals sue for international law violations"
+      ],
+      "answer": "Foreign nationals sue for international law violations"
+    },
+    {
+      "question_id": 3,
+      "question": "Which principle governs admissibility of subsequent remedial measures?",
+      "options": [
+        "Excluded to prevent discouraging safety improvements",
+        "Admitted as proof of liability",
+        "Automatically leads to punitive damages"
+      ],
+      "answer": "Excluded to prevent discouraging safety improvements"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'ex parte' communication?",
+      "options": [
+        "One-sided communication without other party present",
+        "Joint agreement filed with the court",
+        "Public hearing open to all parties"
+      ],
+      "answer": "One-sided communication without other party present"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'mens rea' opposite concept describing physical act?",
+      "options": [
+        "Actus reus",
+        "Res ipsa loquitur",
+        "Stare decisis"
+      ],
+      "answer": "Actus reus"
+    },
+    {
+      "question_id": 6,
+      "question": "What does 'tort reform' typically aim to change?",
+      "options": [
+        "Expansion of criminal penalties",
+        "Abolition of contract law",
+        "Caps on damages and procedural limits"
+      ],
+      "answer": "Caps on damages and procedural limits"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'double jeopardy' protection?",
+      "options": [
+        "Guarantee of two trials per case",
+        "Requirement to pay two fines",
+        "Prohibition against retrial for same offense"
+      ],
+      "answer": "Prohibition against retrial for same offense"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the 'exclusionary rule' effect?",
+      "options": [
+        "Witness testimony requires corroboration",
+        "All hearsay evidence becomes admissible",
+        "Illegally seized evidence is inadmissible"
+      ],
+      "answer": "Illegally seized evidence is inadmissible"
+    },
+    {
+      "question_id": 9,
+      "question": "What is 'forum shopping' in litigation strategy?",
+      "options": [
+        "Selecting a mediator instead of a judge",
+        "Filing multiple identical claims in same court",
+        "Choosing a jurisdiction favorable to one's case"
+      ],
+      "answer": "Choosing a jurisdiction favorable to one's case"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'defamation'?",
+      "options": [
+        "False statement harming someone's reputation",
+        "Contract clause protecting parties",
+        "Court permission to publish records"
+      ],
+      "answer": "False statement harming someone's reputation"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statute governs international treaties within domestic law in many countries?",
+      "options": [
+        "Patent statutes",
+        "Treaty incorporation or supremacy provisions",
+        "Extradition statutes"
+      ],
+      "answer": "Treaty incorporation or supremacy provisions"
+    },
+    {
+      "question_id": 12,
+      "question": "Which test analyzes whether speech is unprotected incitement?",
+      "options": [
+        "Strict scrutiny for content-neutral laws",
+        "Balancing test for time, place, manner",
+        "Imminent lawless action test"
+      ],
+      "answer": "Imminent lawless action test"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'negligence' in tort law?",
+      "options": [
+        "Strict liability without fault",
+        "Failure to exercise reasonable care causing harm",
+        "Intentional harming of another person"
+      ],
+      "answer": "Failure to exercise reasonable care causing harm"
+    },
+    {
+      "question_id": 14,
+      "question": "Which tort requires intentional wrongdoing?",
+      "options": [
+        "Negligence",
+        "Strict liability",
+        "Battery"
+      ],
+      "answer": "Battery"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the 'public trust doctrine' primarily about?",
+      "options": [
+        "Private ownership of navigable waters",
+        "Exclusive commercial exploitation rights",
+        "Government holds certain natural resources for public use"
+      ],
+      "answer": "Government holds certain natural resources for public use"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Walking under what object is commonly considered bad luck in many cultures?",
+      "options": [
+        "A ladder",
+        "A bridge",
+        "An archway"
+      ],
+      "answer": "A ladder"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Biblical ritual gave rise to the English term for a scapegoat?",
+      "options": [
+        "Levitical ritual of Azazel",
+        "Passover sacrifice",
+        "Noah's offering"
+      ],
+      "answer": "Levitical ritual of Azazel"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare medieval device combined astrological charts with prayers as a household protective instrument?",
+      "options": [
+        "Mechanical clockwork idol",
+        "Alchemy retort",
+        "Astrolabe talismanic charts"
+      ],
+      "answer": "Astrolabe talismanic charts"
+    },
+    {
+      "question_id": 4,
+      "question": "Which number is widely considered unlucky in many Western countries?",
+      "options": [
+        "Nine",
+        "Seven",
+        "Thirteen"
+      ],
+      "answer": "Thirteen"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phrase refers to objects believed to transmit supernatural power to their owner?",
+      "options": [
+        "Icon",
+        "Talisman",
+        "Relic"
+      ],
+      "answer": "Talisman"
+    },
+    {
+      "question_id": 6,
+      "question": "Which practice in early medieval households involved concealing shoes within walls for luck?",
+      "options": [
+        "Ale brewing sign",
+        "Shoe deposition",
+        "Threshing rite"
+      ],
+      "answer": "Shoe deposition"
+    },
+    {
+      "question_id": 7,
+      "question": "Which item is commonly placed in a newborn's room in many cultures to attract good fortune?",
+      "options": [
+        "Protective amulet",
+        "Mirror",
+        "Salt shaker"
+      ],
+      "answer": "Protective amulet"
+    },
+    {
+      "question_id": 8,
+      "question": "Which term describes objects believed to contain a deity's presence and confer protection?",
+      "options": [
+        "Relics",
+        "Manuscripts",
+        "Contracts"
+      ],
+      "answer": "Relics"
+    },
+    {
+      "question_id": 9,
+      "question": "Which island's folklore includes protective 'clootie' trees where pilgrims tie offerings for healing?",
+      "options": [
+        "Corsica",
+        "Iceland",
+        "Scotland"
+      ],
+      "answer": "Scotland"
+    },
+    {
+      "question_id": 10,
+      "question": "Which type of charm is often pinned to clothing to protect against misfortune?",
+      "options": [
+        "Amulet",
+        "Brooch",
+        "Button"
+      ],
+      "answer": "Amulet"
+    },
+    {
+      "question_id": 11,
+      "question": "Which culture traditionally avoids the number 13th floor in buildings as a superstition?",
+      "options": [
+        "Inuit cultures",
+        "Sami cultures",
+        "Western cultures"
+      ],
+      "answer": "Western cultures"
+    },
+    {
+      "question_id": 12,
+      "question": "Which specific amulet type, often inscribed with names and signs, was buried under thresholds historically?",
+      "options": [
+        "Sealing talons",
+        "Coffin nails",
+        "Threshold deposit amulets"
+      ],
+      "answer": "Threshold deposit amulets"
+    },
+    {
+      "question_id": 13,
+      "question": "Which number is considered unlucky in many East Asian cultures due to its pronunciation?",
+      "options": [
+        "Eight",
+        "Four",
+        "Two"
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 14,
+      "question": "What term describes the fear of the number thirteen?",
+      "options": [
+        "Triskaidekaphobia",
+        "Hexakosioihexekonta",
+        "Atychiphobia"
+      ],
+      "answer": "Triskaidekaphobia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Late Antique practice placed phylacteries or inscribed amulets on bodies to protect travellers?",
+      "options": [
+        "Monastic vows",
+        "Penance rituals",
+        "Protective amulet wearing"
+      ],
+      "answer": "Protective amulet wearing"
+    }
+  ]
+}

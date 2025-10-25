@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who served as long-time chairman of ISRO and guided many satellite missions?",
+      "options": [
+        "Satish Dhawan",
+        "Homi Bhabha",
+        "Sam Pitroda"
+      ],
+      "answer": "Satish Dhawan"
+    },
+    {
+      "question_id": 2,
+      "question": "Which satellite was the first successful payload launched by SLV-3 in 1980?",
+      "options": [
+        "Rohini",
+        "INSAT",
+        "Aryabhata"
+      ],
+      "answer": "Rohini"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian scientist developed theory linking stellar structure with quantum statistics in early 20th century?",
+      "options": [
+        "Satyendra Nath Bose",
+        "S. Chandrasekhar",
+        "Meghnad Saha"
+      ],
+      "answer": "S. Chandrasekhar"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian medical chemist developed important anti-epileptic and anti-malarial compounds?",
+      "options": [
+        "Asima Chatterjee",
+        "Har Gobind Khorana",
+        "Shanti Swaroop Bhatnagar"
+      ],
+      "answer": "Asima Chatterjee"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian scientist’s theory underpins the concept of bosons in particle physics?",
+      "options": [
+        "S. Chandrasekhar",
+        "C. V. Raman",
+        "Satyendra Nath Bose"
+      ],
+      "answer": "Satyendra Nath Bose"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian physicist proposed a formula for photon scattering that today bears his name?",
+      "options": [
+        "C. V. Raman",
+        "Satyendra Nath Bose",
+        "S. Chandrasekhar"
+      ],
+      "answer": "C. V. Raman"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist invented the crescograph to measure plant growth?",
+      "options": [
+        "Satyendra Nath Bose",
+        "M. Visvesvaraya",
+        "Jagadish Chandra Bose"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian scientist discovered the Raman effect while studying light scattering in which material?",
+      "options": [
+        "Crystalline solids only",
+        "Liquids and gases",
+        "Metals"
+      ],
+      "answer": "Liquids and gases"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian scientist first measured plant electrical responses with instruments in the early 1900s?",
+      "options": [
+        "Jagadish Chandra Bose",
+        "Satyendra Nath Bose",
+        "Meghnad Saha"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the prominent Indian solid-state chemist known for contributions to materials science?",
+      "options": [
+        "C. N. R. Rao",
+        "M. S. Swaminathan",
+        "G. N. Ramachandran"
+      ],
+      "answer": "C. N. R. Rao"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian scientist proposed the ionization formula key to stellar atmospheres?",
+      "options": [
+        "Homi Bhabha",
+        "Satyendra Nath Bose",
+        "Meghnad Saha"
+      ],
+      "answer": "Meghnad Saha"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian physicist’s experimental work with light earned international acclaim and a Nobel Prize?",
+      "options": [
+        "C. V. Raman",
+        "S. Chandrasekhar",
+        "Homi Bhabha"
+      ],
+      "answer": "C. V. Raman"
+    },
+    {
+      "question_id": 13,
+      "question": "Who played a key role in India’s telecommunications revolution in the 1980s?",
+      "options": [
+        "M. Visvesvaraya",
+        "Sam Pitroda",
+        "E. Sreedharan"
+      ],
+      "answer": "Sam Pitroda"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian scientist’s research established plant response studies using electric signaling?",
+      "options": [
+        "C. V. Raman",
+        "Jagadish Chandra Bose",
+        "Meghnad Saha"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian institute did Homi Bhabha champion to support atomic energy research after independence?",
+      "options": [
+        "ISRO",
+        "Tata Institute of Fundamental Research",
+        "Indian Institute of Technology"
+      ],
+      "answer": "Tata Institute of Fundamental Research"
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the SI base unit for length?",
+        "options": [
+          "meter",
+          "kilogram",
+          "second"
+        ],
+        "answer": "meter"
+      },
+      {
+        "question": "Which prefix denotes one thousand times a unit?",
+        "options": [
+          "kilo",
+          "milli",
+          "micro"
+        ],
+        "answer": "kilo"
+      },
+      {
+        "question": "How many centimeters are in one meter?",
+        "options": [
+          "100",
+          "10",
+          "1000"
+        ],
+        "answer": "100"
+      },
+      {
+        "question": "What common instrument measures temperature in everyday weather reports?",
+        "options": [
+          "thermometer",
+          "barometer",
+          "anemometer"
+        ],
+        "answer": "thermometer"
+      },
+      {
+        "question": "Which unit is commonly used to measure mass in the SI system?",
+        "options": [
+          "kilogram",
+          "pound",
+          "stone"
+        ],
+        "answer": "kilogram"
+      },
+      {
+        "question": "What is the SI base unit for time?",
+        "options": [
+          "second",
+          "minute",
+          "hour"
+        ],
+        "answer": "second"
+      },
+      {
+        "question": "Which temperature scale uses 0 as freezing point of water and 100 as boiling point at sea level?",
+        "options": [
+          "Celsius",
+          "Fahrenheit",
+          "Kelvin"
+        ],
+        "answer": "Celsius"
+      },
+      {
+        "question": "Which unit measures electric current in the SI system?",
+        "options": [
+          "ampere",
+          "volt",
+          "ohm"
+        ],
+        "answer": "ampere"
+      },
+      {
+        "question": "Which prefix denotes one thousandth of a unit (10^-3)?",
+        "options": [
+          "milli",
+          "mega",
+          "nano"
+        ],
+        "answer": "milli"
+      },
+      {
+        "question": "What is the SI base unit for amount of substance?",
+        "options": [
+          "mole",
+          "gram",
+          "liter"
+        ],
+        "answer": "mole"
+      },
+      {
+        "question": "Which everyday unit measures liquid volume in many recipes?",
+        "options": [
+          "liter",
+          "meter",
+          "kilogram"
+        ],
+        "answer": "liter"
+      },
+      {
+        "question": "Which unit measures luminous intensity in the SI system?",
+        "options": [
+          "candela",
+          "lux",
+          "lumen"
+        ],
+        "answer": "candela"
+      },
+      {
+        "question": "How many milligrams are in one gram?",
+        "options": [
+          "1000",
+          "100",
+          "10"
+        ],
+        "answer": "1000"
+      },
+      {
+        "question": "Which unit is commonly used to measure distance on road signs internationally?",
+        "options": [
+          "kilometer",
+          "mile",
+          "yard"
+        ],
+        "answer": "kilometer"
+      },
+      {
+        "question": "What device measures atmospheric pressure in weather reports?",
+        "options": [
+          "barometer",
+          "hygrometer",
+          "thermometer"
+        ],
+        "answer": "barometer"
+      },
+      {
+        "question": "Which unit measures frequency in the SI system?",
+        "options": [
+          "hertz",
+          "pascal",
+          "tesla"
+        ],
+        "answer": "hertz"
+      },
+      {
+        "question": "Which prefix denotes one millionth of a unit (10^-6)?",
+        "options": [
+          "micro",
+          "milli",
+          "pico"
+        ],
+        "answer": "micro"
+      },
+      {
+        "question": "Which common unit measures mass in the US customary system?",
+        "options": [
+          "pound",
+          "gram",
+          "kilogram"
+        ],
+        "answer": "pound"
+      },
+      {
+        "question": "Which unit measures energy in the SI system?",
+        "options": [
+          "joule",
+          "watt",
+          "newton"
+        ],
+        "answer": "joule"
+      },
+      {
+        "question": "Which instrument measures distance by emitting sound or light pulses?",
+        "options": [
+          "rangefinder",
+          "seismograph",
+          "oscilloscope"
+        ],
+        "answer": "rangefinder"
+      },
+      {
+        "question": "How many grams are in one kilogram?",
+        "options": [
+          "1000",
+          "100",
+          "10"
+        ],
+        "answer": "1000"
+      },
+      {
+        "question": "Which unit is used for measuring angles in many contexts?",
+        "options": [
+          "degree",
+          "meter",
+          "second"
+        ],
+        "answer": "degree"
+      },
+      {
+        "question": "Which SI base unit measures temperature thermodynamically?",
+        "options": [
+          "kelvin",
+          "celsius",
+          "fahrenheit"
+        ],
+        "answer": "kelvin"
+      },
+      {
+        "question": "Which everyday unit measures short distances in the imperial system?",
+        "options": [
+          "inch",
+          "meter",
+          "kilometer"
+        ],
+        "answer": "inch"
+      },
+      {
+        "question": "Which prefix denotes one billionth of a unit (10^-9)?",
+        "options": [
+          "nano",
+          "micro",
+          "milli"
+        ],
+        "answer": "nano"
+      },
+      {
+        "question": "Which unit measures force in the SI system?",
+        "options": [
+          "newton",
+          "joule",
+          "watt"
+        ],
+        "answer": "newton"
+      },
+      {
+        "question": "Which unit measures electric potential difference in the SI system?",
+        "options": [
+          "volt",
+          "ampere",
+          "ohm"
+        ],
+        "answer": "volt"
+      },
+      {
+        "question": "Which metric measurement unit is often used for newborn baby mass?",
+        "options": [
+          "gram",
+          "kilogram",
+          "tonne"
+        ],
+        "answer": "kilogram"
+      },
+      {
+        "question": "What unit commonly measures computer storage capacity?",
+        "options": [
+          "byte",
+          "meter",
+          "watt"
+        ],
+        "answer": "byte"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which organization maintains the international prototype standards and SI units?",
+        "options": [
+          "BIPM",
+          "ISO",
+          "IEC"
+        ],
+        "answer": "BIPM"
+      },
+      {
+        "question": "Which SI base unit was redefined in 2019 by fixing the Boltzmann constant?",
+        "options": [
+          "kelvin",
+          "metre",
+          "mole"
+        ],
+        "answer": "kelvin"
+      },
+      {
+        "question": "Which derived SI unit measures pressure?",
+        "options": [
+          "pascal",
+          "siemens",
+          "becquerel"
+        ],
+        "answer": "pascal"
+      },
+      {
+        "question": "Which historical definition described the meter as a fraction of Earth's meridian?",
+        "options": [
+          "one ten-millionth of the quadrant",
+          "one millionth of the globe",
+          "one thousandth of the equator"
+        ],
+        "answer": "one ten-millionth of the quadrant"
+      },
+      {
+        "question": "Which prefix represents 10^9 in the SI system?",
+        "options": [
+          "giga",
+          "mega",
+          "tera"
+        ],
+        "answer": "giga"
+      },
+      {
+        "question": "What unit measures amount of electric charge in SI terms?",
+        "options": [
+          "coulomb",
+          "farad",
+          "henry"
+        ],
+        "answer": "coulomb"
+      },
+      {
+        "question": "Which unit is defined by fixing the speed of light in vacuum exactly since 1983?",
+        "options": [
+          "metre",
+          "second",
+          "kilogram"
+        ],
+        "answer": "metre"
+      },
+      {
+        "question": "Which unit used in computing denotes 2^10 bytes often approximated as 1024 bytes?",
+        "options": [
+          "kibibyte",
+          "kilobyte",
+          "megabyte"
+        ],
+        "answer": "kibibyte"
+      },
+      {
+        "question": "Which SI base unit measures thermodynamic temperature symbolized by K?",
+        "options": [
+          "kelvin",
+          "celsius",
+          "rankine"
+        ],
+        "answer": "kelvin"
+      },
+      {
+        "question": "Which unit historically used for land area equals 100 square meters in some countries?",
+        "options": [
+          "are",
+          "acre",
+          "hectare"
+        ],
+        "answer": "are"
+      },
+      {
+        "question": "Which prefix denotes 10^-12 in the SI system?",
+        "options": [
+          "pico",
+          "nano",
+          "micro"
+        ],
+        "answer": "pico"
+      },
+      {
+        "question": "Which unit measures radioactivity equal to one disintegration per second?",
+        "options": [
+          "becquerel",
+          "curie",
+          "gray"
+        ],
+        "answer": "becquerel"
+      },
+      {
+        "question": "Which SI derived unit measures electric resistance?",
+        "options": [
+          "ohm",
+          "tesla",
+          "lux"
+        ],
+        "answer": "ohm"
+      },
+      {
+        "question": "Which international treaty established the Bureau International des Poids et Mesures in 1875?",
+        "options": [
+          "Metre Convention",
+          "Geneva Accord",
+          "Metric Treaty"
+        ],
+        "answer": "Metre Convention"
+      },
+      {
+        "question": "Which unit measures luminous flux in SI units?",
+        "options": [
+          "lumen",
+          "candela",
+          "lux"
+        ],
+        "answer": "lumen"
+      },
+      {
+        "question": "Which imperial unit measures cloth length traditionally equal to 36 inches?",
+        "options": [
+          "yard",
+          "ell",
+          "rod"
+        ],
+        "answer": "yard"
+      },
+      {
+        "question": "Which SI base unit did the 2019 redefinition target by fixing the Planck constant?",
+        "options": [
+          "kilogram",
+          "ampere",
+          "mole"
+        ],
+        "answer": "kilogram"
+      },
+      {
+        "question": "Which unit measures capacitance in the SI system?",
+        "options": [
+          "farad",
+          "henry",
+          "siemens"
+        ],
+        "answer": "farad"
+      },
+      {
+        "question": "Which prefix denotes 10^6 in the SI system?",
+        "options": [
+          "mega",
+          "kilo",
+          "giga"
+        ],
+        "answer": "mega"
+      },
+      {
+        "question": "Which unit denotes frequency equal to one cycle per second?",
+        "options": [
+          "hertz",
+          "radian",
+          "bel"
+        ],
+        "answer": "hertz"
+      },
+      {
+        "question": "Which historical figure helped measure the meridian to establish the original meter?",
+        "options": [
+          "Méchain",
+          "Newton",
+          "Gauss"
+        ],
+        "answer": "Méchain"
+      },
+      {
+        "question": "Which unit is commonly used to express the density of materials in g/cm^3?",
+        "options": [
+          "gram per cubic centimeter",
+          "kilogram per meter",
+          "pound per inch"
+        ],
+        "answer": "gram per cubic centimeter"
+      },
+      {
+        "question": "Which unit measures magnetic flux density in the SI system?",
+        "options": [
+          "tesla",
+          "weber",
+          "henry"
+        ],
+        "answer": "tesla"
+      },
+      {
+        "question": "Which prefix represents 10^-3 in the SI system?",
+        "options": [
+          "milli",
+          "centi",
+          "deci"
+        ],
+        "answer": "milli"
+      },
+      {
+        "question": "Which unit used in chemistry denotes 6.02214076×10^23 entities exactly?",
+        "options": [
+          "mole",
+          "dozen",
+          "molecule"
+        ],
+        "answer": "mole"
+      },
+      {
+        "question": "Which unit measures electrical conductance in SI units?",
+        "options": [
+          "siemens",
+          "ohm",
+          "volt"
+        ],
+        "answer": "siemens"
+      },
+      {
+        "question": "Which unit measures optical irradiance, commonly expressed in watts per square meter?",
+        "options": [
+          "radiant flux density",
+          "lux",
+          "candela"
+        ],
+        "answer": "radiant flux density"
+      },
+      {
+        "question": "Which unit is commonly used to describe petroleum volume internationally?",
+        "options": [
+          "barrel",
+          "litre",
+          "gallon"
+        ],
+        "answer": "barrel"
+      },
+      {
+        "question": "Which SI derived unit measures power?",
+        "options": [
+          "watt",
+          "newton",
+          "coulomb"
+        ],
+        "answer": "watt"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which constant was assigned an exact value to redefine the ampere in 2019?",
+        "options": [
+          "elementary charge",
+          "Planck constant",
+          "Boltzmann constant"
+        ],
+        "answer": "elementary charge"
+      },
+      {
+        "question": "Which exact speed defines the metre since 1983 in meters per second?",
+        "options": [
+          "299792458",
+          "300000000",
+          "299792000"
+        ],
+        "answer": "299792458"
+      },
+      {
+        "question": "Which rare unit measures nuclear cross-section equal to 10^-28 square meters?",
+        "options": [
+          "barn",
+          "femtobarn",
+          "millibarn"
+        ],
+        "answer": "barn"
+      },
+      {
+        "question": "Which obsolete unit for length was based on the length of a human foot?",
+        "options": [
+          "foot",
+          "ell",
+          "furlong"
+        ],
+        "answer": "foot"
+      },
+      {
+        "question": "Which constant's fixed value established the kilogram's definition in the 2019 SI revision?",
+        "options": [
+          "Planck constant",
+          "Avogadro constant",
+          "speed of light"
+        ],
+        "answer": "Planck constant"
+      },
+      {
+        "question": "Which unit measures absorbed radiation dose equal to one joule per kilogram?",
+        "options": [
+          "gray",
+          "sievert",
+          "becquerel"
+        ],
+        "answer": "gray"
+      },
+      {
+        "question": "Which historical measurement unit equals 160 rods and often used in surveying?",
+        "options": [
+          "mi le",
+          "furlong",
+          "chain"
+        ],
+        "answer": "furlong"
+      },
+      {
+        "question": "Which unit describes optical luminous exposure with lux-seconds often used in photography?",
+        "options": [
+          "lux second",
+          "lumen hour",
+          "candela second"
+        ],
+        "answer": "lux second"
+      },
+      {
+        "question": "Which SI prefix was introduced to describe 10^-24 and 10^24 magnitudes respectively?",
+        "options": [
+          "yocto and yotta",
+          "zepto and zetta",
+          "atto and exa"
+        ],
+        "answer": "yocto and yotta"
+      },
+      {
+        "question": "Which instrument historically measured mass by balancing against a standard kilogram prototype?",
+        "options": [
+          "balance scale",
+          "spring scale",
+          "load cell"
+        ],
+        "answer": "balance scale"
+      },
+      {
+        "question": "Which unit measures the logarithmic ratio of power levels in acoustics and electrical engineering?",
+        "options": [
+          "bel",
+          "neper",
+          "decibel"
+        ],
+        "answer": "decibel"
+      },
+      {
+        "question": "Which unit of time equals 1/86000 of a mean solar day in historical French decimal time trials?",
+        "options": [
+          "decimal second",
+          "centiday",
+          "milliday"
+        ],
+        "answer": "decimal second"
+      },
+      {
+        "question": "Which constant was fixed to define the mole exactly in 2019?",
+        "options": [
+          "Avogadro constant",
+          "Boltzmann constant",
+          "Planck constant"
+        ],
+        "answer": "Avogadro constant"
+      },
+      {
+        "question": "Which measurement unit originally defined paper sizes in ISO 216 relates area halves by folding?",
+        "options": [
+          "A series",
+          "B series",
+          "C series"
+        ],
+        "answer": "A series"
+      },
+      {
+        "question": "Which unit describes visible light intensity per unit area weighted by human vision response?",
+        "options": [
+          "illuminance (lux)",
+          "radiance (W/m^2)",
+          "luminance (cd/m^2)"
+        ],
+        "answer": "illuminance (lux)"
+      },
+      {
+        "question": "Which unit measures dynamic viscosity in SI derived units of pascal-seconds?",
+        "options": [
+          "pascal-second",
+          "poise",
+          "stokes"
+        ],
+        "answer": "pascal-second"
+      },
+      {
+        "question": "Which rare historical unit measured distances at sea equal to one minute of latitude?",
+        "options": [
+          "nautical mile",
+          "league",
+          "cable"
+        ],
+        "answer": "nautical mile"
+      },
+      {
+        "question": "Which unit expresses area used in astrophysics equal to (10^2) square meters historically?",
+        "options": [
+          "are",
+          "hectare",
+          "barn"
+        ],
+        "answer": "hectare"
+      },
+      {
+        "question": "Which temperature scale's absolute zero is 0 but uses a degree equal to Celsius degree?",
+        "options": [
+          "kelvin",
+          "rankine",
+          "réaumur"
+        ],
+        "answer": "kelvin"
+      },
+      {
+        "question": "Which unit measures catalytic activity equal to one mole per second?",
+        "options": [
+          "katal",
+          "enzyme unit",
+          "international unit"
+        ],
+        "answer": "katal"
+      },
+      {
+        "question": "Which unit used in geodesy denotes gravitational acceleration often approximated as 9.80665 m/s^2?",
+        "options": [
+          "standard gravity (g0)",
+          "gal",
+          "slug"
+        ],
+        "answer": "standard gravity (g0)"
+      },
+      {
+        "question": "Which unit quantifies information content equal to log base 2 of possible states, commonly in bits?",
+        "options": [
+          "bit",
+          "nat",
+          "shannon"
+        ],
+        "answer": "bit"
+      },
+      {
+        "question": "Which specialized unit measures luminous efficacy in lumens per watt for light sources?",
+        "options": [
+          "lumen per watt",
+          "candela per lux",
+          "lux per lumen"
+        ],
+        "answer": "lumen per watt"
+      },
+      {
+        "question": "Which unit in radio astronomy measures spectral flux density equal to 10^-26 watts per square meter per hertz?",
+        "options": [
+          "jansky",
+          "sievert",
+          "becquerel"
+        ],
+        "answer": "jansky"
+      },
+      {
+        "question": "Which ancient length unit varied regionally but frequently approximated one-sixth of a Roman foot?",
+        "options": [
+          "uncia",
+          "digitus",
+          "palmus"
+        ],
+        "answer": "uncia"
+      },
+      {
+        "question": "Which SI derived unit measures torque or energy per angle with the same dimensions as joule per radian?",
+        "options": [
+          "newton-meter",
+          "joule",
+          "pascal"
+        ],
+        "answer": "newton-meter"
+      },
+      {
+        "question": "Which unit describes spectral radiance used in remote sensing often measured in W·sr^-1·m^-2·nm^-1?",
+        "options": [
+          "spectral radiance",
+          "irradiance",
+          "radiant intensity"
+        ],
+        "answer": "spectral radiance"
+      },
+      {
+        "question": "Which specialized unit measures concentration in air quality index contexts as micrograms per cubic meter?",
+        "options": [
+          "µg/m³",
+          "ppb",
+          "ppm"
+        ],
+        "answer": "µg/m³"
+      },
+      {
+        "question": "Which gravitational unit used in geophysics equals one galileo defined as one centimeter per second squared?",
+        "options": [
+          "gal",
+          "galileo",
+          "g"
+        ],
+        "answer": "gal"
+      },
+      {
+        "question": "Which historic artifact defined mass standards internationally before metric prototypes were widespread?",
+        "options": [
+          "merchant weights",
+          "royal stone",
+          "cubit rod"
+        ],
+        "answer": "merchant weights"
+      }
+    ]
+  }
+}

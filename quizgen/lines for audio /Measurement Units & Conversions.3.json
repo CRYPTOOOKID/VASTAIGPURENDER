@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which unit measures energy in the SI system?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which SI base unit measures thermodynamic temperature symbolized by K?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which temperature scale's absolute zero is 0 but uses a degree equal to Celsius degree?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which unit is commonly used to measure distance on road signs internationally?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which international treaty established the Bureau International des Poids et Mesures in 1875?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which exact speed defines the metre since 1983 in meters per second?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which prefix denotes one thousand times a unit?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which unit measures luminous flux in SI units?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which historical measurement unit equals 160 rods and often used in surveying?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the SI base unit for length?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unit denotes frequency equal to one cycle per second?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which SI derived unit measures torque or energy per angle with the same dimensions as joule per radian?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which temperature scale uses 0 as freezing point of water and 100 as boiling point at sea level?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which unit historically used for land area equals 100 square meters in some countries?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which constant was fixed to define the mole exactly in 2019?"
+    }
+  ]
+}

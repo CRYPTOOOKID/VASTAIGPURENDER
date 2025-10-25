@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which European country's national anthem is officially instrumental with no lyrics?",
+      "options": [
+        "Spain",
+        "Italy",
+        "Portugal"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's anthem contains stanzas originally written to inspire revolution in 1792?",
+      "options": [
+        "France's 'La Marseillaise'",
+        "Britain's 'God Save the King'",
+        "Sweden's 'Du gamla, Du fria'"
+      ],
+      "answer": "France's 'La Marseillaise'"
+    },
+    {
+      "question_id": 3,
+      "question": "Which national motto is inscribed on the Canadian $1 coin and literally means 'From sea to sea'?",
+      "options": [
+        "A Mari Usque Ad Mare",
+        "Plus Ultra",
+        "E Pluribus Unum"
+      ],
+      "answer": "A Mari Usque Ad Mare"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country sings 'La Bayamesa' as its national anthem?",
+      "options": [
+        "Cuba",
+        "Puerto Rico",
+        "Dominican Republic"
+      ],
+      "answer": "Cuba"
+    },
+    {
+      "question_id": 5,
+      "question": "Who composed the music for 'O Canada' in 1880?",
+      "options": [
+        "Calixa Lavallée",
+        "Alexander Muir",
+        "Joseph Armand Bombardier"
+      ],
+      "answer": "Calixa Lavallée"
+    },
+    {
+      "question_id": 6,
+      "question": "Which country's motto 'Satyameva Jayate' is taken from the ancient Sanskrit Mundaka Upanishad?",
+      "options": [
+        "India",
+        "Nepal",
+        "Sri Lanka"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country's national anthem is titled 'Himno Nacional Mexicano'?",
+      "options": [
+        "Mexico",
+        "Spain",
+        "Argentina"
+      ],
+      "answer": "Mexico"
+    },
+    {
+      "question_id": 8,
+      "question": "Which national anthem is officially bilingual in English and French?",
+      "options": [
+        "Canada's 'O Canada'",
+        "United States' 'The Star-Spangled Banner'",
+        "Australia's 'Advance Australia Fair'"
+      ],
+      "answer": "Canada's 'O Canada'"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem's present lyrics were penned by the same author who wrote the Soviet anthem lyrics later adapted for modern use?",
+      "options": [
+        "Russia (Sergei Mikhalkov revised lyrics)",
+        "Ukraine",
+        "Belarus"
+      ],
+      "answer": "Russia (Sergei Mikhalkov revised lyrics)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country's national motto is 'Liberté, égalité, fraternité'?",
+      "options": [
+        "France",
+        "Belgium",
+        "Luxembourg"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 11,
+      "question": "Who wrote both the words and music of 'La Marseillaise' in 1792?",
+      "options": [
+        "Claude Joseph Rouget de Lisle",
+        "Hector Berlioz",
+        "François-René de Chateaubriand"
+      ],
+      "answer": "Claude Joseph Rouget de Lisle"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country's motto on its national emblem reads 'E Pluribus Unum' though a different phrase is currently the official motto?",
+      "options": [
+        "United States",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country combines multiple languages including Xhosa, Zulu, Afrikaans, and English in its national anthem?",
+      "options": [
+        "South Africa",
+        "Kenya",
+        "Nigeria"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nation's national motto uses a phrase from the Upanishads?",
+      "options": [
+        "India ('Satyameva Jayate')",
+        "Nepal",
+        "Bhutan"
+      ],
+      "answer": "India ('Satyameva Jayate')"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national motto became official only in 1956 despite earlier popular use?",
+      "options": [
+        "United States ('In God We Trust')",
+        "France ('Liberté, égalité, fraternité')",
+        "Canada ('A Mari Usque Ad Mare')"
+      ],
+      "answer": "United States ('In God We Trust')"
+    }
+  ]
+}

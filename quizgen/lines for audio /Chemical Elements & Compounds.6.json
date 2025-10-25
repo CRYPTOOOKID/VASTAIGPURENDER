@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which element is required for thyroid hormone production?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which compound is widely used as a pH indicator in labs, turning pink in basic solutions?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which metal's high neutron absorption cross-section makes it useful for nuclear control rods?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element has the atomic number 1?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which noble gas is used in high-voltage electrical switches and to fill incandescent bulbs?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which element forms the basis of organometallic Grubbs catalysts used in olefin metathesis?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which gas makes up about 78% of Earth's atmosphere?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which compound is used as the primary refrigerant historically known as CFC-12 (dichlorodifluoromethane)?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which element's ferromagnetism disappears above its Curie temperature around 770°C?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the chemical symbol for oxygen?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which element is central in organic chemistry naming and bonding versatility?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which element's stable isotopes make it useful as a geochemical tracer for climate studies (e.g., oxygen isotopes)?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which element's isotope is commonly used for carbon dating?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element's allotrope black phosphorus has a layered structure and emerging interest for semiconductor applications?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which transition metal is central to biological nitrogenase enzymes enabling biological nitrogen fixation?"
+    }
+  ]
+}

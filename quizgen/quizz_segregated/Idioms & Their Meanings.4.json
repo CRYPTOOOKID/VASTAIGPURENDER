@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"piece of cake\" describe?",
+      "options": [
+        "Something very easy",
+        "A tasty dessert",
+        "A small portion"
+      ],
+      "answer": "Something very easy"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom fits \"someone who is unpredictable or unstable\"?",
+      "options": [
+        "Born with a silver spoon",
+        "A loose cannon",
+        "A safe bet"
+      ],
+      "answer": "A loose cannon"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom frequently appears in headlines as a compact metaphor for recovery?",
+      "options": [
+        "Drop the ball",
+        "Back on its feet",
+        "Have a field day"
+      ],
+      "answer": "Back on its feet"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"bite off more than you can chew\" warn against?",
+      "options": [
+        "Eating too quickly",
+        "Complaining about food quality",
+        "Taking on too much responsibility"
+      ],
+      "answer": "Taking on too much responsibility"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom means \"to begin an event or project\"?",
+      "options": [
+        "Kick things off",
+        "Run out of steam",
+        "Drop the ball"
+      ],
+      "answer": "Kick things off"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom best illustrates ironical reversal where outcome opposes intent?",
+      "options": [
+        "Pull your leg",
+        "Backfire",
+        "Bite the dust"
+      ],
+      "answer": "Backfire"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the meaning of \"let the cat out of the bag\"?",
+      "options": [
+        "Release a pet from a bag",
+        "Reveal a secret accidentally",
+        "Make a sudden mistake"
+      ],
+      "answer": "Reveal a secret accidentally"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom suits \"invest time now to avoid trouble later\"?",
+      "options": [
+        "Cut your losses",
+        "An ounce of prevention is worth a pound of cure",
+        "Pass the baton"
+      ],
+      "answer": "An ounce of prevention is worth a pound of cure"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom demonstrates anthropomorphism by attributing human traits to nonhumans?",
+      "options": [
+        "Break the ice",
+        "The computer froze",
+        "Throw in the towel"
+      ],
+      "answer": "The computer froze"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"silver lining\" refer to in adversity?",
+      "options": [
+        "A minor decoration on clothing",
+        "A positive aspect in bad situations",
+        "A literal lining made of silver"
+      ],
+      "answer": "A positive aspect in bad situations"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom describes \"relying on hope instead of a plan\"?",
+      "options": [
+        "Learn the ropes",
+        "Count your chickens before they hatch",
+        "Cross that bridge when you come to it"
+      ],
+      "answer": "Count your chickens before they hatch"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom serves as a cultural metaphor for sudden fame and rapid decline?",
+      "options": [
+        "Keep your eye on the ball",
+        "Bury the hatchet",
+        "Flash in the pan"
+      ],
+      "answer": "Flash in the pan"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"back to the drawing board\" indicate?",
+      "options": [
+        "Cancel a design completely",
+        "Start over after failure",
+        "Return to an artist's workspace"
+      ],
+      "answer": "Start over after failure"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom means \"maintain secrecy about plans or feelings\"?",
+      "options": [
+        "Spill the beans",
+        "Keep it under your hat",
+        "Play it by ear"
+      ],
+      "answer": "Keep it under your hat"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom primarily originates from nautical vocabulary about ship rigging?",
+      "options": [
+        "Face the music",
+        "Learning the ropes",
+        "On thin ice"
+      ],
+      "answer": "Learning the ropes"
+    }
+  ]
+}

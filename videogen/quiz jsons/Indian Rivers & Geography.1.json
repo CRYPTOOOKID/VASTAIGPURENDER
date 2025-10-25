@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which headstreams meet at Devprayag to create the Ganga?",
+      "options": [
+        "Kali and Gomti",
+        "Yamuna and Tons",
+        "Bhagirathi and Alaknanda"
+      ],
+      "answer": "Bhagirathi and Alaknanda"
+    },
+    {
+      "question_id": 2,
+      "question": "Which dam is constructed across the Mahanadi River in Odisha?",
+      "options": [
+        "Bhakra Dam",
+        "Tehri Dam",
+        "Hirakud Dam"
+      ],
+      "answer": "Hirakud Dam"
+    },
+    {
+      "question_id": 3,
+      "question": "Which river system was central to the construction of the Sone Barrage for irrigation in Bihar?",
+      "options": [
+        "Gomti",
+        "Sone",
+        "Ghaghara"
+      ],
+      "answer": "Sone"
+    },
+    {
+      "question_id": 4,
+      "question": "Which river empties into the Arabian Sea at the Gulf of Khambhat?",
+      "options": [
+        "Mahanadi",
+        "Godavari",
+        "Narmada"
+      ],
+      "answer": "Narmada"
+    },
+    {
+      "question_id": 5,
+      "question": "Which major tributary joins the Yamuna downstream contributing significant flow?",
+      "options": [
+        "Narmada",
+        "Godavari",
+        "Chambal"
+      ],
+      "answer": "Chambal"
+    },
+    {
+      "question_id": 6,
+      "question": "Which river is associated with the historic Grand Anicut engineering work built in the 2nd century CE?",
+      "options": [
+        "Krishna",
+        "Narmada",
+        "Kaveri"
+      ],
+      "answer": "Kaveri"
+    },
+    {
+      "question_id": 7,
+      "question": "Which river separates parts of Uttar Pradesh and Bihar along its course?",
+      "options": [
+        "Ghaghara",
+        "Ganga",
+        "Kaveri"
+      ],
+      "answer": "Ganga"
+    },
+    {
+      "question_id": 8,
+      "question": "Which inter-state water dispute primarily involves Karnataka and Tamil Nadu?",
+      "options": [
+        "Narmada water dispute",
+        "Cauvery water dispute",
+        "Godavari water dispute"
+      ],
+      "answer": "Cauvery water dispute"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian river's delta is shared with Bangladesh and includes the world’s largest mangrove?",
+      "options": [
+        "Ganges-Brahmaputra-Meghna",
+        "Mahanadi-Tel",
+        "Godavari-Krishna"
+      ],
+      "answer": "Ganges-Brahmaputra-Meghna"
+    },
+    {
+      "question_id": 10,
+      "question": "Which river contributes to the backwaters and port system at Kochi?",
+      "options": [
+        "Tapi",
+        "Periyar",
+        "Godavari"
+      ],
+      "answer": "Periyar"
+    },
+    {
+      "question_id": 11,
+      "question": "Which river originates at Talakaveri in the Western Ghats?",
+      "options": [
+        "Krishna",
+        "Kaveri",
+        "Godavari"
+      ],
+      "answer": "Kaveri"
+    },
+    {
+      "question_id": 12,
+      "question": "Which river's catchment includes the Sundergarh and Angul coalfields in Odisha?",
+      "options": [
+        "Godavari",
+        "Brahmani",
+        "Mahanadi"
+      ],
+      "answer": "Mahanadi"
+    },
+    {
+      "question_id": 13,
+      "question": "Which river is often called the 'Dakshin Ganga' or 'Ganges of the South'?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Kaveri"
+      ],
+      "answer": "Godavari"
+    },
+    {
+      "question_id": 14,
+      "question": "Which river is the main source of irrigation in Tamil Nadu's delta plains?",
+      "options": [
+        "Krishna",
+        "Godavari",
+        "Cauvery"
+      ],
+      "answer": "Cauvery"
+    },
+    {
+      "question_id": 15,
+      "question": "Which major Himalayan tributary of the Ganges originates in Nepal and joins on the left bank?",
+      "options": [
+        "Gandak",
+        "Chambal",
+        "Betwa"
+      ],
+      "answer": "Gandak"
+    }
+  ]
+}

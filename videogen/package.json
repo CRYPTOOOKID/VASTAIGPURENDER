@@ -1,0 +1,32 @@
+{
+  "name": "quiz-channel-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render QuizVideo out/video.mp4",
+    "render:master": "ts-node --project scripts/tsconfig.json scripts/masterRender.ts",
+    "check": "ts-node --project scripts/tsconfig.json scripts/checkSystem.ts",
+    "upgrade": "remotion upgrade",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.362",
+    "@remotion/transitions": "4.0.362",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.362"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.1",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Burkina Faso, a cultural and music hub in West Africa?",
+      "options": [
+        "Ouagadougou",
+        "Niamey",
+        "Bamako"
+      ],
+      "answer": "Ouagadougou"
+    },
+    {
+      "question_id": 2,
+      "question": "Which island nation's capital moved between islands historically, now located on a different larger island?",
+      "options": [
+        "Kiribati (South Tarawa)",
+        "Seychelles (Victoria)",
+        "Maldives (Malé)"
+      ],
+      "answer": "Kiribati (South Tarawa)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital was the target of a major relocation plan under President Teodoro Obiang, aiming for growth inland?",
+      "options": [
+        "Malabo to Oyala",
+        "Yaoundé to Ebolowa",
+        "Libreville to Port-Gentil"
+      ],
+      "answer": "Malabo to Oyala"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city is the capital of Fiji, located on the island of Viti Levu?",
+      "options": [
+        "Apia",
+        "Suva",
+        "Nadi"
+      ],
+      "answer": "Suva"
+    },
+    {
+      "question_id": 5,
+      "question": "Which capital is known for being a major banana export hub yet remains a small, often overlooked national capital?",
+      "options": [
+        "Belmopan",
+        "Bissau",
+        "Praia"
+      ],
+      "answer": "Bissau"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital replaced a colonial-era port city after independence to provide a safer inland administrative center?",
+      "options": [
+        "Harare (replacing Salisbury)",
+        "Dodoma (replacing Dar es Salaam)",
+        "Belmopan (replacing Belize City)"
+      ],
+      "answer": "Belmopan (replacing Belize City)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which district functions as the de facto capital of Nauru where government offices are located?",
+      "options": [
+        "Aiwo",
+        "Denigomodu",
+        "Yaren"
+      ],
+      "answer": "Yaren"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital became the seat of government for a country after independence in 1975 and is on the north coast?",
+      "options": [
+        "Dili",
+        "Paramaribo",
+        "Praia"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital replaced Koror after construction of a purpose-built capital complex inland in 2006?",
+      "options": [
+        "Palikir",
+        "Majuro",
+        "Ngerulmud"
+      ],
+      "answer": "Ngerulmud"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city is the national capital of Niger, located on the Niger River's edge?",
+      "options": [
+        "Bamako",
+        "N'Djamena",
+        "Niamey"
+      ],
+      "answer": "Niamey"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital is famed for a colonial-era fortress called 'Fort Charlotte' overlooking a harbor?",
+      "options": [
+        "St. John's",
+        "Castries",
+        "Kingstown"
+      ],
+      "answer": "Kingstown"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital is located within the traditional kingdom seat of Lobamba, hosting royal ceremonies for a monarchy?",
+      "options": [
+        "Maseru (Lesotho)",
+        "Lobamba (Eswatini)",
+        "Gaborone (Botswana)"
+      ],
+      "answer": "Lobamba (Eswatini)"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of the Independent State of Samoa, on the island of Upolu?",
+      "options": [
+        "Apia",
+        "Nuku'alofa",
+        "Honiara"
+      ],
+      "answer": "Apia"
+    },
+    {
+      "question_id": 14,
+      "question": "Which small African capital sits on a narrow peninsula and was a colonial trading post for centuries?",
+      "options": [
+        "Victoria",
+        "Freetown",
+        "Banjul"
+      ],
+      "answer": "Banjul"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital is the seat of government for a country whose largest city remains the commercial center rather than the official capital?",
+      "options": [
+        "Abuja (Nigeria)",
+        "Canberra (Australia)",
+        "Porto-Novo (Benin)"
+      ],
+      "answer": "Porto-Novo (Benin)"
+    }
+  ]
+}

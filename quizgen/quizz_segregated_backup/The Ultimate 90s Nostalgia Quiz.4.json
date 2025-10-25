@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which musical movement is associated with bands like Nirvana and Pearl Jam?",
+      "options": [
+        "Grunge",
+        "Britpop",
+        "Hip hop"
+      ],
+      "answer": "Grunge"
+    },
+    {
+      "question_id": 2,
+      "question": "Which handheld digital pet sold by Bandai was first released in 1996 in some regions?",
+      "options": [
+        "Tamagotchi",
+        "Digimon",
+        "Giga Pet"
+      ],
+      "answer": "Tamagotchi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 1998 video game pioneered cinematic storytelling on the PlayStation with Resident Evil style?",
+      "options": [
+        "Metal Gear Solid",
+        "Final Fantasy VII",
+        "Silent Hill"
+      ],
+      "answer": "Metal Gear Solid"
+    },
+    {
+      "question_id": 4,
+      "question": "Which collectible stuffed-toy brand sparked a trading craze in the 1990s?",
+      "options": [
+        "Beanie Babies",
+        "Tyco Monsters",
+        "Fisher-Price Friends"
+      ],
+      "answer": "Beanie Babies"
+    },
+    {
+      "question_id": 5,
+      "question": "Which American teen drama premiered in 1998 and starred Claire Danes?",
+      "options": [
+        "My So-Called Life",
+        "Felicity",
+        "Dawson's Creek"
+      ],
+      "answer": "Felicity"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1994 album by Jeff Buckley featured a renowned cover of Leonard Cohen's 'Hallelujah'?",
+      "options": [
+        "Grace",
+        "Sketches for My Sweetheart the Drunk",
+        "Mystery White Boy"
+      ],
+      "answer": "Grace"
+    },
+    {
+      "question_id": 7,
+      "question": "What handheld virtual pet toy became a global craze in the mid-1990s?",
+      "options": [
+        "Tamagotchi",
+        "Furby",
+        "Beanie Babies"
+      ],
+      "answer": "Tamagotchi"
+    },
+    {
+      "question_id": 8,
+      "question": "Which dance craze came with the 1996 hit 'Macarena' by Los del Río?",
+      "options": [
+        "The Macarena",
+        "The Hammer Dance",
+        "The Electric Slide"
+      ],
+      "answer": "The Macarena"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1997 science fiction film directed by Paul Verhoeven caused controversy for its visual style?",
+      "options": [
+        "Starship Troopers",
+        "Event Horizon",
+        "The Fifth Element"
+      ],
+      "answer": "Starship Troopers"
+    },
+    {
+      "question_id": 10,
+      "question": "Which interactive toy released in 1998 could speak and respond to users?",
+      "options": [
+        "Furby",
+        "Tamagotchi",
+        "Giga Pet"
+      ],
+      "answer": "Furby"
+    },
+    {
+      "question_id": 11,
+      "question": "Which handheld Nintendo system used a monochrome screen in the early 1990s?",
+      "options": [
+        "Game Boy",
+        "Game Boy Color",
+        "Atari Lynx"
+      ],
+      "answer": "Game Boy"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1997 marketing campaign famously used a heart-shaped logo and the word 'I' for a city?",
+      "options": [
+        "I Love New York revival",
+        "Got Milk?",
+        "Just Do It"
+      ],
+      "answer": "I Love New York revival"
+    },
+    {
+      "question_id": 13,
+      "question": "Which 1997 film became the highest-grossing movie of that year worldwide?",
+      "options": [
+        "Titanic",
+        "Men in Black",
+        "Good Will Hunting"
+      ],
+      "answer": "Titanic"
+    },
+    {
+      "question_id": 14,
+      "question": "Which animated 1995 Pixar short accompanied Toy Story's theatrical release?",
+      "options": [
+        "Knick Knack",
+        "Geri's Game",
+        "Luxo Jr."
+      ],
+      "answer": "Geri's Game"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1990s cultural event is credited with accelerating mainstream web adoption and ecommerce?",
+      "options": [
+        "The Dot-Com Boom",
+        "Y2K",
+        "The O.J. Simpson trial"
+      ],
+      "answer": "The Dot-Com Boom"
+    }
+  ]
+}

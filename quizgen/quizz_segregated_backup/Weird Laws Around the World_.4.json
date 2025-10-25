@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which U.S. city once had an ordinance banning high heels at certain public sites for safety reasons?",
+      "options": [
+        "San Francisco",
+        "New York City",
+        "Boston"
+      ],
+      "answer": "San Francisco"
+    },
+    {
+      "question_id": 2,
+      "question": "Which U.S. state has a law prohibiting the sale of 'obscene' items via mail historically enforced in certain cases?",
+      "options": [
+        "Massachusetts",
+        "Texas",
+        "Oregon"
+      ],
+      "answer": "Massachusetts"
+    },
+    {
+      "question_id": 3,
+      "question": "Which U.S. state had a law forbidding the misnaming of livestock for sale that led to odd court cases historically?",
+      "options": [
+        "Texas",
+        "Montana",
+        "Wyoming"
+      ],
+      "answer": "Montana"
+    },
+    {
+      "question_id": 4,
+      "question": "Where is it illegal to make excessive noise during siesta hours in specific communities as a local ordinance?",
+      "options": [
+        "Spain",
+        "Canada",
+        "Japan"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 5,
+      "question": "Which European country restricts the sale of raw milk directly to consumers in some national food safety laws?",
+      "options": [
+        "France",
+        "Belgium",
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nation enforces bans on performing certain noisy agricultural tasks on Sundays to respect rest laws in some regions?",
+      "options": [
+        "Germany",
+        "Spain",
+        "Italy"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 7,
+      "question": "Which U.S. city had a historic law banning people from carrying ice cream cones in their back pockets?",
+      "options": [
+        "Athens, Georgia",
+        "Detroit, Michigan",
+        "Seattle, Washington"
+      ],
+      "answer": "Athens, Georgia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country once prohibited the sale of VHS tapes at certain times for censorship reasons historically?",
+      "options": [
+        "United Kingdom",
+        "Argentina",
+        "China"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country enforces fines for homeowners whose hedges obscure neighbors' sunlight under specific neighbor law statutes?",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "Portugal"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city famously bans wearing a mask in public during celebrations without police permission?",
+      "options": [
+        "Toronto, Canada",
+        "Paris, France",
+        "Tokyo, Japan"
+      ],
+      "answer": "Toronto, Canada"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country enforces a law requiring homeowners to maintain hedges below a specified height to prevent disputes?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Sweden"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 12,
+      "question": "Which British law once made it illegal to import potatoes on a Sunday during certain historical periods for market regulation?",
+      "options": [
+        "Scotland Food Act",
+        "Sunday Trading Act",
+        "Agricultural Supplies Act"
+      ],
+      "answer": "Sunday Trading Act"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country prohibits whistling in certain public places as a noise disturbance law?",
+      "options": [
+        "Cyprus",
+        "Japan",
+        "Norway"
+      ],
+      "answer": "Cyprus"
+    },
+    {
+      "question_id": 14,
+      "question": "Which nation's odd law penalizes people for dressing as a penguin to disrupt wildlife viewing areas in specific reserves?",
+      "options": [
+        "New Zealand",
+        "Chile",
+        "South Africa"
+      ],
+      "answer": "New Zealand"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country criminalized 'offending religious feelings' historically in its penal code, used in controversial cases?",
+      "options": [
+        "Poland",
+        "Spain",
+        "Portugal"
+      ],
+      "answer": "Poland"
+    }
+  ]
+}

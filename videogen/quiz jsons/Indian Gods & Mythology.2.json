@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is worshipped as the divine cowherd and playful lover in Krishna lore?",
+      "options": [
+        "Draupadi",
+        "Radha",
+        "Sita"
+      ],
+      "answer": "Radha"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Purana predominantly narrates Vishnu's exploits and avatars?",
+      "options": [
+        "Vishnu Purana",
+        "Skanda Purana",
+        "Shiva Purana"
+      ],
+      "answer": "Vishnu Purana"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Puranic figure served as Vishnu's gatekeeper and appears as a dwarf in cosmic stories?",
+      "options": [
+        "Vamana",
+        "Nara",
+        "Shesha"
+      ],
+      "answer": "Vamana"
+    },
+    {
+      "question_id": 4,
+      "question": "Which text contains hymns dedicated to various Vedic gods?",
+      "options": [
+        "Rigveda",
+        "Ramayana",
+        "Bhagavad Gita"
+      ],
+      "answer": "Rigveda"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sage authored the Yoga Vasistha narrative teaching Rama spiritual wisdom?",
+      "options": [
+        "Vasistha",
+        "Vyasa",
+        "Valmiki"
+      ],
+      "answer": "Vasistha"
+    },
+    {
+      "question_id": 6,
+      "question": "Which goddess is addressed as 'Sarvamangala' and appears in the Lalita Sahasranama hymns?",
+      "options": [
+        "Annapurna",
+        "Lalita Tripurasundari",
+        "Sita"
+      ],
+      "answer": "Lalita Tripurasundari"
+    },
+    {
+      "question_id": 7,
+      "question": "Which weapon is commonly associated with Vishnu's iconography?",
+      "options": [
+        "Sudarshana Chakra",
+        "Trishula",
+        "Bow and Arrow"
+      ],
+      "answer": "Sudarshana Chakra"
+    },
+    {
+      "question_id": 8,
+      "question": "Which son of Kunti and the central Pandava archer received Krishna's guidance in Mahabharata?",
+      "options": [
+        "Bhima",
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "answer": "Arjuna"
+    },
+    {
+      "question_id": 9,
+      "question": "Which epic battle features the mighty mace duel between Bhima and Duryodhana?",
+      "options": [
+        "Mahabharata",
+        "Harivamsa",
+        "Ramayana"
+      ],
+      "answer": "Mahabharata"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival celebrates Rama's return to Ayodhya after exile?",
+      "options": [
+        "Navaratri",
+        "Diwali",
+        "Holi"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "question_id": 11,
+      "question": "Which goddess' iconography includes a veena, signifying music and learning?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Parvati"
+      ],
+      "answer": "Saraswati"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Puranic text focuses extensively on Shiva's legends and temple lore in South India?",
+      "options": [
+        "Bhagavata Purana",
+        "Vishnu Purana",
+        "Shiva Purana"
+      ],
+      "answer": "Shiva Purana"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is the Hindu god of preservation in the Trimurti?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva"
+      ],
+      "answer": "Vishnu"
+    },
+    {
+      "question_id": 14,
+      "question": "Which god is addressed as 'Jagatpati' or lord of the universe and preserver of dharma?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva"
+      ],
+      "answer": "Vishnu"
+    },
+    {
+      "question_id": 15,
+      "question": "Which avatar of Vishnu is described as a boar rescuing the earth from Hiranyaksha?",
+      "options": [
+        "Narasimha",
+        "Vamana",
+        "Varaha"
+      ],
+      "answer": "Varaha"
+    }
+  ]
+}

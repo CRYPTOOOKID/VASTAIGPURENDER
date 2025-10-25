@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Carrying what small animal body part is a folk charm believed to bring good luck in some cultures?",
+      "options": [
+        "Rabbit's foot",
+        "Tiger tooth",
+        "Goat horn"
+      ],
+      "answer": "Rabbit's foot"
+    },
+    {
+      "question_id": 2,
+      "question": "Which number is considered auspicious in Chinese culture because it sounds like wealth?",
+      "options": [
+        "Eight",
+        "Three",
+        "Five"
+      ],
+      "answer": "Eight"
+    },
+    {
+      "question_id": 3,
+      "question": "Which classic anthropologist wrote extensively on magic, religion, and taboo in early studies?",
+      "options": [
+        "Sir James Frazer",
+        "Franz Boas",
+        "Margaret Mead"
+      ],
+      "answer": "Sir James Frazer"
+    },
+    {
+      "question_id": 4,
+      "question": "Which superstitious act involves tossing coins into water to wish for something?",
+      "options": [
+        "Tossing a coin at a tree",
+        "Throwing a coin into a fountain",
+        "Tossing a coin into fire"
+      ],
+      "answer": "Throwing a coin into a fountain"
+    },
+    {
+      "question_id": 5,
+      "question": "Which historic event increased modern Western fear associated with Friday the 13th?",
+      "options": [
+        "Industrial Revolution",
+        "Discovery of America",
+        "Publication of a 1907 novel"
+      ],
+      "answer": "Publication of a 1907 novel"
+    },
+    {
+      "question_id": 6,
+      "question": "Which ancient practice left oblations at crossroads to placate local spirits or gods for safe travel?",
+      "options": [
+        "Royal decrees",
+        "Temple fasting",
+        "Votive offerings at crossroads"
+      ],
+      "answer": "Votive offerings at crossroads"
+    },
+    {
+      "question_id": 7,
+      "question": "Which everyday object in some cultures is tapped or struck for luck before important events?",
+      "options": [
+        "Coin",
+        "Helmet",
+        "Doorknob"
+      ],
+      "answer": "Doorknob"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ancient belief linked black cats to witches during European witchcraft fears?",
+      "options": [
+        "Familiar spirits",
+        "Astral projection",
+        "Fate-weaving"
+      ],
+      "answer": "Familiar spirits"
+    },
+    {
+      "question_id": 9,
+      "question": "Which anthropological concept explains how ritual actions create perceived control over uncertain outcomes?",
+      "options": [
+        "Magical thinking",
+        "Symbolic interactionism",
+        "Structural functionalism"
+      ],
+      "answer": "Magical thinking"
+    },
+    {
+      "question_id": 10,
+      "question": "Which object nailed above a doorway is traditionally believed to bring protection and luck?",
+      "options": [
+        "Feather wreath",
+        "Horseshoe",
+        "Lantern"
+      ],
+      "answer": "Horseshoe"
+    },
+    {
+      "question_id": 11,
+      "question": "Which medieval instrument of measurement was sometimes avoided due to superstition about accuracy?",
+      "options": [
+        "Astrolabe",
+        "Sundial",
+        "Compass"
+      ],
+      "answer": "Astrolabe"
+    },
+    {
+      "question_id": 12,
+      "question": "Which protective symbol carved into timber frames aimed to confuse witches in British vernacular architecture?",
+      "options": [
+        "Heraldic shields",
+        "Rosette medallions",
+        "Hexfoils and witches' marks"
+      ],
+      "answer": "Hexfoils and witches' marks"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scholar's comparative work 'The Golden Bough' examined magic, myth, and sacrificial rites globally?",
+      "options": [
+        "Emile Durkheim",
+        "Claude Lévi-Strauss",
+        "James Frazer"
+      ],
+      "answer": "James Frazer"
+    },
+    {
+      "question_id": 14,
+      "question": "Which medieval compendium collected charms and remedies blending Christian prayer with folk magic?",
+      "options": [
+        "The Domesday Book",
+        "The Venerable's Ledger",
+        "The Lacnunga manuscript"
+      ],
+      "answer": "The Lacnunga manuscript"
+    },
+    {
+      "question_id": 15,
+      "question": "Which religious text describes an ancient ritual involving laying hands on a goat to transfer sins?",
+      "options": [
+        "Rigveda",
+        "New Testament Gospels",
+        "Hebrew Bible Leviticus"
+      ],
+      "answer": "Hebrew Bible Leviticus"
+    }
+  ]
+}

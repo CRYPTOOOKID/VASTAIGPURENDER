@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Where is it illegal to wear slippers in public buildings in certain local codes (an example of dress regulations)?",
+      "options": [
+        "United States",
+        "Italy",
+        "South Korea"
+      ],
+      "answer": "South Korea"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country passed laws restricting the length of lawn hedges and fences between neighbors historically?",
+      "options": [
+        "France",
+        "Ireland",
+        "Netherlands"
+      ],
+      "answer": "Netherlands"
+    },
+    {
+      "question_id": 3,
+      "question": "Which island nation restricts the number of domestic cats per household in some local ordinances to protect native wildlife?",
+      "options": [
+        "Sri Lanka",
+        "Iceland",
+        "New Zealand"
+      ],
+      "answer": "New Zealand"
+    },
+    {
+      "question_id": 4,
+      "question": "In which U.S. state was it historically illegal to wrestle a bear (still enforced in some areas)?",
+      "options": [
+        "California",
+        "Pennsylvania",
+        "Alaska"
+      ],
+      "answer": "Pennsylvania"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country enacted regulations that make it illegal to sell fireworks to underage buyers without ID in many areas?",
+      "options": [
+        "Spain",
+        "United States",
+        "United Kingdom"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Asian country banned live animal sales at wet markets in certain districts to prevent zoonotic risk after outbreaks?",
+      "options": [
+        "Thailand",
+        "Vietnam",
+        "China"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country has laws that criminalize insulting the monarchy or head of state in some form?",
+      "options": [
+        "Canada",
+        "Germany",
+        "Thailand"
+      ],
+      "answer": "Thailand"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country forbids import of certain chewing gum types to protect public cleanliness historically?",
+      "options": [
+        "Singapore",
+        "South Korea",
+        "Thailand"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 9,
+      "question": "Which European country's penal code criminalizes leaving a child unattended in a car under extreme temperature laws?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country restricts the sale of certain fireworks and sparklers by age in national law?",
+      "options": [
+        "Bhutan",
+        "Iceland",
+        "United States"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country bans using washing machines outside specified hours in some apartment rules for noise control?",
+      "options": [
+        "Japan",
+        "United Kingdom",
+        "Germany"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Asian city implemented a law banning famers from burning crop residues near urban limits to reduce air pollution?",
+      "options": [
+        "Manila, Philippines",
+        "New Delhi, India",
+        "Bangkok, Thailand"
+      ],
+      "answer": "New Delhi, India"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country enforces fines for not picking up after your dog in many cities?",
+      "options": [
+        "Both United Kingdom and Germany",
+        "United Kingdom",
+        "Germany"
+      ],
+      "answer": "Both United Kingdom and Germany"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country banned the sale of certain high-caffeine energy drinks to minors in some national regulations?",
+      "options": [
+        "Lithuania",
+        "France",
+        "Australia"
+      ],
+      "answer": "Lithuania"
+    },
+    {
+      "question_id": 15,
+      "question": "Which African country forbids the wearing of camouflage-patterned clothing by civilians due to military impersonation laws?",
+      "options": [
+        "Kenya",
+        "Nigeria",
+        "South Africa"
+      ],
+      "answer": "Nigeria"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which theory describes electromagnetic waves and light as unified phenomena?",
+      "options": [
+        "Maxwell's theory of electromagnetism",
+        "Special relativity",
+        "Quantum theory"
+      ],
+      "answer": "Maxwell's theory of electromagnetism"
+    },
+    {
+      "question_id": 2,
+      "question": "Which law relates the square of orbital period to the cube of the semi-major axis for planets?",
+      "options": [
+        "Kepler's first law",
+        "Kepler's third law",
+        "Kepler's second law"
+      ],
+      "answer": "Kepler's third law"
+    },
+    {
+      "question_id": 3,
+      "question": "Which theorem formally links continuous symmetries to conserved quantities in Lagrangian mechanics?",
+      "options": [
+        "Noether's theorem",
+        "Liouville's theorem",
+        "Poincaré recurrence theorem"
+      ],
+      "answer": "Noether's theorem"
+    },
+    {
+      "question_id": 4,
+      "question": "Which law describes the expansion of the universe by relating galaxy recessional velocity to distance?",
+      "options": [
+        "Newton's law",
+        "Hubble's law",
+        "Kepler's law"
+      ],
+      "answer": "Hubble's law"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law states that action and reaction forces are equal and opposite?",
+      "options": [
+        "Newton's first law",
+        "Newton's second law",
+        "Newton's third law"
+      ],
+      "answer": "Newton's third law"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mathematical result ensures that continuous, differentiable dynamical systems preserve phase-space volume?",
+      "options": [
+        "Poincaré–Bendixson theorem",
+        "KAM theorem",
+        "Liouville's theorem"
+      ],
+      "answer": "Liouville's theorem"
+    },
+    {
+      "question_id": 7,
+      "question": "Which scientist developed the theory of special relativity?",
+      "options": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck"
+      ],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question_id": 8,
+      "question": "Which principle links symmetry operations to conserved quantities in physics?",
+      "options": [
+        "Pauli exclusion principle",
+        "Noether's theorem",
+        "Heisenberg uncertainty principle"
+      ],
+      "answer": "Noether's theorem"
+    },
+    {
+      "question_id": 9,
+      "question": "Which principle quantifies limits on simultaneously known conjugate variables like position and momentum?",
+      "options": [
+        "Pauli exclusion principle",
+        "Correspondence principle",
+        "Heisenberg uncertainty principle"
+      ],
+      "answer": "Heisenberg uncertainty principle"
+    },
+    {
+      "question_id": 10,
+      "question": "What law states that light speed in vacuum is constant for all observers?",
+      "options": [
+        "Hubble's law",
+        "Constancy of the speed of light",
+        "Planck's law"
+      ],
+      "answer": "Constancy of the speed of light"
+    },
+    {
+      "question_id": 11,
+      "question": "Which law gives the relationship between pressure and temperature at constant volume for an ideal gas?",
+      "options": [
+        "Boyle's law",
+        "Gay-Lussac's law",
+        "Avogadro's law"
+      ],
+      "answer": "Gay-Lussac's law"
+    },
+    {
+      "question_id": 12,
+      "question": "Which approach explains critical phenomena universality using scale invariance near phase transitions?",
+      "options": [
+        "Renormalization group",
+        "Perturbation theory",
+        "Mean-field theory"
+      ],
+      "answer": "Renormalization group"
+    },
+    {
+      "question_id": 13,
+      "question": "Which law links the force on a charged particle to electric and magnetic fields?",
+      "options": [
+        "Lorentz force law",
+        "Coulomb's law",
+        "Hubble's law"
+      ],
+      "answer": "Lorentz force law"
+    },
+    {
+      "question_id": 14,
+      "question": "Which principle underlies the operation of lasers via stimulated emission?",
+      "options": [
+        "Einstein's coefficients for emission",
+        "Planck's law",
+        "Bohr model"
+      ],
+      "answer": "Einstein's coefficients for emission"
+    },
+    {
+      "question_id": 15,
+      "question": "Which formulation of mechanics uses action and stationary principles instead of forces?",
+      "options": [
+        "Hamiltonian mechanics",
+        "Newtonian mechanics",
+        "Lagrangian mechanics"
+      ],
+      "answer": "Lagrangian mechanics"
+    }
+  ]
+}

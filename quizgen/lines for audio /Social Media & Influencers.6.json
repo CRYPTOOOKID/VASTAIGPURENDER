@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which platform started as a microblogging service with 280-character posts?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which platform introduced native shopping tags for influencers to tag products?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which measurement helps determine influencer ROI when tracking affiliate links?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which common metric indicates followers interacting per post average?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is an \"earned media\" outcome from influencer activity?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did TikTok merge global markets after ByteDance acquired Musical.ly?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"reach\" refer to in social analytics?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which influencer category focuses on ultra-niche audiences with 1,000-10,000 followers?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which measurement helps spot purchased engagement versus real interactions?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which platform popularized the vertical \"Reels\" format copying short videos?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which format do many platforms prioritize algorithmically for higher distribution?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced fraud indicator flags when followers concentrate in suspicious geographies?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which platform first popularized \"influencer live shopping\" at scale?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which creative element tends to improve short-video completion rates?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which measurement represents the long-term benefit of influencer partnerships beyond immediate conversions?"
+    }
+  ]
+}

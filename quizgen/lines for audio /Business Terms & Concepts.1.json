@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does ROI commonly mean for business decisions?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does churn rate measure for subscription businesses?"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a fungible asset characteristic often relevant to markets?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is venture capital usually used for?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a KPI often paired with in performance frameworks?"
+    },
+    {
+      "question_id": 6,
+      "question": "What role does a special purpose vehicle (SPV) commonly serve?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who directs a company's overall strategy and operations?"
+    },
+    {
+      "question_id": 8,
+      "question": "What does a market leader position imply for a company?"
+    },
+    {
+      "question_id": 9,
+      "question": "What does enterprise value include beyond market capitalization?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is supply chain management focused on?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does amortization usually apply to in accounting?"
+    },
+    {
+      "question_id": 12,
+      "question": "What does NPS measure for customer experience programs?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does a profit margin measure for a company?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the role of a board of directors in corporations?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the main implication of the agency problem?"
+    }
+  ]
+}

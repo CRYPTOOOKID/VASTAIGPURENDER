@@ -1,0 +1,829 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is coulrophobia commonly defined as?",
+        "options": [
+          "Fear of clowns",
+          "Fear of heights",
+          "Fear of insects"
+        ],
+        "answer": "Fear of clowns"
+      },
+      {
+        "question": "What does trypophobia describe?",
+        "options": [
+          "Fear of clustered holes",
+          "Fear of tight spaces",
+          "Fear of loud noises"
+        ],
+        "answer": "Fear of clustered holes"
+      },
+      {
+        "question": "Which phobia is the fear of being without a mobile phone?",
+        "options": [
+          "Nomophobia",
+          "Technophobia",
+          "Agoraphobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "What does arachibutyrophobia refer to?",
+        "options": [
+          "Fear of peanut butter sticking",
+          "Fear of spiders",
+          "Fear of needles"
+        ],
+        "answer": "Fear of peanut butter sticking"
+      },
+      {
+        "question": "Which phobia name humorously denotes fear of long words?",
+        "options": [
+          "Hippopotomonstrosesquipedaliophobia",
+          "Glossophobia",
+          "Atychiphobia"
+        ],
+        "answer": "Hippopotomonstrosesquipedaliophobia"
+      },
+      {
+        "question": "What is pogonophobia the fear of?",
+        "options": [
+          "Fear of beards",
+          "Fear of dogs",
+          "Fear of mirrors"
+        ],
+        "answer": "Fear of beards"
+      },
+      {
+        "question": "Omphalophobia describes fear of what body part?",
+        "options": [
+          "Navel",
+          "Ears",
+          "Knees"
+        ],
+        "answer": "Navel"
+      },
+      {
+        "question": "Alektorophobia is a fear of what animal?",
+        "options": [
+          "Chickens",
+          "Bats",
+          "Sharks"
+        ],
+        "answer": "Chickens"
+      },
+      {
+        "question": "What does ablutophobia refer to?",
+        "options": [
+          "Fear of bathing",
+          "Fear of blood",
+          "Fear of closed spaces"
+        ],
+        "answer": "Fear of bathing"
+      },
+      {
+        "question": "Which phobia means fear of youth or teenagers?",
+        "options": [
+          "Ephebiphobia",
+          "Gerontophobia",
+          "Pediophobia"
+        ],
+        "answer": "Ephebiphobia"
+      },
+      {
+        "question": "What is the basic meaning of the suffix '-phobia'?",
+        "options": [
+          "Fear or aversion",
+          "Healing process",
+          "Study of life"
+        ],
+        "answer": "Fear or aversion"
+      },
+      {
+        "question": "Which common treatment is used for specific phobias?",
+        "options": [
+          "Exposure therapy",
+          "Antibiotics",
+          "Electroconvulsive therapy"
+        ],
+        "answer": "Exposure therapy"
+      },
+      {
+        "question": "Which phobia involves an extreme fear of mirrors or reflections?",
+        "options": [
+          "Eisoptrophobia",
+          "Thanatophobia",
+          "Aerophobia"
+        ],
+        "answer": "Eisoptrophobia"
+      },
+      {
+        "question": "What does phobophobia describe?",
+        "options": [
+          "Fear of developing phobias",
+          "Fear of public speaking",
+          "Fear of heights"
+        ],
+        "answer": "Fear of developing phobias"
+      },
+      {
+        "question": "Which phobia is fear of clowns often associated with in popular culture?",
+        "options": [
+          "Coulrophobia",
+          "Nyctophobia",
+          "Heliophobia"
+        ],
+        "answer": "Coulrophobia"
+      },
+      {
+        "question": "Which phobia is characterized by fear of holes or patterns with small cavities?",
+        "options": [
+          "Trypophobia",
+          "Mysophobia",
+          "Astrophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "What is glossophobia commonly defined as?",
+        "options": [
+          "Fear of public speaking",
+          "Fear of snakes",
+          "Fear of open spaces"
+        ],
+        "answer": "Fear of public speaking"
+      },
+      {
+        "question": "Which phobia describes fear of beards affecting social perception?",
+        "options": [
+          "Pogonophobia",
+          "Chionophobia",
+          "Somnophobia"
+        ],
+        "answer": "Pogonophobia"
+      },
+      {
+        "question": "Which common reaction often occurs when someone encounters their phobic trigger?",
+        "options": [
+          "Immediate anxiety or panic",
+          "Sudden hunger",
+          "Improved concentration"
+        ],
+        "answer": "Immediate anxiety or panic"
+      },
+      {
+        "question": "Which phobia name literally uses the Greek word for fear, 'phobos'?",
+        "options": [
+          "All common phobia names",
+          "Only modern phobias",
+          "Only clinical phobias"
+        ],
+        "answer": "All common phobia names"
+      },
+      {
+        "question": "Which phobia refers to fear of fainting or dizziness?",
+        "options": [
+          "Astrophobia",
+          "Basinophobia",
+          "Syncope-related phobia"
+        ],
+        "answer": "Syncope-related phobia"
+      },
+      {
+        "question": "What does the term 'specific phobia' generally mean?",
+        "options": [
+          "Fear tied to a particular object or situation",
+          "Fear of everything",
+          "Fear of social judgment"
+        ],
+        "answer": "Fear tied to a particular object or situation"
+      },
+      {
+        "question": "Which phobia describes fear of being stared at or observed?",
+        "options": [
+          "Scopophobia",
+          "Phonophobia",
+          "Cynophobia"
+        ],
+        "answer": "Scopophobia"
+      },
+      {
+        "question": "Which phobia term refers to fear of dolls and is common in horror motifs?",
+        "options": [
+          "Pediophobia",
+          "Xenophobia",
+          "Hydrophobia"
+        ],
+        "answer": "Pediophobia"
+      },
+      {
+        "question": "Which phobia is fear of the number 13 called?",
+        "options": [
+          "Triskaidekaphobia",
+          "Hexakosioihexekontahexaphobia",
+          "Octophobia"
+        ],
+        "answer": "Triskaidekaphobia"
+      },
+      {
+        "question": "Which phobia describes fear of being without access to the internet or phone connectivity?",
+        "options": [
+          "Nomophobia",
+          "Cyberphobia",
+          "Technophobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "Which phobia refers to fear of insects and is often misapplied to many 'strange' phobias?",
+        "options": [
+          "Entomophobia",
+          "Thanatophobia",
+          "Chronophobia"
+        ],
+        "answer": "Entomophobia"
+      },
+      {
+        "question": "Which phobia is fear of loud or sudden noises often experienced in combat veterans?",
+        "options": [
+          "Phonophobia",
+          "Ochlophobia",
+          "Somnophobia"
+        ],
+        "answer": "Phonophobia"
+      },
+      {
+        "question": "Which phobia describes fear of being overweight or of gaining weight?",
+        "options": [
+          "Pervasive eating phobia",
+          "Obesophobia",
+          "Aichmophobia"
+        ],
+        "answer": "Obesophobia"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which unusual phobia name originates from a 1980s cartoon as a joke about ducks?",
+        "options": [
+          "Anatidaephobia",
+          "Pogonophobia",
+          "Haphephobia"
+        ],
+        "answer": "Anatidaephobia"
+      },
+      {
+        "question": "Which phobia is generally not listed in major psychiatric manuals but widely discussed online?",
+        "options": [
+          "Trypophobia",
+          "Claustrophobia",
+          "Agoraphobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "The term 'nomophobia' first appeared prominently in which source?",
+        "options": [
+          "A 2008 UK Post Office study",
+          "The DSM-IV manual",
+          "A 19th-century medical text"
+        ],
+        "answer": "A 2008 UK Post Office study"
+      },
+      {
+        "question": "Which therapy technique is the core component in treating many specific phobias?",
+        "options": [
+          "Systematic desensitization",
+          "Magnet therapy",
+          "Hypoglycemia treatment"
+        ],
+        "answer": "Systematic desensitization"
+      },
+      {
+        "question": "Which phobia combines Greek roots meaning 'hole' and 'fear'?",
+        "options": [
+          "Trypophobia",
+          "Coulrophobia",
+          "Atelophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Which phobia name literally means 'fear of knives or sharp objects'?",
+        "options": [
+          "Aichmophobia",
+          "Nyctophobia",
+          "Xenophobia"
+        ],
+        "answer": "Aichmophobia"
+      },
+      {
+        "question": "Which phobia specifically describes fear of crossing bridges or overpasses?",
+        "options": [
+          "Gephyrophobia",
+          "Bathmophobia",
+          "Eisoptrophobia"
+        ],
+        "answer": "Gephyrophobia"
+      },
+      {
+        "question": "Which phobia is often linked to an aversion to beards and historical class perceptions?",
+        "options": [
+          "Pogonophobia",
+          "Erythrophobia",
+          "Chronophobia"
+        ],
+        "answer": "Pogonophobia"
+      },
+      {
+        "question": "Which unusual phobia is the fear of peanut butter sticking to the roof of the mouth?",
+        "options": [
+          "Arachibutyrophobia",
+          "Cibophobia",
+          "Nyctophobia"
+        ],
+        "answer": "Arachibutyrophobia"
+      },
+      {
+        "question": "Which phobia's name derives from Greek roots meaning 'long words' used ironically?",
+        "options": [
+          "Sesquipedalophobia",
+          "Dromophobia",
+          "Kakorrhaphiophobia"
+        ],
+        "answer": "Sesquipedalophobia"
+      },
+      {
+        "question": "Which phobia describes fear of mirrors and is separate from body image disorders?",
+        "options": [
+          "Eisoptrophobia",
+          "Somnophobia",
+          "Cenophobia"
+        ],
+        "answer": "Eisoptrophobia"
+      },
+      {
+        "question": "Which phobia refers to fear of being watched by surveillance cameras?",
+        "options": [
+          "Scopophobia variant",
+          "Logophobia",
+          "Taphophobia"
+        ],
+        "answer": "Scopophobia variant"
+      },
+      {
+        "question": "Which phobia name indicates fear of being stared at by others in social settings?",
+        "options": [
+          "Scopophobia",
+          "Chronophobia",
+          "Hydrophobia"
+        ],
+        "answer": "Scopophobia"
+      },
+      {
+        "question": "Which therapy often pairs gradual exposure with cognitive restructuring for phobia treatment?",
+        "options": [
+          "Cognitive behavioral therapy",
+          "Chelation therapy",
+          "Aromatherapy"
+        ],
+        "answer": "Cognitive behavioral therapy"
+      },
+      {
+        "question": "Which phobia refers to fear of certain textures or tactile sensations?",
+        "options": [
+          "Haptophobia",
+          "Thanatophobia",
+          "Homichlophobia"
+        ],
+        "answer": "Haptophobia"
+      },
+      {
+        "question": "Which phobia describes fear of teeth or dental work beyond dental anxiety?",
+        "options": [
+          "Dentophobia",
+          "Ablutophobia",
+          "Necrophobia"
+        ],
+        "answer": "Dentophobia"
+      },
+      {
+        "question": "Which phobia is the fear of hair or touching hair sometimes found in grooming avoidance?",
+        "options": [
+          "Chaetophobia",
+          "Logophobia",
+          "Pyrophobia"
+        ],
+        "answer": "Chaetophobia"
+      },
+      {
+        "question": "Which unusual phobia involves intense fear of belly buttons?",
+        "options": [
+          "Omphalophobia",
+          "Gynophobia",
+          "Bathmophobia"
+        ],
+        "answer": "Omphalophobia"
+      },
+      {
+        "question": "Which phobia relates to fear of being buried alive and influenced historical safety coffins?",
+        "options": [
+          "Taphophobia",
+          "Chromophobia",
+          "Ailurophobia"
+        ],
+        "answer": "Taphophobia"
+      },
+      {
+        "question": "Which term describes fear specifically tied to clowns in entertainment contexts?",
+        "options": [
+          "Coulrophobia",
+          "Cynophobia",
+          "Oneirophobia"
+        ],
+        "answer": "Coulrophobia"
+      },
+      {
+        "question": "Which phobia refers to fear of holes in skin or patterns, debated by researchers?",
+        "options": [
+          "Trypophobia",
+          "Agoraphobia",
+          "Hemophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Which popular humorous phobia was created to critique irrational fears of long words?",
+        "options": [
+          "Hippopotomonstrosesquipedaliophobia",
+          "Monophobia",
+          "Panphobia"
+        ],
+        "answer": "Hippopotomonstrosesquipedaliophobia"
+      },
+      {
+        "question": "Which phobia describes fear of being without internet access or phone signal?",
+        "options": [
+          "Nomophobia",
+          "Telephonophobia",
+          "Ergophobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "Which phobia is fear of being alone and sometimes overlaps with separation anxiety?",
+        "options": [
+          "Autophobia",
+          "Hemophobia",
+          "Cibophobia"
+        ],
+        "answer": "Autophobia"
+      },
+      {
+        "question": "Which phobia describes fear of opera or theatrical performances in some individuals?",
+        "options": [
+          "Theatrophobia",
+          "Plutophobia",
+          "Ophiophobia"
+        ],
+        "answer": "Theatrophobia"
+      },
+      {
+        "question": "Which phobia name refers to fear of red objects or the color red?",
+        "options": [
+          "Erythrophobia",
+          "Melanophobia",
+          "Leukophobia"
+        ],
+        "answer": "Erythrophobia"
+      },
+      {
+        "question": "Which phobia is fear of swallowing or of food going down the throat?",
+        "options": [
+          "Phagophobia",
+          "Necrophobia",
+          "Aerophobia"
+        ],
+        "answer": "Phagophobia"
+      },
+      {
+        "question": "Which phobia refers to fear of beards that sometimes has social roots?",
+        "options": [
+          "Pogonophobia",
+          "Zoophobia",
+          "Nomophobia"
+        ],
+        "answer": "Pogonophobia"
+      },
+      {
+        "question": "Which phobia refers to fear of hands causing avoidance of touching others?",
+        "options": [
+          "Chirophobia",
+          "Catoptrophobia",
+          "Somniphobia"
+        ],
+        "answer": "Chirophobia"
+      },
+      {
+        "question": "Which phobia term indicates fear of crossing thresholds or doorways in transit?",
+        "options": [
+          "Agoraphobia variant",
+          "Bathmophobia",
+          "Heliophobia"
+        ],
+        "answer": "Agoraphobia variant"
+      },
+      {
+        "question": "Which phobia specifically concerns fear of belly buttons and associated sensations?",
+        "options": [
+          "Omphalophobia",
+          "Alektorophobia",
+          "Astrophobia"
+        ],
+        "answer": "Omphalophobia"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which fictional phobia claims a duck is secretly watching you in a single-panel cartoon?",
+        "options": [
+          "Anatidaephobia",
+          "Chronophobia",
+          "Xenophobia"
+        ],
+        "answer": "Anatidaephobia"
+      },
+      {
+        "question": "Which phobia's clinical status remains debated but shows measurable discomfort in lab images?",
+        "options": [
+          "Trypophobia",
+          "Hydrophobia",
+          "Nyctophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Who is credited with popularizing the humorous long-word phobia often cited in trivia?",
+        "options": [
+          "Language humorists and internet culture",
+          "Sigmund Freud",
+          "B.F. Skinner"
+        ],
+        "answer": "Language humorists and internet culture"
+      },
+      {
+        "question": "Which term describes a pathological fear of long words and is itself a long word?",
+        "options": [
+          "Hippopotomonstrosesquipedaliophobia",
+          "Nomophobia",
+          "Agoraphobia"
+        ],
+        "answer": "Hippopotomonstrosesquipedaliophobia"
+      },
+      {
+        "question": "Which phobia was used in a 1990s study to probe disgust versus visual processing differences?",
+        "options": [
+          "Trypophobia",
+          "Claustrophobia",
+          "Ablutophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Which rare phobia name derives from Greek roots meaning 'peanut' and 'butter' combined?",
+        "options": [
+          "Arachibutyrophobia",
+          "Arachibutyrophobia variant",
+          "Melanophobia"
+        ],
+        "answer": "Arachibutyrophobia"
+      },
+      {
+        "question": "Which phobia coined in 2008 highlighted anxieties tied to modern mobile connectivity?",
+        "options": [
+          "Nomophobia",
+          "Cyberphobia",
+          "Telephonophobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "Which phobia appears in anthropological texts as culturally mediated fear of certain facial hair?",
+        "options": [
+          "Pogonophobia",
+          "Ochophobia",
+          "Photophobia"
+        ],
+        "answer": "Pogonophobia"
+      },
+      {
+        "question": "Which phobia name originates from Greek terms for 'navel' and 'fear' used in case studies?",
+        "options": [
+          "Omphalophobia",
+          "Sociophobia",
+          "Panophobia"
+        ],
+        "answer": "Omphalophobia"
+      },
+      {
+        "question": "Which phobia’s study often distinguishes disgust sensitivity from learned fear responses?",
+        "options": [
+          "Trypophobia",
+          "Hemophobia",
+          "Aerophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Which treatment adapts exposure by using virtual environments for unusual phobia triggers?",
+        "options": [
+          "Virtual reality exposure therapy",
+          "Hypnotherapy alone",
+          "Herbal supplementation"
+        ],
+        "answer": "Virtual reality exposure therapy"
+      },
+      {
+        "question": "Which famous cartoonist indirectly inspired a fictional phobia about being watched by a duck?",
+        "options": [
+          "Gary Larson",
+          "Charles Schulz",
+          "Bill Watterson"
+        ],
+        "answer": "Gary Larson"
+      },
+      {
+        "question": "Which phobia is sometimes discussed in research as a misfiring evolutionary disgust mechanism?",
+        "options": [
+          "Trypophobia",
+          "Pogonophobia",
+          "Nomophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Which long-word phobia was constructed by compounding playful Latin and Greek morphemes?",
+        "options": [
+          "Hippopotomonstrosesquipedaliophobia",
+          "Xenophobia",
+          "Hemophobia"
+        ],
+        "answer": "Hippopotomonstrosesquipedaliophobia"
+      },
+      {
+        "question": "Which phobia was highlighted in surveys as a common modern anxiety about losing digital connectivity?",
+        "options": [
+          "Nomophobia",
+          "Dromophobia",
+          "Chronophobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "Which obscure phobia describes fear of opening or walking up stairways?",
+        "options": [
+          "Bathmophobia",
+          "Basiphobia",
+          "Astrophobia"
+        ],
+        "answer": "Bathmophobia"
+      },
+      {
+        "question": "Which phobia term refers to fear specifically triggered by celebrity clowns in media?",
+        "options": [
+          "Coulrophobia",
+          "Sociophobia",
+          "Hemophobia"
+        ],
+        "answer": "Coulrophobia"
+      },
+      {
+        "question": "Which rare phobia involves fear of hair loss or baldness affecting social confidence?",
+        "options": [
+          "Peladophobia",
+          "Chirophobia",
+          "Ochlophobia"
+        ],
+        "answer": "Peladophobia"
+      },
+      {
+        "question": "Which phobia name combines Greek words meaning 'bridges' and 'fear' referencing travel avoidance?",
+        "options": [
+          "Gephyrophobia",
+          "Pogonophobia",
+          "Ablutophobia"
+        ],
+        "answer": "Gephyrophobia"
+      },
+      {
+        "question": "Which phobia has been examined via neuroimaging to compare fear circuitry activation?",
+        "options": [
+          "Trypophobia",
+          "Triskaidekaphobia",
+          "Nomophobia"
+        ],
+        "answer": "Trypophobia"
+      },
+      {
+        "question": "Which unusual phobia has roots in a medieval fear of being buried alive?",
+        "options": [
+          "Taphophobia",
+          "Thanatophobia",
+          "Nyctophobia"
+        ],
+        "answer": "Taphophobia"
+      },
+      {
+        "question": "Which phobia describes fear of teeth-related sensations and often complicates dental care?",
+        "options": [
+          "Dentophobia",
+          "Aichmophobia",
+          "Haphephobia"
+        ],
+        "answer": "Dentophobia"
+      },
+      {
+        "question": "Which rare phobia concerns fear of choking that can overlap with panic disorder symptoms?",
+        "options": [
+          "Pseudodysphagia",
+          "Hemophobia",
+          "Cibophobia"
+        ],
+        "answer": "Pseudodysphagia"
+      },
+      {
+        "question": "Which phobia term historically referenced fear of walking on stairs in performance anxiety cases?",
+        "options": [
+          "Bathmophobia",
+          "Aerophobia",
+          "Ophidiophobia"
+        ],
+        "answer": "Bathmophobia"
+      },
+      {
+        "question": "Which phobia refers to fear of mirrors reflective of deeper identity concerns?",
+        "options": [
+          "Eisoptrophobia",
+          "Atychiphobia",
+          "Xenophobia"
+        ],
+        "answer": "Eisoptrophobia"
+      },
+      {
+        "question": "Which phobia is documented as fear of swallowing pills or tablets in clinical reports?",
+        "options": [
+          "Phagophobia",
+          "Nomophobia",
+          "Coulrophobia"
+        ],
+        "answer": "Phagophobia"
+      },
+      {
+        "question": "Which specialized therapy pairs exposure with relaxation to treat unusual sensory phobias?",
+        "options": [
+          "Progressive muscle relaxation plus exposure",
+          "Antidepressant monotherapy",
+          "Nutritional counseling"
+        ],
+        "answer": "Progressive muscle relaxation plus exposure"
+      },
+      {
+        "question": "Which obscure phobia is fear of trees documented in rare cultural folklore studies?",
+        "options": [
+          "Dendrophobia",
+          "Dromophobia",
+          "Atazagoraphobia"
+        ],
+        "answer": "Dendrophobia"
+      },
+      {
+        "question": "Which phobia name literally means fear of red and has historical symbolic associations?",
+        "options": [
+          "Erythrophobia",
+          "Chionophobia",
+          "Kinemortophobia"
+        ],
+        "answer": "Erythrophobia"
+      },
+      {
+        "question": "Which phobia was humorously popularized to critique irrational modern anxieties about devices?",
+        "options": [
+          "Nomophobia",
+          "Panphobia",
+          "Ablutophobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "Which rare phobia refers to fear of beards with historical roots in shifting fashion norms?",
+        "options": [
+          "Pogonophobia",
+          "Siderodromophobia",
+          "Ailurophobia"
+        ],
+        "answer": "Pogonophobia"
+      }
+    ]
+  }
+}

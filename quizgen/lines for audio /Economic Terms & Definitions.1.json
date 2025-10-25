@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'real GDP' adjust for?"
+    },
+    {
+      "question_id": 2,
+      "question": "What is velocity of money?"
+    },
+    {
+      "question_id": 3,
+      "question": "How does an open-economy IS curve shift with expansionary fiscal policy under floating exchange rates?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'human capital'?"
+    },
+    {
+      "question_id": 5,
+      "question": "What does 'real interest rate' equal approximately?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the fundamental result of the Sonnenschein-Mantel-Debreu theorem?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is fiscal policy?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the purpose of a tariff quota?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is Main idea of the Tinbergen Rule in policy design?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is 'capital' in economics?"
+    },
+    {
+      "question_id": 11,
+      "question": "What is adverse selection in insurance markets?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which factor most directly explains the liquidity preference theory for interest rates?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a subsidy?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the intuition behind Pareto efficiency?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the difference between GDP measured by income and expenditure approaches?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which two companies led the personal computer operating system market in the 1980s and 1990s?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Japanese electronics company once partnered with Nintendo on a CD-ROM add-on before rivalry events?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company beat IBM\u000027s PC dominance by licensing MS-DOS, shaping early PC rivalries?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which aerospace companies compete globally for commercial airliner contracts?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which two companies' rivalry included high-profile smartphone patent trials in multiple countries?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which landmark 2012 U.S. jury verdict awarded Apple over $1 billion in damages involving which rival?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fast-food rivalry is associated with the advertising slogan \"Have It Your Way\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company founded in 1994 became a major rival to traditional retailers like Walmart?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which European football sponsorship rivalry includes Adidas competing directly with which sports brand?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which two gaming companies famously clashed during the 1990s console era?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which sneaker company was founded by brothers Adi and Rudolf Dassler, sparking a sibling rivalry?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which iconic 1990s console rivalry involved Sega releasing which sound-heavy system failing against competitors?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which rivalry included a major lawsuit over smartphone design patents during the 2010s?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which airline rivalries exist in the commercial jet market between Boeing and Airbus involving which plane family?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1997 open-market clash saw which company buy out which software rival's assets to gain databases?"
+    }
+  ]
+}

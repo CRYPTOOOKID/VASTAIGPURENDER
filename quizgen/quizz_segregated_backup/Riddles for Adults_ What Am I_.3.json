@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "How many lines do many traditional short \"What am I?\" riddles have?",
+      "options": [
+        "Two to four concise lines",
+        "Fifteen to twenty long paragraphs",
+        "Dozens of bullet points"
+      ],
+      "answer": "Two to four concise lines"
+    },
+    {
+      "question_id": 2,
+      "question": "What makes wordplay-based adult riddles particularly engaging?",
+      "options": [
+        "They reward both vocabulary and lateral thinking",
+        "They rely only on obscure etymology",
+        "They require long arithmetic sequences"
+      ],
+      "answer": "They reward both vocabulary and lateral thinking"
+    },
+    {
+      "question_id": 3,
+      "question": "Which technique helps maintain fairness in expert-level riddle contests?",
+      "options": [
+        "Provide a clear hint schedule and avoid arcane references",
+        "Allow only one immediate solve with no hints",
+        "Use private knowledge only one judge has"
+      ],
+      "answer": "Provide a clear hint schedule and avoid arcane references"
+    },
+    {
+      "question_id": 4,
+      "question": "Which reaction is common when someone solves a clever \"What am I?\" riddle?",
+      "options": [
+        "A feeling of surprise and satisfaction",
+        "Frustration at arithmetic steps",
+        "Confusion over vocabulary lists"
+      ],
+      "answer": "A feeling of surprise and satisfaction"
+    },
+    {
+      "question_id": 5,
+      "question": "Which best practice helps balance fairness in adult riddles?",
+      "options": [
+        "Include at least one concrete clue solvable by general knowledge",
+        "Assume niche specialist knowledge",
+        "Use only abstract metaphors with no anchor"
+      ],
+      "answer": "Include at least one concrete clue solvable by general knowledge"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I speak in numbers without words, guide decisions but lack emotion\"?",
+      "options": [
+        "Statistics or data",
+        "A poet",
+        "A musician"
+      ],
+      "answer": "Statistics or data"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a common structure for clues in these riddles?",
+      "options": [
+        "A mix of sensory and functional descriptions",
+        "A list of unrelated chemical equations",
+        "A transcript of a phone call"
+      ],
+      "answer": "A mix of sensory and functional descriptions"
+    },
+    {
+      "question_id": 8,
+      "question": "Which famous myth uses a riddle as a plot device relevant to adult puzzling?",
+      "options": [
+        "The Riddle of the Sphinx from Greek mythology",
+        "The Tower of Babel construction",
+        "The Odyssey's catalog of ships"
+      ],
+      "answer": "The Riddle of the Sphinx from Greek mythology"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phrase describes a riddle that depends on historical knowledge for adults?",
+      "options": [
+        "Contextual riddle with era-specific referent",
+        "Universal riddle with no era anchors",
+        "Mathematical riddle only"
+      ],
+      "answer": "Contextual riddle with era-specific referent"
+    },
+    {
+      "question_id": 10,
+      "question": "Which is a common first hint when someone struggles with a riddle?",
+      "options": [
+        "Consider both literal and metaphorical meanings",
+        "Give the exact answer immediately",
+        "Change the topic entirely"
+      ],
+      "answer": "Consider both literal and metaphorical meanings"
+    },
+    {
+      "question_id": 11,
+      "question": "When writing adult riddles, why include sensory details sparingly?",
+      "options": [
+        "To avoid over-specificity that gives the answer away",
+        "To overwhelm readers with data",
+        "To ensure the puzzle is unsolvable"
+      ],
+      "answer": "To avoid over-specificity that gives the answer away"
+    },
+    {
+      "question_id": 12,
+      "question": "Which cognitive strategy helps solvers of hard 'What am I?' riddles?",
+      "options": [
+        "Reframing clues in different semantic domains",
+        "Only reading the first word",
+        "Memorizing the entire riddle verbatim"
+      ],
+      "answer": "Reframing clues in different semantic domains"
+    },
+    {
+      "question_id": 13,
+      "question": "Which verb tense frequently appears in \"What am I?\" riddles' phrasing?",
+      "options": [
+        "Present tense describing ongoing traits",
+        "Future conditional tense about hypotheticals",
+        "Past perfect tense only"
+      ],
+      "answer": "Present tense describing ongoing traits"
+    },
+    {
+      "question_id": 14,
+      "question": "Which element increases replay value of riddle collections for adults?",
+      "options": [
+        "Varied difficulty and thematic diversity",
+        "All riddles of identical style",
+        "Only one long unsolvable puzzle"
+      ],
+      "answer": "Varied difficulty and thematic diversity"
+    },
+    {
+      "question_id": 15,
+      "question": "Which editorial guideline aids fairness in competitive riddling?",
+      "options": [
+        "Clearly define allowed reference domains beforehand",
+        "Allow judges to retroactively change rules",
+        "Permit unpublished insider references"
+      ],
+      "answer": "Clearly define allowed reference domains beforehand"
+    }
+  ]
+}

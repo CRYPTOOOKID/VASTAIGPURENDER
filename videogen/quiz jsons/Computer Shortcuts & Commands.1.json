@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which keyboard key moves keyboard focus to the next field, button, or control in forms and dialogs?",
+      "options": [
+        "Enter",
+        "Space",
+        "Tab"
+      ],
+      "answer": "Tab"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Windows shortcut opens the Task View interface to manage virtual desktops and windows?",
+      "options": [
+        "Alt+Tab",
+        "Ctrl+Win+Left",
+        "Win+Tab"
+      ],
+      "answer": "Win+Tab"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Vim command globally replaces all occurrences of 'foo' with 'bar' across the current file?",
+      "options": [
+        ":g/foo/s//bar/",
+        ":%s/foo/bar/g",
+        ":%s/foo/bar/"
+      ],
+      "answer": ":%s/foo/bar/g"
+    },
+    {
+      "question_id": 4,
+      "question": "On Windows, which keyboard shortcut pastes the clipboard contents into the active document or field?",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+S",
+        "Ctrl+V"
+      ],
+      "answer": "Ctrl+V"
+    },
+    {
+      "question_id": 5,
+      "question": "Which browser shortcut focuses the address bar for a search or URL entry in most desktop browsers?",
+      "options": [
+        "Ctrl+K",
+        "Alt+D",
+        "Ctrl+L"
+      ],
+      "answer": "Ctrl+L"
+    },
+    {
+      "question_id": 6,
+      "question": "Which terminal flow-control key temporarily pauses output to prevent overflow on slow connections?",
+      "options": [
+        "Ctrl+Q",
+        "Ctrl+C",
+        "Ctrl+S"
+      ],
+      "answer": "Ctrl+S"
+    },
+    {
+      "question_id": 7,
+      "question": "Which keyboard shortcut opens a new tab in most desktop web browsers?",
+      "options": [
+        "Ctrl+W",
+        "Ctrl+N",
+        "Ctrl+T"
+      ],
+      "answer": "Ctrl+T"
+    },
+    {
+      "question_id": 8,
+      "question": "Which keyboard shortcut opens a new private browsing window in Firefox and Chrome on macOS?",
+      "options": [
+        "Cmd+N",
+        "Cmd+Shift+P",
+        "Cmd+Shift+N"
+      ],
+      "answer": "Cmd+Shift+N"
+    },
+    {
+      "question_id": 9,
+      "question": "Which terminal feature prevents pasted multiline commands from immediately executing and wraps pasted text safely?",
+      "options": [
+        "Bracketed paste mode",
+        "XON/XOFF flow control",
+        "Canonical mode"
+      ],
+      "answer": "Bracketed paste mode"
+    },
+    {
+      "question_id": 10,
+      "question": "Which keyboard shortcut opens a new blank document or window in many desktop applications?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+Shift+N",
+        "Ctrl+O"
+      ],
+      "answer": "Ctrl+N"
+    },
+    {
+      "question_id": 11,
+      "question": "Which combination in Windows opens the Security Options screen that includes lock and sign-out choices?",
+      "options": [
+        "Win+L",
+        "Ctrl+Alt+Del",
+        "Ctrl+Shift+Esc"
+      ],
+      "answer": "Ctrl+Alt+Del"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Git command temporarily saves local changes to a stack so you can switch branches cleanly?",
+      "options": [
+        "git save",
+        "git stash",
+        "git shelve"
+      ],
+      "answer": "git stash"
+    },
+    {
+      "question_id": 13,
+      "question": "On Windows, which keyboard shortcut removes selected text or files and places them on the clipboard?",
+      "options": [
+        "Ctrl+X",
+        "Ctrl+Z",
+        "Ctrl+C"
+      ],
+      "answer": "Ctrl+X"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Windows keyboard shortcut opens the built-in Snipping or screen clip tool for selecting a screen region?",
+      "options": [
+        "Alt+Print Screen",
+        "Win+PrintScreen",
+        "Win+Shift+S"
+      ],
+      "answer": "Win+Shift+S"
+    },
+    {
+      "question_id": 15,
+      "question": "Which command in many shells reads and executes commands from a file in the current shell environment?",
+      "options": [
+        ". filename",
+        "Both answers are correct",
+        "source filename"
+      ],
+      "answer": "Both answers are correct"
+    }
+  ]
+}

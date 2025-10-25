@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": [
+        "Ernest Hemingway",
+        "T. S. Eliot",
+        "F. Scott Fitzgerald"
+      ],
+      "answer": "F. Scott Fitzgerald"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote 'The Sound and the Fury'?",
+      "options": [
+        "William Faulkner",
+        "T. S. Eliot",
+        "Ernest Hemingway"
+      ],
+      "answer": "William Faulkner"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'Journey to the Center of the Earth'?",
+      "options": [
+        "H. G. Wells",
+        "Jules Verne",
+        "Arthur Conan Doyle"
+      ],
+      "answer": "Jules Verne"
+    },
+    {
+      "question_id": 4,
+      "question": "Who wrote 'Anna Karenina'?",
+      "options": [
+        "Fyodor Dostoevsky",
+        "Nikolai Gogol",
+        "Leo Tolstoy"
+      ],
+      "answer": "Leo Tolstoy"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote 'The Bell Jar'?",
+      "options": [
+        "Sylvia Plath",
+        "Doris Lessing",
+        "Anne Sexton"
+      ],
+      "answer": "Sylvia Plath"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote 'The Secret Agent' about anarchism in London?",
+      "options": [
+        "H. G. Wells",
+        "Joseph Conrad",
+        "G. K. Chesterton"
+      ],
+      "answer": "Joseph Conrad"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'Animal Farm'?",
+      "options": [
+        "George Orwell",
+        "Kurt Vonnegut",
+        "Aldous Huxley"
+      ],
+      "answer": "George Orwell"
+    },
+    {
+      "question_id": 8,
+      "question": "Who authored 'The Woman in White'?",
+      "options": [
+        "Wilkie Collins",
+        "Mary Elizabeth Braddon",
+        "Charles Dickens"
+      ],
+      "answer": "Wilkie Collins"
+    },
+    {
+      "question_id": 9,
+      "question": "Who wrote the modernist novel 'Mrs Dalloway'?",
+      "options": [
+        "Virginia Woolf",
+        "E. M. Forster",
+        "James Joyce"
+      ],
+      "answer": "Virginia Woolf"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the author of 'Crime and Punishment'?",
+      "options": [
+        "Ivan Turgenev",
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy"
+      ],
+      "answer": "Fyodor Dostoevsky"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is the author of 'The Stranger's' famous opening line in original language commonly attributed to?",
+      "options": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Gide"
+      ],
+      "answer": "Albert Camus"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote 'The Man Who Was Thursday' metaphysical thriller?",
+      "options": [
+        "Arthur Conan Doyle",
+        "H. G. Wells",
+        "G. K. Chesterton"
+      ],
+      "answer": "G. K. Chesterton"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is the author of 'Les Misérables'?",
+      "options": [
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Alexandre Dumas"
+      ],
+      "answer": "Victor Hugo"
+    },
+    {
+      "question_id": 14,
+      "question": "Who is the author of 'The Metamorphosis'?",
+      "options": [
+        "Frédéric Nietzsche",
+        "Albert Camus",
+        "Franz Kafka"
+      ],
+      "answer": "Franz Kafka"
+    },
+    {
+      "question_id": 15,
+      "question": "Who authored 'The Fixer' which won a Pulitzer in 1967?",
+      "options": [
+        "Philip Roth",
+        "Bernard Malamud",
+        "Saul Bellow"
+      ],
+      "answer": "Bernard Malamud"
+    }
+  ]
+}

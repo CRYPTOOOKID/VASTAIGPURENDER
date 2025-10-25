@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which item contains zero calories and no nutrients?",
+      "options": [
+        "Plain water",
+        "Olive oil",
+        "Brown rice"
+      ],
+      "answer": "Plain water"
+    },
+    {
+      "question_id": 2,
+      "question": "Which number does the FDA use as the reference daily calorie intake on labels?",
+      "options": [
+        "2000 kilocalories",
+        "1500 kilocalories",
+        "2500 kilocalories"
+      ],
+      "answer": "2000 kilocalories"
+    },
+    {
+      "question_id": 3,
+      "question": "Which food component can reduce measured metabolizable energy through fermentation in the colon?",
+      "options": [
+        "Resistant starch and certain fibers",
+        "Simple sugars",
+        "Saturated fats"
+      ],
+      "answer": "Resistant starch and certain fibers"
+    },
+    {
+      "question_id": 4,
+      "question": "Which snack change lowers calories without removing nutrients?",
+      "options": [
+        "Swap soda for sparkling water",
+        "Swap fruit for candy",
+        "Add extra butter"
+      ],
+      "answer": "Swap soda for sparkling water"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes calories available to the body after digestion and losses?",
+      "options": [
+        "Metabolizable energy",
+        "Gross energy",
+        "Thermal energy"
+      ],
+      "answer": "Metabolizable energy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which nutritional label practice can mislead consumers about calorie contribution from mixed dishes?",
+      "options": [
+        "Using unrealistic serving sizes",
+        "Listing calories per 100 grams",
+        "Providing ingredient origins"
+      ],
+      "answer": "Using unrealistic serving sizes"
+    },
+    {
+      "question_id": 7,
+      "question": "Which food component increases energy density most per gram?",
+      "options": [
+        "Fat",
+        "Water",
+        "Dietary fiber"
+      ],
+      "answer": "Fat"
+    },
+    {
+      "question_id": 8,
+      "question": "Which labeling term helps consumers see how a serving fits into a 2,000 calorie diet?",
+      "options": [
+        "Percent Daily Value",
+        "Ingredients list",
+        "Best-by date"
+      ],
+      "answer": "Percent Daily Value"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nuanced factor makes calorie estimates less accurate for highly processed versus whole foods?",
+      "options": [
+        "Altered digestibility and faster absorption rates",
+        "Higher vitamin content in processed foods",
+        "Processed foods always weigh more"
+      ],
+      "answer": "Altered digestibility and faster absorption rates"
+    },
+    {
+      "question_id": 10,
+      "question": "Which nutrient primarily helps build and repair body tissues?",
+      "options": [
+        "Protein",
+        "Sugar",
+        "Fiber"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the main difference between glycemic index and glycemic load?",
+      "options": [
+        "Glycemic load combines index with typical carbohydrate portion size",
+        "Glycemic index measures fat content",
+        "Glycemic load measures vitamin content"
+      ],
+      "answer": "Glycemic load combines index with typical carbohydrate portion size"
+    },
+    {
+      "question_id": 12,
+      "question": "Which laboratory approach estimates human metabolizable energy more accurately than simple combustion?",
+      "options": [
+        "Balance studies measuring intake and excreta",
+        "Single-meal bomb calorimetry",
+        "Measuring food color"
+      ],
+      "answer": "Balance studies measuring intake and excreta"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient provides about 9 kilocalories per gram?",
+      "options": [
+        "Fat",
+        "Carbohydrate",
+        "Protein"
+      ],
+      "answer": "Fat"
+    },
+    {
+      "question_id": 14,
+      "question": "Which phrase best describes percent of calories from fat on nutrition labels?",
+      "options": [
+        "Proportion of total calories derived from fat",
+        "Grams of fat per hundred calories",
+        "Serving size in fat ounces"
+      ],
+      "answer": "Proportion of total calories derived from fat"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes energy remaining after fecal and urinary losses are subtracted?",
+      "options": [
+        "Metabolizable energy",
+        "Gross energy",
+        "Bomb energy"
+      ],
+      "answer": "Metabolizable energy"
+    }
+  ]
+}

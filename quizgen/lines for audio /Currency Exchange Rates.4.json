@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which of these is a major determinant of long-term exchange rates?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of the following best describes currency sterilization?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced policy tool can a central bank use to directly influence long-term exchange rates via the yield curve?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'cross rate' mean?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'currency redenomination'?"
+    },
+    {
+      "question_id": 6,
+      "question": "What is peso problem in exchange rate expectations?"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'ask price' mean in FX quotes?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a 'dirty float' exchange rate regime?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the long-run prediction of the Balassa-Samuelson effect for real exchange rates?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which economic indicator most directly influences exchange rates?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which instrument shows implied future volatility of currency?"
+    },
+    {
+      "question_id": 12,
+      "question": "Why might a sovereign choose a currency board arrangement?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which institution typically intervenes to influence a national exchange rate?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country famously devalued its currency in 1992 leading to exit from the ERM?"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the theoretical implication of sticky prices for exchange rate dynamics in the Dornbusch model?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian scientist was instrumental in establishing ISRO's early satellite program?"
+    },
+    {
+      "question_id": 2,
+      "question": "In which year did India’s first satellite Aryabhata launch into orbit?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian engineer transformed India’s public transport networks through metro system management?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which scientist created the Ramachandran plot in protein structure analysis?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Indian space official oversaw India’s Mars Orbiter Mission success in 2013?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian-born Nobel laureate worked on the structure and function of ribosomes?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Indian scientist’s work launched modern protein structure analysis in India?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian scientist was central to establishing the Indian Institute of Science (IISc) reputation?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian mathematician’s 1913 letter to G. H. Hardy launched a major collaboration?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who led India’s first successful indigenous satellite launch (SLV-3) project?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Indian agricultural scientist spearheaded high-yield wheat varieties in India?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian scientist authored fundamental papers on modular forms and partition congruences?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian ornithologist is popularly called the 'Birdman of India'?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian scientist helped popularize public telephones and expand rural connectivity?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist collaborated with Einstein leading to terminology 'boson' named after him?"
+    }
+  ]
+}

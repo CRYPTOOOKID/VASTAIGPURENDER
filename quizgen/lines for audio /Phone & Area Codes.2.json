@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an area code in telephone numbering?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which prefix sequence often indicates an international direct dial from mobile phones worldwide?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Caribbean country uses country code +1 242 under the NANP?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which area code is strongly associated with downtown Chicago, Illinois?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which organization assigns international country calling codes?"
+    },
+    {
+      "question_id": 6,
+      "question": "In the original 1947 NANP design, what did a middle digit of 0 indicate for an area code?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country uses the calling code +380?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is an overlay plan for area codes?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which North American area code covers southern Nevada, including Las Vegas?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses country code +91?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which North American area code was originally assigned to nearly all of California's Bay Area?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country uses the dialing code +351 and requires a trunk prefix 0 for domestic long-distance?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country uses the calling code +49?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is number pooling in telephone number management?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which change often requires public education campaigns when new area codes are implemented?"
+    }
+  ]
+}

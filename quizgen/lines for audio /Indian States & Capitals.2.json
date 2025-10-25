@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Nagaland?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which state capital houses the North Eastern Council headquarters?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which state capital was established on a marshy plain and planned after independence as a new administrative center?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Karnataka?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which city became the capital of the newly formed Uttarakhand state in 2000?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which coastal capital is closest to India’s second-largest mangrove region after the Sundarbans?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Uttar Pradesh?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state was carved out of Madhya Pradesh on 1 November 2000?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which state capital hosts one of the country's major education hubs, including an Institute of National Importance?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Kerala?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which eastern state capital became an administrative seat after reorganization in 1950s?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which state capital's port became a key strategic naval base during World War II and remains important today?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the national capital territory's administrative capital?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which coastal state capital sits at the mouth of the Mandovi River?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital's modern layout was influenced by Pierre Jeanneret’s collaboration after Le Corbusier?"
+    }
+  ]
+}

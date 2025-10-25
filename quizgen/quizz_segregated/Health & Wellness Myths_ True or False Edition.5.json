@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which statement about sitting on cold concrete causing illness is true?",
+      "options": [
+        "Sitting on cold concrete directly causes infections",
+        "Exposure to cold does not directly create viral infections without exposure to pathogens",
+        "Cold stone instantly weakens the immune system"
+      ],
+      "answer": "Exposure to cold does not directly create viral infections without exposure to pathogens"
+    },
+    {
+      "question_id": 2,
+      "question": "Which description matches Linus Pauling's vitamin C claim?",
+      "options": [
+        "He discovered vitamin C cures broken bones",
+        "He promoted megadoses of vitamin C to prevent colds in the 1970s",
+        "He opposed all vitamin supplementation publicly"
+      ],
+      "answer": "He promoted megadoses of vitamin C to prevent colds in the 1970s"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historical study influenced the myth that low-fat diets always prevent obesity?",
+      "options": [
+        "Low-fat diet claims originated from astronomy research",
+        "A single 1800s study proved low-fat cures obesity",
+        "Early population studies linked fat intake and heart disease, but later research showed complexity with carbs and sugars"
+      ],
+      "answer": "Early population studies linked fat intake and heart disease, but later research showed complexity with carbs and sugars"
+    },
+    {
+      "question_id": 4,
+      "question": "Which claim about taking vitamin C to prevent colds is most accurate?",
+      "options": [
+        "Vitamin C prevents all colds when taken daily",
+        "Vitamin C cures viral infections instantly",
+        "Regular vitamin C might slightly reduce cold duration but does not fully prevent colds"
+      ],
+      "answer": "Regular vitamin C might slightly reduce cold duration but does not fully prevent colds"
+    },
+    {
+      "question_id": 5,
+      "question": "Which claim about soy and hormone disruption reflects evidence?",
+      "options": [
+        "Normal dietary soy causes major hormonal disruption in adults",
+        "Moderate soy consumption does not generally disrupt hormones in most adults",
+        "All soy products are endocrine disruptors"
+      ],
+      "answer": "Moderate soy consumption does not generally disrupt hormones in most adults"
+    },
+    {
+      "question_id": 6,
+      "question": "Which documented adverse event illustrates risks of extreme detox regimens?",
+      "options": [
+        "Juice cleanses are hospital-grade therapies",
+        "Severe electrolyte imbalance and acute kidney injury have occurred after extreme juice cleanses",
+        "Detox regimens never cause medical complications"
+      ],
+      "answer": "Severe electrolyte imbalance and acute kidney injury have occurred after extreme juice cleanses"
+    },
+    {
+      "question_id": 7,
+      "question": "Which statement about organic produce is correct?",
+      "options": [
+        "Organic means nutritionally identical in every case",
+        "Organic produce contains no pesticides at all",
+        "Organic produce can have residues but typically fewer synthetic pesticides"
+      ],
+      "answer": "Organic produce can have residues but typically fewer synthetic pesticides"
+    },
+    {
+      "question_id": 8,
+      "question": "Which evidence-based claim about low-fat diets and heart health is accurate?",
+      "options": [
+        "All low-fat diets reduce heart disease risk regardless of food type",
+        "Replacing saturated fats with refined carbs may not improve heart health",
+        "Low-fat packaged foods always lower heart disease risk"
+      ],
+      "answer": "Replacing saturated fats with refined carbs may not improve heart health"
+    },
+    {
+      "question_id": 9,
+      "question": "Which epidemiological observation challenges the 'sugar causes diabetes' simplification?",
+      "options": [
+        "Sugar intake has zero correlation with metabolic health",
+        "Type 2 diabetes risk links to overall calories, obesity, and genetics, not sugar alone",
+        "Only sugar directly causes all diabetes cases"
+      ],
+      "answer": "Type 2 diabetes risk links to overall calories, obesity, and genetics, not sugar alone"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about sugar and hyperactivity in children reflects evidence?",
+      "options": [
+        "Sugar directly causes hyperactivity in most children",
+        "Sugar permanently changes brain chemistry in kids",
+        "Sugar rarely causes measurable hyperactivity"
+      ],
+      "answer": "Sugar rarely causes measurable hyperactivity"
+    },
+    {
+      "question_id": 11,
+      "question": "Which myth about cell phone radiation and cancer aligns with major agency findings?",
+      "options": [
+        "Research has not established a consistent causal link between typical phone use and cancer",
+        "Phones instantly mutate DNA on contact",
+        "Cell phone use has been conclusively shown to cause cancer"
+      ],
+      "answer": "Research has not established a consistent causal link between typical phone use and cancer"
+    },
+    {
+      "question_id": 12,
+      "question": "Which nuanced claim about saturated fat and heart disease aligns with recent meta-analyses?",
+      "options": [
+        "Saturated fat always reduces heart disease risk",
+        "All saturated fat is harmless in every diet",
+        "Replacing saturated fat with polyunsaturated fat lowers heart disease risk; replacing it with refined carbs may not"
+      ],
+      "answer": "Replacing saturated fat with polyunsaturated fat lowers heart disease risk; replacing it with refined carbs may not"
+    },
+    {
+      "question_id": 13,
+      "question": "Which belief about antibiotics treating colds is accurate?",
+      "options": [
+        "Antibiotics boost immunity instantly",
+        "Antibiotics cure all colds and flu",
+        "Antibiotics treat bacterial infections, not typical viral colds"
+      ],
+      "answer": "Antibiotics treat bacterial infections, not typical viral colds"
+    },
+    {
+      "question_id": 14,
+      "question": "Which statement about simulated 'natural' childbirth benefits reflects evidence?",
+      "options": [
+        "All home births are safer than hospital births in every situation",
+        "Hospital births always cause harm to mothers",
+        "Planned home births can be safe for low-risk pregnancies with proper backup plans"
+      ],
+      "answer": "Planned home births can be safe for low-risk pregnancies with proper backup plans"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific receptor interaction explains grapefruit–drug interactions affecting statins?",
+      "options": [
+        "Grapefruit inhibits intestinal CYP3A4, raising levels of some statins and increasing side-effect risk",
+        "Grapefruit enhances liver clearance of all medications",
+        "Grapefruit neutralizes statins entirely by binding them chemically"
+      ],
+      "answer": "Grapefruit inhibits intestinal CYP3A4, raising levels of some statins and increasing side-effect risk"
+    }
+  ]
+}

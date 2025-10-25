@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country calling code is assigned to Japan?"
+    },
+    {
+      "question_id": 2,
+      "question": "What triggered widespread adoption of area code overlays in the 1990s and 2000s?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which database element indicates the current service provider for a ported number?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does the abbreviation NANP stand for?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country uses the calling code +358?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which area code is an overlay introduced to relieve exhaust in Manhattan alongside 212 and 646?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which prefix often indicates a premium-rate telephone service in North America?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which area code covers central Philadelphia, Pennsylvania?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which mechanism allows customers to retain mobile numbers when switching wireless providers?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country calling code is assigned to Australia?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country code belongs to Brazil?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which North American area code originally served nearly all of southern Florida?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which symbol should you press to replace the international dialing prefix on a mobile phone?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country uses the international dialing code +351?"
+    },
+    {
+      "question_id": 15,
+      "question": "What technical measure reduced area code exhaustion by assigning numbers in smaller blocks?"
+    }
+  ]
+}

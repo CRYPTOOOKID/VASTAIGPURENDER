@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "When was the Six-Day War between Israel and neighboring states?"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did the Berlin Wall fall, signaling the end of Cold War divisions?"
+    },
+    {
+      "question_id": 3,
+      "question": "When was the Treaty of Tordesillas signed dividing New World claims between Spain and Portugal?"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Russian Revolution that overthrew the Tsar start (February Revolution)?"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the First Opium War between Britain and China begin?"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Haitian slave revolt begin under Toussaint L'Ouverture's influence (initial uprising)?"
+    },
+    {
+      "question_id": 7,
+      "question": "When was the first modern Olympic Games held in Athens?"
+    },
+    {
+      "question_id": 8,
+      "question": "When did the Indian Rebellion (Sepoy Mutiny) against the British East India Company begin?"
+    },
+    {
+      "question_id": 9,
+      "question": "When did Hernán Cortés begin the Spanish conquest of the Aztec Empire with arrival in Mexico?"
+    },
+    {
+      "question_id": 10,
+      "question": "When did the French Revolution begin with the storming of the Bastille?"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did the Great Depression begin with the U.S. stock market crash?"
+    },
+    {
+      "question_id": 12,
+      "question": "When did the Mongol Empire reach its greatest extent under Kublai Khan's rule (established Yuan)?"
+    },
+    {
+      "question_id": 13,
+      "question": "When did the Spanish Armada attempt to invade England?"
+    },
+    {
+      "question_id": 14,
+      "question": "When was the Panama Canal officially opened for ship traffic?"
+    },
+    {
+      "question_id": 15,
+      "question": "When did the English Bill of Rights become law, limiting the monarchy's power?"
+    }
+  ]
+}

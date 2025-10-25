@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who authored 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Truman Capote",
+        "Zora Neale Hurston"
+      ],
+      "answer": "Harper Lee"
+    },
+    {
+      "question_id": 2,
+      "question": "Who authored 'The Call of the Wild'?",
+      "options": [
+        "Jack London",
+        "John Steinbeck",
+        "Bret Harte"
+      ],
+      "answer": "Jack London"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'Doctor Zhivago' famously published abroad in 1957?",
+      "options": [
+        "Boris Pasternak",
+        "Mikhail Bulgakov",
+        "Alexander Solzhenitsyn"
+      ],
+      "answer": "Boris Pasternak"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is the author of 'Middlemarch'?",
+      "options": [
+        "George Eliot",
+        "Elizabeth Gaskell",
+        "Anthony Trollope"
+      ],
+      "answer": "George Eliot"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote 'The Jungle' exposing meatpacking industry?",
+      "options": [
+        "Upton Sinclair",
+        "Ida Tarbell",
+        "Lincoln Steffens"
+      ],
+      "answer": "Upton Sinclair"
+    },
+    {
+      "question_id": 6,
+      "question": "Who is the author of 'The House of the Spirits' blending family saga and magical realism?",
+      "options": [
+        "Isabel Allende",
+        "Laura Esquivel",
+        "Gabriel García Márquez"
+      ],
+      "answer": "Isabel Allende"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote 'The Count of Monte Cristo'?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac"
+      ],
+      "answer": "Alexandre Dumas"
+    },
+    {
+      "question_id": 8,
+      "question": "Who is the author of 'Beloved'?",
+      "options": [
+        "Toni Morrison",
+        "Alice Walker",
+        "Maya Angelou"
+      ],
+      "answer": "Toni Morrison"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is the author of the stream-of-consciousness 'Ulysses'?",
+      "options": [
+        "James Joyce",
+        "Virginia Woolf",
+        "Marcel Proust"
+      ],
+      "answer": "James Joyce"
+    },
+    {
+      "question_id": 10,
+      "question": "Who authored 'Little Women'?",
+      "options": [
+        "Louisa May Alcott",
+        "Elizabeth Gaskell",
+        "Charlotte Brontë"
+      ],
+      "answer": "Louisa May Alcott"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is the author of 'Their Eyes Were Watching God'?",
+      "options": [
+        "Zora Neale Hurston",
+        "Nella Larsen",
+        "Toni Morrison"
+      ],
+      "answer": "Zora Neale Hurston"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote 'The Vicar of Wakefield' often referenced by later novelists?",
+      "options": [
+        "Oliver Goldsmith",
+        "Richard Brinsley Sheridan",
+        "Henry Brooke"
+      ],
+      "answer": "Oliver Goldsmith"
+    },
+    {
+      "question_id": 13,
+      "question": "Who authored 'The Old Man and the Sea'?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Steinbeck"
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'A Farewell to Arms'?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "E. M. Forster"
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 15,
+      "question": "Who is the author of 'The Death of Ivan Ilyich'?",
+      "options": [
+        "Leo Tolstoy",
+        "Anton Chekhov",
+        "Ivan Turgenev"
+      ],
+      "answer": "Leo Tolstoy"
+    }
+  ]
+}

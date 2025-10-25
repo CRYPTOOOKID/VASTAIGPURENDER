@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a penny stock?"
+    },
+    {
+      "question_id": 2,
+      "question": "What does a stock's float represent?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which hedge fund fee structure term describes 2% management and 20% performance fees?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'portfolio' refer to for an investor?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fund type pools investor money to buy a broad market basket passively?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which firm completed the largest single-company IPO by proceeds in 2019?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is market capitalization?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric signals potential recession when it inverts relative to short rates?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rules govern clearing and settling securities trades in most U.S. markets today?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the role of a stockbroker?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which year did the New York Stock Exchange begin under the Buttonwood Agreement?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advisory measure requires public company CEOs and CFOs to certify financial statements?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a dividend?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which event is called Black Monday for a massive single-day market decline?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metric measures a firm's operating profitability excluding capital structure effects?"
+    }
+  ]
+}

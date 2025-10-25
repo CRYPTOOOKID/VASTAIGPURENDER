@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which designer is associated with the signature shade 'Valentino red'?",
+      "options": [
+        "Valentino Garavani",
+        "Gianni Versace",
+        "Giorgio Armani"
+      ],
+      "answer": "Valentino Garavani"
+    },
+    {
+      "question_id": 2,
+      "question": "Which house revived the Dior Saddle Bag originally created around 2000?",
+      "options": [
+        "Dior",
+        "Chanel",
+        "Saint Laurent"
+      ],
+      "answer": "Dior"
+    },
+    {
+      "question_id": 3,
+      "question": "Which French institution legally defines and registers the official list of haute couture houses?",
+      "options": [
+        "Chambre Syndicale de la Haute Couture",
+        "Institut Français de la Mode",
+        "Paris Chamber of Commerce"
+      ],
+      "answer": "Chambre Syndicale de la Haute Couture"
+    },
+    {
+      "question_id": 4,
+      "question": "Who founded the house of Givenchy?",
+      "options": [
+        "Hubert de Givenchy",
+        "Pierre Balmain",
+        "Yves Saint Laurent"
+      ],
+      "answer": "Hubert de Givenchy"
+    },
+    {
+      "question_id": 5,
+      "question": "Which designer led Chanel and revitalized Fendi as creative director for decades?",
+      "options": [
+        "John Galliano",
+        "Karl Lagerfeld",
+        "Yves Saint Laurent"
+      ],
+      "answer": "Karl Lagerfeld"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Italian house's archive contains the original 'Rockstud' pyramid-studded accessories introduced in 2010s?",
+      "options": [
+        "Versace",
+        "Moschino",
+        "Valentino"
+      ],
+      "answer": "Valentino"
+    },
+    {
+      "question_id": 7,
+      "question": "Which designer founded the Versace fashion house?",
+      "options": [
+        "Giorgio Armani",
+        "Gianni Versace",
+        "Salvatore Ferragamo"
+      ],
+      "answer": "Gianni Versace"
+    },
+    {
+      "question_id": 8,
+      "question": "Which house launched the iconic Lady Dior handbag named for Princess Diana?",
+      "options": [
+        "Dior",
+        "Chanel",
+        "Hermès"
+      ],
+      "answer": "Dior"
+    },
+    {
+      "question_id": 9,
+      "question": "Which brand introduced the monogram canvas combining initials and floral motifs back in 1896?",
+      "options": [
+        "Louis Vuitton",
+        "Hermès",
+        "Goyard"
+      ],
+      "answer": "Louis Vuitton"
+    },
+    {
+      "question_id": 10,
+      "question": "Which brand is best known for the polo player logo on shirts?",
+      "options": [
+        "Ralph Lauren",
+        "Hugo Boss",
+        "Calvin Klein"
+      ],
+      "answer": "Ralph Lauren"
+    },
+    {
+      "question_id": 11,
+      "question": "In what year did Miuccia Prada launch the Miu Miu label?",
+      "options": [
+        "1993",
+        "2001",
+        "1985"
+      ],
+      "answer": "1993"
+    },
+    {
+      "question_id": 12,
+      "question": "Which house historically limited production with artisanal workshops to maintain rarity in leather goods?",
+      "options": [
+        "Louis Vuitton",
+        "Hermès",
+        "Gucci"
+      ],
+      "answer": "Hermès"
+    },
+    {
+      "question_id": 13,
+      "question": "Which designer introduced the women's tuxedo called 'Le Smoking'?",
+      "options": [
+        "Coco Chanel",
+        "Christian Dior",
+        "Yves Saint Laurent"
+      ],
+      "answer": "Yves Saint Laurent"
+    },
+    {
+      "question_id": 14,
+      "question": "When was Chanel No.5 first launched to the public?",
+      "options": [
+        "1935",
+        "1910",
+        "1921"
+      ],
+      "answer": "1921"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fashion house created the iconic Bar jacket silhouette that became a defining New Look piece?",
+      "options": [
+        "Balenciaga",
+        "Dior",
+        "Chanel"
+      ],
+      "answer": "Dior"
+    }
+  ]
+}

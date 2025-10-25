@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which restaurant promoted \"Have it your way\" as its slogan?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which national chain used \"Famous for the Burger\" style branding and \"YUM\" slogan variants?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which regional chain uses \"One Love\" to reference a single-menu focus on chicken fingers?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which drive-in brand uses the slogan \"America's Drive-In\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Mexican chain used the tagline \"Think outside the bun\" before adopting other slogans?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which sandwich chain stressed fast delivery with the tagline \"Freaky Fast\"?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fast food restaurant uses the slogan \"I'm lovin' it\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which chain used the slogan \"Good Mood Food\" to brand its menu?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which chicken chain used the phrase \"Love That Chicken From Popeyes\" in ads?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which fast food chain uses the cow-written slogan \"Eat Mor Chikin\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coffee chain used the motto \"To inspire and nurture the human spirit\" as its mission?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which burger brand introduced the global jingle \"I'm lovin' it\" in a wide campaign?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which West Coast burger chain uses \"Quality You Can Taste\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which pizza chain used the tagline \"Make it great\" in recent marketing?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which burger chain touts \"Fresh, Never Frozen\" beef as a key differentiator?"
+    }
+  ]
+}

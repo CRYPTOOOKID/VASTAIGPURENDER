@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the basic meaning of the suffix '-phobia'?",
+      "options": [
+        "Fear or aversion",
+        "Healing process",
+        "Study of life"
+      ],
+      "answer": "Fear or aversion"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia is often linked to an aversion to beards and historical class perceptions?",
+      "options": [
+        "Pogonophobia",
+        "Erythrophobia",
+        "Chronophobia"
+      ],
+      "answer": "Pogonophobia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare phobia refers to fear of beards with historical roots in shifting fashion norms?",
+      "options": [
+        "Pogonophobia",
+        "Siderodromophobia",
+        "Ailurophobia"
+      ],
+      "answer": "Pogonophobia"
+    },
+    {
+      "question_id": 4,
+      "question": "Which common reaction often occurs when someone encounters their phobic trigger?",
+      "options": [
+        "Immediate anxiety or panic",
+        "Sudden hunger",
+        "Improved concentration"
+      ],
+      "answer": "Immediate anxiety or panic"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia is generally not listed in major psychiatric manuals but widely discussed online?",
+      "options": [
+        "Trypophobia",
+        "Claustrophobia",
+        "Agoraphobia"
+      ],
+      "answer": "Trypophobia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which obscure phobia describes fear of opening or walking up stairways?",
+      "options": [
+        "Bathmophobia",
+        "Basiphobia",
+        "Astrophobia"
+      ],
+      "answer": "Bathmophobia"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia describes fear of beards affecting social perception?",
+      "options": [
+        "Pogonophobia",
+        "Chionophobia",
+        "Somnophobia"
+      ],
+      "answer": "Pogonophobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia refers to fear of beards that sometimes has social roots?",
+      "options": [
+        "Pogonophobia",
+        "Zoophobia",
+        "Nomophobia"
+      ],
+      "answer": "Pogonophobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia appears in anthropological texts as culturally mediated fear of certain facial hair?",
+      "options": [
+        "Pogonophobia",
+        "Ochophobia",
+        "Photophobia"
+      ],
+      "answer": "Pogonophobia"
+    },
+    {
+      "question_id": 10,
+      "question": "What is glossophobia commonly defined as?",
+      "options": [
+        "Fear of public speaking",
+        "Fear of snakes",
+        "Fear of open spaces"
+      ],
+      "answer": "Fear of public speaking"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia describes fear of mirrors and is separate from body image disorders?",
+      "options": [
+        "Eisoptrophobia",
+        "Somnophobia",
+        "Cenophobia"
+      ],
+      "answer": "Eisoptrophobia"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia’s study often distinguishes disgust sensitivity from learned fear responses?",
+      "options": [
+        "Trypophobia",
+        "Hemophobia",
+        "Aerophobia"
+      ],
+      "answer": "Trypophobia"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phobia involves an extreme fear of mirrors or reflections?",
+      "options": [
+        "Eisoptrophobia",
+        "Thanatophobia",
+        "Aerophobia"
+      ],
+      "answer": "Eisoptrophobia"
+    },
+    {
+      "question_id": 14,
+      "question": "Which therapy technique is the core component in treating many specific phobias?",
+      "options": [
+        "Systematic desensitization",
+        "Magnet therapy",
+        "Hypoglycemia treatment"
+      ],
+      "answer": "Systematic desensitization"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia was used in a 1990s study to probe disgust versus visual processing differences?",
+      "options": [
+        "Trypophobia",
+        "Claustrophobia",
+        "Ablutophobia"
+      ],
+      "answer": "Trypophobia"
+    }
+  ]
+}

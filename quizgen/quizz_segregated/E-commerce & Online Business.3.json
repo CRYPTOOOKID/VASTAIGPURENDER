@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a shopping cart on an online store?",
+      "options": [
+        "A tool for printing product catalogs",
+        "A feature that stores selected products for checkout",
+        "A shipping container used by carriers"
+      ],
+      "answer": "A feature that stores selected products for checkout"
+    },
+    {
+      "question_id": 2,
+      "question": "Which metric shows marketing efficiency by relating acquisition cost to customer value?",
+      "options": [
+        "Customer Acquisition Cost to Lifetime Value ratio",
+        "Gross Merchandise Volume",
+        "Daily active users"
+      ],
+      "answer": "Customer Acquisition Cost to Lifetime Value ratio"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a 'holdout test' in marketing experiments?",
+      "options": [
+        "A control group excluded from campaigns to measure true lift",
+        "An extra discount offered to VIP customers",
+        "An early product launch to influencers"
+      ],
+      "answer": "A control group excluded from campaigns to measure true lift"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'PPC' advertising mean?",
+      "options": [
+        "Pay-Per-Click",
+        "Product-Pricing-Comparison",
+        "Post-Purchase-Confirmation"
+      ],
+      "answer": "Pay-Per-Click"
+    },
+    {
+      "question_id": 5,
+      "question": "Which practice reduces fraud by verifying buyer identity at checkout?",
+      "options": [
+        "Same-day shipping",
+        "Automated email receipts",
+        "Two-factor authentication"
+      ],
+      "answer": "Two-factor authentication"
+    },
+    {
+      "question_id": 6,
+      "question": "What is a common anti-fraud signal derived from order velocity?",
+      "options": [
+        "Consistent weekly repeat purchases",
+        "Low average order value across months",
+        "Sudden spikes in order frequency from a single account or card"
+      ],
+      "answer": "Sudden spikes in order frequency from a single account or card"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a marketplace like eBay or Etsy?",
+      "options": [
+        "A platform that connects many sellers with buyers",
+        "A logistics company that delivers packages",
+        "A single-brand retailer's website"
+      ],
+      "answer": "A platform that connects many sellers with buyers"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'COGS' represent in e-commerce finance?",
+      "options": [
+        "Cloud operations and governance score",
+        "Cost of goods sold",
+        "Customer order growth speed"
+      ],
+      "answer": "Cost of goods sold"
+    },
+    {
+      "question_id": 9,
+      "question": "How does 'client-side rendering' impact perceived performance on slow networks?",
+      "options": [
+        "Reduces the need for CDNs",
+        "Always improves SEO for product pages",
+        "Pages may appear blank longer while JavaScript downloads and runs"
+      ],
+      "answer": "Pages may appear blank longer while JavaScript downloads and runs"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'AOV' stand for in e-commerce metrics?",
+      "options": [
+        "Average Order Value",
+        "Annual Operating Value",
+        "Automated Order Volume"
+      ],
+      "answer": "Average Order Value"
+    },
+    {
+      "question_id": 11,
+      "question": "Which search strategy targets specific low-competition queries to drive traffic?",
+      "options": [
+        "Random hashtag posting",
+        "Long-tail keyword optimization",
+        "Generic brand bidding"
+      ],
+      "answer": "Long-tail keyword optimization"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'latency-sensitive caching' role in e-commerce at peak traffic?",
+      "options": [
+        "Serve frequently requested assets quickly to reduce server load",
+        "Replace all database queries with spreadsheets",
+        "Disable analytics to save bandwidth"
+      ],
+      "answer": "Serve frequently requested assets quickly to reduce server load"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'SKU' stand for in inventory management?",
+      "options": [
+        "Standard Kitting Unit",
+        "Stock Keeping Unit",
+        "Sales Key Unit"
+      ],
+      "answer": "Stock Keeping Unit"
+    },
+    {
+      "question_id": 14,
+      "question": "Which marketing tactic uses urgency and scarcity signals to boost conversions?",
+      "options": [
+        "Automated refunds",
+        "Warehouse rebalancing",
+        "Limited-time offers"
+      ],
+      "answer": "Limited-time offers"
+    },
+    {
+      "question_id": 15,
+      "question": "How does 'server-side rendering' (SSR) improve SEO and performance for stores?",
+      "options": [
+        "Prevents payment tokenization",
+        "Delivers fully rendered HTML to crawlers and users faster",
+        "Stores all images in client local storage"
+      ],
+      "answer": "Delivers fully rendered HTML to crawlers and users faster"
+    }
+  ]
+}

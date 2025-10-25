@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does 'arachnophobia' mean?",
+        "options": [
+          "Fear of spiders",
+          "Fear of heights",
+          "Fear of enclosed spaces"
+        ],
+        "answer": "Fear of spiders"
+      },
+      {
+        "question": "Which phobia describes fear of heights?",
+        "options": [
+          "Acrophobia",
+          "Claustrophobia",
+          "Nyctophobia"
+        ],
+        "answer": "Acrophobia"
+      },
+      {
+        "question": "What does 'claustrophobia' refer to?",
+        "options": [
+          "Fear of confined spaces",
+          "Fear of loud noises",
+          "Fear of animals"
+        ],
+        "answer": "Fear of confined spaces"
+      },
+      {
+        "question": "Which phobia is fear of flying?",
+        "options": [
+          "Aerophobia",
+          "Hydrophobia",
+          "Thanatophobia"
+        ],
+        "answer": "Aerophobia"
+      },
+      {
+        "question": "What does 'social phobia' commonly describe?",
+        "options": [
+          "Fear of social situations",
+          "Fear of darkness",
+          "Fear of insects"
+        ],
+        "answer": "Fear of social situations"
+      },
+      {
+        "question": "Which phobia refers to fear of dogs?",
+        "options": [
+          "Cynophobia",
+          "Heliophobia",
+          "Mysophobia"
+        ],
+        "answer": "Cynophobia"
+      },
+      {
+        "question": "What does 'ophidiophobia' mean?",
+        "options": [
+          "Fear of snakes",
+          "Fear of clowns",
+          "Fear of germs"
+        ],
+        "answer": "Fear of snakes"
+      },
+      {
+        "question": "Which phobia is the fear of water or deep bodies of water?",
+        "options": [
+          "Thalassophobia",
+          "Agoraphobia",
+          "Ailurophobia"
+        ],
+        "answer": "Thalassophobia"
+      },
+      {
+        "question": "What does 'mysophobia' commonly mean?",
+        "options": [
+          "Fear of germs or dirt",
+          "Fear of heights",
+          "Fear of mirrors"
+        ],
+        "answer": "Fear of germs or dirt"
+      },
+      {
+        "question": "Which phobia describes fear of public speaking?",
+        "options": [
+          "Glossophobia",
+          "Somniphobia",
+          "Xenophobia"
+        ],
+        "answer": "Glossophobia"
+      },
+      {
+        "question": "What does 'hemophobia' refer to?",
+        "options": [
+          "Fear of blood",
+          "Fear of maps",
+          "Fear of spiders"
+        ],
+        "answer": "Fear of blood"
+      },
+      {
+        "question": "Which phobia is fear of darkness?",
+        "options": [
+          "Nyctophobia",
+          "Claustrophobia",
+          "Agoraphobia"
+        ],
+        "answer": "Nyctophobia"
+      },
+      {
+        "question": "What does 'xenophobia' mean in the phobia context?",
+        "options": [
+          "Fear of strangers or foreigners",
+          "Fear of small spaces",
+          "Fear of birds"
+        ],
+        "answer": "Fear of strangers or foreigners"
+      },
+      {
+        "question": "Which phobia describes fear of thunder and lightning?",
+        "options": [
+          "Astraphobia",
+          "Pogonophobia",
+          "Nomophobia"
+        ],
+        "answer": "Astraphobia"
+      },
+      {
+        "question": "What does 'pteromerhanophobia' mean?",
+        "options": [
+          "Fear of flying by plane",
+          "Fear of clowns",
+          "Fear of confined spaces"
+        ],
+        "answer": "Fear of flying by plane"
+      },
+      {
+        "question": "Which phobia describes fear of clowns?",
+        "options": [
+          "Coulrophobia",
+          "Hydrophobia",
+          "Agoraphobia"
+        ],
+        "answer": "Coulrophobia"
+      },
+      {
+        "question": "What does 'zoophobia' refer to?",
+        "options": [
+          "Fear of animals",
+          "Fear of numbers",
+          "Fear of open spaces"
+        ],
+        "answer": "Fear of animals"
+      },
+      {
+        "question": "Which phobia describes fear of dentists or dental treatment?",
+        "options": [
+          "Dentophobia",
+          "Thanatophobia",
+          "Sociofobia"
+        ],
+        "answer": "Dentophobia"
+      },
+      {
+        "question": "What does 'hemophobia' differ from 'blood-injection-injury phobia' by often including?",
+        "options": [
+          "Fear plus fainting risk",
+          "Fear of closed spaces",
+          "Fear of storms"
+        ],
+        "answer": "Fear plus fainting risk"
+      },
+      {
+        "question": "Which suffix indicates a fear or phobic condition?",
+        "options": [
+          "-phobia",
+          "-ology",
+          "-graphy"
+        ],
+        "answer": "-phobia"
+      },
+      {
+        "question": "What does 'agoraphobia' commonly involve?",
+        "options": [
+          "Fear of places where escape seems difficult",
+          "Fear of spiders",
+          "Fear of germs"
+        ],
+        "answer": "Fear of places where escape seems difficult"
+      },
+      {
+        "question": "Which phobia is fear of heights while also avoiding high places?",
+        "options": [
+          "Acrophobia",
+          "Pteronophobia",
+          "Haphephobia"
+        ],
+        "answer": "Acrophobia"
+      },
+      {
+        "question": "What does 'glossophobia' involve?",
+        "options": [
+          "Fear of public speaking",
+          "Fear of knives",
+          "Fear of elevators"
+        ],
+        "answer": "Fear of public speaking"
+      },
+      {
+        "question": "Which phobia describes fear of small animals like mice?",
+        "options": [
+          "Musophobia",
+          "Heliophobia",
+          "Atychiphobia"
+        ],
+        "answer": "Musophobia"
+      },
+      {
+        "question": "What does 'heliophobia' mean?",
+        "options": [
+          "Fear of sunlight or bright light",
+          "Fear of ships",
+          "Fear of people"
+        ],
+        "answer": "Fear of sunlight or bright light"
+      },
+      {
+        "question": "Which phobia is fear of needles or injections?",
+        "options": [
+          "Trypanophobia",
+          "Hemophobia",
+          "Nomophobia"
+        ],
+        "answer": "Trypanophobia"
+      },
+      {
+        "question": "What does 'sociophobia' usually describe?",
+        "options": [
+          "Fear of social situations",
+          "Fear of math",
+          "Fear of mirrors"
+        ],
+        "answer": "Fear of social situations"
+      },
+      {
+        "question": "Which phobia concerns fear of falling while asleep or sleep itself?",
+        "options": [
+          "Somniphobia",
+          "Aerophobia",
+          "Thalassophobia"
+        ],
+        "answer": "Somniphobia"
+      },
+      {
+        "question": "What does 'elaiphobia' mean?",
+        "options": [
+          "Fear of oils or greasy substances",
+          "Fear of the color black",
+          "Fear of bridges"
+        ],
+        "answer": "Fear of oils or greasy substances"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which classification groups include specific phobias in clinical taxonomy?",
+        "options": [
+          "Specific, social, and agoraphobia",
+          "Schizophrenia, mood, and personality disorders",
+          "Somatic, psychosomatic, and dissociative"
+        ],
+        "answer": "Specific, social, and agoraphobia"
+      },
+      {
+        "question": "Which therapy uses gradual exposure to reduce phobic responses?",
+        "options": [
+          "Systematic desensitization",
+          "Electroconvulsive therapy",
+          "Psychoanalytic dream interpretation"
+        ],
+        "answer": "Systematic desensitization"
+      },
+      {
+        "question": "Which professional commonly treats disabling phobias using CBT?",
+        "options": [
+          "Clinical psychologist",
+          "Cardiologist",
+          "Radiologist"
+        ],
+        "answer": "Clinical psychologist"
+      },
+      {
+        "question": "Which phobia is associated with a vasovagal fainting reaction?",
+        "options": [
+          "Blood-injection-injury phobia",
+          "Agoraphobia",
+          "Aerophobia"
+        ],
+        "answer": "Blood-injection-injury phobia"
+      },
+      {
+        "question": "Which intervention uses simulated environments to help treat phobias?",
+        "options": [
+          "Virtual reality exposure therapy",
+          "Transcranial magnetic stimulation",
+          "Acupuncture"
+        ],
+        "answer": "Virtual reality exposure therapy"
+      },
+      {
+        "question": "What root does '-phobia' come from in Greek?",
+        "options": [
+          "Phobos meaning fear",
+          "Pathos meaning disease",
+          "Logos meaning word"
+        ],
+        "answer": "Phobos meaning fear"
+      },
+      {
+        "question": "Which phobia often appears in childhood and can persist into adulthood?",
+        "options": [
+          "Specific animal phobias",
+          "Schizoid phobia",
+          "Dysthymia"
+        ],
+        "answer": "Specific animal phobias"
+      },
+      {
+        "question": "Which medication class is sometimes prescribed for social phobia symptoms?",
+        "options": [
+          "Selective serotonin reuptake inhibitors",
+          "Beta blockers only",
+          "Antipsychotics only"
+        ],
+        "answer": "Selective serotonin reuptake inhibitors"
+      },
+      {
+        "question": "What distinguishes a phobia from normal fear clinically?",
+        "options": [
+          "Excessive, persistent fear causing impairment",
+          "Fear present only during sleep",
+          "Fear that always resolves quickly"
+        ],
+        "answer": "Excessive, persistent fear causing impairment"
+      },
+      {
+        "question": "Which phobia term describes fear of elevators and enclosed vertical transport?",
+        "options": [
+          "Claustrophobia",
+          "Chronophobia",
+          "Nomophobia"
+        ],
+        "answer": "Claustrophobia"
+      },
+      {
+        "question": "Which culture-bound fear emphasizes offending others rather than physical danger?",
+        "options": [
+          "Taijin kyofusho",
+          "Amok syndrome",
+          "Susto"
+        ],
+        "answer": "Taijin kyofusho"
+      },
+      {
+        "question": "Which type of exposure uses mental imagery to confront phobic stimuli?",
+        "options": [
+          "Imaginal exposure",
+          "In vivo exposure",
+          "Medication-assisted exposure"
+        ],
+        "answer": "Imaginal exposure"
+      },
+      {
+        "question": "Which phobia commonly appears as a fear of needles during medical procedures?",
+        "options": [
+          "Trypanophobia",
+          "Pogonophobia",
+          "Heliophobia"
+        ],
+        "answer": "Trypanophobia"
+      },
+      {
+        "question": "Which assessment often measures phobia severity in clinical settings?",
+        "options": [
+          "Fear assessment scales and diagnostic interviews",
+          "Cholesterol blood test",
+          "Bone density scan"
+        ],
+        "answer": "Fear assessment scales and diagnostic interviews"
+      },
+      {
+        "question": "Which theory links phobias to evolutionary survival mechanisms?",
+        "options": [
+          "Preparedness theory",
+          "Cognitive dissonance theory",
+          "Attachment theory"
+        ],
+        "answer": "Preparedness theory"
+      },
+      {
+        "question": "Which phobia denotes fear of crossing bridges or driving over them?",
+        "options": [
+          "Gephyrophobia",
+          "Astrophobia",
+          "Glossophobia"
+        ],
+        "answer": "Gephyrophobia"
+      },
+      {
+        "question": "Which behavioral technique pairs relaxation with gradual exposure to reduce phobic anxiety?",
+        "options": [
+          "Systematic desensitization",
+          "Operant conditioning alone",
+          "Aversive conditioning"
+        ],
+        "answer": "Systematic desensitization"
+      },
+      {
+        "question": "Which phobia involves fear of being without a mobile phone connection?",
+        "options": [
+          "Nomophobia",
+          "Chromophobia",
+          "Kakorrhaphiophobia"
+        ],
+        "answer": "Nomophobia"
+      },
+      {
+        "question": "Which diagnostic manual places specific phobias under anxiety disorders?",
+        "options": [
+          "DSM (Diagnostic and Statistical Manual)",
+          "ICD for cardiology",
+          "Handbook of Chemistry"
+        ],
+        "answer": "DSM (Diagnostic and Statistical Manual)"
+      },
+      {
+        "question": "Which phobia name comes from Greek for 'fear of mirrors'?",
+        "options": [
+          "Eisoptrophobia",
+          "Aichmophobia",
+          "Thanatophobia"
+        ],
+        "answer": "Eisoptrophobia"
+      },
+      {
+        "question": "Which early behaviorist published influential research on conditioned fear reduction?",
+        "options": [
+          "Mary Cover Jones",
+          "Sigmund Freud",
+          "Carl Jung"
+        ],
+        "answer": "Mary Cover Jones"
+      },
+      {
+        "question": "Which phobia describes fear of long words and is considered humorous culturally?",
+        "options": [
+          "Hippopotomonstrosesquipedaliophobia",
+          "Hydrophobia",
+          "Chionophobia"
+        ],
+        "answer": "Hippopotomonstrosesquipedaliophobia"
+      },
+      {
+        "question": "Which subtype includes fear of storms, heights, animals, or water?",
+        "options": [
+          "Natural environment phobias",
+          "Personality phobias",
+          "Mood phobias"
+        ],
+        "answer": "Natural environment phobias"
+      },
+      {
+        "question": "Which phobia involves fear of being judged or embarrassed socially?",
+        "options": [
+          "Social phobia",
+          "Agoraphobia",
+          "Pyrophobia"
+        ],
+        "answer": "Social phobia"
+      },
+      {
+        "question": "Which phobia refers to fear of the color yellow?",
+        "options": [
+          "Xanthophobia",
+          "Melanophobia",
+          "Cyanophobia"
+        ],
+        "answer": "Xanthophobia"
+      },
+      {
+        "question": "Which therapeutic approach emphasizes changing fearful thoughts alongside exposure?",
+        "options": [
+          "Cognitive behavioral therapy",
+          "Psychoanalytic free association",
+          "Electrotherapy"
+        ],
+        "answer": "Cognitive behavioral therapy"
+      },
+      {
+        "question": "Which phobia concerns fear of development or loss associated with aging?",
+        "options": [
+          "Gerascophobia",
+          "Thanatophobia",
+          "Atychiphobia"
+        ],
+        "answer": "Gerascophobia"
+      },
+      {
+        "question": "Which term describes fear specifically triggered by seeing a specific animal or object?",
+        "options": [
+          "Specific phobia",
+          "Generalized phobia",
+          "Diffuse anxiety"
+        ],
+        "answer": "Specific phobia"
+      },
+      {
+        "question": "Which phobia means fear of mirrors or seeing oneself reflected?",
+        "options": [
+          "Eisoptrophobia",
+          "Chronophobia",
+          "Haphephobia"
+        ],
+        "answer": "Eisoptrophobia"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which phobia category often shows a biphasic physiological response including fainting?",
+        "options": [
+          "Blood-injection-injury phobia",
+          "Natural environment phobia",
+          "Social phobia"
+        ],
+        "answer": "Blood-injection-injury phobia"
+      },
+      {
+        "question": "Who pioneered systematic desensitization as a clinical technique for phobias?",
+        "options": [
+          "Joseph Wolpe",
+          "B.F. Skinner",
+          "Ivan Pavlov"
+        ],
+        "answer": "Joseph Wolpe"
+      },
+      {
+        "question": "Which rare phobia names fear of beards specifically?",
+        "options": [
+          "Pogonophobia",
+          "Ablutophobia",
+          "Somnophobia"
+        ],
+        "answer": "Pogonophobia"
+      },
+      {
+        "question": "Which phobia involves fear of making decisions or fear of failure linked to perfectionism?",
+        "options": [
+          "Atychiphobia",
+          "Anemophobia",
+          "Cibophobia"
+        ],
+        "answer": "Atychiphobia"
+      },
+      {
+        "question": "Which culture-specific syndrome overlaps with social anxiety but centers on offending others?",
+        "options": [
+          "Taijin kyofusho",
+          "Koro",
+          "Latah"
+        ],
+        "answer": "Taijin kyofusho"
+      },
+      {
+        "question": "Which phobia term originated as a humorous coinage referencing long words?",
+        "options": [
+          "Hippopotomonstrosesquipedaliophobia",
+          "Amaxophobia",
+          "Ombrophobia"
+        ],
+        "answer": "Hippopotomonstrosesquipedaliophobia"
+      },
+      {
+        "question": "Which therapy specifically combines cognitive restructuring with repeated confrontation of phobic stimulus?",
+        "options": [
+          "Cognitive behavioral therapy with exposure",
+          "Electroconvulsive therapy",
+          "Behavioural activation"
+        ],
+        "answer": "Cognitive behavioral therapy with exposure"
+      },
+      {
+        "question": "Which phobia describes an intense fear of mirrors tied to identity-related anxiety?",
+        "options": [
+          "Eisoptrophobia",
+          "Chronophobia",
+          "Ergophobia"
+        ],
+        "answer": "Eisoptrophobia"
+      },
+      {
+        "question": "Which rare phobia denotes fear of elevators or vertical transport specifically?",
+        "options": [
+          "Lift phobia (elevatophobia)",
+          "Phonophobia",
+          "Ailurophobia"
+        ],
+        "answer": "Lift phobia (elevatophobia)"
+      },
+      {
+        "question": "Which research concept suggests some fears are more easily acquired through evolutionarily relevant stimuli?",
+        "options": [
+          "Preparedness",
+          "Operant acquisition",
+          "Random conditioning"
+        ],
+        "answer": "Preparedness"
+      },
+      {
+        "question": "Which phobia term refers to fear of sunlight and can involve avoidance of daylight?",
+        "options": [
+          "Heliophobia",
+          "Nyctophobia",
+          "Scotophobia"
+        ],
+        "answer": "Heliophobia"
+      },
+      {
+        "question": "Which neurobiological area is frequently implicated in conditioned fear and phobic responses?",
+        "options": [
+          "Amygdala",
+          "Cerebellum",
+          "Occipital cortex"
+        ],
+        "answer": "Amygdala"
+      },
+      {
+        "question": "Which assessment method records physiological reactivity during exposure to phobic stimuli?",
+        "options": [
+          "Psychophysiological measures (heart rate, skin conductance)",
+          "Projective inkblots only",
+          "Urine toxicology"
+        ],
+        "answer": "Psychophysiological measures (heart rate, skin conductance)"
+      },
+      {
+        "question": "Which phobia denotes fear of hospitals and medical environments specifically?",
+        "options": [
+          "Nosocomephobia",
+          "Thanatophobia",
+          "Munchausen syndrome"
+        ],
+        "answer": "Nosocomephobia"
+      },
+      {
+        "question": "Which phobia category commonly emerges earlier in life compared to social phobia onset?",
+        "options": [
+          "Specific phobias (animal or situational)",
+          "Late-onset agoraphobia",
+          "Late-onset social phobia"
+        ],
+        "answer": "Specific phobias (animal or situational)"
+      },
+      {
+        "question": "Which behavioral researcher exposed children to fearful stimuli to demonstrate unlearning of phobias?",
+        "options": [
+          "Mary Cover Jones",
+          "Wilhelm Wundt",
+          "Alfred Adler"
+        ],
+        "answer": "Mary Cover Jones"
+      },
+      {
+        "question": "Which rare phobia means fear of the color red?",
+        "options": [
+          "Erythrophobia",
+          "Chlorophobia",
+          "Porphyrophobia"
+        ],
+        "answer": "Erythrophobia"
+      },
+      {
+        "question": "Which phobia often shows high comorbidity with depression and other anxiety disorders?",
+        "options": [
+          "Social phobia (social anxiety disorder)",
+          "Hydrophobia",
+          "Aerophobia"
+        ],
+        "answer": "Social phobia (social anxiety disorder)"
+      },
+      {
+        "question": "Which evidence-based technique uses hierarchical steps of feared stimuli during exposure?",
+        "options": [
+          "Fear hierarchy (graded exposure)",
+          "Random exposure",
+          "Flooding without preparation"
+        ],
+        "answer": "Fear hierarchy (graded exposure)"
+      },
+      {
+        "question": "Which rare phobia describes fear of crossing or walking under bridges specifically?",
+        "options": [
+          "Chasmophobia (related to bridges)",
+          "Ablutophobia",
+          "Iatrophobia"
+        ],
+        "answer": "Chasmophobia (related to bridges)"
+      },
+      {
+        "question": "Which pharmacological agent class may be used short-term to reduce acute phobic anxiety?",
+        "options": [
+          "Benzodiazepines",
+          "Thyroid hormones",
+          "Antihistamines"
+        ],
+        "answer": "Benzodiazepines"
+      },
+      {
+        "question": "Which diagnostic feature differentiates a phobia from normative caution?",
+        "options": [
+          "Disproportionate avoidance causing functional impairment",
+          "Temporary discomfort during exercise",
+          "Occasional curiosity about stimulus"
+        ],
+        "answer": "Disproportionate avoidance causing functional impairment"
+      },
+      {
+        "question": "Which phobia involves fear of clowns and has notable cultural representation in media?",
+        "options": [
+          "Coulrophobia",
+          "Podophobia",
+          "Xenophobia"
+        ],
+        "answer": "Coulrophobia"
+      },
+      {
+        "question": "Which experimental model used conditioned stimuli to study fear acquisition relevant to phobias?",
+        "options": [
+          "Pavlovian classical conditioning",
+          "Operant reinforcement only",
+          "Kinesthetic induction"
+        ],
+        "answer": "Pavlovian classical conditioning"
+      },
+      {
+        "question": "Which rare phobia denotes fear of thunderstorms and associated loud noises?",
+        "options": [
+          "Astraphobia",
+          "Chronophobia",
+          "Hemophobia"
+        ],
+        "answer": "Astraphobia"
+      },
+      {
+        "question": "Which historical therapy used gradual pairing of feared animal with positive experiences to reduce fear?",
+        "options": [
+          "Mary Cover Jones's direct conditioning work with rabbits",
+          "Freudian dream analysis",
+          "Electrotherapy frontal lobe stimulation"
+        ],
+        "answer": "Mary Cover Jones's direct conditioning work with rabbits"
+      },
+      {
+        "question": "Which phobia term describes fear of aging or growing old and associated changes?",
+        "options": [
+          "Gerascophobia",
+          "Nomophobia",
+          "Ablutophobia"
+        ],
+        "answer": "Gerascophobia"
+      },
+      {
+        "question": "Which phobia often responds well to one-session exposure treatments in controlled settings?",
+        "options": [
+          "Specific situational phobias (e.g., flying)",
+          "Generalized anxiety disorder",
+          "Bipolar disorder"
+        ],
+        "answer": "Specific situational phobias (e.g., flying)"
+      },
+      {
+        "question": "Which rare phobia describes fear of the number thirteen specifically?",
+        "options": [
+          "Triskaidekaphobia",
+          "Hexakosioihexekontahexaphobia",
+          "Agoraphobia"
+        ],
+        "answer": "Triskaidekaphobia"
+      },
+      {
+        "question": "Which research finding links genetic influence with individual differences in phobia vulnerability?",
+        "options": [
+          "Moderate heritability estimates in twin studies",
+          "No genetic influence at all",
+          "Genetic influence only for phobias of food"
+        ],
+        "answer": "Moderate heritability estimates in twin studies"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which electronics brand originated in Japan and uses the Sony name?",
+      "options": [
+        "Sony",
+        "Samsung",
+        "Philips"
+      ],
+      "answer": "Sony"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand started as an oil trading company and later used the pecten logo?",
+      "options": [
+        "Shell",
+        "Exxon",
+        "Chevron"
+      ],
+      "answer": "Shell"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did Adidas introduce the trefoil logo as an official emblem?",
+      "options": [
+        "1972",
+        "1960",
+        "1984"
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 4,
+      "question": "Which computer chip maker uses an 'Intel Inside' circular wordmark historically?",
+      "options": [
+        "Intel",
+        "AMD",
+        "NVIDIA"
+      ],
+      "answer": "Intel"
+    },
+    {
+      "question_id": 5,
+      "question": "Which symbol do Mercedes-Benz three points represent?",
+      "options": [
+        "Land, sea, and air",
+        "Past, present, and future",
+        "Design, speed, and luxury"
+      ],
+      "answer": "Land, sea, and air"
+    },
+    {
+      "question_id": 6,
+      "question": "Which heritage brand's logo traces to an 1890s badge later modernized into a stylized trident or crest?",
+      "options": [
+        "Maserati",
+        "Lancia",
+        "Alfa Romeo"
+      ],
+      "answer": "Maserati"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fast casual sandwich chain uses green and yellow in its logo?",
+      "options": [
+        "Subway",
+        "Jimmy John's",
+        "Submarine"
+      ],
+      "answer": "Subway"
+    },
+    {
+      "question_id": 8,
+      "question": "Which logo originally used a twin-tailed siren inspired by a 16th-century woodcut?",
+      "options": [
+        "Starbucks",
+        "Dunkin'",
+        "Costa Coffee"
+      ],
+      "answer": "Starbucks"
+    },
+    {
+      "question_id": 9,
+      "question": "Which brand’s logo uses the trefoil to represent performance heritage and diversity since the 1970s?",
+      "options": [
+        "Adidas",
+        "Puma",
+        "Reebok"
+      ],
+      "answer": "Adidas"
+    },
+    {
+      "question_id": 10,
+      "question": "Which telecommunications company uses a red speech-mark logo and originates from the UK?",
+      "options": [
+        "Vodafone",
+        "Verizon",
+        "T-Mobile"
+      ],
+      "answer": "Vodafone"
+    },
+    {
+      "question_id": 11,
+      "question": "Which social platform’s bird logo is commonly named after a basketball star?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Snapchat"
+      ],
+      "answer": "Twitter"
+    },
+    {
+      "question_id": 12,
+      "question": "Which brand’s logo evolution included a 1999 redesign by Ruth Kedar for its wordmark?",
+      "options": [
+        "Google",
+        "Yahoo",
+        "Bing"
+      ],
+      "answer": "Google"
+    },
+    {
+      "question_id": 13,
+      "question": "Which clothing brand uses three parallel stripes as a core visual element?",
+      "options": [
+        "Adidas",
+        "Fila",
+        "Under Armour"
+      ],
+      "answer": "Adidas"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city did IKEA originate in?",
+      "options": [
+        "Älmhult",
+        "Stockholm",
+        "Gothenburg"
+      ],
+      "answer": "Älmhult"
+    },
+    {
+      "question_id": 15,
+      "question": "Which coach or architect is credited with designing McDonald's golden arches in the 1950s?",
+      "options": [
+        "Stanley Meston",
+        "Ray Kroc",
+        "Richard McDonald"
+      ],
+      "answer": "Stanley Meston"
+    }
+  ]
+}

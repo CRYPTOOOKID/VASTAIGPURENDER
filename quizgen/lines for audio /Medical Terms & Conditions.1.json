@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which common chronic disease involves progressive airflow limitation and smoking is a main risk?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which condition describes dangerously low oxygen levels in arterial blood?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which anticoagulant mechanism describes how heparin exerts its immediate effect?"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'tachycardia' describe in a basic clinical exam?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metabolic condition presents with abdominal pain, neuropsychiatric symptoms, and elevated porphyrins?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which pulmonary condition shows honeycomb lung and restrictive pattern with reduced lung volumes?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes a sudden blockage of blood flow to the heart muscle?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which clotting factor deficiency characterizes hemophilia A specifically?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which cardiac murmur increases with handgrip maneuver by increasing afterload and regurgitant flow?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'antipyretic' medication primarily reduce in patients?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which scale assesses level of consciousness with eye, verbal, and motor responses?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which electrolyte disturbance prolongs QT interval and risks torsades de pointes when low?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which vitamin deficiency causes scurvy with gum bleeding and poor wound healing?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which antihypertensive medication class blocks angiotensin II receptors directly?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metabolic pathway defect causes phenylketonuria with elevated phenylalanine and neurotoxicity if untreated?"
+    }
+  ]
+}

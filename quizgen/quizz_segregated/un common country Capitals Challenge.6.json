@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Himalayan kingdom's capital is Thimphu, known for preserved traditions?",
+      "options": [
+        "Bhutanese monarchy",
+        "Nepal",
+        "Bhutan"
+      ],
+      "answer": "Bhutan"
+    },
+    {
+      "question_id": 2,
+      "question": "Which West African capital's name begins with an apostrophe-like letter and includes a consonant cluster uncommon in English?",
+      "options": [
+        "N'Djamena",
+        "Ouagadougou",
+        "Niamey"
+      ],
+      "answer": "N'Djamena"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital serves as a ceremonial royal seat for annual cultural festivals and national rites in its kingdom?",
+      "options": [
+        "Gaborone",
+        "Maseru",
+        "Lobamba"
+      ],
+      "answer": "Lobamba"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Saint Vincent and the Grenadines, located on Saint Vincent island?",
+      "options": [
+        "Kingstown",
+        "Bridgetown",
+        "Castries"
+      ],
+      "answer": "Kingstown"
+    },
+    {
+      "question_id": 5,
+      "question": "Which South American capital's historic center is a UNESCO World Heritage site for wooden Dutch architecture?",
+      "options": [
+        "Georgetown",
+        "Sucre",
+        "Paramaribo"
+      ],
+      "answer": "Paramaribo"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital's founding followed the arrival of European traders and later served as a strategic colonial port?",
+      "options": [
+        "Thimphu",
+        "Palikir",
+        "Bissau"
+      ],
+      "answer": "Bissau"
+    },
+    {
+      "question_id": 7,
+      "question": "Which city serves as the capital of Vanuatu, on the island of Efate?",
+      "options": [
+        "Port Vila",
+        "Suva",
+        "Port Moresby"
+      ],
+      "answer": "Port Vila"
+    },
+    {
+      "question_id": 8,
+      "question": "Which capital city shares its name exactly with its country, both in common usage?",
+      "options": [
+        "Panama",
+        "Djibouti",
+        "Guinea"
+      ],
+      "answer": "Djibouti"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital's government sits in a city on an island while the country's principal economic hub lies on the mainland?",
+      "options": [
+        "Bata (Equatorial Guinea)",
+        "Praia (Cabo Verde)",
+        "Malabo (Equatorial Guinea)"
+      ],
+      "answer": "Malabo (Equatorial Guinea)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city is the capital of the Seychelles, located on Mahé island?",
+      "options": [
+        "Port Louis",
+        "Male",
+        "Victoria"
+      ],
+      "answer": "Victoria"
+    },
+    {
+      "question_id": 11,
+      "question": "Which African capital lies at the confluence of two rivers and serves as a gateway to central Sahel regions?",
+      "options": [
+        "N'Djamena",
+        "Ouagadougou",
+        "Niamey"
+      ],
+      "answer": "N'Djamena"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital's name literally translates from the local language as 'where the chiefs meet' in a southern African kingdom?",
+      "options": [
+        "Maseru",
+        "Gaborone",
+        "Lobamba"
+      ],
+      "answer": "Lobamba"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital city of Lesotho, situated at the foothills of the Maluti Mountains?",
+      "options": [
+        "Maseru",
+        "Mbabane",
+        "Gaborone"
+      ],
+      "answer": "Maseru"
+    },
+    {
+      "question_id": 14,
+      "question": "Which African monarchy uses Lobamba for legislative ceremonies while Mbabane handles administration?",
+      "options": [
+        "Lesotho",
+        "Morocco",
+        "Eswatini"
+      ],
+      "answer": "Eswatini"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital was built based on a master plan in a previously undeveloped inland area to reduce coastal vulnerability?",
+      "options": [
+        "Brasília",
+        "Islamabad",
+        "Belmopan"
+      ],
+      "answer": "Belmopan"
+    }
+  ]
+}

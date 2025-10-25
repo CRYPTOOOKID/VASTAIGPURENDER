@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the capital of Maharashtra?",
+        "options": [
+          "Mumbai",
+          "Pune",
+          "Nagpur"
+        ],
+        "answer": "Mumbai"
+      },
+      {
+        "question": "What is the capital of Tamil Nadu?",
+        "options": [
+          "Chennai",
+          "Coimbatore",
+          "Madurai"
+        ],
+        "answer": "Chennai"
+      },
+      {
+        "question": "What is the capital of Karnataka?",
+        "options": [
+          "Bengaluru",
+          "Mysuru",
+          "Hubballi"
+        ],
+        "answer": "Bengaluru"
+      },
+      {
+        "question": "What is the capital of Gujarat?",
+        "options": [
+          "Gandhinagar",
+          "Ahmedabad",
+          "Surat"
+        ],
+        "answer": "Gandhinagar"
+      },
+      {
+        "question": "What is the capital of West Bengal?",
+        "options": [
+          "Kolkata",
+          "Darjeeling",
+          "Durgapur"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "What is the capital of Uttar Pradesh?",
+        "options": [
+          "Lucknow",
+          "Kanpur",
+          "Varanasi"
+        ],
+        "answer": "Lucknow"
+      },
+      {
+        "question": "What is the capital of Bihar?",
+        "options": [
+          "Patna",
+          "Gaya",
+          "Muzaffarpur"
+        ],
+        "answer": "Patna"
+      },
+      {
+        "question": "What is the capital of Kerala?",
+        "options": [
+          "Thiruvananthapuram",
+          "Kochi",
+          "Kozhikode"
+        ],
+        "answer": "Thiruvananthapuram"
+      },
+      {
+        "question": "What is the capital of Odisha?",
+        "options": [
+          "Bhubaneswar",
+          "Cuttack",
+          "Puri"
+        ],
+        "answer": "Bhubaneswar"
+      },
+      {
+        "question": "What is the official capital of Andhra Pradesh?",
+        "options": [
+          "Amaravati",
+          "Visakhapatnam",
+          "Vijayawada"
+        ],
+        "answer": "Amaravati"
+      },
+      {
+        "question": "What is the capital of Telangana?",
+        "options": [
+          "Hyderabad",
+          "Warangal",
+          "Karimnagar"
+        ],
+        "answer": "Hyderabad"
+      },
+      {
+        "question": "What is the capital of Madhya Pradesh?",
+        "options": [
+          "Bhopal",
+          "Indore",
+          "Gwalior"
+        ],
+        "answer": "Bhopal"
+      },
+      {
+        "question": "What is the capital of Rajasthan?",
+        "options": [
+          "Jaipur",
+          "Jodhpur",
+          "Udaipur"
+        ],
+        "answer": "Jaipur"
+      },
+      {
+        "question": "What is the capital of Punjab?",
+        "options": [
+          "Chandigarh",
+          "Amritsar",
+          "Ludhiana"
+        ],
+        "answer": "Chandigarh"
+      },
+      {
+        "question": "What is the capital of Haryana?",
+        "options": [
+          "Chandigarh",
+          "Gurgaon",
+          "Panipat"
+        ],
+        "answer": "Chandigarh"
+      },
+      {
+        "question": "What is the capital of Assam?",
+        "options": [
+          "Dispur",
+          "Guwahati",
+          "Tezpur"
+        ],
+        "answer": "Dispur"
+      },
+      {
+        "question": "What is the capital of Himachal Pradesh?",
+        "options": [
+          "Shimla",
+          "Dharamshala",
+          "Solan"
+        ],
+        "answer": "Shimla"
+      },
+      {
+        "question": "What is the capital of Jharkhand?",
+        "options": [
+          "Ranchi",
+          "Jamshedpur",
+          "Dhanbad"
+        ],
+        "answer": "Ranchi"
+      },
+      {
+        "question": "What is the capital of Chhattisgarh?",
+        "options": [
+          "Raipur",
+          "Bilaspur",
+          "Korba"
+        ],
+        "answer": "Raipur"
+      },
+      {
+        "question": "What is the capital of Goa?",
+        "options": [
+          "Panaji",
+          "Vasco da Gama",
+          "Mapusa"
+        ],
+        "answer": "Panaji"
+      },
+      {
+        "question": "What is the capital of Arunachal Pradesh?",
+        "options": [
+          "Itanagar",
+          "Naharlagun",
+          "Pasighat"
+        ],
+        "answer": "Itanagar"
+      },
+      {
+        "question": "What is the capital of Manipur?",
+        "options": [
+          "Imphal",
+          "Churachandpur",
+          "Thoubal"
+        ],
+        "answer": "Imphal"
+      },
+      {
+        "question": "What is the capital of Meghalaya?",
+        "options": [
+          "Shillong",
+          "Tura",
+          "Jowai"
+        ],
+        "answer": "Shillong"
+      },
+      {
+        "question": "What is the capital of Mizoram?",
+        "options": [
+          "Aizawl",
+          "Lunglei",
+          "Champhai"
+        ],
+        "answer": "Aizawl"
+      },
+      {
+        "question": "What is the capital of Nagaland?",
+        "options": [
+          "Kohima",
+          "Dimapur",
+          "Mokokchung"
+        ],
+        "answer": "Kohima"
+      },
+      {
+        "question": "What is the capital of Tripura?",
+        "options": [
+          "Agartala",
+          "Udaipur",
+          "Kailashahar"
+        ],
+        "answer": "Agartala"
+      },
+      {
+        "question": "What is the capital of Sikkim?",
+        "options": [
+          "Gangtok",
+          "Namchi",
+          "Geyzing"
+        ],
+        "answer": "Gangtok"
+      },
+      {
+        "question": "What is the capital of Uttarakhand?",
+        "options": [
+          "Dehradun",
+          "Haridwar",
+          "Nainital"
+        ],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "What is the summer capital of the former state Jammu and Kashmir?",
+        "options": [
+          "Srinagar",
+          "Jammu",
+          "Anantnag"
+        ],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "What is the national capital territory's administrative capital?",
+        "options": [
+          "New Delhi",
+          "Gurgaon",
+          "Noida"
+        ],
+        "answer": "New Delhi"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which state was carved out of Madhya Pradesh on 1 November 2000?",
+        "options": [
+          "Chhattisgarh",
+          "Jharkhand",
+          "Uttarakhand"
+        ],
+        "answer": "Chhattisgarh"
+      },
+      {
+        "question": "Which capital city was designed by architect Le Corbusier after independence?",
+        "options": [
+          "Chandigarh",
+          "Gandhinagar",
+          "New Delhi"
+        ],
+        "answer": "Chandigarh"
+      },
+      {
+        "question": "Which current state capital served as British India's capital until 1911?",
+        "options": [
+          "Kolkata",
+          "Mumbai",
+          "Chennai"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which Indian state uses Nagpur as a second capital for legislative sessions?",
+        "options": [
+          "Maharashtra",
+          "Karnataka",
+          "Telangana"
+        ],
+        "answer": "Maharashtra"
+      },
+      {
+        "question": "Which capital was planned and established after its state split from Bombay State in 1960?",
+        "options": [
+          "Gandhinagar",
+          "Ahmedabad",
+          "Surat"
+        ],
+        "answer": "Gandhinagar"
+      },
+      {
+        "question": "Which state capital lies on the banks of the Ganges River?",
+        "options": [
+          "Patna",
+          "Ranchi",
+          "Bhopal"
+        ],
+        "answer": "Patna"
+      },
+      {
+        "question": "Which state capital is widely recognized as India's major information technology hub?",
+        "options": [
+          "Bengaluru",
+          "Hyderabad",
+          "Pune"
+        ],
+        "answer": "Bengaluru"
+      },
+      {
+        "question": "Which city's official name changed from Bangalore to Bengaluru in 2006?",
+        "options": [
+          "Bengaluru",
+          "Mysuru",
+          "Hubballi"
+        ],
+        "answer": "Bengaluru"
+      },
+      {
+        "question": "Which northeastern state capital is closest to the India-Bangladesh international border?",
+        "options": [
+          "Agartala",
+          "Shillong",
+          "Guwahati"
+        ],
+        "answer": "Agartala"
+      },
+      {
+        "question": "Which state capital hosts the Vikram Sarabhai Space Centre of ISRO?",
+        "options": [
+          "Thiruvananthapuram",
+          "Bengaluru",
+          "Ahmedabad"
+        ],
+        "answer": "Thiruvananthapuram"
+      },
+      {
+        "question": "Which pair of states share Chandigarh as their common capital?",
+        "options": [
+          "Punjab and Haryana",
+          "Punjab and Himachal Pradesh",
+          "Haryana and Rajasthan"
+        ],
+        "answer": "Punjab and Haryana"
+      },
+      {
+        "question": "Which city was officially renamed from Madras to Chennai in 1996?",
+        "options": [
+          "Chennai",
+          "Coimbatore",
+          "Madurai"
+        ],
+        "answer": "Chennai"
+      },
+      {
+        "question": "Which state capital houses the North Eastern Council headquarters?",
+        "options": [
+          "Shillong",
+          "Guwahati",
+          "Imphal"
+        ],
+        "answer": "Shillong"
+      },
+      {
+        "question": "Which city became the capital of the newly formed Uttarakhand state in 2000?",
+        "options": [
+          "Dehradun",
+          "Nainital",
+          "Haridwar"
+        ],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Which state was created on 15 November 2000 with Ranchi as its capital?",
+        "options": [
+          "Jharkhand",
+          "Chhattisgarh",
+          "Uttarakhand"
+        ],
+        "answer": "Jharkhand"
+      },
+      {
+        "question": "Which coastal state capital sits at the mouth of the Mandovi River?",
+        "options": [
+          "Panaji",
+          "Vasco da Gama",
+          "Mangalore"
+        ],
+        "answer": "Panaji"
+      },
+      {
+        "question": "Which city served as the capital of the Bombay Presidency and later became a state capital?",
+        "options": [
+          "Mumbai",
+          "Surat",
+          "Poona"
+        ],
+        "answer": "Mumbai"
+      },
+      {
+        "question": "Which city became the capital of Telangana when the state formed in 2014?",
+        "options": [
+          "Hyderabad",
+          "Warangal",
+          "Nizamabad"
+        ],
+        "answer": "Hyderabad"
+      },
+      {
+        "question": "Which state capital is located on an island in the Arabian Sea and serves a union territory as well?",
+        "options": [
+          "Panaji",
+          "Kavaratti",
+          "Port Blair"
+        ],
+        "answer": "Kavaratti"
+      },
+      {
+        "question": "Which capital was chosen as a new administrative center after partition of Bombay State in 1960?",
+        "options": [
+          "Gandhinagar",
+          "Ahmedabad",
+          "Vadodara"
+        ],
+        "answer": "Gandhinagar"
+      },
+      {
+        "question": "Which state capital hosts the headquarters of the Eastern Naval Command nearby?",
+        "options": [
+          "Visakhapatnam",
+          "Vijayawada",
+          "Rajahmundry"
+        ],
+        "answer": "Visakhapatnam"
+      },
+      {
+        "question": "Which city serves as Assam's legislative capital while its largest city is Guwahati?",
+        "options": [
+          "Dispur",
+          "Guwahati",
+          "Tezpur"
+        ],
+        "answer": "Dispur"
+      },
+      {
+        "question": "Which capital city is nearest to the Sundarbans mangrove delta?",
+        "options": [
+          "Kolkata",
+          "Bhubaneswar",
+          "Patna"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which capital was officially renamed from Calcutta to Kolkata in 2001?",
+        "options": [
+          "Kolkata",
+          "Howrah",
+          "Durgapur"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which state capital is located at the foot of the Western Ghats and is a major spice trade center?",
+        "options": [
+          "Thiruvananthapuram",
+          "Panaji",
+          "Kochi"
+        ],
+        "answer": "Thiruvananthapuram"
+      },
+      {
+        "question": "Which capital city lies near the ancient Buddhist site of Sarnath in its state?",
+        "options": [
+          "Lucknow",
+          "Varanasi",
+          "Kanpur"
+        ],
+        "answer": "Varanasi"
+      },
+      {
+        "question": "Which eastern state capital became an administrative seat after reorganization in 1950s?",
+        "options": [
+          "Bhubaneswar",
+          "Cuttack",
+          "Puri"
+        ],
+        "answer": "Bhubaneswar"
+      },
+      {
+        "question": "Which state capital hosts a major annual kite festival on its seafront?",
+        "options": [
+          "Ahmedabad",
+          "Mumbai",
+          "Chennai"
+        ],
+        "answer": "Ahmedabad"
+      },
+      {
+        "question": "Which state capital is closest to the famous Buddhist ruins of Sanchi?",
+        "options": [
+          "Bhopal",
+          "Indore",
+          "Gwalior"
+        ],
+        "answer": "Bhopal"
+      },
+      {
+        "question": "Which capital city serves as the seat of the IT and aerospace industries in Karnataka?",
+        "options": [
+          "Bengaluru",
+          "Mysuru",
+          "Hubballi"
+        ],
+        "answer": "Bengaluru"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which Indian state capital has the highest elevation above sea level among state capitals?",
+        "options": [
+          "Shimla",
+          "Gangtok",
+          "Leh"
+        ],
+        "answer": "Shimla"
+      },
+      {
+        "question": "Which capital's name literally translates as 'City of Lord Ananta' in the local language?",
+        "options": [
+          "Thiruvananthapuram",
+          "Tirupati",
+          "Trivandrum"
+        ],
+        "answer": "Thiruvananthapuram"
+      },
+      {
+        "question": "Which state capital was established on a marshy plain and planned after independence as a new administrative center?",
+        "options": [
+          "Gandhinagar",
+          "New Delhi",
+          "Bengaluru"
+        ],
+        "answer": "Gandhinagar"
+      },
+      {
+        "question": "Which capital city served as the seasonal summer capital for the rulers of a princely state and now is state capital?",
+        "options": [
+          "Shimla",
+          "Mussoorie",
+          "Nainital"
+        ],
+        "answer": "Shimla"
+      },
+      {
+        "question": "Which state capital district contains a UNESCO World Heritage Sun Temple at nearby Konark?",
+        "options": [
+          "Bhubaneswar",
+          "Puri",
+          "Cuttack"
+        ],
+        "answer": "Bhubaneswar"
+      },
+      {
+        "question": "Which capital city hosted the first session of the Constituent Assembly in its region during pre-independence years?",
+        "options": [
+          "Chennai",
+          "Kolkata",
+          "Mumbai"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which capital city is nearest to India’s easternmost permanently inhabited point in the mainland?",
+        "options": [
+          "Itanagar",
+          "Imphal",
+          "Aizawl"
+        ],
+        "answer": "Itanagar"
+      },
+      {
+        "question": "Which capital was briefly the British Raj's administrative center before it moved in 1911?",
+        "options": [
+          "Kolkata",
+          "Mumbai",
+          "Chennai"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which capital city is home to the Indian Institute of Science and several premier aerospace facilities?",
+        "options": [
+          "Bengaluru",
+          "Hyderabad",
+          "Chennai"
+        ],
+        "answer": "Bengaluru"
+      },
+      {
+        "question": "Which capital's modern layout was influenced by Pierre Jeanneret’s collaboration after Le Corbusier?",
+        "options": [
+          "Chandigarh",
+          "Gandhinagar",
+          "New Delhi"
+        ],
+        "answer": "Chandigarh"
+      },
+      {
+        "question": "Which state capital has a legislative assembly session shifted seasonally to a second city by convention?",
+        "options": [
+          "Maharashtra",
+          "West Bengal",
+          "Tamil Nadu"
+        ],
+        "answer": "Maharashtra"
+      },
+      {
+        "question": "Which capital was the administrative seat of the ancient Kalinga kingdom region?",
+        "options": [
+          "Bhubaneswar",
+          "Puri",
+          "Cuttack"
+        ],
+        "answer": "Bhubaneswar"
+      },
+      {
+        "question": "Which capital hosts the headquarters of the Indian Navy's Eastern Command nearby?",
+        "options": [
+          "Visakhapatnam",
+          "Kochi",
+          "Mumbai"
+        ],
+        "answer": "Visakhapatnam"
+      },
+      {
+        "question": "Which state capital became a focal point of India's textile industry and colonial trade in the 19th century?",
+        "options": [
+          "Surat",
+          "Mumbai",
+          "Ahmedabad"
+        ],
+        "answer": "Ahmedabad"
+      },
+      {
+        "question": "Which capital's metropolitan area includes an ancient port historically known as Muziris?",
+        "options": [
+          "Kochi",
+          "Thiruvananthapuram",
+          "Chennai"
+        ],
+        "answer": "Kochi"
+      },
+      {
+        "question": "Which state capital's official language name was changed to reflect local pronunciation in a 21st-century renaming?",
+        "options": [
+          "Kolkata",
+          "Mumbai",
+          "Bengaluru"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which capital city is nearest to the archaeological site associated with Emperor Ashoka's edicts in Dhauli?",
+        "options": [
+          "Bhubaneswar",
+          "Cuttack",
+          "Berhampur"
+        ],
+        "answer": "Bhubaneswar"
+      },
+      {
+        "question": "Which state capital was built near an ancient temple city and now serves as its modern administrative center?",
+        "options": [
+          "Thiruvananthapuram",
+          "Tiruchirappalli",
+          "Bhubaneswar"
+        ],
+        "answer": "Thiruvananthapuram"
+      },
+      {
+        "question": "Which capital city became the seat of a newly formed union territory's administration after 2019 reorganization?",
+        "options": [
+          "Srinagar",
+          "Jammu",
+          "Leh"
+        ],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "Which state capital hosts one of the country's major education hubs, including an Institute of National Importance?",
+        "options": [
+          "Bengaluru",
+          "Lucknow",
+          "Patna"
+        ],
+        "answer": "Bengaluru"
+      },
+      {
+        "question": "Which state capital lies nearest to India’s westernmost point in the mainland?",
+        "options": [
+          "Gandhinagar",
+          "Panaji",
+          "Mumbai"
+        ],
+        "answer": "Gandhinagar"
+      },
+      {
+        "question": "Which capital city has a name derived from the local language phrase meaning 'hill of the goddess'?",
+        "options": [
+          "Gangtok",
+          "Shimla",
+          "Gangapur"
+        ],
+        "answer": "Gangtok"
+      },
+      {
+        "question": "Which capital was part of the ancient Kakatiya kingdom and later became a major medieval city in its region?",
+        "options": [
+          "Warangal",
+          "Hyderabad",
+          "Karimnagar"
+        ],
+        "answer": "Warangal"
+      },
+      {
+        "question": "Which coastal capital is closest to India’s second-largest mangrove region after the Sundarbans?",
+        "options": [
+          "Bhubaneswar",
+          "Visakhapatnam",
+          "Kochi"
+        ],
+        "answer": "Visakhapatnam"
+      },
+      {
+        "question": "Which capital city historically served as the headquarters for a major princely state's administration?",
+        "options": [
+          "Jaipur",
+          "Bhopal",
+          "Shillong"
+        ],
+        "answer": "Jaipur"
+      },
+      {
+        "question": "Which capital saw a major planned relocation from a colonial-era capital in the mid-20th century?",
+        "options": [
+          "Chandigarh",
+          "Gandhinagar",
+          "Bhopal"
+        ],
+        "answer": "Chandigarh"
+      },
+      {
+        "question": "Which state capital has a significant colonial-era heritage area centered around the Marina promenade?",
+        "options": [
+          "Chennai",
+          "Kolkata",
+          "Mumbai"
+        ],
+        "answer": "Chennai"
+      },
+      {
+        "question": "Which capital city contains a major ancient university site associated with classical Indian learning traditions?",
+        "options": [
+          "Varanasi",
+          "Bhubaneswar",
+          "Pune"
+        ],
+        "answer": "Varanasi"
+      },
+      {
+        "question": "Which capital's surrounding region contains prominent rock-cut Buddhist monuments dating to early centuries CE?",
+        "options": [
+          "Aurangabad",
+          "Bhubaneswar",
+          "Lucknow"
+        ],
+        "answer": "Aurangabad"
+      },
+      {
+        "question": "Which state capital's port became a key strategic naval base during World War II and remains important today?",
+        "options": [
+          "Visakhapatnam",
+          "Kochi",
+          "Mumbai"
+        ],
+        "answer": "Visakhapatnam"
+      }
+    ]
+  }
+}

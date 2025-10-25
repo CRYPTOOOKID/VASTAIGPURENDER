@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which law describes the relationship between pressure, temperature, and volume for gases at low density?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which scientific law explains how reaction rates depend on concentration and rate constants?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which empirical law relates stellar luminosity roughly to a power of stellar mass on the main sequence?"
+    },
+    {
+      "question_id": 4,
+      "question": "What law relates the force needed to extend or compress a spring to the displacement?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which law in thermodynamics states entropy approaches a constant as temperature approaches absolute zero?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which concept explains anomalies in planetary precession resolved by general relativity?"
+    },
+    {
+      "question_id": 7,
+      "question": "What theory explains why solids, liquids, and gases have different macroscopic behavior from particle motion?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who formulated the laws of planetary motion using Tycho Brahe's observations?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which relation predicts the entropy of an ideal gas in terms of volume, energy, and particle number constants?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which law explains that pressure in a fluid decreases as the speed of the fluid increases?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which empirical law approximates the relation between pressure and vapor pressure of a solution?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which law quantifies tunneling decay rates in nuclear alpha decay using barrier penetration?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which theory established that cells are the basic unit of life?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which law describes how osmotic pressure depends on solute concentration and temperature?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which law describes the empirical steep power-law relation in many natural networks and distributions?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which video rental chain filed for bankruptcy in 2010 as streaming services grew?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which handheld gaming device introduced in 1994 competed directly with the Sega Game Gear and failed commercially?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which infamous dot-com company offered free trial delivery but collapsed after high logistics costs in 2001?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which dot-com era company used a sock puppet mascot and collapsed during 2000?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which soda's return to its original formula followed public rejection of a 1985 reformulation?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Microsoft acquisition of a mobile phone maker cost about $7.2 billion and failed to revive Windows Phone?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which HP tablet running webOS launched in 2011 then got discontinued after poor sales?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which company's camera division succeeded after pivoting while Kodak declined in digital transition?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company used the tagline 'We try harder' and later shuttered under bankruptcy pressures from online competition?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which high-profile health startup was exposed for fraudulent blood-testing technology?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which video game company left console hardware in 2001 after Dreamcast discontinuation?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which auditing firm was implicated and destroyed due to shredding documents related to Enron in 2001?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which smartphone by Amazon launched in 2014 and failed to attract mainstream buyers?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which dot-com grocery startup spent heavily on infrastructure before collapsing in 2001?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which failed consumer product by Google targeted social sharing but was discontinued after privacy and adoption issues?"
+    }
+  ]
+}

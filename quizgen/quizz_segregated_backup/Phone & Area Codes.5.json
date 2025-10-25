@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which country uses the country calling code +33?",
+      "options": [
+        "France",
+        "Finland",
+        "Fiji"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country uses prefix +27 for international calls?",
+      "options": [
+        "South Africa",
+        "Sweden",
+        "Saudi Arabia"
+      ],
+      "answer": "South Africa"
+    },
+    {
+      "question_id": 3,
+      "question": "What does the acronym NPAC specifically manage in North America?",
+      "options": [
+        "The database supporting number portability routing",
+        "International dialing code assignments",
+        "Emergency services number allocations"
+      ],
+      "answer": "The database supporting number portability routing"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country calling code belongs to the United Kingdom?",
+      "options": [
+        "+44",
+        "+49",
+        "+45"
+      ],
+      "answer": "+44"
+    },
+    {
+      "question_id": 5,
+      "question": "What does the NXX pattern represent in NANP structure?",
+      "options": [
+        "Exchange code digits following the area code",
+        "Country code followed by area code",
+        "International prefix encoding"
+      ],
+      "answer": "Exchange code digits following the area code"
+    },
+    {
+      "question_id": 6,
+      "question": "Which ITU region document lists assigned country calling codes globally?",
+      "options": [
+        "The ITU Operational Bulletin and E.164 assignments",
+        "The IETF RFC phone registry",
+        "The ISO country code annex"
+      ],
+      "answer": "The ITU Operational Bulletin and E.164 assignments"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a vanity phone number?",
+      "options": [
+        "A number that spells a word or brand name",
+        "A number reserved for government use",
+        "A number that changes monthly"
+      ],
+      "answer": "A number that spells a word or brand name"
+    },
+    {
+      "question_id": 8,
+      "question": "Which area code is associated with Miami, Florida?",
+      "options": [
+        "305",
+        "212",
+        "617"
+      ],
+      "answer": "305"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country uses the unusual international dialing code +672 for remote territories?",
+      "options": [
+        "Australian external territories (e.g., Norfolk Island)",
+        "A special ITU experimental code",
+        "A code reserved for Antarctica only"
+      ],
+      "answer": "Australian external territories (e.g., Norfolk Island)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses the country calling code +86?",
+      "options": [
+        "China",
+        "Canada",
+        "Chile"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 11,
+      "question": "Which NANP restriction applies to the N (first) digit of central office codes (NXX)?",
+      "options": [
+        "Must be 2 through 9",
+        "Must be 0 or 1",
+        "Must be 5 through 9"
+      ],
+      "answer": "Must be 2 through 9"
+    },
+    {
+      "question_id": 12,
+      "question": "Which country uses calling code +353?",
+      "options": [
+        "Ireland",
+        "Iceland",
+        "Israel"
+      ],
+      "answer": "Ireland"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country uses the country calling code +1?",
+      "options": [
+        "United States and other NANP countries",
+        "United Kingdom",
+        "India"
+      ],
+      "answer": "United States and other NANP countries"
+    },
+    {
+      "question_id": 14,
+      "question": "Which of these is a North American toll-free area code?",
+      "options": [
+        "888",
+        "404",
+        "509"
+      ],
+      "answer": "888"
+    },
+    {
+      "question_id": 15,
+      "question": "Which North American area code introduced mandatory ten-digit dialing due to the 988 hotline implementation?",
+      "options": [
+        "Any area code with overlapping 10-digit conflicts implemented 988",
+        "Only area codes starting with 9",
+        "Only toll-free area codes"
+      ],
+      "answer": "Any area code with overlapping 10-digit conflicts implemented 988"
+    }
+  ]
+}

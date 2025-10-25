@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the minimum age required to be elected to Lok Sabha?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "answer": "25 years"
+    },
+    {
+      "question_id": 2,
+      "question": "Which amendment added the words 'socialist' and 'secular' to the Preamble?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "61st Amendment"
+      ],
+      "answer": "42nd Amendment"
+    },
+    {
+      "question_id": 3,
+      "question": "Which constitutional bench decision upheld the basic structure doctrine?",
+      "options": [
+        "Kesavananda Bharati judgment",
+        "Golaknath judgment",
+        "S. R. Bommai judgment"
+      ],
+      "answer": "Kesavananda Bharati judgment"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the tenure of a Rajya Sabha member?",
+      "options": [
+        "6 years",
+        "5 years",
+        "4 years"
+      ],
+      "answer": "6 years"
+    },
+    {
+      "question_id": 5,
+      "question": "Who became the first woman Chief Minister in independent India?",
+      "options": [
+        "Sucheta Kripalani",
+        "Indira Gandhi",
+        "Vijaya Lakshmi Pandit"
+      ],
+      "answer": "Sucheta Kripalani"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Lok Sabha election gave Congress its largest seat tally historically (404 seats)?",
+      "options": [
+        "1984 general election",
+        "1971 general election",
+        "1962 general election"
+      ],
+      "answer": "1984 general election"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the minimum age to hold the office of President of India?",
+      "options": [
+        "35 years",
+        "30 years",
+        "40 years"
+      ],
+      "answer": "35 years"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Finance Minister led the 1991 macroeconomic stabilization reforms?",
+      "options": [
+        "Dr. Manmohan Singh",
+        "P. Chidambaram",
+        "Yashwant Sinha"
+      ],
+      "answer": "Dr. Manmohan Singh"
+    },
+    {
+      "question_id": 9,
+      "question": "Which leader chaired the Committee on Centre–State relations after 2007?",
+      "options": [
+        "Punchhi Commission",
+        "Sarkaria Commission",
+        "K. Kasturirangan Committee"
+      ],
+      "answer": "Punchhi Commission"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is India’s head of state under the Constitution?",
+      "options": [
+        "President of India",
+        "Prime Minister",
+        "Chief Justice of India"
+      ],
+      "answer": "President of India"
+    },
+    {
+      "question_id": 11,
+      "question": "Which leader founded the Swatantra Party as a classical-liberal alternative?",
+      "options": [
+        "C. Rajagopalachari",
+        "K. Kamaraj",
+        "S. Nijalingappa"
+      ],
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Article allows the President to proclaim a national emergency?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 368"
+      ],
+      "answer": "Article 352"
+    },
+    {
+      "question_id": 13,
+      "question": "Who was the first Prime Minister of independent India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "B. R. Ambedkar"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Prime Minister popularized the slogan 'Garibi Hatao'?",
+      "options": [
+        "Indira Gandhi",
+        "Lal Bahadur Shastri",
+        "Morarji Desai"
+      ],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question_id": 15,
+      "question": "Who served as Prime Minister for 13 days following the 1996 general election?",
+      "options": [
+        "Atal Bihari Vajpayee",
+        "H. D. Deve Gowda",
+        "IK Gujral"
+      ],
+      "answer": "Atal Bihari Vajpayee"
+    }
+  ]
+}

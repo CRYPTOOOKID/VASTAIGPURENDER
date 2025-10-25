@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which script is an abugida where consonant letters carry an inherent vowel?",
+      "options": [
+        "Arabic",
+        "Devanagari",
+        "Latin"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 2,
+      "question": "Which inventory of letters forms the International Morse alphabet for telegraphy?",
+      "options": [
+        "Seven-bit numeric codes",
+        "Tactile raised-dot patterns",
+        "Dot-and-dash signals mapped to letters"
+      ],
+      "answer": "Dot-and-dash signals mapped to letters"
+    },
+    {
+      "question_id": 3,
+      "question": "Which scholar is credited with early systematic description of binary correlating to 0 and 1 symbolism?",
+      "options": [
+        "John Napier",
+        "Gottfried Wilhelm Leibniz",
+        "Brahmagupta"
+      ],
+      "answer": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "question_id": 4,
+      "question": "Which medieval mathematician introduced Hindu-Arabic numerals to Europe in Liber Abaci?",
+      "options": [
+        "Euclid",
+        "Cardano",
+        "Fibonacci"
+      ],
+      "answer": "Fibonacci"
+    },
+    {
+      "question_id": 5,
+      "question": "Which numeric notation did Europeans largely adopt after Fibonacci's book Liber Abaci?",
+      "options": [
+        "Hindu-Arabic numerals",
+        "Roman numerals",
+        "Tally marks"
+      ],
+      "answer": "Hindu-Arabic numerals"
+    },
+    {
+      "question_id": 6,
+      "question": "Which medieval numeral system used letters of the alphabet as numbers in Greek practice?",
+      "options": [
+        "Greek alphanumeric system",
+        "Roman numerals",
+        "Hebrew gematria only"
+      ],
+      "answer": "Greek alphanumeric system"
+    },
+    {
+      "question_id": 7,
+      "question": "Which numeral system did ancient Mesopotamians use that influences modern time measurement?",
+      "options": [
+        "Duodecimal",
+        "Sexagesimal",
+        "Binary"
+      ],
+      "answer": "Sexagesimal"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the canonical name for the Unicode block containing basic Latin letters?",
+      "options": [
+        "Latin Extended-A",
+        "Supplemental Latin",
+        "Basic Latin"
+      ],
+      "answer": "Basic Latin"
+    },
+    {
+      "question_id": 9,
+      "question": "Which script family includes Devanagari and uses inherent vowel signs on consonants?",
+      "options": [
+        "Brahmic scripts",
+        "Uralic scripts",
+        "Cyrillic family"
+      ],
+      "answer": "Brahmic scripts"
+    },
+    {
+      "question_id": 10,
+      "question": "Which numeric prefix indicates a base of twelve in numeral systems?",
+      "options": [
+        "Senary",
+        "Duodecimal",
+        "Quaternary"
+      ],
+      "answer": "Duodecimal"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script classifies vowels as diacritics attached to consonant symbols?",
+      "options": [
+        "Abugida",
+        "Logographic",
+        "Featural alphabet"
+      ],
+      "answer": "Abugida"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Unicode plane contains the Basic Multilingual Plane covering U+0000 to U+FFFF?",
+      "options": [
+        "Plane 0",
+        "Plane 1",
+        "Plane 2"
+      ],
+      "answer": "Plane 0"
+    },
+    {
+      "question_id": 13,
+      "question": "Which numeral system uses digits 0–9 and letters A–F to represent values?",
+      "options": [
+        "Duodecimal",
+        "Hexadecimal",
+        "Sexagesimal"
+      ],
+      "answer": "Hexadecimal"
+    },
+    {
+      "question_id": 14,
+      "question": "Which early numeric artifact shows a positional sexagesimal system on clay tablets?",
+      "options": [
+        "Babylonian tablet",
+        "Roman stone inscription",
+        "Mayan stela"
+      ],
+      "answer": "Babylonian tablet"
+    },
+    {
+      "question_id": 15,
+      "question": "Which notation uses marks over numerals to indicate multiplication by powers of one thousand in Roman practice?",
+      "options": [
+        "Subscript notation",
+        "Apostrophus marking",
+        "Vinculum or overline notation"
+      ],
+      "answer": "Vinculum or overline notation"
+    }
+  ]
+}

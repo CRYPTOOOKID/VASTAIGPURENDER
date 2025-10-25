@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which company makes the iPhone and MacBook product lines?",
+        "options": [
+          "Apple",
+          "Samsung",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Who founded Amazon in 1994?",
+        "options": [
+          "Jeff Bezos",
+          "Elon Musk",
+          "Steve Jobs"
+        ],
+        "answer": "Jeff Bezos"
+      },
+      {
+        "question": "Which company owns the Google search engine brand?",
+        "options": [
+          "Alphabet",
+          "Microsoft",
+          "Yahoo"
+        ],
+        "answer": "Alphabet"
+      },
+      {
+        "question": "Which company created the Windows operating system?",
+        "options": [
+          "Microsoft",
+          "Apple",
+          "IBM"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which social network started at Harvard University in 2004?",
+        "options": [
+          "Facebook",
+          "Twitter",
+          "LinkedIn"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Which company produces the electric cars Model S, 3, X, and Y?",
+        "options": [
+          "Tesla",
+          "Ford",
+          "Toyota"
+        ],
+        "answer": "Tesla"
+      },
+      {
+        "question": "Which company operates the Prime membership program?",
+        "options": [
+          "Amazon",
+          "Walmart",
+          "eBay"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company runs the iOS App Store?",
+        "options": [
+          "Apple",
+          "Google",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company acquired WhatsApp in 2014?",
+        "options": [
+          "Meta",
+          "Google",
+          "Tencent"
+        ],
+        "answer": "Meta"
+      },
+      {
+        "question": "Which company is headquartered in Seattle and leads large cloud services?",
+        "options": [
+          "Amazon",
+          "Google",
+          "Apple"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company launched the iPad tablet in 2010?",
+        "options": [
+          "Apple",
+          "Samsung",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company owns LinkedIn after a 2016 acquisition?",
+        "options": [
+          "Microsoft",
+          "Facebook",
+          "Oracle"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which Chinese company operates the messaging app WeChat?",
+        "options": [
+          "Tencent",
+          "Alibaba",
+          "Baidu"
+        ],
+        "answer": "Tencent"
+      },
+      {
+        "question": "Which online retailer originally sold books and later diversified worldwide?",
+        "options": [
+          "Amazon",
+          "Barnes & Noble",
+          "eBay"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company created the Bing search engine?",
+        "options": [
+          "Microsoft",
+          "Yahoo",
+          "Google"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company develops the Android operating system?",
+        "options": [
+          "Google",
+          "Microsoft",
+          "Samsung"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which company reported the largest social network by monthly users?",
+        "options": [
+          "Meta (Facebook)",
+          "TikTok",
+          "Twitter"
+        ],
+        "answer": "Meta (Facebook)"
+      },
+      {
+        "question": "Which company launched the Kindle e-reader series?",
+        "options": [
+          "Amazon",
+          "Kobo",
+          "Barnes & Noble"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company produces the PlayStation gaming consoles?",
+        "options": [
+          "Sony",
+          "Microsoft",
+          "Nintendo"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which company operates the Visa card payment network?",
+        "options": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "answer": "Visa"
+      },
+      {
+        "question": "Which company produces MacBook laptops?",
+        "options": [
+          "Apple",
+          "Dell",
+          "Lenovo"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company began in a Palo Alto garage in 1939, later shaping Silicon Valley?",
+        "options": [
+          "Hewlett-Packard",
+          "Apple",
+          "IBM"
+        ],
+        "answer": "Hewlett-Packard"
+      },
+      {
+        "question": "Which Chinese e-commerce giant was founded by Jack Ma?",
+        "options": [
+          "Alibaba",
+          "JD.com",
+          "Pinduoduo"
+        ],
+        "answer": "Alibaba"
+      },
+      {
+        "question": "Which company acquired Instagram in 2012 for about $1 billion?",
+        "options": [
+          "Facebook",
+          "Google",
+          "Twitter"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Which sporting brand uses the slogan \"Just Do It\"?",
+        "options": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which company pioneered subscription streaming with series like House of Cards?",
+        "options": [
+          "Netflix",
+          "Hulu",
+          "Amazon Prime Video"
+        ],
+        "answer": "Netflix"
+      },
+      {
+        "question": "Which retailer is the world's largest by revenue?",
+        "options": [
+          "Walmart",
+          "Amazon",
+          "Costco"
+        ],
+        "answer": "Walmart"
+      },
+      {
+        "question": "Which company created Microsoft Excel spreadsheet software?",
+        "options": [
+          "Microsoft",
+          "Lotus",
+          "Apple"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which ride-hailing company launched in 2009 and expanded worldwide?",
+        "options": [
+          "Uber",
+          "Lyft",
+          "Didi"
+        ],
+        "answer": "Uber"
+      }
+    ],
+    "medium": [
+      {
+        "question": "In which year did Amazon purchase Whole Foods Market?",
+        "options": [
+          "2016",
+          "2017",
+          "2018"
+        ],
+        "answer": "2017"
+      },
+      {
+        "question": "Which company acquired WhatsApp for about $19 billion in 2014?",
+        "options": [
+          "Facebook",
+          "Google",
+          "Microsoft"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Which company bought YouTube in 2006 for approximately $1.65 billion?",
+        "options": [
+          "Google",
+          "Yahoo",
+          "MySpace"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which company raised roughly $16 billion in its 2012 IPO?",
+        "options": [
+          "Facebook",
+          "LinkedIn",
+          "Twitter"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "Which company acquired LinkedIn for $26.2 billion in 2016?",
+        "options": [
+          "Microsoft",
+          "Oracle",
+          "Salesforce"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company was the first U.S. firm to reach a $1 trillion market cap?",
+        "options": [
+          "Apple",
+          "Microsoft",
+          "Amazon"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which big tech restructured under the parent name Alphabet in 2015?",
+        "options": [
+          "Google",
+          "Yahoo",
+          "IBM"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which company released the PlayStation 5 in 2020?",
+        "options": [
+          "Sony",
+          "Microsoft",
+          "Nintendo"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which company announced acquisition of MGM for $8.45 billion in 2021?",
+        "options": [
+          "Amazon",
+          "Warner Bros.",
+          "Netflix"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which cloud service did Amazon launch in 2006 that transformed corporate IT?",
+        "options": [
+          "AWS",
+          "Azure",
+          "Google Cloud"
+        ],
+        "answer": "AWS"
+      },
+      {
+        "question": "Which company spun off PayPal as an independent public company in 2015?",
+        "options": [
+          "eBay",
+          "Yahoo",
+          "Amazon"
+        ],
+        "answer": "eBay"
+      },
+      {
+        "question": "Which company bought Beats Electronics for about $3 billion in 2014?",
+        "options": [
+          "Apple",
+          "Sony",
+          "Samsung"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company acquired Pixar in 2006, integrating it into a larger entertainment group?",
+        "options": [
+          "Disney",
+          "Viacom",
+          "Warner Bros."
+        ],
+        "answer": "Disney"
+      },
+      {
+        "question": "Which streaming company used a direct listing to go public in 2018?",
+        "options": [
+          "Spotify",
+          "Snap",
+          "Palantir"
+        ],
+        "answer": "Spotify"
+      },
+      {
+        "question": "Which company agreed to buy Activision Blizzard for about $68.7 billion in 2022?",
+        "options": [
+          "Microsoft",
+          "Sony",
+          "EA"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company founded by Reed Hastings disrupted television with original streaming content?",
+        "options": [
+          "Netflix",
+          "Amazon",
+          "Hulu"
+        ],
+        "answer": "Netflix"
+      },
+      {
+        "question": "Which company launched its first iPhone in 2007, reshaping smartphones?",
+        "options": [
+          "Apple",
+          "Nokia",
+          "BlackBerry"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company uses headquarters in Cupertino, California?",
+        "options": [
+          "Apple",
+          "Google",
+          "Facebook"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which Chinese company is often called the 'Amazon of China'?",
+        "options": [
+          "Alibaba",
+          "Baidu",
+          "Tencent"
+        ],
+        "answer": "Alibaba"
+      },
+      {
+        "question": "Which company acquired GitHub for $7.5 billion in 2018?",
+        "options": [
+          "Microsoft",
+          "Google",
+          "IBM"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company popularized the smartphone app marketplace on Android devices?",
+        "options": [
+          "Google Play",
+          "Apple App Store",
+          "Amazon Appstore"
+        ],
+        "answer": "Google Play"
+      },
+      {
+        "question": "Which company launched its major electric vehicle Roadster in 2008?",
+        "options": [
+          "Tesla",
+          "Nissan",
+          "Chevrolet"
+        ],
+        "answer": "Tesla"
+      },
+      {
+        "question": "Which company's founder famously started the firm in a Seattle garage named 'Cadabra'? ",
+        "options": [
+          "Amazon",
+          "Microsoft",
+          "Starbucks"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company acquired Whole Foods to expand grocery and logistics capabilities?",
+        "options": [
+          "Amazon",
+          "Kroger",
+          "Walmart"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company developed the original iPod in 2001 that influenced digital music?",
+        "options": [
+          "Apple",
+          "Sony",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company owns the domain 'relentless.com' as an early brand experiment?",
+        "options": [
+          "Amazon",
+          "eBay",
+          "Yahoo"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company purchased LinkedIn to strengthen professional software and cloud offerings?",
+        "options": [
+          "Microsoft",
+          "Google",
+          "Salesforce"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company launched Shopify to help merchants build online stores starting in 2006?",
+        "options": [
+          "Shopify",
+          "Magento",
+          "BigCommerce"
+        ],
+        "answer": "Shopify"
+      },
+      {
+        "question": "Which company operates the advertising platform AdSense and AdWords?",
+        "options": [
+          "Google",
+          "Facebook",
+          "Microsoft"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which company introduced the concept of a smartphone app marketplace for iOS in 2008?",
+        "options": [
+          "Apple",
+          "Google",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which early Amazon name did Jeff Bezos consider before renaming it Amazon?",
+        "options": [
+          "Cadabra",
+          "ShopNow",
+          "BookWorld"
+        ],
+        "answer": "Cadabra"
+      },
+      {
+        "question": "Which company went public via a direct listing on the NYSE in April 2018?",
+        "options": [
+          "Spotify",
+          "Snap",
+          "Dropbox"
+        ],
+        "answer": "Spotify"
+      },
+      {
+        "question": "Which company did Microsoft acquire in 2018 for $7.5 billion to embrace open source?",
+        "options": [
+          "GitHub",
+          "Red Hat",
+          "MongoDB"
+        ],
+        "answer": "GitHub"
+      },
+      {
+        "question": "Which company led the creation of EC2, launching the modern public cloud in 2006?",
+        "options": [
+          "Amazon",
+          "Google",
+          "IBM"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company announced a takeover bid for ARM in 2020 valued at around $40 billion?",
+        "options": [
+          "Nvidia",
+          "Intel",
+          "AMD"
+        ],
+        "answer": "Nvidia"
+      },
+      {
+        "question": "Which company completed an $8.45 billion acquisition of MGM Studios in 2022?",
+        "options": [
+          "Amazon",
+          "Apple",
+          "Netflix"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company’s founder originally chose the domain 'relentless.com' before settling on Amazon?",
+        "options": [
+          "Amazon",
+          "eBay",
+          "Shopify"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company became the first to surpass a $2 trillion market valuation in 2020?",
+        "options": [
+          "Apple",
+          "Microsoft",
+          "Amazon"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company's initial public offering in 2019 was one of the largest U.S. tech IPOs with about $8.1 billion?",
+        "options": [
+          "Uber",
+          "Lyft",
+          "Airbnb"
+        ],
+        "answer": "Uber"
+      },
+      {
+        "question": "Which company acquired LinkedIn to integrate enterprise social and cloud services in 2016?",
+        "options": [
+          "Microsoft",
+          "Oracle",
+          "Salesforce"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company purchased WhatsApp and Instagram to bolster its mobile messaging and social presence?",
+        "options": [
+          "Meta",
+          "Google",
+          "Tencent"
+        ],
+        "answer": "Meta"
+      },
+      {
+        "question": "Which company’s name was inspired by the Amazon River to convey size and scope?",
+        "options": [
+          "Amazon",
+          "RiverTech",
+          "Blue Nile Inc."
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company pioneered the app-store model on iOS and established a 70/30 revenue split?",
+        "options": [
+          "Apple",
+          "Google",
+          "Microsoft"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company announced a $68.7 billion acquisition of Activision Blizzard before regulatory delays?",
+        "options": [
+          "Microsoft",
+          "Sony",
+          "Tencent"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company acquired Beats, gaining a headphone brand and streaming service integration?",
+        "options": [
+          "Apple",
+          "Samsung",
+          "Sony"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company first introduced the concept of 'Prime Day' as a global shopping event?",
+        "options": [
+          "Amazon",
+          "Walmart",
+          "Alibaba"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which company founded by Marc Benioff built a dominant enterprise CRM with a cloud-first model?",
+        "options": [
+          "Salesforce",
+          "Oracle",
+          "SAP"
+        ],
+        "answer": "Salesforce"
+      },
+      {
+        "question": "Which company purchased YouTube in 2006, integrating video into its advertising ecosystem?",
+        "options": [
+          "Google",
+          "Microsoft",
+          "Yahoo"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which company’s original founders met at Stanford and launched it in a garage in 1998?",
+        "options": [
+          "Google",
+          "Yahoo",
+          "Cisco"
+        ],
+        "answer": "Google"
+      },
+      {
+        "question": "Which company completed acquisition of ARM's rival technologies after a failed Nvidia deal? ",
+        "options": [
+          "SoftBank retained ARM",
+          "Intel bought ARM",
+          "IBM bought ARM"
+        ],
+        "answer": "SoftBank retained ARM"
+      },
+      {
+        "question": "Which company first popularized the subscription streaming model for global original series production?",
+        "options": [
+          "Netflix",
+          "Hulu",
+          "Amazon Prime Video"
+        ],
+        "answer": "Netflix"
+      },
+      {
+        "question": "Which company introduced the original Model S electric sedan to position luxury EVs mainstream?",
+        "options": [
+          "Tesla",
+          "BMW",
+          "Mercedes-Benz"
+        ],
+        "answer": "Tesla"
+      },
+      {
+        "question": "Which company used the acquisition of Skype in 2011 to expand communications across its ecosystem?",
+        "options": [
+          "Microsoft",
+          "Google",
+          "Facebook"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company completed the largest software acquisition by buying Red Hat in 2019 for $34 billion?",
+        "options": [
+          "IBM",
+          "Microsoft",
+          "Oracle"
+        ],
+        "answer": "IBM"
+      },
+      {
+        "question": "Which company’s IPO was notable for being the largest U.S. tech IPO since 2014 when it raised about $21.8 billion?",
+        "options": [
+          "Alibaba",
+          "Facebook",
+          "Uber"
+        ],
+        "answer": "Alibaba"
+      },
+      {
+        "question": "Which company held an early investment that turned into ownership of Twitter's competitor, ByteDance's TikTok interests? ",
+        "options": [
+          "Sequoia Capital",
+          "SoftBank",
+          "Accel"
+        ],
+        "answer": "Sequoia Capital"
+      },
+      {
+        "question": "Which company introduced the first successful mass-market graphical personal computer, shaping consumer computing?",
+        "options": [
+          "Apple",
+          "IBM",
+          "Commodore"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company led the early commercialization of cloud-based office apps with its Office 365 subscription?",
+        "options": [
+          "Microsoft",
+          "Google",
+          "Adobe"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which company’s name refers to a maritime trading company and became synonymous with large online marketplaces?",
+        "options": [
+          "Amazon",
+          "MercadoLibre",
+          "eBay"
+        ],
+        "answer": "Amazon"
+      }
+    ]
+  }
+}

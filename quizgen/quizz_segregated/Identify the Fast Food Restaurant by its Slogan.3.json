@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which restaurant promoted \"Have it your way\" as its slogan?",
+      "options": [
+        "Burger King",
+        "Hardee's",
+        "Carl's Jr."
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 2,
+      "question": "Which national chain used \"Famous for the Burger\" style branding and \"YUM\" slogan variants?",
+      "options": [
+        "Smashburger",
+        "Red Robin",
+        "Jack in the Box"
+      ],
+      "answer": "Red Robin"
+    },
+    {
+      "question_id": 3,
+      "question": "Which regional chain uses \"One Love\" to reference a single-menu focus on chicken fingers?",
+      "options": [
+        "Raising Cane's Chicken Fingers",
+        "Chick-fil-A",
+        "Zaxby's"
+      ],
+      "answer": "Raising Cane's Chicken Fingers"
+    },
+    {
+      "question_id": 4,
+      "question": "Which drive-in brand uses the slogan \"America's Drive-In\"?",
+      "options": [
+        "Sonic Drive-In",
+        "A&W Restaurants",
+        "Jack in the Box"
+      ],
+      "answer": "Sonic Drive-In"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Mexican chain used the tagline \"Think outside the bun\" before adopting other slogans?",
+      "options": [
+        "Del Taco",
+        "Qdoba",
+        "Taco Bell"
+      ],
+      "answer": "Taco Bell"
+    },
+    {
+      "question_id": 6,
+      "question": "Which sandwich chain stressed fast delivery with the tagline \"Freaky Fast\"?",
+      "options": [
+        "Jimmy John's",
+        "Subway",
+        "Quiznos"
+      ],
+      "answer": "Jimmy John's"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fast food restaurant uses the slogan \"I'm lovin' it\"?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 8,
+      "question": "Which chain used the slogan \"Good Mood Food\" to brand its menu?",
+      "options": [
+        "Popeyes",
+        "Arby's",
+        "Shake Shack"
+      ],
+      "answer": "Popeyes"
+    },
+    {
+      "question_id": 9,
+      "question": "Which chicken chain used the phrase \"Love That Chicken From Popeyes\" in ads?",
+      "options": [
+        "Popeyes",
+        "Church's Chicken",
+        "KFC"
+      ],
+      "answer": "Popeyes"
+    },
+    {
+      "question_id": 10,
+      "question": "Which fast food chain uses the cow-written slogan \"Eat Mor Chikin\"?",
+      "options": [
+        "Church's Chicken",
+        "Chick-fil-A",
+        "Raising Cane's"
+      ],
+      "answer": "Chick-fil-A"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coffee chain used the motto \"To inspire and nurture the human spirit\" as its mission?",
+      "options": [
+        "Starbucks",
+        "Peet's Coffee",
+        "Costa Coffee"
+      ],
+      "answer": "Starbucks"
+    },
+    {
+      "question_id": 12,
+      "question": "Which burger brand introduced the global jingle \"I'm lovin' it\" in a wide campaign?",
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "answer": "McDonald's"
+    },
+    {
+      "question_id": 13,
+      "question": "Which West Coast burger chain uses \"Quality You Can Taste\"?",
+      "options": [
+        "In-N-Out Burger",
+        "Shake Shack",
+        "Five Guys"
+      ],
+      "answer": "In-N-Out Burger"
+    },
+    {
+      "question_id": 14,
+      "question": "Which pizza chain used the tagline \"Make it great\" in recent marketing?",
+      "options": [
+        "Pizza Hut",
+        "Domino's Pizza",
+        "Papa John's"
+      ],
+      "answer": "Pizza Hut"
+    },
+    {
+      "question_id": 15,
+      "question": "Which burger chain touts \"Fresh, Never Frozen\" beef as a key differentiator?",
+      "options": [
+        "McDonald's",
+        "Wendy's",
+        "Burger King"
+      ],
+      "answer": "Wendy's"
+    }
+  ]
+}

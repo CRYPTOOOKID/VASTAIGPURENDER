@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who became India’s first President after independence?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which leader is credited with founding India’s White Revolution?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which leader headed the Planning Commission before it was replaced by NITI Aayog?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who is known as the 'Father of the Indian Constitution'?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who was India’s Prime Minister during the 1971 war with Pakistan?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Prime Minister led India’s first non-Congress central government in 1977?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded the All India Forward Bloc?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who first served as the woman Speaker of the Lok Sabha?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Constitutional Amendment introduced the Goods and Services Tax (GST)?"
+    },
+    {
+      "question_id": 10,
+      "question": "On which date did India become a republic?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Article of the Constitution abolishes untouchability?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which legal instrument extended fundamental rights protection against state actions originally?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who was India’s first woman President?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who led the 1930 Salt March to challenge British salt laws?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which leader led accession talks and merger of Junagadh into the Indian Union?"
+    }
+  ]
+}

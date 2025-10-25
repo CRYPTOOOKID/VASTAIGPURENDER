@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What year was Bitcoin's genesis block mined?",
+        "options": [
+          "2009",
+          "2011",
+          "2013"
+        ],
+        "answer": "2009"
+      },
+      {
+        "question": "Who is credited with creating Bitcoin under a pseudonym?",
+        "options": [
+          "Satoshi Nakamoto",
+          "Vitalik Buterin",
+          "Hal Finney"
+        ],
+        "answer": "Satoshi Nakamoto"
+      },
+      {
+        "question": "What is a blockchain in simplest terms?",
+        "options": [
+          "A linked list of timestamped records",
+          "A centralized database",
+          "A software wallet"
+        ],
+        "answer": "A linked list of timestamped records"
+      },
+      {
+        "question": "Which cryptocurrency introduced smart contracts to mainstream use?",
+        "options": [
+          "Ethereum",
+          "Litecoin",
+          "Dogecoin"
+        ],
+        "answer": "Ethereum"
+      },
+      {
+        "question": "What does 'cryptocurrency' primarily use to secure transactions?",
+        "options": [
+          "Cryptography",
+          "Biometrics",
+          "Government regulation"
+        ],
+        "answer": "Cryptography"
+      },
+      {
+        "question": "What is a wallet in cryptocurrency context?",
+        "options": [
+          "A tool storing private keys",
+          "A bank account",
+          "A hardware miner"
+        ],
+        "answer": "A tool storing private keys"
+      },
+      {
+        "question": "What does 'mining' do in Bitcoin's network?",
+        "options": [
+          "Validates transactions and creates new coins",
+          "Issues fiat currency",
+          "Controls price volatility"
+        ],
+        "answer": "Validates transactions and creates new coins"
+      },
+      {
+        "question": "What is a private key used for?",
+        "options": [
+          "Signing transactions",
+          "Viewing market prices",
+          "Mining blocks"
+        ],
+        "answer": "Signing transactions"
+      },
+      {
+        "question": "Which term describes tokens representing unique digital items?",
+        "options": [
+          "NFTs",
+          "Stablecoins",
+          "Futures"
+        ],
+        "answer": "NFTs"
+      },
+      {
+        "question": "What is a stablecoin designed to do?",
+        "options": [
+          "Keep price stable relative to an asset",
+          "Increase volatility quickly",
+          "Replace private keys"
+        ],
+        "answer": "Keep price stable relative to an asset"
+      },
+      {
+        "question": "Which coin is widely considered the first cryptocurrency?",
+        "options": [
+          "Bitcoin",
+          "Ripple",
+          "Ethereum"
+        ],
+        "answer": "Bitcoin"
+      },
+      {
+        "question": "What is an exchange in cryptocurrency terms?",
+        "options": [
+          "A platform to buy and sell tokens",
+          "A ledger of blocks",
+          "A mining pool"
+        ],
+        "answer": "A platform to buy and sell tokens"
+      },
+      {
+        "question": "What does 'decentralized' mean for blockchains?",
+        "options": [
+          "Control spread across many participants",
+          "Controlled by one company",
+          "Hosted on a single server"
+        ],
+        "answer": "Control spread across many participants"
+      },
+      {
+        "question": "What is an address used for in crypto transactions?",
+        "options": [
+          "Receiving funds",
+          "Generating mining rewards",
+          "Running smart contracts"
+        ],
+        "answer": "Receiving funds"
+      },
+      {
+        "question": "Which hash algorithm does Bitcoin use for proof-of-work?",
+        "options": [
+          "SHA-256",
+          "MD5",
+          "SHA-1"
+        ],
+        "answer": "SHA-256"
+      },
+      {
+        "question": "What is a 'block' on a blockchain?",
+        "options": [
+          "A batch of transactions with a header",
+          "A user account",
+          "A fiat currency note"
+        ],
+        "answer": "A batch of transactions with a header"
+      },
+      {
+        "question": "What is the typical target time between Bitcoin blocks?",
+        "options": [
+          "About 10 minutes",
+          "About 1 minute",
+          "About 24 hours"
+        ],
+        "answer": "About 10 minutes"
+      },
+      {
+        "question": "What is a public key used for?",
+        "options": [
+          "Receiving funds and verifying signatures",
+          "Hiding transactions",
+          "Creating fiat money"
+        ],
+        "answer": "Receiving funds and verifying signatures"
+      },
+      {
+        "question": "What does 'fork' mean in blockchain context?",
+        "options": [
+          "A protocol change creating diverging chains",
+          "A wallet backup type",
+          "A mining rig model"
+        ],
+        "answer": "A protocol change creating diverging chains"
+      },
+      {
+        "question": "What was paid in the first documented Bitcoin pizza purchase?",
+        "options": [
+          "10,000 BTC",
+          "100 BTC",
+          "1,000 BTC"
+        ],
+        "answer": "10,000 BTC"
+      },
+      {
+        "question": "What is a smart contract?",
+        "options": [
+          "Self-executing code on a blockchain",
+          "A legal paper contract",
+          "A centralized API"
+        ],
+        "answer": "Self-executing code on a blockchain"
+      },
+      {
+        "question": "What does 'gas' refer to on Ethereum?",
+        "options": [
+          "Fee units for executing operations",
+          "Storage capacity of a wallet",
+          "A mining hardware model"
+        ],
+        "answer": "Fee units for executing operations"
+      },
+      {
+        "question": "Which of these is a popular Bitcoin hardware wallet brand?",
+        "options": [
+          "Ledger",
+          "CoinMarketCap",
+          "Etherscan"
+        ],
+        "answer": "Ledger"
+      },
+      {
+        "question": "What is a token compared to a coin?",
+        "options": [
+          "A digital asset on an existing blockchain",
+          "A physical coin replica",
+          "A mining reward unit"
+        ],
+        "answer": "A digital asset on an existing blockchain"
+      },
+      {
+        "question": "What is a blockchain 'explorer' used for?",
+        "options": [
+          "Viewing transactions and blocks",
+          "Generating private keys",
+          "Running consensus algorithms"
+        ],
+        "answer": "Viewing transactions and blocks"
+      },
+      {
+        "question": "Which measure indicates the size of a cryptocurrency ecosystem?",
+        "options": [
+          "Market capitalization",
+          "Hash rate per wallet",
+          "Block time variance"
+        ],
+        "answer": "Market capitalization"
+      },
+      {
+        "question": "What does 'KYC' stand for in crypto exchanges?",
+        "options": [
+          "Know Your Customer",
+          "Keep Your Crypto",
+          "Key Yield Calculation"
+        ],
+        "answer": "Know Your Customer"
+      },
+      {
+        "question": "What is a 'seed phrase' used for?",
+        "options": [
+          "Recovering a wallet's private keys",
+          "Measuring transaction fees",
+          "Speeding mining rigs"
+        ],
+        "answer": "Recovering a wallet's private keys"
+      },
+      {
+        "question": "What is 'peer-to-peer' in cryptocurrency networks?",
+        "options": [
+          "Direct participant-to-participant interaction",
+          "Centralized service model",
+          "Government oversight system"
+        ],
+        "answer": "Direct participant-to-participant interaction"
+      }
+    ],
+    "medium": [
+      {
+        "question": "When did Ethereum launch its mainnet?",
+        "options": [
+          "2015",
+          "2013",
+          "2017"
+        ],
+        "answer": "2015"
+      },
+      {
+        "question": "Which person is a co-founder of Ethereum?",
+        "options": [
+          "Vitalik Buterin",
+          "Charlie Lee",
+          "Jed McCaleb"
+        ],
+        "answer": "Vitalik Buterin"
+      },
+      {
+        "question": "What model does Bitcoin use for tracking funds?",
+        "options": [
+          "UTXO model",
+          "Account model",
+          "Balance sheet model"
+        ],
+        "answer": "UTXO model"
+      },
+      {
+        "question": "Which standard defines fungible tokens on Ethereum?",
+        "options": [
+          "ERC-20",
+          "BEP-2",
+          "ERC-721"
+        ],
+        "answer": "ERC-20"
+      },
+      {
+        "question": "What major exchange collapsed after a 2014 hack?",
+        "options": [
+          "Mt. Gox",
+          "Coinbase",
+          "Binance"
+        ],
+        "answer": "Mt. Gox"
+      },
+      {
+        "question": "What is an oracle in smart contract ecosystems?",
+        "options": [
+          "An external data feed for contracts",
+          "A private key manager",
+          "A mining algorithm"
+        ],
+        "answer": "An external data feed for contracts"
+      },
+      {
+        "question": "What mechanism prevents double-spending in Bitcoin?",
+        "options": [
+          "Consensus via proof-of-work",
+          "Private key rotation",
+          "Centralized clearinghouse"
+        ],
+        "answer": "Consensus via proof-of-work"
+      },
+      {
+        "question": "What is 'DeFi' shorthand for?",
+        "options": [
+          "Decentralized Finance",
+          "Dedicated File Index",
+          "Digital Fiat Exchange"
+        ],
+        "answer": "Decentralized Finance"
+      },
+      {
+        "question": "Which event described theft from The DAO led to an Ethereum fork in 2016?",
+        "options": [
+          "The DAO hack",
+          "Mt. Gox hack",
+          "Parity wallet bug"
+        ],
+        "answer": "The DAO hack"
+      },
+      {
+        "question": "What does 'ERC-721' define?",
+        "options": [
+          "Non-fungible token standard",
+          "A staking protocol",
+          "A layer-2 scaling solution"
+        ],
+        "answer": "Non-fungible token standard"
+      },
+      {
+        "question": "Which country hosted an early major Bitcoin mining operation due to cheap electricity?",
+        "options": [
+          "China",
+          "Switzerland",
+          "Brazil"
+        ],
+        "answer": "China"
+      },
+      {
+        "question": "What is 'staking' in proof-of-stake networks?",
+        "options": [
+          "Locking coins to secure the network",
+          "Running ASIC miners",
+          "Performing off-chain swaps"
+        ],
+        "answer": "Locking coins to secure the network"
+      },
+      {
+        "question": "Which wallet type keeps keys offline for maximum security?",
+        "options": [
+          "Cold wallet",
+          "Hot wallet",
+          "Custodial wallet"
+        ],
+        "answer": "Cold wallet"
+      },
+      {
+        "question": "What does TPS commonly measure for blockchains?",
+        "options": [
+          "Transactions per second",
+          "Tokens per smart contract",
+          "Treasury protocol security"
+        ],
+        "answer": "Transactions per second"
+      },
+      {
+        "question": "Which upgrade introduced fee burning and base fee in Ethereum?",
+        "options": [
+          "EIP-1559",
+          "EIP-20",
+          "EIP-721"
+        ],
+        "answer": "EIP-1559"
+      },
+      {
+        "question": "What is a '51% attack' risk?",
+        "options": [
+          "Majority control allowing block reorgs",
+          "A wallet backup method",
+          "An exchange regulatory rule"
+        ],
+        "answer": "Majority control allowing block reorgs"
+      },
+      {
+        "question": "Which privacy coin uses ring signatures by default?",
+        "options": [
+          "Monero",
+          "Litecoin",
+          "Bitcoin Cash"
+        ],
+        "answer": "Monero"
+      },
+      {
+        "question": "What does 'Layer 2' refer to in scaling designs?",
+        "options": [
+          "Off-chain protocols improving throughput",
+          "A consensus replacement algorithm",
+          "Physical mining infrastructure"
+        ],
+        "answer": "Off-chain protocols improving throughput"
+      },
+      {
+        "question": "What is a Merkle tree used for in blockchains?",
+        "options": [
+          "Efficiently verifying transaction membership",
+          "Encrypting private keys",
+          "Calculating mining difficulty"
+        ],
+        "answer": "Efficiently verifying transaction membership"
+      },
+      {
+        "question": "Which protocol enables fast Bitcoin micropayments off-chain?",
+        "options": [
+          "Lightning Network",
+          "Raiden Network",
+          "Plasma"
+        ],
+        "answer": "Lightning Network"
+      },
+      {
+        "question": "What is 'gas limit' in Ethereum transactions?",
+        "options": [
+          "Maximum gas willing to pay for an execution",
+          "Total network capacity per second",
+          "A wallet backup phrase length"
+        ],
+        "answer": "Maximum gas willing to pay for an execution"
+      },
+      {
+        "question": "What is an ERC-20 'approve' function commonly used for?",
+        "options": [
+          "Granting another address transfer allowance",
+          "Burning tokens permanently",
+          "Creating new blocks"
+        ],
+        "answer": "Granting another address transfer allowance"
+      },
+      {
+        "question": "Which consensus algorithm did Ethereum adopt in The Merge?",
+        "options": [
+          "Proof-of-stake",
+          "Proof-of-work",
+          "Proof-of-authority"
+        ],
+        "answer": "Proof-of-stake"
+      },
+      {
+        "question": "What does 'atomic swap' enable between blockchains?",
+        "options": [
+          "Trustless token exchange without intermediaries",
+          "Joint mining pools",
+          "Shared governance tokens"
+        ],
+        "answer": "Trustless token exchange without intermediaries"
+      },
+      {
+        "question": "Which standard addresses metadata for NFTs on Ethereum?",
+        "options": [
+          "ERC-721 metadata extension",
+          "ERC-20 transfer standard",
+          "BEP-20 token legacy"
+        ],
+        "answer": "ERC-721 metadata extension"
+      },
+      {
+        "question": "What is 'slippage' in decentralized exchanges?",
+        "options": [
+          "Difference between expected and executed price",
+          "Failure to sign a transaction",
+          "A wallet synchronization error"
+        ],
+        "answer": "Difference between expected and executed price"
+      },
+      {
+        "question": "Which software concept allows wallets to generate many addresses from one seed?",
+        "options": [
+          "Hierarchical deterministic wallets (HD)",
+          "Single-key wallets",
+          "Cold storage vaults"
+        ],
+        "answer": "Hierarchical deterministic wallets (HD)"
+      },
+      {
+        "question": "Which tool shows on-chain analytics like addresses and flows?",
+        "options": [
+          "Blockchain explorer",
+          "Word processor",
+          "Web browser"
+        ],
+        "answer": "Blockchain explorer"
+      },
+      {
+        "question": "Which mechanism reduces Bitcoin block reward periodically?",
+        "options": [
+          "Halving every 210,000 blocks",
+          "Staking rewards cut annually",
+          "Minting schedule change by DAO"
+        ],
+        "answer": "Halving every 210,000 blocks"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which elliptic curve does Bitcoin use for ECDSA signatures?",
+        "options": [
+          "secp256k1",
+          "secp384r1",
+          "ed25519"
+        ],
+        "answer": "secp256k1"
+      },
+      {
+        "question": "What data structure does Ethereum use for its state trie?",
+        "options": [
+          "Merkle Patricia Trie",
+          "Binary Merkle Tree",
+          "Hash Array Mapped Trie"
+        ],
+        "answer": "Merkle Patricia Trie"
+      },
+      {
+        "question": "Which Bitcoin improvement introduced bech32 address format for segwit?",
+        "options": [
+          "BIP173",
+          "BIP32",
+          "BIP39"
+        ],
+        "answer": "BIP173"
+      },
+      {
+        "question": "What is the protocol term for miner's first transaction creating coinbase rewards?",
+        "options": [
+          "Coinbase transaction",
+          "Genesis reward",
+          "Mint transaction"
+        ],
+        "answer": "Coinbase transaction"
+      },
+      {
+        "question": "Which upgrade activated Taproot on Bitcoin in 2021?",
+        "options": [
+          "BIP341",
+          "BIP141",
+          "BIP65"
+        ],
+        "answer": "BIP341"
+      },
+      {
+        "question": "What cryptographic proof family do zk-SNARKs belong to?",
+        "options": [
+          "Zero-knowledge proofs",
+          "Symmetric key proofs",
+          "Homomorphic signatures"
+        ],
+        "answer": "Zero-knowledge proofs"
+      },
+      {
+        "question": "Which BIP defines mnemonic seed phrases commonly used in wallets?",
+        "options": [
+          "BIP39",
+          "BIP21",
+          "BIP44"
+        ],
+        "answer": "BIP39"
+      },
+      {
+        "question": "What term describes blocks that were valid but not included in longest chain?",
+        "options": [
+          "Orphan or uncle blocks",
+          "Genesis blocks",
+          "Checkpoint blocks"
+        ],
+        "answer": "Orphan or uncle blocks"
+      },
+      {
+        "question": "Which Ethereum contract language was initially developed by Gavin Wood?",
+        "options": [
+          "Solidity",
+          "Vyper",
+          "Serpent"
+        ],
+        "answer": "Solidity"
+      },
+      {
+        "question": "What mechanism does Bitcoin use to adjust mining difficulty?",
+        "options": [
+          "Target time-based difficulty retargeting",
+          "Token inflation control",
+          "Staking epoch adjustment"
+        ],
+        "answer": "Target time-based difficulty retargeting"
+      },
+      {
+        "question": "Which specialized hardware is commonly used for Bitcoin mining?",
+        "options": [
+          "ASICs",
+          "GPUs",
+          "FPGAs"
+        ],
+        "answer": "ASICs"
+      },
+      {
+        "question": "What is the 'difficulty bomb' in Ethereum designed to do historically?",
+        "options": [
+          "Encourage transition from PoW to PoS by increasing difficulty",
+          "Limit smart contract size",
+          "Reduce gas price volatility"
+        ],
+        "answer": "Encourage transition from PoW to PoS by increasing difficulty"
+      },
+      {
+        "question": "Which cryptographic scheme improves privacy by aggregating signatures in Bitcoin's Taproot era?",
+        "options": [
+          "Schnorr signatures",
+          "ECDSA multi-signature",
+          "RSA signatures"
+        ],
+        "answer": "Schnorr signatures"
+      },
+      {
+        "question": "Which protocol enables stateless clients and light verification in blockchain nodes?",
+        "options": [
+          "SPV (Simplified Payment Verification)",
+          "PoS light sync",
+          "Merkle-less verification"
+        ],
+        "answer": "SPV (Simplified Payment Verification)"
+      },
+      {
+        "question": "What does 're-org' mean in blockchain operation terms?",
+        "options": [
+          "Chain reorganizing when a longer chain appears",
+          "Node software upgrade",
+          "Wallet address rotation"
+        ],
+        "answer": "Chain reorganizing when a longer chain appears"
+      },
+      {
+        "question": "Which cross-chain finality gadget is associated with Polkadot?",
+        "options": [
+          "Grandpa",
+          "Tendermint",
+          "Casper"
+        ],
+        "answer": "Grandpa"
+      },
+      {
+        "question": "What is an HTLC used for in payment channels?",
+        "options": [
+          "Secure atomic conditional transfers",
+          "Reducing gas consumption",
+          "Increasing mining hash rate"
+        ],
+        "answer": "Secure atomic conditional transfers"
+      },
+      {
+        "question": "Which vulnerability was central to the 2016 DAO exploit on Ethereum?",
+        "options": [
+          "Reentrancy bug",
+          "Integer overflow",
+          "Signature forgery"
+        ],
+        "answer": "Reentrancy bug"
+      },
+      {
+        "question": "What is ECDH commonly used for in cryptocurrency systems?",
+        "options": [
+          "Deriving shared secrets from key pairs",
+          "Generating block headers",
+          "Validating gas limits"
+        ],
+        "answer": "Deriving shared secrets from key pairs"
+      },
+      {
+        "question": "Which consensus algorithm uses validators and finality via attestations in Ethereum 2.0?",
+        "options": [
+          "Casper/Proof-of-Stake with Beacon Chain",
+          "Nakamoto-style proof-of-work",
+          "Delegated proof-of-stake without finality"
+        ],
+        "answer": "Casper/Proof-of-Stake with Beacon Chain"
+      },
+      {
+        "question": "What is the main privacy trade-off of on-chain mixers like CoinJoin?",
+        "options": [
+          "Improved anonymity but possible analysis linkage",
+          "Guaranteed absolute anonymity",
+          "Lower transaction fees always"
+        ],
+        "answer": "Improved anonymity but possible analysis linkage"
+      },
+      {
+        "question": "Which tool indexes Ethereum events for dApp frontends and analytics?",
+        "options": [
+          "The Graph",
+          "Prometheus",
+          "Grafana"
+        ],
+        "answer": "The Graph"
+      },
+      {
+        "question": "What metric describes total computing power securing a PoW blockchain?",
+        "options": [
+          "Hash rate",
+          "Epoch length",
+          "Gas price"
+        ],
+        "answer": "Hash rate"
+      },
+      {
+        "question": "Which technology reduces proof sizes using polynomial commitments in some zk systems?",
+        "options": [
+          "KZG commitments",
+          "RSA accumulators",
+          "Merkle proofs"
+        ],
+        "answer": "KZG commitments"
+      },
+      {
+        "question": "What is 'state sharding' intended to achieve in blockchains?",
+        "options": [
+          "Partitioning state to increase throughput",
+          "Increasing block size arbitrarily",
+          "Reducing transaction privacy"
+        ],
+        "answer": "Partitioning state to increase throughput"
+      },
+      {
+        "question": "Which standard allows token approvals to be revoked in a single on-chain call (ERC feature)?",
+        "options": [
+          "ERC-20 allowance pattern with decreaseAllowance",
+          "ERC-721 batch minting",
+          "ERC-1155 metadata"
+        ],
+        "answer": "ERC-20 allowance pattern with decreaseAllowance"
+      },
+      {
+        "question": "What does 'finality' mean in consensus protocols?",
+        "options": [
+          "Irreversible acceptance of a block",
+          "Periodic difficulty reset",
+          "Temporary transaction confirmation"
+        ],
+        "answer": "Irreversible acceptance of a block"
+      },
+      {
+        "question": "Which attack exploits mempool transaction ordering to front-run trades?",
+        "options": [
+          "Miner Extractable Value (MEV)",
+          "Sybil attack",
+          "Timejacking"
+        ],
+        "answer": "Miner Extractable Value (MEV)"
+      },
+      {
+        "question": "Which privacy-preserving protocol uses zero-knowledge proofs for shielded transactions in Zcash?",
+        "options": [
+          "zk-SNARKs",
+          "RingCT",
+          "Mixnets"
+        ],
+        "answer": "zk-SNARKs"
+      },
+      {
+        "question": "What is the principal goal of a rollup as a Layer 2 solution?",
+        "options": [
+          "Batch many transactions and post data to mainnet",
+          "Replace mainnet consensus entirely",
+          "Eliminate smart contract capability"
+        ],
+        "answer": "Batch many transactions and post data to mainnet"
+      }
+    ]
+  }
+}

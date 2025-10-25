@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which monument in Agra is a marble mausoleum and UNESCO World Heritage Site?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which rock architecture at Badami represents early Chalukya temple styles?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which structure at Fatehpur Sikri served as Akbar's private audience hall?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which caves are known for ancient Buddhist frescoes in Maharashtra?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which UNESCO year lists Ajanta Caves as a World Heritage Site?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year was the Taj Mahal officially inscribed as a UNESCO World Heritage Site?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who commissioned the Taj Mahal in Agra?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ruler commissioned the construction of Humayun's Tomb in the 16th century?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 11th-century temple's vimana ranks among tallest of Chola architecture?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which medieval tower in Delhi was started by Qutb-ud-din Aibak?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which 11th century dynasty built the Khajuraho temples?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which temple in Konark originally had a massive wheel and chariot motif representing the sun god?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which palace is the official residence of the Wodeyar dynasty in Mysore?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which famous musical pillars are found in Vittala Temple at Hampi?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which year did Hampi's Group of Monuments receive UNESCO World Heritage status?"
+    }
+  ]
+}

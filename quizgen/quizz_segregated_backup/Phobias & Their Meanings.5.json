@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'xenophobia' mean in the phobia context?",
+      "options": [
+        "Fear of strangers or foreigners",
+        "Fear of small spaces",
+        "Fear of birds"
+      ],
+      "answer": "Fear of strangers or foreigners"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia involves fear of being without a mobile phone connection?",
+      "options": [
+        "Nomophobia",
+        "Chromophobia",
+        "Kakorrhaphiophobia"
+      ],
+      "answer": "Nomophobia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which research concept suggests some fears are more easily acquired through evolutionarily relevant stimuli?",
+      "options": [
+        "Preparedness",
+        "Operant acquisition",
+        "Random conditioning"
+      ],
+      "answer": "Preparedness"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia describes fear of thunder and lightning?",
+      "options": [
+        "Astraphobia",
+        "Pogonophobia",
+        "Nomophobia"
+      ],
+      "answer": "Astraphobia"
+    },
+    {
+      "question_id": 5,
+      "question": "Which professional commonly treats disabling phobias using CBT?",
+      "options": [
+        "Clinical psychologist",
+        "Cardiologist",
+        "Radiologist"
+      ],
+      "answer": "Clinical psychologist"
+    },
+    {
+      "question_id": 6,
+      "question": "Which phobia often responds well to one-session exposure treatments in controlled settings?",
+      "options": [
+        "Specific situational phobias (e.g., flying)",
+        "Generalized anxiety disorder",
+        "Bipolar disorder"
+      ],
+      "answer": "Specific situational phobias (e.g., flying)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia is the fear of water or deep bodies of water?",
+      "options": [
+        "Thalassophobia",
+        "Agoraphobia",
+        "Ailurophobia"
+      ],
+      "answer": "Thalassophobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia denotes fear of crossing bridges or driving over them?",
+      "options": [
+        "Gephyrophobia",
+        "Astrophobia",
+        "Glossophobia"
+      ],
+      "answer": "Gephyrophobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which culture-specific syndrome overlaps with social anxiety but centers on offending others?",
+      "options": [
+        "Taijin kyofusho",
+        "Koro",
+        "Latah"
+      ],
+      "answer": "Taijin kyofusho"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'ophidiophobia' mean?",
+      "options": [
+        "Fear of snakes",
+        "Fear of clowns",
+        "Fear of germs"
+      ],
+      "answer": "Fear of snakes"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia means fear of mirrors or seeing oneself reflected?",
+      "options": [
+        "Eisoptrophobia",
+        "Chronophobia",
+        "Haphephobia"
+      ],
+      "answer": "Eisoptrophobia"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia category commonly emerges earlier in life compared to social phobia onset?",
+      "options": [
+        "Specific phobias (animal or situational)",
+        "Late-onset agoraphobia",
+        "Late-onset social phobia"
+      ],
+      "answer": "Specific phobias (animal or situational)"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'social phobia' commonly describe?",
+      "options": [
+        "Fear of social situations",
+        "Fear of darkness",
+        "Fear of insects"
+      ],
+      "answer": "Fear of social situations"
+    },
+    {
+      "question_id": 14,
+      "question": "What root does '-phobia' come from in Greek?",
+      "options": [
+        "Phobos meaning fear",
+        "Pathos meaning disease",
+        "Logos meaning word"
+      ],
+      "answer": "Phobos meaning fear"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare phobia denotes fear of thunderstorms and associated loud noises?",
+      "options": [
+        "Astraphobia",
+        "Chronophobia",
+        "Hemophobia"
+      ],
+      "answer": "Astraphobia"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which test is commonly used to monitor long-term blood glucose control?",
+      "options": [
+        "Hemoglobin A1c",
+        "Serum creatinine",
+        "C-reactive protein"
+      ],
+      "answer": "Hemoglobin A1c"
+    },
+    {
+      "question_id": 2,
+      "question": "Which drug class is first-line for acute asthma relief by bronchodilation?",
+      "options": [
+        "Short-acting beta-2 agonists",
+        "Long-acting muscarinic antagonists",
+        "Inhaled corticosteroids"
+      ],
+      "answer": "Short-acting beta-2 agonists"
+    },
+    {
+      "question_id": 3,
+      "question": "Which dermatologic condition features autoimmune blistering caused by antibodies against desmoglein proteins?",
+      "options": [
+        "Pemphigus vulgaris",
+        "Bullous pemphigoid",
+        "Psoriasis vulgaris"
+      ],
+      "answer": "Pemphigus vulgaris"
+    },
+    {
+      "question_id": 4,
+      "question": "Which condition characterizes type 1 diabetes at a basic level?",
+      "options": [
+        "Autoimmune destruction of insulin-producing cells",
+        "Excess insulin production",
+        "Transient gestational hyperglycemia"
+      ],
+      "answer": "Autoimmune destruction of insulin-producing cells"
+    },
+    {
+      "question_id": 5,
+      "question": "Which pathogen commonly causes urinary tract infections in adult women?",
+      "options": [
+        "Escherichia coli",
+        "Streptococcus pyogenes",
+        "Candida albicans"
+      ],
+      "answer": "Escherichia coli"
+    },
+    {
+      "question_id": 6,
+      "question": "Which neurologic sign indicates upper motor neuron lesion with increased tone and brisk reflexes?",
+      "options": [
+        "Spasticity with hyperreflexia",
+        "Fasciculations with hyporeflexia",
+        "Flaccidity with muscle atrophy"
+      ],
+      "answer": "Spasticity with hyperreflexia"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'benign' indicate about a tumor's behavior?",
+      "options": [
+        "Noncancerous and limited growth",
+        "Highly metastatic",
+        "Rapid systemic infection"
+      ],
+      "answer": "Noncancerous and limited growth"
+    },
+    {
+      "question_id": 8,
+      "question": "Which bacterium is the principal cause of peptic ulcer disease and some gastric cancers?",
+      "options": [
+        "Helicobacter pylori",
+        "Clostridioides difficile",
+        "Neisseria meningitidis"
+      ],
+      "answer": "Helicobacter pylori"
+    },
+    {
+      "question_id": 9,
+      "question": "Which renal pathology features proteinuria, hypoalbuminemia, hyperlipidemia, and edema as a syndrome?",
+      "options": [
+        "Nephrotic syndrome",
+        "Acute tubular necrosis",
+        "Interstitial nephritis"
+      ],
+      "answer": "Nephrotic syndrome"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organ does 'gastric' specifically refer to in medical terms?",
+      "options": [
+        "Stomach",
+        "Kidney",
+        "Pancreas"
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question_id": 11,
+      "question": "Which imaging technique uses high-frequency sound waves to evaluate soft tissues and blood flow?",
+      "options": [
+        "Ultrasound with Doppler",
+        "Fluoroscopy",
+        "Positron emission tomography"
+      ],
+      "answer": "Ultrasound with Doppler"
+    },
+    {
+      "question_id": 12,
+      "question": "Which diagnostic criterion specifies hemoglobin A1c threshold to diagnose diabetes mellitus currently?",
+      "options": [
+        "HbA1c ≥ 6.5%",
+        "HbA1c ≥ 5.0%",
+        "HbA1c ≥ 7.5%"
+      ],
+      "answer": "HbA1c ≥ 6.5%"
+    },
+    {
+      "question_id": 13,
+      "question": "Which autoimmune encephalitis is associated with antibodies against NMDA receptors and psychiatric symptoms?",
+      "options": [
+        "Anti-NMDA receptor encephalitis",
+        "Anti-GAD antibody encephalitis",
+        "Hashimoto encephalopathy"
+      ],
+      "answer": "Anti-NMDA receptor encephalitis"
+    },
+    {
+      "question_id": 14,
+      "question": "Which chemotherapeutic agent crosslinks DNA and is associated with hemorrhagic cystitis risk?",
+      "options": [
+        "Cyclophosphamide",
+        "Methotrexate",
+        "Vincristine"
+      ],
+      "answer": "Cyclophosphamide"
+    },
+    {
+      "question_id": 15,
+      "question": "Which immunotherapy targets PD-1 or PD-L1 pathways to release T-cell inhibition in cancer treatment?",
+      "options": [
+        "Checkpoint inhibitors against PD-1/PD-L1",
+        "CTLA-4 agonists",
+        "CAR-T cell nonspecific infusion"
+      ],
+      "answer": "Checkpoint inhibitors against PD-1/PD-L1"
+    }
+  ]
+}

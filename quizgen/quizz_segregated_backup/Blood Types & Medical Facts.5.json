@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which blood component is stored at room temperature with gentle agitation?",
+      "options": [
+        "Platelets",
+        "Red blood cells",
+        "Frozen plasma"
+      ],
+      "answer": "Platelets"
+    },
+    {
+      "question_id": 2,
+      "question": "Who discovered the ABO blood group system in 1901?",
+      "options": [
+        "Karl Landsteiner",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "answer": "Karl Landsteiner"
+    },
+    {
+      "question_id": 3,
+      "question": "Which blood product is prepared by freezing plasma within 24 hours to preserve labile clotting factors?",
+      "options": [
+        "Fresh frozen plasma (FFP)",
+        "Packed red blood cells",
+        "Washed platelets"
+      ],
+      "answer": "Fresh frozen plasma (FFP)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which antibody class primarily mediates immediate ABO incompatibility reactions?",
+      "options": [
+        "IgM",
+        "IgG",
+        "IgA"
+      ],
+      "answer": "IgM"
+    },
+    {
+      "question_id": 5,
+      "question": "Which red cell storage additive allows refrigeration up to 42 days in many systems?",
+      "options": [
+        "Additive solutions like CPDA-1",
+        "Heparin",
+        "Sodium citrate alone"
+      ],
+      "answer": "Additive solutions like CPDA-1"
+    },
+    {
+      "question_id": 6,
+      "question": "Which screening marker window period risk do nucleic acid tests reduce in donor screening?",
+      "options": [
+        "Viral nucleic acid window period",
+        "Blood group antigen variability",
+        "Bacterial contamination risk"
+      ],
+      "answer": "Viral nucleic acid window period"
+    },
+    {
+      "question_id": 7,
+      "question": "Which blood type is considered the universal plasma donor?",
+      "options": [
+        "AB",
+        "O",
+        "B"
+      ],
+      "answer": "AB"
+    },
+    {
+      "question_id": 8,
+      "question": "Which antigen system is most clinically significant after ABO and Rh for transfusion?",
+      "options": [
+        "Kell system",
+        "Lewis system",
+        "Duffy system"
+      ],
+      "answer": "Kell system"
+    },
+    {
+      "question_id": 9,
+      "question": "Which maternal intervention after delivery prevents Rh D alloimmunization in sensitizable mothers?",
+      "options": [
+        "Postpartum Rho(D) immune globulin administration",
+        "Immediate infant exchange transfusion",
+        "High-dose iron infusion"
+      ],
+      "answer": "Postpartum Rho(D) immune globulin administration"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organ commonly requires ABO compatibility for transplantation?",
+      "options": [
+        "Kidney",
+        "Bone",
+        "Cornea"
+      ],
+      "answer": "Kidney"
+    },
+    {
+      "question_id": 11,
+      "question": "Which laboratory test screens recipient serum for unexpected antibodies against donor cells?",
+      "options": [
+        "Indirect antiglobulin test",
+        "Blood culture",
+        "Electrocardiogram"
+      ],
+      "answer": "Indirect antiglobulin test"
+    },
+    {
+      "question_id": 12,
+      "question": "Which neonatal test quantifies maternal IgG bound to fetal red cells in vivo?",
+      "options": [
+        "Direct antiglobulin test (DAT)",
+        "Indirect bilirubin level",
+        "Complete blood count"
+      ],
+      "answer": "Direct antiglobulin test (DAT)"
+    },
+    {
+      "question_id": 13,
+      "question": "What does the Rh factor determine in blood typing?",
+      "options": [
+        "Presence of D antigen",
+        "Quantity of hemoglobin",
+        "White blood cell count"
+      ],
+      "answer": "Presence of D antigen"
+    },
+    {
+      "question_id": 14,
+      "question": "Which product is given to correct coagulopathy rapidly in trauma settings?",
+      "options": [
+        "Fresh frozen plasma",
+        "Packed red blood cells",
+        "Albumin"
+      ],
+      "answer": "Fresh frozen plasma"
+    },
+    {
+      "question_id": 15,
+      "question": "Which strategy extends platelet shelf-life by reducing bacterial contamination and viral risk?",
+      "options": [
+        "Pathogen reduction technologies with UVA or riboflavin",
+        "Deep freezing platelets at -80°C",
+        "Irradiating plasma only"
+      ],
+      "answer": "Pathogen reduction technologies with UVA or riboflavin"
+    }
+  ]
+}

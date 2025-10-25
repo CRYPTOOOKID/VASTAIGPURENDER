@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'median age' of a population represent?",
+      "options": [
+        "Age with half older and half younger",
+        "Average of all ages",
+        "Mode of age distribution"
+      ],
+      "answer": "Age with half older and half younger"
+    },
+    {
+      "question_id": 2,
+      "question": "Which global decade saw the largest absolute increase in world population?",
+      "options": [
+        "1950-1960",
+        "1870-1880",
+        "1990-2000"
+      ],
+      "answer": "1950-1960"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical adjustment addresses underreporting of infant deaths in national vital registration systems?",
+      "options": [
+        "Indirect estimation methods",
+        "Direct sampling only",
+        "No adjustment recommended"
+      ],
+      "answer": "Indirect estimation methods"
+    },
+    {
+      "question_id": 4,
+      "question": "Which continent has the youngest average population age?",
+      "options": [
+        "Africa",
+        "Europe",
+        "North America"
+      ],
+      "answer": "Africa"
+    },
+    {
+      "question_id": 5,
+      "question": "Around what year did the world population reach 1 billion?",
+      "options": [
+        "Circa 1804",
+        "Circa 1600",
+        "Circa 1900"
+      ],
+      "answer": "Circa 1804"
+    },
+    {
+      "question_id": 6,
+      "question": "Which projection scenario assumes constant fertility, mortality, and migration rates from a base year?",
+      "options": [
+        "Constant scenario",
+        "High-variant scenario",
+        "Low-variant scenario"
+      ],
+      "answer": "Constant scenario"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'urbanization' refer to in population studies?",
+      "options": [
+        "Movement to cities",
+        "Increase in birth rate",
+        "Decline in population"
+      ],
+      "answer": "Movement to cities"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country became the most populous nation in the 21st century by overtaking China in projections?",
+      "options": [
+        "India",
+        "United States",
+        "Brazil"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 9,
+      "question": "Which African demographic transition pattern is characterized by sustained high fertility and falling mortality?",
+      "options": [
+        "Delayed transition",
+        "Immediate transition",
+        "Completed transition"
+      ],
+      "answer": "Delayed transition"
+    },
+    {
+      "question_id": 10,
+      "question": "Which continent has the largest population?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe"
+      ],
+      "answer": "Asia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statistic measures expected remaining years of life at a specific age rather than at birth?",
+      "options": [
+        "Life expectancy at age X",
+        "Total fertility rate",
+        "Crude birth rate"
+      ],
+      "answer": "Life expectancy at age X"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept quantifies number of births prevented by contraceptive use compared to no contraception?",
+      "options": [
+        "Unmet need for family planning",
+        "Contraceptive prevalence effect",
+        "Averted births estimate"
+      ],
+      "answer": "Averted births estimate"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the primary purpose of a national census?",
+      "options": [
+        "Count the population and collect demographic data",
+        "Collect taxes",
+        "Regulate immigration"
+      ],
+      "answer": "Count the population and collect demographic data"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country experienced a rapid aging population due to low fertility and high longevity?",
+      "options": [
+        "Japan",
+        "Uganda",
+        "Jordan"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 15,
+      "question": "Which statistical method is most commonly used to estimate age-specific fertility rates from survey data?",
+      "options": [
+        "Brass method",
+        "Kaplan-Meier estimator",
+        "Ordinary least squares"
+      ],
+      "answer": "Brass method"
+    }
+  ]
+}

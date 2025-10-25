@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does ISBN stand for in publishing?",
+      "options": [
+        "International Standard Bibliography Number",
+        "International Serial Book Number",
+        "International Standard Book Number"
+      ],
+      "answer": "International Standard Book Number"
+    },
+    {
+      "question_id": 2,
+      "question": "What does CAPTCHA expand to?",
+      "options": [
+        "Completely Automated Public Test to Catch Humans",
+        "Computer Automated Public Test to Confirm Humans",
+        "Completely Automated Public Turing test to tell Computers and Humans Apart"
+      ],
+      "answer": "Completely Automated Public Turing test to tell Computers and Humans Apart"
+    },
+    {
+      "question_id": 3,
+      "question": "What does the recursive acronym GNU stand for?",
+      "options": [
+        "Global Network Unix",
+        "General Not Unix",
+        "GNU's Not Unix"
+      ],
+      "answer": "GNU's Not Unix"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the full form of RAM?",
+      "options": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Rapid Access Memory"
+      ],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the full form of IPO in finance?",
+      "options": [
+        "International Public Offering",
+        "Initial Public Offering",
+        "Initial Private Offering"
+      ],
+      "answer": "Initial Public Offering"
+    },
+    {
+      "question_id": 6,
+      "question": "What does MIME stand for in email systems?",
+      "options": [
+        "Multiple Internet Mail Exchange",
+        "Multipurpose Internet Mail Exchange",
+        "Multipurpose Internet Mail Extensions"
+      ],
+      "answer": "Multipurpose Internet Mail Extensions"
+    },
+    {
+      "question_id": 7,
+      "question": "What does ASAP mean in messages?",
+      "options": [
+        "As Soon As Possible",
+        "At Soonest Available Place",
+        "As Soon As Practical"
+      ],
+      "answer": "As Soon As Possible"
+    },
+    {
+      "question_id": 8,
+      "question": "What does CFO stand for in corporate roles?",
+      "options": [
+        "Chief Financial Officer",
+        "Corporate Finance Officer",
+        "Chief Funds Officer"
+      ],
+      "answer": "Chief Financial Officer"
+    },
+    {
+      "question_id": 9,
+      "question": "What does ELISA represent in laboratory testing?",
+      "options": [
+        "Enzyme-Level Immunoassay System Assay",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Enzyme-Linked Immunoassay System Assay"
+      ],
+      "answer": "Enzyme-Linked Immunosorbent Assay"
+    },
+    {
+      "question_id": 10,
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyperlink Text Markup Language",
+        "Hyper Transfer Markup Language",
+        "HyperText Markup Language"
+      ],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question_id": 11,
+      "question": "What is TLS the abbreviation for?",
+      "options": [
+        "Transport Link Security",
+        "Transmission Layer Security",
+        "Transport Layer Security"
+      ],
+      "answer": "Transport Layer Security"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the full form of DES in cryptography?",
+      "options": [
+        "Data Encoded System",
+        "Data Encryption Standard",
+        "Digital Encryption Standard"
+      ],
+      "answer": "Data Encryption Standard"
+    },
+    {
+      "question_id": 13,
+      "question": "What does CPU mean in computing?",
+      "options": [
+        "Central Program Unit",
+        "Central Processing Unit",
+        "Computer Process Unit"
+      ],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the full form of FIFO in computing?",
+      "options": [
+        "Fast In, Fast Out",
+        "First In, Final Out",
+        "First In, First Out"
+      ],
+      "answer": "First In, First Out"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the full form of VLAN in networking?",
+      "options": [
+        "Virtual Logical Area Network",
+        "Virtual Local Area Network",
+        "Virtual Linked Area Network"
+      ],
+      "answer": "Virtual Local Area Network"
+    }
+  ]
+}

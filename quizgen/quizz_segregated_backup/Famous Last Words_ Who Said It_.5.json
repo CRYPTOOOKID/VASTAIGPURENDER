@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which playwright reportedly said \"I should never have switched from scotch to martinis\" as last words?",
+      "options": [
+        "George Bernard Shaw",
+        "Noël Coward",
+        "Ernest Hemingway"
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 2,
+      "question": "Who reportedly said \"I'm bored with it all\" in their final moments expressing weariness?",
+      "options": [
+        "Winston Churchill",
+        "George Eliot",
+        "Lewis Carroll"
+      ],
+      "answer": "Lewis Carroll"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is credited with telling a confidant \"I told you I was ill\" moments before death?",
+      "options": [
+        "Spike Milligan",
+        "Marlene Dietrich",
+        "Spike Milligan"
+      ],
+      "answer": "Spike Milligan"
+    },
+    {
+      "question_id": 4,
+      "question": "Which explorer’s purported last words were \"I only regret that I have but one life to lose for my country\"? (Famous variation)",
+      "options": [
+        "Nathan Hale",
+        "Christopher Columbus",
+        "Ferdinand Magellan"
+      ],
+      "answer": "Nathan Hale"
+    },
+    {
+      "question_id": 5,
+      "question": "Who reportedly said \"Don't cry for me\" as last words inspiring later cultural references?",
+      "options": [
+        "Eva Perón",
+        "Marilyn Monroe",
+        "Edith Piaf"
+      ],
+      "answer": "Eva Perón"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Soviet leader is recorded as saying \"I am not ready to be a saint\" in his final hours?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leon Trotsky"
+      ],
+      "answer": "Leon Trotsky"
+    },
+    {
+      "question_id": 7,
+      "question": "Which US founding father said \"It is well, I die hard, but I am not afraid to go\" on his deathbed?",
+      "options": [
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "answer": "Benjamin Franklin"
+    },
+    {
+      "question_id": 8,
+      "question": "Which famous actor said \"I'm losing it\" just before death from a heart attack on stage?",
+      "options": [
+        "James Dean",
+        "Laurence Olivier",
+        "John Barrymore"
+      ],
+      "answer": "John Barrymore"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is quoted as saying \"It hurts to breathe\" in the final seconds of their life in a famous assassination?",
+      "options": [
+        "Abraham Lincoln",
+        "John F. Kennedy",
+        "William McKinley"
+      ],
+      "answer": "William McKinley"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is known to have said \"I am ready to meet my Maker\" on their deathbed?",
+      "options": [
+        "George Washington",
+        "Florence Nightingale",
+        "Pope John Paul II"
+      ],
+      "answer": "George Washington"
+    },
+    {
+      "question_id": 11,
+      "question": "Which famous composer reportedly said \"Hear my music, my love\" as final words to a companion?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Franz Liszt",
+        "Johann Sebastian Bach"
+      ],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "question_id": 12,
+      "question": "Which English poet allegedly said \"Now comes the mystery\" on his deathbed?",
+      "options": [
+        "John Keats",
+        "William Blake",
+        "Percy Bysshe Shelley"
+      ],
+      "answer": "John Keats"
+    },
+    {
+      "question_id": 13,
+      "question": "Which inventor is reported to have said \"I will not be there to see the end\" near death?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Alexander Graham Bell"
+      ],
+      "answer": "Nikola Tesla"
+    },
+    {
+      "question_id": 14,
+      "question": "Which American civil rights leader is reported to have said \"I've been to the mountaintop\" just before dying?",
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Medgar Evers"
+      ],
+      "answer": "Martin Luther King Jr."
+    },
+    {
+      "question_id": 15,
+      "question": "Who is said to have described death as \"the great equaliser\" in their final utterance?",
+      "options": [
+        "Mark Twain",
+        "Napoleon Bonaparte",
+        "William Shakespeare"
+      ],
+      "answer": "Mark Twain"
+    }
+  ]
+}

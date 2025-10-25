@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which coastal fort near Puri houses a famous Hanuman temple and sea views?",
+      "options": [
+        "Chilika Fort",
+        "Konark Fort",
+        "Chandrabhaga Fort"
+      ],
+      "answer": "Konark Fort"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Mughal garden in Srinagar was built by Jahangir for his wife Nur Jahan?",
+      "options": [
+        "Shalimar Bagh",
+        "Nishat Bagh",
+        "Chashme Shahi"
+      ],
+      "answer": "Shalimar Bagh"
+    },
+    {
+      "question_id": 3,
+      "question": "Which British engineer designed the Gateway of India in Mumbai in 1911?",
+      "options": [
+        "George Wittet",
+        "Edwin Lutyens",
+        "William Emerson"
+      ],
+      "answer": "George Wittet"
+    },
+    {
+      "question_id": 4,
+      "question": "Which fort near Hyderabad is renowned for its acoustics and diamond trade history?",
+      "options": [
+        "Golconda Fort",
+        "Charminar Fort",
+        "Golkonda Citadel"
+      ],
+      "answer": "Golconda Fort"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Mughal emperor founded Fatehpur Sikri as his capital?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Jahangir"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Mughal-era designer created the garden layout for Shalimar Bagh in Srinagar?",
+      "options": [
+        "Nawab Shah Jahan's designers",
+        "Jahangir's garden planners",
+        "Nur Jahan's court architects"
+      ],
+      "answer": "Jahangir's garden planners"
+    },
+    {
+      "question_id": 7,
+      "question": "Which monument houses the India Gate War Memorial beneath its arch?",
+      "options": [
+        "India Gate",
+        "Jallianwala Bagh",
+        "Wagah Border Monument"
+      ],
+      "answer": "India Gate"
+    },
+    {
+      "question_id": 8,
+      "question": "Which ruler commissioned the Kailasa Temple at Ellora?",
+      "options": [
+        "Krishna I of the Rashtrakuta dynasty",
+        "Pulakeshin II",
+        "Harsha"
+      ],
+      "answer": "Krishna I of the Rashtrakuta dynasty"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 17th-century Mughal horticultural practice influenced garden tomb layouts across India?",
+      "options": [
+        "Charbagh symmetrical layout",
+        "Terraced hill gardens",
+        "Meandering lawns"
+      ],
+      "answer": "Charbagh symmetrical layout"
+    },
+    {
+      "question_id": 10,
+      "question": "Which temple complex in Khajuraho is known for erotic sculptures?",
+      "options": [
+        "Khajuraho Group of Temples",
+        "Bateshwar Temples",
+        "Omkareshwar Temple"
+      ],
+      "answer": "Khajuraho Group of Temples"
+    },
+    {
+      "question_id": 11,
+      "question": "Which gateway at Fatehpur Sikri reflects Akbar's victory in Gujarat?",
+      "options": [
+        "Buland Darwaza",
+        "Lal Darwaza",
+        "Jama Darwaza"
+      ],
+      "answer": "Buland Darwaza"
+    },
+    {
+      "question_id": 12,
+      "question": "Which monumental gateway did Alauddin Khalji commission within the Qutb complex?",
+      "options": [
+        "Alai Darwaza",
+        "Quwwat-ul-Islam Gate",
+        "Alauddin Gate"
+      ],
+      "answer": "Alai Darwaza"
+    },
+    {
+      "question_id": 13,
+      "question": "Which ancient Indian capital complex includes the Ashokan Lion Capital now national emblem?",
+      "options": [
+        "Sarnath",
+        "Sanchi",
+        "Lumbini"
+      ],
+      "answer": "Sarnath"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metal property of the Iron Pillar explains its remarkable corrosion resistance?",
+      "options": [
+        "High phosphorus content",
+        "High copper content",
+        "High chromium content"
+      ],
+      "answer": "High phosphorus content"
+    },
+    {
+      "question_id": 15,
+      "question": "Which craftsman is traditionally credited for the main marble inlay design of the Taj Mahal?",
+      "options": [
+        "Amanat Khan",
+        "Mir Sayyid Ali",
+        "Abdul Hamid"
+      ],
+      "answer": "Amanat Khan"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which description fits the myth about superfoods?",
+      "options": [
+        "One food can provide all needed nutrients",
+        "Some foods are nutrient-rich, but no single superfood prevents disease alone",
+        "Superfoods always reverse chronic illness"
+      ],
+      "answer": "Some foods are nutrient-rich, but no single superfood prevents disease alone"
+    },
+    {
+      "question_id": 2,
+      "question": "Which claim about gargling salt water preventing colds matches evidence?",
+      "options": [
+        "Gargling salt water prevents viruses from causing colds",
+        "Gargling may soothe throat symptoms but does not prevent viral infection",
+        "Gargling sterilizes the entire respiratory tract"
+      ],
+      "answer": "Gargling may soothe throat symptoms but does not prevent viral infection"
+    },
+    {
+      "question_id": 3,
+      "question": "Which statistical observation comes from meta-analyses of homeopathy trials?",
+      "options": [
+        "Many rigorous trials show effects consistent with placebo rather than specific efficacy",
+        "Meta-analyses prove homeopathy cures infectious diseases reliably",
+        "Homeopathy outperforms antibiotics in randomized trials"
+      ],
+      "answer": "Many rigorous trials show effects consistent with placebo rather than specific efficacy"
+    },
+    {
+      "question_id": 4,
+      "question": "Which statement about spot reduction of fat through exercise is accurate?",
+      "options": [
+        "Doing many sit-ups removes belly fat specifically",
+        "Fat loss occurs across the body; spot reduction is ineffective",
+        "Targeted exercises destroy fat cells in that area only"
+      ],
+      "answer": "Fat loss occurs across the body; spot reduction is ineffective"
+    },
+    {
+      "question_id": 5,
+      "question": "Which origin explains the carrot-night vision myth from World War II?",
+      "options": [
+        "British propaganda credited carrots to hide radar technology",
+        "German pilots invented the carrot myth intentionally",
+        "Carrots were scientifically proven to grant night vision instantly"
+      ],
+      "answer": "British propaganda credited carrots to hide radar technology"
+    },
+    {
+      "question_id": 6,
+      "question": "Which regulatory fact reflects claims about colloidal silver promoted historically?",
+      "options": [
+        "Colloidal silver was once marketed as a cure but can cause argyria and lacks proven benefits",
+        "Colloidal silver is FDA-approved to treat infections",
+        "Colloidal silver is a mandatory hospital antiseptic"
+      ],
+      "answer": "Colloidal silver was once marketed as a cure but can cause argyria and lacks proven benefits"
+    },
+    {
+      "question_id": 7,
+      "question": "Which claim about drinking eight glasses of water daily is most accurate?",
+      "options": [
+        "Everyone needs exactly eight glasses daily",
+        "Hydration needs vary by person and activity",
+        "Eight glasses prevent all health problems"
+      ],
+      "answer": "Hydration needs vary by person and activity"
+    },
+    {
+      "question_id": 8,
+      "question": "Which conclusion about ear candling aligns with safety advisories?",
+      "options": [
+        "Ear candling effectively removes earwax safely",
+        "Regulators warn ear candling risks burns and ear damage",
+        "Ear candling is medically recommended for ear infections"
+      ],
+      "answer": "Regulators warn ear candling risks burns and ear damage"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nuanced conclusion comes from studies on mindfulness and placebo-like effects?",
+      "options": [
+        "Mindfulness-based interventions improve symptoms partly via attention, expectation, and neuroplastic changes",
+        "Mindfulness has no measurable effects on the brain",
+        "Mindfulness instantly cures all psychiatric disorders"
+      ],
+      "answer": "Mindfulness-based interventions improve symptoms partly via attention, expectation, and neuroplastic changes"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about green juices detoxifying the body is correct?",
+      "options": [
+        "Green juices remove all bodily toxins overnight",
+        "Juices provide nutrients but organs remove toxins naturally",
+        "Green juice replaces all meals safely forever"
+      ],
+      "answer": "Juices provide nutrients but organs remove toxins naturally"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statement about herbal supplements and standardization is true?",
+      "options": [
+        "All herbal supplements have consistent active ingredient levels",
+        "Herbal supplement potency varies without strict regulation in many regions",
+        "Herbal supplements are identical to prescription drugs"
+      ],
+      "answer": "Herbal supplement potency varies without strict regulation in many regions"
+    },
+    {
+      "question_id": 12,
+      "question": "Which documented effect links high-dose vitamin A supplements to risks in certain populations?",
+      "options": [
+        "Excess vitamin A in pregnancy increases birth defect risks",
+        "High vitamin A has no known risks",
+        "Vitamin A prevents all congenital anomalies"
+      ],
+      "answer": "Excess vitamin A in pregnancy increases birth defect risks"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statement about cracking knuckles is correct?",
+      "options": [
+        "Cracking knuckles causes arthritis",
+        "Cracking knuckles does not cause arthritis",
+        "Cracking knuckles prevents arthritis"
+      ],
+      "answer": "Cracking knuckles does not cause arthritis"
+    },
+    {
+      "question_id": 14,
+      "question": "Which claim about fluoride and IQ is supported by major health authorities?",
+      "options": [
+        "Community water fluoridation at recommended levels causes major IQ loss",
+        "Major health agencies find recommended fluoridation safe; high exposures may have risks",
+        "Fluoride instantly corrupts brain cells at low doses"
+      ],
+      "answer": "Major health agencies find recommended fluoridation safe; high exposures may have risks"
+    },
+    {
+      "question_id": 15,
+      "question": "Which specific mechanism explains how tobacco smoke impacts cardiovascular risk?",
+      "options": [
+        "Tobacco smoke promotes inflammation, endothelial dysfunction, and atherosclerosis",
+        "Tobacco smoke only affects lungs and not the cardiovascular system",
+        "Smoking strengthens arterial walls"
+      ],
+      "answer": "Tobacco smoke promotes inflammation, endothelial dysfunction, and atherosclerosis"
+    }
+  ]
+}

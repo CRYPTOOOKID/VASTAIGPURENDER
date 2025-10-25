@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "English honorific 'sir' ultimately derives from which earlier form?",
+      "options": [
+        "Sire",
+        "Signor",
+        "Saint"
+      ],
+      "answer": "Sire"
+    },
+    {
+      "question_id": 2,
+      "question": "Verner's law primarily accounts for exceptions to which major Germanic sound law?",
+      "options": [
+        "Grimm's law",
+        "Great Vowel Shift",
+        "Analogy"
+      ],
+      "answer": "Grimm's law"
+    },
+    {
+      "question_id": 3,
+      "question": "English 'street' comes from Latin 'strata'; what did 'strata' originally denote?",
+      "options": [
+        "A paved road",
+        "A marketplace",
+        "A fortress"
+      ],
+      "answer": "A paved road"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Latin adjective meaning 'left' is the root of English 'sinister'?",
+      "options": [
+        "sinister",
+        "dexter",
+        "ambidexter"
+      ],
+      "answer": "sinister"
+    },
+    {
+      "question_id": 5,
+      "question": "What name describes the major Early Modern English pronunciation shift affecting vowels?",
+      "options": [
+        "Great Vowel Shift",
+        "Great Consonant Shift",
+        "Minor Vowel Change"
+      ],
+      "answer": "Great Vowel Shift"
+    },
+    {
+      "question_id": 6,
+      "question": "Which word for a rice field entered English from Malay 'padi' via Portuguese and sailors?",
+      "options": [
+        "Paddy",
+        "Rice",
+        "Paddyfield"
+      ],
+      "answer": "Paddy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which language gave us 'quarantine' from 'quarantena' meaning forty days?",
+      "options": [
+        "Italian",
+        "Spanish",
+        "French"
+      ],
+      "answer": "Italian"
+    },
+    {
+      "question_id": 8,
+      "question": "The English word 'sugar' reached Europe primarily through which route?",
+      "options": [
+        "Arabic via Romance languages",
+        "Chinese via Mongol traders",
+        "Native Americas via Spanish"
+      ],
+      "answer": "Arabic via Romance languages"
+    },
+    {
+      "question_id": 9,
+      "question": "Which writing system preserves the earliest attested Hittite language texts?",
+      "options": [
+        "Cuneiform",
+        "Hieroglyphs",
+        "Linear B"
+      ],
+      "answer": "Cuneiform"
+    },
+    {
+      "question_id": 10,
+      "question": "Which language contributed the word 'bazaar' to English?",
+      "options": [
+        "Persian",
+        "Arabic",
+        "Turkish"
+      ],
+      "answer": "Persian"
+    },
+    {
+      "question_id": 11,
+      "question": "Which 19th-century scholar is credited with founding modern semantics?",
+      "options": [
+        "Michel Bréal",
+        "Ferdinand de Saussure",
+        "Wilhelm von Humboldt"
+      ],
+      "answer": "Michel Bréal"
+    },
+    {
+      "question_id": 12,
+      "question": "Which linguist is known for proposing the controversial Nostratic macrofamily hypothesis?",
+      "options": [
+        "Vladislav Illich-Svitych",
+        "Ferdinand de Saussure",
+        "Noam Chomsky"
+      ],
+      "answer": "Vladislav Illich-Svitych"
+    },
+    {
+      "question_id": 13,
+      "question": "The English word 'window' derives from Old Norse 'vindauga' meaning what?",
+      "options": [
+        "Wind eye",
+        "Glass opening",
+        "Stone aperture"
+      ],
+      "answer": "Wind eye"
+    },
+    {
+      "question_id": 14,
+      "question": "Which suffix '-esque' in English originates from which language?",
+      "options": [
+        "French",
+        "Latin",
+        "Greek"
+      ],
+      "answer": "French"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 1755 English dictionary notably shaped standardized English spelling and usage?",
+      "options": [
+        "A Dictionary of the English Language",
+        "Oxford English Dictionary",
+        "Webster's Dictionary"
+      ],
+      "answer": "A Dictionary of the English Language"
+    }
+  ]
+}

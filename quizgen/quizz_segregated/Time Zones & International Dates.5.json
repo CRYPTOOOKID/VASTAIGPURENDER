@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What seasonal practice do many countries near mid-latitudes follow to save energy?",
+      "options": [
+        "Solar Shifting",
+        "Daylight Saving Time",
+        "Equinox Adjustment"
+      ],
+      "answer": "Daylight Saving Time"
+    },
+    {
+      "question_id": 2,
+      "question": "Which clock comparison revealed the need for global time standardization in the 19th century?",
+      "options": [
+        "Telegraph signal failures",
+        "Maritime compass errors",
+        "Railway timetables inconsistencies"
+      ],
+      "answer": "Railway timetables inconsistencies"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rare timekeeping oddity exists in Nepal's standard time offset?",
+      "options": [
+        "UTC+6:15 offset",
+        "UTC+5:45 offset",
+        "UTC+5:30 offset"
+      ],
+      "answer": "UTC+5:45 offset"
+    },
+    {
+      "question_id": 4,
+      "question": "Which large country uses a single time zone despite spanning many longitudes?",
+      "options": [
+        "India",
+        "Brazil",
+        "China"
+      ],
+      "answer": "China"
+    },
+    {
+      "question_id": 5,
+      "question": "Which U.S. legislation limited the length of daylight saving time after 1966?",
+      "options": [
+        "Daylight Act",
+        "Time Zone Standardization Act",
+        "Uniform Time Act"
+      ],
+      "answer": "Uniform Time Act"
+    },
+    {
+      "question_id": 6,
+      "question": "Which island group's repositioning of the International Date Line in 1995 created the world's earliest time zone?",
+      "options": [
+        "Line Islands (Kiribati)",
+        "Marquesas Islands",
+        "Aleutian Islands"
+      ],
+      "answer": "Line Islands (Kiribati)"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the Prime Meridian's longitude?",
+      "options": [
+        "0°",
+        "90° E",
+        "180°"
+      ],
+      "answer": "0°"
+    },
+    {
+      "question_id": 8,
+      "question": "Which city historically used 'local mean time' before adopting standardized zones?",
+      "options": [
+        "New Delhi",
+        "Tokyo",
+        "Paris"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 9,
+      "question": "Which country uses a non-integer time zone offset of UTC+3:30?",
+      "options": [
+        "Iraq",
+        "Turkey",
+        "Iran"
+      ],
+      "answer": "Iran"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of these is a half-hour time offset country?",
+      "options": [
+        "Germany",
+        "Japan",
+        "India"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 11,
+      "question": "Which African country uses UTC+3 as standard time year-round?",
+      "options": [
+        "Ghana",
+        "Mali",
+        "Kenya"
+      ],
+      "answer": "Kenya"
+    },
+    {
+      "question_id": 12,
+      "question": "Which European microstate aligns its legal time with a neighboring country rather than its longitude?",
+      "options": [
+        "Monaco aligns with France",
+        "Liechtenstein aligns with Germany",
+        "Andorra aligns with Portugal"
+      ],
+      "answer": "Monaco aligns with France"
+    },
+    {
+      "question_id": 13,
+      "question": "Why do some countries use half-hour or 45-minute offsets?",
+      "options": [
+        "To confuse travelers",
+        "To follow climate zones",
+        "To better match solar time"
+      ],
+      "answer": "To better match solar time"
+    },
+    {
+      "question_id": 14,
+      "question": "Which European country spans three time zones including overseas regions?",
+      "options": [
+        "France",
+        "Italy",
+        "United Kingdom"
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 15,
+      "question": "Which nation adopted 'Moscow Time' year-round in 2014 by changing DST rules?",
+      "options": [
+        "Ukraine",
+        "Russia",
+        "Belarus"
+      ],
+      "answer": "Russia"
+    }
+  ]
+}

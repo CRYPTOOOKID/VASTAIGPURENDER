@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term refers to many sellers offering similar but not identical products?",
+      "options": [
+        "Monopolistic competition",
+        "Perfect competition",
+        "Oligopoly"
+      ],
+      "answer": "Monopolistic competition"
+    },
+    {
+      "question_id": 2,
+      "question": "Which term describes a good with no close substitutes and strong brand loyalty?",
+      "options": [
+        "Inelastic good",
+        "Perfect substitute",
+        "Complementary good"
+      ],
+      "answer": "Inelastic good"
+    },
+    {
+      "question_id": 3,
+      "question": "Which term identifies a market where asymmetric information leads sellers to withdraw high-quality goods?",
+      "options": [
+        "Adverse selection",
+        "Moral hazard",
+        "Signaling"
+      ],
+      "answer": "Adverse selection"
+    },
+    {
+      "question_id": 4,
+      "question": "What term describes limited resources versus unlimited wants?",
+      "options": [
+        "Scarcity",
+        "Surplus",
+        "Equilibrium"
+      ],
+      "answer": "Scarcity"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term describes costs that must be paid even if production stops?",
+      "options": [
+        "Sunk costs",
+        "Variable costs",
+        "Marginal costs"
+      ],
+      "answer": "Sunk costs"
+    },
+    {
+      "question_id": 6,
+      "question": "What term refers to the difference between actual and potential GDP?",
+      "options": [
+        "Output gap",
+        "Trade gap",
+        "Budget gap"
+      ],
+      "answer": "Output gap"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term means goods people buy less of as income rises?",
+      "options": [
+        "Inferior goods",
+        "Normal goods",
+        "Substitute goods"
+      ],
+      "answer": "Inferior goods"
+    },
+    {
+      "question_id": 8,
+      "question": "What term describes income adjusted for inflation?",
+      "options": [
+        "Real income",
+        "Nominal income",
+        "Disposable income"
+      ],
+      "answer": "Real income"
+    },
+    {
+      "question_id": 9,
+      "question": "What term identifies goods with network effects, where value rises with users?",
+      "options": [
+        "Network goods",
+        "Giffen goods",
+        "Inferior goods"
+      ],
+      "answer": "Network goods"
+    },
+    {
+      "question_id": 10,
+      "question": "What term refers to the ability to buy goods and services?",
+      "options": [
+        "Purchasing power",
+        "Market power",
+        "Bargaining power"
+      ],
+      "answer": "Purchasing power"
+    },
+    {
+      "question_id": 11,
+      "question": "What term names a legal restriction on quantity of imports?",
+      "options": [
+        "Quota",
+        "Tariff",
+        "Subsidy"
+      ],
+      "answer": "Quota"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term describes a firm's pricing strategy to maximize profit by equating marginal revenue and marginal cost?",
+      "options": [
+        "Profit maximization rule",
+        "Break-even pricing",
+        "Cost-plus pricing"
+      ],
+      "answer": "Profit maximization rule"
+    },
+    {
+      "question_id": 13,
+      "question": "Which term identifies goods sold to other countries?",
+      "options": [
+        "Exports",
+        "Imports",
+        "Subsidies"
+      ],
+      "answer": "Exports"
+    },
+    {
+      "question_id": 14,
+      "question": "What term is used for the additional output from adding one more worker holding capital fixed?",
+      "options": [
+        "Marginal product of labor",
+        "Average product",
+        "Total product"
+      ],
+      "answer": "Marginal product of labor"
+    },
+    {
+      "question_id": 15,
+      "question": "Which term describes diminishing additional output when a variable input increases with fixed inputs?",
+      "options": [
+        "Law of diminishing marginal returns",
+        "Constant returns to scale",
+        "Increasing returns to scale"
+      ],
+      "answer": "Law of diminishing marginal returns"
+    }
+  ]
+}

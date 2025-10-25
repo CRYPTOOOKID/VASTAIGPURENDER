@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which flower is often associated with funerals and mourning in several Western cultures?"
+    },
+    {
+      "question_id": 2,
+      "question": "What specialized word names the superstition specifically about Friday the 13th?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which nineteenth-century author popularized modern fear of Friday the 13th through fiction?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which talisman features an open hand and is used to protect against evil in Middle Eastern cultures?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Roman deity's priests practiced augury by observing birds for omens?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which object did Victorian households commonly use as a charm against contagious disease and misfortune?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which creature is often used as a symbol of bad omen in sailors' superstitions?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which cultural object is commonly given at weddings to protect the couple from evil influences?"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the specialist term for talismans whose inscriptions are designed to avert harm?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which action do people often take to reverse spilled salt's bad omen?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ancient civilization is known for interpreting omens from entrails and liver inspections?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indo-European deity's cult is sometimes connected with horseshoe luck traditions historically?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which bird is often linked to omens and death in European folklore?"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the word for a person who interprets omens and portents professionally?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Ottoman-era term refers to blue glass amulets against envy and malice seen across Anatolia?"
+    }
+  ]
+}

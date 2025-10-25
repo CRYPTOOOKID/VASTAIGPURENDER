@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the Bengali dish 'macher jhol' commonly understood to be when served at meals?",
+      "options": [
+        "Fish curry",
+        "Vegetable stew",
+        "Sweet dessert"
+      ],
+      "answer": "Fish curry"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Marathi festival sweet made from chana dal and jaggery is a traditional offering during religious ceremonies?",
+      "options": [
+        "Puran poli",
+        "Shrikhand",
+        "Basundi"
+      ],
+      "answer": "Puran poli"
+    },
+    {
+      "question_id": 3,
+      "question": "Which spice mixture called 'panch phoron' is composed of five whole seeds commonly used in Bengali and Assamese cuisines?",
+      "options": [
+        "Fenugreek, nigella, cumin, fennel, mustard",
+        "Coriander, turmeric, cumin, cardamom, cloves",
+        "Fennel, cinnamon, star anise, cardamom, mace"
+      ],
+      "answer": "Fenugreek, nigella, cumin, fennel, mustard"
+    },
+    {
+      "question_id": 4,
+      "question": "What Mumbai street food consists of a potato fritter sandwiched inside a soft bun with chutney?",
+      "options": [
+        "Vada pav",
+        "Pav bhaji",
+        "Bhel puri"
+      ],
+      "answer": "Vada pav"
+    },
+    {
+      "question_id": 5,
+      "question": "Which coastal Maharashtrian sweet uses coconut, jaggery, and rice flour and is often steamed in banana leaves?",
+      "options": [
+        "Modak",
+        "Puran poli",
+        "Basundi"
+      ],
+      "answer": "Modak"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Portuguese dish name transformed into the Goan curry 'vindaloo' through local adaptation of flavors?",
+      "options": [
+        "Vinha d'alhos",
+        "Cozido à portuguesa",
+        "Bacalhau"
+      ],
+      "answer": "Vinha d'alhos"
+    },
+    {
+      "question_id": 7,
+      "question": "Which traditional Indian clay oven is commonly used for making naan, tandoori chicken, and kebabs?",
+      "options": [
+        "Tandoor",
+        "Bhatti",
+        "Chulha"
+      ],
+      "answer": "Tandoor"
+    },
+    {
+      "question_id": 8,
+      "question": "Which South Indian sweet fermented rice pancake is thicker than dosa and often topped with onions and chilies?",
+      "options": [
+        "Uttapam",
+        "Appam",
+        "Pesarattu"
+      ],
+      "answer": "Uttapam"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Mughal emperor's patronage significantly shaped the development of rich gravies and kebab traditions in Indian courts?",
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Shah Jahan"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "question_id": 10,
+      "question": "What Indian condiment includes chutneys made from coconut, coriander, and tamarind served with snacks?",
+      "options": [
+        "Chutney",
+        "Raita",
+        "Pulao"
+      ],
+      "answer": "Chutney"
+    },
+    {
+      "question_id": 11,
+      "question": "Which coastal Karnataka dish uses coconut, tamarind, and fish layered in a tangy, spiced curry called 'neer dosa' accompaniment?",
+      "options": [
+        "Fish curry",
+        "Biryani",
+        "Korma"
+      ],
+      "answer": "Fish curry"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient Indian treatise and travelogues cite early mentions of spiced rice and meat dishes that predate Mughal influence?",
+      "options": [
+        "Accounts in Ain-i-Akbari",
+        "Sushruta and travelogues",
+        "Vedas explicitly describing biryani"
+      ],
+      "answer": "Sushruta and travelogues"
+    },
+    {
+      "question_id": 13,
+      "question": "Which souring fruit, commonly used in Konkani and Goan coastal cooking, gives a tart flavor to seafood curries?",
+      "options": [
+        "Kokum",
+        "Amla",
+        "Tamarind"
+      ],
+      "answer": "Kokum"
+    },
+    {
+      "question_id": 14,
+      "question": "Which coastal fish variety historically shaped Bengali elite cuisine and inspired many regional festivals and cookbooks?",
+      "options": [
+        "Rohu",
+        "Hilsa (ilish)",
+        "Pomfret"
+      ],
+      "answer": "Hilsa (ilish)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fermented soybean product from northeastern India is a staple umami ingredient in several tribal cuisines?",
+      "options": [
+        "Tukpa",
+        "Axone (akhuni)",
+        "Hara chana"
+      ],
+      "answer": "Axone (akhuni)"
+    }
+  ]
+}

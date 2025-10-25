@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who is worshipped as the divine cowherd and playful lover in Krishna lore?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Purana predominantly narrates Vishnu's exploits and avatars?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Puranic figure served as Vishnu's gatekeeper and appears as a dwarf in cosmic stories?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which text contains hymns dedicated to various Vedic gods?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sage authored the Yoga Vasistha narrative teaching Rama spiritual wisdom?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which goddess is addressed as 'Sarvamangala' and appears in the Lalita Sahasranama hymns?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which weapon is commonly associated with Vishnu's iconography?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which son of Kunti and the central Pandava archer received Krishna's guidance in Mahabharata?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which epic battle features the mighty mace duel between Bhima and Duryodhana?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival celebrates Rama's return to Ayodhya after exile?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which goddess' iconography includes a veena, signifying music and learning?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Puranic text focuses extensively on Shiva's legends and temple lore in South India?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who is the Hindu god of preservation in the Trimurti?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which god is addressed as 'Jagatpati' or lord of the universe and preserver of dharma?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which avatar of Vishnu is described as a boar rescuing the earth from Hiranyaksha?"
+    }
+  ]
+}

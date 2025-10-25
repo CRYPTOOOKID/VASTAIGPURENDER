@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which temperature scale uses 32 for freezing and 212 for boiling of water?",
+      "options": [
+        "Fahrenheit",
+        "Celsius",
+        "Kelvin"
+      ],
+      "answer": "Fahrenheit"
+    },
+    {
+      "question_id": 2,
+      "question": "What atmospheric layering leads to freezing rain instead of snowfall at the surface?",
+      "options": [
+        "High pressure aloft",
+        "A warm layer aloft melting snow then refreezing on surfaces",
+        "Strong surface heating"
+      ],
+      "answer": "A warm layer aloft melting snow then refreezing on surfaces"
+    },
+    {
+      "question_id": 3,
+      "question": "What common nighttime process creates temperature inversions that trap pollutants near the surface?",
+      "options": [
+        "Radiational cooling of the surface",
+        "Daytime convective mixing",
+        "Strong frontal passage"
+      ],
+      "answer": "Radiational cooling of the surface"
+    },
+    {
+      "question_id": 4,
+      "question": "What instrument directly measures atmospheric humidity?",
+      "options": [
+        "Rain gauge",
+        "Hygrometer",
+        "Ceilometer"
+      ],
+      "answer": "Hygrometer"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term measures atmospheric moisture as a percentage of saturation at current temperature?",
+      "options": [
+        "Relative humidity",
+        "Mixing ratio",
+        "Specific humidity"
+      ],
+      "answer": "Relative humidity"
+    },
+    {
+      "question_id": 6,
+      "question": "What scientific field uses tree-ring width and density to reconstruct past climate variations?",
+      "options": [
+        "Paleomagnetism",
+        "Dendroclimatology",
+        "Glaciology"
+      ],
+      "answer": "Dendroclimatology"
+    },
+    {
+      "question_id": 7,
+      "question": "Which temperature scale sets absolute zero at 0 units?",
+      "options": [
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "answer": "Kelvin"
+    },
+    {
+      "question_id": 8,
+      "question": "What weather event occurs when wind lifts and suspends dust or sand into the atmosphere?",
+      "options": [
+        "Microburst",
+        "Virga",
+        "Dust storm"
+      ],
+      "answer": "Dust storm"
+    },
+    {
+      "question_id": 9,
+      "question": "Which satellite instrument class measures vertical atmospheric temperature profiles using infrared emission?",
+      "options": [
+        "Microwave radiometer",
+        "Scatterometer",
+        "Infrared sounder"
+      ],
+      "answer": "Infrared sounder"
+    },
+    {
+      "question_id": 10,
+      "question": "What forms when warm, moist air cools below its dew point near the ground?",
+      "options": [
+        "Haze",
+        "Mist",
+        "Fog"
+      ],
+      "answer": "Fog"
+    },
+    {
+      "question_id": 11,
+      "question": "What large-scale atmospheric waves help shape jet stream meanders and weather patterns?",
+      "options": [
+        "Kelvin waves",
+        "Gravity waves",
+        "Rossby waves"
+      ],
+      "answer": "Rossby waves"
+    },
+    {
+      "question_id": 12,
+      "question": "What does isentropic analysis follow to study air parcel movement and mass transport?",
+      "options": [
+        "Surfaces of constant humidity",
+        "Surfaces of constant pressure",
+        "Surfaces of constant potential temperature"
+      ],
+      "answer": "Surfaces of constant potential temperature"
+    },
+    {
+      "question_id": 13,
+      "question": "What instrument is commonly used to measure air temperature?",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Thermometer"
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "question_id": 14,
+      "question": "Which index estimates human discomfort during hot, humid conditions combining temperature and humidity?",
+      "options": [
+        "Wind chill index",
+        "Heat index",
+        "UV index"
+      ],
+      "answer": "Heat index"
+    },
+    {
+      "question_id": 15,
+      "question": "In severe-weather forecasting what does CAPE stand for?",
+      "options": [
+        "Coriolis Adjusted Pressure Estimate",
+        "Convective Available Potential Energy",
+        "Cloud Altitude Potential Estimate"
+      ],
+      "answer": "Convective Available Potential Energy"
+    }
+  ]
+}

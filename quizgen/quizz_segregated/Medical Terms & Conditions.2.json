@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which symptom best describes 'dyspnea' as used by clinicians?",
+      "options": [
+        "Joint stiffness",
+        "Abdominal pain",
+        "Shortness of breath"
+      ],
+      "answer": "Shortness of breath"
+    },
+    {
+      "question_id": 2,
+      "question": "Which organ-specific tumor marker is commonly raised in prostate cancer screening?",
+      "options": [
+        "Alpha-fetoprotein",
+        "Prostate-specific antigen",
+        "CA-125"
+      ],
+      "answer": "Prostate-specific antigen"
+    },
+    {
+      "question_id": 3,
+      "question": "Which enzyme deficiency underlies classic McArdle disease causing exercise intolerance?",
+      "options": [
+        "Glucose-6-phosphatase deficiency",
+        "Lysosomal acid maltase deficiency",
+        "Muscle glycogen phosphorylase deficiency"
+      ],
+      "answer": "Muscle glycogen phosphorylase deficiency"
+    },
+    {
+      "question_id": 4,
+      "question": "Which infection is most commonly associated with Staphylococcus aureus?",
+      "options": [
+        "Helminthiasis",
+        "Skin and wound infections",
+        "Viral pneumonia"
+      ],
+      "answer": "Skin and wound infections"
+    },
+    {
+      "question_id": 5,
+      "question": "Which condition involves demyelination in the central nervous system affecting young adults?",
+      "options": [
+        "Guillain-Barré syndrome",
+        "Amyotrophic lateral sclerosis",
+        "Multiple sclerosis"
+      ],
+      "answer": "Multiple sclerosis"
+    },
+    {
+      "question_id": 6,
+      "question": "Which cancer staging system uses T, N, and M categories to describe extent of disease?",
+      "options": [
+        "TNM staging system",
+        "FIGO grading system",
+        "AJCC performance index"
+      ],
+      "answer": "TNM staging system"
+    },
+    {
+      "question_id": 7,
+      "question": "What condition is indicated by 'hyperglycemia' in laboratory results?",
+      "options": [
+        "High blood pressure",
+        "High blood glucose",
+        "Low blood calcium"
+      ],
+      "answer": "High blood glucose"
+    },
+    {
+      "question_id": 8,
+      "question": "Which pathogen causes tuberculosis as detected by acid-fast bacilli staining?",
+      "options": [
+        "Klebsiella pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Mycobacterium tuberculosis"
+      ],
+      "answer": "Mycobacterium tuberculosis"
+    },
+    {
+      "question_id": 9,
+      "question": "Which electrophysiological finding defines atrial fibrillation on electrocardiogram?",
+      "options": [
+        "Prolonged PR interval with dropped beats",
+        "Irregularly irregular rhythm without distinct P waves",
+        "Regular tachycardia with sawtooth P waves"
+      ],
+      "answer": "Irregularly irregular rhythm without distinct P waves"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'CBC' stand for in routine blood testing?",
+      "options": [
+        "Comprehensive biochemistry chart",
+        "Complete blood count",
+        "Cardiac biomarker check"
+      ],
+      "answer": "Complete blood count"
+    },
+    {
+      "question_id": 11,
+      "question": "Which diagnostic marker indicates myocardial injury when elevated in blood tests?",
+      "options": [
+        "Alkaline phosphatase",
+        "Troponin I",
+        "Hemoglobin A1c"
+      ],
+      "answer": "Troponin I"
+    },
+    {
+      "question_id": 12,
+      "question": "Which screening criterion defines metabolic syndrome through waist, lipids, blood pressure, glucose abnormalities?",
+      "options": [
+        "CHA2DS2-VASc criteria",
+        "ATP III criteria",
+        "Revised Jones criteria"
+      ],
+      "answer": "ATP III criteria"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'BMI' measure as a common clinical indicator?",
+      "options": [
+        "Body mass index",
+        "Basal metabolic intake",
+        "Blood mineral indicator"
+      ],
+      "answer": "Body mass index"
+    },
+    {
+      "question_id": 14,
+      "question": "Which antimicrobial mechanism do macrolides primarily use to inhibit bacteria?",
+      "options": [
+        "Inhibit 50S ribosomal subunit protein synthesis",
+        "Block folate synthesis",
+        "Disrupt cell wall synthesis"
+      ],
+      "answer": "Inhibit 50S ribosomal subunit protein synthesis"
+    },
+    {
+      "question_id": 15,
+      "question": "Which clinical triad classically suggests normal pressure hydrocephalus in older adults?",
+      "options": [
+        "Ophthalmoplegia, ataxia, areflexia",
+        "Gait disturbance, urinary incontinence, cognitive decline",
+        "Fever, neck stiffness, photophobia"
+      ],
+      "answer": "Gait disturbance, urinary incontinence, cognitive decline"
+    }
+  ]
+}

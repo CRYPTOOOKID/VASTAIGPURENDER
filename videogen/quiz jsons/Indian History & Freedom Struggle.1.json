@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which act of 1909 introduced separate electorates for Muslims in British India?",
+      "options": [
+        "Montagu-Chelmsford Reforms",
+        "Morley-Minto Reforms",
+        "Government of India Act 1919"
+      ],
+      "answer": "Morley-Minto Reforms"
+    },
+    {
+      "question_id": 2,
+      "question": "Who presided over the 1929 Lahore Session where 'Purna Swaraj' was declared?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian historian popularized the thesis of 'decentralized republics' in ancient South India through inscriptions?",
+      "options": [
+        "R. Nagaswamy",
+        "K. A. Nilakanta Sastri",
+        "S. R. Balasubrahmanyam"
+      ],
+      "answer": "K. A. Nilakanta Sastri"
+    },
+    {
+      "question_id": 4,
+      "question": "Who served as the first Prime Minister of independent India in 1947?",
+      "options": [
+        "C. Rajagopalachari",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question_id": 5,
+      "question": "Which 1920 act expanded Indian participation in legislative councils and reformed civil services examinations?",
+      "options": [
+        "Government of India Act 1919",
+        "Indian Councils Act 1920",
+        "Montagu Reforms 1920"
+      ],
+      "answer": "Government of India Act 1919"
+    },
+    {
+      "question_id": 6,
+      "question": "Which colonial policy defined the Doctrine of Lapse used by Lord Dalhousie to annex Indian states?",
+      "options": [
+        "Subsidiary Alliance enforcement",
+        "Annexation by failure of natural heirs",
+        "Permanent Settlement enforcement"
+      ],
+      "answer": "Annexation by failure of natural heirs"
+    },
+    {
+      "question_id": 7,
+      "question": "Which ancient urban civilization had major sites at Harappa and Mohenjo-daro?",
+      "options": [
+        "Indus Valley Civilization",
+        "Mauryan Civilization",
+        "Vedic Civilization"
+      ],
+      "answer": "Indus Valley Civilization"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Indian princely state rejected accession to Pakistan and joined India in 1947 after a police action?",
+      "options": [
+        "Kashmir",
+        "Junagadh",
+        "Hyderabad"
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 1835 education policy introduced English as the medium for higher education in India?",
+      "options": [
+        "Wood's Despatch",
+        "Macaulay Minute",
+        "Charter Act of 1813"
+      ],
+      "answer": "Macaulay Minute"
+    },
+    {
+      "question_id": 10,
+      "question": "Who led the Home Rule Movement in India alongside Annie Besant and Bal Gangadhar Tilak?",
+      "options": [
+        "Vallabhbhai Patel",
+        "Bipin Chandra Pal",
+        "Lala Lajpat Rai"
+      ],
+      "answer": "Bipin Chandra Pal"
+    },
+    {
+      "question_id": 11,
+      "question": "Which regiment's issue with greased cartridges sparked the 1857 Sepoy Mutiny?",
+      "options": [
+        "Brown Bess muskets",
+        "Enfield rifle cartridges",
+        "Lee-Enfield cartridges"
+      ],
+      "answer": "Enfield rifle cartridges"
+    },
+    {
+      "question_id": 12,
+      "question": "Which leader organized the 1920 Bardoli Satyagraha that led to compensation for farmers after tax hikes?",
+      "options": [
+        "Mahatma Gandhi",
+        "C. Rajagopalachari",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Indian leader formed the Forward Bloc after differences with the Congress in 1939?",
+      "options": [
+        "C. Rajagopalachari",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city served as the capital of the British in India before New Delhi became capital in 1911?",
+      "options": [
+        "Calcutta",
+        "Madras",
+        "Bombay"
+      ],
+      "answer": "Calcutta"
+    },
+    {
+      "question_id": 15,
+      "question": "Which satyagrahi led the Kheda movement in 1918 advocating relief for peasants facing crop failure?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "Mahatma Gandhi",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    }
+  ]
+}

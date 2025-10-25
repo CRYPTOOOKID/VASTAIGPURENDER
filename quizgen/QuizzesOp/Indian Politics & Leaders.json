@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Who was the first Prime Minister of independent India?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Sardar Vallabhbhai Patel",
+          "B. R. Ambedkar"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": [
+          "B. R. Ambedkar",
+          "Jawaharlal Nehru",
+          "Rajendra Prasad"
+        ],
+        "answer": "B. R. Ambedkar"
+      },
+      {
+        "question": "On which date did India become a republic?",
+        "options": [
+          "26 January 1950",
+          "15 August 1947",
+          "26 November 1949"
+        ],
+        "answer": "26 January 1950"
+      },
+      {
+        "question": "Which house of Parliament is called the lower house?",
+        "options": [
+          "Lok Sabha",
+          "Rajya Sabha",
+          "Legislative Council"
+        ],
+        "answer": "Lok Sabha"
+      },
+      {
+        "question": "Which house of Parliament is called the upper house?",
+        "options": [
+          "Rajya Sabha",
+          "Lok Sabha",
+          "State Legislative Assembly"
+        ],
+        "answer": "Rajya Sabha"
+      },
+      {
+        "question": "How many states did India have after the 2019 reorganization?",
+        "options": [
+          "28 states",
+          "29 states",
+          "27 states"
+        ],
+        "answer": "28 states"
+      },
+      {
+        "question": "Who became India’s first President after independence?",
+        "options": [
+          "Dr. Rajendra Prasad",
+          "Dr. Zakir Husain",
+          "Sarvepalli Radhakrishnan"
+        ],
+        "answer": "Dr. Rajendra Prasad"
+      },
+      {
+        "question": "Which party led India through most of the early decades after independence?",
+        "options": [
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Communist Party of India"
+        ],
+        "answer": "Indian National Congress"
+      },
+      {
+        "question": "Which movement significantly increased India’s food grain output in the 1960s?",
+        "options": [
+          "Green Revolution",
+          "White Revolution",
+          "Blue Revolution"
+        ],
+        "answer": "Green Revolution"
+      },
+      {
+        "question": "Who served as Prime Minister during the 1991 economic reforms?",
+        "options": [
+          "P. V. Narasimha Rao",
+          "Rajiv Gandhi",
+          "Atal Bihari Vajpayee"
+        ],
+        "answer": "P. V. Narasimha Rao"
+      },
+      {
+        "question": "In which year was the Bharatiya Janata Party (BJP) formally founded?",
+        "options": [
+          "1980",
+          "1977",
+          "1991"
+        ],
+        "answer": "1980"
+      },
+      {
+        "question": "Who was India’s first woman Prime Minister?",
+        "options": [
+          "Indira Gandhi",
+          "Sarojini Naidu",
+          "Pratibha Patil"
+        ],
+        "answer": "Indira Gandhi"
+      },
+      {
+        "question": "Which body conducts national elections in India?",
+        "options": [
+          "Election Commission of India",
+          "Ministry of Home Affairs",
+          "Supreme Court of India"
+        ],
+        "answer": "Election Commission of India"
+      },
+      {
+        "question": "What is the minimum age required to be elected to Lok Sabha?",
+        "options": [
+          "25 years",
+          "30 years",
+          "35 years"
+        ],
+        "answer": "25 years"
+      },
+      {
+        "question": "What is the tenure of a Rajya Sabha member?",
+        "options": [
+          "6 years",
+          "5 years",
+          "4 years"
+        ],
+        "answer": "6 years"
+      },
+      {
+        "question": "Which leader is most associated with non-violent independence struggle?",
+        "options": [
+          "Mahatma Gandhi",
+          "Subhas Chandra Bose",
+          "Bhagat Singh"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Who founded the All India Forward Bloc?",
+        "options": [
+          "Subhas Chandra Bose",
+          "Jawaharlal Nehru",
+          "Sardar Patel"
+        ],
+        "answer": "Subhas Chandra Bose"
+      },
+      {
+        "question": "Which constitutional amendment added Fundamental Duties in India?",
+        "options": [
+          "42nd Amendment",
+          "44th Amendment",
+          "61st Amendment"
+        ],
+        "answer": "42nd Amendment"
+      },
+      {
+        "question": "Who was India’s first woman President?",
+        "options": [
+          "Pratibha Patil",
+          "Pranab Mukherjee",
+          "Sarvepalli Radhakrishnan"
+        ],
+        "answer": "Pratibha Patil"
+      },
+      {
+        "question": "Who presided as the first permanent Chairman of the Constituent Assembly?",
+        "options": [
+          "Dr. Rajendra Prasad",
+          "Dr. Sachchidananda Sinha",
+          "B. R. Ambedkar"
+        ],
+        "answer": "Dr. Rajendra Prasad"
+      },
+      {
+        "question": "Which volunteer organization influenced the ideological base of the BJP?",
+        "options": [
+          "Rashtriya Swayamsevak Sangh",
+          "Indian National Congress",
+          "Akhil Bharatiya Vidyarthi Parishad"
+        ],
+        "answer": "Rashtriya Swayamsevak Sangh"
+      },
+      {
+        "question": "Which amendment lowered the Indian voting age from 21 to 18?",
+        "options": [
+          "61st Amendment",
+          "42nd Amendment",
+          "44th Amendment"
+        ],
+        "answer": "61st Amendment"
+      },
+      {
+        "question": "Who delivered India’s 'Tryst with Destiny' speech on independence night?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Mahatma Gandhi",
+          "Sardar Patel"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Who served as India’s first Home Minister after independence?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "C. Rajagopalachari",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Who is India’s head of state under the Constitution?",
+        "options": [
+          "President of India",
+          "Prime Minister",
+          "Chief Justice of India"
+        ],
+        "answer": "President of India"
+      },
+      {
+        "question": "Which document is the supreme law of India?",
+        "options": [
+          "Constitution of India",
+          "Indian Penal Code",
+          "Representation of the People Act"
+        ],
+        "answer": "Constitution of India"
+      },
+      {
+        "question": "Who served the longest continuous term as India’s Prime Minister?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Indira Gandhi",
+          "Atal Bihari Vajpayee"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Who was India’s Finance Minister credited with 1991 reforms?",
+        "options": [
+          "Dr. Manmohan Singh",
+          "P. Chidambaram",
+          "Yashwant Sinha"
+        ],
+        "answer": "Dr. Manmohan Singh"
+      },
+      {
+        "question": "Who led the Indian National Army (INA) during World War II?",
+        "options": [
+          "Subhas Chandra Bose",
+          "Vallabhbhai Patel",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Subhas Chandra Bose"
+      },
+      {
+        "question": "What is the minimum age to hold the office of President of India?",
+        "options": [
+          "35 years",
+          "30 years",
+          "40 years"
+        ],
+        "answer": "35 years"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who chaired the Drafting Committee of the Constituent Assembly?",
+        "options": [
+          "B. R. Ambedkar",
+          "Alladi Krishnaswami Ayyar",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "B. R. Ambedkar"
+      },
+      {
+        "question": "Which Article of the Constitution abolishes untouchability?",
+        "options": [
+          "Article 17",
+          "Article 15",
+          "Article 21"
+        ],
+        "answer": "Article 17"
+      },
+      {
+        "question": "Which Article empowers the President to impose President's Rule in a state?",
+        "options": [
+          "Article 356",
+          "Article 352",
+          "Article 368"
+        ],
+        "answer": "Article 356"
+      },
+      {
+        "question": "Who became the first woman Chief Minister in independent India?",
+        "options": [
+          "Sucheta Kripalani",
+          "Indira Gandhi",
+          "Vijaya Lakshmi Pandit"
+        ],
+        "answer": "Sucheta Kripalani"
+      },
+      {
+        "question": "Which leader is credited with founding India’s White Revolution?",
+        "options": [
+          "Verghese Kurien",
+          "M. S. Swaminathan",
+          "Norman Borlaug"
+        ],
+        "answer": "Verghese Kurien"
+      },
+      {
+        "question": "In which year did the Right to Information Act become law in India?",
+        "options": [
+          "2005",
+          "1999",
+          "2010"
+        ],
+        "answer": "2005"
+      },
+      {
+        "question": "Who first served as the woman Speaker of the Lok Sabha?",
+        "options": [
+          "Meira Kumar",
+          "Sumitra Mahajan",
+          "Pratibha Patil"
+        ],
+        "answer": "Meira Kumar"
+      },
+      {
+        "question": "Who became India’s first Dalit President in 1997?",
+        "options": [
+          "K. R. Narayanan",
+          "B. R. Ambedkar",
+          "K. C. Abraham"
+        ],
+        "answer": "K. R. Narayanan"
+      },
+      {
+        "question": "What legal instrument did princely states sign to join Dominion of India?",
+        "options": [
+          "Instrument of Accession",
+          "Treaty of Amritsar",
+          "Standstill Agreement"
+        ],
+        "answer": "Instrument of Accession"
+      },
+      {
+        "question": "Who was India’s first Finance Minister in the post-independence interim government?",
+        "options": [
+          "R. K. Shanmukham Chetty",
+          "John Mathai",
+          "C. Rajagopalachari"
+        ],
+        "answer": "R. K. Shanmukham Chetty"
+      },
+      {
+        "question": "Which Prime Minister popularized the slogan 'Garibi Hatao'?",
+        "options": [
+          "Indira Gandhi",
+          "Lal Bahadur Shastri",
+          "Morarji Desai"
+        ],
+        "answer": "Indira Gandhi"
+      },
+      {
+        "question": "Which political formation emerged as the Janata Party in 1977?",
+        "options": [
+          "A coalition of anti-Emergency parties",
+          "A wing of Congress",
+          "A new communist front"
+        ],
+        "answer": "A coalition of anti-Emergency parties"
+      },
+      {
+        "question": "Which amendment added the words 'socialist' and 'secular' to the Preamble?",
+        "options": [
+          "42nd Amendment",
+          "44th Amendment",
+          "61st Amendment"
+        ],
+        "answer": "42nd Amendment"
+      },
+      {
+        "question": "Who served as India’s first Chief Election Commissioner?",
+        "options": [
+          "Sukumar Sen",
+          "T. N. Seshan",
+          "S. Y. Quraishi"
+        ],
+        "answer": "Sukumar Sen"
+      },
+      {
+        "question": "Which Prime Minister promoted the 'Hindi-Chini Bhai-Bhai' friendship policy?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Sardar Patel"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Who served as President of India from 2007 to 2012?",
+        "options": [
+          "Pratibha Patil",
+          "A. P. J. Abdul Kalam",
+          "Pranab Mukherjee"
+        ],
+        "answer": "Pratibha Patil"
+      },
+      {
+        "question": "Who was India’s Prime Minister during the 1971 war with Pakistan?",
+        "options": [
+          "Indira Gandhi",
+          "Morarji Desai",
+          "Atal Bihari Vajpayee"
+        ],
+        "answer": "Indira Gandhi"
+      },
+      {
+        "question": "Which Finance Minister led the 1991 macroeconomic stabilization reforms?",
+        "options": [
+          "Dr. Manmohan Singh",
+          "P. Chidambaram",
+          "Yashwant Sinha"
+        ],
+        "answer": "Dr. Manmohan Singh"
+      },
+      {
+        "question": "Which commission recommended reorganization of states on linguistic lines?",
+        "options": [
+          "States Reorganisation Commission",
+          "Sarkaria Commission",
+          "Punchhi Commission"
+        ],
+        "answer": "States Reorganisation Commission"
+      },
+      {
+        "question": "Which leader signed the Indo-Soviet Treaty of Peace and Friendship in 1971?",
+        "options": [
+          "Indira Gandhi",
+          "Jawaharlal Nehru",
+          "Morarji Desai"
+        ],
+        "answer": "Indira Gandhi"
+      },
+      {
+        "question": "Which Article of the Constitution guarantees freedom of speech and expression?",
+        "options": [
+          "Article 19",
+          "Article 21",
+          "Article 14"
+        ],
+        "answer": "Article 19"
+      },
+      {
+        "question": "Who became the first Chief Minister of Delhi after the 1951 elections?",
+        "options": [
+          "Chaudhary Brahm Prakash",
+          "Lal Bahadur Shastri",
+          "Govind Ballabh Pant"
+        ],
+        "answer": "Chaudhary Brahm Prakash"
+      },
+      {
+        "question": "Which political event triggered the Emergency declaration in India in 1975?",
+        "options": [
+          "Political instability and a court judgment against the Prime Minister",
+          "A foreign invasion",
+          "A severe economic collapse"
+        ],
+        "answer": "Political instability and a court judgment against the Prime Minister"
+      },
+      {
+        "question": "Who led the 1930 Salt March to challenge British salt laws?",
+        "options": [
+          "Mahatma Gandhi",
+          "Subhas Chandra Bose",
+          "Bhagat Singh"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which leader headed the Constituent Assembly’s Union Powers Committee?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Sardar Vallabhbhai Patel",
+          "B. R. Ambedkar"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which Act governs representation and conduct of elections in India?",
+        "options": [
+          "Representation of the People Act",
+          "Indian Penal Code",
+          "Constitutional Amendment Act"
+        ],
+        "answer": "Representation of the People Act"
+      },
+      {
+        "question": "Which leader founded the Swatantra Party as a classical-liberal alternative?",
+        "options": [
+          "C. Rajagopalachari",
+          "K. Kamaraj",
+          "S. Nijalingappa"
+        ],
+        "answer": "C. Rajagopalachari"
+      },
+      {
+        "question": "Who was India’s Prime Minister when Mandal Commission recommendations were implemented?",
+        "options": [
+          "V. P. Singh",
+          "Chandra Shekhar",
+          "P. V. Narasimha Rao"
+        ],
+        "answer": "V. P. Singh"
+      },
+      {
+        "question": "Which leader served as India’s External Affairs Minister and later Prime Minister?",
+        "options": [
+          "P. V. Narasimha Rao",
+          "A. B. Vajpayee",
+          "Charan Singh"
+        ],
+        "answer": "P. V. Narasimha Rao"
+      },
+      {
+        "question": "Which national body recommends changes to state boundaries and administration?",
+        "options": [
+          "States Reorganisation Commission",
+          "Election Commission",
+          "Finance Commission"
+        ],
+        "answer": "States Reorganisation Commission"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which landmark case limited Parliament’s power to amend the Constitution in 1973?",
+        "options": [
+          "Kesavananda Bharati v. State of Kerala",
+          "Maneka Gandhi v. Union of India",
+          "Minerva Mills v. Union of India"
+        ],
+        "answer": "Kesavananda Bharati v. State of Kerala"
+      },
+      {
+        "question": "Which Article allows the President to proclaim a national emergency?",
+        "options": [
+          "Article 352",
+          "Article 356",
+          "Article 368"
+        ],
+        "answer": "Article 352"
+      },
+      {
+        "question": "Which Constitutional Amendment introduced the Goods and Services Tax (GST)?",
+        "options": [
+          "101st Amendment Act, 2016",
+          "42nd Amendment Act, 1976",
+          "73rd Amendment Act, 1992"
+        ],
+        "answer": "101st Amendment Act, 2016"
+      },
+      {
+        "question": "Who served as Prime Minister for 13 days following the 1996 general election?",
+        "options": [
+          "Atal Bihari Vajpayee",
+          "H. D. Deve Gowda",
+          "IK Gujral"
+        ],
+        "answer": "Atal Bihari Vajpayee"
+      },
+      {
+        "question": "Which Indian leader negotiated and oversaw accession of Hyderabad state in 1948?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "Jawaharlal Nehru",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which constitutional bench decision upheld the basic structure doctrine?",
+        "options": [
+          "Kesavananda Bharati judgment",
+          "Golaknath judgment",
+          "S. R. Bommai judgment"
+        ],
+        "answer": "Kesavananda Bharati judgment"
+      },
+      {
+        "question": "Which Prime Minister signed the 1972 Shimla Agreement with Pakistan?",
+        "options": [
+          "Indira Gandhi",
+          "Lal Bahadur Shastri",
+          "Morarji Desai"
+        ],
+        "answer": "Indira Gandhi"
+      },
+      {
+        "question": "Which leader was the first woman Governor of an Indian province in 1947?",
+        "options": [
+          "Sarojini Naidu",
+          "Vijaya Lakshmi Pandit",
+          "Prabha Rau"
+        ],
+        "answer": "Sarojini Naidu"
+      },
+      {
+        "question": "Which Lok Sabha election gave Congress its largest seat tally historically (404 seats)?",
+        "options": [
+          "1984 general election",
+          "1971 general election",
+          "1962 general election"
+        ],
+        "answer": "1984 general election"
+      },
+      {
+        "question": "Which leader headed the Planning Commission before it was replaced by NITI Aayog?",
+        "options": [
+          "J. Nehru and later appointed Chairmen",
+          "Pranab Mukherjee",
+          "Morarji Desai"
+        ],
+        "answer": "J. Nehru and later appointed Chairmen"
+      },
+      {
+        "question": "Which Prime Minister led India’s first non-Congress central government in 1977?",
+        "options": [
+          "Morarji Desai",
+          "Charan Singh",
+          "Lal Krishna Advani"
+        ],
+        "answer": "Morarji Desai"
+      },
+      {
+        "question": "Who presided as temporary chairman at the Constituent Assembly’s first meeting in 1946?",
+        "options": [
+          "Dr. Sachchidananda Sinha",
+          "Dr. Rajendra Prasad",
+          "Dr. B. R. Ambedkar"
+        ],
+        "answer": "Dr. Sachchidananda Sinha"
+      },
+      {
+        "question": "Which commission’s report guided India’s Centre-State relations and was established in 1983?",
+        "options": [
+          "Sarkaria Commission",
+          "Punchhi Commission",
+          "States Reorganisation Commission"
+        ],
+        "answer": "Sarkaria Commission"
+      },
+      {
+        "question": "Which Indian leader served as both Vice President and later as President beginning 1967?",
+        "options": [
+          "Dr. Zakir Husain",
+          "Varahagiri V. Giri",
+          "Neelam Sanjiva Reddy"
+        ],
+        "answer": "Dr. Zakir Husain"
+      },
+      {
+        "question": "Who was the first Chief Justice of India to head a Constitution Review Committee?",
+        "options": [
+          "H. J. Kania",
+          "M. H.idayatullah",
+          "S. R. Das"
+        ],
+        "answer": "H. J. Kania"
+      },
+      {
+        "question": "Which leader initiated the Green Revolution policy framework for India in the 1960s?",
+        "options": [
+          "Lal Bahadur Shastri",
+          "Indira Gandhi",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Lal Bahadur Shastri"
+      },
+      {
+        "question": "Which Prime Minister signed the Indo-US nuclear deal precursor agreements in the 2000s?",
+        "options": [
+          "Manmohan Singh",
+          "Atal Bihari Vajpayee",
+          "P. V. Narasimha Rao"
+        ],
+        "answer": "Manmohan Singh"
+      },
+      {
+        "question": "Which judgment constrained arbitrary dismissal of state governments using Article 356?",
+        "options": [
+          "S. R. Bommai v. Union of India",
+          "Kesavananda Bharati v. State of Kerala",
+          "Minerva Mills v. Union of India"
+        ],
+        "answer": "S. R. Bommai v. Union of India"
+      },
+      {
+        "question": "Who was the first Chief Minister of Andhra Pradesh after its 1956 reorganization?",
+        "options": [
+          "Neelam Sanjiva Reddy",
+          "T. Prakasam",
+          "Tanguturi Prakasam"
+        ],
+        "answer": "Neelam Sanjiva Reddy"
+      },
+      {
+        "question": "Which Indian leader created the office of the National Human Rights Commission in 1993?",
+        "options": [
+          "P. V. Narasimha Rao administration",
+          "Rajiv Gandhi administration",
+          "V. P. Singh administration"
+        ],
+        "answer": "P. V. Narasimha Rao administration"
+      },
+      {
+        "question": "Which legal instrument extended fundamental rights protection against state actions originally?",
+        "options": [
+          "Part III of the Constitution",
+          "Part IV of the Constitution",
+          "Part II of the Constitution"
+        ],
+        "answer": "Part III of the Constitution"
+      },
+      {
+        "question": "Which leader led accession talks and merger of Junagadh into the Indian Union?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "V. P. Menon",
+          "Jawaharlal Nehru"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which Prime Minister’s government oversaw liberalization beginning in 1991?",
+        "options": [
+          "P. V. Narasimha Rao",
+          "Rajiv Gandhi",
+          "Atal Bihari Vajpayee"
+        ],
+        "answer": "P. V. Narasimha Rao"
+      },
+      {
+        "question": "Which leader chaired the Committee on Centre–State relations after 2007?",
+        "options": [
+          "Punchhi Commission",
+          "Sarkaria Commission",
+          "K. Kasturirangan Committee"
+        ],
+        "answer": "Punchhi Commission"
+      },
+      {
+        "question": "Which Indian leader played a central role in integrating princely states alongside V. P. Menon?",
+        "options": [
+          "Sardar Vallabhbhai Patel",
+          "Rajendra Prasad",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+      },
+      {
+        "question": "Which Indian Prime Minister advocated 'Look East' foreign policy in the 1990s?",
+        "options": [
+          "P. V. Narasimha Rao",
+          "Atal Bihari Vajpayee",
+          "Manmohan Singh"
+        ],
+        "answer": "P. V. Narasimha Rao"
+      },
+      {
+        "question": "Which leader’s government enacted the Right to Education as a fundamental right?",
+        "options": [
+          "UPA government via 86th Amendment",
+          "NDA government via 101st Amendment",
+          "UPA government via 73rd Amendment"
+        ],
+        "answer": "UPA government via 86th Amendment"
+      },
+      {
+        "question": "Which President returned a bill for reconsideration to Parliament in the 1980s?",
+        "options": [
+          "President Zail Singh returned the Assam Accord related bill",
+          "President R. Venkataraman returned the bill",
+          "President Neelam Sanjiva Reddy returned the bill"
+        ],
+        "answer": "President Zail Singh returned the Assam Accord related bill"
+      },
+      {
+        "question": "Which Prime Minister led India when economic reforms drew IMF support in 1991?",
+        "options": [
+          "P. V. Narasimha Rao",
+          "Chandra Shekhar",
+          "V. P. Singh"
+        ],
+        "answer": "P. V. Narasimha Rao"
+      },
+      {
+        "question": "Which major 1975–77 event led to significant constitutional and political debate?",
+        "options": [
+          "The Emergency declared in 1975",
+          "The formation of the Janata Party",
+          "The Shimla Agreement"
+        ],
+        "answer": "The Emergency declared in 1975"
+      }
+    ]
+  }
+}

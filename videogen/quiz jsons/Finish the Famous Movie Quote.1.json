@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the famous movie quote: \"You're gonna need a bigger ____.\" (Jaws).",
+      "options": [
+        "Car",
+        "House",
+        "Boat"
+      ],
+      "answer": "Boat"
+    },
+    {
+      "question_id": 2,
+      "question": "Finish the quote: \"You're gonna need a bigger boat\" was originally delivered in response to what?",
+      "options": [
+        "Seeing the shark",
+        "Losing a crew member",
+        "Storm approaching"
+      ],
+      "answer": "Seeing the shark"
+    },
+    {
+      "question_id": 3,
+      "question": "Finish the quote: \"Say hello to my little friend!\" — which prop became iconic?",
+      "options": [
+        "M134 Minigun-style replica",
+        "Tommy gun",
+        "M16-style rifle"
+      ],
+      "answer": "M134 Minigun-style replica"
+    },
+    {
+      "question_id": 4,
+      "question": "Finish the famous movie quote: \"Here's looking at you, ____\" is followed by what name?",
+      "options": [
+        "Darling",
+        "Friend",
+        "Kid"
+      ],
+      "answer": "Kid"
+    },
+    {
+      "question_id": 5,
+      "question": "Finish the quote: \"I'm the king of the world!\" Who directed the film that includes this line?",
+      "options": [
+        "James Cameron",
+        "Ridley Scott",
+        "Steven Spielberg"
+      ],
+      "answer": "James Cameron"
+    },
+    {
+      "question_id": 6,
+      "question": "Finish the quote: \"I'll be back\" — what was the script originally intending instead?",
+      "options": [
+        "I'll come back",
+        "I'll return",
+        "I'm gone"
+      ],
+      "answer": "I'll come back"
+    },
+    {
+      "question_id": 7,
+      "question": "Finish the famous movie quote: \"Houston, we have a ____.\" (Apollo 13).",
+      "options": [
+        "Solution",
+        "Problem",
+        "Signal"
+      ],
+      "answer": "Problem"
+    },
+    {
+      "question_id": 8,
+      "question": "Finish the quote: \"The first rule of Fight Club is: you do not talk about ____.\"",
+      "options": [
+        "Fight Club",
+        "War",
+        "Movies"
+      ],
+      "answer": "Fight Club"
+    },
+    {
+      "question_id": 9,
+      "question": "Finish the quote: \"My precious\" — which actor voiced Gollum in both motion capture and voice?",
+      "options": [
+        "Andy Serkis",
+        "Christopher Lee",
+        "Ian McKellen"
+      ],
+      "answer": "Andy Serkis"
+    },
+    {
+      "question_id": 10,
+      "question": "Finish the famous movie quote: \"Bond. James Bond.\" What does this emphasize?",
+      "options": [
+        "Farewell",
+        "Introduction",
+        "Apology"
+      ],
+      "answer": "Introduction"
+    },
+    {
+      "question_id": 11,
+      "question": "Finish the quote: \"Here's Johnny!\" was ad-libbed by which actor?",
+      "options": [
+        "Jack Nicholson",
+        "Al Pacino",
+        "Anthony Hopkins"
+      ],
+      "answer": "Jack Nicholson"
+    },
+    {
+      "question_id": 12,
+      "question": "Finish the quote: \"Here's looking at you, kid\" — what literary device does the line primarily use?",
+      "options": [
+        "Metaphor",
+        "Apostrophe (direct address)",
+        "Alliteration"
+      ],
+      "answer": "Apostrophe (direct address)"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the famous movie quote: \"Say hello to my little ____!\" (Scarface).",
+      "options": [
+        "Neighbor",
+        "Brother",
+        "Friend"
+      ],
+      "answer": "Friend"
+    },
+    {
+      "question_id": 14,
+      "question": "Finish the quote: \"I'll be back\" was first spoken by which actor?",
+      "options": [
+        "Bruce Willis",
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger"
+      ],
+      "answer": "Arnold Schwarzenegger"
+    },
+    {
+      "question_id": 15,
+      "question": "Finish the quote: \"Give me the ____\" — which film features the line 'Give me the ring' as a pivotal moment?",
+      "options": [
+        "Rings of Power",
+        "Ring of Power",
+        "Lord of the Rings: Fellowship of the Ring"
+      ],
+      "answer": "Lord of the Rings: Fellowship of the Ring"
+    }
+  ]
+}

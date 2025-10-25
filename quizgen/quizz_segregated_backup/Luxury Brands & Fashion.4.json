@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which brand is historically linked with the classic trench coat?",
+      "options": [
+        "Burberry",
+        "Hermès",
+        "Prada"
+      ],
+      "answer": "Burberry"
+    },
+    {
+      "question_id": 2,
+      "question": "Which designer assumed creative control at Dior after Christian Dior's death in 1957?",
+      "options": [
+        "Yves Saint Laurent",
+        "Hubert de Givenchy",
+        "Pierre Balmain"
+      ],
+      "answer": "Yves Saint Laurent"
+    },
+    {
+      "question_id": 3,
+      "question": "Which creative director revived Bottega Veneta with a minimalist logo-free aesthetic during the 2010s?",
+      "options": [
+        "Daniel Lee",
+        "Tomas Maier",
+        "Nicolas Ghesquière"
+      ],
+      "answer": "Daniel Lee"
+    },
+    {
+      "question_id": 4,
+      "question": "Which fashion house launched the younger line Miu Miu?",
+      "options": [
+        "Miu Miu",
+        "Moschino",
+        "Max Mara"
+      ],
+      "answer": "Miu Miu"
+    },
+    {
+      "question_id": 5,
+      "question": "Which year did Christian Dior officially found the House of Dior?",
+      "options": [
+        "1946",
+        "1939",
+        "1952"
+      ],
+      "answer": "1946"
+    },
+    {
+      "question_id": 6,
+      "question": "Which brand commissioned the first large-scale fashion show at the Palais de Tokyo in the 1970s?",
+      "options": [
+        "Yves Saint Laurent",
+        "Dior",
+        "Chanel"
+      ],
+      "answer": "Yves Saint Laurent"
+    },
+    {
+      "question_id": 7,
+      "question": "Which luxury house produces the Birkin handbag?",
+      "options": [
+        "Hermès",
+        "Prada",
+        "Gucci"
+      ],
+      "answer": "Hermès"
+    },
+    {
+      "question_id": 8,
+      "question": "Which brand is credited with inventing the monogram canvas as a signature luggage material?",
+      "options": [
+        "Louis Vuitton",
+        "Goyard",
+        "Hermès"
+      ],
+      "answer": "Louis Vuitton"
+    },
+    {
+      "question_id": 9,
+      "question": "Which couture firm requires members to present at least twenty-five original pieces during collection season?",
+      "options": [
+        "Haute couture houses under Chambre Syndicale",
+        "Ready-to-wear houses",
+        "Accessory maisons"
+      ],
+      "answer": "Haute couture houses under Chambre Syndicale"
+    },
+    {
+      "question_id": 10,
+      "question": "Which designer founded the fashion house Chanel?",
+      "options": [
+        "Coco Chanel",
+        "Christian Dior",
+        "Elsa Schiaparelli"
+      ],
+      "answer": "Coco Chanel"
+    },
+    {
+      "question_id": 11,
+      "question": "Which brand introduced a signature nylon accessory line that influenced 1990s luxury?",
+      "options": [
+        "Prada",
+        "Fendi",
+        "Miu Miu"
+      ],
+      "answer": "Prada"
+    },
+    {
+      "question_id": 12,
+      "question": "Which designer famously staged the Dior fashion show in 1947 that revived Parisian couture after WWII?",
+      "options": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Elsa Schiaparelli"
+      ],
+      "answer": "Christian Dior"
+    },
+    {
+      "question_id": 13,
+      "question": "Which designer became famous for elegant red-carpet gowns and eveningwear?",
+      "options": [
+        "Oscar de la Renta",
+        "Tom Ford",
+        "Phoebe Philo"
+      ],
+      "answer": "Oscar de la Renta"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Louis Vuitton open its first store in Paris?",
+      "options": [
+        "1854",
+        "1870",
+        "1901"
+      ],
+      "answer": "1854"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Italian firm owns the footwear label Tod's and revived its Gommino driving shoe legacy?",
+      "options": [
+        "Tod's Group",
+        "Prada Group",
+        "Moncler Group"
+      ],
+      "answer": "Tod's Group"
+    }
+  ]
+}

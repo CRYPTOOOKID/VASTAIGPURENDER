@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which leader led the Champaran Satyagraha in 1917, Gandhi's first active struggle in India?",
+      "options": [
+        "Rajendra Prasad",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian ruler established the Mughal dynasty's greatest territorial expansion under his reign?",
+      "options": [
+        "Jahangir",
+        "Akbar",
+        "Humayun"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "question_id": 3,
+      "question": "Which 1907 split in the Congress divided it into Moderates and Extremists at which city session?",
+      "options": [
+        "Calcutta Session",
+        "Lahore Session",
+        "Surat Session"
+      ],
+      "answer": "Surat Session"
+    },
+    {
+      "question_id": 4,
+      "question": "Who led the Salt March to Dandi in 1930 as part of the civil disobedience movement?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 5,
+      "question": "Which movement beginning in 1905 protested the partition of Bengal and promoted indigenous industry?",
+      "options": [
+        "Quit India Movement",
+        "Swadeshi Movement",
+        "Non-Cooperation Movement"
+      ],
+      "answer": "Swadeshi Movement"
+    },
+    {
+      "question_id": 6,
+      "question": "Which leader authored the pamphlet 'Why I am an Atheist' and influenced revolutionary youth in early 20th century India?",
+      "options": [
+        "Ram Prasad Bismil",
+        "Bhagat Singh",
+        "Chandra Shekhar Azad"
+      ],
+      "answer": "Bhagat Singh"
+    },
+    {
+      "question_id": 7,
+      "question": "Which leader famously declared 'Do or Die' during the Quit India Movement?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 8,
+      "question": "Which congress leader led the Bardoli Satyagraha in 1928 and later became Prime Minister of Bombay Presidency?",
+      "options": [
+        "Motilal Nehru",
+        "C. Rajagopalachari",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question_id": 9,
+      "question": "Which peasant leader led the Bardoli Satyagraha's local committee demanding tax rollback in 1928?",
+      "options": [
+        "Gandhiji",
+        "Sardar Vallabhbhai Patel",
+        "Manibhai Desai"
+      ],
+      "answer": "Manibhai Desai"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city was the center of the Revolt of 1857 where the rebellion began in May?",
+      "options": [
+        "Kanpur",
+        "Lucknow",
+        "Meerut"
+      ],
+      "answer": "Meerut"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Mughal emperor faced the Maratha resurgence led by Shivaji in the 17th century?",
+      "options": [
+        "Aurangzeb",
+        "Jahangir",
+        "Shah Jahan"
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 12,
+      "question": "Which treaty ended the Third Anglo-Maratha War and marked the effective end of Maratha sovereignty in 1818?",
+      "options": [
+        "Treaty of Bassein",
+        "Treaty of Mandeswar",
+        "Treaty of Poona"
+      ],
+      "answer": "Treaty of Mandeswar"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Mughal emperor commissioned the Taj Mahal in memory of his wife Mumtaz Mahal?",
+      "options": [
+        "Aurangzeb",
+        "Akbar",
+        "Shah Jahan"
+      ],
+      "answer": "Shah Jahan"
+    },
+    {
+      "question_id": 14,
+      "question": "Which treaty in 1765 granted the East India Company the Diwani rights of Bengal, Bihar and Orissa?",
+      "options": [
+        "Nizamat Grant",
+        "Treaty of Allahabad",
+        "Diwani Grant of 1765"
+      ],
+      "answer": "Treaty of Allahabad"
+    },
+    {
+      "question_id": 15,
+      "question": "Which British official introduced the Permanent Settlement in 1793 altering land revenue relations in Bengal?",
+      "options": [
+        "Lord Wellesley",
+        "Warren Hastings",
+        "Lord Cornwallis"
+      ],
+      "answer": "Lord Cornwallis"
+    }
+  ]
+}

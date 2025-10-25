@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes calories that provide little vitamins or minerals?",
+      "options": [
+        "Empty calories",
+        "Balanced calories",
+        "Complete calories"
+      ],
+      "answer": "Empty calories"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the thermic effect of food (TEF)?",
+      "options": [
+        "Calories burned during sleep",
+        "Energy stored as fat after eating",
+        "Energy used to digest, absorb, and process nutrients"
+      ],
+      "answer": "Energy used to digest, absorb, and process nutrients"
+    },
+    {
+      "question_id": 3,
+      "question": "Which minor component can yield measurable caloric value through gut microbiota fermentation?",
+      "options": [
+        "Inorganic minerals",
+        "Fat-soluble vitamins",
+        "Soluble fiber and oligosaccharides"
+      ],
+      "answer": "Soluble fiber and oligosaccharides"
+    },
+    {
+      "question_id": 4,
+      "question": "Which beverage contains calories despite not being a food?",
+      "options": [
+        "Distilled water",
+        "Black coffee without sugar",
+        "Alcoholic drinks"
+      ],
+      "answer": "Alcoholic drinks"
+    },
+    {
+      "question_id": 5,
+      "question": "Which label term indicates the amount of a nutrient per serving relative to daily intake?",
+      "options": [
+        "Percent Daily Value",
+        "Net carbs",
+        "Glycemic index"
+      ],
+      "answer": "Percent Daily Value"
+    },
+    {
+      "question_id": 6,
+      "question": "Which measurement concept addresses energy available after accounting for microbial and enzymatic losses?",
+      "options": [
+        "True metabolizable energy",
+        "Gross caloric potential",
+        "Label declared energy"
+      ],
+      "answer": "True metabolizable energy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which macronutrient is especially important for muscle repair after exercise?",
+      "options": [
+        "Sugar",
+        "Protein",
+        "Trans fat"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "question_id": 8,
+      "question": "Which sugar alcohol is often labeled as near-zero calories and used in reduced-calorie products?",
+      "options": [
+        "Fructose",
+        "Erythritol",
+        "Sucrose"
+      ],
+      "answer": "Erythritol"
+    },
+    {
+      "question_id": 9,
+      "question": "Which change in the US Nutrition Facts label increased emphasis on public health priorities?",
+      "options": [
+        "Listing added sugars separately",
+        "Removing calories entirely",
+        "Hiding trans fat content"
+      ],
+      "answer": "Listing added sugars separately"
+    },
+    {
+      "question_id": 10,
+      "question": "Which macronutrient provides about 7 kilocalories per gram?",
+      "options": [
+        "Protein",
+        "Alcohol",
+        "Carbohydrate"
+      ],
+      "answer": "Alcohol"
+    },
+    {
+      "question_id": 11,
+      "question": "What effect does soluble fiber have on blood glucose after a meal?",
+      "options": [
+        "It converts glucose into fat instantly",
+        "It slows glucose absorption and moderates blood sugar rise",
+        "It rapidly increases glucose absorption"
+      ],
+      "answer": "It slows glucose absorption and moderates blood sugar rise"
+    },
+    {
+      "question_id": 12,
+      "question": "Which value best describes the general Atwater energy factors for carbs, protein, and fat?",
+      "options": [
+        "5 kcal/g, 5 kcal/g, 10 kcal/g",
+        "2 kcal/g, 3 kcal/g, 7 kcal/g",
+        "4 kcal/g, 4 kcal/g, 9 kcal/g"
+      ],
+      "answer": "4 kcal/g, 4 kcal/g, 9 kcal/g"
+    },
+    {
+      "question_id": 13,
+      "question": "Which macronutrient often appears highest in nuts and oils?",
+      "options": [
+        "Protein",
+        "Fat",
+        "Carbohydrate"
+      ],
+      "answer": "Fat"
+    },
+    {
+      "question_id": 14,
+      "question": "Which common misconception about calories is often incorrect?",
+      "options": [
+        "All calories have identical metabolic effects in every context",
+        "Higher protein increases thermic effect",
+        "Fat is more calorie-dense than carbohydrates"
+      ],
+      "answer": "All calories have identical metabolic effects in every context"
+    },
+    {
+      "question_id": 15,
+      "question": "Which measurement compares caloric contribution adjusted for absorption and urinary losses?",
+      "options": [
+        "Apparent metabolizable energy",
+        "Gross caloric value",
+        "Label serving energy"
+      ],
+      "answer": "Apparent metabolizable energy"
+    }
+  ]
+}

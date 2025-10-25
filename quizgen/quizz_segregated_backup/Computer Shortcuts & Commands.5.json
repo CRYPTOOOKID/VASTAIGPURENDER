@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which single keypress typically opens the Start menu on a Windows PC?",
+      "options": [
+        "Windows key",
+        "Alt key",
+        "Ctrl key"
+      ],
+      "answer": "Windows key"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Windows shortcut toggles between showing the desktop and restoring open windows quickly?",
+      "options": [
+        "Win+D",
+        "Win+M",
+        "Win+Home"
+      ],
+      "answer": "Win+D"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Windows tool remaps keyboard shortcuts system-wide in modern Windows versions as an official Microsoft utility?",
+      "options": [
+        "PowerToys Keyboard Manager",
+        "Microsoft Keyboard Layout Creator",
+        "SharpKeys"
+      ],
+      "answer": "PowerToys Keyboard Manager"
+    },
+    {
+      "question_id": 4,
+      "question": "On macOS Safari and many mac browsers, which shortcut focuses the address bar for quick typing?",
+      "options": [
+        "Cmd+L",
+        "Cmd+K",
+        "Cmd+F"
+      ],
+      "answer": "Cmd+L"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Linux/Unix command prevents a process from being terminated when the shell exits?",
+      "options": [
+        "nohup",
+        "disown",
+        "bg"
+      ],
+      "answer": "nohup"
+    },
+    {
+      "question_id": 6,
+      "question": "Which key sequence in Vim returns the cursor to the position before the last jump, using normal-mode commands?",
+      "options": [
+        "'' (two single quotes)",
+        "` (backtick)",
+        "gg"
+      ],
+      "answer": "'' (two single quotes)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which shortcut closes the current window or application window on Windows platforms?",
+      "options": [
+        "Alt+F4",
+        "Ctrl+W",
+        "Ctrl+Q"
+      ],
+      "answer": "Alt+F4"
+    },
+    {
+      "question_id": 8,
+      "question": "In most command-line shells, which key combination sends an end-of-file (EOF) to the terminal session?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+C",
+        "Ctrl+Z"
+      ],
+      "answer": "Ctrl+D"
+    },
+    {
+      "question_id": 9,
+      "question": "Which POSIX signal does the terminal send to a foreground process when the user presses Ctrl+C?",
+      "options": [
+        "SIGINT",
+        "SIGTERM",
+        "SIGKILL"
+      ],
+      "answer": "SIGINT"
+    },
+    {
+      "question_id": 10,
+      "question": "On macOS, which keyboard shortcut copies the currently selected text, files, or items to the clipboard?",
+      "options": [
+        "Cmd+C",
+        "Ctrl+C",
+        "Alt+C"
+      ],
+      "answer": "Cmd+C"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Ubuntu desktop shortcut commonly opens a new terminal window by default?",
+      "options": [
+        "Ctrl+Alt+T",
+        "Ctrl+Alt+N",
+        "Alt+F2"
+      ],
+      "answer": "Ctrl+Alt+T"
+    },
+    {
+      "question_id": 12,
+      "question": "Which command makes a script file executable by the current user on Unix-like systems?",
+      "options": [
+        "chmod +x filename",
+        "chown +x filename",
+        "umask +x filename"
+      ],
+      "answer": "chmod +x filename"
+    },
+    {
+      "question_id": 13,
+      "question": "Which key cancels or closes many dialogs and stops ongoing operations in GUI applications?",
+      "options": [
+        "Esc",
+        "Backspace",
+        "Delete"
+      ],
+      "answer": "Esc"
+    },
+    {
+      "question_id": 14,
+      "question": "Which terminal keybinding starts an interactive reverse search through command history in Bash?",
+      "options": [
+        "Ctrl+R",
+        "Ctrl+S",
+        "Ctrl+G"
+      ],
+      "answer": "Ctrl+R"
+    },
+    {
+      "question_id": 15,
+      "question": "Which environment variable commonly defines the default text editor used by many CLI tools and git?",
+      "options": [
+        "EDITOR",
+        "PATH",
+        "SHELL"
+      ],
+      "answer": "EDITOR"
+    }
+  ]
+}

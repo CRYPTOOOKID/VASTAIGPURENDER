@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who declared \"Mr. Gorbachev, tear down this wall!\" in 1987?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote \"The only thing we have to fear is fear itself\" in his inaugural address?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who penned \"The Revolution is not an apple that falls when it is ripe\" about revolutionary timing?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who exclaimed \"Surrender? I will never surrender\" and led his country in WWII?"
+    },
+    {
+      "question_id": 5,
+      "question": "Who famously wrote \"The only thing necessary for the triumph of evil is for good men to do nothing\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Japanese daimyo reportedly said \"Rule the Empire by force of arms\" during Sengoku unification?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who uttered \"That's one small step for a man, one giant leap for mankind\"?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote \"Let them eat cake\" is a famous phrase linked to which royal figure?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who declared \"My only loyalty is to my country\" facing treason charges in early modern Europe?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who said \"I am the state\" often associated with absolute monarchy?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Italian explorer said his voyages proved the New World was not Asia?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote \"The East is a career for the young\" advising imperial officers within colonial service?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who said \"The buck stops here\" as a symbol of presidential responsibility?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote \"In the end, we will remember not the words of our enemies but the silence of our friends\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"I fear all we have done is to awaken a sleeping giant\" about Pacific conflict consequences?"
+    }
+  ]
+}

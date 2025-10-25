@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which supernatural drama series starring Sarah Michelle Gellar premiered in 1997?",
+      "options": [
+        "Buffy the Vampire Slayer",
+        "Charmed",
+        "The X-Files"
+      ],
+      "answer": "Buffy the Vampire Slayer"
+    },
+    {
+      "question_id": 2,
+      "question": "Which band famously performed 'Smells Like Teen Spirit' at the 1992 MTV VMAs?",
+      "options": [
+        "Pearl Jam",
+        "Nirvana",
+        "Soundgarden"
+      ],
+      "answer": "Nirvana"
+    },
+    {
+      "question_id": 3,
+      "question": "Which experimental 1999 TV series blended sci-fi and anime aesthetics for adult audiences?",
+      "options": [
+        "Cowboy Bebop",
+        "The X-Files",
+        "Neon Genesis Evangelion"
+      ],
+      "answer": "Cowboy Bebop"
+    },
+    {
+      "question_id": 4,
+      "question": "Which singer performed 'My Heart Will Go On' from the 1997 blockbuster soundtrack?",
+      "options": [
+        "Whitney Houston",
+        "Mariah Carey",
+        "Celine Dion"
+      ],
+      "answer": "Celine Dion"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sitcom episode in 1997 featured Ross and Rachel's first kiss at Central Perk?",
+      "options": [
+        "The One Where Ross Finds Out",
+        "The One With the Prom Video",
+        "The One With Ross's Sandwich"
+      ],
+      "answer": "The One Where Ross Finds Out"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 1994 Pixar short was originally produced in 1997 and later paired with theatrical releases?",
+      "options": [
+        "Luxo Jr.",
+        "Knick Knack",
+        "Geri's Game"
+      ],
+      "answer": "Knick Knack"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Nintendo home console launched in 1996 using cartridges for games?",
+      "options": [
+        "Sega Saturn",
+        "Nintendo 64",
+        "PlayStation"
+      ],
+      "answer": "Nintendo 64"
+    },
+    {
+      "question_id": 8,
+      "question": "Which comic-based 1998 film launched a successful superhero franchise starring Tobey Maguire?",
+      "options": [
+        "Spider-Man",
+        "Blade",
+        "Spawn"
+      ],
+      "answer": "Spider-Man"
+    },
+    {
+      "question_id": 9,
+      "question": "Which niche 1990s handheld used a dot-matrix watch-style interface for gaming 'Digimon' pets?",
+      "options": [
+        "Tamagotchi",
+        "Neo Geo Pocket",
+        "Digivice"
+      ],
+      "answer": "Digivice"
+    },
+    {
+      "question_id": 10,
+      "question": "Which popular 1993 film featured groundbreaking CGI for a theme park disaster?",
+      "options": [
+        "Jurassic Park",
+        "The Matrix",
+        "Forrest Gump"
+      ],
+      "answer": "Jurassic Park"
+    },
+    {
+      "question_id": 11,
+      "question": "Which technology became widely available for home use after dial-up modems in the 1990s?",
+      "options": [
+        "Fiber to the Home",
+        "Broadband",
+        "5G"
+      ],
+      "answer": "Broadband"
+    },
+    {
+      "question_id": 12,
+      "question": "Which 1999 handheld console prototype from Nintendo led to later portable innovations?",
+      "options": [
+        "Game Boy Advance prototype",
+        "Virtual Boy prototype",
+        "Game Boy Color prototype"
+      ],
+      "answer": "Game Boy Color prototype"
+    },
+    {
+      "question_id": 13,
+      "question": "Which animated series debuted in 1999 featuring an optimistic sea sponge character?",
+      "options": [
+        "Rugrats",
+        "SpongeBob SquarePants",
+        "CatDog"
+      ],
+      "answer": "SpongeBob SquarePants"
+    },
+    {
+      "question_id": 14,
+      "question": "Which 1998 film featured a fictional boy wizard introduced to the world?",
+      "options": [
+        "The Craft",
+        "Harry Potter and the Philosopher's Stone",
+        "Matilda"
+      ],
+      "answer": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fashion label's slip dresses became a 1990s staple after celebrity red-carpet appearances?",
+      "options": [
+        "Versace",
+        "Prada",
+        "Calvin Klein"
+      ],
+      "answer": "Calvin Klein"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is accurate about antiperspirant and breast cancer?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which statement about fruit juice and fiber reflects nutrition facts?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which documented consequence relates to unregulated weight-loss supplements?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which belief about eggs and cholesterol reflects current evidence?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which statement about eye exercises improving vision is accurate?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which documented interaction raises concern about grapefruit and prescription drugs?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which idea about cold weather and catching colds is supported by research?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which historical fact explains the grapefruit diet's popularity?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which historical detail explains how the 8x8 water rule likely originated?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about cold showers burning fat is supported by science?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statement about 'fat-free' labels and calorie content is accurate?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which statistical result summarizes large reviews on vitamin C preventing colds?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which idea about night-time eating and weight gain is supported by evidence?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which statement about 'natural' labeling on products aligns with regulations?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which nutritional nuance explains why whole grains reduce chronic disease risk?"
+    }
+  ]
+}

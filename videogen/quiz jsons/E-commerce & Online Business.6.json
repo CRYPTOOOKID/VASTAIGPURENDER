@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'affiliate marketing' in e-commerce?",
+      "options": [
+        "Partners promote products for a commission",
+        "Suppliers co-own the online store",
+        "A system for internal employee discounts"
+      ],
+      "answer": "Partners promote products for a commission"
+    },
+    {
+      "question_id": 2,
+      "question": "What is 'GMV' in marketplace measurement?",
+      "options": [
+        "Gross Margin Value after returns",
+        "Gross Merchandise Value sold through a marketplace",
+        "General Marketing Volume spent on ads"
+      ],
+      "answer": "Gross Merchandise Value sold through a marketplace"
+    },
+    {
+      "question_id": 3,
+      "question": "Which marketplace strategy helps solve the 'chicken-and-egg' problem early on?",
+      "options": [
+        "Avoiding any promotional activity",
+        "Seeding supply or demand via incentives and exclusive partnerships",
+        "Raising prices immediately to limit users"
+      ],
+      "answer": "Seeding supply or demand via incentives and exclusive partnerships"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'social commerce'?",
+      "options": [
+        "Selling products directly within social media platforms",
+        "Selling only through email newsletters",
+        "Organizing in-person social selling events"
+      ],
+      "answer": "Selling products directly within social media platforms"
+    },
+    {
+      "question_id": 5,
+      "question": "Which regulation began enforcement in 2018 focusing on data protection in the EU?",
+      "options": [
+        "SOX",
+        "GDPR",
+        "COPPA"
+      ],
+      "answer": "GDPR"
+    },
+    {
+      "question_id": 6,
+      "question": "Which pricing tactic fights coupon abuse while preserving conversion uplift?",
+      "options": [
+        "Personalized offers with unique codes and usage limits",
+        "Removing all discounts",
+        "Publishing one global coupon for unlimited use"
+      ],
+      "answer": "Personalized offers with unique codes and usage limits"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'personalization' in e-commerce UX?",
+      "options": [
+        "Setting all users to the same default theme",
+        "Automatically canceling unverified orders",
+        "Tailoring content based on user behavior or data"
+      ],
+      "answer": "Tailoring content based on user behavior or data"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the difference between a payment gateway and a payment processor?",
+      "options": [
+        "Gateway stores products; processor manages inventory",
+        "Gateway calculates taxes; processor handles shipping",
+        "Gateway authorizes transactions; processor moves funds between accounts"
+      ],
+      "answer": "Gateway authorizes transactions; processor moves funds between accounts"
+    },
+    {
+      "question_id": 9,
+      "question": "In marketplace economics, what is a 'two-sided network effect'?",
+      "options": [
+        "Each additional seller increases buyer value and vice versa",
+        "Buyers do not affect seller utility",
+        "One seller reduces the number of buyers"
+      ],
+      "answer": "Each additional seller increases buyer value and vice versa"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'e-commerce' primarily refer to?",
+      "options": [
+        "In-store retail promotions",
+        "Buying and selling goods or services online",
+        "Physical catalog sales"
+      ],
+      "answer": "Buying and selling goods or services online"
+    },
+    {
+      "question_id": 11,
+      "question": "Which email metric tracks how many recipients open a campaign?",
+      "options": [
+        "Click throughput",
+        "Bounce rate",
+        "Open rate"
+      ],
+      "answer": "Open rate"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'sessionization' in analytics for e-commerce behavioral analysis?",
+      "options": [
+        "A shipping schedule for peak season",
+        "Grouping user actions into sessions for conversion path analysis",
+        "A security protocol for payment sessions"
+      ],
+      "answer": "Grouping user actions into sessions for conversion path analysis"
+    },
+    {
+      "question_id": 13,
+      "question": "Which company began as an online bookstore and grew into a global marketplace?",
+      "options": [
+        "Amazon",
+        "eBay",
+        "Etsy"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the primary scalability benefit of microservices in commerce platforms?",
+      "options": [
+        "Scale individual services independently based on demand",
+        "Require a single shared database for all modules",
+        "Automatically eliminate all bugs"
+      ],
+      "answer": "Scale individual services independently based on demand"
+    },
+    {
+      "question_id": 15,
+      "question": "What architectural pattern supports resilience by isolating failures in commerce systems?",
+      "options": [
+        "Circuit breaker pattern to prevent cascading failures",
+        "Tightly coupling payment and product catalogs",
+        "Centralized monolith with shared database locks"
+      ],
+      "answer": "Circuit breaker pattern to prevent cascading failures"
+    }
+  ]
+}

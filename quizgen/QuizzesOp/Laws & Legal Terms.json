@@ -1,0 +1,865 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is a plaintiff in a civil lawsuit?",
+        "options": [
+          "The person who brings the claim",
+          "The official who decides the case",
+          "The witness who testifies first"
+        ],
+        "answer": "The person who brings the claim"
+      },
+      {
+        "question": "What does 'guilty' mean in criminal law?",
+        "options": [
+          "Found responsible for a crime",
+          "Released without conditions",
+          "Charged but not tried"
+        ],
+        "answer": "Found responsible for a crime"
+      },
+      {
+        "question": "What is a contract?",
+        "options": [
+          "An agreed promise enforceable by law",
+          "An informal verbal suggestion",
+          "A government-issued license"
+        ],
+        "answer": "An agreed promise enforceable by law"
+      },
+      {
+        "question": "What does 'habeas corpus' traditionally protect?",
+        "options": [
+          "Freedom from unlawful detention",
+          "Right to free speech",
+          "Right to a speedy trial"
+        ],
+        "answer": "Freedom from unlawful detention"
+      },
+      {
+        "question": "Who is a defense attorney?",
+        "options": [
+          "A lawyer representing the accused",
+          "A judge overseeing court proceedings",
+          "A mediator resolving contract disputes"
+        ],
+        "answer": "A lawyer representing the accused"
+      },
+      {
+        "question": "What is a statute?",
+        "options": [
+          "A law passed by a legislature",
+          "A judge's oral opinion",
+          "A private agreement between parties"
+        ],
+        "answer": "A law passed by a legislature"
+      },
+      {
+        "question": "What does 'appeal' mean in legal context?",
+        "options": [
+          "Requesting higher court review",
+          "Signing a formal contract",
+          "Filing criminal charges"
+        ],
+        "answer": "Requesting higher court review"
+      },
+      {
+        "question": "What is 'jurisdiction'?",
+        "options": [
+          "The court's power over a matter",
+          "The fee paid to file a lawsuit",
+          "The judge's written opinion"
+        ],
+        "answer": "The court's power over a matter"
+      },
+      {
+        "question": "What does 'due process' guarantee generally?",
+        "options": [
+          "Fair legal procedures before depriving rights",
+          "Automatic release from custody",
+          "Free legal representation in all cases"
+        ],
+        "answer": "Fair legal procedures before depriving rights"
+      },
+      {
+        "question": "What is a contract 'breach'?",
+        "options": [
+          "Failure to perform contractual duty",
+          "A written amendment to a contract",
+          "A court-issued injunction"
+        ],
+        "answer": "Failure to perform contractual duty"
+      },
+      {
+        "question": "What is 'probable cause' used for?",
+        "options": [
+          "Justifying an arrest or search",
+          "Determining civil damages amount",
+          "Deciding a judge's salary"
+        ],
+        "answer": "Justifying an arrest or search"
+      },
+      {
+        "question": "What does 'objection' do at trial?",
+        "options": [
+          "Challenges a question or evidence",
+          "Starts jury deliberations",
+          "Ends the trial immediately"
+        ],
+        "answer": "Challenges a question or evidence"
+      },
+      {
+        "question": "What is 'probation' as a sentence?",
+        "options": [
+          "Supervised freedom with conditions",
+          "Guaranteed early release without supervision",
+          "A monetary fine only"
+        ],
+        "answer": "Supervised freedom with conditions"
+      },
+      {
+        "question": "What is 'double jeopardy' protection?",
+        "options": [
+          "Prohibition against retrial for same offense",
+          "Guarantee of two trials per case",
+          "Requirement to pay two fines"
+        ],
+        "answer": "Prohibition against retrial for same offense"
+      },
+      {
+        "question": "What is an 'injunction'?",
+        "options": [
+          "Court order to do or stop something",
+          "A verbal warning from a judge",
+          "A jury's recommendation"
+        ],
+        "answer": "Court order to do or stop something"
+      },
+      {
+        "question": "What does 'liability' refer to legally?",
+        "options": [
+          "Legal responsibility for harm or debt",
+          "Temporary immunity from prosecution",
+          "A judge's discretionary power"
+        ],
+        "answer": "Legal responsibility for harm or debt"
+      },
+      {
+        "question": "What is 'mediation' in dispute resolution?",
+        "options": [
+          "Neutral facilitator helps parties negotiate",
+          "Judge imposes a binding verdict",
+          "One party unilaterally decides outcome"
+        ],
+        "answer": "Neutral facilitator helps parties negotiate"
+      },
+      {
+        "question": "What is 'due diligence' in legal practice?",
+        "options": [
+          "Reasonable investigation before a transaction",
+          "Immediate filing of a lawsuit",
+          "Automatic approval of contracts"
+        ],
+        "answer": "Reasonable investigation before a transaction"
+      },
+      {
+        "question": "What is 'estate' in probate law?",
+        "options": [
+          "A deceased person's assets and liabilities",
+          "A government tax on property owners",
+          "A living person's bank account only"
+        ],
+        "answer": "A deceased person's assets and liabilities"
+      },
+      {
+        "question": "What does 'voir dire' refer to?",
+        "options": [
+          "Jury selection questioning process",
+          "Judge's final sentencing remarks",
+          "Filing a civil complaint"
+        ],
+        "answer": "Jury selection questioning process"
+      },
+      {
+        "question": "What is 'common law'?",
+        "options": [
+          "Law developed by judicial decisions",
+          "A list of statutory regulations",
+          "International treaty obligations"
+        ],
+        "answer": "Law developed by judicial decisions"
+      },
+      {
+        "question": "What is 'ex parte' communication?",
+        "options": [
+          "One-sided communication without other party present",
+          "Joint agreement filed with the court",
+          "Public hearing open to all parties"
+        ],
+        "answer": "One-sided communication without other party present"
+      },
+      {
+        "question": "What does 'statute of limitations' set?",
+        "options": [
+          "Time limit to bring a legal claim",
+          "Maximum prison sentence allowed",
+          "Number of appeals permitted"
+        ],
+        "answer": "Time limit to bring a legal claim"
+      },
+      {
+        "question": "What is 'negligence' in tort law?",
+        "options": [
+          "Failure to exercise reasonable care causing harm",
+          "Intentional harming of another person",
+          "Strict liability without fault"
+        ],
+        "answer": "Failure to exercise reasonable care causing harm"
+      },
+      {
+        "question": "What is 'jurisprudence'?",
+        "options": [
+          "Study and theory of law",
+          "Official court transcript",
+          "Criminal investigation technique"
+        ],
+        "answer": "Study and theory of law"
+      },
+      {
+        "question": "What does 'plea bargain' accomplish?",
+        "options": [
+          "Defendant pleads guilty for reduced charge",
+          "Judge dismisses charges without trial",
+          "Prosecutor withdraws all cases"
+        ],
+        "answer": "Defendant pleads guilty for reduced charge"
+      },
+      {
+        "question": "What is 'probative value' of evidence?",
+        "options": [
+          "Its ability to prove a fact in issue",
+          "Its entertainment value in court",
+          "The cost to obtain the evidence"
+        ],
+        "answer": "Its ability to prove a fact in issue"
+      },
+      {
+        "question": "What is 'defamation'?",
+        "options": [
+          "False statement harming someone's reputation",
+          "Contract clause protecting parties",
+          "Court permission to publish records"
+        ],
+        "answer": "False statement harming someone's reputation"
+      },
+      {
+        "question": "What does 'equity' mean in law?",
+        "options": [
+          "Fairness-based remedies and principles",
+          "A criminal penalty type",
+          "A jury's unanimous decision"
+        ],
+        "answer": "Fairness-based remedies and principles"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which case first established judicial review in the United States?",
+        "options": [
+          "Marbury v. Madison (1803)",
+          "Brown v. Board of Education (1954)",
+          "Roe v. Wade (1973)"
+        ],
+        "answer": "Marbury v. Madison (1803)"
+      },
+      {
+        "question": "What legal doctrine lets courts ignore corporate separation for fairness?",
+        "options": [
+          "Piercing the corporate veil",
+          "Strict liability doctrine",
+          "Res judicata principle"
+        ],
+        "answer": "Piercing the corporate veil"
+      },
+      {
+        "question": "Which standard requires proof beyond a reasonable doubt?",
+        "options": [
+          "Criminal conviction standard",
+          "Civil preponderance standard",
+          "Administrative review standard"
+        ],
+        "answer": "Criminal conviction standard"
+      },
+      {
+        "question": "What is 'stare decisis' in common law systems?",
+        "options": [
+          "Respecting previous judicial decisions",
+          "Rejecting precedent for new rulings",
+          "Immediate legislative overrides"
+        ],
+        "answer": "Respecting previous judicial decisions"
+      },
+      {
+        "question": "Which document typically begins a civil lawsuit?",
+        "options": [
+          "Complaint or petition",
+          "Affidavit of service",
+          "Jury verdict form"
+        ],
+        "answer": "Complaint or petition"
+      },
+      {
+        "question": "What legal concept prevents relitigation of the same claim?",
+        "options": [
+          "Res judicata",
+          "Habeas corpus",
+          "Ex post facto"
+        ],
+        "answer": "Res judicata"
+      },
+      {
+        "question": "Which remedy orders the completion of a specific act in contracts?",
+        "options": [
+          "Specific performance",
+          "Compensatory damages",
+          "Punitive damages"
+        ],
+        "answer": "Specific performance"
+      },
+      {
+        "question": "What is the 'exclusionary rule' effect?",
+        "options": [
+          "Illegally seized evidence is inadmissible",
+          "All hearsay evidence becomes admissible",
+          "Witness testimony requires corroboration"
+        ],
+        "answer": "Illegally seized evidence is inadmissible"
+      },
+      {
+        "question": "What does 'mens rea' describe in criminal law?",
+        "options": [
+          "Defendant's mental state or intent",
+          "The physical act of a crime",
+          "A sentencing calculation method"
+        ],
+        "answer": "Defendant's mental state or intent"
+      },
+      {
+        "question": "Which tort requires intentional wrongdoing?",
+        "options": [
+          "Battery",
+          "Negligence",
+          "Strict liability"
+        ],
+        "answer": "Battery"
+      },
+      {
+        "question": "What is 'strict liability' in product law?",
+        "options": [
+          "Liability without proving fault",
+          "Liability only for intentional harm",
+          "Liability limited to contract breach"
+        ],
+        "answer": "Liability without proving fault"
+      },
+      {
+        "question": "What does 'probate' involve after someone's death?",
+        "options": [
+          "Administering the deceased's estate",
+          "Criminally prosecuting the estate executor",
+          "Automatically voiding the deceased's contracts"
+        ],
+        "answer": "Administering the deceased's estate"
+      },
+      {
+        "question": "Which principle bars retroactive criminal laws?",
+        "options": [
+          "Prohibition on ex post facto laws",
+          "Doctrine of sovereign immunity",
+          "Collateral estoppel"
+        ],
+        "answer": "Prohibition on ex post facto laws"
+      },
+      {
+        "question": "What is 'attorney-client privilege' purpose?",
+        "options": [
+          "Protects confidential legal communications",
+          "Allows attorneys to withhold evidence",
+          "Permits public disclosure of legal advice"
+        ],
+        "answer": "Protects confidential legal communications"
+      },
+      {
+        "question": "What legal test assesses search reasonableness under the Fourth Amendment?",
+        "options": [
+          "Probable cause and warrant requirement",
+          "Clear and convincing evidence standard",
+          "Preponderance of the evidence test"
+        ],
+        "answer": "Probable cause and warrant requirement"
+      },
+      {
+        "question": "Which remedy punishes and deters particularly wrongful conduct?",
+        "options": [
+          "Punitive damages",
+          "Nominal damages",
+          "Restitution"
+        ],
+        "answer": "Punitive damages"
+      },
+      {
+        "question": "What is 'constructive trust' used for in equity?",
+        "options": [
+          "Prevent unjust enrichment by imposing trust",
+          "Guarantee statutory damages",
+          "Replace criminal sentencing"
+        ],
+        "answer": "Prevent unjust enrichment by imposing trust"
+      },
+      {
+        "question": "Which statute governs international treaties within domestic law in many countries?",
+        "options": [
+          "Treaty incorporation or supremacy provisions",
+          "Extradition statutes",
+          "Patent statutes"
+        ],
+        "answer": "Treaty incorporation or supremacy provisions"
+      },
+      {
+        "question": "What is 'anticipatory breach' of contract?",
+        "options": [
+          "One party indicates refusal to perform early",
+          "Parties mutually terminate an agreement",
+          "A court forces immediate performance"
+        ],
+        "answer": "One party indicates refusal to perform early"
+      },
+      {
+        "question": "Which doctrine allows courts to dismiss weak cases early?",
+        "options": [
+          "Summary judgment",
+          "Writ of mandamus",
+          "Habeas corpus review"
+        ],
+        "answer": "Summary judgment"
+      },
+      {
+        "question": "What is the primary aim of antitrust laws?",
+        "options": [
+          "Promote competition and prevent monopolies",
+          "Standardize international trade tariffs",
+          "Protect minors from harmful content"
+        ],
+        "answer": "Promote competition and prevent monopolies"
+      },
+      {
+        "question": "What is 'mens rea' opposite concept describing physical act?",
+        "options": [
+          "Actus reus",
+          "Res ipsa loquitur",
+          "Stare decisis"
+        ],
+        "answer": "Actus reus"
+      },
+      {
+        "question": "Which principle limits use of prior inconsistent statements at trial?",
+        "options": [
+          "Hearsay rules and exceptions",
+          "Double jeopardy protections",
+          "Miranda rights"
+        ],
+        "answer": "Hearsay rules and exceptions"
+      },
+      {
+        "question": "What does 'alien tort statute' historically enable?",
+        "options": [
+          "Foreign nationals sue for international law violations",
+          "Deportation of noncitizens with crimes",
+          "Automatic diplomatic immunity"
+        ],
+        "answer": "Foreign nationals sue for international law violations"
+      },
+      {
+        "question": "What is 'contributory negligence' effect in some jurisdictions?",
+        "options": [
+          "Bar recovery if plaintiff was negligent at all",
+          "Increase defendant's punitive damages",
+          "Automatically shifts liability to insurer"
+        ],
+        "answer": "Bar recovery if plaintiff was negligent at all"
+      },
+      {
+        "question": "What is the legal meaning of 'consideration' in contracts?",
+        "options": [
+          "Something of value exchanged by parties",
+          "A judge's review of evidence",
+          "An automatic contract termination clause"
+        ],
+        "answer": "Something of value exchanged by parties"
+      },
+      {
+        "question": "Which agency typically enforces workplace safety laws in the United States?",
+        "options": [
+          "Occupational Safety and Health Administration",
+          "Federal Trade Commission",
+          "Environmental Protection Agency"
+        ],
+        "answer": "Occupational Safety and Health Administration"
+      },
+      {
+        "question": "What is 'res ipsa loquitur' used to infer?",
+        "options": [
+          "Negligence when cause is obvious from event",
+          "Automatic liability for manufacturers",
+          "Statutory limitation on damages"
+        ],
+        "answer": "Negligence when cause is obvious from event"
+      },
+      {
+        "question": "Which rule controls admissibility of expert testimony in federal courts?",
+        "options": [
+          "Daubert standard",
+          "Crawford rule",
+          "Brady doctrine"
+        ],
+        "answer": "Daubert standard"
+      },
+      {
+        "question": "What does 'force majeure' clause typically address?",
+        "options": [
+          "Excuses performance for unforeseen events",
+          "Increases penalties for delay",
+          "Requires arbitration for disputes"
+        ],
+        "answer": "Excuses performance for unforeseen events"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which doctrine limits damages for pure economic loss in many tort systems?",
+        "options": [
+          "Relational proximity and policy barriers",
+          "Contributory negligence doctrine",
+          "Parol evidence rule"
+        ],
+        "answer": "Relational proximity and policy barriers"
+      },
+      {
+        "question": "Which case set the 'reasonable expectation of privacy' standard in the US?",
+        "options": [
+          "Katz v. United States",
+          "Miranda v. Arizona",
+          "Mapp v. Ohio"
+        ],
+        "answer": "Katz v. United States"
+      },
+      {
+        "question": "What is the 'business judgment rule' primarily protecting?",
+        "options": [
+          "Directors' good-faith business decisions from liability",
+          "Employees from wrongful termination",
+          "Shareholders from insider trading"
+        ],
+        "answer": "Directors' good-faith business decisions from liability"
+      },
+      {
+        "question": "Which doctrine allows ministerial acts to be compelled by writ?",
+        "options": [
+          "Mandamus",
+          "Certiorari",
+          "Prohibition"
+        ],
+        "answer": "Mandamus"
+      },
+      {
+        "question": "What is 'parens patriae' power used by states for?",
+        "options": [
+          "Protecting those unable to protect themselves",
+          "Enforcing commercial contracts",
+          "Settling interstate disputes"
+        ],
+        "answer": "Protecting those unable to protect themselves"
+      },
+      {
+        "question": "Which rule requires prosecutors disclose exculpatory evidence?",
+        "options": [
+          "Brady v. Maryland disclosure rule",
+          "Kyllo thermal imaging rule",
+          "Fruit of the poisonous tree"
+        ],
+        "answer": "Brady v. Maryland disclosure rule"
+      },
+      {
+        "question": "What does the 'plain view' doctrine permit law enforcement to do?",
+        "options": [
+          "Seize evidence in plain sight during lawful presence",
+          "Search without warrant anywhere",
+          "Compel testimony without Miranda warnings"
+        ],
+        "answer": "Seize evidence in plain sight during lawful presence"
+      },
+      {
+        "question": "Which test evaluates discriminatory intent in constitutional claims?",
+        "options": [
+          "Strict scrutiny with suspect classification",
+          "Mere rational basis review",
+          "Good faith reliance test"
+        ],
+        "answer": "Strict scrutiny with suspect classification"
+      },
+      {
+        "question": "What is 'forum non conveniens' doctrine about?",
+        "options": [
+          "Dismissing cases where another forum is more appropriate",
+          "Transfer of property between jurisdictions",
+          "Setting bail in foreign courts"
+        ],
+        "answer": "Dismissing cases where another forum is more appropriate"
+      },
+      {
+        "question": "Which principle governs admissibility of subsequent remedial measures?",
+        "options": [
+          "Excluded to prevent discouraging safety improvements",
+          "Admitted as proof of liability",
+          "Automatically leads to punitive damages"
+        ],
+        "answer": "Excluded to prevent discouraging safety improvements"
+      },
+      {
+        "question": "What is the 'Kelly-Frye' or 'Frye' test concerning?",
+        "options": [
+          "General acceptance of scientific evidence in field",
+          "Statutory interpretation methodology",
+          "Constitutional law equal protection standard"
+        ],
+        "answer": "General acceptance of scientific evidence in field"
+      },
+      {
+        "question": "Which remedy in equity cancels an unjust contract and restores parties?",
+        "options": [
+          "Rescission",
+          "Specific performance",
+          "Declaratory judgment"
+        ],
+        "answer": "Rescission"
+      },
+      {
+        "question": "What is the hallmark of 'strict scrutiny' review?",
+        "options": [
+          "Compelling government interest and narrow tailoring",
+          "Deference to legislative judgment",
+          "Rational connection to plausible purpose"
+        ],
+        "answer": "Compelling government interest and narrow tailoring"
+      },
+      {
+        "question": "Which doctrine limits liability for unforeseeable intervening acts?",
+        "options": [
+          "Novus actus interveniens",
+          "Respondeat superior",
+          "Collateral estoppel"
+        ],
+        "answer": "Novus actus interveniens"
+      },
+      {
+        "question": "Which constitutional provision addresses taking private property for public use?",
+        "options": [
+          "Takings clause requiring just compensation",
+          "Commerce clause regulating trade",
+          "Privileges or immunities clause"
+        ],
+        "answer": "Takings clause requiring just compensation"
+      },
+      {
+        "question": "What does 'tort reform' typically aim to change?",
+        "options": [
+          "Caps on damages and procedural limits",
+          "Expansion of criminal penalties",
+          "Abolition of contract law"
+        ],
+        "answer": "Caps on damages and procedural limits"
+      },
+      {
+        "question": "Which doctrine bars evidence derived from illegal searches?",
+        "options": [
+          "Fruit of the poisonous tree",
+          "Collateral source rule",
+          "Independent source doctrine"
+        ],
+        "answer": "Fruit of the poisonous tree"
+      },
+      {
+        "question": "What is the 'incorporation doctrine' in constitutional law?",
+        "options": [
+          "Applying federal rights to states through the Fourteenth Amendment",
+          "Merging of corporate entities under law",
+          "Combining civil and criminal trials"
+        ],
+        "answer": "Applying federal rights to states through the Fourteenth Amendment"
+      },
+      {
+        "question": "Which doctrine lets courts dismiss claims lacking standing?",
+        "options": [
+          "Standing requirement for justiciability",
+          "Sovereign immunity defense",
+          "Statute of repose"
+        ],
+        "answer": "Standing requirement for justiciability"
+      },
+      {
+        "question": "What distinguishes 'constructive dismissal' in employment law?",
+        "options": [
+          "Employer's conduct forces employee to resign",
+          "Immediate firing without cause",
+          "Voluntary retirement package acceptance"
+        ],
+        "answer": "Employer's conduct forces employee to resign"
+      },
+      {
+        "question": "Which rule prevents admitting character evidence to prove conduct?",
+        "options": [
+          "Character evidence generally inadmissible to prove action",
+          "Prior bad acts always admitted",
+          "Impeachment evidence limited to expert witnesses"
+        ],
+        "answer": "Character evidence generally inadmissible to prove action"
+      },
+      {
+        "question": "What is the function of the 'parol evidence rule'?",
+        "options": [
+          "Bars prior extrinsic terms contradicting an integrated writing",
+          "Requires oral agreements override written contracts",
+          "Mandates judicial rewriting of ambiguous contracts"
+        ],
+        "answer": "Bars prior extrinsic terms contradicting an integrated writing"
+      },
+      {
+        "question": "Which statute created the principal federal administrative procedure framework in the U.S.?",
+        "options": [
+          "Administrative Procedure Act (APA)",
+          "Federal Rules of Civil Procedure",
+          "Patriot Act"
+        ],
+        "answer": "Administrative Procedure Act (APA)"
+      },
+      {
+        "question": "What is 'cy pres' relief in trust and class action contexts?",
+        "options": [
+          "Court-directed alternative distribution closely matching original intent",
+          "Automatic class certification rule",
+          "Statutory limit on punitive damages"
+        ],
+        "answer": "Court-directed alternative distribution closely matching original intent"
+      },
+      {
+        "question": "Which test analyzes whether speech is unprotected incitement?",
+        "options": [
+          "Imminent lawless action test",
+          "Strict scrutiny for content-neutral laws",
+          "Balancing test for time, place, manner"
+        ],
+        "answer": "Imminent lawless action test"
+      },
+      {
+        "question": "What doctrine addresses liability when multiple defendants contribute to harm but identity unknown?",
+        "options": [
+          "Market share liability or alternative liability doctrines",
+          "Joint enterprise immunity",
+          "Statutory employer liability"
+        ],
+        "answer": "Market share liability or alternative liability doctrines"
+      },
+      {
+        "question": "Which rule limits when subsequent remedial measures are admissible for impeachment?",
+        "options": [
+          "Admissible for impeachment but not for liability",
+          "Always inadmissible for any purpose",
+          "Admissible only in criminal trials"
+        ],
+        "answer": "Admissible for impeachment but not for liability"
+      },
+      {
+        "question": "What is 'forum shopping' in litigation strategy?",
+        "options": [
+          "Choosing a jurisdiction favorable to one's case",
+          "Selecting a mediator instead of a judge",
+          "Filing multiple identical claims in same court"
+        ],
+        "answer": "Choosing a jurisdiction favorable to one's case"
+      },
+      {
+        "question": "Which doctrine allows courts to enforce foreign judgments domestically?",
+        "options": [
+          "Comity and recognition statutes",
+          "Extradition treaties",
+          "Sovereign immunity"
+        ],
+        "answer": "Comity and recognition statutes"
+      },
+      {
+        "question": "What is the 'economic loss rule' effect in product liability?",
+        "options": [
+          "Bars tort recovery for purely economic losses absent physical harm",
+          "Requires punitive damages for product defects",
+          "Expands warranty claims into criminal liability"
+        ],
+        "answer": "Bars tort recovery for purely economic losses absent physical harm"
+      },
+      {
+        "question": "Which test determines whether a law is overly vague under due process?",
+        "options": [
+          "Whether ordinary people understand prohibited conduct and avoid arbitrary enforcement",
+          "Whether statute maximizes revenue",
+          "Whether law is endorsed by administrative agencies"
+        ],
+        "answer": "Whether ordinary people understand prohibited conduct and avoid arbitrary enforcement"
+      },
+      {
+        "question": "What is 'promissory estoppel' used to enforce?",
+        "options": [
+          "A reasonable reliance promise absent formal contract",
+          "A court-ordered specific performance of illegal acts",
+          "A criminal sentence reduction"
+        ],
+        "answer": "A reasonable reliance promise absent formal contract"
+      },
+      {
+        "question": "Which doctrine makes employers liable for employee torts within scope of employment?",
+        "options": [
+          "Respondeat superior",
+          "Strict product liability",
+          "Assumption of risk"
+        ],
+        "answer": "Respondeat superior"
+      },
+      {
+        "question": "What is the 'best evidence rule' requirement?",
+        "options": [
+          "Original document required to prove its contents when available",
+          "All witness testimony must be corroborated",
+          "Photocopies always suffice for court filings"
+        ],
+        "answer": "Original document required to prove its contents when available"
+      },
+      {
+        "question": "Which concept defines when treaties become part of domestic law in dualist systems?",
+        "options": [
+          "Transformation or implementing legislation",
+          "Automatic incorporation upon signature",
+          "Judicial creation by stare decisis"
+        ],
+        "answer": "Transformation or implementing legislation"
+      },
+      {
+        "question": "What is the 'public trust doctrine' primarily about?",
+        "options": [
+          "Government holds certain natural resources for public use",
+          "Private ownership of navigable waters",
+          "Exclusive commercial exploitation rights"
+        ],
+        "answer": "Government holds certain natural resources for public use"
+      }
+    ]
+  }
+}

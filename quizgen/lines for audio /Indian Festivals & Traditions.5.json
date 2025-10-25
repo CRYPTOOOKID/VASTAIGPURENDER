@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian festival is popularly called the Festival of Lights?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival marks the Sikh festival of Vaisakhi and also commemorates the formation of the Khalsa?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival custom in Bengal involves married women exchanging sindoor and sweets called 'Sindoor Khela'?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival features street processions and immersed idols in Mumbai as a major civic event?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which festival involves daughters visiting their parental home after marriage to celebrate with family in some regions?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival marks the Sikh remembrance of Guru Gobind Singh creating the Khalsa in 1699 at Anandpur Sahib?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which Hindu festival involves married women fasting for their husbands' long life?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival involves the immersion of Ganesha idols into the sea after several days?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which festival's traditional instrument ensemble in Kerala includes chenda, kombu, and ilathalam?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which festival in Kerala is renowned for its caparisoned elephants and percussion ensembles?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival in Gujarat is celebrated with nine nights of dancing called Garba and Dandiya Raas?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which festival's traditional Bengal sweet is 'sandesh', often exchanged during Durga Puja celebrations?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which festival honors ancestors with shraddha rituals and offerings in many Hindu households?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which festival marks the onset of spring celebrations and also includes kite flying in parts of India?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival marks the arrival of spring and features 'Lathmar Holi' in certain towns of Uttar Pradesh?"
+    }
+  ]
+}

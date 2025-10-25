@@ -1,0 +1,1135 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What is the typical format of a \"What am I?\" riddle?",
+        "options": [
+          "A descriptive clue leading to an object or concept",
+          "A multiple-choice trivia question about history",
+          "A math problem requiring equations"
+        ],
+        "answer": "A descriptive clue leading to an object or concept"
+      },
+      {
+        "question": "Which voice is most commonly used in \"What am I?\" riddles?",
+        "options": [
+          "First-person perspective speaking as the subject",
+          "Third-person biography of a person",
+          "Second-person directions to do something"
+        ],
+        "answer": "First-person perspective speaking as the subject"
+      },
+      {
+        "question": "What is a common goal when solving a \"What am I?\" riddle?",
+        "options": [
+          "Identify the object, person, or concept described",
+          "Calculate a numerical value",
+          "Translate a foreign phrase"
+        ],
+        "answer": "Identify the object, person, or concept described"
+      },
+      {
+        "question": "Which audience are \"What am I?\" riddles typically suitable for?",
+        "options": [
+          "Adults seeking clever, layered clues",
+          "Only kindergarten children",
+          "Professional mathematicians exclusively"
+        ],
+        "answer": "Adults seeking clever, layered clues"
+      },
+      {
+        "question": "What element often makes a \"What am I?\" riddle satisfying?",
+        "options": [
+          "An unexpected twist or double meaning",
+          "A long list of dates",
+          "A complex diagram"
+        ],
+        "answer": "An unexpected twist or double meaning"
+      },
+      {
+        "question": "Which literary device is frequently used in \"What am I?\" riddles?",
+        "options": [
+          "Metaphor or personification",
+          "Chemical notation",
+          "Spreadsheet formulas"
+        ],
+        "answer": "Metaphor or personification"
+      },
+      {
+        "question": "How many lines do many traditional short \"What am I?\" riddles have?",
+        "options": [
+          "Two to four concise lines",
+          "Fifteen to twenty long paragraphs",
+          "Dozens of bullet points"
+        ],
+        "answer": "Two to four concise lines"
+      },
+      {
+        "question": "Which of these is a simple example of a \"What am I?\" riddle answer?",
+        "options": [
+          "A shadow",
+          "A continent",
+          "A programming language"
+        ],
+        "answer": "A shadow"
+      },
+      {
+        "question": "What quality makes a good \"What am I?\" riddle for adults?",
+        "options": [
+          "Clever ambiguity with logical resolution",
+          "Completely random facts",
+          "Obvious literal description"
+        ],
+        "answer": "Clever ambiguity with logical resolution"
+      },
+      {
+        "question": "Which reaction is common when someone solves a clever \"What am I?\" riddle?",
+        "options": [
+          "A feeling of surprise and satisfaction",
+          "Frustration at arithmetic steps",
+          "Confusion over vocabulary lists"
+        ],
+        "answer": "A feeling of surprise and satisfaction"
+      },
+      {
+        "question": "Which topic is appropriate for adult \"What am I?\" riddles?",
+        "options": [
+          "Abstract concepts, everyday objects, or professions",
+          "Only nursery rhymes",
+          "Only scientific equations"
+        ],
+        "answer": "Abstract concepts, everyday objects, or professions"
+      },
+      {
+        "question": "Which technique helps when approaching a \"What am I?\" riddle?",
+        "options": [
+          "Consider literal and figurative meanings",
+          "Ignore the wording entirely",
+          "Only guess names of famous people"
+        ],
+        "answer": "Consider literal and figurative meanings"
+      },
+      {
+        "question": "What role do subtle clues play in \"What am I?\" riddles?",
+        "options": [
+          "They guide solvers without giving away the answer",
+          "They intentionally mislead with false facts",
+          "They add random numbers for decoration"
+        ],
+        "answer": "They guide solvers without giving away the answer"
+      },
+      {
+        "question": "Which environment often features \"What am I?\" riddles for adults?",
+        "options": [
+          "Social gatherings, games, and puzzle nights",
+          "Scientific conferences exclusively",
+          "Medical surgeries"
+        ],
+        "answer": "Social gatherings, games, and puzzle nights"
+      },
+      {
+        "question": "What is a safe content guideline for adult \"What am I?\" riddles?",
+        "options": [
+          "Avoid offensive or discriminatory themes",
+          "Use obscure slurs to be edgy",
+          "Rely on regionally offensive stereotypes"
+        ],
+        "answer": "Avoid offensive or discriminatory themes"
+      },
+      {
+        "question": "What is a common structure for clues in these riddles?",
+        "options": [
+          "A mix of sensory and functional descriptions",
+          "A list of unrelated chemical equations",
+          "A transcript of a phone call"
+        ],
+        "answer": "A mix of sensory and functional descriptions"
+      },
+      {
+        "question": "Which of these is a typical subject for a \"What am I?\" riddle?",
+        "options": [
+          "An everyday object like a key or mirror",
+          "A highly technical proprietary algorithm",
+          "A unique individual's private diary"
+        ],
+        "answer": "An everyday object like a key or mirror"
+      },
+      {
+        "question": "What skill improves with practicing \"What am I?\" riddles?",
+        "options": [
+          "Lateral thinking and pattern recognition",
+          "Surgical technique",
+          "Advanced calculus"
+        ],
+        "answer": "Lateral thinking and pattern recognition"
+      },
+      {
+        "question": "Which mood best fits an adult \"What am I?\" riddle session?",
+        "options": [
+          "Playful and intellectually curious",
+          "Solemn and funeral-like",
+          "Chaotic and dangerous"
+        ],
+        "answer": "Playful and intellectually curious"
+      },
+      {
+        "question": "Which of these makes a riddle unfair?",
+        "options": [
+          "Using obscure knowledge inaccessible to general adults",
+          "Providing clear, solvable clues",
+          "Keeping clues concise"
+        ],
+        "answer": "Using obscure knowledge inaccessible to general adults"
+      },
+      {
+        "question": "Which feature distinguishes adult \"What am I?\" riddles from children's riddles?",
+        "options": [
+          "More subtle wordplay and layered meanings",
+          "Only using animal characters",
+          "Always rhyming couplets"
+        ],
+        "answer": "More subtle wordplay and layered meanings"
+      },
+      {
+        "question": "How should answers be revealed in a casual riddle game?",
+        "options": [
+          "After reasonable guessing attempts or hints",
+          "Never revealed at all",
+          "Only after contestants pay a fee"
+        ],
+        "answer": "After reasonable guessing attempts or hints"
+      },
+      {
+        "question": "What is a classic analogy used in many \"What am I?\" riddles?",
+        "options": [
+          "I have keys but open no locks (a piano)",
+          "I have wings and breathe underwater",
+          "I travel through time physically"
+        ],
+        "answer": "I have keys but open no locks (a piano)"
+      },
+      {
+        "question": "Which reaction indicates a well-crafted adult riddle?",
+        "options": [
+          "People say \"I should have seen that!\"",
+          "People demand a refund",
+          "People ignore the riddle entirely"
+        ],
+        "answer": "People say \"I should have seen that!\""
+      },
+      {
+        "question": "What is an ethical consideration when writing adult riddles?",
+        "options": [
+          "Avoid personal attacks or sensitive topics",
+          "Target private individuals for mockery",
+          "Promote illegal activity"
+        ],
+        "answer": "Avoid personal attacks or sensitive topics"
+      },
+      {
+        "question": "Which of these is a non-literal clue often used?",
+        "options": [
+          "I die when I drink (a fire)",
+          "I weigh a ton and cannot be moved",
+          "I have a color that never changes"
+        ],
+        "answer": "I die when I drink (a fire)"
+      },
+      {
+        "question": "Which verb tense frequently appears in \"What am I?\" riddles' phrasing?",
+        "options": [
+          "Present tense describing ongoing traits",
+          "Future conditional tense about hypotheticals",
+          "Past perfect tense only"
+        ],
+        "answer": "Present tense describing ongoing traits"
+      },
+      {
+        "question": "What makes an adult riddle more shareable on social platforms?",
+        "options": [
+          "A clever twist and brief, punchy wording",
+          "Long, detailed historical essays",
+          "Ambiguous answers with no resolution"
+        ],
+        "answer": "A clever twist and brief, punchy wording"
+      },
+      {
+        "question": "Which is a common first hint when someone struggles with a riddle?",
+        "options": [
+          "Consider both literal and metaphorical meanings",
+          "Give the exact answer immediately",
+          "Change the topic entirely"
+        ],
+        "answer": "Consider both literal and metaphorical meanings"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which rhetorical device helps disguise the subject in a \"What am I?\" riddle?",
+        "options": [
+          "Anthropomorphism giving human traits to objects",
+          "Footnote citation of sources",
+          "Mathematical induction"
+        ],
+        "answer": "Anthropomorphism giving human traits to objects"
+      },
+      {
+        "question": "When a riddle says \"I have a heart that doesn't beat,\" what answer fits best?",
+        "options": [
+          "An artichoke or an art object",
+          "A living mammal",
+          "A clock"
+        ],
+        "answer": "An artichoke or an art object"
+      },
+      {
+        "question": "Which of these is a famous historical riddle style used by adults?",
+        "options": [
+          "A sphinx-like enigmatic question with layered clues",
+          "Tabloid headlines with no clues",
+          "Legal deposition transcripts"
+        ],
+        "answer": "A sphinx-like enigmatic question with layered clues"
+      },
+      {
+        "question": "What advantage does first-person narration provide in adult riddles?",
+        "options": [
+          "Creates intimacy and misdirection through subjective voice",
+          "Removes all ambiguity entirely",
+          "Provides exact scientific data"
+        ],
+        "answer": "Creates intimacy and misdirection through subjective voice"
+      },
+      {
+        "question": "Which pattern is effective for constructing progressive hints in a riddle?",
+        "options": [
+          "Start abstract and get progressively concrete",
+          "Start with exact answer then obscure it",
+          "Use random unrelated facts"
+        ],
+        "answer": "Start abstract and get progressively concrete"
+      },
+      {
+        "question": "Which cognitive skill is most exercised by complex \"What am I?\" riddles?",
+        "options": [
+          "Analogical reasoning linking disparate clues",
+          "Long division",
+          "Memorizing phone numbers"
+        ],
+        "answer": "Analogical reasoning linking disparate clues"
+      },
+      {
+        "question": "If a riddle mentions \"I am oft broken but rarely kept,\" which answer fits?",
+        "options": [
+          "A promise",
+          "A windowpane",
+          "A record"
+        ],
+        "answer": "A promise"
+      },
+      {
+        "question": "What type of adult riddle uses cultural references most effectively?",
+        "options": [
+          "Those referencing widely known literature, films, or idioms",
+          "Those using hyper-local slang unknown to most adults",
+          "Technical manuals"
+        ],
+        "answer": "Those referencing widely known literature, films, or idioms"
+      },
+      {
+        "question": "Which term describes a riddle relying on double meanings of a single word?",
+        "options": [
+          "Polysemy-based riddle",
+          "Algorithmic riddle",
+          "Photographic riddle"
+        ],
+        "answer": "Polysemy-based riddle"
+      },
+      {
+        "question": "What makes a riddle's distractors effective for adults?",
+        "options": [
+          "They reflect plausible but incorrect interpretations of clues",
+          "They are obviously unrelated nonsense",
+          "They repeat the correct answer twice"
+        ],
+        "answer": "They reflect plausible but incorrect interpretations of clues"
+      },
+      {
+        "question": "Which of these is a nuanced answer for \"I speak without a mouth and hear without ears\"?",
+        "options": [
+          "An echo",
+          "A person with headphones",
+          "A radio"
+        ],
+        "answer": "An echo"
+      },
+      {
+        "question": "When writing adult riddles, why include sensory details sparingly?",
+        "options": [
+          "To avoid over-specificity that gives the answer away",
+          "To overwhelm readers with data",
+          "To ensure the puzzle is unsolvable"
+        ],
+        "answer": "To avoid over-specificity that gives the answer away"
+      },
+      {
+        "question": "Which famous myth uses a riddle as a plot device relevant to adult puzzling?",
+        "options": [
+          "The Riddle of the Sphinx from Greek mythology",
+          "The Tower of Babel construction",
+          "The Odyssey's catalog of ships"
+        ],
+        "answer": "The Riddle of the Sphinx from Greek mythology"
+      },
+      {
+        "question": "Which best practice helps balance fairness in adult riddles?",
+        "options": [
+          "Include at least one concrete clue solvable by general knowledge",
+          "Assume niche specialist knowledge",
+          "Use only abstract metaphors with no anchor"
+        ],
+        "answer": "Include at least one concrete clue solvable by general knowledge"
+      },
+      {
+        "question": "If a riddle says \"I make music but have no voice,\" which fits best?",
+        "options": [
+          "A musical instrument like a piano",
+          "A celebrity singer",
+          "A thunderstorm"
+        ],
+        "answer": "A musical instrument like a piano"
+      },
+      {
+        "question": "Which technique counters solver frustration during riddle games?",
+        "options": [
+          "Offer tiered hints progressively",
+          "Reveal the answer immediately",
+          "Exclude any hint mechanism"
+        ],
+        "answer": "Offer tiered hints progressively"
+      },
+      {
+        "question": "When a riddle describes \"I go up and down but never move,\" what is the answer?",
+        "options": [
+          "A staircase's steps in perspective (or a road's gradient)",
+          "An elevator that travels floors",
+          "A bird flying"
+        ],
+        "answer": "A staircase's steps in perspective (or a road's gradient)"
+      },
+      {
+        "question": "Which demographic details should riddle writers avoid to remain inclusive?",
+        "options": [
+          "Regional slang or culturally specific references unknown globally",
+          "Universal sensory descriptions",
+          "Simple physical object references"
+        ],
+        "answer": "Regional slang or culturally specific references unknown globally"
+      },
+      {
+        "question": "Which of these is an example of a riddle using paradox to mislead?",
+        "options": [
+          "I am taken before you get it (a photograph)",
+          "I am eaten but never digested",
+          "I run but never walk"
+        ],
+        "answer": "I am taken before you get it (a photograph)"
+      },
+      {
+        "question": "Which editing step improves clarity of a \"What am I?\" riddle?",
+        "options": [
+          "Remove redundant phrases that dilute clues",
+          "Add several unrelated sentences",
+          "Make clues intentionally contradictory"
+        ],
+        "answer": "Remove redundant phrases that dilute clues"
+      },
+      {
+        "question": "What answer fits: \"I am lighter than what I am made of, yet I can sink ships\"?",
+        "options": [
+          "Ice (iceberg)",
+          "A sponge",
+          "A feather"
+        ],
+        "answer": "Ice (iceberg)"
+      },
+      {
+        "question": "Which approach helps craft memorable riddle conclusions?",
+        "options": [
+          "A reveal that reframes earlier clues in hindsight",
+          "A random unrelated punchline",
+          "Leaving the answer ambiguous forever"
+        ],
+        "answer": "A reveal that reframes earlier clues in hindsight"
+      },
+      {
+        "question": "What makes wordplay-based adult riddles particularly engaging?",
+        "options": [
+          "They reward both vocabulary and lateral thinking",
+          "They rely only on obscure etymology",
+          "They require long arithmetic sequences"
+        ],
+        "answer": "They reward both vocabulary and lateral thinking"
+      },
+      {
+        "question": "Which real-world connection strengthens a riddle's appeal?",
+        "options": [
+          "Linking clues to common daily experiences",
+          "Referring to very rare technical procedures",
+          "Using only fictional elements"
+        ],
+        "answer": "Linking clues to common daily experiences"
+      },
+      {
+        "question": "Which phrase best describes a riddle that deliberately misdirects readers?",
+        "options": [
+          "A red herring is intentionally placed",
+          "A literal handbook is provided",
+          "A direct instruction is given"
+        ],
+        "answer": "A red herring is intentionally placed"
+      },
+      {
+        "question": "If a riddle says \"I have teeth but cannot bite,\" which fits best?",
+        "options": [
+          "A comb",
+          "A person with braces",
+          "A carnivorous plant"
+        ],
+        "answer": "A comb"
+      },
+      {
+        "question": "Which element increases replay value of riddle collections for adults?",
+        "options": [
+          "Varied difficulty and thematic diversity",
+          "All riddles of identical style",
+          "Only one long unsolvable puzzle"
+        ],
+        "answer": "Varied difficulty and thematic diversity"
+      },
+      {
+        "question": "Which metric indicates a riddle's success in a group setting?",
+        "options": [
+          "Lively discussion and multiple 'aha' moments",
+          "Immediate resignation with no guesses",
+          "One person solving instantly without interaction"
+        ],
+        "answer": "Lively discussion and multiple 'aha' moments"
+      },
+      {
+        "question": "Which form of misdirection is subtler in adult riddles?",
+        "options": [
+          "Using a truthful but misleading description",
+          "Stating false facts directly",
+          "Using gibberish words"
+        ],
+        "answer": "Using a truthful but misleading description"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which classical riddle tradition influenced modern adult \"What am I?\" puzzles?",
+        "options": [
+          "Greek sphinx and medieval enigmas",
+          "Ancient Chinese oracle bone inscriptions",
+          "Mesoamerican codices"
+        ],
+        "answer": "Greek sphinx and medieval enigmas"
+      },
+      {
+        "question": "What cognitive bias often causes solvers to miss the correct \"What am I?\" answer?",
+        "options": [
+          "Functional fixedness preventing alternative uses",
+          "Availability heuristic improving recall",
+          "Optimism bias increasing confidence"
+        ],
+        "answer": "Functional fixedness preventing alternative uses"
+      },
+      {
+        "question": "Which linguistic feature do many expert-level riddles exploit?",
+        "options": [
+          "Homophones and homographs to create multiple readings",
+          "Scientific nomenclature exclusively",
+          "Strictly numerical patterns"
+        ],
+        "answer": "Homophones and homographs to create multiple readings"
+      },
+      {
+        "question": "Which answer best fits: \"I move without legs, have a bed but never sleep\"?",
+        "options": [
+          "A river",
+          "A centipede",
+          "A train"
+        ],
+        "answer": "A river"
+      },
+      {
+        "question": "What historical use of riddles elevated social status in some cultures?",
+        "options": [
+          "Riddle mastery as part of scholarly or bardic reputation",
+          "Riddles as legal contracts",
+          "Riddles as currency"
+        ],
+        "answer": "Riddle mastery as part of scholarly or bardic reputation"
+      },
+      {
+        "question": "Which strategy distinguishes a master riddle-writer for adults?",
+        "options": [
+          "Balancing solvability with elegant misdirection",
+          "Making clues completely opaque",
+          "Including irrelevant trivia"
+        ],
+        "answer": "Balancing solvability with elegant misdirection"
+      },
+      {
+        "question": "Which of these is a sophisticated 'What am I?' answer often used metaphorically?",
+        "options": [
+          "A mirror representing self-reflection",
+          "A simple fruit with no metaphorical weight",
+          "A brand name trademark"
+        ],
+        "answer": "A mirror representing self-reflection"
+      },
+      {
+        "question": "Which neuroscientific process is engaged when solvers experience an 'aha' moment?",
+        "options": [
+          "Sudden reorganization of insights linked to reward circuitry",
+          "Complete shutdown of prefrontal cortex",
+          "Linear computation in motor cortex"
+        ],
+        "answer": "Sudden reorganization of insights linked to reward circuitry"
+      },
+      {
+        "question": "Which phrase describes a riddle that depends on historical knowledge for adults?",
+        "options": [
+          "Contextual riddle with era-specific referent",
+          "Universal riddle with no era anchors",
+          "Mathematical riddle only"
+        ],
+        "answer": "Contextual riddle with era-specific referent"
+      },
+      {
+        "question": "What answer fits: \"I shrink as you feed me but grow when ignored\"?",
+        "options": [
+          "A fire needs fuel and shrinks when fed with water (or a fire itself)",
+          "A bank account",
+          "A shadow"
+        ],
+        "answer": "A fire needs fuel and shrinks when fed with water (or a fire itself)"
+      },
+      {
+        "question": "Which literary movement influenced complex adult riddle phrasing in modern puzzles?",
+        "options": [
+          "Surrealism's embrace of unexpected juxtapositions",
+          "Neoclassicism's strict forms",
+          "Realism's plain descriptions"
+        ],
+        "answer": "Surrealism's embrace of unexpected juxtapositions"
+      },
+      {
+        "question": "Which technique makes a riddle culturally portable for global adults?",
+        "options": [
+          "Use universal sensory metaphors over localized references",
+          "Use highly regional idioms",
+          "Rely on unpublished archival facts"
+        ],
+        "answer": "Use universal sensory metaphors over localized references"
+      },
+      {
+        "question": "Which of these is a canonical example of a paradox used in 'What am I?' riddles?",
+        "options": [
+          "This statement is false (liar paradox adapted into riddle form)",
+          "Simple arithmetic puzzles",
+          "A literal instruction manual"
+        ],
+        "answer": "This statement is false (liar paradox adapted into riddle form)"
+      },
+      {
+        "question": "When a riddle's correct answer is an abstract concept, what is crucial?",
+        "options": [
+          "Concrete anchor clues that make the abstract relatable",
+          "Complete vagueness and no anchor",
+          "Only numeric hints"
+        ],
+        "answer": "Concrete anchor clues that make the abstract relatable"
+      },
+      {
+        "question": "Which advanced writing tactic yields a satisfying riddle reveal?",
+        "options": [
+          "Layer clues that retroactively make sense after the answer",
+          "Reveal the answer in the first sentence",
+          "Use contradictory clues without resolution"
+        ],
+        "answer": "Layer clues that retroactively make sense after the answer"
+      },
+      {
+        "question": "What answer fits: \"I can run but never walk, have a mouth but never talk\"?",
+        "options": [
+          "A river",
+          "A clock",
+          "A person asleep"
+        ],
+        "answer": "A river"
+      },
+      {
+        "question": "Which measurement of riddle quality matters most for experienced adult puzzlers?",
+        "options": [
+          "Elegance of clue economy versus misleading difficulty",
+          "Number of words used",
+          "How many rhymes it has"
+        ],
+        "answer": "Elegance of clue economy versus misleading difficulty"
+      },
+      {
+        "question": "Which rhetorical risk can alienate sophisticated riddle audiences?",
+        "options": [
+          "Overly obscure specialist facts without broad anchors",
+          "Using common, solvable metaphors",
+          "Keeping the riddle short"
+        ],
+        "answer": "Overly obscure specialist facts without broad anchors"
+      },
+      {
+        "question": "Which cognitive strategy helps solvers of hard 'What am I?' riddles?",
+        "options": [
+          "Reframing clues in different semantic domains",
+          "Only reading the first word",
+          "Memorizing the entire riddle verbatim"
+        ],
+        "answer": "Reframing clues in different semantic domains"
+      },
+      {
+        "question": "Which historical riddle asked by the Sphinx targeted travelers' reasoning skills?",
+        "options": [
+          "What walks on four legs in the morning...?",
+          "Which god controls the wind?",
+          "How many seeds in a pomegranate?"
+        ],
+        "answer": "What walks on four legs in the morning...?"
+      },
+      {
+        "question": "Which feature elevates a riddle to 'classic' status among adults?",
+        "options": [
+          "Timelessness and repeat reveal that still surprises",
+          "Reliance on ephemeral memes",
+          "Use of proprietary technical terms"
+        ],
+        "answer": "Timelessness and repeat reveal that still surprises"
+      },
+      {
+        "question": "Which answer fits: \"I wear many faces but have one name\"?",
+        "options": [
+          "A coin with heads and tails",
+          "A living person with multiple personalities",
+          "A painting that changes"
+        ],
+        "answer": "A coin with heads and tails"
+      },
+      {
+        "question": "What is a common pitfall in crafting 'What am I?' riddles at expert level?",
+        "options": [
+          "Overloading clues that accidentally make the answer obvious",
+          "Giving no clues at all",
+          "Using only numbers"
+        ],
+        "answer": "Overloading clues that accidentally make the answer obvious"
+      },
+      {
+        "question": "Which modern medium has most expanded the distribution of adult riddles?",
+        "options": [
+          "Social media and mobile apps for puzzle sharing",
+          "Print-only pamphlets",
+          "Academic journals exclusively"
+        ],
+        "answer": "Social media and mobile apps for puzzle sharing"
+      },
+      {
+        "question": "Which discipline studies how riddles influence cognition and culture?",
+        "options": [
+          "Folkloristics and cognitive science intersection",
+          "Thermodynamics",
+          "Pure algebra"
+        ],
+        "answer": "Folkloristics and cognitive science intersection"
+      },
+      {
+        "question": "Which advanced riddle answer leverages irony for impact?",
+        "options": [
+          "A safe described as 'empty but full of danger' (like a moldy cellar)",
+          "A literal description with no irony",
+          "A numeric code"
+        ],
+        "answer": "A safe described as 'empty but full of danger' (like a moldy cellar)"
+      },
+      {
+        "question": "Which technique helps maintain fairness in expert-level riddle contests?",
+        "options": [
+          "Provide a clear hint schedule and avoid arcane references",
+          "Allow only one immediate solve with no hints",
+          "Use private knowledge only one judge has"
+        ],
+        "answer": "Provide a clear hint schedule and avoid arcane references"
+      },
+      {
+        "question": "Which answer suits: \"I am born when two meet but die alone\"?",
+        "options": [
+          "A conversation or relationship",
+          "A book left unread",
+          "A solitary statue"
+        ],
+        "answer": "A conversation or relationship"
+      },
+      {
+        "question": "Which historical figure used riddles as part of philosophical teaching methods?",
+        "options": [
+          "Plato and other classical teachers using paradoxical questions",
+          "Isaac Newton writing nursery rhymes",
+          "Marie Curie composing riddles"
+        ],
+        "answer": "Plato and other classical teachers using paradoxical questions"
+      },
+      {
+        "question": "Which advanced constraint increases a riddle's craft value?",
+        "options": [
+          "Using minimal words while preserving multiple interpretive layers",
+          "Adding long explanatory paragraphs",
+          "Using technical jargon only specialists know"
+        ],
+        "answer": "Using minimal words while preserving multiple interpretive layers"
+      },
+      {
+        "question": "Which answer best fits: \"I have cities but no houses, forests but no trees\"?",
+        "options": [
+          "A map",
+          "A painting",
+          "A novel"
+        ],
+        "answer": "A map"
+      },
+      {
+        "question": "Which ethical concern arises in competitive adult riddle communities?",
+        "options": [
+          "Plagiarism of original riddles without attribution",
+          "Sharing too many hints publicly",
+          "Using only ancient riddles"
+        ],
+        "answer": "Plagiarism of original riddles without attribution"
+      },
+      {
+        "question": "Which advanced wordplay device can subtly hide an answer within a riddle?",
+        "options": [
+          "Acrostic spelling first letters of each line",
+          "Adding complex algebra",
+          "Using only synonyms"
+        ],
+        "answer": "Acrostic spelling first letters of each line"
+      },
+      {
+        "question": "Which characteristic distinguishes a virtuoso-level 'What am I?' riddle reveal?",
+        "options": [
+          "An answer that reinterprets earlier clues elegantly",
+          "A blunt, unsurprising answer",
+          "A nonsensical punchline"
+        ],
+        "answer": "An answer that reinterprets earlier clues elegantly"
+      },
+      {
+        "question": "Which answer fits: \"I am not alive but grow; I don't have lungs but need air\"?",
+        "options": [
+          "Fire",
+          "Stone",
+          "Clockwork"
+        ],
+        "answer": "Fire"
+      },
+      {
+        "question": "Which research finding relates to solving complex riddles rapidly?",
+        "options": [
+          "Experts show pattern recognition and chunking similar to chess masters",
+          "Experts rely solely on luck",
+          "Experts memorize all riddles verbatim"
+        ],
+        "answer": "Experts show pattern recognition and chunking similar to chess masters"
+      },
+      {
+        "question": "Which stylistic choice enriches layered adult riddles?",
+        "options": [
+          "Introduce an emotionally resonant motif that hints at the answer",
+          "Remove all emotional content",
+          "Use random capitalization"
+        ],
+        "answer": "Introduce an emotionally resonant motif that hints at the answer"
+      },
+      {
+        "question": "Which answer fits: \"I fly without wings, cry without eyes, wherever I go darkness follows\"?",
+        "options": [
+          "Cloud or storm",
+          "A bat",
+          "A comet"
+        ],
+        "answer": "Cloud or storm"
+      },
+      {
+        "question": "Which compositional balance do top riddle writers aim for?",
+        "options": [
+          "Ambiguity that invites exploration but permits logical resolution",
+          "Complete ambiguity preventing solution",
+          "Rigid literalism with no cleverness"
+        ],
+        "answer": "Ambiguity that invites exploration but permits logical resolution"
+      },
+      {
+        "question": "Which technique helps internationalize an advanced 'What am I?' riddle?",
+        "options": [
+          "Avoid culturally specific puns and use universal phenomena",
+          "Include region-only slang",
+          "Reference untranslatable idioms"
+        ],
+        "answer": "Avoid culturally specific puns and use universal phenomena"
+      },
+      {
+        "question": "Which answer fits: \"I am taken from a mine and shut in a wooden case, used by artists and carpenters\"?",
+        "options": [
+          "Graphite (pencil lead)",
+          "Coal for heating",
+          "Gold jewelry"
+        ],
+        "answer": "Graphite (pencil lead)"
+      },
+      {
+        "question": "Which cognitive phenomenon explains why groups often solve riddles faster than individuals?",
+        "options": [
+          "Collective brainstorming reduces functional fixedness and pools associations",
+          "Groupthink eliminates alternatives",
+          "Groups produce identical single solutions immediately"
+        ],
+        "answer": "Collective brainstorming reduces functional fixedness and pools associations"
+      },
+      {
+        "question": "Which answer fits: \"I start with an end, contain what I consume, and vanish when used\"?",
+        "options": [
+          "An envelope",
+          "A mirror",
+          "A calendar"
+        ],
+        "answer": "An envelope"
+      },
+      {
+        "question": "Which advanced editor's rule improves high-level riddle collections?",
+        "options": [
+          "Ensure each riddle has one clear answer and distinct misdirects",
+          "Allow multiple equally valid answers per riddle",
+          "Repeat the same trope throughout"
+        ],
+        "answer": "Ensure each riddle has one clear answer and distinct misdirects"
+      },
+      {
+        "question": "Which answer fits: \"I have keys but no doors, space but no room, you can enter but not go inside\"?",
+        "options": [
+          "A keyboard",
+          "A piano teacher's office",
+          "A blue keycard"
+        ],
+        "answer": "A keyboard"
+      },
+      {
+        "question": "Which feature often marks a riddle as 'overfitted' to a niche audience?",
+        "options": [
+          "Excessive reliance on domain-specific trivia without general clues",
+          "Use of general metaphors",
+          "Short, elegant wording"
+        ],
+        "answer": "Excessive reliance on domain-specific trivia without general clues"
+      },
+      {
+        "question": "Which answer fits: \"I turn once, what is out will not get in; I turn again, what is in will not get out\"?",
+        "options": [
+          "A key in a lock",
+          "A doorknob",
+          "A rotating wheel"
+        ],
+        "answer": "A key in a lock"
+      },
+      {
+        "question": "Which approach helps keep an advanced riddle anthology fresh for repeat readers?",
+        "options": [
+          "Include thematic surprises and varied cognitive challenges",
+          "Use only riddles of one type",
+          "Avoid editorial curation"
+        ],
+        "answer": "Include thematic surprises and varied cognitive challenges"
+      },
+      {
+        "question": "Which answer fits: \"I cling to your skin in summer, bite without teeth, vanish in winter\"?",
+        "options": [
+          "A mosquito",
+          "A spider",
+          "A moth"
+        ],
+        "answer": "A mosquito"
+      },
+      {
+        "question": "Which research area can inform riddle design for maximum engagement?",
+        "options": [
+          "Behavioral economics and cognitive psychology on reward and curiosity",
+          "Aeronautical engineering",
+          "Plate tectonics"
+        ],
+        "answer": "Behavioral economics and cognitive psychology on reward and curiosity"
+      },
+      {
+        "question": "Which answer fits: \"I speak in numbers without words, guide decisions but lack emotion\"?",
+        "options": [
+          "Statistics or data",
+          "A poet",
+          "A musician"
+        ],
+        "answer": "Statistics or data"
+      },
+      {
+        "question": "Which advanced writing move can create an elegant riddle twist?",
+        "options": [
+          "Repurpose an everyday idiom into a literal riddle clue",
+          "Invent a new unrelated idiom",
+          "Use an obscure dead language exclusively"
+        ],
+        "answer": "Repurpose an everyday idiom into a literal riddle clue"
+      },
+      {
+        "question": "Which answer fits: \"I can be cracked, made, told, and played\"?",
+        "options": [
+          "A joke",
+          "An egg",
+          "A code"
+        ],
+        "answer": "A joke"
+      },
+      {
+        "question": "Which factor differentiates a memorable adult riddle collection from a forgettable one?",
+        "options": [
+          "Originality of metaphors and careful answer economy",
+          "Quantity of riddles only",
+          "Use of only classical themes"
+        ],
+        "answer": "Originality of metaphors and careful answer economy"
+      },
+      {
+        "question": "Which answer fits: \"I have chains yet I am free; I can bind but never touch\"?",
+        "options": [
+          "A promise or obligation",
+          "A prisoner",
+          "A physical necklace"
+        ],
+        "answer": "A promise or obligation"
+      },
+      {
+        "question": "Which editorial guideline aids fairness in competitive riddling?",
+        "options": [
+          "Clearly define allowed reference domains beforehand",
+          "Allow judges to retroactively change rules",
+          "Permit unpublished insider references"
+        ],
+        "answer": "Clearly define allowed reference domains beforehand"
+      },
+      {
+        "question": "Which answer fits: \"I have a neck but no head, two arms but no hands\"?",
+        "options": [
+          "A shirt",
+          "A violin",
+          "A tree"
+        ],
+        "answer": "A shirt"
+      },
+      {
+        "question": "Which advanced cognitive load concern should riddle designers manage?",
+        "options": [
+          "Avoid excessive working-memory demands that block pattern discovery",
+          "Make riddles require long memorization",
+          "Force multi-step hidden arithmetic"
+        ],
+        "answer": "Avoid excessive working-memory demands that block pattern discovery"
+      },
+      {
+        "question": "Which answer fits: \"I hide in plain sight, reflect truth but distort images\"?",
+        "options": [
+          "Water surface or mirror under ripples",
+          "A photograph",
+          "A newspaper"
+        ],
+        "answer": "Water surface or mirror under ripples"
+      },
+      {
+        "question": "Which long-term trend affects the evolution of 'What am I?' adult riddles?",
+        "options": [
+          "Shorter, social-media-friendly formats and visual riddles",
+          "Long-form printed-only collections increasing",
+          "Exclusively oral traditions rising"
+        ],
+        "answer": "Shorter, social-media-friendly formats and visual riddles"
+      },
+      {
+        "question": "Which answer fits: \"I can be opened but never closed, I show what was but never what will be\"?",
+        "options": [
+          "A book of history or a photo album",
+          "A future calendar",
+          "A sealed box"
+        ],
+        "answer": "A book of history or a photo album"
+      },
+      {
+        "question": "Which advanced measure helps evaluate riddle difficulty objectively?",
+        "options": [
+          "Pilot testing across varied populations measuring solve rates and hint sensitivity",
+          "Counting words alone",
+          "Relying on a single expert's judgment"
+        ],
+        "answer": "Pilot testing across varied populations measuring solve rates and hint sensitivity"
+      },
+      {
+        "question": "Which answer fits: \"I am heavy forward but light backward\"?",
+        "options": [
+          "The word 'ton' spelled backward is 'not'",
+          "A see-saw",
+          "A feather"
+        ],
+        "answer": "The word 'ton' spelled backward is 'not'"
+      },
+      {
+        "question": "Which meta-quality makes a riddle collection lasting for enthusiasts?",
+        "options": [
+          "Interplay of theme, escalating difficulty, and editorial curation",
+          "Random assortment with no curation",
+          "Only reprints of classics"
+        ],
+        "answer": "Interplay of theme, escalating difficulty, and editorial curation"
+      },
+      {
+        "question": "Which answer fits: \"I am taken by the living, left by the dead\"?",
+        "options": [
+          "A photograph",
+          "Breath",
+          "A will"
+        ],
+        "answer": "A photograph"
+      },
+      {
+        "question": "Which design principle helps expert riddle creators avoid accidental ambiguity?",
+        "options": [
+          "Explicitly test for alternate plausible answers during editing",
+          "Assume single-minded clarity from first draft",
+          "Remove all metaphors"
+        ],
+        "answer": "Explicitly test for alternate plausible answers during editing"
+      },
+      {
+        "question": "Which answer fits: \"I have roots nobody sees, I am taller than trees\"?",
+        "options": [
+          "A mountain",
+          "A cactus",
+          "A skyscraper"
+        ],
+        "answer": "A mountain"
+      }
+    ]
+  }
+}

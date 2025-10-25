@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital of Goa?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which city became the capital of Telangana when the state formed in 2014?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital city is home to the Indian Institute of Science and several premier aerospace facilities?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the capital of Bihar?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which state capital hosts the headquarters of the Eastern Naval Command nearby?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital city is nearest to India’s easternmost permanently inhabited point in the mainland?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of Uttarakhand?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which state capital hosts the Vikram Sarabhai Space Centre of ISRO?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which state capital lies nearest to India’s westernmost point in the mainland?"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the capital of Rajasthan?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which capital city is nearest to the Sundarbans mangrove delta?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital city became the seat of a newly formed union territory's administration after 2019 reorganization?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Meghalaya?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital was officially renamed from Calcutta to Kolkata in 2001?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital's surrounding region contains prominent rock-cut Buddhist monuments dating to early centuries CE?"
+    }
+  ]
+}

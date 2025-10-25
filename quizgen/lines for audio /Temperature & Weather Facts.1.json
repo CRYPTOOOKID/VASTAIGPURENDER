@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which temperature scale uses 32 for freezing and 212 for boiling of water?"
+    },
+    {
+      "question_id": 2,
+      "question": "What atmospheric layering leads to freezing rain instead of snowfall at the surface?"
+    },
+    {
+      "question_id": 3,
+      "question": "What common nighttime process creates temperature inversions that trap pollutants near the surface?"
+    },
+    {
+      "question_id": 4,
+      "question": "What instrument directly measures atmospheric humidity?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which term measures atmospheric moisture as a percentage of saturation at current temperature?"
+    },
+    {
+      "question_id": 6,
+      "question": "What scientific field uses tree-ring width and density to reconstruct past climate variations?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which temperature scale sets absolute zero at 0 units?"
+    },
+    {
+      "question_id": 8,
+      "question": "What weather event occurs when wind lifts and suspends dust or sand into the atmosphere?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which satellite instrument class measures vertical atmospheric temperature profiles using infrared emission?"
+    },
+    {
+      "question_id": 10,
+      "question": "What forms when warm, moist air cools below its dew point near the ground?"
+    },
+    {
+      "question_id": 11,
+      "question": "What large-scale atmospheric waves help shape jet stream meanders and weather patterns?"
+    },
+    {
+      "question_id": 12,
+      "question": "What does isentropic analysis follow to study air parcel movement and mass transport?"
+    },
+    {
+      "question_id": 13,
+      "question": "What instrument is commonly used to measure air temperature?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which index estimates human discomfort during hot, humid conditions combining temperature and humidity?"
+    },
+    {
+      "question_id": 15,
+      "question": "In severe-weather forecasting what does CAPE stand for?"
+    }
+  ]
+}

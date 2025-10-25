@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the standard form of a circle centered at (h,k)?",
+      "options": [
+        "(x-h)^2 + (y-k)^2 = r^2",
+        "y = mx + b",
+        "x^2 + y^2 = 1"
+      ],
+      "answer": "(x-h)^2 + (y-k)^2 = r^2"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the derivative of sin(x) with respect to x?",
+      "options": [
+        "cos(x)",
+        "-sin(x)",
+        "tan(x)"
+      ],
+      "answer": "cos(x)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which operator measures infinitesimal rotation of a vector field?",
+      "options": [
+        "curl",
+        "divergence",
+        "gradient"
+      ],
+      "answer": "curl"
+    },
+    {
+      "question_id": 4,
+      "question": "Which identity is true for cos^2θ + sin^2θ?",
+      "options": [
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 5,
+      "question": "What does the binomial coefficient C(n,k) count?",
+      "options": [
+        "number of k-element combinations from n",
+        "number of permutations of n",
+        "number of partitions of n"
+      ],
+      "answer": "number of k-element combinations from n"
+    },
+    {
+      "question_id": 6,
+      "question": "Which result links line integrals and double integrals (in plane)?",
+      "options": [
+        "Green's theorem",
+        "Stokes' theorem",
+        "Divergence theorem"
+      ],
+      "answer": "Green's theorem"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the slope of a horizontal line?",
+      "options": [
+        "0",
+        "1",
+        "undefined"
+      ],
+      "answer": "0"
+    },
+    {
+      "question_id": 8,
+      "question": "Which matrix operation uses row reduction to find solution of linear systems?",
+      "options": [
+        "Gaussian elimination",
+        "LU decomposition",
+        "Eigen decomposition"
+      ],
+      "answer": "Gaussian elimination"
+    },
+    {
+      "question_id": 9,
+      "question": "Which identity expresses the derivative of determinant det(A(t))?",
+      "options": [
+        "d/dt det A = det A · trace(A^{-1} A')",
+        "d/dt det A = trace(A')",
+        "d/dt det A = 0"
+      ],
+      "answer": "d/dt det A = det A · trace(A^{-1} A')"
+    },
+    {
+      "question_id": 10,
+      "question": "Which expression defines geometric sequence nth term?",
+      "options": [
+        "a_n = a_1 × r^{n-1}",
+        "a_n = a_1 + (n-1)d",
+        "a_n = a_1 / n"
+      ],
+      "answer": "a_n = a_1 × r^{n-1}"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the formula for the distance between two points (x1,y1) and (x2,y2)?",
+      "options": [
+        "√((x2-x1)^2+(y2-y1)^2)",
+        "(x2-x1)+(y2-y1)",
+        "|x2-x1|+|y2-y1|"
+      ],
+      "answer": "√((x2-x1)^2+(y2-y1)^2)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept measures topological equivalence classes of maps from sphere to sphere?",
+      "options": [
+        "degree of a map",
+        "winding number in plane only",
+        "metric dimension"
+      ],
+      "answer": "degree of a map"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the slope formula for a line through (x1,y1) and (x2,y2)?",
+      "options": [
+        "(y2 - y1)/(x2 - x1)",
+        "(x2 - x1)/(y2 - y1)",
+        "y = mx + b"
+      ],
+      "answer": "(y2 - y1)/(x2 - x1)"
+    },
+    {
+      "question_id": 14,
+      "question": "Which test uses limsup |a_{n+1}/a_n| to assess series convergence?",
+      "options": [
+        "Ratio test",
+        "Root test",
+        "Alternating series test"
+      ],
+      "answer": "Ratio test"
+    },
+    {
+      "question_id": 15,
+      "question": "Which function space contains square-integrable functions L^2 defined by?",
+      "options": [
+        "∫|f|^2 < ∞",
+        "∫|f| < ∞",
+        "f continuous"
+      ],
+      "answer": "∫|f|^2 < ∞"
+    }
+  ]
+}

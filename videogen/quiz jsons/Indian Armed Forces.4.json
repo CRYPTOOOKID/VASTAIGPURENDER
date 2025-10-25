@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which award recognizes bravery during peacetime in India?",
+      "options": [
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Vir Chakra"
+      ],
+      "answer": "Ashoka Chakra"
+    },
+    {
+      "question_id": 2,
+      "question": "Which famous 1999 conflict was primarily fought along high-altitude Kargil heights?",
+      "options": [
+        "Siachen conflict",
+        "1965 War",
+        "Kargil War"
+      ],
+      "answer": "Kargil War"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian Army operation recaptured Kargil heights during 1999 under combined infantry and artillery effort?",
+      "options": [
+        "Operation Blue Star",
+        "Operation Meghdoot",
+        "Operation Vijay (1999)"
+      ],
+      "answer": "Operation Vijay (1999)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which force is primarily responsible for aerial defence of India?",
+      "options": [
+        "Indian Air Force",
+        "Indian Navy",
+        "Indian Army"
+      ],
+      "answer": "Indian Air Force"
+    },
+    {
+      "question_id": 5,
+      "question": "Which programme produced the Light Combat Aircraft inducted into the IAF?",
+      "options": [
+        "MiG upgrade programme",
+        "Jaguar modernization",
+        "HAL Tejas development"
+      ],
+      "answer": "HAL Tejas development"
+    },
+    {
+      "question_id": 6,
+      "question": "Which missile is a joint India-Russia supersonic cruise missile deployed by Army and Navy?",
+      "options": [
+        "Pralay",
+        "Nirbhay",
+        "BrahMos"
+      ],
+      "answer": "BrahMos"
+    },
+    {
+      "question_id": 7,
+      "question": "Where is the National Defence Academy located?",
+      "options": [
+        "Dehradun",
+        "Ahmedabad",
+        "Pune"
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 8,
+      "question": "Which indigenous main battle tank was developed by DRDO and produced at Avadi?",
+      "options": [
+        "Arjun",
+        "T-72",
+        "T-90"
+      ],
+      "answer": "Arjun"
+    },
+    {
+      "question_id": 9,
+      "question": "Which platform provides India's nuclear second-strike sea capability via ballistic missiles?",
+      "options": [
+        "Nuclear-powered ballistic missile submarines (SSBNs) like INS Arihant",
+        "Surface missile corvettes",
+        "Aircraft carriers alone"
+      ],
+      "answer": "Nuclear-powered ballistic missile submarines (SSBNs) like INS Arihant"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major war in 1971 resulted in creation of Bangladesh with Indian involvement?",
+      "options": [
+        "Sino-Indian War",
+        "Kargil War",
+        "Bangladesh Liberation War"
+      ],
+      "answer": "Bangladesh Liberation War"
+    },
+    {
+      "question_id": 11,
+      "question": "Who was the first recipient of the Param Vir Chakra in post-independence India?",
+      "options": [
+        "Subedar Major Bana Singh",
+        "Major Somnath Sharma",
+        "Captain Vikram Batra"
+      ],
+      "answer": "Major Somnath Sharma"
+    },
+    {
+      "question_id": 12,
+      "question": "Which coastal missile system co-developed by India and Russia is ship- and coastal-launch capable?",
+      "options": [
+        "BrahMos cruise missile",
+        "Prithvi ballistic missile",
+        "Astra air-to-air missile"
+      ],
+      "answer": "BrahMos cruise missile"
+    },
+    {
+      "question_id": 13,
+      "question": "Which day is celebrated as Indian Army Day each year?",
+      "options": [
+        "26 January",
+        "1 May",
+        "15 January"
+      ],
+      "answer": "15 January"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian Air Force helicopter is widely used for heavy-lift operations?",
+      "options": [
+        "Cheetah",
+        "Mi-17",
+        "Pawan"
+      ],
+      "answer": "Mi-17"
+    },
+    {
+      "question_id": 15,
+      "question": "Which shipyard built India's first indigenous aircraft carrier INS Vikrant (IAC-1)?",
+      "options": [
+        "Garden Reach Shipbuilders",
+        "Cochin Shipyard",
+        "Mazagon Dock Shipbuilders"
+      ],
+      "answer": "Cochin Shipyard"
+    }
+  ]
+}

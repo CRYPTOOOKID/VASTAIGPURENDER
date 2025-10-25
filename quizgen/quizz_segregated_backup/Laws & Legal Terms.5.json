@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'appeal' mean in legal context?",
+      "options": [
+        "Requesting higher court review",
+        "Signing a formal contract",
+        "Filing criminal charges"
+      ],
+      "answer": "Requesting higher court review"
+    },
+    {
+      "question_id": 2,
+      "question": "Which remedy punishes and deters particularly wrongful conduct?",
+      "options": [
+        "Punitive damages",
+        "Nominal damages",
+        "Restitution"
+      ],
+      "answer": "Punitive damages"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rule limits when subsequent remedial measures are admissible for impeachment?",
+      "options": [
+        "Admissible for impeachment but not for liability",
+        "Always inadmissible for any purpose",
+        "Admissible only in criminal trials"
+      ],
+      "answer": "Admissible for impeachment but not for liability"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'jurisdiction'?",
+      "options": [
+        "The court's power over a matter",
+        "The fee paid to file a lawsuit",
+        "The judge's written opinion"
+      ],
+      "answer": "The court's power over a matter"
+    },
+    {
+      "question_id": 5,
+      "question": "Which remedy orders the completion of a specific act in contracts?",
+      "options": [
+        "Specific performance",
+        "Compensatory damages",
+        "Punitive damages"
+      ],
+      "answer": "Specific performance"
+    },
+    {
+      "question_id": 6,
+      "question": "What is 'cy pres' relief in trust and class action contexts?",
+      "options": [
+        "Court-directed alternative distribution closely matching original intent",
+        "Automatic class certification rule",
+        "Statutory limit on punitive damages"
+      ],
+      "answer": "Court-directed alternative distribution closely matching original intent"
+    },
+    {
+      "question_id": 7,
+      "question": "What is 'probation' as a sentence?",
+      "options": [
+        "Supervised freedom with conditions",
+        "Guaranteed early release without supervision",
+        "A monetary fine only"
+      ],
+      "answer": "Supervised freedom with conditions"
+    },
+    {
+      "question_id": 8,
+      "question": "What is 'attorney-client privilege' purpose?",
+      "options": [
+        "Protects confidential legal communications",
+        "Allows attorneys to withhold evidence",
+        "Permits public disclosure of legal advice"
+      ],
+      "answer": "Protects confidential legal communications"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rule requires prosecutors disclose exculpatory evidence?",
+      "options": [
+        "Brady v. Maryland disclosure rule",
+        "Kyllo thermal imaging rule",
+        "Fruit of the poisonous tree"
+      ],
+      "answer": "Brady v. Maryland disclosure rule"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a statute?",
+      "options": [
+        "A law passed by a legislature",
+        "A judge's oral opinion",
+        "A private agreement between parties"
+      ],
+      "answer": "A law passed by a legislature"
+    },
+    {
+      "question_id": 11,
+      "question": "What does 'probate' involve after someone's death?",
+      "options": [
+        "Administering the deceased's estate",
+        "Criminally prosecuting the estate executor",
+        "Automatically voiding the deceased's contracts"
+      ],
+      "answer": "Administering the deceased's estate"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'promissory estoppel' used to enforce?",
+      "options": [
+        "A reasonable reliance promise absent formal contract",
+        "A court-ordered specific performance of illegal acts",
+        "A criminal sentence reduction"
+      ],
+      "answer": "A reasonable reliance promise absent formal contract"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a contract?",
+      "options": [
+        "An agreed promise enforceable by law",
+        "An informal verbal suggestion",
+        "A government-issued license"
+      ],
+      "answer": "An agreed promise enforceable by law"
+    },
+    {
+      "question_id": 14,
+      "question": "What legal concept prevents relitigation of the same claim?",
+      "options": [
+        "Res judicata",
+        "Habeas corpus",
+        "Ex post facto"
+      ],
+      "answer": "Res judicata"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the 'economic loss rule' effect in product liability?",
+      "options": [
+        "Bars tort recovery for purely economic losses absent physical harm",
+        "Requires punitive damages for product defects",
+        "Expands warranty claims into criminal liability"
+      ],
+      "answer": "Bars tort recovery for purely economic losses absent physical harm"
+    }
+  ]
+}

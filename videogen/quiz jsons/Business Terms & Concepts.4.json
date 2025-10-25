@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a shareholder in a corporation?",
+      "options": [
+        "Employee with a management role",
+        "Customer with a loyalty account",
+        "Person or entity owning company shares"
+      ],
+      "answer": "Person or entity owning company shares"
+    },
+    {
+      "question_id": 2,
+      "question": "What does capital expenditure (CapEx) usually finance?",
+      "options": [
+        "Monthly payroll and routine operating costs",
+        "Short-term marketing promotions",
+        "Long-term assets like equipment, buildings, or infrastructure"
+      ],
+      "answer": "Long-term assets like equipment, buildings, or infrastructure"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a reverse takeover used for in corporate access to markets?",
+      "options": [
+        "Company spins off a division to shareholders",
+        "Public company sells assets to private equity",
+        "Private company acquires public shell to list quickly"
+      ],
+      "answer": "Private company acquires public shell to list quickly"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a business pivot commonly describing?",
+      "options": [
+        "Closing all international operations",
+        "Significant change in strategy or product direction",
+        "Hiring a new executive team"
+      ],
+      "answer": "Significant change in strategy or product direction"
+    },
+    {
+      "question_id": 5,
+      "question": "What is zero-based budgeting intended to achieve?",
+      "options": [
+        "Automatically increase last year's budget by inflation",
+        "Only fund projects with external financing",
+        "Justify all expenses from a zero base each period"
+      ],
+      "answer": "Justify all expenses from a zero base each period"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the strategic significance of first-mover advantage?",
+      "options": [
+        "Late entrants always face lower marketing costs",
+        "Early entrants can capture market share and set standards",
+        "First entrants must always price above competitors"
+      ],
+      "answer": "Early entrants can capture market share and set standards"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a key performance indicator (KPI)?",
+      "options": [
+        "Template for product packaging design",
+        "Measurable value indicating how well objectives are achieved",
+        "Legal document for hiring employees"
+      ],
+      "answer": "Measurable value indicating how well objectives are achieved"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the purpose of a shareholder proxy vote?",
+      "options": [
+        "Force immediate liquidation of company assets",
+        "Allow shareholders to authorize representatives to vote on proposals",
+        "Mandate board members to purchase company stock"
+      ],
+      "answer": "Allow shareholders to authorize representatives to vote on proposals"
+    },
+    {
+      "question_id": 9,
+      "question": "What does EBITDA add back that net income excludes?",
+      "options": [
+        "Changes in working capital and dividends",
+        "Interest, taxes, depreciation, and amortization",
+        "Stock repurchases and issuance costs"
+      ],
+      "answer": "Interest, taxes, depreciation, and amortization"
+    },
+    {
+      "question_id": 10,
+      "question": "What defines a monopoly in market structure?",
+      "options": [
+        "Single seller dominating supply with no close substitutes",
+        "Many small sellers with equal market share",
+        "A temporary partnership between competitors"
+      ],
+      "answer": "Single seller dominating supply with no close substitutes"
+    },
+    {
+      "question_id": 11,
+      "question": "What does SWOT analysis assess for strategic planning?",
+      "options": [
+        "Sales, Wages, Operations, and Technology",
+        "Supply, Willingness, Options, and Timing",
+        "Strengths, Weaknesses, Opportunities, and Threats"
+      ],
+      "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+      "question_id": 12,
+      "question": "What is a leveraged buyout's defining trait?",
+      "options": [
+        "Joint venture funded equally by partners",
+        "Minority stake purchased with cash reserves",
+        "Acquisition primarily financed with significant debt"
+      ],
+      "answer": "Acquisition primarily financed with significant debt"
+    },
+    {
+      "question_id": 13,
+      "question": "What does a merger typically involve between companies?",
+      "options": [
+        "Temporary marketing collaboration",
+        "One company buying a single product line",
+        "Combining two firms into one new or expanded entity"
+      ],
+      "answer": "Combining two firms into one new or expanded entity"
+    },
+    {
+      "question_id": 14,
+      "question": "What is a balance sheet impairment typically about?",
+      "options": [
+        "Recording increased inventory due to seasonal demand",
+        "Deferring tax payments to the following year",
+        "Recognizing a permanent reduction in asset recoverable value"
+      ],
+      "answer": "Recognizing a permanent reduction in asset recoverable value"
+    },
+    {
+      "question_id": 15,
+      "question": "What is a secondary buyout in private equity transactions?",
+      "options": [
+        "Management buyout funded only by founders",
+        "Initial public offering led by the original investors",
+        "Sale of a company from one PE firm to another PE firm"
+      ],
+      "answer": "Sale of a company from one PE firm to another PE firm"
+    }
+  ]
+}

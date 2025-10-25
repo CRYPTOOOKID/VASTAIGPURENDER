@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is an asset on a company's balance sheet?",
+      "options": [
+        "Resource with economic value owned by the company",
+        "Company obligation to pay creditors",
+        "Owner's share of the business"
+      ],
+      "answer": "Resource with economic value owned by the company"
+    },
+    {
+      "question_id": 2,
+      "question": "What distinguishes B2B from B2C marketing approaches?",
+      "options": [
+        "B2B targets businesses; B2C targets individual consumers",
+        "B2B uses mass advertising; B2C uses direct sales only",
+        "B2B products are always more expensive than B2C products"
+      ],
+      "answer": "B2B targets businesses; B2C targets individual consumers"
+    },
+    {
+      "question_id": 3,
+      "question": "What is double materiality mainly associated with in reporting?",
+      "options": [
+        "Financial and environmental-social impacts relevant to stakeholders",
+        "Two separate audit opinions for each fiscal year",
+        "Duplicate filings in two regulatory jurisdictions"
+      ],
+      "answer": "Financial and environmental-social impacts relevant to stakeholders"
+    },
+    {
+      "question_id": 4,
+      "question": "What is gross margin commonly used to assess?",
+      "options": [
+        "Profitability of core product sales before operating costs",
+        "Company's debt repayment capacity",
+        "Number of employees per store"
+      ],
+      "answer": "Profitability of core product sales before operating costs"
+    },
+    {
+      "question_id": 5,
+      "question": "What are Porter's Five Forces used to analyze?",
+      "options": [
+        "Industry competitive intensity and profitability drivers",
+        "Company internal culture and values",
+        "Short-term cash flow fluctuations"
+      ],
+      "answer": "Industry competitive intensity and profitability drivers"
+    },
+    {
+      "question_id": 6,
+      "question": "What is scenario planning used for in corporate strategy?",
+      "options": [
+        "Explore plausible future conditions to inform robust strategic choices",
+        "Design single guaranteed forecast for sales targets",
+        "Decide employee incentive schemes only"
+      ],
+      "answer": "Explore plausible future conditions to inform robust strategic choices"
+    },
+    {
+      "question_id": 7,
+      "question": "What is market capitalization for a public company?",
+      "options": [
+        "Total market value of outstanding shares",
+        "Company's annual revenue",
+        "Net income after taxes"
+      ],
+      "answer": "Total market value of outstanding shares"
+    },
+    {
+      "question_id": 8,
+      "question": "What is price elasticity of demand measuring?",
+      "options": [
+        "Sensitivity of quantity demanded to price changes",
+        "Speed at which suppliers deliver goods",
+        "Number of substitute products in the market"
+      ],
+      "answer": "Sensitivity of quantity demanded to price changes"
+    },
+    {
+      "question_id": 9,
+      "question": "What does a negative covenant in loan agreements restrict?",
+      "options": [
+        "Specific borrower actions like additional debt or asset sales",
+        "Lender's ability to increase interest rates",
+        "Borrower's obligation to repay principal early"
+      ],
+      "answer": "Specific borrower actions like additional debt or asset sales"
+    },
+    {
+      "question_id": 10,
+      "question": "What does a balance sheet show for a company?",
+      "options": [
+        "Assets, liabilities, and shareholders' equity at a point in time",
+        "Cash inflows and outflows over a period",
+        "Detailed list of customers and sales channels"
+      ],
+      "answer": "Assets, liabilities, and shareholders' equity at a point in time"
+    },
+    {
+      "question_id": 11,
+      "question": "What is gross domestic product commonly used to indicate?",
+      "options": [
+        "Total economic output of a country over a period",
+        "Average corporate tax rate in a nation",
+        "Total number of registered businesses"
+      ],
+      "answer": "Total economic output of a country over a period"
+    },
+    {
+      "question_id": 12,
+      "question": "Which framework shifted global revenue recognition rules to principles-based standards?",
+      "options": [
+        "IFRS 15 / ASC 606",
+        "FASB 19",
+        "SOX Section 404"
+      ],
+      "answer": "IFRS 15 / ASC 606"
+    },
+    {
+      "question_id": 13,
+      "question": "What is revenue commonly reported on the income statement for a business?",
+      "options": [
+        "Total income from sales before expenses",
+        "Profit after taxes",
+        "Cash available in the bank"
+      ],
+      "answer": "Total income from sales before expenses"
+    },
+    {
+      "question_id": 14,
+      "question": "What does lean startup methodology emphasize first?",
+      "options": [
+        "Building a minimum viable product and testing assumptions quickly",
+        "Maximizing advertising spend at launch",
+        "Hiring a large sales team immediately"
+      ],
+      "answer": "Building a minimum viable product and testing assumptions quickly"
+    },
+    {
+      "question_id": 15,
+      "question": "What is vendor-managed inventory intended to improve?",
+      "options": [
+        "Supply reliability and reduce stockouts by supplier-driven replenishment",
+        "Company's branding consistency across retail outlets",
+        "Employee time tracking for manufacturing shifts"
+      ],
+      "answer": "Supply reliability and reduce stockouts by supplier-driven replenishment"
+    }
+  ]
+}

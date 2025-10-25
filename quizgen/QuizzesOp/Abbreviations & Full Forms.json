@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "What does NASA stand for?",
+        "options": [
+          "National Aeronautics and Space Administration",
+          "National Aerospace and Space Agency",
+          "National Aeronautics and Space Agency"
+        ],
+        "answer": "National Aeronautics and Space Administration"
+      },
+      {
+        "question": "What is the full form of FBI?",
+        "options": [
+          "Federal Bureau of Investigation",
+          "Federal Board of Intelligence",
+          "Foreign Bureau of Investigation"
+        ],
+        "answer": "Federal Bureau of Investigation"
+      },
+      {
+        "question": "What does ATM mean in banking contexts?",
+        "options": [
+          "Automated Teller Machine",
+          "Automatic Transaction Manager",
+          "Authorized Teller Machine"
+        ],
+        "answer": "Automated Teller Machine"
+      },
+      {
+        "question": "What does GPS stand for?",
+        "options": [
+          "Global Positioning System",
+          "General Positioning Service",
+          "Global Positioning Service"
+        ],
+        "answer": "Global Positioning System"
+      },
+      {
+        "question": "What is the full form of HIV?",
+        "options": [
+          "Human Immunodeficiency Virus",
+          "Human Immune Viral Infection",
+          "Human Immunity Viral"
+        ],
+        "answer": "Human Immunodeficiency Virus"
+      },
+      {
+        "question": "What does SMS stand for?",
+        "options": [
+          "Short Message Service",
+          "Short Mail Service",
+          "Simple Message System"
+        ],
+        "answer": "Short Message Service"
+      },
+      {
+        "question": "What is the full form of USB?",
+        "options": [
+          "Universal Serial Bus",
+          "Universal System Bus",
+          "Unified Serial Bus"
+        ],
+        "answer": "Universal Serial Bus"
+      },
+      {
+        "question": "What does CPU mean in computing?",
+        "options": [
+          "Central Processing Unit",
+          "Computer Process Unit",
+          "Central Program Unit"
+        ],
+        "answer": "Central Processing Unit"
+      },
+      {
+        "question": "What is the full form of RAM?",
+        "options": [
+          "Random Access Memory",
+          "Rapid Access Memory",
+          "Read Access Memory"
+        ],
+        "answer": "Random Access Memory"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "Hyperlink Text Markup Language",
+          "Hyper Transfer Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+      },
+      {
+        "question": "What is the full form of HTTP?",
+        "options": [
+          "HyperText Transfer Protocol",
+          "HyperText Transmission Protocol",
+          "Hyperlink Transfer Protocol"
+        ],
+        "answer": "HyperText Transfer Protocol"
+      },
+      {
+        "question": "What does URL mean?",
+        "options": [
+          "Uniform Resource Locator",
+          "Universal Resource Link",
+          "Uniform Resource Link"
+        ],
+        "answer": "Uniform Resource Locator"
+      },
+      {
+        "question": "What is the full form of MRI?",
+        "options": [
+          "Magnetic Resonance Imaging",
+          "Magnetic Resonance Instrument",
+          "Magneto Resonance Imaging"
+        ],
+        "answer": "Magnetic Resonance Imaging"
+      },
+      {
+        "question": "What does ECG refer to in medicine?",
+        "options": [
+          "Electrocardiogram",
+          "Electrocardio Graph",
+          "Electro Cardiac Graph"
+        ],
+        "answer": "Electrocardiogram"
+      },
+      {
+        "question": "What is the full form of AIDS?",
+        "options": [
+          "Acquired Immunodeficiency Syndrome",
+          "Autoimmune Immunodeficiency Syndrome",
+          "Acute Immune Deficiency Syndrome"
+        ],
+        "answer": "Acquired Immunodeficiency Syndrome"
+      },
+      {
+        "question": "What does NATO stand for?",
+        "options": [
+          "North Atlantic Treaty Organization",
+          "National Atlantic Treaty Organization",
+          "North American Treaty Organization"
+        ],
+        "answer": "North Atlantic Treaty Organization"
+      },
+      {
+        "question": "What is the full form of WHO?",
+        "options": [
+          "World Health Organization",
+          "World Hospital Organization",
+          "Worldwide Health Office"
+        ],
+        "answer": "World Health Organization"
+      },
+      {
+        "question": "What does UN mean in international affairs?",
+        "options": [
+          "United Nations",
+          "Universal Network",
+          "United Network"
+        ],
+        "answer": "United Nations"
+      },
+      {
+        "question": "What is the full form of EU?",
+        "options": [
+          "European Union",
+          "European United",
+          "European Unit"
+        ],
+        "answer": "European Union"
+      },
+      {
+        "question": "What does BBC stand for?",
+        "options": [
+          "British Broadcasting Corporation",
+          "British Broadcasting Company",
+          "Broadcasting British Corporation"
+        ],
+        "answer": "British Broadcasting Corporation"
+      },
+      {
+        "question": "What is the full form of CNN?",
+        "options": [
+          "Cable News Network",
+          "Central News Network",
+          "Continuous News Network"
+        ],
+        "answer": "Cable News Network"
+      },
+      {
+        "question": "What does ASAP mean in messages?",
+        "options": [
+          "As Soon As Possible",
+          "As Soon As Practical",
+          "At Soonest Available Place"
+        ],
+        "answer": "As Soon As Possible"
+      },
+      {
+        "question": "What does RSVP originate from?",
+        "options": [
+          "Répondez s'il vous plaît",
+          "Respond Swiftly, Very Please",
+          "Reply Soon, Very Please"
+        ],
+        "answer": "Répondez s'il vous plaît"
+      },
+      {
+        "question": "What is the full form of FYI?",
+        "options": [
+          "For Your Information",
+          "For Your Interest",
+          "From Your Information"
+        ],
+        "answer": "For Your Information"
+      },
+      {
+        "question": "What does PIN stand for on bank cards?",
+        "options": [
+          "Personal Identification Number",
+          "Private Identification Number",
+          "Personal Identity Number"
+        ],
+        "answer": "Personal Identification Number"
+      },
+      {
+        "question": "What is the full form of LED?",
+        "options": [
+          "Light Emitting Diode",
+          "Light Energy Device",
+          "Luminous Emitting Diode"
+        ],
+        "answer": "Light Emitting Diode"
+      },
+      {
+        "question": "What does ISBN stand for in publishing?",
+        "options": [
+          "International Standard Book Number",
+          "International Standard Bibliography Number",
+          "International Serial Book Number"
+        ],
+        "answer": "International Standard Book Number"
+      },
+      {
+        "question": "What is the full form of PDF?",
+        "options": [
+          "Portable Document Format",
+          "Portable Data Format",
+          "Public Document Format"
+        ],
+        "answer": "Portable Document Format"
+      },
+      {
+        "question": "What does CPR stand for in first aid?",
+        "options": [
+          "Cardiopulmonary Resuscitation",
+          "Cardiac Pulse Restoration",
+          "Cardio-Pulse Resuscitation"
+        ],
+        "answer": "Cardiopulmonary Resuscitation"
+      },
+      {
+        "question": "What is the full form of CEO?",
+        "options": [
+          "Chief Executive Officer",
+          "Corporate Executive Officer",
+          "Chief Enterprise Officer"
+        ],
+        "answer": "Chief Executive Officer"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What does JPEG stand for in image formats?",
+        "options": [
+          "Joint Photographic Experts Group",
+          "Joint Picture Experts Group",
+          "JPEG Photo Experts Group"
+        ],
+        "answer": "Joint Photographic Experts Group"
+      },
+      {
+        "question": "What is the full form of PNG image format?",
+        "options": [
+          "Portable Network Graphics",
+          "Portable Network Grid",
+          "Pixel Network Graphics"
+        ],
+        "answer": "Portable Network Graphics"
+      },
+      {
+        "question": "What does GIF stand for?",
+        "options": [
+          "Graphics Interchange Format",
+          "Graphic Image Format",
+          "Graphical Interchange File"
+        ],
+        "answer": "Graphics Interchange Format"
+      },
+      {
+        "question": "What is the full form of LASER?",
+        "options": [
+          "Light Amplification by Stimulated Emission of Radiation",
+          "Light Amplifying System Emission Radiation",
+          "Light Amplification by Spontaneous Emission Radiation"
+        ],
+        "answer": "Light Amplification by Stimulated Emission of Radiation"
+      },
+      {
+        "question": "What does SCUBA expand to?",
+        "options": [
+          "Self-Contained Underwater Breathing Apparatus",
+          "Submersible Controlled Underwater Breathing Apparatus",
+          "Self-Contained Underwater Ballast Apparatus"
+        ],
+        "answer": "Self-Contained Underwater Breathing Apparatus"
+      },
+      {
+        "question": "What is the full form of UNESCO?",
+        "options": [
+          "United Nations Educational, Scientific and Cultural Organization",
+          "United Nations Education, Science and Cultural Organization",
+          "United Nations Educational, Science and Cultural Office"
+        ],
+        "answer": "United Nations Educational, Scientific and Cultural Organization"
+      },
+      {
+        "question": "What does OPEC stand for?",
+        "options": [
+          "Organization of the Petroleum Exporting Countries",
+          "Organization of Petroleum Export Countries",
+          "Oil Producing Exporting Countries"
+        ],
+        "answer": "Organization of the Petroleum Exporting Countries"
+      },
+      {
+        "question": "What is the full form of IMF?",
+        "options": [
+          "International Monetary Fund",
+          "International Money Fund",
+          "International Monetary Foundation"
+        ],
+        "answer": "International Monetary Fund"
+      },
+      {
+        "question": "What does WTO mean?",
+        "options": [
+          "World Trade Organization",
+          "World Trading Office",
+          "Worldwide Trade Organization"
+        ],
+        "answer": "World Trade Organization"
+      },
+      {
+        "question": "What is the full form of IPO in finance?",
+        "options": [
+          "Initial Public Offering",
+          "Initial Private Offering",
+          "International Public Offering"
+        ],
+        "answer": "Initial Public Offering"
+      },
+      {
+        "question": "What does CFO stand for in corporate roles?",
+        "options": [
+          "Chief Financial Officer",
+          "Corporate Finance Officer",
+          "Chief Funds Officer"
+        ],
+        "answer": "Chief Financial Officer"
+      },
+      {
+        "question": "What is the full form of SQL in databases?",
+        "options": [
+          "Structured Query Language",
+          "Sequential Query Language",
+          "Standard Query Language"
+        ],
+        "answer": "Structured Query Language"
+      },
+      {
+        "question": "What does API stand for in software development?",
+        "options": [
+          "Application Programming Interface",
+          "Application Protocol Interface",
+          "Accessible Programming Interface"
+        ],
+        "answer": "Application Programming Interface"
+      },
+      {
+        "question": "What is the full form of DNS?",
+        "options": [
+          "Domain Name System",
+          "Domain Name Service",
+          "Distributed Name System"
+        ],
+        "answer": "Domain Name System"
+      },
+      {
+        "question": "What does SMTP stand for in email delivery?",
+        "options": [
+          "Simple Mail Transfer Protocol",
+          "Secure Mail Transfer Protocol",
+          "Simple Mail Transport Protocol"
+        ],
+        "answer": "Simple Mail Transfer Protocol"
+      },
+      {
+        "question": "What is the full form of FTP?",
+        "options": [
+          "File Transfer Protocol",
+          "File Transport Protocol",
+          "Fast Transfer Protocol"
+        ],
+        "answer": "File Transfer Protocol"
+      },
+      {
+        "question": "What does SSH expand to in secure connections?",
+        "options": [
+          "Secure Shell",
+          "Secure Socket Host",
+          "Secure System Host"
+        ],
+        "answer": "Secure Shell"
+      },
+      {
+        "question": "What is TLS the abbreviation for?",
+        "options": [
+          "Transport Layer Security",
+          "Transmission Layer Security",
+          "Transport Link Security"
+        ],
+        "answer": "Transport Layer Security"
+      },
+      {
+        "question": "What does RSA refer to in cryptography?",
+        "options": [
+          "Rivest Shamir Adleman",
+          "Rivest Smith Adleman",
+          "Rivest Sharman Adleman"
+        ],
+        "answer": "Rivest Shamir Adleman"
+      },
+      {
+        "question": "What is the official full form of UNICEF?",
+        "options": [
+          "United Nations Children's Fund",
+          "United Nations International Children's Emergency Fund",
+          "Universal Nations Children's Emergency Fund"
+        ],
+        "answer": "United Nations Children's Fund"
+      },
+      {
+        "question": "What does ZIP represent in US postal terms?",
+        "options": [
+          "Zone Improvement Plan",
+          "Zipcoded International Plan",
+          "Zonal Information Program"
+        ],
+        "answer": "Zone Improvement Plan"
+      },
+      {
+        "question": "What is the full form of FIFO in computing?",
+        "options": [
+          "First In, First Out",
+          "First In, Final Out",
+          "Fast In, Fast Out"
+        ],
+        "answer": "First In, First Out"
+      },
+      {
+        "question": "What does LIFO stand for in accounting?",
+        "options": [
+          "Last In, First Out",
+          "Last In, Final Out",
+          "Late In, First Out"
+        ],
+        "answer": "Last In, First Out"
+      },
+      {
+        "question": "What is MPEG short for?",
+        "options": [
+          "Moving Picture Experts Group",
+          "Motion Picture Experts Group",
+          "Motion Photo Experts Group"
+        ],
+        "answer": "Moving Picture Experts Group"
+      },
+      {
+        "question": "What does MIDI stand for in music technology?",
+        "options": [
+          "Musical Instrument Digital Interface",
+          "Music Instrument Digital Interface",
+          "Musical Interface Digital Input"
+        ],
+        "answer": "Musical Instrument Digital Interface"
+      },
+      {
+        "question": "What is the full form of HDMI?",
+        "options": [
+          "High-Definition Multimedia Interface",
+          "High-Definition Media Interface",
+          "High Data Multimedia Interface"
+        ],
+        "answer": "High-Definition Multimedia Interface"
+      },
+      {
+        "question": "What does BIOS mean on startup screens?",
+        "options": [
+          "Basic Input/Output System",
+          "Binary Input/Output System",
+          "Basic Interface/Output System"
+        ],
+        "answer": "Basic Input/Output System"
+      },
+      {
+        "question": "What does CAPTCHA expand to?",
+        "options": [
+          "Completely Automated Public Turing test to tell Computers and Humans Apart",
+          "Computer Automated Public Test to Confirm Humans",
+          "Completely Automated Public Test to Catch Humans"
+        ],
+        "answer": "Completely Automated Public Turing test to tell Computers and Humans Apart"
+      },
+      {
+        "question": "What does RFID stand for?",
+        "options": [
+          "Radio-Frequency Identification",
+          "Radio Frequency Identification Device",
+          "Radio Frequency ID"
+        ],
+        "answer": "Radio-Frequency Identification"
+      },
+      {
+        "question": "What does ICBM mean in military terms?",
+        "options": [
+          "Intercontinental Ballistic Missile",
+          "International Continental Ballistic Missile",
+          "Intercontinental Ballistic Munition"
+        ],
+        "answer": "Intercontinental Ballistic Missile"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What does the recursive acronym GNU stand for?",
+        "options": [
+          "GNU's Not Unix",
+          "General Not Unix",
+          "Global Network Unix"
+        ],
+        "answer": "GNU's Not Unix"
+      },
+      {
+        "question": "What is the full recursive name of YAML?",
+        "options": [
+          "YAML Ain't Markup Language",
+          "Yet Another Markup Language",
+          "YAML And Markup Language"
+        ],
+        "answer": "YAML Ain't Markup Language"
+      },
+      {
+        "question": "What does MIME stand for in email systems?",
+        "options": [
+          "Multipurpose Internet Mail Extensions",
+          "Multiple Internet Mail Exchange",
+          "Multipurpose Internet Mail Exchange"
+        ],
+        "answer": "Multipurpose Internet Mail Extensions"
+      },
+      {
+        "question": "What is the full form of ICANN?",
+        "options": [
+          "Internet Corporation for Assigned Names and Numbers",
+          "Internet Council for Assigned Names and Numbers",
+          "International Corporation for Assigned Names and Numbers"
+        ],
+        "answer": "Internet Corporation for Assigned Names and Numbers"
+      },
+      {
+        "question": "What does IANA represent?",
+        "options": [
+          "Internet Assigned Numbers Authority",
+          "Internet Addressing Numbers Authority",
+          "International Assigned Numbers Agency"
+        ],
+        "answer": "Internet Assigned Numbers Authority"
+      },
+      {
+        "question": "What does POSIX stand for in computing standards?",
+        "options": [
+          "Portable Operating System Interface",
+          "Portable Operating Standards Interface",
+          "Program Operating System Interface"
+        ],
+        "answer": "Portable Operating System Interface"
+      },
+      {
+        "question": "What is the full form of LDAP?",
+        "options": [
+          "Lightweight Directory Access Protocol",
+          "Local Directory Access Protocol",
+          "Light Directory Access Process"
+        ],
+        "answer": "Lightweight Directory Access Protocol"
+      },
+      {
+        "question": "What does BLOB stand for in databases?",
+        "options": [
+          "Binary Large Object",
+          "Binary Large Option",
+          "Basic Large Object"
+        ],
+        "answer": "Binary Large Object"
+      },
+      {
+        "question": "What operations does CRUD summarize?",
+        "options": [
+          "Create, Read, Update, Delete",
+          "Copy, Read, Upload, Delete",
+          "Create, Replace, Update, Deploy"
+        ],
+        "answer": "Create, Read, Update, Delete"
+      },
+      {
+        "question": "What is the meaning of the acronym TLA?",
+        "options": [
+          "Three-Letter Acronym",
+          "Typical Letter Acronym",
+          "Three-Level Abbreviation"
+        ],
+        "answer": "Three-Letter Acronym"
+      },
+      {
+        "question": "What does AES refer to in encryption?",
+        "options": [
+          "Advanced Encryption Standard",
+          "Asymmetric Encryption Standard",
+          "Advanced Encrypted System"
+        ],
+        "answer": "Advanced Encryption Standard"
+      },
+      {
+        "question": "What is the full form of DES in cryptography?",
+        "options": [
+          "Data Encryption Standard",
+          "Digital Encryption Standard",
+          "Data Encoded System"
+        ],
+        "answer": "Data Encryption Standard"
+      },
+      {
+        "question": "What did ARPANET originally stand for?",
+        "options": [
+          "Advanced Research Projects Agency Network",
+          "Advanced Research Projects and Networks",
+          "Advanced Research Program Agency Network"
+        ],
+        "answer": "Advanced Research Projects Agency Network"
+      },
+      {
+        "question": "What does SIP mean in VoIP protocols?",
+        "options": [
+          "Session Initiation Protocol",
+          "Session Interaction Protocol",
+          "Service Initiation Protocol"
+        ],
+        "answer": "Session Initiation Protocol"
+      },
+      {
+        "question": "What is the full form of EXIF in photography metadata?",
+        "options": [
+          "Exchangeable Image File Format",
+          "External Image File Format",
+          "Exchange Image File Format"
+        ],
+        "answer": "Exchangeable Image File Format"
+      },
+      {
+        "question": "What does SNA represent in legacy IBM networking?",
+        "options": [
+          "Systems Network Architecture",
+          "System Network Application",
+          "Standard Network Architecture"
+        ],
+        "answer": "Systems Network Architecture"
+      },
+      {
+        "question": "What official full form does ISO use?",
+        "options": [
+          "International Organization for Standardization",
+          "International Standards Organization",
+          "International Standardization Organization"
+        ],
+        "answer": "International Organization for Standardization"
+      },
+      {
+        "question": "What does UTF denote in character encoding?",
+        "options": [
+          "Unicode Transformation Format",
+          "Universal Text Format",
+          "Universal Transfer Format"
+        ],
+        "answer": "Unicode Transformation Format"
+      },
+      {
+        "question": "What is the full form of UEFI on modern PCs?",
+        "options": [
+          "Unified Extensible Firmware Interface",
+          "Universal Extensible Firmware Interface",
+          "Unified External Firmware Interface"
+        ],
+        "answer": "Unified Extensible Firmware Interface"
+      },
+      {
+        "question": "What does MBR stand for on storage drives?",
+        "options": [
+          "Master Boot Record",
+          "Main Boot Registry",
+          "Master Boot Registry"
+        ],
+        "answer": "Master Boot Record"
+      },
+      {
+        "question": "What full form does GPT represent in partitioning?",
+        "options": [
+          "GUID Partition Table",
+          "Global Partition Table",
+          "Generic Partition Table"
+        ],
+        "answer": "GUID Partition Table"
+      },
+      {
+        "question": "What does RAID mean in storage technologies?",
+        "options": [
+          "Redundant Array of Independent Disks",
+          "Redundant Array of Inexpensive Disks",
+          "Redundant Array of Integrated Disks"
+        ],
+        "answer": "Redundant Array of Independent Disks"
+      },
+      {
+        "question": "What is SLA an abbreviation for in service contracts?",
+        "options": [
+          "Service Level Agreement",
+          "Service Limits Agreement",
+          "Service Level Arrangement"
+        ],
+        "answer": "Service Level Agreement"
+      },
+      {
+        "question": "What does BCC indicate when sending email?",
+        "options": [
+          "Blind Carbon Copy",
+          "Blind Courtesy Copy",
+          "Back Carbon Copy"
+        ],
+        "answer": "Blind Carbon Copy"
+      },
+      {
+        "question": "What does SFTP expand to compared to FTP?",
+        "options": [
+          "SSH File Transfer Protocol",
+          "Secure File Transfer Protocol",
+          "Socket File Transfer Protocol"
+        ],
+        "answer": "SSH File Transfer Protocol"
+      },
+      {
+        "question": "What is the full form of VLAN in networking?",
+        "options": [
+          "Virtual Local Area Network",
+          "Virtual Logical Area Network",
+          "Virtual Linked Area Network"
+        ],
+        "answer": "Virtual Local Area Network"
+      },
+      {
+        "question": "What does AMD stand for as a chipmaker's name?",
+        "options": [
+          "Advanced Micro Devices",
+          "Advanced Micro Designs",
+          "Applied Micro Devices"
+        ],
+        "answer": "Advanced Micro Devices"
+      },
+      {
+        "question": "What do the letters KLM originally abbreviate in Dutch?",
+        "options": [
+          "Koninklijke Luchtvaart Maatschappij",
+          "Koninklijke Luchtvaart Maatschapp",
+          "Koninklijke Lucht Maatschappij"
+        ],
+        "answer": "Koninklijke Luchtvaart Maatschappij"
+      },
+      {
+        "question": "What does XMPP stand for in messaging protocols?",
+        "options": [
+          "Extensible Messaging and Presence Protocol",
+          "Exchange Messaging and Presence Protocol",
+          "Extensible Message Presence Protocol"
+        ],
+        "answer": "Extensible Messaging and Presence Protocol"
+      },
+      {
+        "question": "What does ELISA represent in laboratory testing?",
+        "options": [
+          "Enzyme-Linked Immunosorbent Assay",
+          "Enzyme-Level Immunoassay System Assay",
+          "Enzyme-Linked Immunoassay System Assay"
+        ],
+        "answer": "Enzyme-Linked Immunosorbent Assay"
+      }
+    ]
+  }
+}

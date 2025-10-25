@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In what year did World War I begin?"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did the Spanish Civil War begin?"
+    },
+    {
+      "question_id": 3,
+      "question": "When did Tokugawa Ieyasu achieve victory at Sekigahara, leading to Edo shogunate?"
+    },
+    {
+      "question_id": 4,
+      "question": "In what year did the Bolsheviks seize power in the October Revolution?"
+    },
+    {
+      "question_id": 5,
+      "question": "When did the Taiping Rebellion begin in China, one of the deadliest conflicts?"
+    },
+    {
+      "question_id": 6,
+      "question": "When did the Treaty of Nanking end the First Opium War, ceding Hong Kong to Britain?"
+    },
+    {
+      "question_id": 7,
+      "question": "In what year did the Bill of Rights become part of the U.S. Constitution?"
+    },
+    {
+      "question_id": 8,
+      "question": "In what year did the Treaty of Versailles formally end World War I?"
+    },
+    {
+      "question_id": 9,
+      "question": "When did the Battle of Chanakya's successors defeat the Seleucid forces leading to Mauryan expansion (approx.)?"
+    },
+    {
+      "question_id": 10,
+      "question": "When did Christopher Columbus first reach the Americas?"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Haitian Revolution successfully end in independence from France?"
+    },
+    {
+      "question_id": 12,
+      "question": "When was Constantinople officially renamed Istanbul by the Ottomans (de facto usage)?"
+    },
+    {
+      "question_id": 13,
+      "question": "When did the Ottoman Empire fall, formally ending after World War I?"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Meiji Restoration begin transforming Japan into a modern state?"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did the Council of Trent, shaping Catholic Counter-Reformation, begin?"
+    }
+  ]
+}

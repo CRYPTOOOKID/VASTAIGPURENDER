@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Finish the saying: 'Time heals all ___'"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Shakespeare play contains the proverb 'All that glisters is not gold'?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which proverb about consequences appears as 'You reap what you sow' and has agricultural roots?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which proverb suggests practice leads to mastery?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which proverb implies impatience leads to mistakes and waste?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which technical term denotes a proverb that functions as a cultural guideline?"
+    },
+    {
+      "question_id": 7,
+      "question": "Complete: 'Experience is the best ___'"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb warns that gossip harms reputations and relationships?"
+    },
+    {
+      "question_id": 9,
+      "question": "What term names the compilation or collection of proverbs?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'When in Rome, do as the Romans do' advise?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb encourages making the most of favorable conditions?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technical field studies proverb variants, usage, and transformation in modern culture?"
+    },
+    {
+      "question_id": 13,
+      "question": "Finish the proverb: 'Make hay while the ___ shines'"
+    },
+    {
+      "question_id": 14,
+      "question": "Which proverb originates from Robert Burns' poem about mice and plans?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which proverb about unintended consequences is captured by the phrase 'For want of a nail'?"
+    }
+  ]
+}

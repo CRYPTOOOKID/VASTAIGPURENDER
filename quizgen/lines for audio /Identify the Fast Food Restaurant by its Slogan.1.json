@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which pizza chain popularized the call \"Pizza! Pizza!\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which drive-thru chain is associated with the phrase \"America's Drive-In\" historically?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which chain used the tagline \"Home of the Whopper\" to anchor its identity?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which chain promotes \"Love That Chicken\" in its advertising?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which donut chain invites customers with the sign \"Hot Now\" when fresh items arrive?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which burger chain uses the slogan \"Quality You Can Taste\" on its West Coast roots?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which donut chain uses the slogan \"Hot Now\" to advertise fresh doughnuts?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which sandwich chain used \"A Sandwich for Everyone\" messaging in campaigns?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national chain uses the rallying slogan \"Stand For Something Good\" in PR?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which newer burger chain uses \"Stand For Something Good\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which pizza company used the slogan \"You Got 30 Minutes\" in earlier delivery guarantees?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which fast-food coffee brand uses a mission-style slogan rather than a short tagline?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which burger brand uses the slogan \"Eat Like You Mean It\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which chain used the slogan \"Eat Like You Mean It\" to promote bolder flavors?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which pizza company popularized the short exclamation \"Pizza! Pizza!\" as a jingle?"
+    }
+  ]
+}

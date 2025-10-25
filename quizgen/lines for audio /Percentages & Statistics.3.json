@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "In percentiles, which percentile rank denotes the dataset's middle value, also called the median?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which statistic is used to compare observed categorical frequencies to those expected under a null model?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which variance-stabilizing transformation commonly applies the square root to count data such as Poisson-distributed observations?"
+    },
+    {
+      "question_id": 4,
+      "question": "In everyday mathematics, what does the term 'percent' literally mean in English usage?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which sampling technique gives every individual in the population an equal probability of being selected for a survey?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which resampling technique estimates bias and variance by systematically leaving out one observation at a time?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common chart displays category comparisons using adjacent bars for each group?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which nurse and statistician popularized the polar area 'coxcomb' chart to display causes of mortality visually?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which matrix summarizes variances on the diagonal and covariances off-diagonal for a set of multivariate observations?"
+    },
+    {
+      "question_id": 10,
+      "question": "What phrase describes a relative comparison of change measured against an original amount expressed in percent?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which nonparametric test compares paired observations when the assumption of normality is not satisfied?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which statistician working at a brewery published the small-sample t-distribution under the pseudonym 'Student'?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which graphical display shows the frequency distribution of continuous numerical data using bins?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which numerical summary reflects both strength and direction of a linear relationship between two continuous variables?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which inequality gives an upper bound on the probability that a nonnegative random variable exceeds a positive threshold using its mean?"
+    }
+  ]
+}

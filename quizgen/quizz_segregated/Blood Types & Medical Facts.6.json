@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which antigen is the major determinant of Rh positivity?",
+      "options": [
+        "K antigen",
+        "H antigen",
+        "D antigen"
+      ],
+      "answer": "D antigen"
+    },
+    {
+      "question_id": 2,
+      "question": "Which test differentiates between ABO hemolytic disease and Rh hemolytic disease in newborns?",
+      "options": [
+        "Type-specific antibody identification",
+        "Chest X-ray",
+        "Liver function tests"
+      ],
+      "answer": "Type-specific antibody identification"
+    },
+    {
+      "question_id": 3,
+      "question": "Which blood bank reagent neutralizes IgM during warm autoadsorption procedures?",
+      "options": [
+        "Sodium chloride",
+        "Dithiothreitol",
+        "EDTA"
+      ],
+      "answer": "Dithiothreitol"
+    },
+    {
+      "question_id": 4,
+      "question": "Which term describes the liquid portion of blood after clotting?",
+      "options": [
+        "Whole blood",
+        "Red plasma",
+        "Serum"
+      ],
+      "answer": "Serum"
+    },
+    {
+      "question_id": 5,
+      "question": "Which blood bank practice prevents transfusion-associated graft versus host disease?",
+      "options": [
+        "Leukoreduction",
+        "Irradiation of cellular components",
+        "Washing plasma"
+      ],
+      "answer": "Irradiation of cellular components"
+    },
+    {
+      "question_id": 6,
+      "question": "Which molecular technique identifies specific ABO alleles by analyzing DNA sequence?",
+      "options": [
+        "Serum protein electrophoresis",
+        "PCR-based genotyping",
+        "Blood smear microscopy"
+      ],
+      "answer": "PCR-based genotyping"
+    },
+    {
+      "question_id": 7,
+      "question": "Which blood type is often called the universal red blood cell donor?",
+      "options": [
+        "AB positive",
+        "A positive",
+        "O negative"
+      ],
+      "answer": "O negative"
+    },
+    {
+      "question_id": 8,
+      "question": "Which test confirms immune hemolysis by detecting antibodies on red cell surfaces?",
+      "options": [
+        "Blood urea nitrogen",
+        "Serum creatinine",
+        "Direct antiglobulin test"
+      ],
+      "answer": "Direct antiglobulin test"
+    },
+    {
+      "question_id": 9,
+      "question": "Which antigen-negative donor selection prevents alloimmunization in chronically transfused patients?",
+      "options": [
+        "Extended antigen matching for Rh and Kell",
+        "Plasma-only selection",
+        "Only ABO matching"
+      ],
+      "answer": "Extended antigen matching for Rh and Kell"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term describes when a patient donates blood for their own later use?",
+      "options": [
+        "Autologous donation",
+        "Directed donation",
+        "Anonymous donation"
+      ],
+      "answer": "Autologous donation"
+    },
+    {
+      "question_id": 11,
+      "question": "Which antigen absence identifies the rare Rh-null phenotype often called golden blood?",
+      "options": [
+        "H antigen",
+        "K antigen",
+        "All Rh antigens"
+      ],
+      "answer": "All Rh antigens"
+    },
+    {
+      "question_id": 12,
+      "question": "Which technique detects weak or partial D variants that standard typing may miss?",
+      "options": [
+        "Molecular RHD genotyping",
+        "ELISA for ferritin",
+        "Spun hematocrit"
+      ],
+      "answer": "Molecular RHD genotyping"
+    },
+    {
+      "question_id": 13,
+      "question": "Which blood bank practice reduces risk of febrile transfusion reactions?",
+      "options": [
+        "Irradiation of plasma",
+        "Leukoreduction of products",
+        "Freezing platelets"
+      ],
+      "answer": "Leukoreduction of products"
+    },
+    {
+      "question_id": 14,
+      "question": "Which maternal antierythrocyte antibody can cause severe fetal anemia despite low maternal titer?",
+      "options": [
+        "Anti-B IgM",
+        "Anti-A IgM",
+        "Anti-Kell"
+      ],
+      "answer": "Anti-Kell"
+    },
+    {
+      "question_id": 15,
+      "question": "Which transfusion reaction involves donor white cells attacking recipient tissues post-transfusion?",
+      "options": [
+        "Transfusion-associated graft-versus-host disease",
+        "Acute hemolytic reaction",
+        "Allergic urticaria"
+      ],
+      "answer": "Transfusion-associated graft-versus-host disease"
+    }
+  ]
+}

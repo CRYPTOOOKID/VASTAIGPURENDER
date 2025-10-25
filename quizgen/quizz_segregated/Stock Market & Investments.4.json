@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a stock split?",
+      "options": [
+        "A firm sells a subsidiary to raise cash",
+        "A change to a company's board of directors",
+        "A company increases shares while lowering per-share price"
+      ],
+      "answer": "A company increases shares while lowering per-share price"
+    },
+    {
+      "question_id": 2,
+      "question": "Which index is price-weighted rather than capitalization-weighted?",
+      "options": [
+        "Russell 2000 Index",
+        "S&P 500 Index",
+        "Dow Jones Industrial Average"
+      ],
+      "answer": "Dow Jones Industrial Average"
+    },
+    {
+      "question_id": 3,
+      "question": "Which option pricing model originally assumed no dividends on the underlying stock?",
+      "options": [
+        "Monte Carlo simulation",
+        "Black-Scholes model",
+        "Binomial option model"
+      ],
+      "answer": "Black-Scholes model"
+    },
+    {
+      "question_id": 4,
+      "question": "What is an index fund?",
+      "options": [
+        "A fund that tracks a market index passively",
+        "A private equity fund investing in startups",
+        "A fund that actively trades daily for returns"
+      ],
+      "answer": "A fund that tracks a market index passively"
+    },
+    {
+      "question_id": 5,
+      "question": "Which trading venue introduced electronic quotation for securities in 1971?",
+      "options": [
+        "New York Stock Exchange",
+        "London Stock Exchange",
+        "NASDAQ"
+      ],
+      "answer": "NASDAQ"
+    },
+    {
+      "question_id": 6,
+      "question": "Which term describes shares issued but restricted from sale due to contractual conditions?",
+      "options": [
+        "Treasury stock",
+        "Restricted stock",
+        "Preferred stock"
+      ],
+      "answer": "Restricted stock"
+    },
+    {
+      "question_id": 7,
+      "question": "What does 'blue-chip' describe in stocks?",
+      "options": [
+        "Companies trading below one dollar per share",
+        "Startups with rapid growth potential",
+        "Large, established, financially stable companies"
+      ],
+      "answer": "Large, established, financially stable companies"
+    },
+    {
+      "question_id": 8,
+      "question": "Which index fund ETF launched in 1993 as one of the first widely traded ETFs?",
+      "options": [
+        "iShares Russell 2000 ETF (IWM)",
+        "SPDR S&P 500 ETF (SPY)",
+        "Vanguard Total Stock Market ETF (VTI)"
+      ],
+      "answer": "SPDR S&P 500 ETF (SPY)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which measure captures how many times a company's inventory converts into sales annually?",
+      "options": [
+        "Inventory turnover ratio",
+        "Operating margin",
+        "Return on equity"
+      ],
+      "answer": "Inventory turnover ratio"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a share buyback or repurchase?",
+      "options": [
+        "Company issues more shares to raise capital",
+        "Company buys its own shares from the market",
+        "Company merges with another business"
+      ],
+      "answer": "Company buys its own shares from the market"
+    },
+    {
+      "question_id": 11,
+      "question": "Which investor is known for pioneering low-cost index funds at Vanguard?",
+      "options": [
+        "John Bogle",
+        "Benjamin Graham",
+        "Peter Lynch"
+      ],
+      "answer": "John Bogle"
+    },
+    {
+      "question_id": 12,
+      "question": "Which valuation anomaly refers to stocks with recent strong returns continuing to outperform short term?",
+      "options": [
+        "Value premium",
+        "Momentum effect",
+        "Size effect"
+      ],
+      "answer": "Momentum effect"
+    },
+    {
+      "question_id": 13,
+      "question": "What is volatility in investing?",
+      "options": [
+        "Degree of price fluctuation in a security or market",
+        "Annual interest rate banks pay on deposits",
+        "Number of new IPOs each year"
+      ],
+      "answer": "Degree of price fluctuation in a security or market"
+    },
+    {
+      "question_id": 14,
+      "question": "Which U.S. agency enforces federal securities laws and regulates markets?",
+      "options": [
+        "Commodity Futures Trading Commission",
+        "Federal Deposit Insurance Corporation",
+        "Securities and Exchange Commission"
+      ],
+      "answer": "Securities and Exchange Commission"
+    },
+    {
+      "question_id": 15,
+      "question": "Which pricing model extension incorporates stochastic volatility into option pricing?",
+      "options": [
+        "Vasicek model",
+        "Heston model",
+        "Black-Derman-Toy model"
+      ],
+      "answer": "Heston model"
+    }
+  ]
+}

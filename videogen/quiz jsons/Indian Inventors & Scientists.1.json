@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian mathematician is famous for deep results in number theory and partitions?",
+      "options": [
+        "Srinivasa Ramanujan",
+        "C. V. Raman",
+        "M. Visvesvaraya"
+      ],
+      "answer": "Srinivasa Ramanujan"
+    },
+    {
+      "question_id": 2,
+      "question": "Which Indian institute launched the Aryabhata satellite project and collaborated with USSR?",
+      "options": [
+        "IISc",
+        "ISRO",
+        "TIFR"
+      ],
+      "answer": "ISRO"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian scientist’s equation explains ionization equilibrium in stellar atmospheres?",
+      "options": [
+        "Satyendra Nath Bose",
+        "G. N. Ramachandran",
+        "Meghnad Saha"
+      ],
+      "answer": "Meghnad Saha"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Indian-born scientist shared the 1968 Nobel Prize in Physiology or Medicine?",
+      "options": [
+        "C. V. Raman",
+        "Har Gobind Khorana",
+        "S. Chandrasekhar"
+      ],
+      "answer": "Har Gobind Khorana"
+    },
+    {
+      "question_id": 5,
+      "question": "Which scientist founded modern ornithology studies in India through systematic bird surveys?",
+      "options": [
+        "Vikram Sarabhai",
+        "G. N. Ramachandran",
+        "Salim Ali"
+      ],
+      "answer": "Salim Ali"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Indian geneticist synthesized the first fully artificial gene in the 1970s and won a Nobel Prize?",
+      "options": [
+        "Venkatraman Ramakrishnan",
+        "Ananda Mohan Chakrabarty",
+        "Har Gobind Khorana"
+      ],
+      "answer": "Har Gobind Khorana"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is known as the father of the Indian nuclear program?",
+      "options": [
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai",
+        "Homi J. Bhabha"
+      ],
+      "answer": "Homi J. Bhabha"
+    },
+    {
+      "question_id": 8,
+      "question": "Which pioneer established the Indian National Committee for Space Research before ISRO formed?",
+      "options": [
+        "Homi Bhabha",
+        "Satish Dhawan",
+        "Vikram Sarabhai"
+      ],
+      "answer": "Vikram Sarabhai"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian scientist's limit determines the maximum mass of a stable white dwarf star?",
+      "options": [
+        "Satyendra Nath Bose",
+        "Meghnad Saha",
+        "S. Chandrasekhar"
+      ],
+      "answer": "S. Chandrasekhar"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is celebrated as a pioneer of modern Indian engineering and received the title 'Sir'?",
+      "options": [
+        "Satish Dhawan",
+        "M. Visvesvaraya",
+        "E. Sreedharan"
+      ],
+      "answer": "M. Visvesvaraya"
+    },
+    {
+      "question_id": 11,
+      "question": "Who directed India’s SLV-3 project that successfully made India a launch-capable nation?",
+      "options": [
+        "A. P. J. Abdul Kalam",
+        "Satish Dhawan",
+        "U. R. Rao"
+      ],
+      "answer": "A. P. J. Abdul Kalam"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian researcher introduced concepts central to protein conformation mapping in 1963?",
+      "options": [
+        "Asima Chatterjee",
+        "S. Chandrasekhar",
+        "G. N. Ramachandran"
+      ],
+      "answer": "G. N. Ramachandran"
+    },
+    {
+      "question_id": 13,
+      "question": "Who pioneered India’s Green Revolution in agriculture?",
+      "options": [
+        "R. A. Mashelkar",
+        "Ananda Mohan Chakrabarty",
+        "M. S. Swaminathan"
+      ],
+      "answer": "M. S. Swaminathan"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian physicist’s work inspired Einstein’s papers on quantum statistics?",
+      "options": [
+        "Satyendra Nath Bose",
+        "C. V. Raman",
+        "S. Chandrasekhar"
+      ],
+      "answer": "Satyendra Nath Bose"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Indian scientist devised methods to measure extremely small plant movements and growth?",
+      "options": [
+        "Jagadish Chandra Bose",
+        "G. N. Ramachandran",
+        "C. V. Raman"
+      ],
+      "answer": "Jagadish Chandra Bose"
+    }
+  ]
+}

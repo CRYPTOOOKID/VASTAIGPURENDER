@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'heliophobia' mean?",
+      "options": [
+        "Fear of sunlight or bright light",
+        "Fear of ships",
+        "Fear of people"
+      ],
+      "answer": "Fear of sunlight or bright light"
+    },
+    {
+      "question_id": 2,
+      "question": "Which diagnostic manual places specific phobias under anxiety disorders?",
+      "options": [
+        "DSM (Diagnostic and Statistical Manual)",
+        "ICD for cardiology",
+        "Handbook of Chemistry"
+      ],
+      "answer": "DSM (Diagnostic and Statistical Manual)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia often shows high comorbidity with depression and other anxiety disorders?",
+      "options": [
+        "Social phobia (social anxiety disorder)",
+        "Hydrophobia",
+        "Aerophobia"
+      ],
+      "answer": "Social phobia (social anxiety disorder)"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'sociophobia' usually describe?",
+      "options": [
+        "Fear of social situations",
+        "Fear of math",
+        "Fear of mirrors"
+      ],
+      "answer": "Fear of social situations"
+    },
+    {
+      "question_id": 5,
+      "question": "Which behavioral technique pairs relaxation with gradual exposure to reduce phobic anxiety?",
+      "options": [
+        "Systematic desensitization",
+        "Operant conditioning alone",
+        "Aversive conditioning"
+      ],
+      "answer": "Systematic desensitization"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare phobia denotes fear of elevators or vertical transport specifically?",
+      "options": [
+        "Lift phobia (elevatophobia)",
+        "Phonophobia",
+        "Ailurophobia"
+      ],
+      "answer": "Lift phobia (elevatophobia)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which suffix indicates a fear or phobic condition?",
+      "options": [
+        "-phobia",
+        "-ology",
+        "-graphy"
+      ],
+      "answer": "-phobia"
+    },
+    {
+      "question_id": 8,
+      "question": "Which phobia describes fear of long words and is considered humorous culturally?",
+      "options": [
+        "Hippopotomonstrosesquipedaliophobia",
+        "Hydrophobia",
+        "Chionophobia"
+      ],
+      "answer": "Hippopotomonstrosesquipedaliophobia"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia involves fear of making decisions or fear of failure linked to perfectionism?",
+      "options": [
+        "Atychiphobia",
+        "Anemophobia",
+        "Cibophobia"
+      ],
+      "answer": "Atychiphobia"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia is fear of darkness?",
+      "options": [
+        "Nyctophobia",
+        "Claustrophobia",
+        "Agoraphobia"
+      ],
+      "answer": "Nyctophobia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which phobia term describes fear of elevators and enclosed vertical transport?",
+      "options": [
+        "Claustrophobia",
+        "Chronophobia",
+        "Nomophobia"
+      ],
+      "answer": "Claustrophobia"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia term refers to fear of sunlight and can involve avoidance of daylight?",
+      "options": [
+        "Heliophobia",
+        "Nyctophobia",
+        "Scotophobia"
+      ],
+      "answer": "Heliophobia"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'hemophobia' differ from 'blood-injection-injury phobia' by often including?",
+      "options": [
+        "Fear plus fainting risk",
+        "Fear of closed spaces",
+        "Fear of storms"
+      ],
+      "answer": "Fear plus fainting risk"
+    },
+    {
+      "question_id": 14,
+      "question": "Which term describes fear specifically triggered by seeing a specific animal or object?",
+      "options": [
+        "Specific phobia",
+        "Generalized phobia",
+        "Diffuse anxiety"
+      ],
+      "answer": "Specific phobia"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia describes an intense fear of mirrors tied to identity-related anxiety?",
+      "options": [
+        "Eisoptrophobia",
+        "Chronophobia",
+        "Ergophobia"
+      ],
+      "answer": "Eisoptrophobia"
+    }
+  ]
+}

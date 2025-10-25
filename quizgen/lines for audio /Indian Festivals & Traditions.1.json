@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which South Indian harvest festival centers on cooking rice in new pots called 'pongal'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which festival celebrates the victory of good over evil and includes the reading of Ramayana in many households?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which festival practice involves painting bulls and parading them to thank cattle for ploughing in Maharashtra?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which festival celebrates sibling bonds with sisters tying a protective thread called rakhi?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which festival celebrates Krishna's childhood pranks and includes midnight temple celebrations?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which festival historically popularized public pandals and community idol-making in 19th-century Calcutta?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which January festival is famous for kite flying across many Indian states?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which festival's main culinary item in Bengal is the steamed sweet 'rosogolla' often offered?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which ritual during Rath Yatra in Puri requires massive chariots pulled by hundreds of devotees?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major pilgrimage festival involves millions bathing at river confluences?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which festival is also known as the Sikh festival of lights, coinciding with Diwali in some years?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which festival is linked historically to the legend of King Mahabali and Vamana avatar of Vishnu?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Punjab harvest festival is celebrated with bhangra and bonfires in April?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which city is famous for the grand Durga Puja celebrations with artistic pandals?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which festival ritual in Kerala involves the creation of large floral carpets called 'Pookalam'?"
+    }
+  ]
+}

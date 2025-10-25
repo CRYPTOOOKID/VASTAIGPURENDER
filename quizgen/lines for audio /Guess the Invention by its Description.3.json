@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which invention provides indoor lighting by converting electricity into light?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which invention used a semiconductor junction to replace vacuum tubes for smaller electronics?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which invention employed CRISPR-Cas systems to enable programmable genome editing in living cells?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invention uses rotating blades to create lift and enable vertical flight?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which invention enabled real-time global navigation for civilians using satellite signals?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which invention's concept used Rutherford's scattering experiments to advance particle detector design?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which invention uses a lens and mirror system to magnify distant objects for observation?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which invention created a practical method to measure longitude at sea using precision timekeeping?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which invention's original vacuum-tube implementation consumed kilowatts but proved computing feasibility?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which invention prints text and images onto paper using movable type?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invention allowed cars to start reliably without hand cranks using an electric starter motor?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which invention applied Markov models and hidden Markov models to advance automated speech recognition?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which invention uses steam pressure to move pistons and power machinery?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which invention stores programs and data in binary form inside early electronic computers?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which invention used the 'Moore's Law' observation to guide semiconductor roadmap planning?"
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which two companies are central to the iconic \"Cola Wars\" rivalry?",
+        "options": [
+          "Coca-Cola and Pepsi",
+          "Coca-Cola and Dr Pepper",
+          "Pepsi and 7UP"
+        ],
+        "answer": "Coca-Cola and Pepsi"
+      },
+      {
+        "question": "Which tech rivalry featured Macintosh versus Windows personal computers?",
+        "options": [
+          "Apple and Microsoft",
+          "IBM and Apple",
+          "Google and Microsoft"
+        ],
+        "answer": "Apple and Microsoft"
+      },
+      {
+        "question": "Which rivalry is famous for the Big Mac versus the Whopper burgers?",
+        "options": [
+          "McDonald\u000027s and Burger King",
+          "Wendy\u000027s and McDonald\u000027s",
+          "Burger King and Wendy\u000027s"
+        ],
+        "answer": "McDonald\u000027s and Burger King"
+      },
+      {
+        "question": "Which sportswear brands are known for their longstanding competition in footwear and apparel?",
+        "options": [
+          "Nike and Adidas",
+          "Puma and Reebok",
+          "New Balance and Skechers"
+        ],
+        "answer": "Nike and Adidas"
+      },
+      {
+        "question": "Which two smartphone makers battled over market share and design patents in the 2010s?",
+        "options": [
+          "Apple and Samsung",
+          "Sony and HTC",
+          "LG and Motorola"
+        ],
+        "answer": "Apple and Samsung"
+      },
+      {
+        "question": "Which aerospace companies compete globally for commercial airliner contracts?",
+        "options": [
+          "Boeing and Airbus",
+          "Lockheed and Northrop",
+          "Embraer and Bombardier"
+        ],
+        "answer": "Boeing and Airbus"
+      },
+      {
+        "question": "Which two ride-hailing companies are known rivals in the U.S. market?",
+        "options": [
+          "Uber and Lyft",
+          "Uber and Didi",
+          "Lyft and Ola"
+        ],
+        "answer": "Uber and Lyft"
+      },
+      {
+        "question": "Which streaming service famously disrupted the video rental industry led by Blockbuster?",
+        "options": [
+          "Netflix",
+          "Hulu",
+          "Amazon Prime Video"
+        ],
+        "answer": "Netflix"
+      },
+      {
+        "question": "Which two companies competed in the 1960s for dominance at the 24 Hours of Le Mans?",
+        "options": [
+          "Ford and Ferrari",
+          "Porsche and Jaguar",
+          "Aston Martin and Shelby"
+        ],
+        "answer": "Ford and Ferrari"
+      },
+      {
+        "question": "Which e-commerce giant competes directly with traditional retailers like Walmart?",
+        "options": [
+          "Amazon",
+          "eBay",
+          "Alibaba"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which two gaming companies famously clashed during the 1990s console era?",
+        "options": [
+          "Nintendo and Sega",
+          "Atari and Nintendo",
+          "Sony and Microsoft"
+        ],
+        "answer": "Nintendo and Sega"
+      },
+      {
+        "question": "Which coffee chains are well-known rivals in the United States?",
+        "options": [
+          "Starbucks and Dunkin'",
+          "Coffee Bean and Peet's",
+          "Tim Hortons and Krispy Kreme"
+        ],
+        "answer": "Starbucks and Dunkin'"
+      },
+      {
+        "question": "Which enterprise software companies are famous rivals in databases and ERP systems?",
+        "options": [
+          "Oracle and SAP",
+          "Salesforce and HubSpot",
+          "IBM and Microsoft"
+        ],
+        "answer": "Oracle and SAP"
+      },
+      {
+        "question": "Which two companies led the personal computer operating system market in the 1980s and 1990s?",
+        "options": [
+          "Microsoft and Apple",
+          "IBM and Dell",
+          "Intel and AMD"
+        ],
+        "answer": "Microsoft and Apple"
+      },
+      {
+        "question": "Which two companies battled over online marketplaces in the early internet era?",
+        "options": [
+          "eBay and Amazon",
+          "Yahoo and Google",
+          "Craigslist and eBay"
+        ],
+        "answer": "eBay and Amazon"
+      },
+      {
+        "question": "Which carmaker upset Ferrari at Le Mans with the GT40 program?",
+        "options": [
+          "Ford",
+          "Chevrolet",
+          "Porsche"
+        ],
+        "answer": "Ford"
+      },
+      {
+        "question": "Which two companies competed in the video streaming production race with original series?",
+        "options": [
+          "Netflix and Amazon Prime Video",
+          "Hulu and Disney+",
+          "HBO and Showtime"
+        ],
+        "answer": "Netflix and Amazon Prime Video"
+      },
+      {
+        "question": "Which two rival brands are known for their athletic sneakers and celebrity endorsements?",
+        "options": [
+          "Nike and Adidas",
+          "Reebok and New Balance",
+          "Puma and Under Armour"
+        ],
+        "answer": "Nike and Adidas"
+      },
+      {
+        "question": "Which rivalry involved Sony creating a new gaming platform after a cancelled Nintendo collaboration?",
+        "options": [
+          "Sony and Nintendo",
+          "Sony and Sega",
+          "Nintendo and Sega"
+        ],
+        "answer": "Sony and Nintendo"
+      },
+      {
+        "question": "Which fast-food rivalry is associated with the advertising slogan \"Have It Your Way\"?",
+        "options": [
+          "Burger King and McDonald\u000027s",
+          "Wendy\u000027s and Burger King",
+          "McDonald\u000027s and Wendy\u000027s"
+        ],
+        "answer": "Burger King and McDonald\u000027s"
+      },
+      {
+        "question": "Which two companies are often compared for their consumer electronics ecosystems?",
+        "options": [
+          "Apple and Samsung",
+          "LG and Sony",
+          "Panasonic and Sharp"
+        ],
+        "answer": "Apple and Samsung"
+      },
+      {
+        "question": "Which franchise rivalry in theme parks increased after Wizarding World opened?",
+        "options": [
+          "Disney and Universal",
+          "Six Flags and Cedar Fair",
+          "SeaWorld and Busch Gardens"
+        ],
+        "answer": "Disney and Universal"
+      },
+      {
+        "question": "Which tech rivalry involved search engines competing for online advertising?",
+        "options": [
+          "Google and Microsoft",
+          "Yahoo and AOL",
+          "Bing and DuckDuckGo"
+        ],
+        "answer": "Google and Microsoft"
+      },
+      {
+        "question": "Which pair dominated the console market with PlayStation competing against other systems?",
+        "options": [
+          "Sony and Microsoft",
+          "Nintendo and Sega",
+          "Atari and Coleco"
+        ],
+        "answer": "Sony and Microsoft"
+      },
+      {
+        "question": "Which two companies are known for rivalry in semiconductor CPUs for PCs?",
+        "options": [
+          "Intel and AMD",
+          "ARM and Qualcomm",
+          "NVIDIA and Intel"
+        ],
+        "answer": "Intel and AMD"
+      },
+      {
+        "question": "Which rivalry included a major lawsuit over smartphone design patents during the 2010s?",
+        "options": [
+          "Apple and Samsung",
+          "HTC and Nokia",
+          "Motorola and Microsoft"
+        ],
+        "answer": "Apple and Samsung"
+      },
+      {
+        "question": "Which two companies vied for dominance in online retail marketplaces in the 2000s?",
+        "options": [
+          "Amazon and eBay",
+          "Target and Walmart",
+          "Best Buy and Amazon"
+        ],
+        "answer": "Amazon and eBay"
+      },
+      {
+        "question": "Which beverage companies' rivalry included taste tests called the \"Pepsi Challenge\"?",
+        "options": [
+          "Pepsi and Coca-Cola",
+          "Dr Pepper and 7UP",
+          "Pepsi and RC Cola"
+        ],
+        "answer": "Pepsi and Coca-Cola"
+      },
+      {
+        "question": "Which two companies were central in the personal digital music player battle with portable devices?",
+        "options": [
+          "Apple and Microsoft",
+          "Sony and Creative",
+          "SanDisk and Samsung"
+        ],
+        "answer": "Apple and Microsoft"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which company introduced New Coke in 1985 during its rivalry with Pepsi?",
+        "options": [
+          "Coca-Cola",
+          "Pepsi",
+          "Dr Pepper"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which company did Ford attempt to buy before launching the GT40 program?",
+        "options": [
+          "Ferrari",
+          "Porsche",
+          "Lotus"
+        ],
+        "answer": "Ferrari"
+      },
+      {
+        "question": "Which year did Microsoft launch Windows 1.0, intensifying its rivalry with Apple?",
+        "options": [
+          "1985",
+          "1981",
+          "1990"
+        ],
+        "answer": "1985"
+      },
+      {
+        "question": "Which footwear brand began as Blue Ribbon Sports before becoming its well-known rival?",
+        "options": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which airline rivalries exist in the commercial jet market between Boeing and Airbus involving which plane family?",
+        "options": [
+          "A320 versus 737",
+          "A380 versus 747",
+          "CRJ versus ERJ"
+        ],
+        "answer": "A320 versus 737"
+      },
+      {
+        "question": "Which company founded in 1994 became a major rival to traditional retailers like Walmart?",
+        "options": [
+          "Amazon",
+          "eBay",
+          "Alibaba"
+        ],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which video rental chain filed for bankruptcy in 2010 during disruption by streaming rivals?",
+        "options": [
+          "Blockbuster",
+          "Hollywood Video",
+          "Movie Gallery"
+        ],
+        "answer": "Blockbuster"
+      },
+      {
+        "question": "Which gaming company launched the PlayStation after breaking off a partnership with Nintendo?",
+        "options": [
+          "Sony",
+          "Sega",
+          "Atari"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which company introduced the Whopper in 1957, a key product in burger rivalries?",
+        "options": [
+          "Burger King",
+          "McDonald\u000027s",
+          "Wendy\u000027s"
+        ],
+        "answer": "Burger King"
+      },
+      {
+        "question": "Which coffee company expanded with a successful loyalty and store model competing with Dunkin'?",
+        "options": [
+          "Starbucks",
+          "Peet\u000027s",
+          "Caribou"
+        ],
+        "answer": "Starbucks"
+      },
+      {
+        "question": "Which ride-hailing company founded in 2012 became a primary challenger to Uber?",
+        "options": [
+          "Lyft",
+          "Didi",
+          "Grab"
+        ],
+        "answer": "Lyft"
+      },
+      {
+        "question": "Which company famously passed on a chance to buy Netflix early in its history?",
+        "options": [
+          "Blockbuster",
+          "HBO",
+          "Walmart"
+        ],
+        "answer": "Blockbuster"
+      },
+      {
+        "question": "Which rivalry included Oracle\u000027s hostile acquisition battles for which enterprise software firm?",
+        "options": [
+          "PeopleSoft",
+          "Salesforce",
+          "Infor"
+        ],
+        "answer": "PeopleSoft"
+      },
+      {
+        "question": "Which sneaker company was founded by brothers Adi and Rudolf Dassler, sparking a sibling rivalry?",
+        "options": [
+          "Adidas and Puma",
+          "Nike and Reebok",
+          "Converse and Vans"
+        ],
+        "answer": "Adidas and Puma"
+      },
+      {
+        "question": "Which company launched the \"Pepsi Challenge\" blind taste tests in the mid-1970s?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "RC Cola"
+        ],
+        "answer": "Pepsi"
+      },
+      {
+        "question": "Which two companies' rivalry included high-profile smartphone patent trials in multiple countries?",
+        "options": [
+          "Apple and Samsung",
+          "Microsoft and Google",
+          "Sony and Huawei"
+        ],
+        "answer": "Apple and Samsung"
+      },
+      {
+        "question": "Which automaker's GT40 program achieved a 1-2-3 finish at Le Mans in which decade?",
+        "options": [
+          "1960s",
+          "1950s",
+          "1970s"
+        ],
+        "answer": "1960s"
+      },
+      {
+        "question": "Which company released the original iPhone in 2007, altering its rivalry with other phone makers?",
+        "options": [
+          "Apple",
+          "Nokia",
+          "BlackBerry"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company acquired Pixar in 2006, strengthening its animation and studio rivalry?",
+        "options": [
+          "Disney",
+          "Universal",
+          "Warner Bros"
+        ],
+        "answer": "Disney"
+      },
+      {
+        "question": "Which company surprised rivals by launching a streaming-first strategy and original content in 2007?",
+        "options": [
+          "Netflix",
+          "Hulu",
+          "Amazon"
+        ],
+        "answer": "Netflix"
+      },
+      {
+        "question": "Which rivalry included a famous antitrust lawsuit filed against Microsoft in the late 1990s?",
+        "options": [
+          "Microsoft and the U.S. government",
+          "Apple and Microsoft",
+          "Intel and AMD"
+        ],
+        "answer": "Microsoft and the U.S. government"
+      },
+      {
+        "question": "Which Japanese electronics company once partnered with Nintendo on a CD-ROM add-on before rivalry events?",
+        "options": [
+          "Sony",
+          "Sega",
+          "NEC"
+        ],
+        "answer": "Sony"
+      },
+      {
+        "question": "Which automotive company invested early in electric vehicles, challenging traditional automakers?",
+        "options": [
+          "Tesla",
+          "Toyota",
+          "Ford"
+        ],
+        "answer": "Tesla"
+      },
+      {
+        "question": "Which corporation bought Instagram's rival, affecting competition in social media?",
+        "options": [
+          "Facebook (Meta)",
+          "Google",
+          "Twitter"
+        ],
+        "answer": "Facebook (Meta)"
+      },
+      {
+        "question": "Which company led the launch of the Galaxy smartphone series, intensifying rivalry with Apple's iPhone?",
+        "options": [
+          "Samsung",
+          "LG",
+          "HTC"
+        ],
+        "answer": "Samsung"
+      },
+      {
+        "question": "Which retail giant challenged Amazon with aggressive online expansion and store integration?",
+        "options": [
+          "Walmart",
+          "Target",
+          "Costco"
+        ],
+        "answer": "Walmart"
+      },
+      {
+        "question": "Which scooter and delivery platform rivalry expanded globally between Didi and which competitor?",
+        "options": [
+          "Uber",
+          "Lyft",
+          "Grab"
+        ],
+        "answer": "Uber"
+      },
+      {
+        "question": "Which console rivalry saw Sega Genesis compete directly with which Nintendo system in the early 1990s?",
+        "options": [
+          "Super Nintendo",
+          "PlayStation",
+          "Xbox"
+        ],
+        "answer": "Super Nintendo"
+      },
+      {
+        "question": "Which company acquired Beats Electronics in 2014, affecting competition in headphones and music services?",
+        "options": [
+          "Apple",
+          "Sony",
+          "Samsung"
+        ],
+        "answer": "Apple"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which landmark 2012 U.S. jury verdict awarded Apple over $1 billion in damages involving which rival?",
+        "options": [
+          "Samsung",
+          "HTC",
+          "Motorola"
+        ],
+        "answer": "Samsung"
+      },
+      {
+        "question": "Which brothers split created Adidas and Puma, originating in which German town?",
+        "options": [
+          "Herzogenaurach",
+          "Munich",
+          "Berlin"
+        ],
+        "answer": "Herzogenaurach"
+      },
+      {
+        "question": "Which Coca-Cola product name did the company reintroduce as \"Classic\" after consumer backlash in 1985?",
+        "options": [
+          "Coca-Cola",
+          "New Coke",
+          "Coca-Cola Zero"
+        ],
+        "answer": "Coca-Cola"
+      },
+      {
+        "question": "Which specific Ford model development directly targeted Ferrari after failed acquisition talks in which year?",
+        "options": [
+          "GT40 in 1963",
+          "Shelby Cobra in 1961",
+          "Mustang in 1964"
+        ],
+        "answer": "GT40 in 1963"
+      },
+      {
+        "question": "Which airline manufacturer launched the A380 partly to counter which rival's large jet family?",
+        "options": [
+          "Airbus versus Boeing",
+          "Boeing versus Airbus",
+          "Embraer versus Bombardier"
+        ],
+        "answer": "Airbus versus Boeing"
+      },
+      {
+        "question": "Which major antitrust case alleged Microsoft illegally maintained a monopoly through which practice?",
+        "options": [
+          "Bundling Internet Explorer with Windows",
+          "Price fixing CPUs",
+          "Blocking hardware vendors"
+        ],
+        "answer": "Bundling Internet Explorer with Windows"
+      },
+      {
+        "question": "Which tech CEO publicly called out competitive products during a 1997 open letter that affected rivalries?",
+        "options": [
+          "Steve Jobs",
+          "Bill Gates",
+          "Larry Ellison"
+        ],
+        "answer": "Steve Jobs"
+      },
+      {
+        "question": "Which campaign in 1975 used televised blind taste tests to shift cola market perceptions?",
+        "options": [
+          "Pepsi Challenge",
+          "Coke Taste Test",
+          "RC Cola Promotion"
+        ],
+        "answer": "Pepsi Challenge"
+      },
+      {
+        "question": "Which automaker partnered with which Italian company to create the Dino and later rival Ferrari?",
+        "options": [
+          "Fiat and Ferrari",
+          "Ford and Ferrari",
+          "Ferrari and Lamborghini"
+        ],
+        "answer": "Fiat and Ferrari"
+      },
+      {
+        "question": "Which company launched the Xbox in 2001 to challenge which existing console franchise?",
+        "options": [
+          "Microsoft challenging Sony's PlayStation",
+          "Microsoft challenging Nintendo's GameCube",
+          "Microsoft challenging Sega's Dreamcast"
+        ],
+        "answer": "Microsoft challenging Sony's PlayStation"
+      },
+      {
+        "question": "Which legal battle outcome affected Android manufacturers by involving which company and patents?",
+        "options": [
+          "Oracle claiming Java API copyrights against Google",
+          "Apple claiming patents against Microsoft",
+          "Microsoft claiming royalties against Samsung"
+        ],
+        "answer": "Oracle claiming Java API copyrights against Google"
+      },
+      {
+        "question": "Which major supermarket chain declined to buy a stake in Amazon in the late 1990s, missing an early rivalry chance?",
+        "options": [
+          "Kmart",
+          "Walmart",
+          "Target"
+        ],
+        "answer": "Kmart"
+      },
+      {
+        "question": "Which iconic marketing rivalry featured Pepsi's celebrity endorsements including which major pop star in the 1980s?",
+        "options": [
+          "Michael Jackson",
+          "Madonna",
+          "Prince"
+        ],
+        "answer": "Michael Jackson"
+      },
+      {
+        "question": "Which iconic 1990s console rivalry involved Sega releasing which sound-heavy system failing against competitors?",
+        "options": [
+          "Sega Saturn",
+          "Sega CD",
+          "Sega Master System"
+        ],
+        "answer": "Sega Saturn"
+      },
+      {
+        "question": "Which company introduced the first mass-market home console to beat Atari but later lost share to which rival?",
+        "options": [
+          "Nintendo later losing to Sega and Sony",
+          "Sega later losing to Nintendo",
+          "Sony later losing to Microsoft"
+        ],
+        "answer": "Nintendo later losing to Sega and Sony"
+      },
+      {
+        "question": "Which tech rivalry included a 1994 licensing deal collapse that led Sony to develop the PlayStation with which company?",
+        "options": [
+          "Philips",
+          "Sega",
+          "Nintendo"
+        ],
+        "answer": "Nintendo"
+      },
+      {
+        "question": "Which high-profile acquisition in 2005 involved Oracle and which enterprise software company contested before takeover?",
+        "options": [
+          "PeopleSoft",
+          "SAP",
+          "Siebel"
+        ],
+        "answer": "PeopleSoft"
+      },
+      {
+        "question": "Which beverage marketing war produced the 1985 case where a taste test led to which product\u000027s return?",
+        "options": [
+          "Coca-Cola Classic returned after New Coke",
+          "Pepsi Classic returned after New Pepsi",
+          "RC Classic returned after reformulation"
+        ],
+        "answer": "Coca-Cola Classic returned after New Coke"
+      },
+      {
+        "question": "Which legal settlement in 2018 ended a long design dispute between Apple and which supplier over chips?",
+        "options": [
+          "Qualcomm",
+          "Intel",
+          "Samsung"
+        ],
+        "answer": "Qualcomm"
+      },
+      {
+        "question": "Which European football sponsorship rivalry includes Adidas competing directly with which sports brand?",
+        "options": [
+          "Nike",
+          "Puma",
+          "Under Armour"
+        ],
+        "answer": "Nike"
+      },
+      {
+        "question": "Which company beat IBM\u000027s PC dominance by licensing MS-DOS, shaping early PC rivalries?",
+        "options": [
+          "Microsoft",
+          "Apple",
+          "Compaq"
+        ],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Which streaming competitor launched a notable ad campaign attacking Netflix\u000027s content model involving which company?",
+        "options": [
+          "Hulu",
+          "Disney+",
+          "HBO Max"
+        ],
+        "answer": "Hulu"
+      },
+      {
+        "question": "Which failing retail chain turned down an early investment or partnership with Amazon founder Jeff Bezos in which decade?",
+        "options": [
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "answer": "1990s"
+      },
+      {
+        "question": "Which automaker's legal antitrust suit accused which rival of ramping rebate practices harming competition?",
+        "options": [
+          "Chrysler sued Ford",
+          "Toyota sued GM",
+          "Ford sued Tesla"
+        ],
+        "answer": "Chrysler sued Ford"
+      },
+      {
+        "question": "Which 1997 open-market clash saw which company buy out which software rival's assets to gain databases?",
+        "options": [
+          "Oracle bought PeopleSoft assets",
+          "SAP bought Oracle assets",
+          "IBM bought Sun assets"
+        ],
+        "answer": "Oracle bought PeopleSoft assets"
+      },
+      {
+        "question": "Which social media acquisition by Facebook (Meta) in 2012 affected rivalry with which photo-sharing app?",
+        "options": [
+          "Instagram affected competition with Snapchat",
+          "Instagram affected competition with Myspace",
+          "Instagram affected competition with Twitter"
+        ],
+        "answer": "Instagram affected competition with Snapchat"
+      },
+      {
+        "question": "Which electric vehicle entry targeted by traditional automakers used which battery innovation early on?",
+        "options": [
+          "Lithium-ion cells widely used by Tesla",
+          "Lead-acid packs used by Nissan",
+          "Nickel-metal hydride used by Ford"
+        ],
+        "answer": "Lithium-ion cells widely used by Tesla"
+      },
+      {
+        "question": "Which arcade-era rivalry saw Nintendo counter which competitor with the Famicom/NES success?",
+        "options": [
+          "Sega",
+          "Atari",
+          "Neo Geo"
+        ],
+        "answer": "Sega"
+      },
+      {
+        "question": "Which major 2000s lawsuit involved which pair contesting search advertising and browser integration?",
+        "options": [
+          "Google and Microsoft over search and browser practices",
+          "Yahoo and Google over portals",
+          "AOL and Google over ad placements"
+        ],
+        "answer": "Google and Microsoft over search and browser practices"
+      },
+      {
+        "question": "Which early online auction rivalry saw eBay acquire which competitor to consolidate dominance?",
+        "options": [
+          "PayPal acquired by eBay",
+          "Amazon acquired eBay",
+          "eBay acquired Craigslist"
+        ],
+        "answer": "PayPal acquired by eBay"
+      }
+    ]
+  }
+}

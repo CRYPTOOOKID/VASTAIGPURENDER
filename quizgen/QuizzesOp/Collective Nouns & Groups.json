@@ -1,0 +1,793 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which collective noun names a group of lions in English?",
+        "options": [
+          "Pride",
+          "Pack",
+          "School"
+        ],
+        "answer": "Pride"
+      },
+      {
+        "question": "Which collective noun names a group of wolves commonly used in English?",
+        "options": [
+          "Pack",
+          "Herd",
+          "Flock"
+        ],
+        "answer": "Pack"
+      },
+      {
+        "question": "Which collective noun is used for a group of cattle grazing together?",
+        "options": [
+          "Herd",
+          "Pod",
+          "Murmuration"
+        ],
+        "answer": "Herd"
+      },
+      {
+        "question": "Which common collective noun describes many birds gathered or flying together?",
+        "options": [
+          "Flock",
+          "Skein",
+          "Band"
+        ],
+        "answer": "Flock"
+      },
+      {
+        "question": "Which collective noun is widely used for many fish swimming together?",
+        "options": [
+          "School",
+          "Clowder",
+          "Parliament"
+        ],
+        "answer": "School"
+      },
+      {
+        "question": "Which collective noun names a group of dolphins or whales?",
+        "options": [
+          "Pod",
+          "Herd",
+          "Gaggle"
+        ],
+        "answer": "Pod"
+      },
+      {
+        "question": "Which collective noun is used when many bees gather or move together?",
+        "options": [
+          "Swarm",
+          "Pod",
+          "Flock"
+        ],
+        "answer": "Swarm"
+      },
+      {
+        "question": "Which collective noun describes a large organized group of ants living together?",
+        "options": [
+          "Colony",
+          "Gaggle",
+          "Fleet"
+        ],
+        "answer": "Colony"
+      },
+      {
+        "question": "Which collective noun names geese when they are on the ground together?",
+        "options": [
+          "Gaggle",
+          "Skein",
+          "Pride"
+        ],
+        "answer": "Gaggle"
+      },
+      {
+        "question": "Which collective noun is used for geese flying in formation across the sky?",
+        "options": [
+          "Skein",
+          "Gaggle",
+          "Herd"
+        ],
+        "answer": "Skein"
+      },
+      {
+        "question": "Which dramatic collective noun names a group of crows?",
+        "options": [
+          "Murder",
+          "Clowder",
+          "Rafter"
+        ],
+        "answer": "Murder"
+      },
+      {
+        "question": "Which collective noun famously describes a group of owls?",
+        "options": [
+          "Parliament",
+          "Troop",
+          "Swarm"
+        ],
+        "answer": "Parliament"
+      },
+      {
+        "question": "Which collective noun is commonly used for a group of domestic cats?",
+        "options": [
+          "Clowder",
+          "Herd",
+          "Pack"
+        ],
+        "answer": "Clowder"
+      },
+      {
+        "question": "Which collective noun traditionally refers to a group of young kittens?",
+        "options": [
+          "Kindle",
+          "Flock",
+          "Skein"
+        ],
+        "answer": "Kindle"
+      },
+      {
+        "question": "Which collective noun describes a group of kangaroos moving together?",
+        "options": [
+          "Mob",
+          "Pod",
+          "Parliament"
+        ],
+        "answer": "Mob"
+      },
+      {
+        "question": "Which collective noun refers to a group of monkeys observed together?",
+        "options": [
+          "Troop",
+          "Herd",
+          "Clowder"
+        ],
+        "answer": "Troop"
+      },
+      {
+        "question": "Which collective noun names a group of whales seen swimming together?",
+        "options": [
+          "Pod",
+          "Flock",
+          "Skein"
+        ],
+        "answer": "Pod"
+      },
+      {
+        "question": "Which collective noun refers to a loose group of fish often seen while snorkeling?",
+        "options": [
+          "Shoal",
+          "Murder",
+          "Clowder"
+        ],
+        "answer": "Shoal"
+      },
+      {
+        "question": "Which collective noun is used for a group of turkeys on land?",
+        "options": [
+          "Rafter",
+          "Pack",
+          "Herd"
+        ],
+        "answer": "Rafter"
+      },
+      {
+        "question": "Which colorful collective noun describes a gathering of flamingos?",
+        "options": [
+          "Flamboyance",
+          "Murder",
+          "Swarm"
+        ],
+        "answer": "Flamboyance"
+      },
+      {
+        "question": "Which collective noun describes a group of zebras standing together?",
+        "options": [
+          "Dazzle",
+          "Troop",
+          "Pod"
+        ],
+        "answer": "Dazzle"
+      },
+      {
+        "question": "Which collective noun is used for actors performing together in a play?",
+        "options": [
+          "Cast",
+          "Flock",
+          "Swarm"
+        ],
+        "answer": "Cast"
+      },
+      {
+        "question": "Which collective noun refers to people singing together in structured harmony?",
+        "options": [
+          "Choir",
+          "Pod",
+          "Murder"
+        ],
+        "answer": "Choir"
+      },
+      {
+        "question": "Which collective noun names a small group of musicians playing together?",
+        "options": [
+          "Band",
+          "Herd",
+          "Skein"
+        ],
+        "answer": "Band"
+      },
+      {
+        "question": "Which collective noun describes multiple ships sailing together under one command?",
+        "options": [
+          "Fleet",
+          "Pod",
+          "Flock"
+        ],
+        "answer": "Fleet"
+      },
+      {
+        "question": "Which collective noun names a group of elephants traveling together?",
+        "options": [
+          "Herd",
+          "Pod",
+          "Murmuration"
+        ],
+        "answer": "Herd"
+      },
+      {
+        "question": "Which collective noun describes a group of seals gathered on rocks or shore?",
+        "options": [
+          "Colony",
+          "Troop",
+          "Rafter"
+        ],
+        "answer": "Colony"
+      },
+      {
+        "question": "Which collective noun names a group of swans swimming together on the water?",
+        "options": [
+          "Bevy",
+          "Murder",
+          "Kindle"
+        ],
+        "answer": "Bevy"
+      },
+      {
+        "question": "Which basic collective noun describes people working together on a sports field?",
+        "options": [
+          "Team",
+          "Pod",
+          "Herd"
+        ],
+        "answer": "Team"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which medieval term describes the category of fanciful collective nouns for animals?",
+        "options": [
+          "Terms of venery",
+          "Collective taxonomy",
+          "Group nomenclature"
+        ],
+        "answer": "Terms of venery"
+      },
+      {
+        "question": "Which 15th-century book popularized many English collective nouns?",
+        "options": [
+          "The Book of Saint Albans",
+          "The Canterbury Tales",
+          "Le Morte d'Arthur"
+        ],
+        "answer": "The Book of Saint Albans"
+      },
+      {
+        "question": "Which bird forms spectacular murmurations of thousands of individuals?",
+        "options": [
+          "Starlings",
+          "Sparrows",
+          "Pigeons"
+        ],
+        "answer": "Starlings"
+      },
+      {
+        "question": "Which collective noun describes playful groups of otters often seen at water?",
+        "options": [
+          "Romp",
+          "Murder",
+          "Clowder"
+        ],
+        "answer": "Romp"
+      },
+      {
+        "question": "Which collective noun describes a gathering of vultures circling thermals?",
+        "options": [
+          "Kettle",
+          "Skein",
+          "Pride"
+        ],
+        "answer": "Kettle"
+      },
+      {
+        "question": "Which collective noun names a group of giraffes standing together?",
+        "options": [
+          "Tower",
+          "Herd",
+          "Flock"
+        ],
+        "answer": "Tower"
+      },
+      {
+        "question": "Which collective noun is used when hippos gather in water?",
+        "options": [
+          "Bloat",
+          "Pod",
+          "Cluster"
+        ],
+        "answer": "Bloat"
+      },
+      {
+        "question": "Which collective noun names a group of rhinoceroses moving together?",
+        "options": [
+          "Crash",
+          "Skein",
+          "Choir"
+        ],
+        "answer": "Crash"
+      },
+      {
+        "question": "Which collective noun can describe a group of flamingos on land or in water?",
+        "options": [
+          "Flamboyance",
+          "Murmuration",
+          "Band"
+        ],
+        "answer": "Flamboyance"
+      },
+      {
+        "question": "Which collective noun is used for a group of porcupines seen together?",
+        "options": [
+          "Prickle",
+          "Cluster",
+          "Gaggle"
+        ],
+        "answer": "Prickle"
+      },
+      {
+        "question": "Which collective noun describes a group of kangaroos when browsing calmly?",
+        "options": [
+          "Mob",
+          "Pod",
+          "Rafter"
+        ],
+        "answer": "Mob"
+      },
+      {
+        "question": "Which collective noun names a group of jellyfish moving together in the sea?",
+        "options": [
+          "Smack",
+          "Herd",
+          "Murder"
+        ],
+        "answer": "Smack"
+      },
+      {
+        "question": "Which collective noun refers to a group of ravens observed together?",
+        "options": [
+          "Unkindness",
+          "Parliament",
+          "Shoal"
+        ],
+        "answer": "Unkindness"
+      },
+      {
+        "question": "Which collective noun describes a line of migrating geese in flight?",
+        "options": [
+          "Skein",
+          "Gaggle",
+          "Kindle"
+        ],
+        "answer": "Skein"
+      },
+      {
+        "question": "Which collective noun names a group of turkeys in trees or on structures?",
+        "options": [
+          "Rafter",
+          "Flock",
+          "Pod"
+        ],
+        "answer": "Rafter"
+      },
+      {
+        "question": "Which collective noun describes a group of eagles gathered together in one place?",
+        "options": [
+          "Convocation",
+          "Pod",
+          "Clowder"
+        ],
+        "answer": "Convocation"
+      },
+      {
+        "question": "Which collective noun refers to a group of penguins standing on a breeding site?",
+        "options": [
+          "Rookery",
+          "Murmuration",
+          "Parliament"
+        ],
+        "answer": "Rookery"
+      },
+      {
+        "question": "Which collective noun names a group of foxes commonly used in literature?",
+        "options": [
+          "Skulk",
+          "Herd",
+          "Flock"
+        ],
+        "answer": "Skulk"
+      },
+      {
+        "question": "Which collective noun describes a group of hedgehogs found together?",
+        "options": [
+          "Array",
+          "Pod",
+          "Skein"
+        ],
+        "answer": "Array"
+      },
+      {
+        "question": "Which collective noun is used for a group of pelicans flying together?",
+        "options": [
+          "Squadron",
+          "Troop",
+          "Kindle"
+        ],
+        "answer": "Squadron"
+      },
+      {
+        "question": "Which collective noun describes a group of seals on a shore or rocks?",
+        "options": [
+          "Colony",
+          "Parliament",
+          "Rafter"
+        ],
+        "answer": "Colony"
+      },
+      {
+        "question": "Which vocabulary term describes a group of musicians working behind the scenes?",
+        "options": [
+          "Crew",
+          "Flock",
+          "Murder"
+        ],
+        "answer": "Crew"
+      },
+      {
+        "question": "Which collective noun names a group of actors who perform in television or film?",
+        "options": [
+          "Cast",
+          "Pod",
+          "Swarm"
+        ],
+        "answer": "Cast"
+      },
+      {
+        "question": "Which collective noun describes people gathered for worship in one place?",
+        "options": [
+          "Congregation",
+          "Herd",
+          "Kindle"
+        ],
+        "answer": "Congregation"
+      },
+      {
+        "question": "Which collective noun describes a group of whales traveling and surfacing together?",
+        "options": [
+          "Pod",
+          "Troop",
+          "Rafter"
+        ],
+        "answer": "Pod"
+      },
+      {
+        "question": "Which collective noun names a group of swans on land or water near each other?",
+        "options": [
+          "Bevy",
+          "Murder",
+          "Colony"
+        ],
+        "answer": "Bevy"
+      },
+      {
+        "question": "Which collective noun names a group of pelicans floating together on water?",
+        "options": [
+          "Pod",
+          "Bevy",
+          "Skein"
+        ],
+        "answer": "Pod"
+      },
+      {
+        "question": "Which collective noun names a group of bees living together in a hive?",
+        "options": [
+          "Colony",
+          "Clowder",
+          "Troop"
+        ],
+        "answer": "Colony"
+      },
+      {
+        "question": "Which English variety often uses plural verbs with collective nouns (e.g., \"the team are\")?",
+        "options": [
+          "British English",
+          "American English",
+          "Australian English"
+        ],
+        "answer": "British English"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which collective noun historically applied to a group of bears in medieval lists?",
+        "options": [
+          "Sleuth",
+          "Murder",
+          "Rafter"
+        ],
+        "answer": "Sleuth"
+      },
+      {
+        "question": "Which collective noun describes a group of lemurs moving together in Madagascar?",
+        "options": [
+          "Conspiracy",
+          "Pod",
+          "Troop"
+        ],
+        "answer": "Conspiracy"
+      },
+      {
+        "question": "Which collective noun names a group of apes in some more obscure English lists?",
+        "options": [
+          "Shrewdness",
+          "Herd",
+          "Parliament"
+        ],
+        "answer": "Shrewdness"
+      },
+      {
+        "question": "Which rare collective noun refers to a group of moles tunneling in the ground?",
+        "options": [
+          "Labor",
+          "Murmuration",
+          "Smack"
+        ],
+        "answer": "Labor"
+      },
+      {
+        "question": "Which collective noun historically describes a group of woodpeckers?",
+        "options": [
+          "Descent",
+          "Prickle",
+          "Kindle"
+        ],
+        "answer": "Descent"
+      },
+      {
+        "question": "Which collective noun names a group of kangaroos when they are running quickly?",
+        "options": [
+          "Mob",
+          "Court",
+          "Bevy"
+        ],
+        "answer": "Mob"
+      },
+      {
+        "question": "Which collective noun is used for a group of pelicans when soaring together?",
+        "options": [
+          "Pouch",
+          "Flock",
+          "Squadron"
+        ],
+        "answer": "Squadron"
+      },
+      {
+        "question": "Which unusual collective noun is used for a group of choughs in historical lists?",
+        "options": [
+          "Clattering",
+          "Parliament",
+          "Gaggle"
+        ],
+        "answer": "Clattering"
+      },
+      {
+        "question": "Which collective noun names a group of swifts gathering at dusk?",
+        "options": [
+          "Swoop",
+          "Murmuration",
+          "Clowder"
+        ],
+        "answer": "Swoop"
+      },
+      {
+        "question": "Which collective noun is historically applied to a group of jellyfish in nautical language?",
+        "options": [
+          "Smack",
+          "Bloat",
+          "Rafter"
+        ],
+        "answer": "Smack"
+      },
+      {
+        "question": "Which collective noun describes a group of goldfish kept together in a pond?",
+        "options": [
+          "Glint",
+          "School",
+          "Clowder"
+        ],
+        "answer": "Glint"
+      },
+      {
+        "question": "Which collective noun refers to a small group of hares gathered together?",
+        "options": [
+          "Down",
+          "Crash",
+          "Shrewdness"
+        ],
+        "answer": "Down"
+      },
+      {
+        "question": "Which collective noun names a group of eels often found in a riverbed?",
+        "options": [
+          "Bed",
+          "Pod",
+          "Herd"
+        ],
+        "answer": "Bed"
+      },
+      {
+        "question": "Which rare collective noun describes a group of pelicans on the water surface?",
+        "options": [
+          "Pod",
+          "Pouch",
+          "Bevy"
+        ],
+        "answer": "Pouch"
+      },
+      {
+        "question": "Which collective noun is used for a group of swans in flight with long necks extended?",
+        "options": [
+          "Wedge",
+          "Tower",
+          "Skein"
+        ],
+        "answer": "Wedge"
+      },
+      {
+        "question": "Which obscure collective noun names a gathering of lapwings in fields?",
+        "options": [
+          "Apostrophe",
+          "Kettle",
+          "Clattering"
+        ],
+        "answer": "Apostrophe"
+      },
+      {
+        "question": "Which specialized collective noun historically names a group of quail together?",
+        "options": [
+          "Covey",
+          "Kindle",
+          "Rafter"
+        ],
+        "answer": "Covey"
+      },
+      {
+        "question": "Which rare collective noun describes a group of blackbirds or similar thrushes?",
+        "options": [
+          "Charmy",
+          "Murmuration",
+          "Pod"
+        ],
+        "answer": "Charmy"
+      },
+      {
+        "question": "Which obscure collective noun is given to a group of owls when they roost silently?",
+        "options": [
+          "Parliament",
+          "Study",
+          "Clowder"
+        ],
+        "answer": "Study"
+      },
+      {
+        "question": "Which collective noun historically applied to a group of swans on the ground?",
+        "options": [
+          "Bank",
+          "Bevy",
+          "Pride"
+        ],
+        "answer": "Bank"
+      },
+      {
+        "question": "Which uncommon collective noun refers to a group of moles surfaced above ground?",
+        "options": [
+          "Skit",
+          "Labor",
+          "Clowder"
+        ],
+        "answer": "Skit"
+      },
+      {
+        "question": "Which collective noun names a group of stags assembled during rutting season?",
+        "options": [
+          "Herd",
+          "Leash",
+          "Clan"
+        ],
+        "answer": "Clan"
+      },
+      {
+        "question": "Which rare collective noun describes a group of caterpillars moving together?",
+        "options": [
+          "Army",
+          "Murder",
+          "Pack"
+        ],
+        "answer": "Army"
+      },
+      {
+        "question": "Which obscure collective noun names a group of owls in folklore as a debating assembly?",
+        "options": [
+          "Parliament",
+          "Council",
+          "Convocation"
+        ],
+        "answer": "Parliament"
+      },
+      {
+        "question": "Which collective noun historically describes a group of whales observed from a whaler's perspective?",
+        "options": [
+          "Gam",
+          "Pod",
+          "School"
+        ],
+        "answer": "Gam"
+      },
+      {
+        "question": "Which collective noun is sometimes used for a group of trout in a stream?",
+        "options": [
+          "Hover",
+          "Glow",
+          "Shoal"
+        ],
+        "answer": "Glow"
+      },
+      {
+        "question": "Which rare collective noun names a group of vultures feeding on a carcass?",
+        "options": [
+          "Wake",
+          "Kettle",
+          "Murder"
+        ],
+        "answer": "Wake"
+      },
+      {
+        "question": "Which collective noun is used in older lists for a group of sparrows in hedges?",
+        "options": [
+          "Host",
+          "Chattering",
+          "Clattering"
+        ],
+        "answer": "Host"
+      },
+      {
+        "question": "Which obscure collective noun describes a group of owls engaged in a formal assembly in lore?",
+        "options": [
+          "Parliament",
+          "Study",
+          "Conspiracy"
+        ],
+        "answer": "Study"
+      }
+    ]
+  }
+}

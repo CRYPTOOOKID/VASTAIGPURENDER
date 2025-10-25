@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which brand was founded by Salvatore Ferragamo and is famous for shoes?",
+      "options": [
+        "Fendi",
+        "Ferragamo",
+        "Tom Ford"
+      ],
+      "answer": "Ferragamo"
+    },
+    {
+      "question_id": 2,
+      "question": "Which designer established Saint Laurent Rive Gauche ready-to-wear boutiques in 1966?",
+      "options": [
+        "Pierre Cardin",
+        "Hubert de Givenchy",
+        "Yves Saint Laurent"
+      ],
+      "answer": "Yves Saint Laurent"
+    },
+    {
+      "question_id": 3,
+      "question": "Which couture house first established multiple ateliers across Paris and Geneva during the 19th century?",
+      "options": [
+        "Dior",
+        "House of Worth",
+        "Chanel"
+      ],
+      "answer": "House of Worth"
+    },
+    {
+      "question_id": 4,
+      "question": "Which jeweler is famous for its robin's-egg blue boxes?",
+      "options": [
+        "Tiffany & Co.",
+        "Bulgari",
+        "Cartier"
+      ],
+      "answer": "Tiffany & Co."
+    },
+    {
+      "question_id": 5,
+      "question": "Which designer created the Louis Vuitton monogram pattern in 1896?",
+      "options": [
+        "Louis Vuitton",
+        "Georges Vuitton",
+        "Paul Poiret"
+      ],
+      "answer": "Georges Vuitton"
+    },
+    {
+      "question_id": 6,
+      "question": "Which couture house's archive famously inspired Karl Lagerfeld's modern Chanel revivals?",
+      "options": [
+        "Maison Goyard",
+        "House of Poiret",
+        "House of Worth"
+      ],
+      "answer": "House of Worth"
+    },
+    {
+      "question_id": 7,
+      "question": "Which house uses a Medusa head as its emblem?",
+      "options": [
+        "Fendi",
+        "Valentino",
+        "Versace"
+      ],
+      "answer": "Versace"
+    },
+    {
+      "question_id": 8,
+      "question": "Which luxury group owns Gucci and Bottega Veneta?",
+      "options": [
+        "Kering",
+        "Tapestry",
+        "LVMH"
+      ],
+      "answer": "Kering"
+    },
+    {
+      "question_id": 9,
+      "question": "Which luxury house's crocodile Birkin variation is commonly referred to by collectors as 'Himalaya'?",
+      "options": [
+        "Hermès",
+        "Chanel",
+        "Fendi"
+      ],
+      "answer": "Hermès"
+    },
+    {
+      "question_id": 10,
+      "question": "Which brand is famous for shoes with a red-lacquered sole?",
+      "options": [
+        "Manolo Blahnik",
+        "Christian Louboutin",
+        "Jimmy Choo"
+      ],
+      "answer": "Christian Louboutin"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Italian house was founded by Mario Prada in 1913 in Milan?",
+      "options": [
+        "Fendi",
+        "Gucci",
+        "Prada"
+      ],
+      "answer": "Prada"
+    },
+    {
+      "question_id": 12,
+      "question": "Which designer's archive inspired recurring theatrical runway narratives and dramatic tailoring at Alexander McQueen?",
+      "options": [
+        "Savile Row tailoring traditions",
+        "Japanese streetwear",
+        "Italian artisanal leatherwork"
+      ],
+      "answer": "Savile Row tailoring traditions"
+    },
+    {
+      "question_id": 13,
+      "question": "Which fashion house uses the double F logo created by Karl Lagerfeld?",
+      "options": [
+        "Givenchy",
+        "Balenciaga",
+        "Fendi"
+      ],
+      "answer": "Fendi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which brand created a famous patterned 'Oblique' canvas that became a house signature?",
+      "options": [
+        "Louis Vuitton",
+        "Fendi",
+        "Dior"
+      ],
+      "answer": "Dior"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Hermès executive famously collaborated on designing the original Birkin bag in 1984?",
+      "options": [
+        "Jean-Louis Dumas",
+        "Thierry Hermès",
+        "Robert Dumas"
+      ],
+      "answer": "Jean-Louis Dumas"
+    }
+  ]
+}

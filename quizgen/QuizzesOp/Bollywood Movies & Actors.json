@@ -1,0 +1,820 @@
+{
+  "quiz": {
+    "low": [
+      {
+        "question": "Which city is the center of the Bollywood film industry?",
+        "options": [
+          "Mumbai",
+          "Delhi",
+          "Chennai"
+        ],
+        "answer": "Mumbai"
+      },
+      {
+        "question": "Who played Raj in the film Dilwale Dulhania Le Jayenge (1995)?",
+        "options": [
+          "Shah Rukh Khan",
+          "Salman Khan",
+          "Aamir Khan"
+        ],
+        "answer": "Shah Rukh Khan"
+      },
+      {
+        "question": "Which actress played Simran opposite Shah Rukh Khan in Dilwale Dulhania Le Jayenge?",
+        "options": [
+          "Kajol",
+          "Rani Mukerji",
+          "Karisma Kapoor"
+        ],
+        "answer": "Kajol"
+      },
+      {
+        "question": "Which actor is popularly known by the nickname Big B?",
+        "options": [
+          "Amitabh Bachchan",
+          "Dilip Kumar",
+          "Dev Anand"
+        ],
+        "answer": "Amitabh Bachchan"
+      },
+      {
+        "question": "Which 1988 film was Aamir Khan's breakthrough as a lead actor?",
+        "options": [
+          "Qayamat Se Qayamat Tak",
+          "Jo Jeeta Wohi Sikandar",
+          "Dil"
+        ],
+        "answer": "Qayamat Se Qayamat Tak"
+      },
+      {
+        "question": "Which 1998 film featured the song filmed on top of a moving train, 'Chaiyya Chaiyya'?",
+        "options": [
+          "Dil Se",
+          "Dilwale Dulhania Le Jayenge",
+          "Kabhi Khushi Kabhie Gham"
+        ],
+        "answer": "Dil Se"
+      },
+      {
+        "question": "Who directed the period sports drama Lagaan (2001)?",
+        "options": [
+          "Ashutosh Gowariker",
+          "Rajkumar Hirani",
+          "Karan Johar"
+        ],
+        "answer": "Ashutosh Gowariker"
+      },
+      {
+        "question": "Which actor played Jai in the classic film Sholay (1975)?",
+        "options": [
+          "Amitabh Bachchan",
+          "Dharmendra",
+          "Sanjeev Kumar"
+        ],
+        "answer": "Amitabh Bachchan"
+      },
+      {
+        "question": "What is the primary language used in mainstream Bollywood films?",
+        "options": [
+          "Hindi",
+          "Tamil",
+          "Telugu"
+        ],
+        "answer": "Hindi"
+      },
+      {
+        "question": "Who was the female lead opposite Salman Khan in Hum Aapke Hain Koun..?",
+        "options": [
+          "Madhuri Dixit",
+          "Rekha",
+          "Sridevi"
+        ],
+        "answer": "Madhuri Dixit"
+      },
+      {
+        "question": "Which performer appeared in the popular item song 'Munni Badnaam Hui' in Dabangg?",
+        "options": [
+          "Malaika Arora",
+          "Katrina Kaif",
+          "Kareena Kapoor"
+        ],
+        "answer": "Malaika Arora"
+      },
+      {
+        "question": "Who directed the comedy-drama 3 Idiots (2009)?",
+        "options": [
+          "Rajkumar Hirani",
+          "Aamir Khan",
+          "Karan Johar"
+        ],
+        "answer": "Rajkumar Hirani"
+      },
+      {
+        "question": "Which actor is famous for the role of Munna Bhai in the Munna Bhai film series?",
+        "options": [
+          "Sanjay Dutt",
+          "Salman Khan",
+          "Paresh Rawal"
+        ],
+        "answer": "Sanjay Dutt"
+      },
+      {
+        "question": "Who played Prince Salim in the epic Mughal-e-Azam (1960)?",
+        "options": [
+          "Dilip Kumar",
+          "Raj Kapoor",
+          "Dev Anand"
+        ],
+        "answer": "Dilip Kumar"
+      },
+      {
+        "question": "Which actress starred opposite Raj Kapoor in the film Awaara (1951)?",
+        "options": [
+          "Nargis",
+          "Madhubala",
+          "Meena Kumari"
+        ],
+        "answer": "Nargis"
+      },
+      {
+        "question": "Which music composer duo dominated many 1990s Bollywood soundtracks?",
+        "options": [
+          "Nadeem-Shravan",
+          "Jatin-Lalit",
+          "Vishal-Shekhar"
+        ],
+        "answer": "Nadeem-Shravan"
+      },
+      {
+        "question": "Shah Rukh Khan's film debut was in which 1992 movie?",
+        "options": [
+          "Deewana",
+          "Baazigar",
+          "Darr"
+        ],
+        "answer": "Deewana"
+      },
+      {
+        "question": "Who played Paro in Sanjay Leela Bhansali's Devdas (2002)?",
+        "options": [
+          "Aishwarya Rai",
+          "Madhuri Dixit",
+          "Kajol"
+        ],
+        "answer": "Aishwarya Rai"
+      },
+      {
+        "question": "Which festival is commonly chosen for major Bollywood film releases?",
+        "options": [
+          "Diwali",
+          "Holi",
+          "Raksha Bandhan"
+        ],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Who founded the production company Yash Raj Films?",
+        "options": [
+          "Yash Chopra",
+          "Karan Johar",
+          "Aditya Chopra"
+        ],
+        "answer": "Yash Chopra"
+      },
+      {
+        "question": "Which actor famously played villain Gabbar Singh in Sholay?",
+        "options": [
+          "Amjad Khan",
+          "Amrish Puri",
+          "Pran"
+        ],
+        "answer": "Amjad Khan"
+      },
+      {
+        "question": "Which actress of the 1950s is often remembered as one of Bollywood's earliest screen icons, known for her beauty?",
+        "options": [
+          "Madhubala",
+          "Vyjayanthimala",
+          "Meena Kumari"
+        ],
+        "answer": "Madhubala"
+      },
+      {
+        "question": "Which director is known for big-family romantic melodramas like Kuch Kuch Hota Hai?",
+        "options": [
+          "Karan Johar",
+          "Sanjay Leela Bhansali",
+          "Anurag Kashyap"
+        ],
+        "answer": "Karan Johar"
+      },
+      {
+        "question": "Which actress is affectionately nicknamed 'Bebo' in Bollywood?",
+        "options": [
+          "Kareena Kapoor",
+          "Katrina Kaif",
+          "Priyanka Chopra"
+        ],
+        "answer": "Kareena Kapoor"
+      },
+      {
+        "question": "Which 1987 film features the villain Mogambo and the famous line 'Mogambo khush hua'?",
+        "options": [
+          "Mr. India",
+          "Sholay",
+          "Karan Arjun"
+        ],
+        "answer": "Mr. India"
+      },
+      {
+        "question": "Which actor starred in the romantic comedy Barfi! (2012)?",
+        "options": [
+          "Ranbir Kapoor",
+          "Hrithik Roshan",
+          "Shahid Kapoor"
+        ],
+        "answer": "Ranbir Kapoor"
+      },
+      {
+        "question": "Which actress won the Miss World title before starting a Bollywood acting career?",
+        "options": [
+          "Aishwarya Rai",
+          "Sushmita Sen",
+          "Priyanka Chopra"
+        ],
+        "answer": "Aishwarya Rai"
+      },
+      {
+        "question": "Who played Rancho in the coming-of-age film 3 Idiots (2009)?",
+        "options": [
+          "Aamir Khan",
+          "Shah Rukh Khan",
+          "Salman Khan"
+        ],
+        "answer": "Aamir Khan"
+      },
+      {
+        "question": "Which 1992 film launched Akshay Kumar's 'Khiladi' action persona?",
+        "options": [
+          "Khiladi",
+          "Mohra",
+          "Main Khiladi Tu Anari"
+        ],
+        "answer": "Khiladi"
+      },
+      {
+        "question": "Which film marked Hrithik Roshan's debut in 2000 where he played a double role?",
+        "options": [
+          "Kaho Naa... Pyaar Hai",
+          "Kabhi Khushi Kabhie Gham",
+          "Koi... Mil Gaya"
+        ],
+        "answer": "Kaho Naa... Pyaar Hai"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Who directed the coming-of-age film Dil Chahta Hai (2001)?",
+        "options": [
+          "Farhan Akhtar",
+          "Karan Johar",
+          "Rajkumar Hirani"
+        ],
+        "answer": "Farhan Akhtar"
+      },
+      {
+        "question": "Which Indian film became the country's first Oscar nominee for Best Foreign Language Film?",
+        "options": [
+          "Mother India (1957)",
+          "Lagaan (2001)",
+          "Salaam Bombay! (1988)"
+        ],
+        "answer": "Mother India (1957)"
+      },
+      {
+        "question": "Which music duo composed the hugely popular Aashiqui soundtrack (1990)?",
+        "options": [
+          "Nadeem-Shravan",
+          "Jatin-Lalit",
+          "Anand-Milind"
+        ],
+        "answer": "Nadeem-Shravan"
+      },
+      {
+        "question": "Which 2003 film marked one of Priyanka Chopra's early Bollywood appearances?",
+        "options": [
+          "The Hero: Love Story of a Spy",
+          "Fashion",
+          "Barfi!"
+        ],
+        "answer": "The Hero: Love Story of a Spy"
+      },
+      {
+        "question": "Which actor won the National Film Award for Best Supporting Actor for Vicky Donor?",
+        "options": [
+          "Annu Kapoor",
+          "Ayushmann Khurrana",
+          "Yashpal Sharma"
+        ],
+        "answer": "Annu Kapoor"
+      },
+      {
+        "question": "Which filmmaker is known for directing Devdas (2002) and Bajirao Mastani (2015)?",
+        "options": [
+          "Sanjay Leela Bhansali",
+          "Karan Johar",
+          "Vishal Bhardwaj"
+        ],
+        "answer": "Sanjay Leela Bhansali"
+      },
+      {
+        "question": "Which actor directed and starred in Taare Zameen Par (2007)?",
+        "options": [
+          "Aamir Khan",
+          "Shah Rukh Khan",
+          "Salman Khan"
+        ],
+        "answer": "Aamir Khan"
+      },
+      {
+        "question": "Which choreographer won multiple National Awards and created iconic dances for Madhuri Dixit?",
+        "options": [
+          "Saroj Khan",
+          "Farah Khan",
+          "Prabhu Deva"
+        ],
+        "answer": "Saroj Khan"
+      },
+      {
+        "question": "Which 1993 film introduced the controversial song 'Choli Ke Peeche Kya Hai'?",
+        "options": [
+          "Khalnayak",
+          "Hum Aapke Hain Koun..!",
+          "Dil To Pagal Hai"
+        ],
+        "answer": "Khalnayak"
+      },
+      {
+        "question": "Which actress starred in the classic film Pakeezah (1972)?",
+        "options": [
+          "Meena Kumari",
+          "Nargis",
+          "Madhubala"
+        ],
+        "answer": "Meena Kumari"
+      },
+      {
+        "question": "Which 1988 film gave Madhuri Dixit her mainstream breakthrough?",
+        "options": [
+          "Tezaab",
+          "Hum Aapke Hain Koun..!",
+          "Dil"
+        ],
+        "answer": "Tezaab"
+      },
+      {
+        "question": "Which actor played Rahul in Kuch Kuch Hota Hai (1998)?",
+        "options": [
+          "Shah Rukh Khan",
+          "Aamir Khan",
+          "Salman Khan"
+        ],
+        "answer": "Shah Rukh Khan"
+      },
+      {
+        "question": "Who won the National Film Award for Best Actress for Queen (2014)?",
+        "options": [
+          "Kangana Ranaut",
+          "Deepika Padukone",
+          "Vidya Balan"
+        ],
+        "answer": "Kangana Ranaut"
+      },
+      {
+        "question": "Which director made his directorial debut with Khamoshi: The Musical (1996)?",
+        "options": [
+          "Sanjay Leela Bhansali",
+          "Anurag Kashyap",
+          "Vikramaditya Motwane"
+        ],
+        "answer": "Sanjay Leela Bhansali"
+      },
+      {
+        "question": "Which 1975 film reinforced Amitabh Bachchan's 'angry young man' screen persona?",
+        "options": [
+          "Deewar",
+          "Anand",
+          "Sholay"
+        ],
+        "answer": "Deewar"
+      },
+      {
+        "question": "Which composer duo created the score for Dilwale Dulhania Le Jayenge (1995)?",
+        "options": [
+          "Jatin-Lalit",
+          "Nadeem-Shravan",
+          "Shankar-Ehsaan-Loy"
+        ],
+        "answer": "Jatin-Lalit"
+      },
+      {
+        "question": "Who played the lead role in the blockbuster Bajrangi Bhaijaan (2015)?",
+        "options": [
+          "Salman Khan",
+          "Aamir Khan",
+          "Akshay Kumar"
+        ],
+        "answer": "Salman Khan"
+      },
+      {
+        "question": "Which actor starred opposite Shah Rukh Khan in Darr (1993)?",
+        "options": [
+          "Juhi Chawla",
+          "Kajol",
+          "Madhuri Dixit"
+        ],
+        "answer": "Juhi Chawla"
+      },
+      {
+        "question": "Which film was Karan Johar's directorial debut in 1998?",
+        "options": [
+          "Kuch Kuch Hota Hai",
+          "Kabhi Khushi Kabhie Gham",
+          "My Name Is Khan"
+        ],
+        "answer": "Kuch Kuch Hota Hai"
+      },
+      {
+        "question": "Which actor won widespread acclaim for his role in Paan Singh Tomar (2012)?",
+        "options": [
+          "Irrfan Khan",
+          "Nawazuddin Siddiqui",
+          "Rajkummar Rao"
+        ],
+        "answer": "Irrfan Khan"
+      },
+      {
+        "question": "Which actress starred opposite Shah Rukh Khan in Veer-Zaara (2004)?",
+        "options": [
+          "Preity Zinta",
+          "Rani Mukerji",
+          "Kareena Kapoor"
+        ],
+        "answer": "Preity Zinta"
+      },
+      {
+        "question": "Which film directed by Anurag Basu starred Ranbir Kapoor and Priyanka Chopra in 2012?",
+        "options": [
+          "Barfi!",
+          "Rockstar",
+          "Wake Up Sid"
+        ],
+        "answer": "Barfi!"
+      },
+      {
+        "question": "Which 2001 Aamir Khan film received an Academy Award nomination for Best Foreign Language Film?",
+        "options": [
+          "Lagaan",
+          "Dil Chahta Hai",
+          "Rang De Basanti"
+        ],
+        "answer": "Lagaan"
+      },
+      {
+        "question": "Which 2008 film starring Aamir Khan was a Hindi remake of a Tamil thriller and named Ghajini?",
+        "options": [
+          "Ghajini",
+          "Dhoom 2",
+          "Race"
+        ],
+        "answer": "Ghajini"
+      },
+      {
+        "question": "Which 1990s family drama's soundtrack became one of Bollywood's best-selling albums?",
+        "options": [
+          "Aashiqui",
+          "Dilwale Dulhania Le Jayenge",
+          "Hum Aapke Hain Koun..!"
+        ],
+        "answer": "Aashiqui"
+      },
+      {
+        "question": "Who played the title role in The Dirty Picture (2011)?",
+        "options": [
+          "Vidya Balan",
+          "Kareena Kapoor",
+          "Deepika Padukone"
+        ],
+        "answer": "Vidya Balan"
+      },
+      {
+        "question": "Who directed the coming-of-age drama Udaan (2010)?",
+        "options": [
+          "Vikramaditya Motwane",
+          "Anurag Kashyap",
+          "Karan Johar"
+        ],
+        "answer": "Vikramaditya Motwane"
+      },
+      {
+        "question": "Which 2013 Shah Rukh Khan film paired him with Deepika Padukone in a south-tinged comic adventure?",
+        "options": [
+          "Chennai Express",
+          "Yeh Jawaani Hai Deewani",
+          "Happy New Year"
+        ],
+        "answer": "Chennai Express"
+      },
+      {
+        "question": "Which actor received critical and award recognition for his role in The Lunchbox (2013)?",
+        "options": [
+          "Nawazuddin Siddiqui",
+          "Irrfan Khan",
+          "R. Madhavan"
+        ],
+        "answer": "Irrfan Khan"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which 1973 film written by Salim-Javed launched Amitabh Bachchan's 'angry young man' persona?",
+        "options": [
+          "Zanjeer",
+          "Abhimaan",
+          "Anand"
+        ],
+        "answer": "Zanjeer"
+      },
+      {
+        "question": "Which playback singer became the trademark voice for many of Raj Kapoor's on-screen songs?",
+        "options": [
+          "Mukesh",
+          "Kishore Kumar",
+          "Mohammed Rafi"
+        ],
+        "answer": "Mukesh"
+      },
+      {
+        "question": "Which film ran continuously for over 1000 weeks at Mumbai's Maratha Mandir theatre?",
+        "options": [
+          "Dilwale Dulhania Le Jayenge",
+          "Sholay",
+          "Mughal-e-Azam"
+        ],
+        "answer": "Dilwale Dulhania Le Jayenge"
+      },
+      {
+        "question": "Who was the cinematographer for the Oscar-nominated film Lagaan (2001)?",
+        "options": [
+          "Anil Mehta",
+          "Santosh Sivan",
+          "Ravi K. Chandran"
+        ],
+        "answer": "Anil Mehta"
+      },
+      {
+        "question": "Which Indian film star received the Padma Vibhushan award in 2015?",
+        "options": [
+          "Amitabh Bachchan",
+          "Shah Rukh Khan",
+          "Aamir Khan"
+        ],
+        "answer": "Amitabh Bachchan"
+      },
+      {
+        "question": "Which veteran duo wrote the screenplay for the blockbuster Sholay (1975)?",
+        "options": [
+          "Salim-Javed",
+          "Kader Khan and Anu Malik",
+          "Javed Akhtar and Salim Khan"
+        ],
+        "answer": "Salim-Javed"
+      },
+      {
+        "question": "Who choreographed the iconic duet 'Dola Re Dola' in Devdas (2002)?",
+        "options": [
+          "Saroj Khan",
+          "Farah Khan",
+          "Prabhudeva"
+        ],
+        "answer": "Saroj Khan"
+      },
+      {
+        "question": "Which actress won the National Film Award for Best Actress for her role in The Dirty Picture (2011)?",
+        "options": [
+          "Vidya Balan",
+          "Kangana Ranaut",
+          "Priyanka Chopra"
+        ],
+        "answer": "Vidya Balan"
+      },
+      {
+        "question": "Which director launched his career with the film Khamoshi: The Musical (1996)?",
+        "options": [
+          "Sanjay Leela Bhansali",
+          "Vishal Bhardwaj",
+          "Anurag Kashyap"
+        ],
+        "answer": "Sanjay Leela Bhansali"
+      },
+      {
+        "question": "Which Bollywood film's soundtrack was composed by R.D. Burman and remains a 1970s classic?",
+        "options": [
+          "Amar Prem",
+          "Sholay",
+          "Deewar"
+        ],
+        "answer": "Amar Prem"
+      },
+      {
+        "question": "Which actor made his mainstream Hindi film debut with Deewana (1992)?",
+        "options": [
+          "Shah Rukh Khan",
+          "Salman Khan",
+          "Aamir Khan"
+        ],
+        "answer": "Shah Rukh Khan"
+      },
+      {
+        "question": "Which actress performed the iconic dance number 'Ek Do Teen' that boosted her stardom?",
+        "options": [
+          "Madhuri Dixit",
+          "Meenakshi Seshadri",
+          "Sridevi"
+        ],
+        "answer": "Madhuri Dixit"
+      },
+      {
+        "question": "Which filmmaker made a notable cameo appearance in his film Dilwale Dulhania Le Jayenge?",
+        "options": [
+          "Aditya Chopra",
+          "Yash Chopra",
+          "Karan Johar"
+        ],
+        "answer": "Aditya Chopra"
+      },
+      {
+        "question": "Which 2016 film starring Aamir Khan became one of the highest-grossing Indian films worldwide?",
+        "options": [
+          "Dangal",
+          "PK",
+          "3 Idiots"
+        ],
+        "answer": "Dangal"
+      },
+      {
+        "question": "Which legendary actor played the father in the classic Pakeezah and died shortly after its release?",
+        "options": [
+          "None of the listed",
+          "Dilip Kumar",
+          "Ashok Kumar"
+        ],
+        "answer": "None of the listed"
+      },
+      {
+        "question": "Which music director was famously nicknamed 'Pancham' and revolutionized Bollywood scores?",
+        "options": [
+          "R.D. Burman",
+          "S.D. Burman",
+          "Laxmikant-Pyarelal"
+        ],
+        "answer": "R.D. Burman"
+      },
+      {
+        "question": "Which actor received a National Film Award for his portrayal in Paan Singh Tomar (2012)?",
+        "options": [
+          "Irrfan Khan",
+          "Nawazuddin Siddiqui",
+          "Rajkummar Rao"
+        ],
+        "answer": "Irrfan Khan"
+      },
+      {
+        "question": "Which actress won a National Award for playing a pregnant single mother in the film Kahaani? ",
+        "options": [
+          "Vidya Balan",
+          "Kangana Ranaut",
+          "Rani Mukerji"
+        ],
+        "answer": "Vidya Balan"
+      },
+      {
+        "question": "Which composer duo were behind the music of Dil Se and many 1990s hits?",
+        "options": [
+          "A. R. Rahman (solo)",
+          "Jatin-Lalit",
+          "A. R. Rahman and others"
+        ],
+        "answer": "A. R. Rahman (solo)"
+      },
+      {
+        "question": "Which actor's early career included a breakthrough role in the film Rang De Basanti (2006)?",
+        "options": [
+          "Aamir Khan",
+          "R. Madhavan",
+          "Shahid Kapoor"
+        ],
+        "answer": "R. Madhavan"
+      },
+      {
+        "question": "Which makeup artist won an Academy Award for their work on a film associated with Indian cinema?",
+        "options": [
+          "Bhanu Athaiya",
+          "Rekha",
+          "Nasir Hussain"
+        ],
+        "answer": "Bhanu Athaiya"
+      },
+      {
+        "question": "Which actor famously lip-synced to playback singer Kishore Kumar in many 1970s films?",
+        "options": [
+          "Rajesh Khanna",
+          "Amitabh Bachchan",
+          "Dev Anand"
+        ],
+        "answer": "Rajesh Khanna"
+      },
+      {
+        "question": "Which film directed by Anurag Basu starred Ranbir Kapoor as a mute and deaf hero?",
+        "options": [
+          "Barfi!",
+          "Rockstar",
+          "Wake Up Sid"
+        ],
+        "answer": "Barfi!"
+      },
+      {
+        "question": "Which 1990s director frequently collaborated with music duo Jatin-Lalit on romantic films?",
+        "options": [
+          "Aditya Chopra",
+          "Sanjay Leela Bhansali",
+          "Mahesh Bhatt"
+        ],
+        "answer": "Aditya Chopra"
+      },
+      {
+        "question": "Which actor produced and starred in the patriotic sports drama Lagaan?",
+        "options": [
+          "Aamir Khan",
+          "Shah Rukh Khan",
+          "Salman Khan"
+        ],
+        "answer": "Aamir Khan"
+      },
+      {
+        "question": "Which classical dancer turned actress played the tragic lead in Mughal-e-Azam's famous song sequences?",
+        "options": [
+          "Nargis",
+          "Madhubala",
+          "Mehtab"
+        ],
+        "answer": "Madhubala"
+      },
+      {
+        "question": "Which Bollywood actor made a marked global crossover with a role in the Hollywood film xXx: Return of Xander Cage?",
+        "options": [
+          "Deepika Padukone",
+          "Priyanka Chopra",
+          "Aishwarya Rai"
+        ],
+        "answer": "Deepika Padukone"
+      },
+      {
+        "question": "Which playback singer was paired most often with Dev Anand on-screen in the 1950s and 1960s?",
+        "options": [
+          "Mohammed Rafi",
+          "Kishore Kumar",
+          "Manna Dey"
+        ],
+        "answer": "Mohammed Rafi"
+      },
+      {
+        "question": "Which veteran actor was the lead in Guru Dutt's Pyaasa (1957), a landmark in Hindi cinema?",
+        "options": [
+          "Guru Dutt",
+          "Dev Anand",
+          "Dilip Kumar"
+        ],
+        "answer": "Guru Dutt"
+      },
+      {
+        "question": "Which cinematographer known for work across Indian cinema shot the visually rich film Black (2005)?",
+        "options": [
+          "Christopher Doyle",
+          "Anil Mehta",
+          "Ravi K. Chandran"
+        ],
+        "answer": "Ravi K. Chandran"
+      },
+      {
+        "question": "Which actor received the National Film Award for Best Actor for his performance in the biopic Bhaag Milkha Bhaag?",
+        "options": [
+          "Farhan Akhtar",
+          "Irrfan Khan",
+          "R. Madhavan"
+        ],
+        "answer": "Farhan Akhtar"
+      }
+    ]
+  }
+}

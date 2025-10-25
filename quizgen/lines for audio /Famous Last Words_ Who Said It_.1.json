@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which famous admiral is associated with the last line \"Kiss me, Hardy\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which famous mathematician's last words were \"Do not let us quarrel any longer\"?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who is attributed with the last words \"I shall hear in heaven\" referring to music and death?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who reportedly murmured \"I should never have switched from scotch to martinis\" as a humorous dying quip?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which English king said \"Remember for your good the blood you have shed this day\" before execution?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Irish playwright reportedly muttered \"Have I not made a great mistake?\" before dying, reflecting on his career?"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is reported to have said \"Either that wallpaper goes, or I do\" as last words?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which novelist reportedly said \"It is a far, far better rest that I go to than I have ever known\" at the moment of death?"
+    },
+    {
+      "question_id": 9,
+      "question": "Who reputedly said \"I am the resurrection and the life\" as last words during a well-documented final prayer?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who famously said \"Et tu, Brute?\" according to tradition?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who is reported to have said \"I am a dead man\" shortly before dying from an assassination?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who reportedly said \"I am going to the happiest place on earth\" referencing heaven as final words?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which American president said \"All my possessions for a moment of time\" reportedly at death?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which famous scientist's last words were \"I will not be in the way of the progress\" expressing optimism?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which composer said in Italian \"Pietà, pietà, mio Dio\" at the moment of death?"
+    }
+  ]
+}

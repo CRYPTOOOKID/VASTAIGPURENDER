@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which phobia is fear of clowns often associated with in popular culture?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which phobia refers to fear of hands causing avoidance of touching others?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which phobia is sometimes discussed in research as a misfiring evolutionary disgust mechanism?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which phobia refers to fear of fainting or dizziness?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which phobia describes fear of opera or theatrical performances in some individuals?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which treatment adapts exposure by using virtual environments for unusual phobia triggers?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which phobia is fear of loud or sudden noises often experienced in combat veterans?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which popular humorous phobia was created to critique irrational fears of long words?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which phobia was humorously popularized to critique irrational modern anxieties about devices?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which phobia name literally uses the Greek word for fear, 'phobos'?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which unusual phobia is the fear of peanut butter sticking to the roof of the mouth?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which phobia coined in 2008 highlighted anxieties tied to modern mobile connectivity?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is coulrophobia commonly defined as?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which therapy often pairs gradual exposure with cognitive restructuring for phobia treatment?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which phobia is documented as fear of swallowing pills or tablets in clinical reports?"
+    }
+  ]
+}

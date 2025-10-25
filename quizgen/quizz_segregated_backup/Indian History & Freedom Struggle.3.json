@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which leader founded the All India Muslim League in 1906?",
+      "options": [
+        "Nawab Salimullah of Dacca",
+        "Maulana Muhammad Ali Jauhar",
+        "Muhammad Ali Jinnah"
+      ],
+      "answer": "Nawab Salimullah of Dacca"
+    },
+    {
+      "question_id": 2,
+      "question": "Which 1935 act provided provincial autonomy and proposed an all-India federation subject to princely states?",
+      "options": [
+        "Government of India Act 1935",
+        "Indian Independence Act 1935",
+        "Montagu Reforms 1935"
+      ],
+      "answer": "Government of India Act 1935"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Mughal noble led the revolt in Awadh and became a central figure in 1857 under Nana Sahib?",
+      "options": [
+        "Begum Hazrat Mahal",
+        "Khana Sahib",
+        "Birjis Qadr"
+      ],
+      "answer": "Begum Hazrat Mahal"
+    },
+    {
+      "question_id": 4,
+      "question": "Which treaty in 1809 gave the British control over foreign affairs of the Nizam of Hyderabad?",
+      "options": [
+        "Subsidiary Alliance",
+        "Treaty of Hyderabad",
+        "Permanent Settlement"
+      ],
+      "answer": "Subsidiary Alliance"
+    },
+    {
+      "question_id": 5,
+      "question": "Which leader is known for the campaign against untouchability and led movements for Dalit rights?",
+      "options": [
+        "B. R. Ambedkar",
+        "Vinoba Bhave",
+        "Annie Besant"
+      ],
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question_id": 6,
+      "question": "Who was the first Indian to preside over the Indian National Congress session in 1888?",
+      "options": [
+        "Womesh Chunder Bonnerjee",
+        "Dadabhai Naoroji",
+        "Badruddin Tyabji"
+      ],
+      "answer": "Badruddin Tyabji"
+    },
+    {
+      "question_id": 7,
+      "question": "Who wrote the nationalist newspaper Kesari and was a prominent leader of the Extremist movement?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "Annie Besant"
+      ],
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question_id": 8,
+      "question": "Which 1877 proclamation by Queen Victoria promised to respect Indian rights after the 1857 rebellion?",
+      "options": [
+        "Proclamation of Queen Victoria",
+        "Charter Act of 1877",
+        "Delhi Proclamation"
+      ],
+      "answer": "Proclamation of Queen Victoria"
+    },
+    {
+      "question_id": 9,
+      "question": "Which 18th century treaty allowed British residency at Peshawar influencing Afghan politics later?",
+      "options": [
+        "Treaty of Amritsar",
+        "Treaty of Lahore",
+        "Treaty of Rawalpindi"
+      ],
+      "answer": "Treaty of Amritsar"
+    },
+    {
+      "question_id": 10,
+      "question": "Which leader popularized the slogan 'Swaraj is my birthright' in the early 20th century?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "B. R. Ambedkar",
+        "Gopal Krishna Gokhale"
+      ],
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question_id": 11,
+      "question": "Which city hosted the Cripps Mission negotiations in 1942 seeking Indian support during World War II?",
+      "options": [
+        "New Delhi",
+        "Bombay",
+        "Calcutta"
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question_id": 12,
+      "question": "Which province's peasant uprising in 1937 was led by the Tebhaga movement demanding two-thirds share for tenants?",
+      "options": [
+        "Bengal",
+        "Punjab",
+        "Madras"
+      ],
+      "answer": "Bengal"
+    },
+    {
+      "question_id": 13,
+      "question": "Which 1915 return of an expatriate leader revitalized Indian nationalism?",
+      "options": [
+        "Return of Mahatma Gandhi",
+        "Return of Subhas Chandra Bose",
+        "Return of Lala Lajpat Rai"
+      ],
+      "answer": "Return of Mahatma Gandhi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which leader started the Home Rule League in 1916 to demand self-government within the British Empire?",
+      "options": [
+        "Annie Besant",
+        "Bal Gangadhar Tilak",
+        "Both Annie Besant and Bal Gangadhar Tilak"
+      ],
+      "answer": "Both Annie Besant and Bal Gangadhar Tilak"
+    },
+    {
+      "question_id": 15,
+      "question": "Which act of 1833 abolished the East India Company's commercial activities, making it solely an administrative body?",
+      "options": [
+        "Charter Act of 1833",
+        "Regulating Act of 1773",
+        "Charter Act of 1813"
+      ],
+      "answer": "Charter Act of 1833"
+    }
+  ]
+}

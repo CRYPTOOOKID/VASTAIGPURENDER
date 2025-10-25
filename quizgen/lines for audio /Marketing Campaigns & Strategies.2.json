@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is remarketing (retargeting) used for?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which segmentation approach groups customers by purchase behavior?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which strategic framework helps define unique customer value and competitive differentiation?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which creative element captures attention first in most ads?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which technique reduces wasted ad spend by excluding uninterested audiences?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which data governance practice is critical for campaign measurement accuracy?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which metric measures how many people click an ad divided by impressions?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the primary benefit of persona development in campaigns?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which contractual model gives advertisers guaranteed delivery and fixed pricing?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which basic advertising format is native to a platform and matches its look?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which famous campaign repositioned Old Spice with humor in 2010?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advanced targeting uses propensity scores to predict purchase likelihood?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a key characteristic of integrated marketing communications?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does 'frequency capping' control in digital campaigns?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which advanced bidding leverages predicted incrementality rather than conversions?"
+    }
+  ]
+}

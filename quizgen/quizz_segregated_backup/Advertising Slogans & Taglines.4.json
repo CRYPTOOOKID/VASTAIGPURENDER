@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which burger chain used the tagline \"Have It Your Way\"?",
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "In-N-Out"
+      ],
+      "answer": "Burger King"
+    },
+    {
+      "question_id": 2,
+      "question": "Which brand used \"The Ultimate Driving Machine\" to emphasize performance?",
+      "options": [
+        "BMW",
+        "Mercedes-Benz",
+        "Lexus"
+      ],
+      "answer": "BMW"
+    },
+    {
+      "question_id": 3,
+      "question": "Which slogan launched in 1993 as a question to boost milk consumption?",
+      "options": [
+        "Got Milk?",
+        "Milk Matters?",
+        "Need Milk?"
+      ],
+      "answer": "Got Milk?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which insurer uses \"Like a good neighbor, State Farm is there\"?",
+      "options": [
+        "Geico",
+        "Progressive",
+        "State Farm"
+      ],
+      "answer": "State Farm"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote the famous line \"A diamond is forever\" for De Beers?",
+      "options": [
+        "Frances Gerety",
+        "Mary Wells",
+        "Rosser Reeves"
+      ],
+      "answer": "Frances Gerety"
+    },
+    {
+      "question_id": 6,
+      "question": "Whose last words inspired Dan Wieden to coin \"Just Do It\" for Nike?",
+      "options": [
+        "Ted Bundy",
+        "Gary Gilmore",
+        "John Hinckley"
+      ],
+      "answer": "Gary Gilmore"
+    },
+    {
+      "question_id": 7,
+      "question": "Which beauty brand uses \"Because You're Worth It\"?",
+      "options": [
+        "Maybelline",
+        "L'Oréal",
+        "CoverGirl"
+      ],
+      "answer": "L'Oréal"
+    },
+    {
+      "question_id": 8,
+      "question": "Which beverage brand once used the classic line \"The Pause That Refreshes\"?",
+      "options": [
+        "Coca-Cola",
+        "Pepsi",
+        "7-Up"
+      ],
+      "answer": "Coca-Cola"
+    },
+    {
+      "question_id": 9,
+      "question": "Which famous tagline was created by an agency to capitalize on being second in market share?",
+      "options": [
+        "We Try Harder (Avis)",
+        "Have It Your Way (Burger King)",
+        "Open Happiness (Coca-Cola)"
+      ],
+      "answer": "We Try Harder (Avis)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which fast-food chain uses \"Finger Lickin' Good\"?",
+      "options": [
+        "KFC",
+        "Chick-fil-A",
+        "Popeyes"
+      ],
+      "answer": "KFC"
+    },
+    {
+      "question_id": 11,
+      "question": "Which home product used a superlative slogan claiming quick cleanup superiority?",
+      "options": [
+        "Bounty",
+        "Swiffer",
+        "Mr. Clean"
+      ],
+      "answer": "Bounty"
+    },
+    {
+      "question_id": 12,
+      "question": "Which slogan's origin story involves a copywriter reacting to a client brief about desire and worth?",
+      "options": [
+        "Because You're Worth It",
+        "A diamond is forever",
+        "Melts in your mouth, not in your hands"
+      ],
+      "answer": "Because You're Worth It"
+    },
+    {
+      "question_id": 13,
+      "question": "Which automaker uses the German slogan \"Vorsprung durch Technik\"?",
+      "options": [
+        "Volkswagen",
+        "Audi",
+        "BMW"
+      ],
+      "answer": "Audi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company introduced the global tagline \"Open Happiness\"?",
+      "options": [
+        "Pepsi",
+        "Coca-Cola",
+        "Dr Pepper"
+      ],
+      "answer": "Coca-Cola"
+    },
+    {
+      "question_id": 15,
+      "question": "Which brand's slogan translates roughly as \"Progress through Technology\"?",
+      "options": [
+        "Vorsprung durch Technik (Audi)",
+        "Viva la Tecnologia (Fiat)",
+        "Ingenium per Technica (BMW)"
+      ],
+      "answer": "Vorsprung durch Technik (Audi)"
+    }
+  ]
+}

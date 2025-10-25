@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which fort in Rajasthan is built on a hill and famed for its palaces?",
+      "options": [
+        "Kumbhalgarh Fort",
+        "Amber Fort",
+        "Mehrangarh Fort"
+      ],
+      "answer": "Amber Fort"
+    },
+    {
+      "question_id": 2,
+      "question": "Which hilltop fortress in Jhansi symbolizes Rani Lakshmibai's defence in 1857?",
+      "options": [
+        "Jhansi Fort",
+        "Gwalior Fort",
+        "Kalpi Fort"
+      ],
+      "answer": "Jhansi Fort"
+    },
+    {
+      "question_id": 3,
+      "question": "Which marble inlay style at Agra uses precious stones like lapis and jasper?",
+      "options": [
+        "Repoussé",
+        "Intaglio carving",
+        "Pietra dura"
+      ],
+      "answer": "Pietra dura"
+    },
+    {
+      "question_id": 4,
+      "question": "Which rock-cut site near Mumbai is known for Hindu cave temples on an island?",
+      "options": [
+        "Kanheri Caves",
+        "Karla Caves",
+        "Elephanta Caves"
+      ],
+      "answer": "Elephanta Caves"
+    },
+    {
+      "question_id": 5,
+      "question": "Which architect is commonly credited with designing the Taj Mahal?",
+      "options": [
+        "Mirak Mirza Ghiyas",
+        "Ustad Ahmad Lahauri",
+        "William Emerson"
+      ],
+      "answer": "Ustad Ahmad Lahauri"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Vijayanagara monument contains stone pillars that emit tuned musical notes?",
+      "options": [
+        "Vittala Temple",
+        "Virupaksha Temple",
+        "Lotus Mahal"
+      ],
+      "answer": "Vittala Temple"
+    },
+    {
+      "question_id": 7,
+      "question": "Which monument is famously called the Sun Temple at Konark?",
+      "options": [
+        "Lingaraja Temple",
+        "The Black Pagoda",
+        "Jagannath Temple"
+      ],
+      "answer": "The Black Pagoda"
+    },
+    {
+      "question_id": 8,
+      "question": "Which southern temple complex is a UNESCO site titled 'Great Living Chola Temples'?",
+      "options": [
+        "Ramanathaswamy complex",
+        "Brihadeeswarar and related temples",
+        "Meenakshi complex"
+      ],
+      "answer": "Brihadeeswarar and related temples"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian monument's central dome is encircled by four minarets that tilt outward slightly?",
+      "options": [
+        "Taj Mahal",
+        "Itmad-ud-Daulah",
+        "Humayun's Tomb"
+      ],
+      "answer": "Taj Mahal"
+    },
+    {
+      "question_id": 10,
+      "question": "In which Indian city is the Red Fort located?",
+      "options": [
+        "New Delhi",
+        "Lucknow",
+        "Agra"
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question_id": 11,
+      "question": "Which British-era building in Kolkata blends Indo-Saracenic and classical European styles?",
+      "options": [
+        "Victoria Memorial",
+        "Writers' Building",
+        "St. John's Church"
+      ],
+      "answer": "Victoria Memorial"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Mughal monument's Quranic calligraphy was executed by Amanat Khan according to some sources?",
+      "options": [
+        "Taj Mahal",
+        "Humayun's Tomb",
+        "Jama Masjid"
+      ],
+      "answer": "Taj Mahal"
+    },
+    {
+      "question_id": 13,
+      "question": "Which monument features a musical stone chariot in Hampi?",
+      "options": [
+        "Vittala Temple",
+        "Virupaksha Temple",
+        "Hemakuta Hill Temple"
+      ],
+      "answer": "Vittala Temple"
+    },
+    {
+      "question_id": 14,
+      "question": "Which 16th-century city contains the famous bulbous-domed Itmad-ud-Daulah tomb?",
+      "options": [
+        "Jaipur",
+        "Delhi",
+        "Agra"
+      ],
+      "answer": "Agra"
+    },
+    {
+      "question_id": 15,
+      "question": "Which cave complex's paintings include the famous Ajanta panel showing Prince Siddhartha's life?",
+      "options": [
+        "Ellora Caves",
+        "Bagh Caves",
+        "Ajanta Caves"
+      ],
+      "answer": "Ajanta Caves"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which year did the Spanish Armada attempt to invade England?",
+      "options": [
+        "1588",
+        "1642",
+        "1707"
+      ],
+      "answer": "1588"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did the English Bill of Rights become law, shaping constitutional monarchy?",
+      "options": [
+        "1689",
+        "1660",
+        "1701"
+      ],
+      "answer": "1689"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did the Zanj Rebellion, a major slave uprising in Basra, begin?",
+      "options": [
+        "869",
+        "861",
+        "880"
+      ],
+      "answer": "869"
+    },
+    {
+      "question_id": 4,
+      "question": "What year did the Roman Empire traditionally fall with the deposition of Romulus Augustulus?",
+      "options": [
+        "476",
+        "410",
+        "1453"
+      ],
+      "answer": "476"
+    },
+    {
+      "question_id": 5,
+      "question": "What year did the Meiji Restoration begin transforming Japan into a modern state?",
+      "options": [
+        "1868",
+        "1853",
+        "1877"
+      ],
+      "answer": "1868"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did the Anglo-Zanzibar War occur, often cited as the shortest war in history?",
+      "options": [
+        "1896",
+        "1884",
+        "1900"
+      ],
+      "answer": "1896"
+    },
+    {
+      "question_id": 7,
+      "question": "Which year did the Suez Canal open, transforming global trade routes?",
+      "options": [
+        "1869",
+        "1798",
+        "1914"
+      ],
+      "answer": "1869"
+    },
+    {
+      "question_id": 8,
+      "question": "In which year did the Bolsheviks sign the Treaty of Brest-Litovsk, exiting World War I?",
+      "options": [
+        "1918",
+        "1917",
+        "1920"
+      ],
+      "answer": "1918"
+    },
+    {
+      "question_id": 9,
+      "question": "In what year did the First Crusade's avenue of pilgrimage and military campaigns formally begin with Pope Urban II's call?",
+      "options": [
+        "1095",
+        "1096",
+        "1101"
+      ],
+      "answer": "1095"
+    },
+    {
+      "question_id": 10,
+      "question": "What year marks the beginning of the Renaissance often used by historians (fall of Constantinople)?",
+      "options": [
+        "1453",
+        "1300",
+        "1517"
+      ],
+      "answer": "1453"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Spanish Civil War begin, a precursor to broader European conflicts?",
+      "options": [
+        "1936",
+        "1933",
+        "1939"
+      ],
+      "answer": "1936"
+    },
+    {
+      "question_id": 12,
+      "question": "When did Charlemagne get crowned Emperor by the Pope, reviving the Roman imperial title in the West?",
+      "options": [
+        "800",
+        "814",
+        "793"
+      ],
+      "answer": "800"
+    },
+    {
+      "question_id": 13,
+      "question": "What year did the Protestant English king Henry VIII break with Rome establishing the Church of England?",
+      "options": [
+        "1534",
+        "1517",
+        "1558"
+      ],
+      "answer": "1534"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Chinese Communist Party proclaim the People's Republic of China?",
+      "options": [
+        "1949",
+        "1937",
+        "1958"
+      ],
+      "answer": "1949"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did Constantine I issue the first civil recognition of Christianity in the Roman Empire?",
+      "options": [
+        "313",
+        "306",
+        "330"
+      ],
+      "answer": "313"
+    }
+  ]
+}

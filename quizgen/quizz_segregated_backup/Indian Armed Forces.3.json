@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who leads the tri-service integration as a permanent chief post-2019?",
+      "options": [
+        "Chief of Defence Staff",
+        "Chief of Army Staff",
+        "Chief of Naval Staff"
+      ],
+      "answer": "Chief of Defence Staff"
+    },
+    {
+      "question_id": 2,
+      "question": "Which defence public sector unit manufactures aircraft like Tejas components in India?",
+      "options": [
+        "Hindustan Aeronautics Limited",
+        "Bharat Electronics Limited",
+        "Bharat Earth Movers Limited"
+      ],
+      "answer": "Hindustan Aeronautics Limited"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historic brigade famously defended Longewala post during the 1971 war with minimal forces?",
+      "options": [
+        "14th Punjab and supporting units at Longewala",
+        "3rd Gorkha Rifles",
+        "1st Armoured Brigade only"
+      ],
+      "answer": "14th Punjab and supporting units at Longewala"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the name of India's indigenous light combat aircraft developed by HAL?",
+      "options": [
+        "Tejas",
+        "Jaguar",
+        "Mirage"
+      ],
+      "answer": "Tejas"
+    },
+    {
+      "question_id": 5,
+      "question": "Which historical 1962 conflict involved large-scale combat with China?",
+      "options": [
+        "Sino-Indian War",
+        "Indo-Pakistani War",
+        "1971 War"
+      ],
+      "answer": "Sino-Indian War"
+    },
+    {
+      "question_id": 6,
+      "question": "Which officer is the only Indian Air Force officer elevated to Marshal of the Air Force?",
+      "options": [
+        "Arjan Singh",
+        "Subroto Mukerjee",
+        "Aspy Engineer"
+      ],
+      "answer": "Arjan Singh"
+    },
+    {
+      "question_id": 7,
+      "question": "Which day marks Indian Air Force Day each year?",
+      "options": [
+        "8 October",
+        "26 January",
+        "15 August"
+      ],
+      "answer": "8 October"
+    },
+    {
+      "question_id": 8,
+      "question": "Which missile family provides India's strategic land-based nuclear delivery capability?",
+      "options": [
+        "Agni series",
+        "Prithvi only",
+        "BrahMos series"
+      ],
+      "answer": "Agni series"
+    },
+    {
+      "question_id": 9,
+      "question": "Which operation in 1961 integrated Goa into India with naval and land components?",
+      "options": [
+        "Operation Vijay (1961)",
+        "Operation Flood",
+        "Operation Trident"
+      ],
+      "answer": "Operation Vijay (1961)"
+    },
+    {
+      "question_id": 10,
+      "question": "Who is the constitutional Supreme Commander of the Indian Armed Forces?",
+      "options": [
+        "President of India",
+        "Prime Minister of India",
+        "Chief of Defence Staff"
+      ],
+      "answer": "President of India"
+    },
+    {
+      "question_id": 11,
+      "question": "Which class of submarine is INS Arihant part of, representing India's SSBN capability?",
+      "options": [
+        "Arihant-class",
+        "Kilo-class",
+        "Sindhughosh-class"
+      ],
+      "answer": "Arihant-class"
+    },
+    {
+      "question_id": 12,
+      "question": "Which regiment is credited with the first ever Param Vir Chakra awarded post-independence?",
+      "options": [
+        "1 Kumaon (Major Somnath Sharma belonged to 4 Kumaon/was on attachment)",
+        "3 Gorkha Rifles",
+        "2 Rajputana Rifles"
+      ],
+      "answer": "1 Kumaon (Major Somnath Sharma belonged to 4 Kumaon/was on attachment)"
+    },
+    {
+      "question_id": 13,
+      "question": "What does IAF stand for in the Indian context?",
+      "options": [
+        "Indian Air Force",
+        "Institute of Armed Forces",
+        "Indian Armoured Fleet"
+      ],
+      "answer": "Indian Air Force"
+    },
+    {
+      "question_id": 14,
+      "question": "Which arm of Indian services handles electronic warfare and communications?",
+      "options": [
+        "Army Signals Corps",
+        "Corps of Engineers",
+        "Army Medical Corps"
+      ],
+      "answer": "Army Signals Corps"
+    },
+    {
+      "question_id": 15,
+      "question": "Which operation marked the first major Indian naval blockade and air-sea strikes against Karachi in 1971?",
+      "options": [
+        "Operation Trident (and follow-up Operation Python)",
+        "Operation Cactus",
+        "Operation Pawan"
+      ],
+      "answer": "Operation Trident (and follow-up Operation Python)"
+    }
+  ]
+}

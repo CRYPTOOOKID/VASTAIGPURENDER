@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which award recognizes bravery during peacetime in India?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which famous 1999 conflict was primarily fought along high-altitude Kargil heights?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian Army operation recaptured Kargil heights during 1999 under combined infantry and artillery effort?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which force is primarily responsible for aerial defence of India?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which programme produced the Light Combat Aircraft inducted into the IAF?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which missile is a joint India-Russia supersonic cruise missile deployed by Army and Navy?"
+    },
+    {
+      "question_id": 7,
+      "question": "Where is the National Defence Academy located?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which indigenous main battle tank was developed by DRDO and produced at Avadi?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which platform provides India's nuclear second-strike sea capability via ballistic missiles?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which major war in 1971 resulted in creation of Bangladesh with Indian involvement?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who was the first recipient of the Param Vir Chakra in post-independence India?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which coastal missile system co-developed by India and Russia is ship- and coastal-launch capable?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which day is celebrated as Indian Army Day each year?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Indian Air Force helicopter is widely used for heavy-lift operations?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which shipyard built India's first indigenous aircraft carrier INS Vikrant (IAC-1)?"
+    }
+  ]
+}

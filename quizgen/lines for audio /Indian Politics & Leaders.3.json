@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which leader is most associated with non-violent independence struggle?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which leader signed the Indo-Soviet Treaty of Peace and Friendship in 1971?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Indian leader negotiated and oversaw accession of Hyderabad state in 1948?"
+    },
+    {
+      "question_id": 4,
+      "question": "Who delivered India’s 'Tryst with Destiny' speech on independence night?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which political event triggered the Emergency declaration in India in 1975?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who was the first Chief Minister of Andhra Pradesh after its 1956 reorganization?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which party led India through most of the early decades after independence?"
+    },
+    {
+      "question_id": 8,
+      "question": "Who became India’s first Dalit President in 1997?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Indian leader played a central role in integrating princely states alongside V. P. Menon?"
+    },
+    {
+      "question_id": 10,
+      "question": "Who served as Prime Minister during the 1991 economic reforms?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who served as President of India from 2007 to 2012?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indian leader created the office of the National Human Rights Commission in 1993?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which body conducts national elections in India?"
+    },
+    {
+      "question_id": 14,
+      "question": "Who became the first Chief Minister of Delhi after the 1951 elections?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which President returned a bill for reconsideration to Parliament in the 1980s?"
+    }
+  ]
+}

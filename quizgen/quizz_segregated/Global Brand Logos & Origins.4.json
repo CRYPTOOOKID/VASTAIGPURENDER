@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which fashion brand shows a small crocodile as its emblem?",
+      "options": [
+        "Calvin Klein",
+        "Ralph Lauren",
+        "Lacoste"
+      ],
+      "answer": "Lacoste"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company first used the term 'trefoil' to refer to its three-leaf logo?",
+      "options": [
+        "Adidas",
+        "Puma",
+        "Reebok"
+      ],
+      "answer": "Adidas"
+    },
+    {
+      "question_id": 3,
+      "question": "Which small German company merged into Auto Union that inspired Audi's rings?",
+      "options": [
+        "BMW",
+        "Opel",
+        "DKW"
+      ],
+      "answer": "DKW"
+    },
+    {
+      "question_id": 4,
+      "question": "Which fried chicken brand features Colonel Sanders' portrait as a logo?",
+      "options": [
+        "KFC",
+        "Church's Chicken",
+        "Popeyes"
+      ],
+      "answer": "KFC"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Italian marque's prancing horse emblem came from a WWI pilot's insignia?",
+      "options": [
+        "Maserati",
+        "Ferrari",
+        "Alfa Romeo"
+      ],
+      "answer": "Ferrari"
+    },
+    {
+      "question_id": 6,
+      "question": "Which automaker's emblem incorporated the Bavarian flag colors leading to a roundel myth?",
+      "options": [
+        "BMW",
+        "Mercedes-Benz",
+        "Audi"
+      ],
+      "answer": "BMW"
+    },
+    {
+      "question_id": 7,
+      "question": "Which company uses a bitten apple as its logo?",
+      "options": [
+        "Microsoft",
+        "Samsung",
+        "Apple"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 8,
+      "question": "Which brand's iconic letters originally had irregular baselines and playful colors?",
+      "options": [
+        "Etsy",
+        "eBay",
+        "Amazon"
+      ],
+      "answer": "eBay"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company's logo story involves brothers Adi and Rudolf Dassler splitting to create two sports brands?",
+      "options": [
+        "Adidas",
+        "New Balance",
+        "Reebok"
+      ],
+      "answer": "Adidas"
+    },
+    {
+      "question_id": 10,
+      "question": "Which carmaker uses a three-pointed star as its emblem?",
+      "options": [
+        "BMW",
+        "Mercedes-Benz",
+        "Audi"
+      ],
+      "answer": "Mercedes-Benz"
+    },
+    {
+      "question_id": 11,
+      "question": "Which brand's founder was Harland David Sanders, shown in the logo?",
+      "options": [
+        "Church's Chicken",
+        "Popeyes",
+        "KFC"
+      ],
+      "answer": "KFC"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company's rebrand in 2000 introduced an arrow-smile connecting A to Z on its logo?",
+      "options": [
+        "Barnes & Noble",
+        "Amazon",
+        "Alibris"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 13,
+      "question": "Which footwear brand features a leaping big cat as its logo?",
+      "options": [
+        "Converse",
+        "Nike",
+        "Puma"
+      ],
+      "answer": "Puma"
+    },
+    {
+      "question_id": 14,
+      "question": "What was Apple's original 1976 logo featuring Isaac Newton created by?",
+      "options": [
+        "Jony Ive",
+        "Ronald Wayne",
+        "Steve Jobs"
+      ],
+      "answer": "Ronald Wayne"
+    },
+    {
+      "question_id": 15,
+      "question": "Which classic chocolate brand uses a mountain silhouette and triangular logo for origin recognition?",
+      "options": [
+        "Toblerone",
+        "Lindt",
+        "Milka"
+      ],
+      "answer": "Toblerone"
+    }
+  ]
+}

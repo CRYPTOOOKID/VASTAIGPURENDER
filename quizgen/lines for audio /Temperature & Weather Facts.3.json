@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which single-letter symbol commonly marks a low-pressure center on surface maps?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which meteorological term describes how temperature changes with altitude in the troposphere?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which type of humidity sensor often used on radiosondes senses moisture via a thin polymer film?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which atmospheric layer contains most of Earth’s weather phenomena?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the commonly quoted average environmental lapse rate in the troposphere?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which index combines vertical wind shear with instability to evaluate tornado potential?"
+    },
+    {
+      "question_id": 7,
+      "question": "What process cools surfaces because liquid water evaporates into the air?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which satellite type remains fixed relative to Earth's rotation to monitor weather continuously?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which mechanism creates noctilucent clouds high in the mesosphere during summer twilight?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which cloud type often appears fluffy and indicates fair weather?"
+    },
+    {
+      "question_id": 11,
+      "question": "What does the term albedo quantify about Earth's surface?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which instrument measures atmospheric electric field variations associated with thunderstorm charge separation?"
+    },
+    {
+      "question_id": 13,
+      "question": "What term describes long-term average weather for a region?"
+    },
+    {
+      "question_id": 14,
+      "question": "What does the Saffir-Simpson scale classify regarding tropical cyclones?"
+    },
+    {
+      "question_id": 15,
+      "question": "Why is the 500 hPa geopotential height field important in synoptic meteorology?"
+    }
+  ]
+}

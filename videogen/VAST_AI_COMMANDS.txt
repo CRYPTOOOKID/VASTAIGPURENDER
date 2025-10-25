@@ -1,0 +1,274 @@
+================================================================================
+VAST.AI GPU INSTANCE - COMPLETE SETUP & RENDER COMMANDS
+================================================================================
+
+STEP 1: CONNECT TO YOUR VAST.AI INSTANCE
+================================================================================
+# Get SSH command from your Vast.ai dashboard and connect:
+ssh -p <YOUR_PORT> root@<YOUR_IP>
+
+
+STEP 2: ONE-TIME SYSTEM SETUP (Run once after connecting)
+================================================================================
+# Update system
+apt-get update
+
+# Install Node.js 20
+curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+apt-get install -y nodejs
+
+# Install Chromium dependencies for GPU rendering
+apt-get install -y \
+    libglib2.0-0 libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 \
+    libcups2 libdrm2 libdbus-1-3 libxkbcommon0 libxcomposite1 \
+    libxdamage1 libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 \
+    libcairo2 libasound2 libatspi2.0-0 libxshmfence1 \
+    libgl1 libglu1-mesa mesa-utils xvfb git rsync
+
+# Verify NVIDIA GPU is accessible
+nvidia-smi
+
+# If nvidia-smi command not found, install drivers:
+# apt-get install -y nvidia-driver-535
+# reboot  # Reboot after driver installation
+
+
+STEP 3: CLONE YOUR PROJECT
+================================================================================
+# Clone your repository (replace with your actual repo URL)
+git clone <YOUR_REPO_URL>
+
+# Navigate to videogen directory
+cd "Projects /Quiz Channel 2.0/videogen"
+
+# Install npm dependencies
+npm install
+
+# This will take a few minutes...
+
+
+STEP 4: VERIFY GPU ACCESS
+================================================================================
+# Check GPU status
+nvidia-smi
+
+# You should see something like:
+# GPU Name: (your GPU)
+# Memory: X.X GB / 31.8 GB
+# Processes: (any running processes)
+
+
+STEP 5: TEST RENDER (IMPORTANT - DO THIS FIRST!)
+================================================================================
+# Show progress summary
+npm run render:master -- --summary
+
+# Render ONE test video
+npm run render:master -- --one
+
+# This will take 30-60 seconds. Watch for:
+# - "Starting render..." message
+# - Progress percentage
+# - "✅ Render completed successfully!" at the end
+
+# Verify the output
+ls -lh out/*.mp4
+
+# Check video details (optional)
+# apt-get install -y ffmpeg
+# ffmpeg -i out/<video-name>.mp4
+
+
+STEP 6: IF TEST PASSES - RENDER ALL VIDEOS
+================================================================================
+# Reset any stuck videos (optional, good practice)
+npm run render:master -- --reset
+
+# Start rendering ALL videos (430 total)
+npm run render:master -- --all
+
+# When prompted "Proceed with rendering all X quizzes? (yes/no):"
+# Type: yes
+
+# This will:
+# - Render 2 videos in parallel
+# - Take approximately 14-28 hours total
+# - Use GPU acceleration
+# - Save all videos to out/ directory
+
+
+STEP 7: MONITOR PROGRESS (While Rendering)
+================================================================================
+# Open a new SSH terminal (keep the render running in the first one)
+ssh -p <YOUR_PORT> root@<YOUR_IP>
+cd "Projects /Quiz Channel 2.0/videogen"
+
+# Check progress summary
+npm run render:master -- --summary
+
+# Watch GPU usage in real-time (Ctrl+C to exit)
+watch -n 1 nvidia-smi
+
+# Count rendered videos
+ls out/*.mp4 | wc -l
+
+# Check disk space
+df -h
+
+# Monitor CPU usage (install htop first)
+apt-get install -y htop
+htop
+
+
+STEP 8: DOWNLOAD VIDEOS TO YOUR LOCAL MACHINE
+================================================================================
+# OPTION A: Download from your LOCAL machine (Recommended)
+# Run this command on YOUR LOCAL MACHINE (not on Vast.ai):
+
+mkdir -p ~/Desktop/rendered-videos
+
+rsync -avz --progress -e "ssh -p <VAST_PORT>" \
+    root@<VAST_IP>:'"/root/Projects /Quiz Channel 2.0/videogen/out/"' \
+    ~/Desktop/rendered-videos/
+
+
+# OPTION B: Download incrementally (only new files)
+# Run this periodically while rendering is in progress:
+
+rsync -avz --progress --update -e "ssh -p <VAST_PORT>" \
+    root@<VAST_IP>:'"/root/Projects /Quiz Channel 2.0/videogen/out/"' \
+    ~/Desktop/rendered-videos/
+
+
+# OPTION C: Download in background loop (every 30 minutes)
+# Create a file called sync-videos.sh on your local machine:
+
+#!/bin/bash
+while true; do
+    rsync -avz --progress --update -e "ssh -p <VAST_PORT>" \
+        root@<VAST_IP>:'"/root/Projects /Quiz Channel 2.0/videogen/out/"' \
+        ~/Desktop/rendered-videos/
+    echo "✅ Sync complete at $(date). Waiting 30 minutes..."
+    sleep 1800
+done
+
+# Make it executable and run:
+chmod +x sync-videos.sh
+./sync-videos.sh
+
+
+STEP 9: WHEN RENDERING COMPLETES
+================================================================================
+# 1. Check final summary
+npm run render:master -- --summary
+
+# 2. Count total videos
+ls out/*.mp4 | wc -l
+
+# 3. Check total size
+du -sh out/
+
+# 4. Download all videos to your local machine (if not done already)
+# Use the rsync command from STEP 8
+
+# 5. STOP THE VAST.AI INSTANCE to avoid charges
+# Go to Vast.ai dashboard and click "Destroy Instance"
+# ONLY do this after you've downloaded all videos!
+
+
+TROUBLESHOOTING
+================================================================================
+# GPU not being used:
+glxinfo | grep "OpenGL"
+nvidia-smi
+
+# Rendering fails:
+npm run render:master -- --reset
+npm run render:master -- --one
+
+# Check logs:
+cat ~/.remotion/logs/*.log
+
+# Out of memory:
+free -h
+# Consider reducing parallel renders to 1 in masterRender.ts
+
+# Disk full:
+df -h
+# Clear space or expand storage
+
+# Network issues:
+ping google.com
+speedtest-cli  # Install with: apt-get install -y speedtest-cli
+
+
+USEFUL COMMANDS
+================================================================================
+# Stop a running render (Ctrl+C in the terminal)
+
+# Resume render after stopping:
+npm run render:master -- --all
+
+# Check instance uptime and cost:
+uptime
+# Check Vast.ai dashboard for current charges
+
+# Clear old renders (BE CAREFUL!):
+# rm -rf out/*.mp4  # Only if you've downloaded them!
+
+# Disconnect from SSH but keep render running:
+# Use screen or tmux:
+screen -S render
+npm run render:master -- --all
+# Press Ctrl+A then D to detach
+# Reconnect with: screen -r render
+
+
+EXPECTED PERFORMANCE & COSTS
+================================================================================
+Render Speed: ~30-60 seconds per video (with GPU)
+Parallel Renders: 2 videos at a time
+Total Videos: 430
+Estimated Time: 14-28 hours
+
+Instance Cost: ~$0.50-1.00 per hour
+Total Cost: ~$7-28 for complete render
+
+Network Speed: Up to 7441 Mbps
+Download Time: 2-6 hours (depends on total video size)
+
+
+QUICK REFERENCE
+================================================================================
+Connect:        ssh -p <PORT> root@<IP>
+Test:           npm run render:master -- --one
+Render All:     npm run render:master -- --all
+Progress:       npm run render:master -- --summary
+GPU Status:     nvidia-smi
+Reset Stuck:    npm run render:master -- --reset
+Download:       rsync -avz --progress -e "ssh -p <PORT>" \
+                  root@<IP>:"/root/Projects /Quiz Channel 2.0/videogen/out/" \
+                  ~/Desktop/rendered-videos/
+
+
+IMPORTANT REMINDERS
+================================================================================
+1. ALWAYS run test render first (--one)
+2. ALWAYS download videos before destroying instance
+3. ALWAYS stop instance when done to avoid charges
+4. Monitor disk space during rendering
+5. Keep SSH connection alive (or use screen/tmux)
+6. Backup downloaded videos locally
+
+
+SUPPORT
+================================================================================
+If issues occur:
+1. Check troubleshooting section above
+2. Verify GPU access with nvidia-smi
+3. Check logs: cat ~/.remotion/logs/*.log
+4. Try single video render first: npm run render:master -- --one
+5. Check Vast.ai instance status in dashboard
+
+================================================================================
+

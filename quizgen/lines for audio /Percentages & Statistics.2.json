@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What single-word term describes a systematic deviation or consistent error introduced in measurement or sampling?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which rank-based correlation coefficient measures the strength of a monotonic relationship between two variables?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test assesses the equality of variances across groups and is commonly used prior to comparing group means?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which statistic commonly denotes strength of evidence against a null hypothesis in many hypothesis tests?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fundamental theorem explains why sample means approximate a normal distribution as sample size grows large?"
+    },
+    {
+      "question_id": 6,
+      "question": "Who introduced the boxplot in exploratory data analysis to summarize distribution shape and identify outliers visually?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which general term denotes how widely values in a dataset are spread or dispersed around a central value?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which mean is most appropriate for averaging rates such as speeds when equal-distance segments are considered?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which nonparametric test compares survival distributions between groups using observed-versus-expected event counts over time?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which plot best visualizes the relationship between two quantitative variables as plotted points?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Victorian-era scientist introduced early ideas about regression toward the mean and anthropometric studies?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which estimator property ensures estimates converge in probability to the true parameter value as sample size increases?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which basic measure describes the difference between the maximum and minimum values in a dataset?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which parametric test compares the means of two independent groups assuming approximate normality and similar variances?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which information criterion balances model fit against complexity by adding a penalty proportional to number of parameters?"
+    }
+  ]
+}

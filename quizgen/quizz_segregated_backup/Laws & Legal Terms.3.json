@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is 'probable cause' used for?",
+      "options": [
+        "Justifying an arrest or search",
+        "Determining civil damages amount",
+        "Deciding a judge's salary"
+      ],
+      "answer": "Justifying an arrest or search"
+    },
+    {
+      "question_id": 2,
+      "question": "What legal test assesses search reasonableness under the Fourth Amendment?",
+      "options": [
+        "Probable cause and warrant requirement",
+        "Clear and convincing evidence standard",
+        "Preponderance of the evidence test"
+      ],
+      "answer": "Probable cause and warrant requirement"
+    },
+    {
+      "question_id": 3,
+      "question": "Which test determines whether a law is overly vague under due process?",
+      "options": [
+        "Whether ordinary people understand prohibited conduct and avoid arbitrary enforcement",
+        "Whether statute maximizes revenue",
+        "Whether law is endorsed by administrative agencies"
+      ],
+      "answer": "Whether ordinary people understand prohibited conduct and avoid arbitrary enforcement"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'statute of limitations' set?",
+      "options": [
+        "Time limit to bring a legal claim",
+        "Maximum prison sentence allowed",
+        "Number of appeals permitted"
+      ],
+      "answer": "Time limit to bring a legal claim"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the legal meaning of 'consideration' in contracts?",
+      "options": [
+        "Something of value exchanged by parties",
+        "A judge's review of evidence",
+        "An automatic contract termination clause"
+      ],
+      "answer": "Something of value exchanged by parties"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rule prevents admitting character evidence to prove conduct?",
+      "options": [
+        "Character evidence generally inadmissible to prove action",
+        "Prior bad acts always admitted",
+        "Impeachment evidence limited to expert witnesses"
+      ],
+      "answer": "Character evidence generally inadmissible to prove action"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a contract 'breach'?",
+      "options": [
+        "Failure to perform contractual duty",
+        "A written amendment to a contract",
+        "A court-issued injunction"
+      ],
+      "answer": "Failure to perform contractual duty"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'force majeure' clause typically address?",
+      "options": [
+        "Excuses performance for unforeseen events",
+        "Increases penalties for delay",
+        "Requires arbitration for disputes"
+      ],
+      "answer": "Excuses performance for unforeseen events"
+    },
+    {
+      "question_id": 9,
+      "question": "Which doctrine lets courts dismiss claims lacking standing?",
+      "options": [
+        "Standing requirement for justiciability",
+        "Sovereign immunity defense",
+        "Statute of repose"
+      ],
+      "answer": "Standing requirement for justiciability"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'liability' refer to legally?",
+      "options": [
+        "Legal responsibility for harm or debt",
+        "Temporary immunity from prosecution",
+        "A judge's discretionary power"
+      ],
+      "answer": "Legal responsibility for harm or debt"
+    },
+    {
+      "question_id": 11,
+      "question": "Which agency typically enforces workplace safety laws in the United States?",
+      "options": [
+        "Occupational Safety and Health Administration",
+        "Federal Trade Commission",
+        "Environmental Protection Agency"
+      ],
+      "answer": "Occupational Safety and Health Administration"
+    },
+    {
+      "question_id": 12,
+      "question": "Which concept defines when treaties become part of domestic law in dualist systems?",
+      "options": [
+        "Transformation or implementing legislation",
+        "Automatic incorporation upon signature",
+        "Judicial creation by stare decisis"
+      ],
+      "answer": "Transformation or implementing legislation"
+    },
+    {
+      "question_id": 13,
+      "question": "What is 'probative value' of evidence?",
+      "options": [
+        "Its ability to prove a fact in issue",
+        "Its entertainment value in court",
+        "The cost to obtain the evidence"
+      ],
+      "answer": "Its ability to prove a fact in issue"
+    },
+    {
+      "question_id": 14,
+      "question": "Which principle limits use of prior inconsistent statements at trial?",
+      "options": [
+        "Hearsay rules and exceptions",
+        "Double jeopardy protections",
+        "Miranda rights"
+      ],
+      "answer": "Hearsay rules and exceptions"
+    },
+    {
+      "question_id": 15,
+      "question": "What is the hallmark of 'strict scrutiny' review?",
+      "options": [
+        "Compelling government interest and narrow tailoring",
+        "Deference to legislative judgment",
+        "Rational connection to plausible purpose"
+      ],
+      "answer": "Compelling government interest and narrow tailoring"
+    }
+  ]
+}

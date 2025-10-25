@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who wrote 'Sense and Sensibility'?",
+      "options": [
+        "Maria Edgeworth",
+        "Jane Austen",
+        "Frances Burney"
+      ],
+      "answer": "Jane Austen"
+    },
+    {
+      "question_id": 2,
+      "question": "Who authored 'The Stranger' (L'étranger)?",
+      "options": [
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "Jean-Paul Sartre"
+      ],
+      "answer": "Albert Camus"
+    },
+    {
+      "question_id": 3,
+      "question": "Who wrote 'The Magic Mountain'?",
+      "options": [
+        "Franz Kafka",
+        "Hermann Hesse",
+        "Thomas Mann"
+      ],
+      "answer": "Thomas Mann"
+    },
+    {
+      "question_id": 4,
+      "question": "Who wrote 'Brave New World'?",
+      "options": [
+        "Aldous Huxley",
+        "Arthur C. Clarke",
+        "George Orwell"
+      ],
+      "answer": "Aldous Huxley"
+    },
+    {
+      "question_id": 5,
+      "question": "Who wrote 'Siddhartha' (novel)?",
+      "options": [
+        "Hermann Hesse",
+        "Rainer Maria Rilke",
+        "Thomas Mann"
+      ],
+      "answer": "Hermann Hesse"
+    },
+    {
+      "question_id": 6,
+      "question": "Who wrote the Gothic novel 'The Mysteries of Udolpho'?",
+      "options": [
+        "Horace Walpole",
+        "Ann Radcliffe",
+        "Matthew Lewis"
+      ],
+      "answer": "Ann Radcliffe"
+    },
+    {
+      "question_id": 7,
+      "question": "Who is the author of '1984'?",
+      "options": [
+        "George Orwell",
+        "Ray Bradbury",
+        "Aldous Huxley"
+      ],
+      "answer": "George Orwell"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote 'Rebecca'?",
+      "options": [
+        "Agatha Christie",
+        "Vera Brittain",
+        "Daphne du Maurier"
+      ],
+      "answer": "Daphne du Maurier"
+    },
+    {
+      "question_id": 9,
+      "question": "Who is the author of 'The Red and the Black' (Le Rouge et le Noir)?",
+      "options": [
+        "Gustave Flaubert",
+        "Honoré de Balzac",
+        "Stendhal"
+      ],
+      "answer": "Stendhal"
+    },
+    {
+      "question_id": 10,
+      "question": "Who wrote 'The Hobbit'?",
+      "options": [
+        "J. R. R. Tolkien",
+        "C. S. Lewis",
+        "J. K. Rowling"
+      ],
+      "answer": "J. R. R. Tolkien"
+    },
+    {
+      "question_id": 11,
+      "question": "Who wrote 'The Portrait of a Lady'?",
+      "options": [
+        "Henry James",
+        "Thomas Hardy",
+        "George Eliot"
+      ],
+      "answer": "Henry James"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote 'The History of Tom Jones, a Foundling'?",
+      "options": [
+        "Samuel Richardson",
+        "Henry Fielding",
+        "Laurence Sterne"
+      ],
+      "answer": "Henry Fielding"
+    },
+    {
+      "question_id": 13,
+      "question": "Who wrote 'A Tale of Two Cities'?",
+      "options": [
+        "Thomas Hardy",
+        "Victor Hugo",
+        "Charles Dickens"
+      ],
+      "answer": "Charles Dickens"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote 'On the Road'?",
+      "options": [
+        "Jack Kerouac",
+        "William S. Burroughs",
+        "Allen Ginsberg"
+      ],
+      "answer": "Jack Kerouac"
+    },
+    {
+      "question_id": 15,
+      "question": "Who authored 'The Three Musketeers'?",
+      "options": [
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Alexandre Dumas"
+      ],
+      "answer": "Alexandre Dumas"
+    }
+  ]
+}

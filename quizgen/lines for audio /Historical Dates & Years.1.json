@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which year did the Spanish Armada attempt to invade England?"
+    },
+    {
+      "question_id": 2,
+      "question": "In what year did the English Bill of Rights become law, shaping constitutional monarchy?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which year did the Zanj Rebellion, a major slave uprising in Basra, begin?"
+    },
+    {
+      "question_id": 4,
+      "question": "What year did the Roman Empire traditionally fall with the deposition of Romulus Augustulus?"
+    },
+    {
+      "question_id": 5,
+      "question": "What year did the Meiji Restoration begin transforming Japan into a modern state?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did the Anglo-Zanzibar War occur, often cited as the shortest war in history?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which year did the Suez Canal open, transforming global trade routes?"
+    },
+    {
+      "question_id": 8,
+      "question": "In which year did the Bolsheviks sign the Treaty of Brest-Litovsk, exiting World War I?"
+    },
+    {
+      "question_id": 9,
+      "question": "In what year did the First Crusade's avenue of pilgrimage and military campaigns formally begin with Pope Urban II's call?"
+    },
+    {
+      "question_id": 10,
+      "question": "What year marks the beginning of the Renaissance often used by historians (fall of Constantinople)?"
+    },
+    {
+      "question_id": 11,
+      "question": "When did the Spanish Civil War begin, a precursor to broader European conflicts?"
+    },
+    {
+      "question_id": 12,
+      "question": "When did Charlemagne get crowned Emperor by the Pope, reviving the Roman imperial title in the West?"
+    },
+    {
+      "question_id": 13,
+      "question": "What year did the Protestant English king Henry VIII break with Rome establishing the Church of England?"
+    },
+    {
+      "question_id": 14,
+      "question": "When did the Chinese Communist Party proclaim the People's Republic of China?"
+    },
+    {
+      "question_id": 15,
+      "question": "In what year did Constantine I issue the first civil recognition of Christianity in the Roman Empire?"
+    }
+  ]
+}

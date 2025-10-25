@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'habeas corpus' traditionally protect?",
+      "options": [
+        "Freedom from unlawful detention",
+        "Right to free speech",
+        "Right to a speedy trial"
+      ],
+      "answer": "Freedom from unlawful detention"
+    },
+    {
+      "question_id": 2,
+      "question": "What legal doctrine lets courts ignore corporate separation for fairness?",
+      "options": [
+        "Piercing the corporate veil",
+        "Strict liability doctrine",
+        "Res judicata principle"
+      ],
+      "answer": "Piercing the corporate veil"
+    },
+    {
+      "question_id": 3,
+      "question": "What doctrine addresses liability when multiple defendants contribute to harm but identity unknown?",
+      "options": [
+        "Market share liability or alternative liability doctrines",
+        "Joint enterprise immunity",
+        "Statutory employer liability"
+      ],
+      "answer": "Market share liability or alternative liability doctrines"
+    },
+    {
+      "question_id": 4,
+      "question": "What is 'due diligence' in legal practice?",
+      "options": [
+        "Reasonable investigation before a transaction",
+        "Immediate filing of a lawsuit",
+        "Automatic approval of contracts"
+      ],
+      "answer": "Reasonable investigation before a transaction"
+    },
+    {
+      "question_id": 5,
+      "question": "What is 'contributory negligence' effect in some jurisdictions?",
+      "options": [
+        "Bar recovery if plaintiff was negligent at all",
+        "Increase defendant's punitive damages",
+        "Automatically shifts liability to insurer"
+      ],
+      "answer": "Bar recovery if plaintiff was negligent at all"
+    },
+    {
+      "question_id": 6,
+      "question": "Which doctrine allows courts to enforce foreign judgments domestically?",
+      "options": [
+        "Comity and recognition statutes",
+        "Extradition treaties",
+        "Sovereign immunity"
+      ],
+      "answer": "Comity and recognition statutes"
+    },
+    {
+      "question_id": 7,
+      "question": "What is an 'injunction'?",
+      "options": [
+        "Court order to do or stop something",
+        "A verbal warning from a judge",
+        "A jury's recommendation"
+      ],
+      "answer": "Court order to do or stop something"
+    },
+    {
+      "question_id": 8,
+      "question": "What does 'mens rea' describe in criminal law?",
+      "options": [
+        "Defendant's mental state or intent",
+        "The physical act of a crime",
+        "A sentencing calculation method"
+      ],
+      "answer": "Defendant's mental state or intent"
+    },
+    {
+      "question_id": 9,
+      "question": "Which doctrine bars evidence derived from illegal searches?",
+      "options": [
+        "Fruit of the poisonous tree",
+        "Collateral source rule",
+        "Independent source doctrine"
+      ],
+      "answer": "Fruit of the poisonous tree"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'equity' mean in law?",
+      "options": [
+        "Fairness-based remedies and principles",
+        "A criminal penalty type",
+        "A jury's unanimous decision"
+      ],
+      "answer": "Fairness-based remedies and principles"
+    },
+    {
+      "question_id": 11,
+      "question": "What is 'res ipsa loquitur' used to infer?",
+      "options": [
+        "Negligence when cause is obvious from event",
+        "Automatic liability for manufacturers",
+        "Statutory limitation on damages"
+      ],
+      "answer": "Negligence when cause is obvious from event"
+    },
+    {
+      "question_id": 12,
+      "question": "What is 'forum non conveniens' doctrine about?",
+      "options": [
+        "Dismissing cases where another forum is more appropriate",
+        "Transfer of property between jurisdictions",
+        "Setting bail in foreign courts"
+      ],
+      "answer": "Dismissing cases where another forum is more appropriate"
+    },
+    {
+      "question_id": 13,
+      "question": "What does 'voir dire' refer to?",
+      "options": [
+        "Jury selection questioning process",
+        "Judge's final sentencing remarks",
+        "Filing a civil complaint"
+      ],
+      "answer": "Jury selection questioning process"
+    },
+    {
+      "question_id": 14,
+      "question": "Which standard requires proof beyond a reasonable doubt?",
+      "options": [
+        "Criminal conviction standard",
+        "Civil preponderance standard",
+        "Administrative review standard"
+      ],
+      "answer": "Criminal conviction standard"
+    },
+    {
+      "question_id": 15,
+      "question": "What distinguishes 'constructive dismissal' in employment law?",
+      "options": [
+        "Employer's conduct forces employee to resign",
+        "Immediate firing without cause",
+        "Voluntary retirement package acceptance"
+      ],
+      "answer": "Employer's conduct forces employee to resign"
+    }
+  ]
+}

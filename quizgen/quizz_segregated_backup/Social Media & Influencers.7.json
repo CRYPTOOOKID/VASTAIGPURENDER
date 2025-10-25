@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which ad product helps brands target users similar to a creator's followers?",
+      "options": [
+        "Lookalike audiences",
+        "Contextual keyword ads",
+        "Organic reach boosters"
+      ],
+      "answer": "Lookalike audiences"
+    },
+    {
+      "question_id": 2,
+      "question": "Which influencer platform was an early marketplace connecting brands to YouTube creators?",
+      "options": [
+        "FameBit",
+        "Shopify Collabs",
+        "Vine"
+      ],
+      "answer": "FameBit"
+    },
+    {
+      "question_id": 3,
+      "question": "Which platform native analytics insight helps measure story-level performance?",
+      "options": [
+        "Story completion and tap-forward rates",
+        "Total number of uploaded profile videos",
+        "Number of saved drafts"
+      ],
+      "answer": "Story completion and tap-forward rates"
+    },
+    {
+      "question_id": 4,
+      "question": "Which company introduced the first native social-platform shopping checkout experience?",
+      "options": [
+        "Instagram Checkout",
+        "Twitter Buy Button",
+        "YouTube Merchandise Shelf"
+      ],
+      "answer": "Instagram Checkout"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metric do platforms often use to detect inauthentic influencer behavior?",
+      "options": [
+        "Sudden spikes in follower acquisition patterns",
+        "High-resolution profile photo usage",
+        "Long biography text"
+      ],
+      "answer": "Sudden spikes in follower acquisition patterns"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did Instagram introduce algorithmic feed ranking replacing chronological order?",
+      "options": [
+        "2016",
+        "2012",
+        "2019"
+      ],
+      "answer": "2016"
+    },
+    {
+      "question_id": 7,
+      "question": "Which influencer scandal highlighted nondisclosure issues in 2017 festival promotions?",
+      "options": [
+        "Fyre Festival promotions",
+        "Cambridge Analytica influencer tie-in",
+        "Samsung Galaxy leak"
+      ],
+      "answer": "Fyre Festival promotions"
+    },
+    {
+      "question_id": 8,
+      "question": "Which platform feature allows creators to earn recurring subscriber revenue natively?",
+      "options": [
+        "Memberships or subscriptions",
+        "Saved drafts",
+        "Pin-to-top"
+      ],
+      "answer": "Memberships or subscriptions"
+    },
+    {
+      "question_id": 9,
+      "question": "Which influencer-focused scandal led to increased platform enforcement around 2018-2020?",
+      "options": [
+        "Undisclosed paid partnerships and fake followers",
+        "High editorial budgets at small publishers",
+        "Excessive use of hashtags"
+      ],
+      "answer": "Undisclosed paid partnerships and fake followers"
+    },
+    {
+      "question_id": 10,
+      "question": "Which global regulation most directly affects cross-border data use in influencer platforms?",
+      "options": [
+        "GDPR",
+        "DMCA",
+        "CAN-SPAM Act"
+      ],
+      "answer": "GDPR"
+    },
+    {
+      "question_id": 11,
+      "question": "Which advertising format did Snapchat pioneer for vertical mobile-first viewing?",
+      "options": [
+        "Vertical video ads",
+        "Interstitial desktop banners",
+        "Text-only promoted tweets"
+      ],
+      "answer": "Vertical video ads"
+    },
+    {
+      "question_id": 12,
+      "question": "Which metric is most useful to compare virality independent of audience size?",
+      "options": [
+        "Share rate (shares per view)",
+        "Total impressions",
+        "Account creation date"
+      ],
+      "answer": "Share rate (shares per view)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which verification practice supports compliance with disclosure regulations?",
+      "options": [
+        "Including clear sponsorship labels in post copy",
+        "Hiding sponsorship details in comments only",
+        "Using only emoji to indicate partnership"
+      ],
+      "answer": "Including clear sponsorship labels in post copy"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metric combination best estimates long-term influencer audience quality?",
+      "options": [
+        "Engagement consistency and retention rates",
+        "Number of sponsored posts and post length",
+        "Account bio length and profile picture quality"
+      ],
+      "answer": "Engagement consistency and retention rates"
+    },
+    {
+      "question_id": 15,
+      "question": "Which strategy helps scale influencer programs while maintaining authenticity?",
+      "options": [
+        "Leveraging micro-influencers with shared brand values",
+        "Replacing influencers with only paid ads",
+        "Using identical captions across creators"
+      ],
+      "answer": "Leveraging micro-influencers with shared brand values"
+    }
+  ]
+}

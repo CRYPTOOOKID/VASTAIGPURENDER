@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Sagrada Família, tapas, Barcelona — Which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "Portugal"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Mount Cook, Maori culture, Christchurch — Which country?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Fiji"
+      ],
+      "answer": "New Zealand"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Sufi shrines, Lahore literary festivals, Indus Valley civilizations remnants — Which country?",
+      "options": [
+        "Pakistan",
+        "India",
+        "Afghanistan"
+      ],
+      "answer": "Pakistan"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Andes Mountains, Machu Picchu, Lima — Which country?",
+      "options": [
+        "Colombia",
+        "Chile",
+        "Peru"
+      ],
+      "answer": "Peru"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Okavango Delta, Kalahari, diamond mines — Which country?",
+      "options": [
+        "Zimbabwe",
+        "Botswana",
+        "Namibia"
+      ],
+      "answer": "Botswana"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: City-state with Gardens by the Bay, multilingual population, Marina Bay Sands — Which country?",
+      "options": [
+        "Singapore",
+        "Brunei",
+        "Malaysia"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Acropolis, Athens, olive oil — Which country?",
+      "options": [
+        "Cyprus",
+        "Turkey",
+        "Greece"
+      ],
+      "answer": "Greece"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Oktoberfest origins, Lederhosen, Bavaria — Which country?",
+      "options": [
+        "Switzerland",
+        "Austria",
+        "Germany"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Oil-rich Gulf monarchy, Manama capital, Formula 1 host — Which country?",
+      "options": [
+        "Kuwait",
+        "Bahrain",
+        "Qatar"
+      ],
+      "answer": "Bahrain"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Irish pubs, Guinness, Dublin — Which country?",
+      "options": [
+        "Scotland",
+        "Ireland",
+        "Wales"
+      ],
+      "answer": "Ireland"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Maasai Mara, Amboseli, Nairobi National Park — Which country?",
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Tanzania"
+      ],
+      "answer": "Kenya"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Caucasus country with Nagorno-Karabakh conflict, Yerevan history, khachkar stone crosses — Which country?",
+      "options": [
+        "Azerbaijan",
+        "Armenia",
+        "Georgia"
+      ],
+      "answer": "Armenia"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Kremlin, Red Square, vodka — Which country?",
+      "options": [
+        "Ukraine",
+        "Poland",
+        "Russia"
+      ],
+      "answer": "Russia"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Appalachian Mountains, Nashville music scene, Tennessee — Which country?",
+      "options": [
+        "United States",
+        "Mexico",
+        "Canada"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Oued river systems, Atlas cedar forests, Tangier gateway — Which country?",
+      "options": [
+        "Tunisia",
+        "Morocco",
+        "Algeria"
+      ],
+      "answer": "Morocco"
+    }
+  ]
+}

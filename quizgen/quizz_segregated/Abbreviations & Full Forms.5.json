@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does RSVP originate from?",
+      "options": [
+        "Respond Swiftly, Very Please",
+        "Répondez s'il vous plaît",
+        "Reply Soon, Very Please"
+      ],
+      "answer": "Répondez s'il vous plaît"
+    },
+    {
+      "question_id": 2,
+      "question": "What does RFID stand for?",
+      "options": [
+        "Radio Frequency ID",
+        "Radio-Frequency Identification",
+        "Radio Frequency Identification Device"
+      ],
+      "answer": "Radio-Frequency Identification"
+    },
+    {
+      "question_id": 3,
+      "question": "What does BCC indicate when sending email?",
+      "options": [
+        "Blind Courtesy Copy",
+        "Back Carbon Copy",
+        "Blind Carbon Copy"
+      ],
+      "answer": "Blind Carbon Copy"
+    },
+    {
+      "question_id": 4,
+      "question": "What does ATM mean in banking contexts?",
+      "options": [
+        "Automated Teller Machine",
+        "Automatic Transaction Manager",
+        "Authorized Teller Machine"
+      ],
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question_id": 5,
+      "question": "What does MIDI stand for in music technology?",
+      "options": [
+        "Musical Instrument Digital Interface",
+        "Music Instrument Digital Interface",
+        "Musical Interface Digital Input"
+      ],
+      "answer": "Musical Instrument Digital Interface"
+    },
+    {
+      "question_id": 6,
+      "question": "What does AMD stand for as a chipmaker's name?",
+      "options": [
+        "Applied Micro Devices",
+        "Advanced Micro Devices",
+        "Advanced Micro Designs"
+      ],
+      "answer": "Advanced Micro Devices"
+    },
+    {
+      "question_id": 7,
+      "question": "What does CPR stand for in first aid?",
+      "options": [
+        "Cardiopulmonary Resuscitation",
+        "Cardio-Pulse Resuscitation",
+        "Cardiac Pulse Restoration"
+      ],
+      "answer": "Cardiopulmonary Resuscitation"
+    },
+    {
+      "question_id": 8,
+      "question": "What does SSH expand to in secure connections?",
+      "options": [
+        "Secure Socket Host",
+        "Secure Shell",
+        "Secure System Host"
+      ],
+      "answer": "Secure Shell"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the full recursive name of YAML?",
+      "options": [
+        "YAML And Markup Language",
+        "Yet Another Markup Language",
+        "YAML Ain't Markup Language"
+      ],
+      "answer": "YAML Ain't Markup Language"
+    },
+    {
+      "question_id": 10,
+      "question": "What does GPS stand for?",
+      "options": [
+        "General Positioning Service",
+        "Global Positioning Service",
+        "Global Positioning System"
+      ],
+      "answer": "Global Positioning System"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the official full form of UNICEF?",
+      "options": [
+        "United Nations International Children's Emergency Fund",
+        "United Nations Children's Fund",
+        "Universal Nations Children's Emergency Fund"
+      ],
+      "answer": "United Nations Children's Fund"
+    },
+    {
+      "question_id": 12,
+      "question": "What is the full form of ICANN?",
+      "options": [
+        "International Corporation for Assigned Names and Numbers",
+        "Internet Corporation for Assigned Names and Numbers",
+        "Internet Council for Assigned Names and Numbers"
+      ],
+      "answer": "Internet Corporation for Assigned Names and Numbers"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the full form of USB?",
+      "options": [
+        "Universal Serial Bus",
+        "Unified Serial Bus",
+        "Universal System Bus"
+      ],
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "question_id": 14,
+      "question": "What does ZIP represent in US postal terms?",
+      "options": [
+        "Zone Improvement Plan",
+        "Zonal Information Program",
+        "Zipcoded International Plan"
+      ],
+      "answer": "Zone Improvement Plan"
+    },
+    {
+      "question_id": 15,
+      "question": "What does UTF denote in character encoding?",
+      "options": [
+        "Universal Text Format",
+        "Unicode Transformation Format",
+        "Universal Transfer Format"
+      ],
+      "answer": "Unicode Transformation Format"
+    }
+  ]
+}

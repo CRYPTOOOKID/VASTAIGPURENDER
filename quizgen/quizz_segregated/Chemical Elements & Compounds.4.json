@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which element is often alloyed with copper to make bronze?",
+      "options": [
+        "Tin",
+        "Nickel",
+        "Zinc"
+      ],
+      "answer": "Tin"
+    },
+    {
+      "question_id": 2,
+      "question": "Which metal corrodes to form a green patina on statues like the Statue of Liberty?",
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Iron"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 3,
+      "question": "Which compound is an example of a superacid, stronger than 100% sulfuric acid, used to protonate weak bases?",
+      "options": [
+        "Nitric acid (HNO3)",
+        "Hydrochloric acid (HCl)",
+        "Fluoroantimonic acid (HSbF6)"
+      ],
+      "answer": "Fluoroantimonic acid (HSbF6)"
+    },
+    {
+      "question_id": 4,
+      "question": "Which element is a key component of sand (silica)?",
+      "options": [
+        "Sulfur",
+        "Silicon",
+        "Sodium"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 5,
+      "question": "Which element has the highest electronegativity on the Pauling scale?",
+      "options": [
+        "Oxygen",
+        "Fluorine",
+        "Chlorine"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 6,
+      "question": "Which element is the heaviest naturally occurring halogen and exists as a dense reddish-brown liquid at room temperature?",
+      "options": [
+        "Iodine",
+        "Astatine",
+        "Bromine"
+      ],
+      "answer": "Bromine"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the lightest noble gas with atomic number 2?",
+      "options": [
+        "Neon",
+        "Helium",
+        "Argon"
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 8,
+      "question": "Which element was discovered by Marie Curie's husband Pierre and is named after Poland?",
+      "options": [
+        "Francium",
+        "Radium",
+        "Polonium"
+      ],
+      "answer": "Polonium"
+    },
+    {
+      "question_id": 9,
+      "question": "Which element forms the compound silicon carbide (SiC), used as an abrasive and high-temperature ceramic?",
+      "options": [
+        "Silicon",
+        "Carbon",
+        "Boron"
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the chemical formula for water?",
+      "options": [
+        "H3O",
+        "H2O",
+        "HO2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question_id": 11,
+      "question": "Which element in the halogen group is the most reactive nonmetal?",
+      "options": [
+        "Fluorine",
+        "Bromine",
+        "Chlorine"
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 12,
+      "question": "Which compound is the key oxidizing agent in classical organic Baeyer-Villiger oxidations converting ketones to esters?",
+      "options": [
+        "PCC (pyridinium chlorochromate)",
+        "Peracids (e.g., peracetic acid)",
+        "KMnO4"
+      ],
+      "answer": "Peracids (e.g., peracetic acid)"
+    },
+    {
+      "question_id": 13,
+      "question": "Which element's symbol is 'Au' and is a precious metal?",
+      "options": [
+        "Aurumium",
+        "Silver",
+        "Gold"
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 14,
+      "question": "Which oxide of nitrogen is a major contributor to acid rain and combustion emissions?",
+      "options": [
+        "Nitrogen dioxide (NO2)",
+        "Nitrous oxide (N2O)",
+        "Ammonia (NH3)"
+      ],
+      "answer": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which rare isotope of hydrogen contains one proton and one neutron and is used in certain nuclear fusion research?",
+      "options": [
+        "Protium",
+        "Deuterium",
+        "Tritium"
+      ],
+      "answer": "Deuterium"
+    }
+  ]
+}

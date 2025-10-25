@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who declared \"Mr. Gorbachev, tear down this wall!\" in 1987?",
+      "options": [
+        "Ronald Reagan",
+        "Jimmy Carter",
+        "George H. W. Bush"
+      ],
+      "answer": "Ronald Reagan"
+    },
+    {
+      "question_id": 2,
+      "question": "Who wrote \"The only thing we have to fear is fear itself\" in his inaugural address?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Theodore Roosevelt",
+        "Woodrow Wilson"
+      ],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question_id": 3,
+      "question": "Who penned \"The Revolution is not an apple that falls when it is ripe\" about revolutionary timing?",
+      "options": [
+        "Fidel Castro",
+        "José Martí",
+        "Che Guevara"
+      ],
+      "answer": "Che Guevara"
+    },
+    {
+      "question_id": 4,
+      "question": "Who exclaimed \"Surrender? I will never surrender\" and led his country in WWII?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Charles de Gaulle",
+        "Winston Churchill"
+      ],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question_id": 5,
+      "question": "Who famously wrote \"The only thing necessary for the triumph of evil is for good men to do nothing\"?",
+      "options": [
+        "John Stuart Mill",
+        "Edmund Burke",
+        "Thomas Paine"
+      ],
+      "answer": "Edmund Burke"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Japanese daimyo reportedly said \"Rule the Empire by force of arms\" during Sengoku unification?",
+      "options": [
+        "Oda Nobunaga",
+        "Toyotomi Hideyoshi",
+        "Tokugawa Ieyasu"
+      ],
+      "answer": "Oda Nobunaga"
+    },
+    {
+      "question_id": 7,
+      "question": "Who uttered \"That's one small step for a man, one giant leap for mankind\"?",
+      "options": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin"
+      ],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question_id": 8,
+      "question": "Who wrote \"Let them eat cake\" is a famous phrase linked to which royal figure?",
+      "options": [
+        "Marie Antoinette",
+        "Anne of Austria",
+        "Maria Theresa"
+      ],
+      "answer": "Marie Antoinette"
+    },
+    {
+      "question_id": 9,
+      "question": "Who declared \"My only loyalty is to my country\" facing treason charges in early modern Europe?",
+      "options": [
+        "Guy Fawkes",
+        "Sir Thomas More",
+        "Oliver Cromwell"
+      ],
+      "answer": "Sir Thomas More"
+    },
+    {
+      "question_id": 10,
+      "question": "Who said \"I am the state\" often associated with absolute monarchy?",
+      "options": [
+        "Henry VIII",
+        "Louis XIV",
+        "Philip II"
+      ],
+      "answer": "Louis XIV"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Italian explorer said his voyages proved the New World was not Asia?",
+      "options": [
+        "Amerigo Vespucci",
+        "Christopher Columbus",
+        "John Cabot"
+      ],
+      "answer": "Amerigo Vespucci"
+    },
+    {
+      "question_id": 12,
+      "question": "Who wrote \"The East is a career for the young\" advising imperial officers within colonial service?",
+      "options": [
+        "Lord Curzon",
+        "T. E. Lawrence",
+        "Rudyard Kipling"
+      ],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question_id": 13,
+      "question": "Who said \"The buck stops here\" as a symbol of presidential responsibility?",
+      "options": [
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "Herbert Hoover"
+      ],
+      "answer": "Harry S. Truman"
+    },
+    {
+      "question_id": 14,
+      "question": "Who wrote \"In the end, we will remember not the words of our enemies but the silence of our friends\"?",
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Ralph Waldo Emerson"
+      ],
+      "answer": "Martin Luther King Jr."
+    },
+    {
+      "question_id": 15,
+      "question": "Who wrote \"I fear all we have done is to awaken a sleeping giant\" about Pacific conflict consequences?",
+      "options": [
+        "Emperor Hirohito",
+        "Isoroku Yamamoto",
+        "Hideki Tojo"
+      ],
+      "answer": "Isoroku Yamamoto"
+    }
+  ]
+}

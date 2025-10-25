@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which claim about sweating eliminating toxins is most accurate?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which finding about MSG and headaches reflects research consensus?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which lab finding questions claims that detox foot pads remove heavy metals?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which belief about sunscreen and vitamin D is accurate?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which statement about 'clean eating' and nutrient balance is correct?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which mechanistic fact explains why homeopathic dilutions often contain no active molecules?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which claim about the flu vaccine causing the flu reflects evidence?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which conclusion about coconut oil and heart health is supported by nutrition science?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which pharmacological fact explains why megadose antioxidant trials sometimes increased mortality?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about detox diets is most accurate?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which description about alkaline diets and body pH is correct?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which research finding addresses claims that sauna use detoxifies heavy metals?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which statement about bleach and surface cleaning is correct?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which claim about standing desks and calorie burn is supported by evidence?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which finding about light at night and sleep hormones is supported by research?"
+    }
+  ]
+}

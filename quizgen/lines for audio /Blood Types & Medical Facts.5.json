@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which blood component is stored at room temperature with gentle agitation?"
+    },
+    {
+      "question_id": 2,
+      "question": "Who discovered the ABO blood group system in 1901?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which blood product is prepared by freezing plasma within 24 hours to preserve labile clotting factors?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which antibody class primarily mediates immediate ABO incompatibility reactions?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which red cell storage additive allows refrigeration up to 42 days in many systems?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which screening marker window period risk do nucleic acid tests reduce in donor screening?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which blood type is considered the universal plasma donor?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which antigen system is most clinically significant after ABO and Rh for transfusion?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which maternal intervention after delivery prevents Rh D alloimmunization in sensitizable mothers?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organ commonly requires ABO compatibility for transplantation?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which laboratory test screens recipient serum for unexpected antibodies against donor cells?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which neonatal test quantifies maternal IgG bound to fetal red cells in vivo?"
+    },
+    {
+      "question_id": 13,
+      "question": "What does the Rh factor determine in blood typing?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which product is given to correct coagulopathy rapidly in trauma settings?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which strategy extends platelet shelf-life by reducing bacterial contamination and viral risk?"
+    }
+  ]
+}

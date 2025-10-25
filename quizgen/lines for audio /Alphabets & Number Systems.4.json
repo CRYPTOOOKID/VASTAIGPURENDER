@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which set of numerals is commonly called 'Hindu-Arabic numerals'?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which historic practice used acrophonic naming where letters came from words and objects?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which ancient Semitic script predecessor is often called Proto-Sinaitic and predates Phoenician?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which numeral system uses digits 0 through 9?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which script is known for its distinctive syllabic signs on inscriptions at Ugarit?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which digital text encoding form is a variable-length encoding of Unicode using one to four bytes?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which script was developed by Sequoyah for the Cherokee language?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which numeral system is commonly used in digital displays grouped by three bits called octets?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which medieval manuscript tradition created the Carolingian minuscule influencing modern lowercase?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which ancient numeral system famously lacks a symbol for zero?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which script uses diacritics called harakat to represent short vowels in Arabic?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which ancient script intermediate between pictogram and alphabet introduced simplified signs for consonants?"
+    },
+    {
+      "question_id": 13,
+      "question": "How many bits does the original ASCII code use to represent characters?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which system uses base-16 and is common in computing for color codes and memory addresses?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which notation did Brahmagupta formalize with rules for zero in the 7th century CE?"
+    }
+  ]
+}

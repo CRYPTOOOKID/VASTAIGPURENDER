@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the national anthem of Japan?",
+      "options": [
+        "Kimigayo",
+        "Sakura Sakura",
+        "Kimi no Uta"
+      ],
+      "answer": "Kimigayo"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country's anthem was composed by Joseph Haydn for a Habsburg emperor before being repurposed?",
+      "options": [
+        "Austria (melody adopted by Germany)",
+        "Russia",
+        "Switzerland"
+      ],
+      "answer": "Austria (melody adopted by Germany)"
+    },
+    {
+      "question_id": 3,
+      "question": "Which country's anthem had a female poet credited for writing its lyrics in the 20th century, a rarity among national anthems?",
+      "options": [
+        "None of these",
+        "Finland",
+        "Iceland"
+      ],
+      "answer": "None of these"
+    },
+    {
+      "question_id": 4,
+      "question": "Which country uses 'Plus Ultra' as a historical national motto meaning 'Further beyond'?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Italy"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 5,
+      "question": "Which country officially adopted 'O Canada' as its national anthem in 1980?",
+      "options": [
+        "Canada",
+        "United Kingdom",
+        "United States"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 6,
+      "question": "Which national anthem's music was composed by a conductor of the Red Army Choir and later adapted for state use?",
+      "options": [
+        "Russia's state anthem (Alexander Alexandrov)",
+        "Soviet Georgia's anthem",
+        "Bulgaria's anthem"
+      ],
+      "answer": "Russia's state anthem (Alexander Alexandrov)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which country has 'In God We Trust' as its official national motto?",
+      "options": [
+        "United States",
+        "United Kingdom",
+        "Canada"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question_id": 8,
+      "question": "Which country's national anthem lyrics were written by a poet who became that country's first president?",
+      "options": [
+        "None of these",
+        "Tunisia",
+        "Ireland"
+      ],
+      "answer": "None of these"
+    },
+    {
+      "question_id": 9,
+      "question": "Which national anthem's original poet was imprisoned during the regime that later censored his work, delaying public recognition?",
+      "options": [
+        "China's 'March of the Volunteers' (Tian Han)",
+        "France's 'La Marseillaise' (Rouget de Lisle)",
+        "Russia's anthem poet"
+      ],
+      "answer": "China's 'March of the Volunteers' (Tian Han)"
+    },
+    {
+      "question_id": 10,
+      "question": "Which country uses 'Advance Australia Fair' as its national anthem?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Canada"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which country adopted 'March of the Volunteers' as its national anthem upon founding in 1949?",
+      "options": [
+        "People's Republic of China",
+        "Republic of China (Taiwan)",
+        "North Korea"
+      ],
+      "answer": "People's Republic of China"
+    },
+    {
+      "question_id": 12,
+      "question": "Which national anthem's melody was once used as the tune for the British patriotic song 'God Save the King' in another language's adaptation?",
+      "options": [
+        "Prussian royal anthem 'Heil dir im Siegerkranz' used the same tune as 'God Save the King'",
+        "French Marseillaise used same as British",
+        "Spanish Marcha Real used same as British"
+      ],
+      "answer": "Prussian royal anthem 'Heil dir im Siegerkranz' used the same tune as 'God Save the King'"
+    },
+    {
+      "question_id": 13,
+      "question": "Which country sings 'O Canada' as its national anthem?",
+      "options": [
+        "Canada",
+        "Australia",
+        "New Zealand"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 14,
+      "question": "Which country's national anthem was selected by plebiscite in the 1980s replacing a previous song?",
+      "options": [
+        "Australia selected 'Advance Australia Fair' in 1984",
+        "Canada selected 'O Canada' in 1984",
+        "New Zealand selected 'God Defend New Zealand' in 1984"
+      ],
+      "answer": "Australia selected 'Advance Australia Fair' in 1984"
+    },
+    {
+      "question_id": 15,
+      "question": "Which country's national anthem was composed by a musician who also created a tune later repurposed as an imperial hymn?",
+      "options": [
+        "Austria (Haydn)",
+        "Hungary (Erkel)",
+        "Sweden (Waltz)"
+      ],
+      "answer": "Austria (Haydn)"
+    }
+  ]
+}

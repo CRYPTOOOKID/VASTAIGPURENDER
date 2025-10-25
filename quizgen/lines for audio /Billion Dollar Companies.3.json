@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company is headquartered in Seattle and leads large cloud services?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company popularized the smartphone app marketplace on Android devices?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company did Microsoft acquire in 2018 for $7.5 billion to embrace open source?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Chinese company operates the messaging app WeChat?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company announced acquisition of MGM for $8.45 billion in 2021?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company became the first to surpass a $2 trillion market valuation in 2020?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which ride-hailing company launched in 2009 and expanded worldwide?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which streaming company used a direct listing to go public in 2018?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company used the acquisition of Skype in 2011 to expand communications across its ecosystem?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which online retailer originally sold books and later diversified worldwide?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company acquired Pixar in 2006, integrating it into a larger entertainment group?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company founded by Marc Benioff built a dominant enterprise CRM with a cloud-first model?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which company operates the Visa card payment network?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company purchased LinkedIn to strengthen professional software and cloud offerings?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company acquired Beats, gaining a headphone brand and streaming service integration?"
+    }
+  ]
+}

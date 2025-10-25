@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which US president's last words were reported as \"I want to be left alone\"?",
+      "options": [
+        "Calvin Coolidge",
+        "Herbert Hoover",
+        "Ulysses S. Grant"
+      ],
+      "answer": "Ulysses S. Grant"
+    },
+    {
+      "question_id": 2,
+      "question": "Which leader said \"If only I had served my country as I served my family\" in remorse near death?",
+      "options": [
+        "Puyi",
+        "Otto von Bismarck",
+        "Napoleon Bonaparte"
+      ],
+      "answer": "Napoleon Bonaparte"
+    },
+    {
+      "question_id": 3,
+      "question": "Who reportedly told a servant \"I have tried to do my duty\" as dying assurance to history?",
+      "options": [
+        "George Washington",
+        "Queen Elizabeth I",
+        "Lord Nelson"
+      ],
+      "answer": "George Washington"
+    },
+    {
+      "question_id": 4,
+      "question": "Which famous composer said \"Play it, Sam\" at his death according to popular culture? (Note: misquoted line)",
+      "options": [
+        "Miles Davis",
+        "Cole Porter",
+        "Humphrey Bogart"
+      ],
+      "answer": "Humphrey Bogart"
+    },
+    {
+      "question_id": 5,
+      "question": "Who said \"Whatever happens, you must not be afraid\" as calming last words to a loved one?",
+      "options": [
+        "Marie Curie",
+        "Florence Nightingale",
+        "Queen Elizabeth I"
+      ],
+      "answer": "Florence Nightingale"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 20th-century author reportedly said \"I am ready to meet my Maker\" and referenced faith at death?",
+      "options": [
+        "Aldous Huxley",
+        "T. S. Eliot",
+        "C. S. Lewis"
+      ],
+      "answer": "C. S. Lewis"
+    },
+    {
+      "question_id": 7,
+      "question": "Which composer reportedly said \"It is very sad, but it is over\" in their final moments?",
+      "options": [
+        "Franz Schubert",
+        "Gustav Mahler",
+        "Claude Debussy"
+      ],
+      "answer": "Claude Debussy"
+    },
+    {
+      "question_id": 8,
+      "question": "Which American jazz legend reportedly said \"Don't worry about me\" before death?",
+      "options": [
+        "Charlie Parker",
+        "Louis Armstrong",
+        "Duke Ellington"
+      ],
+      "answer": "Louis Armstrong"
+    },
+    {
+      "question_id": 9,
+      "question": "Which composer pronounced in Italian \"La mia anima è in pace\" meaning \"My soul is at peace\"?",
+      "options": [
+        "Giacomo Puccini",
+        "Giuseppe Verdi",
+        "Domenico Scarlatti"
+      ],
+      "answer": "Giacomo Puccini"
+    },
+    {
+      "question_id": 10,
+      "question": "Which writer reportedly said his last words: \"Now I shall go to sleep\"?",
+      "options": [
+        "Samuel Taylor Coleridge",
+        "Mark Twain",
+        "Emily Dickinson"
+      ],
+      "answer": "Mark Twain"
+    },
+    {
+      "question_id": 11,
+      "question": "Who famously said \"Drink to me only with thine eyes\" as quoted at death in cultural retellings?",
+      "options": [
+        "Oscar Wilde",
+        "Ben Jonson",
+        "John Keats"
+      ],
+      "answer": "John Keats"
+    },
+    {
+      "question_id": 12,
+      "question": "Who said \"It is the end of an era\" as last words in some modern retellings about 20th-century figures?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Margaret Thatcher",
+        "Winston Churchill"
+      ],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question_id": 13,
+      "question": "Who allegedly said \"Go on, get out — last words are for fools who haven't said enough\"?",
+      "options": [
+        "Karl Marx",
+        "Jean-Paul Sartre",
+        "Samuel Johnson"
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question_id": 14,
+      "question": "Whose reported dying words were \"I have tried so hard to do right\"?",
+      "options": [
+        "Grover Cleveland",
+        "Thomas Edison",
+        "Abraham Lincoln"
+      ],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "question_id": 15,
+      "question": "Which explorer's last words included a practical instruction: \"Get my journals and publish them\"?",
+      "options": [
+        "Robert Falcon Scott",
+        "John Franklin",
+        "Ernest Shackleton"
+      ],
+      "answer": "Robert Falcon Scott"
+    }
+  ]
+}

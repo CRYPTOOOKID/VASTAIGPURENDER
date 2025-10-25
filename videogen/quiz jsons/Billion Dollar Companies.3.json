@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which company is headquartered in Seattle and leads large cloud services?",
+      "options": [
+        "Apple",
+        "Amazon",
+        "Google"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 2,
+      "question": "Which company popularized the smartphone app marketplace on Android devices?",
+      "options": [
+        "Apple App Store",
+        "Google Play",
+        "Amazon Appstore"
+      ],
+      "answer": "Google Play"
+    },
+    {
+      "question_id": 3,
+      "question": "Which company did Microsoft acquire in 2018 for $7.5 billion to embrace open source?",
+      "options": [
+        "MongoDB",
+        "Red Hat",
+        "GitHub"
+      ],
+      "answer": "GitHub"
+    },
+    {
+      "question_id": 4,
+      "question": "Which Chinese company operates the messaging app WeChat?",
+      "options": [
+        "Tencent",
+        "Baidu",
+        "Alibaba"
+      ],
+      "answer": "Tencent"
+    },
+    {
+      "question_id": 5,
+      "question": "Which company announced acquisition of MGM for $8.45 billion in 2021?",
+      "options": [
+        "Amazon",
+        "Warner Bros.",
+        "Netflix"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company became the first to surpass a $2 trillion market valuation in 2020?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Amazon"
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 7,
+      "question": "Which ride-hailing company launched in 2009 and expanded worldwide?",
+      "options": [
+        "Didi",
+        "Lyft",
+        "Uber"
+      ],
+      "answer": "Uber"
+    },
+    {
+      "question_id": 8,
+      "question": "Which streaming company used a direct listing to go public in 2018?",
+      "options": [
+        "Snap",
+        "Spotify",
+        "Palantir"
+      ],
+      "answer": "Spotify"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company used the acquisition of Skype in 2011 to expand communications across its ecosystem?",
+      "options": [
+        "Microsoft",
+        "Facebook",
+        "Google"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "question_id": 10,
+      "question": "Which online retailer originally sold books and later diversified worldwide?",
+      "options": [
+        "eBay",
+        "Amazon",
+        "Barnes & Noble"
+      ],
+      "answer": "Amazon"
+    },
+    {
+      "question_id": 11,
+      "question": "Which company acquired Pixar in 2006, integrating it into a larger entertainment group?",
+      "options": [
+        "Warner Bros.",
+        "Disney",
+        "Viacom"
+      ],
+      "answer": "Disney"
+    },
+    {
+      "question_id": 12,
+      "question": "Which company founded by Marc Benioff built a dominant enterprise CRM with a cloud-first model?",
+      "options": [
+        "SAP",
+        "Oracle",
+        "Salesforce"
+      ],
+      "answer": "Salesforce"
+    },
+    {
+      "question_id": 13,
+      "question": "Which company operates the Visa card payment network?",
+      "options": [
+        "Visa",
+        "Mastercard",
+        "American Express"
+      ],
+      "answer": "Visa"
+    },
+    {
+      "question_id": 14,
+      "question": "Which company purchased LinkedIn to strengthen professional software and cloud offerings?",
+      "options": [
+        "Google",
+        "Salesforce",
+        "Microsoft"
+      ],
+      "answer": "Microsoft"
+    },
+    {
+      "question_id": 15,
+      "question": "Which company acquired Beats, gaining a headphone brand and streaming service integration?",
+      "options": [
+        "Samsung",
+        "Sony",
+        "Apple"
+      ],
+      "answer": "Apple"
+    }
+  ]
+}

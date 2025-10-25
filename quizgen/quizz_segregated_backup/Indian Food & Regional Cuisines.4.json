@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which Indian sweet made from condensed milk solids, sugar, and cardamom is commonly cut into diamond-shaped pieces?",
+      "options": [
+        "Barfi",
+        "Rasgulla",
+        "Gulab jamun"
+      ],
+      "answer": "Barfi"
+    },
+    {
+      "question_id": 2,
+      "question": "Which famous Indian chef and TV personality popularized regional Indian recipes for Western audiences in the 1970s?",
+      "options": [
+        "Madhur Jaffrey",
+        "Sanjeev Kapoor",
+        "Tarla Dalal"
+      ],
+      "answer": "Madhur Jaffrey"
+    },
+    {
+      "question_id": 3,
+      "question": "Which Himalayan spice, used in Kashmiri cuisine, imparts a unique floral and slightly bitter aroma to dishes?",
+      "options": [
+        "Saffron",
+        "Kashmiri methi (dry fenugreek)",
+        "Mace"
+      ],
+      "answer": "Saffron"
+    },
+    {
+      "question_id": 4,
+      "question": "Which syrup-soaked dessert made from milk solids or dough balls is a festive favorite across India?",
+      "options": [
+        "Gulab jamun",
+        "Ladoo",
+        "Peda"
+      ],
+      "answer": "Gulab jamun"
+    },
+    {
+      "question_id": 5,
+      "question": "Which bread is characteristic of Punjabi breakfasts and is often pan-fried with ghee until crisp edges form?",
+      "options": [
+        "Paratha",
+        "Bhatura",
+        "Puri"
+      ],
+      "answer": "Paratha"
+    },
+    {
+      "question_id": 6,
+      "question": "Which indigenous millet used in parts of South India has high calcium content and supports traditional weaning foods?",
+      "options": [
+        "Ragi (finger millet)",
+        "Jowar (sorghum)",
+        "Bajra (pearl millet)"
+      ],
+      "answer": "Ragi (finger millet)"
+    },
+    {
+      "question_id": 7,
+      "question": "Idli batter is primarily fermented using which two ingredients commonly milled into a batter?",
+      "options": [
+        "Rice and urad dal",
+        "Wheat and gram flour",
+        "Millet and besan"
+      ],
+      "answer": "Rice and urad dal"
+    },
+    {
+      "question_id": 8,
+      "question": "Which royal Mughal-era kebab, known for fine texture, was perfected in Lucknow and served to nobility?",
+      "options": [
+        "Galouti kebab",
+        "Seekh kebab",
+        "Shami kebab"
+      ],
+      "answer": "Galouti kebab"
+    },
+    {
+      "question_id": 9,
+      "question": "Which historically Persian-derived term is often cited as the linguistic root for the word 'biryani'?",
+      "options": [
+        "Birian (to fry or roast)",
+        "Khichdi (to mix)",
+        "Roti (flatbread)"
+      ],
+      "answer": "Birian (to fry or roast)"
+    },
+    {
+      "question_id": 10,
+      "question": "What kind of South Indian fermented crepe is made from rice and urad dal batter and served with chutney?",
+      "options": [
+        "Dosa",
+        "Paratha",
+        "Chapati"
+      ],
+      "answer": "Dosa"
+    },
+    {
+      "question_id": 11,
+      "question": "Which preserved condiment made from fruit and spices is central to many South Indian and Maharashtrian meals?",
+      "options": [
+        "Pickle (achar)",
+        "Chutney",
+        "Raita"
+      ],
+      "answer": "Pickle (achar)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which regional rice preparation from Kerala pairs fermented appam with a mildly sweetened coconut milk stew called 'payar' sometimes?",
+      "options": [
+        "Appam with stew",
+        "Idli with sambar",
+        "Dosa with sambhar"
+      ],
+      "answer": "Appam with stew"
+    },
+    {
+      "question_id": 13,
+      "question": "What does the Bengali preparation 'shorshe ilish' consist of when prepared in traditional households?",
+      "options": [
+        "Hilsa fish in mustard sauce",
+        "Lentils with spinach",
+        "Potato and egg curry"
+      ],
+      "answer": "Hilsa fish in mustard sauce"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Gujarati street snack originates from thin wheat flatbreads roasted and served with pickles or chutney?",
+      "options": [
+        "Thepla",
+        "Paratha",
+        "Phulka"
+      ],
+      "answer": "Thepla"
+    },
+    {
+      "question_id": 15,
+      "question": "Which coastal Indian state's cuisine uses kokum extensively and features the celebrated fish curry 'Sol Kadhi' as a cooling accompaniment?",
+      "options": [
+        "Maharashtra (Konkan)",
+        "Punjab",
+        "Bihar"
+      ],
+      "answer": "Maharashtra (Konkan)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which neuroscientific process is engaged when solvers experience an 'aha' moment?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which research area can inform riddle design for maximum engagement?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which advanced writing move can create an elegant riddle twist?"
+    },
+    {
+      "question_id": 4,
+      "question": "What answer fits: \"I can run but never walk, have a mouth but never talk\"?"
+    },
+    {
+      "question_id": 5,
+      "question": "When a riddle's correct answer is an abstract concept, what is crucial?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which research finding relates to solving complex riddles rapidly?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which characteristic distinguishes a virtuoso-level 'What am I?' riddle reveal?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which advanced measure helps evaluate riddle difficulty objectively?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which compositional balance do top riddle writers aim for?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of these is a canonical example of a paradox used in 'What am I?' riddles?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which answer fits: \"I have chains yet I am free; I can bind but never touch\"?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which answer fits: \"I am taken from a mine and shut in a wooden case, used by artists and carpenters\"?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which answer fits: \"I can be opened but never closed, I show what was but never what will be\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which answer suits: \"I am born when two meet but die alone\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which approach helps keep an advanced riddle anthology fresh for repeat readers?"
+    }
+  ]
+}

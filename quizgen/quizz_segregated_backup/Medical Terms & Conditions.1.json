@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which common chronic disease involves progressive airflow limitation and smoking is a main risk?",
+      "options": [
+        "Chronic obstructive pulmonary disease",
+        "Pneumonia",
+        "Pulmonary embolism"
+      ],
+      "answer": "Chronic obstructive pulmonary disease"
+    },
+    {
+      "question_id": 2,
+      "question": "Which condition describes dangerously low oxygen levels in arterial blood?",
+      "options": [
+        "Hypoxemia",
+        "Hypotension",
+        "Hypoglycemia"
+      ],
+      "answer": "Hypoxemia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which anticoagulant mechanism describes how heparin exerts its immediate effect?",
+      "options": [
+        "Potentiates antithrombin III to inhibit thrombin and factor Xa",
+        "Directly inhibits vitamin K epoxide reductase",
+        "Blocks platelet ADP receptors"
+      ],
+      "answer": "Potentiates antithrombin III to inhibit thrombin and factor Xa"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'tachycardia' describe in a basic clinical exam?",
+      "options": [
+        "Fast heart rate",
+        "Slow heart rate",
+        "Irregular breathing"
+      ],
+      "answer": "Fast heart rate"
+    },
+    {
+      "question_id": 5,
+      "question": "Which metabolic condition presents with abdominal pain, neuropsychiatric symptoms, and elevated porphyrins?",
+      "options": [
+        "Acute intermittent porphyria",
+        "Wilson disease",
+        "Phenylketonuria"
+      ],
+      "answer": "Acute intermittent porphyria"
+    },
+    {
+      "question_id": 6,
+      "question": "Which pulmonary condition shows honeycomb lung and restrictive pattern with reduced lung volumes?",
+      "options": [
+        "Pulmonary fibrosis (interstitial lung disease)",
+        "Emphysema-predominant COPD",
+        "Bronchiectasis"
+      ],
+      "answer": "Pulmonary fibrosis (interstitial lung disease)"
+    },
+    {
+      "question_id": 7,
+      "question": "Which term describes a sudden blockage of blood flow to the heart muscle?",
+      "options": [
+        "Myocardial infarction",
+        "Congestive heart failure",
+        "Angina pectoris"
+      ],
+      "answer": "Myocardial infarction"
+    },
+    {
+      "question_id": 8,
+      "question": "Which clotting factor deficiency characterizes hemophilia A specifically?",
+      "options": [
+        "Factor VIII deficiency",
+        "Factor IX deficiency",
+        "Factor VII deficiency"
+      ],
+      "answer": "Factor VIII deficiency"
+    },
+    {
+      "question_id": 9,
+      "question": "Which cardiac murmur increases with handgrip maneuver by increasing afterload and regurgitant flow?",
+      "options": [
+        "Mitral regurgitation murmur intensifies",
+        "Hypertrophic cardiomyopathy murmur intensifies",
+        "Aortic stenosis murmur intensifies"
+      ],
+      "answer": "Mitral regurgitation murmur intensifies"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'antipyretic' medication primarily reduce in patients?",
+      "options": [
+        "Fever",
+        "Inflammation only",
+        "Blood pressure"
+      ],
+      "answer": "Fever"
+    },
+    {
+      "question_id": 11,
+      "question": "Which scale assesses level of consciousness with eye, verbal, and motor responses?",
+      "options": [
+        "Glasgow Coma Scale",
+        "APGAR score",
+        "CHA2DS2-VASc score"
+      ],
+      "answer": "Glasgow Coma Scale"
+    },
+    {
+      "question_id": 12,
+      "question": "Which electrolyte disturbance prolongs QT interval and risks torsades de pointes when low?",
+      "options": [
+        "Hypomagnesemia",
+        "Hypercalcemia",
+        "Hyperkalemia"
+      ],
+      "answer": "Hypomagnesemia"
+    },
+    {
+      "question_id": 13,
+      "question": "Which vitamin deficiency causes scurvy with gum bleeding and poor wound healing?",
+      "options": [
+        "Vitamin C deficiency",
+        "Vitamin D deficiency",
+        "Vitamin B12 deficiency"
+      ],
+      "answer": "Vitamin C deficiency"
+    },
+    {
+      "question_id": 14,
+      "question": "Which antihypertensive medication class blocks angiotensin II receptors directly?",
+      "options": [
+        "ARB (angiotensin receptor blockers)",
+        "ACE inhibitors",
+        "Beta blockers"
+      ],
+      "answer": "ARB (angiotensin receptor blockers)"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metabolic pathway defect causes phenylketonuria with elevated phenylalanine and neurotoxicity if untreated?",
+      "options": [
+        "Phenylalanine hydroxylase deficiency",
+        "Homogentisate oxidase deficiency",
+        "Branched-chain alpha-keto acid dehydrogenase deficiency"
+      ],
+      "answer": "Phenylalanine hydroxylase deficiency"
+    }
+  ]
+}

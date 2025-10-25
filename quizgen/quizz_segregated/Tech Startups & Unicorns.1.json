@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a startup \"accelerator\" program?",
+      "options": [
+        "Short program offering mentorship, capital, and networking",
+        "Long-term corporate partnership",
+        "Government grant scheme"
+      ],
+      "answer": "Short program offering mentorship, capital, and networking"
+    },
+    {
+      "question_id": 2,
+      "question": "What is the difference between pre-money and post-money valuation?",
+      "options": [
+        "They are identical terms",
+        "Pre-money is valuation before new investment; post-money includes that investment",
+        "Pre-money includes new cash; post-money excludes cash"
+      ],
+      "answer": "Pre-money is valuation before new investment; post-money includes that investment"
+    },
+    {
+      "question_id": 3,
+      "question": "Which public-market approach lets existing private shareholders sell shares without a traditional IPO roadshow?",
+      "options": [
+        "Direct listing",
+        "Reverse takeover",
+        "SPAC business combination"
+      ],
+      "answer": "Direct listing"
+    },
+    {
+      "question_id": 4,
+      "question": "What is a \"seed\" round in startup funding?",
+      "options": [
+        "Public market sale of stock",
+        "Initial funding to build product and proof of concept",
+        "Late-stage funding before IPO"
+      ],
+      "answer": "Initial funding to build product and proof of concept"
+    },
+    {
+      "question_id": 5,
+      "question": "What metric pairs customer lifetime value with acquisition cost for unit economics?",
+      "options": [
+        "LTV/CAC ratio",
+        "Net promoter score",
+        "Gross margin percentage"
+      ],
+      "answer": "LTV/CAC ratio"
+    },
+    {
+      "question_id": 6,
+      "question": "Which advanced anti-dilution provision adjusts investor price protection by weighted-average or full-ratchet methods?",
+      "options": [
+        "Vesting schedule",
+        "Anti-dilution protection",
+        "Clawback provision"
+      ],
+      "answer": "Anti-dilution protection"
+    },
+    {
+      "question_id": 7,
+      "question": "What is a \"founder\" in the context of startups?",
+      "options": [
+        "An employee hired after Series A",
+        "Person who launches and builds the initial company",
+        "Someone who funds a large corporation"
+      ],
+      "answer": "Person who launches and builds the initial company"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric measures monthly recurring revenue normalized for subscription businesses?",
+      "options": [
+        "ARR (Annual Run Rate)",
+        "GMV (Gross Merchandise Value)",
+        "MRR (Monthly Recurring Revenue)"
+      ],
+      "answer": "MRR (Monthly Recurring Revenue)"
+    },
+    {
+      "question_id": 9,
+      "question": "Which company famously scaled via aggressive subsidized pricing to capture market share in ride-hailing?",
+      "options": [
+        "Uber",
+        "Ola",
+        "Lyft"
+      ],
+      "answer": "Uber"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"burn rate\" measure for a startup?",
+      "options": [
+        "Number of users acquired per month",
+        "Percentage of equity given to investors",
+        "Monthly cash spent to run the business"
+      ],
+      "answer": "Monthly cash spent to run the business"
+    },
+    {
+      "question_id": 11,
+      "question": "Which marketplace unicorn popularized short-term private rentals globally?",
+      "options": [
+        "Airbnb",
+        "Booking.com",
+        "HomeAway"
+      ],
+      "answer": "Airbnb"
+    },
+    {
+      "question_id": 12,
+      "question": "Which unicorn built a developer platform and raised major private funding while staying private as of 2024?",
+      "options": [
+        "PayPal",
+        "Stripe",
+        "Square"
+      ],
+      "answer": "Stripe"
+    },
+    {
+      "question_id": 13,
+      "question": "Which startup famous for short videos launched globally under the name TikTok?",
+      "options": [
+        "Vine 2.0",
+        "Vimeo Shorts",
+        "ByteDance's app"
+      ],
+      "answer": "ByteDance's app"
+    },
+    {
+      "question_id": 14,
+      "question": "Which startup popularized the \"network effects\" concept by becoming more valuable as users increased?",
+      "options": [
+        "Facebook",
+        "Twitter",
+        "MySpace"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "question_id": 15,
+      "question": "Which provision protects early employees by scheduling equity vesting over time with a cliff period?",
+      "options": [
+        "No vesting at all",
+        "Immediate full vesting",
+        "Standard four-year vesting with a one-year cliff"
+      ],
+      "answer": "Standard four-year vesting with a one-year cliff"
+    }
+  ]
+}

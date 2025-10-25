@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Who formulated the three laws of motion commonly taught in physics?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which theory replaced caloric theory by explaining heat as particle motion?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which theoretical result shows symmetries in gauge theories require conserved currents?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which law states that for a fixed mass at constant temperature, pressure and volume are inversely proportional?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which conservation law is directly associated with time-translation symmetry via Noether's theorem?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which theorem restricts simultaneous noncontextual hidden-variable assignments in quantum mechanics?"
+    },
+    {
+      "question_id": 7,
+      "question": "What scientific principle explains why objects float when they displace their own weight in fluid?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which concept in evolution describes rapid bursts of change separated by long stability?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which renown relation in statistical physics connects response functions to equilibrium fluctuations?"
+    },
+    {
+      "question_id": 10,
+      "question": "What principle explains how capacitors store energy in an electric field?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which theoretical framework unified electricity, magnetism, and optics in the 19th century?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which theorem relates scattering amplitudes at low energy to symmetry and conservation constraints in particle physics?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which scientist is known for the laws describing planetary motion?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which concept explains why biological populations grow exponentially when resources are unlimited?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which astrophysical relation connects the mass of a supermassive black hole to its host galaxy's bulge velocity dispersion?"
+    }
+  ]
+}

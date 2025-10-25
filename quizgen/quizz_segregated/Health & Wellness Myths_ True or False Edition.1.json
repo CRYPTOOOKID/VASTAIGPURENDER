@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which is accurate about antiperspirant and breast cancer?",
+      "options": [
+        "No convincing evidence links normal antiperspirant use to breast cancer",
+        "All deodorants always cause cancer",
+        "Antiperspirant use causes breast cancer"
+      ],
+      "answer": "No convincing evidence links normal antiperspirant use to breast cancer"
+    },
+    {
+      "question_id": 2,
+      "question": "Which statement about fruit juice and fiber reflects nutrition facts?",
+      "options": [
+        "Whole fruit retains more fiber while juice often removes fiber and concentrates sugar",
+        "Fruit juice has more fiber than whole fruit",
+        "Fruit juice is nutritionally identical to whole fruit"
+      ],
+      "answer": "Whole fruit retains more fiber while juice often removes fiber and concentrates sugar"
+    },
+    {
+      "question_id": 3,
+      "question": "Which documented consequence relates to unregulated weight-loss supplements?",
+      "options": [
+        "Unregulated supplements have caused liver injuries and product recalls in multiple cases",
+        "Regulators approve every supplement automatically",
+        "All weight-loss supplements are harmless and effective"
+      ],
+      "answer": "Unregulated supplements have caused liver injuries and product recalls in multiple cases"
+    },
+    {
+      "question_id": 4,
+      "question": "Which belief about eggs and cholesterol reflects current evidence?",
+      "options": [
+        "For most people, moderate egg consumption has minimal impact on heart risk",
+        "All eggs are unhealthy and should be avoided",
+        "Eating eggs always raises harmful cholesterol significantly"
+      ],
+      "answer": "For most people, moderate egg consumption has minimal impact on heart risk"
+    },
+    {
+      "question_id": 5,
+      "question": "Which statement about eye exercises improving vision is accurate?",
+      "options": [
+        "Eye exercises permanently correct refractive errors like myopia",
+        "Eye exercises may relieve strain but not reverse structural refractive errors",
+        "Eye exercises cure cataracts"
+      ],
+      "answer": "Eye exercises may relieve strain but not reverse structural refractive errors"
+    },
+    {
+      "question_id": 6,
+      "question": "Which documented interaction raises concern about grapefruit and prescription drugs?",
+      "options": [
+        "Grapefruit enhances all drug efficacy indiscriminately",
+        "Compounds in grapefruit can inhibit CYP3A4, altering metabolism of many drugs",
+        "Grapefruit has no effect on drug metabolism"
+      ],
+      "answer": "Compounds in grapefruit can inhibit CYP3A4, altering metabolism of many drugs"
+    },
+    {
+      "question_id": 7,
+      "question": "Which idea about cold weather and catching colds is supported by research?",
+      "options": [
+        "Viruses spread more in close indoor settings during cold weather",
+        "Cold air kills immunity immediately",
+        "Cold weather by itself causes viral infections"
+      ],
+      "answer": "Viruses spread more in close indoor settings during cold weather"
+    },
+    {
+      "question_id": 8,
+      "question": "Which historical fact explains the grapefruit diet's popularity?",
+      "options": [
+        "A 1930s fad credited grapefruit with metabolism-boosting enzymes",
+        "Grapefruit naturally contains a unique weight-loss hormone",
+        "Grapefruit only became popular after the 2000s"
+      ],
+      "answer": "A 1930s fad credited grapefruit with metabolism-boosting enzymes"
+    },
+    {
+      "question_id": 9,
+      "question": "Which historical detail explains how the 8x8 water rule likely originated?",
+      "options": [
+        "It was mandated by the World Health Organization in 1980",
+        "It derived from a 1945 USDA food guide suggesting total water intake from foods and drinks",
+        "It came from a 12th-century medical text"
+      ],
+      "answer": "It derived from a 1945 USDA food guide suggesting total water intake from foods and drinks"
+    },
+    {
+      "question_id": 10,
+      "question": "Which statement about cold showers burning fat is supported by science?",
+      "options": [
+        "Cold showers stop fat storage completely",
+        "Cold showers dramatically increase fat loss for everyone",
+        "Cold exposure can slightly increase calorie burn but is not a primary weight-loss method"
+      ],
+      "answer": "Cold exposure can slightly increase calorie burn but is not a primary weight-loss method"
+    },
+    {
+      "question_id": 11,
+      "question": "Which statement about 'fat-free' labels and calorie content is accurate?",
+      "options": [
+        "Fat-free products can still be high in sugars and calories",
+        "Fat-free implies healthier ingredients always",
+        "Fat-free always means low-calorie"
+      ],
+      "answer": "Fat-free products can still be high in sugars and calories"
+    },
+    {
+      "question_id": 12,
+      "question": "Which statistical result summarizes large reviews on vitamin C preventing colds?",
+      "options": [
+        "Vitamin C increases cold incidence significantly",
+        "Regular vitamin C reduces cold duration modestly, with inconsistent prevention benefits",
+        "Vitamin C eliminates all colds in clinical trials"
+      ],
+      "answer": "Regular vitamin C reduces cold duration modestly, with inconsistent prevention benefits"
+    },
+    {
+      "question_id": 13,
+      "question": "Which idea about night-time eating and weight gain is supported by evidence?",
+      "options": [
+        "Total calories and activity matter more than meal timing for most people",
+        "Night meals make the body store only fat",
+        "Eating late always causes weight gain regardless of calories"
+      ],
+      "answer": "Total calories and activity matter more than meal timing for most people"
+    },
+    {
+      "question_id": 14,
+      "question": "Which statement about 'natural' labeling on products aligns with regulations?",
+      "options": [
+        "Natural automatically equals organic certification",
+        "Natural labeling has one universal legal definition worldwide",
+        "Natural labeling rules vary and may not guarantee safety or purity"
+      ],
+      "answer": "Natural labeling rules vary and may not guarantee safety or purity"
+    },
+    {
+      "question_id": 15,
+      "question": "Which nutritional nuance explains why whole grains reduce chronic disease risk?",
+      "options": [
+        "Whole grains provide fiber, micronutrients, and lower glycemic impact versus refined grains",
+        "Whole grains directly cure genetic diseases",
+        "Whole grains are identical to refined grains in effect"
+      ],
+      "answer": "Whole grains provide fiber, micronutrients, and lower glycemic impact versus refined grains"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does \"burn the midnight oil\" mean?",
+      "options": [
+        "Start a bonfire at midnight",
+        "Study only during the day",
+        "Work late into the night"
+      ],
+      "answer": "Work late into the night"
+    },
+    {
+      "question_id": 2,
+      "question": "Which idiom means \"examine details too closely and miss the bigger picture\"?",
+      "options": [
+        "Can't see the forest for the trees",
+        "Burn your bridges",
+        "Cry over spilled milk"
+      ],
+      "answer": "Can't see the forest for the trees"
+    },
+    {
+      "question_id": 3,
+      "question": "Which idiom exemplifies synecdoche, using part to represent a whole?",
+      "options": [
+        "Go the extra mile",
+        "Give a hand",
+        "Break the bank"
+      ],
+      "answer": "Give a hand"
+    },
+    {
+      "question_id": 4,
+      "question": "What does \"spill the beans\" commonly mean?",
+      "options": [
+        "Reveal a secret unintentionally",
+        "Create a culinary disaster",
+        "Scatter seeds on soil"
+      ],
+      "answer": "Reveal a secret unintentionally"
+    },
+    {
+      "question_id": 5,
+      "question": "Which idiom most closely matches \"sudden and complete collapse\"?",
+      "options": [
+        "Saved by the bell",
+        "Came crashing down",
+        "Hold your horses"
+      ],
+      "answer": "Came crashing down"
+    },
+    {
+      "question_id": 6,
+      "question": "Which idiom originally emerged from printing press or publishing contexts?",
+      "options": [
+        "Lose your head",
+        "Hot off the press",
+        "Take with a grain of salt"
+      ],
+      "answer": "Hot off the press"
+    },
+    {
+      "question_id": 7,
+      "question": "What does \"pull someone’s leg\" mean playfully?",
+      "options": [
+        "Tease or joke with someone",
+        "Help someone walk",
+        "Physically yank a person"
+      ],
+      "answer": "Tease or joke with someone"
+    },
+    {
+      "question_id": 8,
+      "question": "Which idiom describes \"someone who refuses new ideas stubbornly\"?",
+      "options": [
+        "Throw your weight around",
+        "Set in their ways",
+        "Bite the hand"
+      ],
+      "answer": "Set in their ways"
+    },
+    {
+      "question_id": 9,
+      "question": "Which idiom exemplifies a proverb-like structure delivering moral advice?",
+      "options": [
+        "Ring a bell",
+        "Knock on wood",
+        "Look before you leap"
+      ],
+      "answer": "Look before you leap"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"break a leg\" mean when said to performers?",
+      "options": [
+        "Instruct someone to be clumsy",
+        "Tell someone to be dramatic",
+        "Wish someone good luck"
+      ],
+      "answer": "Wish someone good luck"
+    },
+    {
+      "question_id": 11,
+      "question": "Which idiom denotes \"stop arguing and accept a result\"?",
+      "options": [
+        "Bite the bullet",
+        "Cry wolf",
+        "Let sleeping dogs lie"
+      ],
+      "answer": "Let sleeping dogs lie"
+    },
+    {
+      "question_id": 12,
+      "question": "Which idiom originally described courtroom or legal procedure language historically?",
+      "options": [
+        "Skate on thin ice",
+        "Lay down the law",
+        "Go out on a limb"
+      ],
+      "answer": "Lay down the law"
+    },
+    {
+      "question_id": 13,
+      "question": "What does \"face the music\" mean figuratively?",
+      "options": [
+        "Lead an orchestra",
+        "Accept unpleasant consequences",
+        "Listen to a performance"
+      ],
+      "answer": "Accept unpleasant consequences"
+    },
+    {
+      "question_id": 14,
+      "question": "Which idiom best matches \"act before thinking leads to mistakes\"?",
+      "options": [
+        "Act in haste, repent at leisure",
+        "Play it safe",
+        "Put your money where your mouth is"
+      ],
+      "answer": "Act in haste, repent at leisure"
+    },
+    {
+      "question_id": 15,
+      "question": "Which idiom best illustrates a calque from French into English historically?",
+      "options": [
+        "Green thumb",
+        "Fait accompli",
+        "Hit the sack"
+      ],
+      "answer": "Fait accompli"
+    }
+  ]
+}

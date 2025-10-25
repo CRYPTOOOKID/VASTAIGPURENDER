@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What does 'What goes around comes around' imply?",
+      "options": [
+        "Actions have consequences",
+        "Round objects always return",
+        "Travel often brings repetition"
+      ],
+      "answer": "Actions have consequences"
+    },
+    {
+      "question_id": 2,
+      "question": "Who is traditionally credited with authoring much of the Biblical Book of Proverbs?",
+      "options": [
+        "King Solomon",
+        "King David",
+        "Prophet Isaiah"
+      ],
+      "answer": "King Solomon"
+    },
+    {
+      "question_id": 3,
+      "question": "Which rhetorical device is especially common in Biblical proverbs?",
+      "options": [
+        "Parallelism",
+        "Metathesis",
+        "Chiasmus only"
+      ],
+      "answer": "Parallelism"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the meaning of 'Don't put all your eggs in one basket'?",
+      "options": [
+        "Spread your risk across options",
+        "Buy more baskets",
+        "Raise more chickens"
+      ],
+      "answer": "Spread your risk across options"
+    },
+    {
+      "question_id": 5,
+      "question": "Which poet wrote 'To err is human; to forgive, divine'?",
+      "options": [
+        "Alexander Pope",
+        "John Milton",
+        "William Blake"
+      ],
+      "answer": "Alexander Pope"
+    },
+    {
+      "question_id": 6,
+      "question": "Which rare label describes a proverb used as an argument in folk law or oral testimony?",
+      "options": [
+        "Proverbial argument",
+        "Legal maxim only",
+        "Oral anecdote"
+      ],
+      "answer": "Proverbial argument"
+    },
+    {
+      "question_id": 7,
+      "question": "Which proverb encourages starting early to gain advantage?",
+      "options": [
+        "The early bird catches the worm",
+        "Every cloud has a silver lining",
+        "A rolling stone gathers no moss"
+      ],
+      "answer": "The early bird catches the worm"
+    },
+    {
+      "question_id": 8,
+      "question": "Which proverb teaches that small consistent efforts produce results?",
+      "options": [
+        "Little strokes fell great oaks",
+        "Strike while the iron is hot",
+        "Mend fences while the sun shines"
+      ],
+      "answer": "Little strokes fell great oaks"
+    },
+    {
+      "question_id": 9,
+      "question": "Which proverb became a slogan in risk management advising not to rely on a single option?",
+      "options": [
+        "Don't put all your eggs in one basket",
+        "Better late than never",
+        "Live and let live"
+      ],
+      "answer": "Don't put all your eggs in one basket"
+    },
+    {
+      "question_id": 10,
+      "question": "Which proverb tells you to take action rather than only speak?",
+      "options": [
+        "Actions speak louder than words",
+        "Words build worlds",
+        "Talk is cheap but loud"
+      ],
+      "answer": "Actions speak louder than words"
+    },
+    {
+      "question_id": 11,
+      "question": "Which proverb is summarized by 'Less is more' in modern phrasing?",
+      "options": [
+        "Too much of a good thing",
+        "Brevity is the soul of wit",
+        "Rome wasn't built in a day"
+      ],
+      "answer": "Too much of a good thing"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Roman leader uttered 'Alea iacta est' when crossing the Rubicon?",
+      "options": [
+        "Julius Caesar",
+        "Marcus Antonius",
+        "Nero"
+      ],
+      "answer": "Julius Caesar"
+    },
+    {
+      "question_id": 13,
+      "question": "Complete the proverb: 'Look before you ___'",
+      "options": [
+        "leap",
+        "run",
+        "speak"
+      ],
+      "answer": "leap"
+    },
+    {
+      "question_id": 14,
+      "question": "Which proverb does the fable 'The Ant and the Grasshopper' illustrate?",
+      "options": [
+        "Prepare for the future",
+        "Enjoy life now",
+        "Share everything equally"
+      ],
+      "answer": "Prepare for the future"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 18th-century poet wrote the line that inspired 'the best-laid plans of mice and men'?",
+      "options": [
+        "Robert Burns",
+        "William Wordsworth",
+        "Samuel Taylor Coleridge"
+      ],
+      "answer": "Robert Burns"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a penny stock?",
+      "options": [
+        "A low-priced stock often with high risk",
+        "A stock that pays monthly dividends",
+        "A government bond with low yield"
+      ],
+      "answer": "A low-priced stock often with high risk"
+    },
+    {
+      "question_id": 2,
+      "question": "What does a stock's float represent?",
+      "options": [
+        "Shares available for public trading",
+        "Total shares authorized by the company",
+        "Number of shares held by insiders exclusively"
+      ],
+      "answer": "Shares available for public trading"
+    },
+    {
+      "question_id": 3,
+      "question": "Which hedge fund fee structure term describes 2% management and 20% performance fees?",
+      "options": [
+        "Two and twenty",
+        "Flat and variable",
+        "Fixed margin model"
+      ],
+      "answer": "Two and twenty"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'portfolio' refer to for an investor?",
+      "options": [
+        "Collection of an investor's assets and investments",
+        "A certificate showing tax-exempt status",
+        "A legal document for establishing a trust"
+      ],
+      "answer": "Collection of an investor's assets and investments"
+    },
+    {
+      "question_id": 5,
+      "question": "Which fund type pools investor money to buy a broad market basket passively?",
+      "options": [
+        "Index fund",
+        "Hedge fund",
+        "Private equity fund"
+      ],
+      "answer": "Index fund"
+    },
+    {
+      "question_id": 6,
+      "question": "Which firm completed the largest single-company IPO by proceeds in 2019?",
+      "options": [
+        "Saudi Aramco",
+        "Alibaba Group",
+        "Facebook"
+      ],
+      "answer": "Saudi Aramco"
+    },
+    {
+      "question_id": 7,
+      "question": "What is market capitalization?",
+      "options": [
+        "Total market value of a company's outstanding shares",
+        "Company revenue over one year",
+        "Total assets minus liabilities on the balance sheet"
+      ],
+      "answer": "Total market value of a company's outstanding shares"
+    },
+    {
+      "question_id": 8,
+      "question": "Which metric signals potential recession when it inverts relative to short rates?",
+      "options": [
+        "Yield curve inversion",
+        "Price-to-sales expansion",
+        "Rising corporate dividends"
+      ],
+      "answer": "Yield curve inversion"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rules govern clearing and settling securities trades in most U.S. markets today?",
+      "options": [
+        "T+2 settlement cycle",
+        "Continuous net settlement",
+        "Immediate delivery requirement"
+      ],
+      "answer": "T+2 settlement cycle"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the role of a stockbroker?",
+      "options": [
+        "Execute trades and provide access to markets",
+        "Audit company financial statements annually",
+        "Regulate exchanges and set interest rates"
+      ],
+      "answer": "Execute trades and provide access to markets"
+    },
+    {
+      "question_id": 11,
+      "question": "Which year did the New York Stock Exchange begin under the Buttonwood Agreement?",
+      "options": [
+        "1792",
+        "1865",
+        "1929"
+      ],
+      "answer": "1792"
+    },
+    {
+      "question_id": 12,
+      "question": "Which advisory measure requires public company CEOs and CFOs to certify financial statements?",
+      "options": [
+        "Sarbanes-Oxley Section 302 certifications",
+        "Glass-Steagall executive oath",
+        "Dodd-Frank CEO disclosure rule"
+      ],
+      "answer": "Sarbanes-Oxley Section 302 certifications"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a dividend?",
+      "options": [
+        "A company payment to shareholders from profits",
+        "A fee paid to brokers for trades",
+        "A penalty for selling shares early"
+      ],
+      "answer": "A company payment to shareholders from profits"
+    },
+    {
+      "question_id": 14,
+      "question": "Which event is called Black Monday for a massive single-day market decline?",
+      "options": [
+        "October 19, 1987 crash",
+        "October 24, 1929 crash",
+        "September 15, 2008 collapse"
+      ],
+      "answer": "October 19, 1987 crash"
+    },
+    {
+      "question_id": 15,
+      "question": "Which metric measures a firm's operating profitability excluding capital structure effects?",
+      "options": [
+        "EBITDA",
+        "Net income",
+        "Book value"
+      ],
+      "answer": "EBITDA"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a direct message (DM) used for?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which tool type helps identify trending topics and influencers in real time?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which milestone did TikTok achieve by 2019 in global downloads?"
+    },
+    {
+      "question_id": 4,
+      "question": "What is \"UGC\" in social marketing?"
+    },
+    {
+      "question_id": 5,
+      "question": "What is \"UGC campaign\" shorthand for in marketing terms?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which global event accelerated influencer livestream shopping adoption in multiple markets?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is \"social listening\" used for by brands?"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a common contract deliverable for influencers?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which content moderation risk do brands assess when partnering with creators?"
+    },
+    {
+      "question_id": 10,
+      "question": "What does \"organic reach\" mean for posts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which platform acquired influencer marketplace FameBit in 2016?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which social network introduced the blue verification badge concept widely copied elsewhere?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is a \"call to action\" (CTA) in influencer posts?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which metric helps brands estimate cost efficiency of influencer ads?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which verification action do brands use to ensure creator analytics authenticity?"
+    }
+  ]
+}

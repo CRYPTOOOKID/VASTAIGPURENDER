@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which house created the quilted 2.55 handbag?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which creative director introduced flamboyant maximalism at Gucci beginning 2015?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which luxury house's logo features a double-T inspired by the founder's name and equestrian heritage?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which label popularized durable nylon backpacks in luxury fashion?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which luxury conglomerate owns brands including Louis Vuitton and Dior?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which brand historically used a house code of 'Made in Italy' versus 'Made in France' to signal origin?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which jeweler is known for the iconic panther motif?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which luxury label established a famous leather weaving called intrecciato?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which Italian leather atelier founded in 1892 became famous for its house technique and monogram G?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which pattern is most associated with Burberry?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which brand created the classic Vara bow pump and is known for Italian craftsmanship?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which French perfumer created Chanel No.5 for Coco Chanel in 1921?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which brand was founded by Cristóbal Balenciaga?"
+    },
+    {
+      "question_id": 14,
+      "question": "In which year did Yves Saint Laurent introduce the women's tuxedo 'Le Smoking'?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which fashion house staged the Metropolitan Museum exhibition 'Savage Beauty' in 2011?"
+    }
+  ]
+}

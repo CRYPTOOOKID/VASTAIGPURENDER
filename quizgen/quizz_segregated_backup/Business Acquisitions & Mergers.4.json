@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a spin-off?",
+      "options": [
+        "Company creates independent company from a unit",
+        "Company buys a new division",
+        "Company merges with a competitor"
+      ],
+      "answer": "Company creates independent company from a unit"
+    },
+    {
+      "question_id": 2,
+      "question": "Which U.S. law mandates pre-merger notification for large deals?",
+      "options": [
+        "Hart-Scott-Rodino Act",
+        "Sarbanes-Oxley Act",
+        "Dodd-Frank Act"
+      ],
+      "answer": "Hart-Scott-Rodino Act"
+    },
+    {
+      "question_id": 3,
+      "question": "What is a reverse triangular merger commonly used for?",
+      "options": [
+        "Acquirer obtains target while preserving target's contracts",
+        "Target buys the acquirer's shares",
+        "Acquirer sells off a major asset before closing"
+      ],
+      "answer": "Acquirer obtains target while preserving target's contracts"
+    },
+    {
+      "question_id": 4,
+      "question": "What does due diligence mean in M&A?",
+      "options": [
+        "Investigative review of the target",
+        "Price negotiation meeting",
+        "Post-merger integration plan"
+      ],
+      "answer": "Investigative review of the target"
+    },
+    {
+      "question_id": 5,
+      "question": "What is a white knight in takeover situations?",
+      "options": [
+        "Friendly third-party purchaser rescues the target",
+        "Hostile bidder forcing a sale",
+        "Regulator blocking the deal"
+      ],
+      "answer": "Friendly third-party purchaser rescues the target"
+    },
+    {
+      "question_id": 6,
+      "question": "Which corporate reorganization code in the U.S. defines certain tax-free mergers?",
+      "options": [
+        "Section 368 of the Internal Revenue Code",
+        "Section 11 of the Securities Act",
+        "Section 404 of Sarbanes-Oxley"
+      ],
+      "answer": "Section 368 of the Internal Revenue Code"
+    },
+    {
+      "question_id": 7,
+      "question": "Which document is critical in due diligence?",
+      "options": [
+        "Target's financial statements",
+        "Local newspaper articles",
+        "Employee birthday lists"
+      ],
+      "answer": "Target's financial statements"
+    },
+    {
+      "question_id": 8,
+      "question": "What is a golden parachute?",
+      "options": [
+        "Severance benefits for executives after change of control",
+        "Large acquisition premium paid to shareholders",
+        "Stock swap method"
+      ],
+      "answer": "Severance benefits for executives after change of control"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the key valuation concern with hostile takeover targets?",
+      "options": [
+        "Potential premium and rapid price moves from contest",
+        "Guaranteed regulatory approval",
+        "No need for due diligence"
+      ],
+      "answer": "Potential premium and rapid price moves from contest"
+    },
+    {
+      "question_id": 10,
+      "question": "What is a hostile takeover?",
+      "options": [
+        "Target board opposes bidder",
+        "Friendly negotiated sale",
+        "Merger approved by shareholders"
+      ],
+      "answer": "Target board opposes bidder"
+    },
+    {
+      "question_id": 11,
+      "question": "What is a poison pill defense?",
+      "options": [
+        "Issuing rights that dilute a bidder",
+        "Increasing dividends to shareholders",
+        "Selling company assets quickly"
+      ],
+      "answer": "Issuing rights that dilute a bidder"
+    },
+    {
+      "question_id": 12,
+      "question": "Which transaction form often avoids successor liability for acquirer?",
+      "options": [
+        "Asset purchase with specific liability carve-outs",
+        "100% stock purchase with no disclosures",
+        "Hostile tender offer"
+      ],
+      "answer": "Asset purchase with specific liability carve-outs"
+    },
+    {
+      "question_id": 13,
+      "question": "What is cash consideration?",
+      "options": [
+        "Buyer pays cash for shares or assets",
+        "Seller pays buyer cash",
+        "Company issues new stock"
+      ],
+      "answer": "Buyer pays cash for shares or assets"
+    },
+    {
+      "question_id": 14,
+      "question": "What is sector consolidation typically driven by M&A?",
+      "options": [
+        "Reduction in number of competitors",
+        "Increase in IPOs",
+        "Rise in small startups"
+      ],
+      "answer": "Reduction in number of competitors"
+    },
+    {
+      "question_id": 15,
+      "question": "What is a key advantage of a reverse triangular merger for acquirers?",
+      "options": [
+        "Preserves target's contractual relationships while achieving control",
+        "Automatically avoids all regulatory review",
+        "Eliminates need for purchase price allocation"
+      ],
+      "answer": "Preserves target's contractual relationships while achieving control"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the full form of WHO?",
+      "options": [
+        "Worldwide Health Office",
+        "World Health Organization",
+        "World Hospital Organization"
+      ],
+      "answer": "World Health Organization"
+    },
+    {
+      "question_id": 2,
+      "question": "What does OPEC stand for?",
+      "options": [
+        "Oil Producing Exporting Countries",
+        "Organization of Petroleum Export Countries",
+        "Organization of the Petroleum Exporting Countries"
+      ],
+      "answer": "Organization of the Petroleum Exporting Countries"
+    },
+    {
+      "question_id": 3,
+      "question": "What did ARPANET originally stand for?",
+      "options": [
+        "Advanced Research Projects Agency Network",
+        "Advanced Research Program Agency Network",
+        "Advanced Research Projects and Networks"
+      ],
+      "answer": "Advanced Research Projects Agency Network"
+    },
+    {
+      "question_id": 4,
+      "question": "What is the full form of HIV?",
+      "options": [
+        "Human Immunity Viral",
+        "Human Immune Viral Infection",
+        "Human Immunodeficiency Virus"
+      ],
+      "answer": "Human Immunodeficiency Virus"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the full form of IMF?",
+      "options": [
+        "International Monetary Fund",
+        "International Monetary Foundation",
+        "International Money Fund"
+      ],
+      "answer": "International Monetary Fund"
+    },
+    {
+      "question_id": 6,
+      "question": "What does RAID mean in storage technologies?",
+      "options": [
+        "Redundant Array of Integrated Disks",
+        "Redundant Array of Inexpensive Disks",
+        "Redundant Array of Independent Disks"
+      ],
+      "answer": "Redundant Array of Independent Disks"
+    },
+    {
+      "question_id": 7,
+      "question": "What does SMS stand for?",
+      "options": [
+        "Simple Message System",
+        "Short Message Service",
+        "Short Mail Service"
+      ],
+      "answer": "Short Message Service"
+    },
+    {
+      "question_id": 8,
+      "question": "What does SMTP stand for in email delivery?",
+      "options": [
+        "Secure Mail Transfer Protocol",
+        "Simple Mail Transport Protocol",
+        "Simple Mail Transfer Protocol"
+      ],
+      "answer": "Simple Mail Transfer Protocol"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the full form of EXIF in photography metadata?",
+      "options": [
+        "External Image File Format",
+        "Exchangeable Image File Format",
+        "Exchange Image File Format"
+      ],
+      "answer": "Exchangeable Image File Format"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the full form of FBI?",
+      "options": [
+        "Federal Bureau of Investigation",
+        "Federal Board of Intelligence",
+        "Foreign Bureau of Investigation"
+      ],
+      "answer": "Federal Bureau of Investigation"
+    },
+    {
+      "question_id": 11,
+      "question": "What is the full form of PNG image format?",
+      "options": [
+        "Portable Network Graphics",
+        "Pixel Network Graphics",
+        "Portable Network Grid"
+      ],
+      "answer": "Portable Network Graphics"
+    },
+    {
+      "question_id": 12,
+      "question": "What operations does CRUD summarize?",
+      "options": [
+        "Create, Read, Update, Delete",
+        "Copy, Read, Upload, Delete",
+        "Create, Replace, Update, Deploy"
+      ],
+      "answer": "Create, Read, Update, Delete"
+    },
+    {
+      "question_id": 13,
+      "question": "What does NASA stand for?",
+      "options": [
+        "National Aeronautics and Space Agency",
+        "National Aeronautics and Space Administration",
+        "National Aerospace and Space Agency"
+      ],
+      "answer": "National Aeronautics and Space Administration"
+    },
+    {
+      "question_id": 14,
+      "question": "What does ICBM mean in military terms?",
+      "options": [
+        "International Continental Ballistic Missile",
+        "Intercontinental Ballistic Munition",
+        "Intercontinental Ballistic Missile"
+      ],
+      "answer": "Intercontinental Ballistic Missile"
+    },
+    {
+      "question_id": 15,
+      "question": "What does POSIX stand for in computing standards?",
+      "options": [
+        "Program Operating System Interface",
+        "Portable Operating Standards Interface",
+        "Portable Operating System Interface"
+      ],
+      "answer": "Portable Operating System Interface"
+    }
+  ]
+}

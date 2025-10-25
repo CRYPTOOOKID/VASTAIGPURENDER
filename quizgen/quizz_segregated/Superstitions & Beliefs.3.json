@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which flower is often associated with funerals and mourning in several Western cultures?",
+      "options": [
+        "Tulip",
+        "Sunflower",
+        "Chrysanthemum"
+      ],
+      "answer": "Chrysanthemum"
+    },
+    {
+      "question_id": 2,
+      "question": "What specialized word names the superstition specifically about Friday the 13th?",
+      "options": [
+        "Pogonophobia",
+        "Paraskevidekatriaphobia",
+        "Nyctophobia"
+      ],
+      "answer": "Paraskevidekatriaphobia"
+    },
+    {
+      "question_id": 3,
+      "question": "Which nineteenth-century author popularized modern fear of Friday the 13th through fiction?",
+      "options": [
+        "Charles Dickens",
+        "Mary Shelley",
+        "Thomas W. Lawson"
+      ],
+      "answer": "Thomas W. Lawson"
+    },
+    {
+      "question_id": 4,
+      "question": "Which talisman features an open hand and is used to protect against evil in Middle Eastern cultures?",
+      "options": [
+        "Pentagram",
+        "Hamsa",
+        "Ankh"
+      ],
+      "answer": "Hamsa"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Roman deity's priests practiced augury by observing birds for omens?",
+      "options": [
+        "Venus' oracles",
+        "Jupiter's augurs",
+        "Mars' seers"
+      ],
+      "answer": "Jupiter's augurs"
+    },
+    {
+      "question_id": 6,
+      "question": "Which object did Victorian households commonly use as a charm against contagious disease and misfortune?",
+      "options": [
+        "Posy or medicinal sachet",
+        "Cast iron lock",
+        "Electric meter"
+      ],
+      "answer": "Posy or medicinal sachet"
+    },
+    {
+      "question_id": 7,
+      "question": "Which creature is often used as a symbol of bad omen in sailors' superstitions?",
+      "options": [
+        "Albatross",
+        "Rabbit",
+        "Goldfish"
+      ],
+      "answer": "Albatross"
+    },
+    {
+      "question_id": 8,
+      "question": "Which cultural object is commonly given at weddings to protect the couple from evil influences?",
+      "options": [
+        "Horsehair ropes",
+        "Silver spoons",
+        "Protective charms"
+      ],
+      "answer": "Protective charms"
+    },
+    {
+      "question_id": 9,
+      "question": "What is the specialist term for talismans whose inscriptions are designed to avert harm?",
+      "options": [
+        "Iconic reliquaries",
+        "Charms with apotropaic inscriptions",
+        "Heraldic seals"
+      ],
+      "answer": "Charms with apotropaic inscriptions"
+    },
+    {
+      "question_id": 10,
+      "question": "Which action do people often take to reverse spilled salt's bad omen?",
+      "options": [
+        "Throw a pinch over shoulder",
+        "Sweep it outside",
+        "Scatter water"
+      ],
+      "answer": "Throw a pinch over shoulder"
+    },
+    {
+      "question_id": 11,
+      "question": "Which ancient civilization is known for interpreting omens from entrails and liver inspections?",
+      "options": [
+        "Etruscans",
+        "Mongols",
+        "Aztecs"
+      ],
+      "answer": "Etruscans"
+    },
+    {
+      "question_id": 12,
+      "question": "Which Indo-European deity's cult is sometimes connected with horseshoe luck traditions historically?",
+      "options": [
+        "Indra",
+        "Perun",
+        "Epona"
+      ],
+      "answer": "Epona"
+    },
+    {
+      "question_id": 13,
+      "question": "Which bird is often linked to omens and death in European folklore?",
+      "options": [
+        "Pigeon",
+        "Crow",
+        "Sparrow"
+      ],
+      "answer": "Crow"
+    },
+    {
+      "question_id": 14,
+      "question": "What is the word for a person who interprets omens and portents professionally?",
+      "options": [
+        "Diviner",
+        "Scribe",
+        "Cartographer"
+      ],
+      "answer": "Diviner"
+    },
+    {
+      "question_id": 15,
+      "question": "Which Ottoman-era term refers to blue glass amulets against envy and malice seen across Anatolia?",
+      "options": [
+        "Nazar boncuğu",
+        "Kismet pendant",
+        "Muraqqa"
+      ],
+      "answer": "Nazar boncuğu"
+    }
+  ]
+}

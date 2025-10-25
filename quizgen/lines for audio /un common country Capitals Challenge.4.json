@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is the capital city of Chad, situated near the Chari River?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country is unique for having no official capital named in its constitution?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which capital is notable for having no official capital status codified, despite a district acting as the seat of government?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which city serves as the national capital of Tuvalu, located on the Funafuti atoll?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which Beninese city functions as the government's primary seat despite Porto-Novo being official capital?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which capital's relocation ceremony was officially recognized by presidential decree and named Ciudad de la Paz in 2017?"
+    },
+    {
+      "question_id": 7,
+      "question": "What is the capital of the island nation Kiribati, situated on the atoll of Tarawa?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which small capital occupies a single densely populated coral island and faces severe space limits?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which capital began as a colonial administrative center named 'Belmonte' before being rebuilt inland as Belmopan in 1970?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which city is the capital of Saint Kitts and Nevis, on the island of St Kitts?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which Caribbean capital stands on a bay and hosts an annual carnival with strong African influences?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which capital's name was changed officially to reflect a vision of national unity and future development in 2017?"
+    },
+    {
+      "question_id": 13,
+      "question": "What is the capital of Timor-Leste, located on the northern coast of the country?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which capital city is the administrative center of a country that spans both a mainland and several islands?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which capital's urban core developed around a natural harbor with a fortress repeatedly rebuilt across centuries?"
+    }
+  ]
+}

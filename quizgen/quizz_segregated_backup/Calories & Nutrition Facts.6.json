@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which nutrient group includes sugars, starches, and fiber?",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats"
+      ],
+      "answer": "Carbohydrates"
+    },
+    {
+      "question_id": 2,
+      "question": "Which macronutrient's excess intake most directly increases urinary nitrogen excretion?",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Fat"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "question_id": 3,
+      "question": "Which historic observation led to standardized calorie tables and food energy science?",
+      "options": [
+        "Systematic human feeding trials in late 19th century",
+        "Randomized soda consumption study in 2000s",
+        "Discovery of vitamin C"
+      ],
+      "answer": "Systematic human feeding trials in late 19th century"
+    },
+    {
+      "question_id": 4,
+      "question": "Which label ingredient indicates added simple sugars rather than natural sugars?",
+      "options": [
+        "Added sugars",
+        "Dietary fiber",
+        "Natural flavors"
+      ],
+      "answer": "Added sugars"
+    },
+    {
+      "question_id": 5,
+      "question": "Which effect reduces calorie absorption from some high-fiber meals?",
+      "options": [
+        "Fiber binding and limiting digestion",
+        "Fiber increasing sugar absorption",
+        "Fiber converting to alcohol"
+      ],
+      "answer": "Fiber binding and limiting digestion"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fatty acid class contains essential omega-3s and omega-6s required in the diet?",
+      "options": [
+        "Polyunsaturated fatty acids",
+        "Monounsaturated fatty acids",
+        "Saturated fatty acids"
+      ],
+      "answer": "Polyunsaturated fatty acids"
+    },
+    {
+      "question_id": 7,
+      "question": "Which common kitchen measurement often differs from a serving size?",
+      "options": [
+        "Portion",
+        "Percent Daily Value",
+        "Daily recommendation"
+      ],
+      "answer": "Portion"
+    },
+    {
+      "question_id": 8,
+      "question": "What does nutrient density measure in a food?",
+      "options": [
+        "Vitamins and minerals per calorie",
+        "Calories per bite",
+        "Serving size per package"
+      ],
+      "answer": "Vitamins and minerals per calorie"
+    },
+    {
+      "question_id": 9,
+      "question": "What major limitation separates bomb calorimeter readings from physiological energy?",
+      "options": [
+        "Bomb calorimeter measures gross energy including nonabsorbable components",
+        "Bomb calorimeter measures vitamin levels, not energy",
+        "Bomb calorimeter underestimates food energy by half"
+      ],
+      "answer": "Bomb calorimeter measures gross energy including nonabsorbable components"
+    },
+    {
+      "question_id": 10,
+      "question": "Which food component supplies energy but is not an essential nutrient?",
+      "options": [
+        "Alcohol",
+        "Vitamin C",
+        "Calcium"
+      ],
+      "answer": "Alcohol"
+    },
+    {
+      "question_id": 11,
+      "question": "Which advanced concept links caloric content with hormonal responses influencing appetite?",
+      "options": [
+        "Metabolic fuel partitioning and signaling",
+        "Calorie color coding",
+        "Serving multiplicity theory"
+      ],
+      "answer": "Metabolic fuel partitioning and signaling"
+    },
+    {
+      "question_id": 12,
+      "question": "Which essential fatty acid family includes linoleic acid with known calorie contribution?",
+      "options": [
+        "Omega-6 family",
+        "Trans fat family",
+        "Saturated fat family"
+      ],
+      "answer": "Omega-6 family"
+    },
+    {
+      "question_id": 13,
+      "question": "Which phenomenon explains why some high-fat foods feel less filling per calorie than protein-rich foods?",
+      "options": [
+        "Lower thermic effect and slower satiety signaling",
+        "Higher vitamin load",
+        "Faster digestion than carbohydrates"
+      ],
+      "answer": "Lower thermic effect and slower satiety signaling"
+    },
+    {
+      "question_id": 14,
+      "question": "Which advanced sweetener can be fermented by gut microbes producing calories unexpectedly?",
+      "options": [
+        "Certain sugar alcohols and oligosaccharides",
+        "Pure table sugar only",
+        "Sodium chloride"
+      ],
+      "answer": "Certain sugar alcohols and oligosaccharides"
+    },
+    {
+      "question_id": 15,
+      "question": "Which factor causes alcohol to be metabolized preferentially over other macronutrients?",
+      "options": [
+        "Its toxic byproducts demand immediate oxidation",
+        "It is stored in large adipose depots",
+        "It raises insulin dramatically"
+      ],
+      "answer": "Its toxic byproducts demand immediate oxidation"
+    }
+  ]
+}

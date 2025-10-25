@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which plucked instrument with sympathetic strings is iconic in Hindustani music?",
+      "options": [
+        "Sitar",
+        "Veena",
+        "Sarod"
+      ],
+      "answer": "Sitar"
+    },
+    {
+      "question_id": 2,
+      "question": "Which vocalist famously brought Carnatic music to international concert halls in the 20th century?",
+      "options": [
+        "M.S. Subbulakshmi",
+        "Begum Akhtar",
+        "Girija Devi"
+      ],
+      "answer": "M.S. Subbulakshmi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which percussion form supplies the deep barrel-shaped bass in North Indian dhrupad ensembles?",
+      "options": [
+        "Pakhawaj",
+        "Mridangam",
+        "Khol"
+      ],
+      "answer": "Pakhawaj"
+    },
+    {
+      "question_id": 4,
+      "question": "Which lighter classical form emphasizes romantic or devotional themes and expressive lyrics?",
+      "options": [
+        "Thumri",
+        "Dhrupad",
+        "Khayal"
+      ],
+      "answer": "Thumri"
+    },
+    {
+      "question_id": 5,
+      "question": "Which instrument did Pt. Shivkumar Sharma reinvent for classical concert stages?",
+      "options": [
+        "Santoor",
+        "Sarod",
+        "Veena"
+      ],
+      "answer": "Santoor"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Gurmat Sangeet text or tradition shaped classical forms used in Sikh kirtan historically?",
+      "options": [
+        "Pauranic shastric tradition",
+        "Gurmat Sangeet tradition",
+        "Carnatic kriti tradition"
+      ],
+      "answer": "Gurmat Sangeet tradition"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fretless plucked instrument produces a deep resonant tone in Hindustani music?",
+      "options": [
+        "Sarod",
+        "Sitar",
+        "Veena"
+      ],
+      "answer": "Sarod"
+    },
+    {
+      "question_id": 8,
+      "question": "Which technique names the spoken rhythmic syllables used by tabla players to teach patterns?",
+      "options": [
+        "Bols",
+        "Sargam",
+        "Thah"
+      ],
+      "answer": "Bols"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rare bowed instrument blends sarangi timbre with a simpler neck and is used in eastern India?",
+      "options": [
+        "Esraj",
+        "Violin",
+        "Sarinda"
+      ],
+      "answer": "Sarinda"
+    },
+    {
+      "question_id": 10,
+      "question": "Which annual Pune festival is famous for Hindustani classical music performances?",
+      "options": [
+        "Sawai Gandharva",
+        "Tansen Samaroh",
+        "Konark Festival"
+      ],
+      "answer": "Sawai Gandharva"
+    },
+    {
+      "question_id": 11,
+      "question": "Which percussion instrument provides bass resonance in North Indian classical ensembles?",
+      "options": [
+        "Bayan (left tabla)",
+        "Dayan (right tabla)",
+        "Kanjira"
+      ],
+      "answer": "Bayan (left tabla)"
+    },
+    {
+      "question_id": 12,
+      "question": "Which term denotes the fast, rhythmic, percussive finale section on sitar and sarod?",
+      "options": [
+        "Jhala",
+        "Jor",
+        "Gat"
+      ],
+      "answer": "Jhala"
+    },
+    {
+      "question_id": 13,
+      "question": "Which percussion instrument is central to Punjabi folk ceremonies and dances?",
+      "options": [
+        "Dhol",
+        "Tabla",
+        "Kanjira"
+      ],
+      "answer": "Dhol"
+    },
+    {
+      "question_id": 14,
+      "question": "Which ornamentation describes a smooth glide between two notes in Indian classical music?",
+      "options": [
+        "Meend",
+        "Gamak",
+        "Kana"
+      ],
+      "answer": "Meend"
+    },
+    {
+      "question_id": 15,
+      "question": "Which 13th-century musicological work by Sarngadeva documents medieval Indian music comprehensively?",
+      "options": [
+        "Sangeet Ratnakara",
+        "Natya Shastra",
+        "Brihaddeshi"
+      ],
+      "answer": "Sangeet Ratnakara"
+    }
+  ]
+}

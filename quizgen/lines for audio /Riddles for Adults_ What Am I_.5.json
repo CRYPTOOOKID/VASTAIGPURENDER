@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What is a common goal when solving a \"What am I?\" riddle?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which technique counters solver frustration during riddle games?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which design principle helps expert riddle creators avoid accidental ambiguity?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which feature distinguishes adult \"What am I?\" riddles from children's riddles?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which of these is a nuanced answer for \"I speak without a mouth and hear without ears\"?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which answer fits: \"I am heavy forward but light backward\"?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which literary device is frequently used in \"What am I?\" riddles?"
+    },
+    {
+      "question_id": 8,
+      "question": "If a riddle mentions \"I am oft broken but rarely kept,\" which answer fits?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which rhetorical risk can alienate sophisticated riddle audiences?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which mood best fits an adult \"What am I?\" riddle session?"
+    },
+    {
+      "question_id": 11,
+      "question": "What type of adult riddle uses cultural references most effectively?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which feature elevates a riddle to 'classic' status among adults?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which of these is a non-literal clue often used?"
+    },
+    {
+      "question_id": 14,
+      "question": "When a riddle says \"I have a heart that doesn't beat,\" what answer fits best?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which historical figure used riddles as part of philosophical teaching methods?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which US president's last words were reported as \"I want to be left alone\"?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which leader said \"If only I had served my country as I served my family\" in remorse near death?"
+    },
+    {
+      "question_id": 3,
+      "question": "Who reportedly told a servant \"I have tried to do my duty\" as dying assurance to history?"
+    },
+    {
+      "question_id": 4,
+      "question": "Which famous composer said \"Play it, Sam\" at his death according to popular culture? (Note: misquoted line)"
+    },
+    {
+      "question_id": 5,
+      "question": "Who said \"Whatever happens, you must not be afraid\" as calming last words to a loved one?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which 20th-century author reportedly said \"I am ready to meet my Maker\" and referenced faith at death?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which composer reportedly said \"It is very sad, but it is over\" in their final moments?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which American jazz legend reportedly said \"Don't worry about me\" before death?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which composer pronounced in Italian \"La mia anima è in pace\" meaning \"My soul is at peace\"?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which writer reportedly said his last words: \"Now I shall go to sleep\"?"
+    },
+    {
+      "question_id": 11,
+      "question": "Who famously said \"Drink to me only with thine eyes\" as quoted at death in cultural retellings?"
+    },
+    {
+      "question_id": 12,
+      "question": "Who said \"It is the end of an era\" as last words in some modern retellings about 20th-century figures?"
+    },
+    {
+      "question_id": 13,
+      "question": "Who allegedly said \"Go on, get out — last words are for fools who haven't said enough\"?"
+    },
+    {
+      "question_id": 14,
+      "question": "Whose reported dying words were \"I have tried so hard to do right\"?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which explorer's last words included a practical instruction: \"Get my journals and publish them\"?"
+    }
+  ]
+}

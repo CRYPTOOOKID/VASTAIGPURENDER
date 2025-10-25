@@ -1,0 +1,64 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "What term describes expressing a part of a whole by units out of one hundred?"
+    },
+    {
+      "question_id": 2,
+      "question": "Which computational technique estimates sampling variability by repeatedly resampling observed data with replacement?"
+    },
+    {
+      "question_id": 3,
+      "question": "Which model selection criterion imposes a larger penalty for parameter count than AIC and often favors simpler models with large samples?"
+    },
+    {
+      "question_id": 4,
+      "question": "In printed documents and calculators, which character typically denotes percentage values?"
+    },
+    {
+      "question_id": 5,
+      "question": "Which conventional significance threshold did Ronald Fisher propose as a practical cutoff for many tests?"
+    },
+    {
+      "question_id": 6,
+      "question": "Which estimation principle finds parameter values that maximize the likelihood of the observed sample data under a model?"
+    },
+    {
+      "question_id": 7,
+      "question": "Which central measure is computed by summing all observed values and dividing by the total count of observations?"
+    },
+    {
+      "question_id": 8,
+      "question": "Which curve plots cumulative share of a variable such as income against cumulative population proportion for inequality analysis?"
+    },
+    {
+      "question_id": 9,
+      "question": "Which method reduces dimensionality by projecting original variables onto orthogonal directions that maximize variance explained?"
+    },
+    {
+      "question_id": 10,
+      "question": "Which chart type combines bars with a cumulative percentage line and helps prioritize quality issues in work?"
+    },
+    {
+      "question_id": 11,
+      "question": "Which measure represents the average squared deviation of observations from their arithmetic mean in a dataset?"
+    },
+    {
+      "question_id": 12,
+      "question": "Which discrete probability distribution commonly models counts of rare independent events occurring in a fixed interval?"
+    },
+    {
+      "question_id": 13,
+      "question": "Which simple visual summarizes a five-number summary: minimum, first quartile, median, third quartile, maximum?"
+    },
+    {
+      "question_id": 14,
+      "question": "Which common data transformation applies a logarithm to right-skewed positive data to stabilize variance?"
+    },
+    {
+      "question_id": 15,
+      "question": "Which diagnostic measure identifies observations that exert large influence on regression estimates if removed from the dataset?"
+    }
+  ]
+}

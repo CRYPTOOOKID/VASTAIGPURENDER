@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which collaborative communication product Google launched in 2009 then discontinued soon after?",
+      "options": [
+        "Google Wave",
+        "Google Buzz",
+        "Google Talk"
+      ],
+      "answer": "Google Wave"
+    },
+    {
+      "question_id": 2,
+      "question": "Which streaming startup built around short episodes failed despite celebrity partnerships in 2020?",
+      "options": [
+        "Quibi",
+        "Vewd",
+        "Tubi"
+      ],
+      "answer": "Quibi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which gaming console failed after Sega's rushed transition from 32-bit to 64-bit architecture and weak software support?",
+      "options": [
+        "Saturn",
+        "Dreamcast",
+        "Saturn"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "question_id": 4,
+      "question": "Which automobile company became infamous in the early 1980s and produced an iconic stainless-steel sports car?",
+      "options": [
+        "DeLorean",
+        "AMC",
+        "Triumph"
+      ],
+      "answer": "DeLorean"
+    },
+    {
+      "question_id": 5,
+      "question": "In which year did Theranos cease its consumer testing operations amid controversy?",
+      "options": [
+        "2016",
+        "2012",
+        "2018"
+      ],
+      "answer": "2016"
+    },
+    {
+      "question_id": 6,
+      "question": "Which year did Lehman Brothers file for bankruptcy, triggering global financial upheaval?",
+      "options": [
+        "2008",
+        "2006",
+        "2010"
+      ],
+      "answer": "2008"
+    },
+    {
+      "question_id": 7,
+      "question": "Which bitcoin exchange collapsed in 2014 after losing customer funds?",
+      "options": [
+        "Mt. Gox",
+        "Bitstamp",
+        "Coinbase"
+      ],
+      "answer": "Mt. Gox"
+    },
+    {
+      "question_id": 8,
+      "question": "Which Ford vehicle launched in 1957 is one of the most famous commercial automotive failures?",
+      "options": [
+        "Edsel",
+        "Mustang",
+        "Galaxie"
+      ],
+      "answer": "Edsel"
+    },
+    {
+      "question_id": 9,
+      "question": "Which online grocery company declared bankruptcy in 2001 after building expensive regional distribution centers?",
+      "options": [
+        "Webvan",
+        "Peapod",
+        "HomeGrocer"
+      ],
+      "answer": "Webvan"
+    },
+    {
+      "question_id": 10,
+      "question": "Which instant camera company declared bankruptcy in 2001 before later restructuring its brand?",
+      "options": [
+        "Polaroid",
+        "Instax",
+        "Kodak"
+      ],
+      "answer": "Polaroid"
+    },
+    {
+      "question_id": 11,
+      "question": "Which major energy firm's collapse in 2001 led to the dissolution of accounting firm Arthur Andersen?",
+      "options": [
+        "Enron",
+        "WorldCom",
+        "Parmalat"
+      ],
+      "answer": "Enron"
+    },
+    {
+      "question_id": 12,
+      "question": "Which startup folded after heavy funding when teardown analysis revealed its hardware added little value to packaged ingredients?",
+      "options": [
+        "Juicero",
+        "SousVide Supreme",
+        "Anova Culinary"
+      ],
+      "answer": "Juicero"
+    },
+    {
+      "question_id": 13,
+      "question": "Which energy company collapsed in 2001 after one of the largest accounting scandals in U.S. history?",
+      "options": [
+        "Enron",
+        "WorldCom",
+        "Tyco"
+      ],
+      "answer": "Enron"
+    },
+    {
+      "question_id": 14,
+      "question": "Which online delivery startup promised deliveries under an hour but failed after overspending and low revenue?",
+      "options": [
+        "Kozmo",
+        "Gorillas",
+        "Instacart"
+      ],
+      "answer": "Kozmo"
+    },
+    {
+      "question_id": 15,
+      "question": "Which product's proprietary pads were shown to be usable by hand, undermining its $400 press value proposition?",
+      "options": [
+        "Juicero",
+        "Keurig K-Cup",
+        "Nespresso"
+      ],
+      "answer": "Juicero"
+    }
+  ]
+}

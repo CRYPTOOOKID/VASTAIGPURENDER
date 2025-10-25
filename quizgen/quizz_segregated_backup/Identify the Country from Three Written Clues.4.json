@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Clues: Serengeti, Mount Kilimanjaro, Swahili language — Which country?",
+      "options": [
+        "Tanzania",
+        "Kenya",
+        "Uganda"
+      ],
+      "answer": "Tanzania"
+    },
+    {
+      "question_id": 2,
+      "question": "Clues: Gaelic language, Loch Ness, Edinburgh Castle — Which country?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "answer": "Scotland"
+    },
+    {
+      "question_id": 3,
+      "question": "Clues: Rohingya crisis attention, Yangon former capital, Irrawaddy Delta — Which country?",
+      "options": [
+        "Thailand",
+        "Myanmar",
+        "Bangladesh"
+      ],
+      "answer": "Myanmar"
+    },
+    {
+      "question_id": 4,
+      "question": "Clues: Maple leaf, Toronto, Niagara Falls — Which country?",
+      "options": [
+        "United States",
+        "Canada",
+        "Australia"
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 5,
+      "question": "Clues: Basque Country, Guggenheim Museum, Bilbao — Which country?",
+      "options": [
+        "Spain",
+        "France",
+        "Portugal"
+      ],
+      "answer": "Spain"
+    },
+    {
+      "question_id": 6,
+      "question": "Clues: Lake Titicaca, Aymara culture, high-altitude capital La Paz — Which country?",
+      "options": [
+        "Peru",
+        "Bolivia",
+        "Ecuador"
+      ],
+      "answer": "Bolivia"
+    },
+    {
+      "question_id": 7,
+      "question": "Clues: Ha Long Bay, Hanoi, pho — Which country?",
+      "options": [
+        "Thailand",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "answer": "Vietnam"
+    },
+    {
+      "question_id": 8,
+      "question": "Clues: Suez Canal, Alexandria library history, Sinai Peninsula — Which country?",
+      "options": [
+        "Egypt",
+        "Israel",
+        "Jordan"
+      ],
+      "answer": "Egypt"
+    },
+    {
+      "question_id": 9,
+      "question": "Clues: Sahel nation, Timbuktu manuscripts, Niger River loop — Which country?",
+      "options": [
+        "Mali",
+        "Niger",
+        "Chad"
+      ],
+      "answer": "Mali"
+    },
+    {
+      "question_id": 10,
+      "question": "Clues: Big Ben, London, red double-decker buses — Which country?",
+      "options": [
+        "United Kingdom",
+        "Ireland",
+        "Netherlands"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question_id": 11,
+      "question": "Clues: Bollywood headquarters, Bollywood films, Hindi film industry center — Which country?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 12,
+      "question": "Clues: Quechua language prevalence, Nazca Lines, Cusco Inca history — Which country?",
+      "options": [
+        "Peru",
+        "Ecuador",
+        "Bolivia"
+      ],
+      "answer": "Peru"
+    },
+    {
+      "question_id": 13,
+      "question": "Clues: Rolex watches, Alps, Geneva — Which country?",
+      "options": [
+        "Austria",
+        "Switzerland",
+        "Germany"
+      ],
+      "answer": "Switzerland"
+    },
+    {
+      "question_id": 14,
+      "question": "Clues: Chocolate brand Nestlé origin, Geneva diplomacy, neutrality — Which country?",
+      "options": [
+        "Belgium",
+        "Switzerland",
+        "Austria"
+      ],
+      "answer": "Switzerland"
+    },
+    {
+      "question_id": 15,
+      "question": "Clues: Haka war dance origin, Waitangi Treaty, Wellington capital — Which country?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Fiji"
+      ],
+      "answer": "New Zealand"
+    }
+  ]
+}

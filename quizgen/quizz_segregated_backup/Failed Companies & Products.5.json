@@ -1,0 +1,154 @@
+{
+  "quiz": [
+    {
+      "question_id": 1,
+      "question": "Which expensive home juicer required proprietary packets and shut down in 2017?",
+      "options": [
+        "Juicero",
+        "Nutribullet Pro",
+        "Blendtec Stealth"
+      ],
+      "answer": "Juicero"
+    },
+    {
+      "question_id": 2,
+      "question": "Which retailer once known for electronics closed stores after being unable to compete with online retailers?",
+      "options": [
+        "Circuit City",
+        "Best Buy",
+        "RadioShack"
+      ],
+      "answer": "Circuit City"
+    },
+    {
+      "question_id": 3,
+      "question": "Which instant camera brand's founder, Edwin H. Land, saw the company struggle against digital disruption late in its history?",
+      "options": [
+        "Polaroid",
+        "Kodak",
+        "Agfa"
+      ],
+      "answer": "Polaroid"
+    },
+    {
+      "question_id": 4,
+      "question": "Which hybrid gaming-phone released in 2003 failed due to awkward design and low sales?",
+      "options": [
+        "Nokia N-Gage",
+        "Sony Ericsson Xperia Play",
+        "Motorola RAZR V3"
+      ],
+      "answer": "Nokia N-Gage"
+    },
+    {
+      "question_id": 5,
+      "question": "Which smartphone maker released the N-Gage then later abandoned the hybrid gaming-phone concept?",
+      "options": [
+        "Nokia",
+        "Sony",
+        "Motorola"
+      ],
+      "answer": "Nokia"
+    },
+    {
+      "question_id": 6,
+      "question": "Which company acquired Rdio's assets after Rdio filed for bankruptcy in 2015?",
+      "options": [
+        "Pandora",
+        "Spotify",
+        "Apple"
+      ],
+      "answer": "Pandora"
+    },
+    {
+      "question_id": 7,
+      "question": "Which modular smartphone project led by Google was canceled before mass production?",
+      "options": [
+        "Project Ara",
+        "Project Tango",
+        "Project Vault"
+      ],
+      "answer": "Project Ara"
+    },
+    {
+      "question_id": 8,
+      "question": "Which streaming device attempt by Amazon launched in 2014 and was discontinued after poor sales?",
+      "options": [
+        "Fire Phone",
+        "Kindle Fire",
+        "Fire TV Stick"
+      ],
+      "answer": "Fire Phone"
+    },
+    {
+      "question_id": 9,
+      "question": "Which consumer device's Explorer Edition launched as a $1,500 prototype targeting developers and early adopters?",
+      "options": [
+        "Google Glass",
+        "Oculus Rift DK1",
+        "Microsoft HoloLens Dev Kit"
+      ],
+      "answer": "Google Glass"
+    },
+    {
+      "question_id": 10,
+      "question": "Which rapid-delivery startup promised one-hour service and collapsed during the dot-com bust?",
+      "options": [
+        "Kozmo",
+        "Shipt",
+        "DoorDash"
+      ],
+      "answer": "Kozmo"
+    },
+    {
+      "question_id": 11,
+      "question": "Which MP3 subscription service was an early competitor to Spotify but struggled financially?",
+      "options": [
+        "Rhapsody",
+        "Rdio",
+        "Napster To Go"
+      ],
+      "answer": "Rdio"
+    },
+    {
+      "question_id": 12,
+      "question": "Which mobile phone's design forced users to hold it sideways to talk, harming its consumer appeal?",
+      "options": [
+        "Nokia N-Gage",
+        "Motorola A1000",
+        "Sony Mylo"
+      ],
+      "answer": "Nokia N-Gage"
+    },
+    {
+      "question_id": 13,
+      "question": "Which short-form streaming startup raised large funding then folded within months in 2020?",
+      "options": [
+        "Quibi",
+        "Vine 2.0",
+        "Beme"
+      ],
+      "answer": "Quibi"
+    },
+    {
+      "question_id": 14,
+      "question": "Which smartphone introduced in 2007 most directly accelerated BlackBerry's market decline?",
+      "options": [
+        "iPhone",
+        "G1",
+        "Pre"
+      ],
+      "answer": "iPhone"
+    },
+    {
+      "question_id": 15,
+      "question": "Which retail chain's collapse highlighted failure to adapt to e-commerce and declining foot traffic in the 2000s?",
+      "options": [
+        "Circuit City",
+        "Borders",
+        "Sears"
+      ],
+      "answer": "Circuit City"
+    }
+  ]
+}
