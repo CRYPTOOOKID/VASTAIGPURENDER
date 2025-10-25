@@ -12,8 +12,8 @@ export const Template2: React.FC<QuizVideoProps> = ({ quizData, audioFolder }) =
 
   return (
     <AbsoluteFill style={{ backgroundColor: '#000' }}>
-      {/* Intro Video */}
-      <Sequence from={currentFrame} durationInFrames={FRAMES.INTRO}>
+      {/* Intro Video - Temporarily disabled for Vast.ai compatibility */}
+      {/* <Sequence from={currentFrame} durationInFrames={FRAMES.INTRO}>
         <AbsoluteFill>
           <RemotionVideo 
             src={staticFile('intro.mp4')} 
@@ -22,7 +22,7 @@ export const Template2: React.FC<QuizVideoProps> = ({ quizData, audioFolder }) =
             delayRenderRetries={1}
           />
         </AbsoluteFill>
-      </Sequence>
+      </Sequence> */}
 
       {/* Questions Loop */}
       {questions.map((question, index) => {
@@ -60,8 +60,8 @@ export const Template2: React.FC<QuizVideoProps> = ({ quizData, audioFolder }) =
         );
       })}
 
-      {/* Outro Video */}
-      <Sequence
+      {/* Outro Video - Temporarily disabled for Vast.ai compatibility */}
+      {/* <Sequence
         from={FRAMES.INTRO + (questions.length * TOTAL_QUESTION_DURATION)}
         durationInFrames={FRAMES.OUTRO}
       >
@@ -73,7 +73,7 @@ export const Template2: React.FC<QuizVideoProps> = ({ quizData, audioFolder }) =
             delayRenderRetries={1}
           />
         </AbsoluteFill>
-      </Sequence>
+      </Sequence> */}
     </AbsoluteFill>
   );
 };
