@@ -211,9 +211,18 @@ const renderQuiz = async (quizInfo: QuizFileInfo): Promise<boolean> => {
     // Execute Remotion render
     // Note: NOT using shell:true to properly handle spaces in paths
     return new Promise((resolve) => {
+      // Force GPU usage via environment variables
+      const env = {
+        ...process.env,
+        DISPLAY: process.env.DISPLAY || ':99',
+        CHROMIUM_FLAGS: gpuFlags.join(' '),
+        PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'false',
+      };
+      
       const remotionProcess = spawn('npx', args, {
         cwd: VIDEOGEN_DIR,
         stdio: 'inherit',
+        env: env,
       });
 
       remotionProcess.on('close', (code) => {
