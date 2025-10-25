@@ -176,6 +176,9 @@ const renderQuiz = async (quizInfo: QuizFileInfo): Promise<boolean> => {
       '--disable-software-rasterizer',
       '--disable-dev-shm-usage',
       '--no-sandbox',
+      '--autoplay-policy=no-user-gesture-required',
+      '--disable-features=AudioServiceOutOfProcess',
+      '--disable-audio-output',
     ];
 
     const args = [
