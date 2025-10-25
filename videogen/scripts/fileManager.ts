@@ -1,12 +1,14 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-const PROJECT_ROOT = '/Users/srinadhchitrakavi/Desktop/Projects /Quiz Channel 2.0';
-const QUIZ_JSONS_DIR = path.join(PROJECT_ROOT, 'videogen/quiz jsons');
+// Get project root dynamically - works on any machine
+const VIDEOGEN_DIR = path.resolve(__dirname, '..');
+const PROJECT_ROOT = path.resolve(VIDEOGEN_DIR, '..');
+const QUIZ_JSONS_DIR = path.join(VIDEOGEN_DIR, 'quiz jsons');
 const AUDIO_DIR = path.join(PROJECT_ROOT, 'audiogen/output audios');
-const OUTPUT_DIR = path.join(PROJECT_ROOT, 'videogen/output/videos');
-const PROGRESS_FILE = path.join(PROJECT_ROOT, 'videogen/output/progress.json');
-const PUBLIC_AUDIO_DIR = path.join(PROJECT_ROOT, 'videogen/public/question_audios');
+const OUTPUT_DIR = path.join(VIDEOGEN_DIR, 'output/videos');
+const PROGRESS_FILE = path.join(VIDEOGEN_DIR, 'output/progress.json');
+const PUBLIC_AUDIO_DIR = path.join(VIDEOGEN_DIR, 'public/question_audios');
 
 export interface QuizFileInfo {
   fileName: string;

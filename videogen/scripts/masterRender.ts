@@ -16,8 +16,9 @@ import {
 import { getSeededRandomTemplate, getRandomTemplate } from '../src/templates/templateRegistry';
 import { calculateTotalDuration, FRAMES } from '../src/config/timing';
 
-const PROJECT_ROOT = '/Users/srinadhchitrakavi/Desktop/Projects /Quiz Channel 2.0';
-const VIDEOGEN_DIR = path.join(PROJECT_ROOT, 'videogen');
+// Get project root dynamically - works on any machine
+const VIDEOGEN_DIR = path.resolve(__dirname, '..');
+const PROJECT_ROOT = path.resolve(VIDEOGEN_DIR, '..');
 
 // Create readline interface for user input
 const rl = readline.createInterface({
