@@ -30,7 +30,7 @@ Before running the quiz generator, verify these items:
    ```
    With:
    ```
-   OPENAI_API_KEY=sk-your-actual-key-here
+   OPENAI_API_KEY=your-openai-api-key-here
    ```
 3. Save the file
 

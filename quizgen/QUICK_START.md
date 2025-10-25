@@ -6,7 +6,7 @@
 1. Open the file: `quizgen/.env`
 2. Replace the empty line with your OpenAI API key:
    ```
-   OPENAI_API_KEY=sk-your-actual-api-key-here
+   OPENAI_API_KEY=your-openai-api-key-here
    ```
 3. Save the file
 

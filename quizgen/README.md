@@ -36,7 +36,7 @@ quizgen/
 3. Add your API key:
 
 ```env
-OPENAI_API_KEY=sk-your-api-key-here
+OPENAI_API_KEY=your-openai-api-key-here
 ```
 
 **Important:** Never commit the `.env` file with your actual API key!
