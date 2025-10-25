@@ -83,10 +83,15 @@ export const getProgress = (): Progress => {
   }
 
   try {
-    const content = fs.readFileSync(PROGRESS_FILE, 'utf-8');
+    const content = fs.readFileSync(PROGRESS_FILE, 'utf-8').trim();
+    if (!content) {
+      return {};
+    }
     return JSON.parse(content);
   } catch (error) {
-    console.error('Error reading progress file:', error);
+    console.error('Error reading progress file, resetting:', error.message);
+    // Reset corrupted file
+    saveProgress({});
     return {};
   }
 };
