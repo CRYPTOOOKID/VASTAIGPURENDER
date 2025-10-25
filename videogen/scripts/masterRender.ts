@@ -320,14 +320,14 @@ const renderAll = async (): Promise<void> => {
   }
 
   // Parallel rendering configuration
-  const PARALLEL_RENDERS = 2;  // Number of videos to render simultaneously
-  const CONCURRENCY_PER_RENDER = '50%';  // CPU cores per video (50% × 2 = 100% total)
+  const PARALLEL_RENDERS = 1;  // Number of videos to render simultaneously (reduced for Vast.ai)
+  const CONCURRENCY_PER_RENDER = '8';  // CPU cores per video (conservative to avoid EAGAIN)
 
   // Set environment variable for concurrency
   process.env.RENDER_CONCURRENCY = CONCURRENCY_PER_RENDER;
 
-  console.log(`\n⚡ Parallel rendering enabled: ${PARALLEL_RENDERS} videos at a time`);
-  console.log(`🔧 CPU allocation: ${CONCURRENCY_PER_RENDER} per video\n`);
+  console.log(`\n⚡ Sequential rendering: ${PARALLEL_RENDERS} video at a time`);
+  console.log(`🔧 CPU allocation: ${CONCURRENCY_PER_RENDER} threads per video\n`);
 
   let successCount = 0;
   let failCount = 0;
