@@ -162,7 +162,7 @@ const renderQuiz = async (quizInfo: QuizFileInfo): Promise<boolean> => {
 
     // Build Remotion render command with HD quality settings
     // When running parallel renders, concurrency is adjusted automatically
-    const concurrency = process.env.RENDER_CONCURRENCY || '50%';
+    const concurrency = process.env.RENDER_CONCURRENCY || '4';
 
     // GPU acceleration flags for Vast.ai instance
     const gpuFlags = [
@@ -201,6 +201,8 @@ const renderQuiz = async (quizInfo: QuizFileInfo): Promise<boolean> => {
       '--overwrite',  // Overwrite existing files
       '--gl',
       'angle',  // Use ANGLE for GPU acceleration
+      '--timeout',
+      '120000',  // 2 minute timeout for video loading
       ...gpuFlags.map(flag => `--chromium-flags="${flag}"`),  // Pass GPU flags to Chromium
     ];
 
