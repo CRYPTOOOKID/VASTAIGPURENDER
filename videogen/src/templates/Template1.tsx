@@ -15,7 +15,7 @@ export const Template1: React.FC<QuizVideoProps> = ({ quizData, audioFolder }) =
       {/* Intro Video */}
       <Sequence from={currentFrame} durationInFrames={FRAMES.INTRO}>
         <AbsoluteFill>
-          <RemotionVideo src={staticFile('intro.mp4')} />
+          <RemotionVideo src={staticFile('intro.mp4')} onError={() => {}} />
         </AbsoluteFill>
       </Sequence>
 
@@ -61,7 +61,7 @@ export const Template1: React.FC<QuizVideoProps> = ({ quizData, audioFolder }) =
         durationInFrames={FRAMES.OUTRO}
       >
         <AbsoluteFill>
-          <RemotionVideo src={staticFile('outro.mp4')} />
+          <RemotionVideo src={staticFile('outro.mp4')} onError={() => {}} />
         </AbsoluteFill>
       </Sequence>
     </AbsoluteFill>
